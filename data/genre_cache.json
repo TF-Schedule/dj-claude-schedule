@@ -9,6 +9,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Auringon Lapset|Etäpäivä": {
+"album": "Hittibiisien Kaatopaikka - EP",
+"film_hint": "",
+"genre": "Pop"
+},
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
@@ -19,10 +24,20 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Marisa Monte|Beija Eu": {
+"album": "Barulhinho Bom",
+"film_hint": "",
+"genre": "MPB"
+},
 "Mark Knopfler|The Long Road": {
 "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
 "film_hint": "",
 "genre": "Rock"
+},
+"Otis Redding|(Sittin' On) the Dock of the Bay": {
+"album": "The Very Best of Otis Redding",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Peter Broderick|A Little Lost": {
 "album": "Peter Broderick & Friends Play Arthur Russell",
@@ -39,9 +54,34 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Phosphorescent|Song for Zula": {
+"album": "Muchacho de Lujo (Deluxe Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Sergio Mendes|Berimbau/Consolacao (Album Version)": {
 "album": "Timeless",
 "film_hint": "",
 "genre": "Brazilian"
+},
+"Tangerine Dream|Love On A Real Train": {
+"album": "Hyperborea",
+"film_hint": "",
+"genre": "Original Score"
+},
+"Tangerine Dream|Stratosfear (Digital Remastered)": {
+"album": "The Virgin Years 1974-1978 (Remastered)",
+"film_hint": "",
+"genre": "Electronic"
+},
+"The Korgis|Everybody's Got To Learn Sometime": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Zeynep Bastık|Her Yerde Sen (Akustik)": {
+"album": "Akustikler - EP",
+"film_hint": "",
+"genre": "Turkish Pop"
 }
 }
