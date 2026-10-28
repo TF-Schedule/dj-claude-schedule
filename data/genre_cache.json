@@ -9,6 +9,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Aerosmith|Dream On": {
+"album": "Aerosmith",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Al Green|Let's Stay Together": {
 "album": "Let's Stay Together",
 "film_hint": "",
@@ -23,6 +28,11 @@
 "album": "Your World and My World",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Alfa Mist|Organic Rust": {
+"album": "Bring Backs",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
@@ -43,6 +53,11 @@
 "album": "Fados de Amor e Pecado",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Andrés Calamaro|Flaca": {
+"album": "Alta Suciedad",
+"film_hint": "",
+"genre": "Rock y Alternativo"
 },
 "Angèle Dubeau|The Mission – Buona Fortuna Jack (Live)": {
 "album": "Ovation",
@@ -214,6 +229,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Carole King|So Far Away": {
+"album": "Tapestry",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Cesária Evora|Sodade": {
 "album": "Anthologie / Mornas & Coladeras",
 "film_hint": "",
@@ -264,6 +284,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Colin Currie|Music for 18 Musicians - Pulses": {
+"album": "Steve Reich: Music for 18 Musicians",
+"film_hint": "",
+"genre": "Classical"
+},
 "Cornelius|New Music Machine (Buffalo Daughter Remix)": {
 "album": "FM - Fantasma - Remixes",
 "film_hint": "",
@@ -294,6 +319,11 @@
 "film_hint": "",
 "genre": "Vocal"
 },
+"Def Leppard|Photograph": {
+"album": "Pyromania",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Dennis Edwards|Don't Look Any Further (Single Version)": {
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
@@ -303,6 +333,11 @@
 "album": "Black Rock",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Don McLean|Vincent": {
+"album": "American Pie",
+"film_hint": "",
+"genre": "Rock"
 },
 "Donna De Lory|Praying For Love": {
 "album": "The Unchanging",
@@ -318,6 +353,11 @@
 "album": "Notorious - EP",
 "film_hint": "",
 "genre": "Pop"
+},
+"Durand Jones & The Indications|Witchoo": {
+"album": "Private Space",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
@@ -339,10 +379,20 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Ednaswap|Torn": {
+"album": "Wacko Magneto",
+"film_hint": "",
+"genre": "Rock"
+},
 "Ella Fitzgerald|Bewitched, Bothered And Bewildered": {
 "album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Eluvium|Surrounded by Illusion": {
+"album": "Don't Look Now: Aural Apparitions from the Geographic North",
+"film_hint": "",
+"genre": "IDM/Experimental"
 },
 "Emancipator|Soon It Will Be Cold Enough to Build Fires": {
 "album": "Soon It Will Be Cold Enough",
@@ -359,6 +409,11 @@
 "film_hint": "The Good, The Bad & The Ugly (Expanded Edition) [Original Motion Picture Soundtrack]",
 "genre": "Original Score"
 },
+"Enya|Caribbean Blue (2009 Remaster) (Remastered 2009)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Erykah Badu|Bag Lady (Album Version)": {
 "album": "Motown: The Complete No. 1's",
 "film_hint": "",
@@ -369,10 +424,20 @@
 "film_hint": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
 "genre": "Soundtrack"
 },
+"Fall Out Boy|Uma Thurman": {
+"album": "American Beauty / American Psycho",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Federico Aubele|Postales": {
 "album": "Gran Hotel Buenos Aires",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Fela Kuti|Water No Get Enemy": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Ferrante & Teicher|Exodus": {
 "album": "All Time Great Movie Themes",
@@ -386,6 +451,11 @@
 },
 "Fleetwood Mac|Albatross": {
 "album": "The Pious Bird of Good Omen",
+"film_hint": "",
+"genre": "Rock"
+},
+"Foo Fighters|Everlong": {
+"album": "The Colour And The Shape",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -409,6 +479,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Franko Mladen|Jamboree  (Remastered)": {
+"album": "Just Beautiful - Mladen Franko (2024 Remastered Version)",
+"film_hint": "",
+"genre": "Easy Listening"
+},
 "Fraunhofer Diffraction|Kvrt in Space": {
 "album": "Scattering",
 "film_hint": "",
@@ -428,6 +503,16 @@
 "album": "Unreal Album",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"Garbage|Only Happy When It Rains": {
+"album": "Garbage (20th Anniversary Edition) [2015 Remaster]",
+"film_hint": "",
+"genre": "Rock"
+},
+"Gary Jules|Mad World": {
+"album": "Mad World - Single",
+"film_hint": "",
+"genre": "Rock"
 },
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
@@ -539,6 +624,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Hania Rani|Eden": {
+"album": "Esja",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "Hania Rani|Glass": {
 "album": "Esja",
 "film_hint": "",
@@ -598,6 +688,11 @@
 "album": "The Best of INXS",
 "film_hint": "",
 "genre": "Rock"
+},
+"Igor Levit|Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\" - I. Adagio sostenuto": {
+"album": "Beethoven: Complete Piano Sonatas",
+"film_hint": "",
+"genre": "Classical"
 },
 "Iration|Fly with Me": {
 "album": "Iration",
@@ -659,6 +754,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Joe Cocker|With A Little Help From My Friends": {
+"album": "With a Little Help from My Friends",
+"film_hint": "",
+"genre": "Rock"
+},
 "John Mayer|New Light": {
 "album": "Sob Rock",
 "film_hint": "",
@@ -688,6 +788,11 @@
 "album": "Live At Umbria Jazz",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Judy Collins|Bread and Roses": {
+"album": "Bread and Roses",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "Julian Lage|Emily": {
 "album": "Squint",
@@ -729,10 +834,20 @@
 "film_hint": "",
 "genre": "Delta Blues"
 },
+"Kim Carnes|More Love": {
+"album": "Romance Dance",
+"film_hint": "",
+"genre": "Pop"
+},
 "King Crimson|21st Century Schizoid Man (Including 'Mirrors')": {
 "album": "In the Court of the Crimson King (Expanded Edition)",
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
+},
+"Kings Of Convenience|Rocky Trail": {
+"album": "Peace Or Love",
+"film_hint": "",
+"genre": "Pop"
 },
 "La Rappresentante di Lista|Ciao Ciao": {
 "album": "Ciao Ciao - Single",
@@ -741,6 +856,11 @@
 },
 "Lady Gaga|Just Dance": {
 "album": "The Fame",
+"film_hint": "",
+"genre": "Pop"
+},
+"Laith Al-Deen|Dein Lied": {
+"album": "Melomanie",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -754,8 +874,18 @@
 "film_hint": "The Great Gatsby (Music From Baz Luhrmann's Film)",
 "genre": "Soundtrack"
 },
+"Laufey|Madwoman": {
+"album": "A Matter of Time: The Final Hour",
+"film_hint": "",
+"genre": "Pop"
+},
 "Led Zeppelin|Going to California  (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Led Zeppelin|Over the Hills and Far Away  (Remaster)": {
+"album": "Houses of the Holy (Remastered)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -771,6 +901,26 @@
 },
 "Lianne La Havas|Sour Flower": {
 "album": "Lianne La Havas",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Limp Bizkit|Rollin' (Air Raid Vehicle)": {
+"album": "Chocolate Starfish and the Hot Dog Flavored Water",
+"film_hint": "",
+"genre": "Hard Rock"
+},
+"Lindsey Buckingham|Trouble": {
+"album": "Law and Order",
+"film_hint": "",
+"genre": "Rock"
+},
+"Linkin Park|In the End": {
+"album": "Hybrid Theory (Deluxe Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Lionel Richie|You Are": {
+"album": "Lionel Richie (Expanded Edition)",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -828,6 +978,11 @@
 "album": "Life In Cartoon Motion",
 "film_hint": "",
 "genre": "Pop"
+},
+"Mac DeMarco|Chamber Of Reflection": {
+"album": "Salad Days",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Mac DeMarco|My Kind of Woman": {
 "album": "2",
@@ -949,6 +1104,11 @@
 "film_hint": "Zorba The Greek - Original Soundtrack",
 "genre": "Pop"
 },
+"Milt Jackson|Bag's New Groove": {
+"album": "Bags & Flutes",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Milton Nascimento|Bridges (Travessia)": {
 "album": "Courage",
 "film_hint": "",
@@ -1049,6 +1209,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Nusrat Fateh Ali Khan|Longing": {
+"album": "Night Song (Real World Gold)",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "OneRepublic|I Lived": {
 "album": "Native (Deluxe)",
 "film_hint": "",
@@ -1088,6 +1253,11 @@
 "album": "Patsy Cline's Greatest Hits",
 "film_hint": "",
 "genre": "Country"
+},
+"Patti LaBelle|If Only You Knew": {
+"album": "Patti LaBelle: Greatest Hits",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Patti LaBelle|On My Own": {
 "album": "Patti LaBelle: Greatest Hits",
@@ -1169,6 +1339,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Rammstein|Deutschland": {
+"album": "Rammstein",
+"film_hint": "",
+"genre": "Rock"
+},
 "Randy Crawford|One Day I'll Fly Away": {
 "album": "Now We May Begin",
 "film_hint": "",
@@ -1199,6 +1374,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Red Hot Chili Peppers|Higher Ground (2014 Remaster)": {
+"album": "Stadium Arcadium",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
 "album": "First Take (Deluxe Edition)",
 "film_hint": "",
@@ -1218,6 +1398,11 @@
 "album": "Alba Nera",
 "film_hint": "",
 "genre": "Guitar"
+},
+"Russian State Symphony Orchestra|Jazz Suite No. 2 - VI. Waltz 2": {
+"album": "The Very Best of Shostakovich",
+"film_hint": "",
+"genre": "Classical"
 },
 "SHINee|Married To The Music": {
 "album": "Married To the Music - The 4th Album Repackage",
@@ -1253,6 +1438,11 @@
 "album": "Bad for Good: The Very Best of Scorpions",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Sepultura|Roots Bloody Roots  (2017 Remaster)": {
+"album": "Live in São Paulo (2022 Remaster)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Sergio Mendes|Berimbau/Consolacao (Album Version)": {
 "album": "Timeless",
@@ -1294,6 +1484,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Siouxsie & The Banshees|Cities In Dust (Single Version)": {
+"album": "The Best Of...",
+"film_hint": "",
+"genre": "Rock"
+},
 "Sister Sledge|Lost in Music (1995 Remaster) (LP Version)": {
 "album": "",
 "film_hint": "",
@@ -1303,6 +1498,11 @@
 "album": "Souvlaki",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Slowdive|Erik's Song (Album Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Soft Cell|Tainted Love": {
 "album": "Tainted Love / Where Did Our Love Go - Single",
@@ -1363,6 +1563,11 @@
 "album": "Illinois",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Summon The Wolf|Ghost Story": {
+"album": "Ghost Story - Single",
+"film_hint": "",
+"genre": "Rock"
 },
 "Sun Ra|Images": {
 "album": "Space Is the Place",
@@ -1549,6 +1754,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Tori Amos|A Sorta Fairytale (2023 Remaster)": {
+"album": "Scarlet's Walk (2023 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tracy Chapman|Fast Car  (2015 Remaster)": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -1619,10 +1829,25 @@
 "film_hint": "",
 "genre": "Afrobeats"
 },
+"Wolf Alice|Don't Delete The Kisses": {
+"album": "Visions of a Life",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Wonder Girls|Rewind": {
 "album": "REBOOT",
 "film_hint": "",
 "genre": "K-Pop"
+},
+"YEBBA|Louie Bag  (Live at Electric Lady)": {
+"album": "Live at Electric Lady - EP",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Yazoo|Only You (Remastered 2008)": {
+"album": "Alison Moyet the Best of: 25 Years Revisited (Remastered)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Yes|Mood for a Day  (2008 Remaster)": {
 "album": "Fragile (Super Deluxe)",
