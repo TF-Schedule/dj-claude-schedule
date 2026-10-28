@@ -54,6 +54,7 @@
 },
 "A-Ha|Take on Me (2015 Remaster)": {
 "album": "Greatest Hits - Japanese Singles Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/6d/5d/226d5d15-e9cb-e6f2-2264-6cda2046a760/603497847761.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -277,6 +278,7 @@
 },
 "Alestorm|Drink": {
 "album": "Captain Morgan's Revenge (10th Anniversary Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/84/5d/bc845d81-0205-cee8-caa8-43867d1d789f/840588111787.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Metal"
 },
@@ -505,6 +507,7 @@
 },
 "Aphex Twin|Windowlicker": {
 "album": "Windowlicker - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/81/20/73/812073f2-c437-fd1d-636d-6be5a4432747/0801061910532.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -740,6 +743,7 @@
 },
 "Bauhaus|Ziggy Stardust": {
 "album": "The Sky's Gone Out",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/58/61/ad/5861adae-17cf-f0e0-8d4a-f0559e3ff8d5/607618004262.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -1019,6 +1023,7 @@
 },
 "Billy Joel|Honesty (Album Version)": {
 "album": "52nd Street",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d6/02/07/d60207ae-a49f-8f20-c8e6-d58e794b9ae5/dj.lzzblgca.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1394,6 +1399,7 @@
 },
 "Brian Eno|Spinning Away": {
 "album": "Wrong Way Up [Expanded Edition]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/90/dd/3590ddf7-55dd-4d63-c103-93cbf342824e/5060384618906.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -1934,6 +1940,7 @@
 },
 "Claudio Constantini|Noctilune No. 1 (Bandoneon Solo)": {
 "album": "Noctilune No. 1 (Bandoneon Solo) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/04/f8/4504f816-598d-b764-863a-98970ad74e27/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "New Age"
 },
@@ -2190,9 +2197,10 @@
 "genre": "Dance"
 },
 "Daft Punk|Touch It / Technologic": {
-"album": "",
+"album": "Human After All",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/03/13/4e03130f-918e-cbd2-e99f-26ed67480411/724386091956.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "House"
 },
 "Daft Punk|Voyager": {
 "album": "Discovery",
@@ -2229,6 +2237,7 @@
 },
 "Daniel Pemberton|Amaze Amaze Amaze (Life on Erid) (from \"Project Hail Mary\")": {
 "album": "Project Hail Mary (Original Motion Picture Score)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/e1/19/05e1191c-c7e3-6ff2-11b2-6141413a640e/196874103975.jpg/100x100bb.jpg",
 "film_hint": "Project Hail Mary (Original Motion Picture Score)",
 "genre": "Soundtrack"
 },
@@ -2317,6 +2326,7 @@
 },
 "David Bowie|Space Oddity": {
 "album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/ae/8b/93ae8bda-3b31-0745-221c-39e73794f31c/190295919870.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2532,6 +2542,7 @@
 },
 "Dolly Parton|9 to 5": {
 "album": "Ultimate Dolly Parton",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
@@ -2695,6 +2706,7 @@
 },
 "Dutyyaknow|Close in the Distance (FFXIV Endwalker) [Synthwave]": {
 "album": "Close in the Distance (FFXIV Endwalker) [Synthwave] - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/cf/49/3bcf4997-af35-0d67-a0b4-b0f23650f277/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Dance"
 },
@@ -2948,6 +2960,7 @@
 },
 "Erik Wøllo|Computerlove": {
 "album": "Blue Sky, Red Guitars",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m09/d15/h19/s05.ftufiucl.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "New Age"
 },
@@ -3091,6 +3104,7 @@
 },
 "Fanfare Ciocarlia|Asfalt Tango": {
 "album": "Baro Biao",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/b5/6c/bbb56c3b-5f0a-0f81-66b0-e0910273005a/4260133133884.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -3832,6 +3846,7 @@
 },
 "HYD|Freak": {
 "album": "Hold Onto Me Infinity",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/c1/16/14c11664-f3fa-5d6b-f102-9db79b70207d/63273.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3901,6 +3916,7 @@
 },
 "Hans Zimmer|Cornfield Chase": {
 "album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/5b/73/f45b735a-8d7a-9713-b217-0f8e1593c28b/794043201943.jpg/100x100bb.jpg",
 "film_hint": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
 "genre": "Soundtrack"
 },
@@ -4101,6 +4117,7 @@
 },
 "Holly Herndon|Chorus": {
 "album": "Platform",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/ed/98/eaed9899-da6b-c75d-9307-815b9cfadd21/652637350357.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4404,6 +4421,7 @@
 },
 "Jeff Buckley|Calling You (Live)": {
 "album": "Live At Sin-é (Legacy Edition) [Audio Version]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features6/v4/61/d7/90/61d7900e-10ef-6f89-3980-53d330f38adf/dj.xjlbtpmc.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4459,6 +4477,7 @@
 },
 "Jim White|Static on the Radio": {
 "album": "Twenty First Century Twenty First Year",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/1c/99/60/mzi.mbzecacu.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -4619,6 +4638,7 @@
 },
 "John Lennon|Instant Karma! (We All Shine On) (Ultimate Mix)": {
 "album": "John Lennon/Plastic Ono Band (The Ultimate Collection)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/a8/4d/67a84da8-371d-6d9d-baa1-4da0d3aa74ed/20UMGIM52432.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5226,6 +5246,7 @@
 },
 "Laibach|The Whistleblowers": {
 "album": "Spectre",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/f0/79/99f079e7-d9ba-2b3a-b5ef-2ea62dc9bf9d/724596958759.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6145,6 +6166,7 @@
 },
 "Melody Gardot|Moon River": {
 "album": "Sunset In The Blue (Deluxe Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/fc/bf/8dfcbf64-e015-cea7-a6d2-d62525c1b627/21UMGIM08725.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -6357,6 +6379,7 @@
 },
 "Ministry|Just One Fix (Album Version)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -6495,6 +6518,7 @@
 },
 "Mstislav Rostropovich|Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene \"Swan Theme\". Moderato": {
 "album": "Tchaikovsky: Ballet Suites",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/fd/26/a0fd261e-9376-694f-4fc3-d7ec50c29624/15UMGIM19779.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -6819,6 +6843,7 @@
 },
 "Nine Inch Nails|Heresy (Nine Inch Noize Version)": {
 "album": "Nine Inch Noize",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/66/1a/90661ad8-b2e7-45c5-99cd-0f43f49bf179/26UMGIM42560.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -7003,6 +7028,7 @@
 },
 "Os Mutantes|A Minha Menina": {
 "album": "Os Mutantes",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/fd/d1/d7fdd1ea-9025-6346-0834-48ed931dd62f/00602537449460.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7453,6 +7479,7 @@
 },
 "Pink Floyd|Have a Cigar": {
 "album": "Wish You Were Here",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7833,6 +7860,7 @@
 },
 "Rhapsody Of Fire|Emerald Sword (Re-Recorded)": {
 "album": "Symphony of Enchanted Lands",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/4c/63/19/mzi.nrvsmhao.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8238,6 +8266,7 @@
 },
 "Scorpions|Holiday (Remastered 2015)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -8266,6 +8295,7 @@
 },
 "Sea Power|La Revacholiere": {
 "album": "Disco Elysium",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/05/30/ce053024-6253-93a3-12a6-492e36c95cbc/5060079269147.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Video Game"
 },
@@ -8567,6 +8597,7 @@
 },
 "Soda Stereo|En La Ciudad De La Furia (MTV Unplugged)": {
 "album": "MTV Unplugged: Comfort y Música para Volar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/fe/0f/9dfe0fb6-3b64-d459-1e36-cb47bd763d18/888880502377.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
@@ -8625,6 +8656,7 @@
 },
 "Soul Coughing|Screenwriter's Blues": {
 "album": "Ruby Vroom (30th Anniversary Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/91/b8/0291b82e-fc3c-20ef-ceb4-5f7204a8e5ef/198846041483.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -8895,6 +8927,7 @@
 },
 "Suburban Kids With Biblical Names|Rent A Wreck": {
 "album": "#3",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/80/bb/7b/80bb7bfe-b87d-c6e2-c965-55d4c17816ca/mzi.lnohynai.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9163,6 +9196,7 @@
 },
 "Tame Impala|Is It True": {
 "album": "The Slow Rush",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/e3/e7/65e3e740-b69f-f5cb-f2e6-7dedb5265ac9/19UMGIM96748.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -9314,6 +9348,7 @@
 },
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/db/61/dfdb615d-47f8-06e9-9533-b96daccc029f/18UMGIM31076.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9351,6 +9386,7 @@
 },
 "The Beatles|This Boy (Remastered)": {
 "album": "Past Masters (Vols. 1 & 2 / Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/71/4f/8c714fd9-cc4e-c898-07b2-212f33d5ee6f/13UMGIM63896.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9713,6 +9749,7 @@
 },
 "The Police|Roxanne (Remastered 2003)": {
 "album": "Outlandos D'Amour (Remastered 2003)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/de/29/47de29d9-5109-2020-d296-1021a7378574/16UMGIM60880.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9998,6 +10035,7 @@
 },
 "The xx|Intro": {
 "album": "xx",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/44/8e/28448e14-19be-438b-bc9b-8c1d3f68f578/609008295069.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10128,6 +10166,7 @@
 },
 "Tiny Habits|Right In Front Of Me": {
 "album": "Keepers",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/d4/ef/c0d4efc0-9c55-70bc-3572-07dc1523ff68/823375232063_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10427,6 +10466,7 @@
 },
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/ba/3e/1aba3e49-70e9-7443-4c00-32364a9205b7/17UMGIM81723.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
