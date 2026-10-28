@@ -39,6 +39,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Al Di Meola|Red Moon": {
+"album": "Consequence Of Chaos",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Al Green|Let's Stay Together": {
 "album": "Let's Stay Together",
 "film_hint": "",
@@ -73,6 +78,16 @@
 "album": "Fairytale - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Alexandre Tharaud|Gnossienne No.1 - Gnossienne: No. 1": {
+"album": "Moderne",
+"film_hint": "",
+"genre": "Classical"
+},
+"Alexi Murdoch|Orange Sky": {
+"album": "Four Songs - EP",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "Alfa Mist|Organic Rust": {
 "album": "Bring Backs",
@@ -219,6 +234,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Ben Howard|Only Love": {
+"album": "Every Kingdom",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Benjamin Francis Leftwich|Ticket To Ride": {
 "album": "Home Covers (2010-2014)",
 "film_hint": "",
@@ -273,6 +293,11 @@
 "album": "Lo Vas A Olvidar - Single",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Billy Crystal|If I Didn't Have You (From \"Monsters, Inc.\"/Soundtrack Version)": {
+"album": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+"film_hint": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
 },
 "Billy Joel|Get It Right the First Time (Album Version)": {
 "album": "The Stranger",
@@ -353,6 +378,11 @@
 "album": "Slippery When Wet",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Boney M.|Sunny": {
+"album": "Take the Heat Off Me",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Bonobo|Terrapin": {
 "album": "Animal Magic",
@@ -469,6 +499,16 @@
 "film_hint": "",
 "genre": "Indie Pop"
 },
+"Cat Power|The Greatest": {
+"album": "The Greatest: Slipcase Edition",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Caterina Barbieri|Fantas": {
+"album": "Ecstatic Computation",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Cesária Evora|Sodade": {
 "album": "Anthologie / Mornas & Coladeras",
 "film_hint": "",
@@ -479,8 +519,18 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Charles Lloyd & The Marvels|You Are So Beautiful": {
+"album": "I Long to See You",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Charles Lloyd|You Are So Beautiful": {
 "album": "I Long to See You",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Charles Mingus|Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version)": {
+"album": "The Black Saint and the Sinner Lady",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -494,6 +544,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Chet Baker|Almost Blue": {
+"album": "Plays and Sings",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Chet Baker|You Don't Know What Love Is": {
 "album": "The Best of Chet Baker Sings",
 "film_hint": "",
@@ -503,6 +558,11 @@
 "album": "Hyperphantasia - Single",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Chris Christodoulou|The Rain Formerly Known as Purple": {
+"album": "Risk of Rain 2",
+"film_hint": "Risk of Rain 2",
+"genre": "Soundtrack"
 },
 "Chris De Burgh|The Getaway": {
 "album": "The Getaway",
@@ -654,6 +714,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Depeche Mode|Enjoy the Silence": {
+"album": "Violator  The 12\" Singles",
+"film_hint": "",
+"genre": "Pop"
+},
 "Depeche Mode|Policy of Truth": {
 "album": "Violator (Deluxe)",
 "film_hint": "",
@@ -774,6 +839,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Ella Fitzgerald|Summertime": {
+"album": "Pure Ella",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Elliott Smith|Independence Day": {
 "album": "XO",
 "film_hint": "",
@@ -834,6 +904,11 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Eva Cassidy|Ain't No Sunshine (Album Version)": {
+"album": "Time After Time",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Evanescence|Bring Me To Life": {
 "album": "Fallen",
 "film_hint": "",
@@ -868,6 +943,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Fennesz|Endless Summer": {
+"album": "Endless Summer",
+"film_hint": "",
+"genre": "IDM/Experimental"
 },
 "Ferrante & Teicher|Exodus": {
 "album": "All Time Great Movie Themes",
@@ -1029,6 +1109,11 @@
 "film_hint": "Once (Music from the Motion Picture)",
 "genre": "Soundtrack"
 },
+"Glenn Gould|3 Klavierstücke, Op. 11 - No. 1, Massig": {
+"album": "Berg: Piano Sonata, Op. 1 - Schoenberg: Three Piano Pieces, Op. 11 - Krenek: Piano Sonata No. 3, Op. 92, No. 4",
+"film_hint": "",
+"genre": "Classical"
+},
 "Glenn Miller & His Orchestra|(I've Got A Gal In) Kalamazoo": {
 "album": "Big Band Classics (Volume 1)",
 "film_hint": "",
@@ -1139,6 +1224,11 @@
 "film_hint": "",
 "genre": "Classical Crossover"
 },
+"Hank Williams|I'm So Lonesome I Could Cry (Single Version)": {
+"album": "Turn Back The Years: The Essential Hank Williams Collection",
+"film_hint": "",
+"genre": "Country"
+},
 "Hans Tanz|Neues Land": {
 "album": "Forever",
 "film_hint": "",
@@ -1233,6 +1323,11 @@
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
 "genre": "Pop"
+},
+"I Monster|Daydream In Blue": {
+"album": "Neveroddoreven",
+"film_hint": "",
+"genre": "Alternative"
 },
 "INXS|Don't Change": {
 "album": "Shabooh Shoobah",
@@ -1349,6 +1444,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joe Hisaishi|アシタカとサン (from 'Princess Mononoke')": {
+"album": "Princess Mononoke (Original Soundtrack)",
+"film_hint": "Princess Mononoke (Original Soundtrack)",
+"genre": "Original Score"
+},
 "Joel Pott|Chances": {
 "album": "",
 "film_hint": "",
@@ -1444,6 +1544,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Jungle|Busy Earnin'": {
+"album": "Jungle",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Jungle|Keep Moving": {
 "album": "Loving In Stereo",
 "film_hint": "",
@@ -1479,6 +1584,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Ken Thomson And Slow/Fast|We Are Not All in This Together": {
+"album": "Settle",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Kenny Loggins|This Is It": {
 "album": "Keep the Fire",
 "film_hint": "",
@@ -1493,6 +1603,11 @@
 "album": "My Name is DuChaine - Live 1997",
 "film_hint": "",
 "genre": "Delta Blues"
+},
+"Khruangbin|A Calf Born In Winter": {
+"album": "A Calf Born in Winter - Single",
+"film_hint": "",
+"genre": "Rock"
 },
 "Kim Carnes|More Love": {
 "album": "Romance Dance",
@@ -1558,6 +1673,11 @@
 "album": "The Great Gatsby (Music From Baz Luhrmann's Film)",
 "film_hint": "The Great Gatsby (Music From Baz Luhrmann's Film)",
 "genre": "Soundtrack"
+},
+"Lang Lang|Joe Hisaishi: Spring": {
+"album": "Piano Book 2",
+"film_hint": "",
+"genre": "Classical"
 },
 "Laufey|Madwoman": {
 "album": "A Matter of Time: The Final Hour",
@@ -1669,6 +1789,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Ludovico Einaudi|Primavera": {
+"album": "Divenire",
+"film_hint": "",
+"genre": "Classical"
+},
 "Luis Alberto Spinetta|Muchacha Ojos De Papel (Live)": {
 "album": "Spinetta y Las Bandas Eternas",
 "film_hint": "",
@@ -1718,6 +1843,11 @@
 "album": "2",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Madness|Our House": {
+"album": "Madness",
+"film_hint": "",
+"genre": "Pop"
 },
 "Madonna|Holiday": {
 "album": "Madonna",
@@ -1849,6 +1979,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Melody Gardot|If I Tell You I Love You": {
+"album": "The Absence",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Melody Gardot|This Foolish Heart Could Love You": {
 "album": "Entre eux deux",
 "film_hint": "",
@@ -1914,6 +2049,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Moby|Natural Blues": {
+"album": "Play & Play: B Sides",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Moloko|Over & Over": {
 "album": "Statues",
 "film_hint": "",
@@ -1923,6 +2063,11 @@
 "album": "Things to Make and Do",
 "film_hint": "",
 "genre": "Pop"
+},
+"Montaigne|I Am Not an End": {
+"album": "Life of Montaigne - EP",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Montaigne|Technicolour": {
 "album": "Technicolour - Single",
@@ -1984,10 +2129,20 @@
 "film_hint": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
 "genre": "Pop"
 },
+"Neil Young|Harvest Moon (Album Version)": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Rock"
+},
 "Neil Young|Heart of Gold": {
 "album": "Harvest",
 "film_hint": "",
 "genre": "Rock"
+},
+"Never Get Used To People|Life Letters (Slowed+Reverb)": {
+"album": "Life Letters (Slowed+Reverb) - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "New Order|True Faith": {
 "album": "Total",
@@ -2053,6 +2208,11 @@
 "album": "In Return",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Olejniczak Janusz|Nocturne in C minor, Op. 48, No. 1": {
+"album": "The Pianist (Original Motion Picture Soundtrack)",
+"film_hint": "The Pianist (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
 },
 "Olivia Rodrigo|vampire": {
 "album": "GUTS (spilled)",
@@ -2178,6 +2338,11 @@
 "album": "Taub, Stumm & Blind - Single",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"Peter Gabriel|The Feeling Begins (Remastered 2002)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Peter Jablonski|Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth.": {
 "album": "Chopin: The Complete Waltzes, Polonaise",
@@ -2464,6 +2629,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Sade|By Your Side  (Remastered Version)": {
+"album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Saint Etienne|Only Love Can Break Your Heart": {
 "album": "Foxbase Alpha",
 "film_hint": "",
@@ -2519,6 +2689,11 @@
 "film_hint": "",
 "genre": "Video Game"
 },
+"Sea Power|Polyhedrons": {
+"album": "Disco Elysium",
+"film_hint": "",
+"genre": "Video Game"
+},
 "Sepultura|Roots Bloody Roots  (2017 Remaster)": {
 "album": "Live in São Paulo (2022 Remaster)",
 "film_hint": "",
@@ -2531,6 +2706,11 @@
 },
 "Serú Girán|Viernes, 3AM (2019 Remasterizado)": {
 "album": "La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Shakespears Sister|Stay": {
+"album": "Hormonally Yours",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2809,6 +2989,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Talk Talk|I Believe in You  (1997 Remaster)": {
+"album": "I Believe in You - EP",
+"film_hint": "",
+"genre": "Rock"
+},
 "Talk Talk|Life's What You Make It  (1997 Remaster)": {
 "album": "The Colour of Spring",
 "film_hint": "",
@@ -2853,6 +3038,16 @@
 "album": "The Dirty Boogie",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Cure|Burn (Live)": {
+"album": "The Cure - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"The Edwin Hawkins Singers|Oh Happy Day": {
+"album": "Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered)",
+"film_hint": "",
+"genre": "Gospel"
 },
 "The Ink Spots|Maybe": {
 "album": "If I Didn't Care: An Anthology",
@@ -2899,6 +3094,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Tallest Man On Earth|The Gardener": {
+"album": "Shallow Grave",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "The Tragically Hip|Long Time Running": {
 "album": "Road Apples",
 "film_hint": "",
@@ -2908,6 +3108,11 @@
 "album": "New York (Deluxe Edition)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"The Verve|The Drugs Don't Work (Remastered 2016)": {
+"album": "Urban Hymns (Deluxe / Remastered 2016)",
+"film_hint": "",
+"genre": "Rock"
 },
 "The War On Drugs|Under The Pressure": {
 "album": "Lost In the Dream",
@@ -3114,6 +3319,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Wax Tailor|Just a Candle": {
+"album": "The Shadow of Their Suns (Extended with Instrumentals)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Wax Tailor|Seize The Day": {
 "album": "Seize the Day (feat. Charlotte Savary) - Single",
 "film_hint": "",
@@ -3179,6 +3389,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Yann Tiersen|La valse d'Amélie": {
+"album": "Yann Tiersen: La valse d’Amélie - Single",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "Yazoo|Only You (Remastered 2008)": {
 "album": "Alison Moyet the Best of: 25 Years Revisited (Remastered)",
 "film_hint": "",
@@ -3193,6 +3408,11 @@
 "album": "The Best of Youssou N'Dour",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Zaz|Sous le ciel de Paris": {
+"album": "Paris",
+"film_hint": "",
+"genre": "Pop"
 },
 "Zero 7|In The Waiting Line": {
 "album": "Simple Things Special Edition",
@@ -3213,6 +3433,11 @@
 "album": "Memo Rex Commander y el Corazón Atómico de la Vía Láctea",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Zucchero|Senza Una Donna (Remastered 2007)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "indigo la End|Haru No Iutoori": {
 "album": "Pulsate",

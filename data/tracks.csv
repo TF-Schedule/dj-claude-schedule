@@ -1,4 +1,8 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Jungle,Busy Earnin',34,2026-10-28T09:57:55Z,Longing Look,Electronic,Jungle,,https://music.apple.com/us/album/busy-earnin/872853887?i=872853945,Regal + Kurt
+Falco,Vienna Calling,23,2026-10-28T09:53:40Z,Longing Look,Pop,Falco III,,https://music.apple.com/us/album/vienna-calling/289513035?i=289513270,Regal + Kurt
+Boney M.,Sunny,19,2026-10-28T09:49:35Z,Longing Look,R&B/Soul,Take the Heat Off Me,,https://music.apple.com/us/album/sunny/220385910?i=220385946,Regal + Kurt
+Moby,Natural Blues,1,2026-10-28T09:45:19Z,Longing Look,Electronic,Play & Play: B Sides,,https://music.apple.com/us/album/natural-blues/281242279?i=281242529,Regal
 Warpaint,Keep It Healthy,6,2026-10-28T09:41:08Z,Longing Look,Alternative,Warpaint,,https://music.apple.com/us/album/keep-it-healthy/725462668?i=725462670,Regal + Kurt
 Sea Power,Instrument of Surrender,9,2026-10-28T09:35:28Z,Longing Look,Video Game,Disco Elysium,,https://music.apple.com/us/album/instrument-of-surrender/1659525966?i=1659525967,Regal + Kurt
 Roy Ayers Ubiquity,Everybody Loves The Sunshine,121,2026-10-28T09:31:30Z,Longing Look,Jazz,Everybody Loves the Sunshine,,https://music.apple.com/us/album/everybody-loves-the-sunshine/1469585186?i=1469585198,Regal + Kurt
@@ -598,7 +602,6 @@ Erykah Badu,Window Seat,78,2026-10-26T12:46:45Z,,R&B/Soul,"New Amerykah, Pt. 2: 
 Stevie Wonder,You Haven't Done Nothin',26,2026-10-26T12:43:15Z,,R&B/Soul,Fulfillingness' First Finale,,,Kurt
 Curtis Mayfield,The Makings of You (2019 Remaster) (Remastered),156,2026-10-26T12:39:15Z,,R&B/Soul,The Makings Of: A Curtis Mayfield Collection,,,Kurt
 Tubeway Army,Are 'Friends' Electric? (1998 Remaster),14,2026-10-26T12:33:45Z,,Alternative,Replicas (1998 Remaster),,,Kurt
-Falco,Vienna Calling,23,2026-10-26T12:29:45Z,,Pop,Falco III,,,Kurt
 Alexander Rybak,Fairytale,12,2026-10-26T12:21:45Z,,Pop,Fairytale - Single,,,Kurt
 twenty one pilots,Stressed Out,23,2026-10-26T12:18:15Z,,Alternative,Blurryface,,,Kurt
 Styx,Mr. Roboto,20,2026-10-26T12:12:45Z,,Rock,Greatest Hits,,,Kurt
@@ -647,48 +650,48 @@ Electric Light Orchestra,Evil Woman,20,2026-10-26T09:05:15Z,,Rock,Face the Music
 Mariya Takeuchi,Plastic Love,23,2026-10-26T09:00:15Z,,,,,,Kurt
 Roxy Music,Bitter Sweet (Remastered 1999),6,2026-10-26T08:55:15Z,,,,,,Kurt
 Bobby Darin,Beyond the Sea,24,2026-10-26T08:52:14Z,,Pop,That's All,,,Kurt
-Depeche Mode,Enjoy the Silence,18,2026-10-26T08:48:15Z,,,,,,Kurt
-Talk Talk,I Believe in You  (1997 Remaster),28,2026-10-26T08:41:45Z,,,,,,Kurt
-Olejniczak Janusz,"Nocturne in C minor, Op. 48, No. 1",4,2026-10-26T08:35:44Z,,,,,,Kurt
-Wax Tailor,Just a Candle,7,2026-10-26T08:31:15Z,,,,,,Kurt
-Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,43,2026-10-26T08:27:45Z,,,,,,Kurt
-Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,,,,,Kurt
-Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,,,,,Kurt
+Depeche Mode,Enjoy the Silence,18,2026-10-26T08:48:15Z,,Pop,"Violator  The 12"" Singles",,,Kurt
+Talk Talk,I Believe in You  (1997 Remaster),28,2026-10-26T08:41:45Z,,Rock,I Believe in You - EP,,,Kurt
+Olejniczak Janusz,"Nocturne in C minor, Op. 48, No. 1",4,2026-10-26T08:35:44Z,,Soundtrack,The Pianist (Original Motion Picture Soundtrack),The Pianist (Original Motion Picture Soundtrack),,Kurt
+Wax Tailor,Just a Candle,7,2026-10-26T08:31:15Z,,Electronic,The Shadow of Their Suns (Extended with Instrumentals),,,Kurt
+Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,43,2026-10-26T08:27:45Z,,Classical,Moderne,,,Kurt
+Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,Rock,Greatest Hits,,,Kurt
+Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,Classical,Piano Book 2,,,Kurt
 Zucchero,Senza Una Donna (Remastered 2007),6,2026-10-26T08:10:15Z,,,,,,Kurt
-Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,,,,,Kurt
-Zaz,Sous le ciel de Paris,2,2026-10-26T08:00:15Z,,,,,,Kurt
-The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,,,,,Kurt
-Madness,Our House,13,2026-10-26T07:52:15Z,,,,,,Kurt
-Sea Power,Polyhedrons,11,2026-10-26T07:48:45Z,,,,,,Kurt
-Montaigne,I Am Not an End,3,2026-10-26T07:45:14Z,,,,,,Kurt
-Shakespears Sister,Stay,4,2026-10-26T07:35:15Z,,,,,,Kurt
-Melody Gardot,If I Tell You I Love You,5,2026-10-26T07:31:45Z,,,,,,Kurt
-Hank Williams,I'm So Lonesome I Could Cry (Single Version),18,2026-10-26T07:29:14Z,,,,,,Kurt
-Never Get Used To People,Life Letters (Slowed+Reverb),4,2026-10-26T07:23:15Z,,,,,,Kurt
-The Verve,The Drugs Don't Work (Remastered 2016),5,2026-10-26T07:18:15Z,,,,,,Kurt
-Caterina Barbieri,Fantas,48,2026-10-26T07:07:45Z,,,,,,Kurt
-Ella Fitzgerald,Summertime,93,2026-10-26T07:02:45Z,,,,,,Kurt
-Ludovico Einaudi,Primavera,13,2026-10-26T06:55:15Z,,,,,,Kurt
-The Cure,Burn (Live),15,2026-10-26T06:48:44Z,,,,,,Kurt
-Al Di Meola,Red Moon,12,2026-10-26T06:44:15Z,,,,,,Kurt
-Khruangbin,A Calf Born In Winter,84,2026-10-26T06:40:15Z,,,,,,Kurt
-I Monster,Daydream In Blue,22,2026-10-26T06:36:44Z,,,,,,Kurt
-Charles Mingus,Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version),22,2026-10-26T06:18:15Z,,,,,,Kurt
-Joe Hisaishi,アシタカとサン (from 'Princess Mononoke'),36,2026-10-26T06:14:14Z,,,,,,Kurt
-Glenn Gould,"3 Klavierstücke, Op. 11 - No. 1, Massig",19,2026-10-26T06:09:44Z,,,,,,Kurt
-Fennesz,Endless Summer,83,2026-10-26T06:01:14Z,,,,,,Kurt
-Chris Christodoulou,The Rain Formerly Known as Purple,11,2026-10-26T05:48:14Z,,,,,,Kurt
+Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,Classical Crossover,Yann Tiersen: La valse d’Amélie - Single,,,Kurt
+Zaz,Sous le ciel de Paris,2,2026-10-26T08:00:15Z,,Pop,Paris,,,Kurt
+The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,Gospel,Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered),,,Kurt
+Madness,Our House,13,2026-10-26T07:52:15Z,,Pop,Madness,,,Kurt
+Sea Power,Polyhedrons,11,2026-10-26T07:48:45Z,,Video Game,Disco Elysium,,,Kurt
+Montaigne,I Am Not an End,3,2026-10-26T07:45:14Z,,Alternative,Life of Montaigne - EP,,,Kurt
+Shakespears Sister,Stay,4,2026-10-26T07:35:15Z,,Rock,Hormonally Yours,,,Kurt
+Melody Gardot,If I Tell You I Love You,5,2026-10-26T07:31:45Z,,Jazz,The Absence,,,Kurt
+Hank Williams,I'm So Lonesome I Could Cry (Single Version),18,2026-10-26T07:29:14Z,,Country,Turn Back The Years: The Essential Hank Williams Collection,,,Kurt
+Never Get Used To People,Life Letters (Slowed+Reverb),4,2026-10-26T07:23:15Z,,Pop,Life Letters (Slowed+Reverb) - Single,,,Kurt
+The Verve,The Drugs Don't Work (Remastered 2016),5,2026-10-26T07:18:15Z,,Rock,Urban Hymns (Deluxe / Remastered 2016),,,Kurt
+Caterina Barbieri,Fantas,48,2026-10-26T07:07:45Z,,Electronic,Ecstatic Computation,,,Kurt
+Ella Fitzgerald,Summertime,93,2026-10-26T07:02:45Z,,Jazz,Pure Ella,,,Kurt
+Ludovico Einaudi,Primavera,13,2026-10-26T06:55:15Z,,Classical,Divenire,,,Kurt
+The Cure,Burn (Live),15,2026-10-26T06:48:44Z,,Pop,The Cure - Single,,,Kurt
+Al Di Meola,Red Moon,12,2026-10-26T06:44:15Z,,Jazz,Consequence Of Chaos,,,Kurt
+Khruangbin,A Calf Born In Winter,84,2026-10-26T06:40:15Z,,Rock,A Calf Born in Winter - Single,,,Kurt
+I Monster,Daydream In Blue,22,2026-10-26T06:36:44Z,,Alternative,Neveroddoreven,,,Kurt
+Charles Mingus,Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version),22,2026-10-26T06:18:15Z,,Jazz,The Black Saint and the Sinner Lady,,,Kurt
+Joe Hisaishi,アシタカとサン (from 'Princess Mononoke'),36,2026-10-26T06:14:14Z,,Original Score,Princess Mononoke (Original Soundtrack),Princess Mononoke (Original Soundtrack),,Kurt
+Glenn Gould,"3 Klavierstücke, Op. 11 - No. 1, Massig",19,2026-10-26T06:09:44Z,,Classical,"Berg: Piano Sonata, Op. 1 - Schoenberg: Three Piano Pieces, Op. 11 - Krenek: Piano Sonata No. 3, Op. 92, No. 4",,,Kurt
+Fennesz,Endless Summer,83,2026-10-26T06:01:14Z,,IDM/Experimental,Endless Summer,,,Kurt
+Chris Christodoulou,The Rain Formerly Known as Purple,11,2026-10-26T05:48:14Z,,Soundtrack,Risk of Rain 2,Risk of Rain 2,,Kurt
 Peter Gabriel,The Feeling Begins (Remastered 2002),24,2026-10-26T05:43:44Z,,,,,,Kurt
-Ken Thomson And Slow/Fast,We Are Not All in This Together,14,2026-10-26T05:41:45Z,,,,,,Kurt
-The Tallest Man On Earth,The Gardener,1,2026-10-26T05:37:14Z,,,,,,Kurt
-Ben Howard,Only Love,1,2026-10-26T05:29:44Z,,,,,,Kurt
-Alexi Murdoch,Orange Sky,1,2026-10-26T05:23:14Z,,,,,,Kurt
-Eva Cassidy,Ain't No Sunshine (Album Version),1,2026-10-26T05:19:44Z,,,,,,Kurt
-Cat Power,The Greatest,1,2026-10-26T05:16:14Z,,,,,,Kurt
-Chet Baker,Almost Blue,50,2026-10-26T05:12:44Z,,,,,,Kurt
-Billy Crystal,"If I Didn't Have You (From ""Monsters, Inc.""/Soundtrack Version)",10,2026-10-26T05:08:44Z,,,,,,Kurt
-Sade,By Your Side  (Remastered Version),52,2026-10-26T05:04:14Z,,,,,,Kurt
-Charles Lloyd & The Marvels,You Are So Beautiful,4,2026-10-26T04:58:14Z,,,,,,Kurt
+Ken Thomson And Slow/Fast,We Are Not All in This Together,14,2026-10-26T05:41:45Z,,Jazz,Settle,,,Kurt
+The Tallest Man On Earth,The Gardener,1,2026-10-26T05:37:14Z,,Singer/Songwriter,Shallow Grave,,,Kurt
+Ben Howard,Only Love,1,2026-10-26T05:29:44Z,,Singer/Songwriter,Every Kingdom,,,Kurt
+Alexi Murdoch,Orange Sky,1,2026-10-26T05:23:14Z,,Singer/Songwriter,Four Songs - EP,,,Kurt
+Eva Cassidy,Ain't No Sunshine (Album Version),1,2026-10-26T05:19:44Z,,Singer/Songwriter,Time After Time,,,Kurt
+Cat Power,The Greatest,1,2026-10-26T05:16:14Z,,Alternative,The Greatest: Slipcase Edition,,,Kurt
+Chet Baker,Almost Blue,50,2026-10-26T05:12:44Z,,Jazz,Plays and Sings,,,Kurt
+Billy Crystal,"If I Didn't Have You (From ""Monsters, Inc.""/Soundtrack Version)",10,2026-10-26T05:08:44Z,,Soundtrack,"Monsters, Inc. (Original Motion Picture Soundtrack)","Monsters, Inc. (Original Motion Picture Soundtrack)",,Kurt
+Sade,By Your Side  (Remastered Version),52,2026-10-26T05:04:14Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt
+Charles Lloyd & The Marvels,You Are So Beautiful,4,2026-10-26T04:58:14Z,,Jazz,I Long to See You,,,Kurt
 Men At Work,Down Under,6,2026-10-26T04:53:44Z,,,,,,Kurt
 Pellek,Bohemian Rhapsody,8,2026-10-26T04:48:14Z,,,,,,Kurt
 Echo And The Bunnymen,The Killing Moon,14,2026-10-26T04:42:14Z,,,,,,Kurt
@@ -953,7 +956,6 @@ Chappell Roan,"Good Luck, Babe!",75,2026-10-24T21:33:12Z,,,,,,Kurt
 Bernard Purdie,Cool Down,22,2026-10-24T21:29:12Z,,,,,,Kurt
 Edwin Starr,War,18,2026-10-24T21:18:12Z,,,,,,Kurt
 Tom Robinson,The Saturday Disco,1,2026-10-24T21:03:42Z,,,,,,Kurt
-Boney M.,Sunny,19,2026-10-24T20:59:12Z,,,,,,Kurt
 Erik Grönwall,House of the Rising Sun,5,2026-10-24T20:50:13Z,,,,,,Kurt
 King Crimson,Matte Kudasai,17,2026-10-24T20:41:43Z,,,,,,Kurt
 The Tragically Hip,New Orleans Is Sinking,16,2026-10-24T20:37:12Z,,,,,,Kurt
@@ -1214,7 +1216,6 @@ Bruno Mars,I Just Might,259,2026-10-23T09:33:02Z,,,,,,Kurt
 Michael Jackson,Rock with You (Single Version),50,2026-10-23T09:29:31Z,,,,,,Kurt
 Queen,Don't Stop Me Now (Remastered 2011),76,2026-10-23T09:16:31Z,,,,,,Kurt
 Cyndi Lauper,Girls Just Want to Have Fun,26,2026-10-23T09:12:31Z,,,,,,Kurt
-Jungle,Busy Earnin',34,2026-10-23T09:09:01Z,,,,,,Kurt
 "Earth, Wind & Fire",Let's Groove (Album Version),33,2026-10-23T09:03:31Z,,,,,,Kurt
 Boney M.,Gotta Go Home,61,2026-10-23T08:43:31Z,,,,,,Kurt
 Nick Drake,Northern Sky,127,2026-10-23T08:21:00Z,,,,,,Kurt
