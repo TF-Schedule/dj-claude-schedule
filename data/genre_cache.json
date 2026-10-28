@@ -144,6 +144,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Beck|The New Pollution": {
+"album": "Odelay",
+"film_hint": "",
+"genre": "Rock"
+},
 "Ben Harper|Yard Sale": {
 "album": "Wide Open Light",
 "film_hint": "",
@@ -153,6 +158,11 @@
 "album": "Home Covers (2010-2014)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Benny Sings|Sailing": {
+"album": "Sailing - Single",
+"film_hint": "",
+"genre": "Adult Contemporary"
 },
 "Berlin|Take My Breath Away": {
 "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
@@ -169,6 +179,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Bicep|Apricots": {
+"album": "Isles",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Big Bad Voodoo Daddy|Why Me?": {
 "album": "Rattle Them Bones",
 "film_hint": "",
@@ -183,6 +198,11 @@
 "album": "Lo Vas A Olvidar - Single",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Billy Joel|Get It Right the First Time (Album Version)": {
+"album": "The Stranger",
+"film_hint": "",
+"genre": "Rock"
 },
 "Black Sabbath|Paranoid": {
 "album": "Paranoid",
@@ -309,6 +329,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Caroline Polachek|Bunny Is A Rider": {
+"album": "Bunny Is A Rider - Single",
+"film_hint": "",
+"genre": "Indie Pop"
+},
 "Cesária Evora|Sodade": {
 "album": "Anthologie / Mornas & Coladeras",
 "film_hint": "",
@@ -333,6 +358,16 @@
 "album": "The Best of Chet Baker Sings",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Child Seat|Hyperphantasia": {
+"album": "Hyperphantasia - Single",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Chris De Burgh|The Getaway": {
+"album": "The Getaway",
+"film_hint": "",
+"genre": "Rock"
 },
 "Christian Löffler|Lid": {
 "album": "Mare",
@@ -419,6 +454,11 @@
 "film_hint": "American Utopia on Broadway (Original Cast Recording Live)",
 "genre": "Soundtrack"
 },
+"David Sylvian|Darkest Dreaming": {
+"album": "Dead Bees On a Cake",
+"film_hint": "",
+"genre": "Prog-Rock/Art Rock"
+},
 "De La Soul|Me Myself and I": {
 "album": "3 Feet High and Rising",
 "film_hint": "",
@@ -444,6 +484,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Diana Krall|How Deep Is The Ocean": {
+"album": "This Dream Of You",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Djivan Gasparyan|Take My Heart": {
 "album": "Black Rock",
 "film_hint": "",
@@ -468,6 +513,16 @@
 "album": "Honey Bones",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Dua Lipa|Training Season": {
+"album": "Training Season - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Duncan Laurence|Arcade (feat. FLETCHER)": {
+"album": "Arcade (feat. FLETCHER) - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Duran Duran|Notorious  (2010 Remaster)": {
 "album": "Notorious - EP",
@@ -599,6 +654,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Fleetwood Mac|That's All for Everyone": {
+"album": "Tusk (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Floating Points|Birth4000": {
 "album": "Cascade",
 "film_hint": "",
@@ -683,6 +743,11 @@
 "album": "Collaboration",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Geowulf|Saltwater": {
+"album": "Great Big Blue",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Gerry Rafferty|Right Down the Line": {
 "album": "City to City",
@@ -784,6 +849,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Gustavo Cerati|Crimen": {
+"album": "Ahí Vamos",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Gustavo Cerati|Puente": {
 "album": "Bocanada",
 "film_hint": "",
@@ -828,6 +898,11 @@
 "album": "Avalon Sutra (2013 Remaster)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Haute & Freddy|Dance The Pain Away": {
+"album": "Big Disgrace",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Heejin|Algorithm": {
 "album": "<K> - EP",
@@ -919,6 +994,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Jamie xx|Gosh": {
+"album": "In Colour",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Jamiroquai|Cosmic Girl (Remastered 2013)": {
 "album": "Travelling Without Moving",
 "film_hint": "",
@@ -1009,6 +1089,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Journey|Lights (Album Version)": {
+"album": "Infinity",
+"film_hint": "",
+"genre": "Rock"
+},
 "Joywave|In Clover": {
 "album": "How Do You Feel Now?",
 "film_hint": "",
@@ -1074,6 +1159,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kavinsky|Nightcall": {
+"album": "Nightcall",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Kenshi Yonezu|Lemon": {
 "album": "Lemon - Single",
 "film_hint": "",
@@ -1099,6 +1189,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kylie Minogue|Spinning Around": {
+"album": "Light Years (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "La Rappresentante di Lista|Ciao Ciao": {
 "album": "Ciao Ciao - Single",
 "film_hint": "",
@@ -1123,6 +1218,11 @@
 "album": "Lamb",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Lana Del Rey|Diet Mountain Dew": {
+"album": "Born to Die",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Lana Del Rey|Young And Beautiful": {
 "album": "The Great Gatsby (Music From Baz Luhrmann's Film)",
@@ -1219,6 +1319,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Luis Alberto Spinetta|Muchacha Ojos De Papel (Live)": {
+"album": "Spinetta y Las Bandas Eternas",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Luis Miguel|La Mentira": {
 "album": "Romance",
 "film_hint": "",
@@ -1240,6 +1345,11 @@
 "genre": "Electronic"
 },
 "MGMT|Electric Feel (Album Version)": {
+"album": "Oracular Spectacular",
+"film_hint": "",
+"genre": "Alternative"
+},
+"MGMT|Time to Pretend (Album Version)": {
 "album": "Oracular Spectacular",
 "film_hint": "",
 "genre": "Alternative"
@@ -1349,6 +1459,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Melody Gardot|Worrisome Heart (Album Version)": {
+"album": "Worrisome Heart",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Men I Trust|Show Me How": {
 "album": "Show Me How - Single",
 "film_hint": "",
@@ -1439,6 +1554,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Måneskin|ZITTI E BUONI": {
+"album": "ZITTI E BUONI (Eurovision Version) - Single",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "NMIXX|High Horse": {
 "album": "Fe3O4: FORWARD - EP",
 "film_hint": "",
@@ -1496,6 +1616,11 @@
 },
 "Nine Inch Nails|Hurt": {
 "album": "The Downward Spiral",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Nirvana|Heart-Shaped Box (Album Version)": {
+"album": "In Utero (20th Anniversary Edition)",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -1584,10 +1709,20 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Paul Simon|You Can Call Me Al": {
+"album": "The Essential Paul Simon",
+"film_hint": "",
+"genre": "Pop"
+},
 "Pearl Jam|Yellow Ledbetter": {
 "album": "Jeremy - Single",
 "film_hint": "",
 "genre": "Rock"
+},
+"Pebe Sebert|City's Burning": {
+"album": "Pebe Sebert",
+"film_hint": "",
+"genre": "Pop"
 },
 "Perpetuum Jazzile|Africa": {
 "album": "Perpetuum Jazzile Africa",
@@ -1629,6 +1764,11 @@
 "film_hint": "This War of Mine (Original Game Soundtrack)",
 "genre": "Video Game"
 },
+"Polar Sun|Caribou": {
+"album": "Caribou - EP",
+"film_hint": "",
+"genre": "Electronica"
+},
 "Pornophonique|Sad Robot": {
 "album": "8-Bit Lagerfeuer",
 "film_hint": "",
@@ -1659,10 +1799,20 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Queens Of The Stone Age|No One Knows": {
+"album": "Songs for the Deaf",
+"film_hint": "",
+"genre": "Rock"
+},
 "Queensrÿche|Silent Lucidity (Remastered 2003)": {
 "album": "Empire (Remastered) [Expanded Edition]",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Queen|Another One Bites The Dust": {
+"album": "The Game (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Queen|Somebody To Love": {
 "album": "A Day At The Races (Deluxe Edition)",
@@ -1723,6 +1873,16 @@
 "album": "Stadium Arcadium",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Red Velvet|Stupid Cupid": {
+"album": "The 1st Mini Album ‘Ice Cream Cake’ - EP",
+"film_hint": "",
+"genre": "K-Pop"
+},
+"Revolverheld|Ich lass für dich das Licht an": {
+"album": "Immer in Bewegung (Deluxe Version)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Rival Consoles|Untravel": {
 "album": "Persona",
@@ -1789,6 +1949,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Santana|Oye Como Va": {
+"album": "Abraxas",
+"film_hint": "",
+"genre": "Rock"
+},
 "Santana|Samba Pa Ti": {
 "album": "Abraxas",
 "film_hint": "",
@@ -1828,6 +1993,11 @@
 "album": "The Great Awakening",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Sheryl Crow|All I Wanna Do": {
+"album": "Tuesday Night Music Club",
+"film_hint": "",
+"genre": "Pop"
 },
 "Sheryl Crow|The First Cut Is The Deepest": {
 "album": "The Very Best of Sheryl Crow",
@@ -1994,6 +2164,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Swan Dive|Soundtrack to Me and You": {
+"album": "Soundtrack to Me and You",
+"film_hint": "Soundtrack to Me and You",
+"genre": "Pop"
+},
 "Synergy|Chateau": {
 "album": "Sequencer (feat. Larry Fast)",
 "film_hint": "",
@@ -2015,6 +2190,11 @@
 "genre": "Pop"
 },
 "Takako Mamiya|LOVE TRIP": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Takako Mamiya|Nagisade Dance": {
 "album": "",
 "film_hint": "",
 "genre": ""
@@ -2089,6 +2269,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Smashing Pumpkins|1979": {
+"album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The Staple Singers|I'll Take You There": {
 "album": "The Best of the Staple Singers",
 "film_hint": "",
@@ -2124,6 +2309,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Thievery Corporation|Le Coeur": {
+"album": "Saudade",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Thievery Corporation|Lebanese Blonde": {
 "album": "It Takes A Thief: The Very Best Of Thievery Corporation",
 "film_hint": "",
@@ -2133,6 +2323,16 @@
 "album": "It'll End in Tears (Remastered)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Thom Yorke|5.17": {
+"album": "5.17 / That's How Horses Are - Single",
+"film_hint": "",
+"genre": "Electronic"
+},
+"TilaR|More Than A Friend": {
+"album": "More Than A Friend - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Tim Cappello|I Still Believe": {
 "album": "The Lost Boys (Original Motion Picture Soundtrack)",
@@ -2194,6 +2394,16 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Toto|Georgy Porgy (album version)": {
+"album": "Toto",
+"film_hint": "",
+"genre": "Rock"
+},
+"Tove Lo|No One Dies From Love": {
+"album": "Dirt Femme",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tracy Chapman|Fast Car  (2015 Remaster)": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -2231,6 +2441,11 @@
 },
 "Vaya Con Dios|Nah Neh Nah": {
 "album": "Night Owls",
+"film_hint": "",
+"genre": "Pop"
+},
+"Vinicius Cantuaria|Lua e Estrela": {
+"album": "Série 2 em 1: Vinícius Cantuária",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2274,6 +2489,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Wir Sind Helden|Denkmal": {
+"album": "Die Reklamation",
+"film_hint": "",
+"genre": "Pop"
+},
 "Wizkid|Essence": {
 "album": "Made In Lagos",
 "film_hint": "",
@@ -2316,6 +2536,11 @@
 },
 "Zoé|Labios Rotos (Live 8.11.14)": {
 "album": "8.11.14 (Deluxe)",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
+"Zoé|Vía Láctea": {
+"album": "Memo Rex Commander y el Corazón Atómico de la Vía Láctea",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
