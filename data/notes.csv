@@ -14,7 +14,7 @@ Adriano Celentano,Prisencolinensinainciusol,Europe Express: Chanson & Liedermach
 Agnes Obel,Familiar,Roots: Green Light & Ivy,,Cello-Arrangements mit mystisch geisterhaft doppelten Vocals,Green Light & Ivy,Neoclassical / Ambient Pop
 Agnes Obel,Riverside,Roots: Green Light & Ivy,,"Dunkel-perlendes Klavier und intimer, schwebender Satzgesang",Green Light & Ivy,Neoclassical / Indie Folk
 Agnes Obel,Under Giant Trees,Roots: Green Light & Ivy,,"Schwebende Streicher-Kaskaden und zarter, geheimnisvoller Gesang",Green Light & Ivy,Neoclassical / Indie Folk
-Air,La femme d'argent,"Café de Paris, Europe Express: Elektronik",,Französischer Space-Lounge-Klassiker,"Europa: Elektronik, French",Elektro / Lounge
+Air,La femme d'argent,"Café de Paris, Europe Express: Elektronik, TripHop",,Französischer Space-Lounge-Klassiker,"Europa: Elektronik, French, TripHop",Elektro / Lounge
 Al Di Meola,Libertango,Roots: Raíces Latinas,,Feuerige Jazz-Rock-Gitarrenfassung des Piazzolla-Klassikers,Raíces Latinas,Tango Nuevo / Jazz-Rock
 Albert King,Born Under A Bad Sign,Roots: River & Crossroads,,"Kreuzung: Schwere, funky Blues-Riffs, fatalistische Stimmung – Schicksal an der Weggabelung",River & Crossroads,Electric Blues
 Alexander Rybak,Fairytale,Europe Express: ESC & Eurodance,,"ESC-Sieger 2009 Moskau, Violine und Tanzwut",Europa: ESC & Eurodance,ESC / Nordischer Pop
@@ -68,7 +68,7 @@ Bon Iver,Holocene,Roots: River & Crossroads,,"Zweite Chance: Atmosphärisch, zer
 Bon Iver,Skinny Love,Roots: River & Crossroads,,"Zweite Chance: Intim, verletzlich, karge Akustik",River & Crossroads,Indie-Folk
 Boney M.,Gotta Go Home,Europe Express: ESC & Eurodance,,Karibisch-europäische Disco-Rarität (ESC-Nähe: Arabesque-Titel),Europa: ESC & Eurodance,Eurodisco
 Boney M.,Sunny,Europe Express: ESC & Eurodance,,Eurodisco-Cover des Bobby-Hebb-Klassikers,Europa: ESC & Eurodance,Eurodisco
-Bonobo,Terrapin,Jam Session,,Schildkröten-Trip-Hop-Beat,Modern Fusion Jazz,Nu Jazz / Trip-Hop
+Bonobo,Terrapin,"Jam Session, TripHop",,Schildkröten-Trip-Hop-Beat,"Modern Fusion Jazz, TripHop",Nu Jazz / Trip-Hop
 Brandi Carlile,The Joke,Roots: Americana,,"Kraftvoll, emotional, selbstbewusste Hymne",Americana,Contemporary Americana
 Breakbot,Baby I'm Yours,Café de Paris,,"Ed Banger 2010, warm falsetto + funky bass",French,Nu-Disco
 Brian Eno,Capsule,Roots: Green Light & Ivy,,"Gitarren-geprägtes, sphärisches Instrumentalstück",Green Light & Ivy,Ambient / Instrumental
@@ -296,10 +296,10 @@ Marisa Monte,Beija Eu,Roots: Raíces Latinas,,"Warmes MPB, sambaverwurzelte Rhyt
 Mark Knopfler,The Long Road,Roots: Americana,Cal,"Erdiger Instrumental-Track aus dem Screenplaying-Album, keltisch-warme Gitarrenweite",Americana,Instrumental / Roots Rock
 Mary Halvorson,About Ghosts,Jam Session,,Unheimlicher Pocket-Piano-Synth,Modern Fusion Jazz,Avantgarde-Jazz / Creative Jazz
 Masego,Tadow,Jam Session,,Spontanes Saxofon-Loop-Jam,Jazzverwandt,TrapHouse Jazz
-Massive Attack,Angel,Europe Express: Britannia,,"Mezzanine-Dunkelheit, Bass-Wandern",Britannia,Trip-Hop
-Massive Attack,Protection,Europe Express: Britannia,,Everything-but-the-Girl-Gastgesang,Britannia,Trip-Hop
-Massive Attack,Teardrop,Europe Express: Britannia,Dr. House (Titelmusik der Serie),"Cocteau-Liz-Fraser-Stimme, Haus-ärztin-Thema",Britannia,Trip-Hop
-Massive Attack,Unfinished Sympathy (2012 Mix/Master),Europe Express: Britannia,,"Trip-Hop-Gründungsdokument, Streicher",Britannia,Trip-Hop
+Massive Attack,Angel,"Europe Express: Britannia, TripHop",,"Mezzanine-Dunkelheit, Bass-Wandern","Britannia, TripHop",Trip-Hop
+Massive Attack,Protection,"Europe Express: Britannia, TripHop",,Everything-but-the-Girl-Gastgesang,"Britannia, TripHop",Trip-Hop
+Massive Attack,Teardrop,"Europe Express: Britannia, TripHop",Dr. House (Titelmusik der Serie),"Cocteau-Liz-Fraser-Stimme, Haus-ärztin-Thema","Britannia, TripHop",Trip-Hop
+Massive Attack,Unfinished Sympathy (2012 Mix/Master),"Europe Express: Britannia, TripHop",,"Trip-Hop-Gründungsdokument, Streicher","Britannia, TripHop",Trip-Hop
 Melody Gardot,If I Tell You I Love You,"Jazzable Cities, Jam Session",,S verführerische Warnung,"Jazz-Klassiker, Jazzverwandt",Vocal Jazz / Bossa
 Melody Gardot,If You Love Me,Jam Session,,"Latin-getragene Jazz-Ballade, warme Stimme",Jazzverwandt,Vocal Jazz / Smooth Jazz
 Melody Gardot,La chanson des vieux amants,"Café de Paris, Jam Session",,"Brel-Chanson im Jazz-Kleid, zweisprachige Zartheit","Jazzverwandt, French",Chanson-Jazz / Vocal Jazz
@@ -370,11 +370,11 @@ Pink Floyd,Have a Cigar,Europe Express: Britannia,,Wish-You-Were-Here-Musikbusin
 Pink Floyd,Money,Europe Express: Britannia,,Dark-Side-7/4-Bass-Groove,Britannia,Progressive Rock
 Pink Floyd,The Great Gig in the Sky (2023 Remaster),Europe Express: Britannia,,Clare-Torry-Stimm-Eruption,Britannia,Progressive Rock
 Pink Floyd,Wish You Were Here,Europe Express: Britannia,,"Syd-Barrett-Tribut, Wind-Harfe",Britannia,Progressive Rock
-Portishead,Glory Box (Album Version),Europe Express: Britannia,,Dummy-Ära-Beth-Gibbons-Klagemauer,Britannia,Trip-Hop
-Portishead,It Could Be Sweet,Europe Express: Britannia,,Dummy-Samt-Dunkelheit,Britannia,Trip-Hop
-Portishead,Roads,Europe Express: Britannia,,Portishead-Album-Zerbrechlichkeit,Britannia,Trip-Hop / Art-Pop
-Portishead,Sour Times,Europe Express: Britannia,,Spy-Thriller-Trip-Hop,Britannia,Trip-Hop
-Portishead,Wandering Star,Europe Express: Britannia,,Dummy-Bass-Schwere,Britannia,Trip-Hop
+Portishead,Glory Box (Album Version),"Europe Express: Britannia, TripHop",,Dummy-Ära-Beth-Gibbons-Klagemauer,"Britannia, TripHop",Trip-Hop
+Portishead,It Could Be Sweet,"Europe Express: Britannia, TripHop",,Dummy-Samt-Dunkelheit,"Britannia, TripHop",Trip-Hop
+Portishead,Roads,"Europe Express: Britannia, TripHop",,Portishead-Album-Zerbrechlichkeit,"Britannia, TripHop",Trip-Hop / Art-Pop
+Portishead,Sour Times,"Europe Express: Britannia, TripHop",,Spy-Thriller-Trip-Hop,"Britannia, TripHop",Trip-Hop
+Portishead,Wandering Star,"Europe Express: Britannia, TripHop",,Dummy-Bass-Schwere,"Britannia, TripHop",Trip-Hop
 Preservation Hall Jazz Band,St. James Infirmary,Jazzable Cities,,New-Orleans-Trauerzug aus dem French Quarter,Jazz-Klassiker,New Orleans Jazz / Trad Jazz
 Pulp,Common People (Full Length Version; Album Version),Europe Express: Britannia,,Klassenkampf-Britpop-Satire,Britannia,Britpop
 Queen,Another One Bites The Dust,Europe Express: Britannia,,Disco-Bass-Groove der Funk-Queen,Britannia,Rock / Disco-Funk
@@ -419,7 +419,7 @@ Snarky Puppy,Lingus,Jam Session,,Cory Henrys Rhodes-Ekstase,Modern Fusion Jazz,M
 Soft Cell,Tainted Love,Europe Express: Elektronik,,Nordenglisches Elektro-Soul-Cover,Europa: Elektronik,Synth-Pop
 Sophie Hunger,Le vent nous portera,"Europe Express: Chanson & Liedermacher, Café de Paris",,"Noir-Désir-Cover, Schweizer Indie-Chanson",Europa: Chanson & Liedermacher,Chanson / Indie
 Spandau Ballet,Gold (2003 Remaster),Europe Express: Elektronik,,Britische New-Romantic-Gold-Hymne,Europa: Elektronik,New Wave / Pop
-St Germain,Rose rouge,Café de Paris,,"Tourist, muted trumpet & deep house pulse",French,Nu-Jazz
+St Germain,Rose rouge,"Café de Paris, TripHop",,"Tourist, muted trumpet & deep house pulse","French, TripHop",Nu-Jazz
 Stan Getz & Antônio Carlos Jobim,Corcovado,Jazzable Cities,,Astrud Gilbertos hauchender Bossa,Jazz-Klassiker,Bossa Nova
 Steely Dan,Home at Last,Jam Session,,Unnachahmlicher Purdie-Shuffle,Modern Fusion Jazz,Jazz-Rock / Yacht-Rock
 Stevie Ray Vaughan & Double Trouble,Pride and Joy,Roots: River & Crossroads,,"Weg: Feurige Texas-Blues-Gitarre, tanzbarer Shuffle",River & Crossroads,Texas Blues / Blues-Rock
@@ -493,7 +493,7 @@ Tori Amos,A Sorta Fairytale,Roots: Green Light & Ivy,,Melancholisches E-Piano un
 Tori Amos,Rattlesnakes,Roots: Green Light & Ivy,,Zart-schwebendes Klavier und intime Cover-Poesie (Lloyd-Cole-Cover),Green Light & Ivy,Acoustic / Singer-Songwriter
 Tori Amos,Winter,Roots: Green Light & Ivy,,"Berührendes, klassisches Klavier und dramatischer, ätherischer Gesang",Green Light & Ivy,Neoclassical / Baroque Pop
 Tracy Chapman,Fast Car,Roots: River & Crossroads,,"Zweite Chance: Erzählerisch, hoffnungsvoll – raus aus der Enge, Neuanfang",River & Crossroads,Folk / Singer-Songwriter
-Tricky,Hell Is Round The Corner,Europe Express: Britannia,,Maxinquaye-Growl-Flüster-Duo,Britannia,Trip-Hop
+Tricky,Hell Is Round The Corner,"Europe Express: Britannia, TripHop",,Maxinquaye-Growl-Flüster-Duo,"Britannia, TripHop",Trip-Hop
 Tyler Childers,Feathered Indians,Roots: Americana,,"Moderne, erzählerische Appalachian-Country-Ballade",Americana,Contemporary Country / Americana
 U2,All Along The Watchtower (Live - Rattle & Hum Version),Europe Express: Britannia,,"Dylan-Cover, Live-Kathedralen",Britannia,Rock / Dylan-Cover
 U2,Angel Of Harlem,Europe Express: Britannia,,Rattle-And-Hum-Blues-Gospel-Ehrung,Britannia,Roots Rock
@@ -560,4 +560,29 @@ Glenn Gould,"3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental)",Cl
 江晴,"Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納",Classic,,,Classic,
 Jeff Beck,Where Were You (Live),"Solo for Instrument, Guitar Gods, Live Tracks, Soft Landing",,Die Gitarre singt ohne Worte – Tremolohebel und Lautstärkeregler statt Stimme; Live-Fassung aus Ronnie Scott's Jazz Club.,,
 Moby,One of These Mornings,"Somewhere is a Light, Signal Garden, Soft Landing, American Diner",,,,
-Moloko,Over & Over,Europe Express: Britannia,,,,
+Moloko,Over & Over,"Europe Express: Britannia, TripHop",,,TripHop,
+Röyksopp,Eple,TripHop,,,TripHop,
+Wax Tailor,Seize The Day,TripHop,,,TripHop,
+Emancipator,Soon It Will Be Cold Enough to Build Fires,TripHop,,,TripHop,
+Lamb,Gorecki,TripHop,,,TripHop,
+Moloko,The Time Is Now,TripHop,,,TripHop,
+Thievery Corporation,Lebanese Blonde,TripHop,,,TripHop,
+Thievery Corporation,Facing East,TripHop,,,TripHop,
+Morcheeba,Trigger Hippie,TripHop,,,TripHop,
+Zero 7,In The Waiting Line,TripHop,,,TripHop,
+Nightmares On Wax,Les Nuits,TripHop,,,TripHop,
+Lamb,Bonfire,TripHop,,,TripHop,
+Thievery Corporation,Le Coeur,TripHop,,,TripHop,
+Wax Tailor,Just a Candle,TripHop,,,TripHop,
+The Cinematic Orchestra,To Build A Home,TripHop,,,TripHop,
+Sneaker Pimps,6 Underground,TripHop,,,TripHop,
+Moloko,Being Is Bewildering,TripHop,,,TripHop,
+Unkle,Rabbit in Your Headlights,TripHop,,,TripHop,
+Sneaker Pimps,How Do,TripHop,,,TripHop,
+Hooverphonic,2 Wicky,TripHop,,,TripHop,
+Smoke City,Underwater Love,TripHop,,,TripHop,
+Bonobo,Kong,TripHop,,,TripHop,
+Bonobo,Cirrus,TripHop,,,TripHop,
+Thievery Corporation,Omid,TripHop,,,TripHop,
+Bonobo,Kiara,TripHop,,,TripHop,
+Lovage,Anger Management (Instrumental),TripHop,,,TripHop,
