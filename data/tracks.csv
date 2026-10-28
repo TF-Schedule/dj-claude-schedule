@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Robin Packalen,Kesärenkaat,8,2026-10-28T22:12:44Z,Open Channel,Pop,16 (Deluxe),,https://music.apple.com/us/album/kes%C3%A4renkaat/1443091214?i=1443091499,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5f/2c/7a/5f2c7a98-17d2-fda8-7f93-a3d55f37246a/00602547033574.rgb.jpg/100x100bb.jpg
+Martin Garrix,Carry You,7,2026-10-28T22:09:00Z,Open Channel,Dance,Carry You (feat. Declan J Donovan) - Single,,https://music.apple.com/us/search?term=Martin+Garrix+Carry+You,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/4f/98/6a4f98b8-53bb-0bb9-5a22-5a0e213adaf4/8720996840412.png/100x100bb.jpg
+Beyoncé,TEXAS HOLD 'EM,148,2026-10-28T22:05:02Z,Open Channel,Country,TEXAS HOLD 'EM - Single,,https://music.apple.com/us/album/texas-hold-em/1730410731?i=1730410734,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/17/80/ab178005-ebf8-f22e-06ac-ffa1fc7f819a/196871850438.jpg/100x100bb.jpg
 Deftones,Cherry Waves,10,2026-10-28T21:59:38Z,Open Channel,Hard Rock,Saturday Night Wrist (Bonus Track Version),,https://music.apple.com/us/album/cherry-waves/1099850829?i=1099850847,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/100x100bb.jpg
 Green Day,American Idiot (Album Version),11,2026-10-28T21:56:39Z,Open Channel,Pop,Amnesia - EP,,https://music.apple.com/us/search?term=Green+Day+American+Idiot+%28Album+Version%29,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/de/24/19/de24190d-20a3-06cc-c609-aff87a77c098/00602537985975.rgb.jpg/100x100bb.jpg
 Beastie Boys,Sabotage,28,2026-10-28T21:53:35Z,Open Channel,Hip-Hop/Rap,Solid Gold Hits,,https://music.apple.com/us/album/sabotage/724971392?i=724971921,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/af/7c/39af7ceb-b3ad-9ce1-e29b-ffe77f549a65/00094634627153.rgb.jpg/100x100bb.jpg
@@ -1070,7 +1073,6 @@ Sneaker Pimps,How Do,13,2026-10-24T17:14:44Z,,Alternative,Becoming X,,,Kurt,http
 Boy Throb,Finger,5,2026-10-24T16:49:43Z,,Pop,Finger - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/dd/c9/3fddc928-f027-8bdc-4492-a1ec3faff0d2/859724795156_cover.jpg/100x100bb.jpg
 ODD EYE CIRCLE (ARTMS),My Secret Playlist,17,2026-10-24T16:47:12Z,,K-Pop,ODD EYE CIRCLE <Version Up> - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/01/41/3f01413b-6ceb-8be0-c4d4-0558a084ccc1/8804775297823.jpg/100x100bb.jpg
 Sting,Fields Of Gold (My Songs Version),3,2026-10-24T16:43:14Z,,Pop,My Songs (Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/7e/03/ec7e03b3-5a19-87d6-b87e-40cf8e530ad2/00602577628740.rgb.jpg/100x100bb.jpg
-Martin Garrix,Carry You,7,2026-10-24T16:34:42Z,,Dance,Carry You (feat. Declan J Donovan) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/4f/98/6a4f98b8-53bb-0bb9-5a22-5a0e213adaf4/8720996840412.png/100x100bb.jpg
 Bachman-Turner Overdrive,Takin' Care Of Business,18,2026-10-24T16:29:42Z,,Rock,Bachman-Turner Overdrive II,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/c9/bd/f8c9bdbe-8500-760b-40b6-b0a100bd6f69/06UMGIM04514.rgb.jpg/100x100bb.jpg
 Paula Abdul,Straight Up (Single Version),11,2026-10-24T16:25:12Z,,Pop,20 #1’s: 80's Pop,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/77/7b/18777b3b-4e1c-a036-7f6e-036d98bfc7b7/15UMGIM76732.rgb.jpg/100x100bb.jpg
 Benny Sings,Rolled Up,20,2026-10-24T16:16:42Z,,Pop,Rolled Up (feat. Mac DeMarco) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/33/a4/1f33a402-77cf-9a69-3c88-f0bf816bdcb4/968.jpg/100x100bb.jpg
@@ -1080,46 +1082,46 @@ USA for Africa,We Are The World,45,2026-10-24T15:48:46Z,,Rock,We Are the World -
 RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),26,2026-10-24T15:22:42Z,,Electronic,Live from Joshua Tree,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/22/cb/1422cb8d-0909-d000-74e6-f04629a4c7d7/093624893905.jpg/100x100bb.jpg
 The Orb,Blue Room  (Live),17,2026-10-24T15:14:42Z,,Electronic,U.F.OFF: The Best of the Orb,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a2/f5/0d/a2f50d90-bb44-6028-4100-37cdf84f24cc/00731452459923.rgb.jpg/100x100bb.jpg
 Billy Joel,Scenes from an Italian Restaurant (Album Version),17,2026-10-24T15:07:13Z,,Rock,The Stranger,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/100x100bb.jpg
-Johnny Cash,Folsom Prison Blues,15,2026-10-24T14:46:12Z,,Country,All Aboard the Blue Train (Definitive Expanded Remastered Edition),,,Kurt,
-Leonard Cohen,Avalanche,20,2026-10-24T14:40:42Z,,Pop,Songs of Love and Hate,,,Kurt,
-SWV,Weak,20,2026-10-24T14:31:42Z,,R&B/Soul,It's About Time,,,Kurt,
-Tom Konkle,Name On A Screen,8,2026-10-24T14:24:42Z,,Rock,The Storm with a Gentle Face,,,Kurt,
-Анна Герман,Город влюблённых,15,2026-10-24T14:16:12Z,,Pop,На тот берег,,,Kurt,
-The Script feat. will.i.am,Hall of Fame,11,2026-10-24T14:13:12Z,,Pop,#3 (Deluxe Version),,,Kurt,
-Screamin' Jay Hawkins,I Put a Spell On You,13,2026-10-24T13:53:42Z,,R&B/Soul,Cow Fingers And Mosquito Pie,,,Kurt,
-Freddie Mercury,Love Kills,7,2026-10-24T13:49:12Z,,Rock,Queen Forever (Deluxe Edition),,,Kurt,
-The Rolling Stones,Street Fighting Man,25,2026-10-24T13:40:12Z,,Pop,Beggars Banquet (2018 Remaster),,,Kurt,
-Bruce Springsteen,No Surrender,6,2026-10-24T13:36:12Z,,Rock,Born In the U.S.A.,,,Kurt,
-Creedence Clearwater Revival,Cotton Fields,11,2026-10-24T13:33:12Z,,Rock,The Complete Collection (Digital Box) [iTunes],,,Kurt,
-B.B. King,The Thrill Is Gone,29,2026-10-24T13:27:42Z,,Blues,Completely Well,,,Kurt,
-Petra,This Means War,5,2026-10-24T13:22:12Z,,Christian,This Means War! (25th Anniversary Edition),,,Kurt,
-Chuck Berry,Johnny B. Goode,26,2026-10-24T13:19:12Z,,Rock,Berry Is On Top,,,Kurt,
-Dire Straits,Money for Nothing,21,2026-10-24T13:06:42Z,,Rock,Private Investigations: The Best of Dire Straits & Mark Knopfler,,,Kurt,
-Loverboy,Lovin' Every Minute of It,5,2026-10-24T12:57:12Z,,Rock,Lovin' Every Minute Of It,,,Kurt,
-Gene Kelly,Singin' in the Rain,9,2026-10-24T12:44:12Z,,Soundtrack,Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],,Kurt,
-Stevie Wonder,Living For The City (Album Version),21,2026-10-24T12:36:43Z,,Motown,Innervisions,,,Kurt,
-Jim James,St. James Infirmary,28,2026-10-24T12:25:12Z,,Rock,Plays the Hits,,,Kurt,
-The Brothers Johnson,Strawberry Letter 23 (Album Version),55,2026-10-24T12:20:12Z,,R&B/Soul,Strawberry Letter 23 / The Very Best of the Brothers Johnson (Remastered),,,Kurt,
-The Weeknd,Gasoline,95,2026-10-24T12:16:42Z,,R&B/Soul,Dawn FM,,,Kurt,
-The Platters,The Great Pretender (Single Version),35,2026-10-24T12:13:42Z,,Doo Wop,The Great Pretender - Single,,,Kurt,
-The Crystal Method,Cherry Twist,3,2026-10-24T12:09:12Z,,Electronic,Vegas,,,Kurt,
+Johnny Cash,Folsom Prison Blues,15,2026-10-24T14:46:12Z,,Country,All Aboard the Blue Train (Definitive Expanded Remastered Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/4b/b6/d74bb621-7319-d6a7-6f69-b43249253c60/LM00177737.jpg/100x100bb.jpg
+Leonard Cohen,Avalanche,20,2026-10-24T14:40:42Z,,Pop,Songs of Love and Hate,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/d4/cc/38d4cc8b-ad0a-d168-0cf6-355606a31759/196873437873.jpg/100x100bb.jpg
+SWV,Weak,20,2026-10-24T14:31:42Z,,R&B/Soul,It's About Time,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/36/83/f33683c6-fb4e-326d-9bc6-2b25e146553c/078636607429.jpg/100x100bb.jpg
+Tom Konkle,Name On A Screen,8,2026-10-24T14:24:42Z,,Rock,The Storm with a Gentle Face,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/6e/fb/486efbfb-6773-fed4-2ad2-75678a2a911c/199900230096.jpg/100x100bb.jpg
+Анна Герман,Город влюблённых,15,2026-10-24T14:16:12Z,,Pop,На тот берег,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/c5/09/28/c509280b-6da7-b1a4-8ee2-af405cfef03e/cover.jpg/100x100bb.jpg
+The Script feat. will.i.am,Hall of Fame,11,2026-10-24T14:13:12Z,,Pop,#3 (Deluxe Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/89/cd/bb89cdb5-4456-2b75-d1f9-e61009a4c8cc/886443609532.jpg/100x100bb.jpg
+Screamin' Jay Hawkins,I Put a Spell On You,13,2026-10-24T13:53:42Z,,R&B/Soul,Cow Fingers And Mosquito Pie,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/20/e5/b5/mzi.taiavvuz.jpg/100x100bb.jpg
+Freddie Mercury,Love Kills,7,2026-10-24T13:49:12Z,,Rock,Queen Forever (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/88/83/a6888328-4836-cdf1-0f10-05fb35207ccf/602547040954.jpg/100x100bb.jpg
+The Rolling Stones,Street Fighting Man,25,2026-10-24T13:40:12Z,,Pop,Beggars Banquet (2018 Remaster),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/100x100bb.jpg
+Bruce Springsteen,No Surrender,6,2026-10-24T13:36:12Z,,Rock,Born In the U.S.A.,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/72/68/327268ba-b9dd-b322-2a16-bdd0212df48c/074643865326.jpg/100x100bb.jpg
+Creedence Clearwater Revival,Cotton Fields,11,2026-10-24T13:33:12Z,,Rock,The Complete Collection (Digital Box) [iTunes],,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/66/8c/1c668c7f-59e5-1fe6-ac90-c38c6eca2ddd/08UMGIM24904.rgb.jpg/100x100bb.jpg
+B.B. King,The Thrill Is Gone,29,2026-10-24T13:27:42Z,,Blues,Completely Well,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/a4/c6/f9a4c613-ecfd-2440-c268-87168e580156/06UMGIM01700.rgb.jpg/100x100bb.jpg
+Petra,This Means War,5,2026-10-24T13:22:12Z,,Christian,This Means War! (25th Anniversary Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/2d/df/1a/2ddf1a4d-3b0e-d01d-5d6a-acae3e456ba0/05099960227454.jpg/100x100bb.jpg
+Chuck Berry,Johnny B. Goode,26,2026-10-24T13:19:12Z,,Rock,Berry Is On Top,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/86/9f/74869f4f-c52b-289b-31a7-9ac9fec31e2d/06UMGIM70785.rgb.jpg/100x100bb.jpg
+Dire Straits,Money for Nothing,21,2026-10-24T13:06:42Z,,Rock,Private Investigations: The Best of Dire Straits & Mark Knopfler,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/91/ff/c391ff50-caba-db8a-2387-6c906d2ca65c/mzi.gyijrdqr.jpg/100x100bb.jpg
+Loverboy,Lovin' Every Minute of It,5,2026-10-24T12:57:12Z,,Rock,Lovin' Every Minute Of It,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/68/d8/7768d805-811d-37a6-7af5-db18038ba8f5/dj.gwabnurn.jpg/100x100bb.jpg
+Gene Kelly,Singin' in the Rain,9,2026-10-24T12:44:12Z,,Soundtrack,Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/5e/c2/5a5ec258-75ae-8d5f-2a13-09495d6fa8f7/794043185656.jpg/100x100bb.jpg
+Stevie Wonder,Living For The City (Album Version),21,2026-10-24T12:36:43Z,,Motown,Innervisions,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/100x100bb.jpg
+Jim James,St. James Infirmary,28,2026-10-24T12:25:12Z,,Rock,Plays the Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/1f/dc/08/mzi.woaaxkia.tif/100x100bb.jpg
+The Brothers Johnson,Strawberry Letter 23 (Album Version),55,2026-10-24T12:20:12Z,,R&B/Soul,Strawberry Letter 23 / The Very Best of the Brothers Johnson (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/3d/b4/203db425-5910-a34e-b72e-11a276be063a/06UMGIM10314.rgb.jpg/100x100bb.jpg
+The Weeknd,Gasoline,95,2026-10-24T12:16:42Z,,R&B/Soul,Dawn FM,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/100x100bb.jpg
+The Platters,The Great Pretender (Single Version),35,2026-10-24T12:13:42Z,,Doo Wop,The Great Pretender - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f3/21/fa/f321fafc-336b-2bdb-be57-46f36ac7ebf6/889466389177.jpg/100x100bb.jpg
+The Crystal Method,Cherry Twist,3,2026-10-24T12:09:12Z,,Electronic,Vegas,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/3a/6f/b23a6f62-1d03-044a-71ab-edb55f385fc5/00607703000322.rgb.jpg/100x100bb.jpg
 Little River Band,Reminiscing (2002 Digital Remaster),26,2026-10-24T12:03:42Z,,,,,,Kurt,
-Tonto's Expanding Head Band,Cybernaut,30,2026-10-24T11:52:42Z,,Electronic,Zero Time,,,Kurt,
-The Altons,When You Go (That's When You'll Know),32,2026-10-24T11:49:12Z,,R&B/Soul,When You Go (That's When You'll Know) - Single,,,Kurt,
-Queen,Flash (Remastered 2011),19,2026-10-24T11:46:12Z,,Rock,Some Girls (Remastered 2011),,,Kurt,
-The Smile,The Smoke,6,2026-10-24T11:35:12Z,,Alternative,A Light for Attracting Attention,,,Kurt,
-Charly García,Demoliendo Hoteles (Live),21,2026-10-24T11:11:12Z,,Rock y Alternativo,Unplugged,,,Kurt,
-Daft Punk feat. Julian Casablancas,Instant Crush (feat. Julian Casablancas),18,2026-10-24T11:05:12Z,,Pop,Random Access Memories,,,Kurt,
-Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:42Z,,Classical,The 50 Greatest Pieces of Classical Music,,,Kurt,
-Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,Original Score,My Neighbor Totoro (Original Soundtrack),My Neighbor Totoro (Original Soundtrack),,Kurt,
+Tonto's Expanding Head Band,Cybernaut,30,2026-10-24T11:52:42Z,,Electronic,Zero Time,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/93/d9/33/93d933e0-2b86-ce74-d7b3-d654b2630cf7/603497979806.jpg/100x100bb.jpg
+The Altons,When You Go (That's When You'll Know),32,2026-10-24T11:49:12Z,,R&B/Soul,When You Go (That's When You'll Know) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/eb/14/a7eb14f8-ef77-2903-9d2d-6868321c271b/24943.jpg/100x100bb.jpg
+Queen,Flash (Remastered 2011),19,2026-10-24T11:46:12Z,,Rock,Some Girls (Remastered 2011),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/6d/64/d96d6477-52a7-2f7e-dcb3-64ca658e9da5/08UMGIM15738.rgb.jpg/100x100bb.jpg
+The Smile,The Smoke,6,2026-10-24T11:35:12Z,,Alternative,A Light for Attracting Attention,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/f4/e5/5ef4e525-68b6-0ac2-3bcc-a2670ab21bb7/191404119655.png/100x100bb.jpg
+Charly García,Demoliendo Hoteles (Live),21,2026-10-24T11:11:12Z,,Rock y Alternativo,Unplugged,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/b5/20/6d/b5206da0-f4e7-b16b-dc09-30d5b8a0b13d/dj.gtglibha.jpg/100x100bb.jpg
+Daft Punk feat. Julian Casablancas,Instant Crush (feat. Julian Casablancas),18,2026-10-24T11:05:12Z,,Pop,Random Access Memories,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/100x100bb.jpg
+Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:42Z,,Classical,The 50 Greatest Pieces of Classical Music,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/7f/fd/8d7ffd6d-1dca-7012-1859-0241a2a86033/7340027075005.jpg/100x100bb.jpg
+Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,Original Score,My Neighbor Totoro (Original Soundtrack),My Neighbor Totoro (Original Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/46/1a/f7461a63-8b15-3b78-eb08-8116f6547ed2/TKCA-72725.jpg/100x100bb.jpg
 Soda Stereo,Luna Roja (Remasterizado 2007),20,2026-10-24T10:12:12Z,,,,,,Kurt,
-City,Am Fenster,4,2026-10-24T09:59:12Z,,German Pop,Am Fenster - Single,,,Kurt,
-John Lennon,Watching The Wheels (Remastered 2010),4,2026-10-24T09:49:12Z,,Rock,Double Fantasy (Stripped Down),,,Kurt,
-Okkervil River,Lost Coastlines,19,2026-10-24T09:39:42Z,,Alternative,The Stand Ins,,,Kurt,
-Gigi Perez,Sailor Song,234,2026-10-24T09:36:12Z,,Pop,Sailor Song - Single,,,Kurt,
-Bobby Vinton,Blue Velvet,9,2026-10-24T09:26:12Z,,Pop,The Best of Bobby Vinton,,,Kurt,
-Paul Mauriat,Love Is Blue (Album Version),13,2026-10-24T09:23:42Z,,Country,By the Time I Get to Phoenix,,,Kurt,
-Buddy Guy,"Damn Right, I've Got the Blues",9,2026-10-24T09:15:42Z,,Blues,"Damn Right, I've Got the Blues (Expanded Edition)",,,Kurt,
+City,Am Fenster,4,2026-10-24T09:59:12Z,,German Pop,Am Fenster - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/90/bf/7290bf16-b8ed-12ad-921b-7019382f5048/886448110460.jpg/100x100bb.jpg
+John Lennon,Watching The Wheels (Remastered 2010),4,2026-10-24T09:49:12Z,,Rock,Double Fantasy (Stripped Down),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/03/24/a6032408-974f-70cf-7eee-f85baf280bb2/13UABIM53685.rgb.jpg/100x100bb.jpg
+Okkervil River,Lost Coastlines,19,2026-10-24T09:39:42Z,,Alternative,The Stand Ins,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/68/6e/c4/686ec49d-3acb-6ab2-c9fc-1f1233fe5e6d/dj.mddbkxai.jpg/100x100bb.jpg
+Gigi Perez,Sailor Song,234,2026-10-24T09:36:12Z,,Pop,Sailor Song - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/100x100bb.jpg
+Bobby Vinton,Blue Velvet,9,2026-10-24T09:26:12Z,,Pop,The Best of Bobby Vinton,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/37/6a/5d376a4c-105f-c225-8ccd-55eee82e8734/mzi.zxoghrfu.jpg/100x100bb.jpg
+Paul Mauriat,Love Is Blue (Album Version),13,2026-10-24T09:23:42Z,,Country,By the Time I Get to Phoenix,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/9e/19/8e/9e198e8e-ccea-4265-d452-dd7f2c1e73a9/886445453409.jpg/100x100bb.jpg
+Buddy Guy,"Damn Right, I've Got the Blues",9,2026-10-24T09:15:42Z,,Blues,"Damn Right, I've Got the Blues (Expanded Edition)",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features/4e/e0/61/dj.jwlzwfwd.jpg/100x100bb.jpg
 Home,We're Finally Landing,10,2026-10-24T08:57:42Z,,Electronic,Before the Night,,,Kurt,
 The Rolling Stones,You Can't Always Get What You Want,8,2026-10-24T08:38:42Z,,Rock,Let It Bleed (Remastered 2019),,,Kurt,
 Mireille Mathieu,Together We're Strong,49,2026-10-24T08:34:42Z,,German Pop,Rendezvous,,,Kurt,
@@ -1205,7 +1207,6 @@ Miley Cyrus,Flowers,9,2026-10-23T19:34:32Z,,Pop,Endless Summer Vacation,,,Kurt,
 Rihanna,Umbrella (Album Version),11,2026-10-23T19:30:03Z,,Pop,Good Girl Gone Bad,,,Kurt,
 Rick Astley,Never Gonna Give You Up,10,2026-10-23T19:22:02Z,,Pop,Whenever You Need Somebody,,,Kurt,
 Backstreet Boys,I Want It That Way,13,2026-10-23T19:18:32Z,,Pop,Millennium,,,Kurt,
-Beyoncé,TEXAS HOLD 'EM,148,2026-10-23T19:14:32Z,,Country,TEXAS HOLD 'EM - Single,,,Kurt,
 Icona Pop,I Love It (feat. Charli XCX),9,2026-10-23T19:12:04Z,,Pop,This Is... Icona Pop,,,Kurt,
 Cyndi Lauper,Time After Time,10,2026-10-23T19:07:32Z,,Pop,She's So Unusual,,,Kurt,
 Harry Styles,As It Was,67,2026-10-23T19:04:32Z,,Pop,Harry's House,,,Kurt,
@@ -1771,7 +1772,6 @@ The Weeknd,After Hours,17,2026-10-14T13:24:46Z,,R&B/Soul,After Hours,,,Kurt,http
 Tiny Tim,Tip Toe Thru' the Tulips with Me (Single Version),8,2026-10-14T13:19:45Z,,Pop,The Collection,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3a/5e/e7/3a5ee780-9716-4fd4-450f-32e4b696b623/842474121115.jpg/100x100bb.jpg
 Michael Jackson,Stranger in Moscow,14,2026-10-14T13:09:45Z,,Pop,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/8d/b1/c58db1f1-0249-7a52-b58c-6f4eb145b06a/884977149166.jpg/100x100bb.jpg
 Dorian Electra,Bizarre Love Triangle,4,2026-10-14T13:02:45Z,,Electronic,Dorian Electra,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/44/33/cb443337-11d8-11d2-6063-c4c3731ca7a2/00823375078302_Cover.jpg/100x100bb.jpg
-Robin Packalen,Kesärenkaat,8,2026-10-14T02:22:40Z,,Pop,16 (Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5f/2c/7a/5f2c7a98-17d2-fda8-7f93-a3d55f37246a/00602547033574.rgb.jpg/100x100bb.jpg
 The Beatles,Here Comes The Sun (2019 Mix),137,2026-10-14T00:19:40Z,,Rock,Abbey Road (2019 Mix),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/53/43/485343e3-dd6a-0034-faec-f4b6403f8108/13UMGIM63890.rgb.jpg/100x100bb.jpg
 JAWNY,true,3,2026-10-13T19:10:04Z,,Alternative,true - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7c/12/e6/7c12e689-b4de-14c5-c5d3-a5d6b4fdba02/22UM1IM40129.rgb.jpg/100x100bb.jpg
 AC/DC,Thunderstruck,8,2026-10-13T16:30:32Z,,Hard Rock,Iron Man 2,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/bb/a2/f0/bba2f0d7-4d9e-c617-d49e-3ae02fd5d440/dj.xbkfgllk.jpg/100x100bb.jpg
