@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Fleetwood Mac,Sara,21,2026-10-28T15:12:27Z,Open Channel,Rock,Greatest Hits,,https://music.apple.com/us/album/sara/202271826?i=202272717,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg
+Duran Duran,Ordinary World,10,2026-10-28T15:06:41Z,Open Channel,Pop,Duran Duran (The Wedding Album),,https://music.apple.com/us/album/ordinary-world/696247010?i=696247422,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/43/cb/e943cba9-b641-14a9-c5cb-52e67cef101c/077779887651.jpg/100x100bb.jpg
+Angélique Kidjo,Malaika,1,2026-10-28T15:02:14Z,Open Channel,Worldwide,Logozo,,https://music.apple.com/us/search?term=Ang%C3%A9lique+Kidjo+Malaika,Regal,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/ef/99/54ef9954-35d4-e281-4e51-b3e4d538bf35/00731451035227.rgb.jpg/100x100bb.jpg
 The Orb,Earth (Gaia),27,2026-10-28T14:52:16Z,Earth Beats,Electronic,The Orb's Adventures Beyond the Ultraworld,,https://music.apple.com/us/album/earth-gaia/1452851519?i=1452851526,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/d9/94/e6d994a2-585a-4940-ff6d-5b4d73b330b2/06UMGIM03957.rgb.jpg/100x100bb.jpg
 Pedro Infante,Amorcito corazón,17,2026-10-28T14:49:06Z,Earth Beats,Baladas y Boleros,Amorcito Corazón,,https://music.apple.com/us/album/amorcito-coraz%C3%B3n/358371281?i=358371283,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/c7/8e/00c78ec1-5757-a226-b325-c866c3afadfa/mzi.ceibfsfp.jpg/100x100bb.jpg
 Roxette,The Look,12,2026-10-28T14:45:00Z,Earth Beats,Pop,Greatest Hits,,https://music.apple.com/us/album/the-look/693154507?i=693154909,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/ef/d7/5cefd760-1260-4081-621a-85db2355e13a/dj.gmqdvhoe.jpg/100x100bb.jpg
@@ -1278,7 +1281,6 @@ Pink Floyd,Wish You Were Here,14,2026-10-23T03:43:26Z,,Rock,Wish You Were Here,,
 Jack Johnson,Upside Down,5,2026-10-23T03:39:56Z,,Rock,Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George,,,Kurt,
 Bob Dylan,The Lonesome Death of Hattie Carroll,46,2026-10-23T03:23:56Z,,Rock,The Times They Are A-Changin’,,,Kurt,
 The Cure,Lovesong  (2010 Remaster),12,2026-10-23T03:10:27Z,,Alternative,Disintegration (2010 Remaster),,,Kurt,
-Fleetwood Mac,Sara,21,2026-10-23T03:04:26Z,,Rock,Greatest Hits,,,Kurt,
 Ryuichi Sakamoto,Bibo no Aozora,23,2026-10-23T02:54:26Z,,Classical Crossover,1996 (Re-Mastered),,,Kurt,
 Explosions In The Sky,Your Hand in Mine,20,2026-10-23T02:39:55Z,,Rock,The Earth Is Not a Cold Dead Place,,,Kurt,
 Tycho,Dive,99,2026-10-23T02:31:25Z,,Electronic,Dive,,,Kurt,
@@ -1552,7 +1554,6 @@ Busta Rhymes,Gimme Some More,4,2026-10-20T22:21:43Z,,Música tropical,Pa'lla Voy
 Adamski,Killer,16,2026-10-20T22:17:43Z,,Electronic,Doctor Adamski’s Musical Pharmacy,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/34/f6/7434f65b-d32a-4c75-ceec-faa61d3e99f0/18UMGIM16947.rgb.jpg/100x100bb.jpg
 Skid Row,I Remember You,3,2026-10-20T22:08:44Z,,Rock,Skid Row,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/73/fb/9773fb18-0a19-d3dc-d702-47cc42beb64e/0603497880065.jpg/100x100bb.jpg
 The Cure,A Forest,26,2026-10-20T21:26:13Z,,Alternative,Seventeen Seconds (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/b4/9a/83b49a32-35ec-16b1-b933-9a895824cad8/s07.uqusdlxc.jpg/100x100bb.jpg
-Duran Duran,Ordinary World,10,2026-10-20T21:15:14Z,,Pop,Duran Duran (The Wedding Album),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/43/cb/e943cba9-b641-14a9-c5cb-52e67cef101c/077779887651.jpg/100x100bb.jpg
 Khruangbin,White Gloves,84,2026-10-20T21:05:44Z,,Alternative,The Universe Smiles Upon You,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/d9/24/08d924cf-3f00-268c-c772-58b7f96b5797/5060391090474_cover.jpg/100x100bb.jpg
 Shellac,The End of Radio,14,2026-10-20T20:45:13Z,,Indie Rock,The End of Radio,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/e7/1a/90e71a9d-ca5e-7ef4-4154-886ec776dc72/036172112463.jpg/100x100bb.jpg
 Lou Reed,Goodnight Ladies,13,2026-10-20T20:37:13Z,,Rock,Transformer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e7/69/2ae76967-b94e-3b80-a079-93202eeb6157/886445151930.jpg/100x100bb.jpg
@@ -1661,45 +1662,45 @@ P!nk,Get the Party Started,6,2026-10-18T09:39:26Z,,Pop,Greatest Hits...So Far!!!
 Pink Floyd,Comfortably Numb,10,2026-10-18T09:32:57Z,,Rock,The Wall,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/100x100bb.jpg
 Melody Gardot,La chanson des vieux amants,7,2026-10-18T08:01:26Z,,Jazz,Brel - Ces gens-là,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/cc/e8/f0cce8f5-80f5-c963-3099-90518b10a4b4/00602577414749.rgb.jpg/100x100bb.jpg
 Steely Dan,Time Out Of Mind,31,2026-10-18T07:04:57Z,,Rock,Gaucho,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/2e/26/492e2633-9199-0b8e-6642-e2d4a5f08a93/23UM1IM00406.rgb.jpg/100x100bb.jpg
-Jeff Lynne,At Last,4,2026-10-18T05:13:25Z,,,,,,Kurt,
-Cynthia Harrell,SNAKE EATER Δ,12,2026-10-18T05:04:55Z,,,,,,Kurt,
-Queen,The March of the Black Queen (2026 Mix),19,2026-10-18T04:48:25Z,,,,,,Kurt,
-The Chordettes,Mr. Sandman,11,2026-10-18T04:36:25Z,,,,,,Kurt,
+Jeff Lynne,At Last,4,2026-10-18T05:13:25Z,,Rock,Long Wave,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/01/d6/9901d634-9604-f97d-c33c-86d7fd72d249/886446781518.jpg/100x100bb.jpg
+Cynthia Harrell,SNAKE EATER Δ,12,2026-10-18T05:04:55Z,,Soundtrack,Metal Gear Solid Vocal Tracks,Metal Gear Solid Vocal Tracks,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/81/c2/9481c21c-cdfa-71a3-255c-4a44986d0e46/007527_4988602168211.jpg/100x100bb.jpg
+Queen,The March of the Black Queen (2026 Mix),19,2026-10-18T04:48:25Z,,Rock,Queen II (2026 Mix),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/0c/89/ed0c89b1-bb54-7933-f93a-4ba8d625fc10/602478438561.jpg/100x100bb.jpg
+The Chordettes,Mr. Sandman,11,2026-10-18T04:36:25Z,,Pop,The Very Best of the Chordettes (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/8d/35/938d35f7-45dc-2103-3d87-3939dd4696b3/8445281295844.jpg/100x100bb.jpg
 marshall4,i get gender envy from shadow the hedgehog,4,2026-10-18T03:54:54Z,,,,,,Kurt,
-Evan Fong,pe$o$,2,2026-10-18T03:52:24Z,,,,,,Kurt,
+Evan Fong,pe$o$,2,2026-10-18T03:52:24Z,,Alternative,pe$o$ - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/37/61/c7376100-f527-f65b-789f-3702fc1d8459/820200460059.jpg/100x100bb.jpg
 Pent Up Pup,ORDER:SCORE,3,2026-10-18T03:50:54Z,,,,,,Kurt,
-Ghostwriter,heart on my sleeve,6,2026-10-18T03:48:54Z,,,,,,Kurt,
-The Vampire Lestat,Dancing With Myself,4,2026-10-18T03:44:53Z,,,,,,Kurt,
-Tom Konkle,Manipulation (The Dance),5,2026-10-18T03:37:24Z,,,,,,Kurt,
-OhtoPlaya,SPACEDOG (OhtoPlaya Remix),2,2026-10-18T03:33:53Z,,,,,,Kurt,
-Tate McRae,greedy,6,2026-10-18T03:24:53Z,,,,,,Kurt,
+Ghostwriter,heart on my sleeve,6,2026-10-18T03:48:54Z,,R&B/Soul,In Pieces,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/42/41/f04241f1-6f4b-7251-1a93-0174ed4d423d/196589912862.jpg/100x100bb.jpg
+The Vampire Lestat,Dancing With Myself,4,2026-10-18T03:44:53Z,,Rock,Dancing With Myself - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/7a/36/d57a36f9-5d61-b05d-c679-18af76a88a90/780163687323.jpg/100x100bb.jpg
+Tom Konkle,Manipulation (The Dance),5,2026-10-18T03:37:24Z,,Pop,Manipulation (The Dance) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f3/0a/53f30af7-5147-a521-e39c-0b9f540bb475/199900343840.jpg/100x100bb.jpg
+OhtoPlaya,SPACEDOG (OhtoPlaya Remix),2,2026-10-18T03:33:53Z,,Hip-Hop/Rap,SPACEDOG (feat. DanTDM) [OhtoPlaya Remix] - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/03/47/eb034794-e787-0fdc-bbc3-c68f55b9344d/artwork.jpg/100x100bb.jpg
+Tate McRae,greedy,6,2026-10-18T03:24:53Z,,Pop,THINK LATER,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/4a/c2/214ac20c-a66c-84a1-e357-f7e60b1932ca/196871542661.jpg/100x100bb.jpg
 Insane Clown Posse,Cemetary Girl,3,2026-10-18T03:04:23Z,,,,,,Kurt,
-Obie Fernandez,Take Me Back (Extended Mix),5,2026-10-18T02:50:23Z,,,,,,Kurt,
-Nanowar of Steel,Valhalleluja,7,2026-10-18T02:41:53Z,,,,,,Kurt,
-Max Specter,Just Asking (Day Theme I),8,2026-10-18T02:38:23Z,,,,,,Kurt,
+Obie Fernandez,Take Me Back (Extended Mix),5,2026-10-18T02:50:23Z,,Dance,Take Me Back - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/7c/5b/5c7c5bfc-b5ec-ada8-4812-4c81ddd161a4/8718525335430.png/100x100bb.jpg
+Nanowar of Steel,Valhalleluja,7,2026-10-18T02:41:53Z,,Metal,Valhalleluja - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/5f/73/ad5f73b3-dc07-effa-3036-348dde001a1e/840588131136.jpg/100x100bb.jpg
+Max Specter,Just Asking (Day Theme I),8,2026-10-18T02:38:23Z,,Soundtrack,"No, I'm not a Human (Original Soundtrack)","No, I'm not a Human (Original Soundtrack)",,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/71/2a/ca712a01-805e-b239-26c2-ecb19a7cf32d/0.jpg/100x100bb.jpg
 Alestorm,Captain Morgan`s Revenge,4,2026-10-18T02:31:52Z,,,,,,Kurt,
-Paul Leonard-Morgan,She's a Pass,7,2026-10-18T02:28:22Z,,,,,,Kurt,
-Glenn Miller & His Orchestra,At Last,6,2026-10-18T02:00:22Z,,,,,,Kurt,
-Tom Konkle,Camouflage (Acoustic Mix),3,2026-10-18T01:50:22Z,,,,,,Kurt,
-Filippo Beck Peccoz,The Thieves of Imai,4,2026-10-18T01:47:22Z,,,,,,Kurt,
-Neuro-sama,Colorful Array,6,2026-10-18T01:42:52Z,,,,,,Kurt,
-Weird Al Yankovic,"Ode to a Superhero (Parody of ""Piano Man"" by Billy Joel)",5,2026-10-18T01:24:51Z,,,,,,Kurt,
-Seatbelts,Space Lion,12,2026-10-18T01:09:21Z,,,,,,Kurt,
-Richard Wagner,Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One),3,2026-10-18T00:55:51Z,,,,,,Kurt,
-The Judds,Grandpa (Tell Me 'Bout The Good Old Days),6,2026-10-18T00:46:21Z,,,,,,Kurt,
-Bruce Springsteen,Thunder Road,44,2026-10-18T00:26:21Z,,,,,,Kurt,
-The Leeward Fits,Over the Rainbow (Israel Kamakawiwoʻole Cover),8,2026-10-18T00:22:50Z,,,,,,Kurt,
-Kenny Rogers,The Gambler,9,2026-10-17T23:42:20Z,,,,,,Kurt,
-Meat Loaf,Dead Ringer For Love (Album Version),5,2026-10-17T22:41:19Z,,,,,,Kurt,
-Lana Del Rey,Heroin,22,2026-10-17T21:55:19Z,,,,,,Kurt,
-Sufjan Stevens,Fourth of July,38,2026-10-17T21:31:18Z,,,,,,Kurt,
-Lou Rawls,At Last,11,2026-10-17T16:14:17Z,,,,,,Kurt,
-Sting,Shape Of My Heart (My Songs Version),2,2026-10-17T15:21:47Z,,,,,,Kurt,
+Paul Leonard-Morgan,She's a Pass,7,2026-10-18T02:28:22Z,,Soundtrack,Dredd: Original Motion Picture Soundtrack,Dredd: Original Motion Picture Soundtrack,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/62/04/216204ae-da05-635f-dd66-c107389d88d3/888831524823.jpg/100x100bb.jpg
+Glenn Miller & His Orchestra,At Last,6,2026-10-18T02:00:22Z,,Jazz,The Essential Glenn Miller,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/c8/ff/1dc8ff05-307c-0734-17ed-6a5f7bd645ff/mzi.varbrygk.jpg/100x100bb.jpg
+Tom Konkle,Camouflage (Acoustic Mix),3,2026-10-18T01:50:22Z,,Rock,Echo Drift,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f8/ae/e0f8ae11-25e1-10ce-5a59-348b7638148d/199800926259.jpg/100x100bb.jpg
+Filippo Beck Peccoz,The Thieves of Imai,4,2026-10-18T01:47:22Z,,Soundtrack,Shadow Tactics - Blades of the Shogun (Original Game Soundtrack),Shadow Tactics - Blades of the Shogun (Original Game Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/92/28/f292286d-b35a-b162-c6c8-9cea4ba4f578/artwork.jpg/100x100bb.jpg
+Neuro-sama,Colorful Array,6,2026-10-18T01:42:52Z,,Pop,Colorful Array - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/ee/cf/89eecff0-f009-d7b3-61fc-464dd077ee99/artwork.jpg/100x100bb.jpg
+Weird Al Yankovic,"Ode to a Superhero (Parody of ""Piano Man"" by Billy Joel)",5,2026-10-18T01:24:51Z,,Comedy,Poodle Hat,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d2/39/da/d239dac6-df7a-fe73-5e7d-6e9e2724e57b/dj.kjblpccs.jpg/100x100bb.jpg
+Seatbelts,Space Lion,12,2026-10-18T01:09:21Z,,TV Soundtrack,COWBOY BEBOP (Original Motion Picture Soundtrack),COWBOY BEBOP (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/df/5abbdf28-bf0e-0530-e5f8-0f0ca3150e0a/195081633657.jpg/100x100bb.jpg
+Richard Wagner,Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One),3,2026-10-18T00:55:51Z,,Classical,"Wagner: Orchestral Pieces from Parsifal, Tristan und Isolde & Tannhäuser",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d8/c4/30/d8c430d9-3d25-f476-3051-7f37a489cee8/00028947437727.rgb.jpg/100x100bb.jpg
+The Judds,Grandpa (Tell Me 'Bout The Good Old Days),6,2026-10-18T00:46:21Z,,Country,Number One Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/af/7b/53af7b43-c7fb-01c3-45e2-5aa2dfa87ced/715187796522.png/100x100bb.jpg
+Bruce Springsteen,Thunder Road,44,2026-10-18T00:26:21Z,,Rock,Born to Run,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/02/f7/0a02f7a1-ca2a-c0d7-7192-50314971721f/884977157031.jpg/100x100bb.jpg
+The Leeward Fits,Over the Rainbow (Israel Kamakawiwoʻole Cover),8,2026-10-18T00:22:50Z,,Rock,Two Mics & a Tune / The Leeward Fits Acoustic,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/b6/62/e5b662fe-bf87-f4b9-50bd-7cf1ea7e93a8/198003289598.jpg/100x100bb.jpg
+Kenny Rogers,The Gambler,9,2026-10-17T23:42:20Z,,Country,The Gambler,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/74/a2/0474a210-0239-df57-1457-96339adf1e56/13UABIM74030.rgb.jpg/100x100bb.jpg
+Meat Loaf,Dead Ringer For Love (Album Version),5,2026-10-17T22:41:19Z,,Rock,Dead Ringer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/9c/29/76/mzi.vlrioorj.jpg/100x100bb.jpg
+Lana Del Rey,Heroin,22,2026-10-17T21:55:19Z,,Alternative,Norman Fucking Rockwell!,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/100x100bb.jpg
+Sufjan Stevens,Fourth of July,38,2026-10-17T21:31:18Z,,Singer/Songwriter,Carrie & Lowell,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/100x100bb.jpg
+Lou Rawls,At Last,11,2026-10-17T16:14:17Z,,R&B/Soul,ARETHA,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/95/7a/29957a1b-8ce0-a155-3764-c63a701ba704/603497845064.jpg/100x100bb.jpg
+Sting,Shape Of My Heart (My Songs Version),2,2026-10-17T15:21:47Z,,Pop,My Songs (Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/7e/03/ec7e03b3-5a19-87d6-b87e-40cf8e530ad2/00602577628740.rgb.jpg/100x100bb.jpg
 Mizuki Tomoda,Marunouchi sadistic (Cover),7,2026-10-17T14:46:46Z,,,,,,Kurt,
-Tom Konkle,Fail Upward For A Change,2,2026-10-17T13:56:45Z,,,,,,Kurt,
-Sir David Willcocks,"5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",3,2026-10-17T13:40:15Z,,,,,,Kurt,
-Geraint Watkins,At Last,4,2026-10-17T12:36:44Z,,,,,,Kurt,
-The Temptations,At Last (Album Version),6,2026-10-17T12:23:44Z,,,,,,Kurt,
+Tom Konkle,Fail Upward For A Change,2,2026-10-17T13:56:45Z,,Rock,The Storm with a Gentle Face,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/6e/fb/486efbfb-6773-fed4-2ad2-75678a2a911c/199900230096.jpg/100x100bb.jpg
+Sir David Willcocks,"5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",3,2026-10-17T13:40:15Z,,Classical,Vaughan Williams: Five Tudor Portraits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/19/1a/e6191a52-27c1-8447-e415-2af8805dff91/5021732628862.jpg/100x100bb.jpg
+Geraint Watkins,At Last,4,2026-10-17T12:36:44Z,,Blues,In a Bad Mood (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/c5/da/79/mzi.pxgmeawl.jpg/100x100bb.jpg
+The Temptations,At Last (Album Version),6,2026-10-17T12:23:44Z,,R&B/Soul,The Big Chill (Original Motion Picture Soundtrack) [15th Anniversary],The Big Chill (Original Motion Picture Soundtrack) [15th Anniversary],,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/e7/f9/9fe7f9f4-ba2f-b369-707f-76899faf1f2c/06UMGIM07593.rgb.jpg/100x100bb.jpg
 Gene Watson,At Last,2,2026-10-17T10:29:11Z,,,,,,Kurt,
 Solisti e Orchestre del Cinema Italiano,L'uomo dell'armonica,5,2026-10-17T10:17:11Z,,,,,,Kurt,
 The Rolling Stones,Sweet Sounds Of Heaven,11,2026-10-17T09:34:41Z,,,,,,Kurt,
