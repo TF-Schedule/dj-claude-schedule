@@ -74,6 +74,11 @@
 "film_hint": "",
 "genre": "Metal"
 },
+"Bleachers|I Wanna Get Better": {
+"album": "Strange Desire",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Blondie|Call Me": {
 "album": "Call Me - EP",
 "film_hint": "",
@@ -83,6 +88,11 @@
 "album": "Blur",
 "film_hint": "",
 "genre": "Pop"
+},
+"Boards of Canada|Olson": {
+"album": "Music Has the Right to Children",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Bobby Caldwell|What You Won't Do for Love": {
 "album": "What You Won't Do for Love",
@@ -94,6 +104,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Brijean|Counting Sheep": {
+"album": "Macro",
+"film_hint": "",
+"genre": "Indie Pop"
+},
 "Bruce Kaphan|Clouds": {
 "album": "Slider (2022 Remaster)",
 "film_hint": "",
@@ -103,6 +118,11 @@
 "album": "D'Amario: Complete Works for Solo Guitar Solo & 2 Guitars",
 "film_hint": "",
 "genre": "Solo Instrumental"
+},
+"Caetano Veloso|Tropicália (Remastered 2006)": {
+"album": "Caetano Veloso (Remixed Original Album)",
+"film_hint": "",
+"genre": "MPB"
 },
 "Caifanes|La Negra Tomasa (Bilongo - Version Tropical)": {
 "album": "Las Flores de la Vída",
@@ -144,6 +164,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Coleman Hawkins & His Orchestra|Body and Soul": {
+"album": "The Savory Collection, Vol. 1 - Body and Soul: Coleman Hawkins & Friends",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Cornelius|New Music Machine (Buffalo Daughter Remix)": {
 "album": "FM - Fantasma - Remixes",
 "film_hint": "",
@@ -159,10 +184,20 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Dean Martin|Everybody Loves Somebody": {
+"album": "Everybody Loves Somebody",
+"film_hint": "",
+"genre": "Vocal"
+},
 "Dennis Edwards|Don't Look Any Further (Single Version)": {
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Dope Lemon|Honey Bones": {
+"album": "Honey Bones",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
@@ -194,6 +229,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Ennio Morricone|Once Upon a Time in the West (From \"Once Upon a Time in the West\")": {
+"album": "Communique",
+"film_hint": "",
+"genre": "Pop"
+},
 "Federico Aubele|Postales": {
 "album": "Gran Hotel Buenos Aires",
 "film_hint": "",
@@ -224,15 +264,50 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Frank Sinatra|Fly Me To The Moon (Remastered 2008)": {
+"album": "Nothing But the Best (Remastered)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Freddie King|Going Down": {
+"album": "Getting Ready...",
+"film_hint": "",
+"genre": "Blues"
+},
+"Gal Costa|Baby (Original Album)": {
+"album": "Unreal Album",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
 },
+"Gerry Rafferty|Right Down the Line": {
+"album": "City to City",
+"film_hint": "",
+"genre": "Rock"
+},
+"Gilberto Gil|Aquele Abraço": {
+"album": "Gilberto Gil (1969)",
+"film_hint": "",
+"genre": "Brazilian"
+},
+"Gipsy Kings|Bamboleo": {
+"album": "¡Volaré! The Very Best of the Gipsy Kings",
+"film_hint": "",
+"genre": "Latin"
+},
 "Glasperlenspiel|Nie vergessen": {
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Glenn Miller & His Orchestra|(I've Got A Gal In) Kalamazoo": {
+"album": "Big Band Classics (Volume 1)",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Glenn Miller & His Orchestra|In the Mood": {
 "album": "The Essential Glenn Miller",
@@ -263,6 +338,11 @@
 "album": "Vertigo",
 "film_hint": "",
 "genre": "Dance"
+},
+"Gus Dapperton|Ditch": {
+"album": "Ditch - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Gustavo Cerati|Puente": {
 "album": "Bocanada",
@@ -419,6 +499,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kent DuChaine|Trouble in Mind (Live)": {
+"album": "My Name is DuChaine - Live 1997",
+"film_hint": "",
+"genre": "Delta Blues"
+},
 "King Crimson|21st Century Schizoid Man (Including 'Mirrors')": {
 "album": "In the Court of the Crimson King (Expanded Edition)",
 "film_hint": "",
@@ -448,6 +533,11 @@
 "album": "Lianne La Havas",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Lisa Gerrard|Sanvean - I Am Your Shadow": {
+"album": "The Mirror Pool",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Loscil|Estuarine": {
 "album": "Endless Falls",
@@ -484,10 +574,30 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"MGMT|Electric Feel (Album Version)": {
+"album": "Oracular Spectacular",
+"film_hint": "",
+"genre": "Alternative"
+},
+"MIKA|Grace Kelly": {
+"album": "Life In Cartoon Motion",
+"film_hint": "",
+"genre": "Pop"
+},
 "Mac DeMarco|My Kind of Woman": {
 "album": "2",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Mahalia Jackson|How I Got Over (Live)": {
+"album": "The Essential Mahalia Jackson",
+"film_hint": "",
+"genre": "Christian"
+},
+"Mahavishnu Orchestra|I Wonder (Album Version)": {
+"album": "The Lost Trident Sessions",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Mahmoud Ahmed|Ere Mela Mela / Meche Neu": {
 "album": "",
@@ -498,6 +608,16 @@
 "album": "MORAK - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Manau|Je Jazz Les Couleurs (Album Version)": {
+"album": "Fest Noz de Paname",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
+"Mana|Rayando el Sol": {
+"album": "Falta Amor",
+"film_hint": "",
+"genre": "Rock y Alternativo"
 },
 "Marconi Union|Weightless": {
 "album": "The Ambient Zone Just Music Cafe, Vol. 4",
@@ -529,6 +649,21 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Mary Halvorson|About Ghosts": {
+"album": "About Ghosts",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Mazzy Star|Fade Into You": {
+"album": "So Tonight That I Might See",
+"film_hint": "",
+"genre": "Pop"
+},
+"Melody Gardot|This Foolish Heart Could Love You": {
+"album": "Entre eux deux",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Mica Levi|Love": {
 "album": "Under the Skin (Original Soundtrack Album)",
 "film_hint": "Under the Skin (Original Soundtrack Album)",
@@ -549,6 +684,11 @@
 "film_hint": "",
 "genre": "J-Pop"
 },
+"Moloko|The Time Is Now": {
+"album": "Things to Make and Do",
+"film_hint": "",
+"genre": "Pop"
+},
 "Montaigne|Technicolour": {
 "album": "Technicolour - Single",
 "film_hint": "",
@@ -558,6 +698,11 @@
 "album": "Mother Earth's Plantasia",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Nat King Cole|L-O-V-E": {
+"album": "L-O-V-E",
+"film_hint": "",
+"genre": "Vocal Pop"
 },
 "Neil Diamond|Be (Introduction Of Jonathan)": {
 "album": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
@@ -574,10 +719,20 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Ngo Hong Quang|Núi Xưa": {
+"album": "Tình Đàn",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Niko B|Who's That What's That": {
 "album": "dog eat dog food world",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"Nina Simone|Feeling Good": {
+"album": "I Put a Spell On You",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Nina Simone|Mood Indigo (G-Swing Featuring Ludovic Allen Remix)": {
 "album": "",
@@ -588,6 +743,11 @@
 "album": "The Downward Spiral",
 "film_hint": "",
 "genre": "Alternative"
+},
+"OneRepublic|I Lived": {
+"album": "Native (Deluxe)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Orchestral Manoeuvres in the dark (OMD)|If You Leave (From \"Pretty In Pink\" Soundtrack)": {
 "album": "Pretty In Pink (Original Motion Picture Soundtrack)",
@@ -603,6 +763,11 @@
 "album": "Entre Dos Aguas",
 "film_hint": "",
 "genre": "Latin"
+},
+"Pages|If I Saw You Again (Album Version)": {
+"album": "Destiny Fulfilled",
+"film_hint": "",
+"genre": "Pop"
 },
 "Papooz|You and I": {
 "album": "Night Sketches (US Version)",
@@ -709,6 +874,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
+"album": "First Take (Deluxe Edition)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Rodrigo Leão|Pasión (Album Version)": {
 "album": "Alma Mater",
 "film_hint": "",
@@ -718,6 +888,11 @@
 "album": "Alba Nera",
 "film_hint": "",
 "genre": "Guitar"
+},
+"SHINee|Married To The Music": {
+"album": "Married To the Music - The 4th Album Repackage",
+"film_hint": "",
+"genre": "K-Pop"
 },
 "Sabaton|The Last Stand": {
 "album": "The Last Stand",
@@ -733,6 +908,11 @@
 "album": "Ultimate Santana",
 "film_hint": "",
 "genre": "Rock"
+},
+"Sarah McLachlan|Building a Mystery": {
+"album": "Mirrorball: The Complete Concert (Live)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Savath &  Savalas|Te Quiero Pero Por Otro Lado.": {
 "album": "Apropa't",
@@ -759,6 +939,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Silverchair|Anthem for the Year 2000 (Album Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Simon Trpčeski|Suite bergamasque, CD 82, L. 75: III. Clair de lune": {
 "album": "Debussy: Images & Children's Corner",
 "film_hint": "",
@@ -779,6 +964,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Soft Cell|Tainted Love": {
+"album": "Tainted Love / Where Did Our Love Go - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Soundgarden|Black Hole Sun": {
+"album": "Superunknown (20th Anniversary)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Split Enz|I Got You": {
 "album": "True Colours",
 "film_hint": "",
@@ -793,6 +988,11 @@
 "album": "Tourist (Remastered) [Deluxe Version]",
 "film_hint": "",
 "genre": "Dance"
+},
+"Stan Getz|Corcovado (Quiet Nights Of Quiet Stars)": {
+"album": "Getz/Gilberto",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 1": {
 "album": "The Tired Sounds of Stars of the Lid",
@@ -813,6 +1013,11 @@
 "album": "Life Sequence (Deluxe Edition)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Stevie Wonder|Sir Duke": {
+"album": "Songs in the Key of Life",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Sufjan Stevens|Casimir Pulaski Day": {
 "album": "Illinois",
@@ -838,6 +1043,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Talk Talk|After The Flood": {
+"album": "Laughing Stock",
+"film_hint": "",
+"genre": "Rock"
 },
 "Talk Talk|Life's What You Make It  (1997 Remaster)": {
 "album": "The Colour of Spring",
@@ -919,6 +1129,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Tinariwen|Sastanàqqàm": {
+"album": "Elwan",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Tom Petty|I Won't Back Down": {
 "album": "Full Moon Fever",
 "film_hint": "",
@@ -928,6 +1143,11 @@
 "album": "Ultimate Toni Braxton",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Train|Drops of Jupiter (Tell Me)": {
+"album": "Drops of Jupiter",
+"film_hint": "",
+"genre": "Rock"
 },
 "Vaya Con Dios|Nah Neh Nah": {
 "album": "Night Owls",
@@ -978,6 +1198,11 @@
 "album": "Akustikler - EP",
 "film_hint": "",
 "genre": "Turkish Pop"
+},
+"Zoé|Labios Rotos (Live 8.11.14)": {
+"album": "8.11.14 (Deluxe)",
+"film_hint": "",
+"genre": "Rock y Alternativo"
 },
 "toe|Goodbye (Live)": {
 "album": "The Radio in My Head: Live at 54 Below",
