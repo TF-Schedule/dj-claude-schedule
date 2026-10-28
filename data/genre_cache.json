@@ -29,6 +29,16 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Ailbhe Mcdonagh|Apres Un Reve": {
+"album": "It's a Cello Thing",
+"film_hint": "",
+"genre": "Pop"
+},
+"Al Di Meola|Libertango": {
+"album": "The Grande Passion",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Al Green|Let's Stay Together": {
 "album": "Let's Stay Together",
 "film_hint": "",
@@ -184,6 +194,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Beatrice Rana|Libertango (Arr. Yamamoto for Piano 4-Hands)": {
+"album": "Piazzolla: Libertango - Single",
+"film_hint": "",
+"genre": "Classical"
+},
 "Bebel Gilberto|Samba Da Benção": {
 "album": "Tanto Tempo",
 "film_hint": "",
@@ -314,6 +329,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Bobby Darin|Beyond the Sea": {
+"album": "That's All",
+"film_hint": "",
+"genre": "Pop"
+},
 "Bobby McFerrin|Don't Worry Be Happy": {
 "album": "The Best of Bobby McFerrin",
 "film_hint": "",
@@ -403,6 +423,11 @@
 "album": "Re",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Cage The Elephant|What I'm Becoming": {
+"album": "Social Cues",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Caifanes|La Negra Tomasa (Bilongo - Version Tropical)": {
 "album": "Las Flores de la Vída",
@@ -619,6 +644,11 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Delia Derbyshire|Doctor Who Opening Titles (“In Colour” Mix, Daleks Version)": {
+"album": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
+"film_hint": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
+"genre": "Soundtrack"
+},
 "Dennis Edwards|Don't Look Any Further (Single Version)": {
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
@@ -729,6 +759,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Electric Light Orchestra|Evil Woman": {
+"album": "Face the Music",
+"film_hint": "",
+"genre": "Rock"
+},
 "Electric Light Orchestra|Mr. Blue Sky": {
 "album": "All Over the World: The Very Best of Electric Light Orchestra",
 "film_hint": "",
@@ -738,6 +773,11 @@
 "album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Elliott Smith|Independence Day": {
+"album": "XO",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Eluvium|Surrounded by Illusion": {
 "album": "Don't Look Now: Aural Apparitions from the Geographic North",
@@ -779,15 +819,30 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Eskimo Joe|Black Fingernails, Red Wine": {
+"album": "Black Fingernails, Red Wine",
+"film_hint": "",
+"genre": "Rock"
+},
 "Etta James|I'd Rather Go Blind": {
 "album": "Tell Mama",
 "film_hint": "",
 "genre": "Blues"
 },
+"Europe|The Final Countdown (Album Version)": {
+"album": "The Final Countdown (Expanded Edition)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Evanescence|Bring Me To Life": {
 "album": "Fallen",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Ewan Maccoll|The First Time Ever I Saw Your Face": {
+"album": "New Briton Gazette, Vol. 2",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "Fabrizio De Andrè|Bocca di rosa": {
 "album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
@@ -841,6 +896,11 @@
 },
 "Fleetwood Mac|That's All for Everyone": {
 "album": "Tusk (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Fleetwood Mac|Tusk": {
+"album": "Greatest Hits",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -989,6 +1049,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Golden Earring|Radar Love": {
+"album": "Moontan",
+"film_hint": "",
+"genre": "Rock"
+},
 "Gorillaz|Empire Ants (feat. Little Dragon)": {
 "album": "Plastic Beach (Deluxe Version)",
 "film_hint": "",
@@ -1094,6 +1159,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Harris Jayaraj|Adiyae Kolluthey (From \"Vaaranam Aayiram\")": {
+"album": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
+"film_hint": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
+"genre": "Tamil"
+},
 "Haute & Freddy|Dance The Pain Away": {
 "album": "Big Disgrace",
 "film_hint": "",
@@ -1148,6 +1218,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Hotel Ugly|Mice City": {
+"album": "Mice City - Single",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Howlin' Wolf|Smokestack Lightnin'": {
 "album": "Moanin' in the Moonlight",
@@ -1254,6 +1329,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Jesse Cook|Breathing Below Surface (Rerecorded)": {
+"album": "Love In The Time Of Covid",
+"film_hint": "",
+"genre": "Flamenco"
+},
 "Joan Jett & The Blackhearts|I Love Rock 'N Roll": {
 "album": "I Love Rock 'N' Roll (Expanded Edition)",
 "film_hint": "",
@@ -1269,6 +1349,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joel Pott|Chances": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "John Lee Hooker|Boom Boom": {
 "album": "Urban Blues (Bonus Tracks)",
 "film_hint": "",
@@ -1278,6 +1363,11 @@
 "album": "Sob Rock",
 "film_hint": "",
 "genre": "Pop"
+},
+"John Williams|Theme From Superman  (Concert Version)": {
+"album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+"film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+"genre": "Soundtrack"
 },
 "Joker Out|Novi Val": {
 "album": "",
@@ -1376,6 +1466,11 @@
 },
 "Kate Bush|Coffee Homeground": {
 "album": "Lionheart (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Kate Bush|Get Out Of My House  (2018 Remaster)": {
+"album": "The Dreaming (2018 Remaster)",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1539,6 +1634,11 @@
 "film_hint": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
 },
+"Los Enanitos Verdes|Lamento Boliviano": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Los Rodriguez|Milonga del marinero y el capitán": {
 "album": "Hasta luego",
 "film_hint": "",
@@ -1619,6 +1719,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Madonna|Holiday": {
+"album": "Madonna",
+"film_hint": "",
+"genre": "Pop"
+},
 "Mahalia Jackson|How I Got Over (Live)": {
 "album": "The Essential Mahalia Jackson",
 "film_hint": "",
@@ -1679,6 +1784,11 @@
 "film_hint": "",
 "genre": "MPB"
 },
+"Mariya Takeuchi|Plastic Love": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Mariza|Ó gente da minha terra": {
 "album": "Fado Em Mim",
 "film_hint": "",
@@ -1694,8 +1804,18 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Marty Friedman|Senbonzakura": {
+"album": "Tokyo Jukebox 3",
+"film_hint": "",
+"genre": "Rock"
+},
 "Marvin Gaye|I Heard It Through The Grapevine (SACD Stereo)": {
 "album": "Let's Get It On (Deluxe Edition)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Marvin Gaye|Mercy Mercy Me (The Ecology)": {
+"album": "What's Going On",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -1723,6 +1843,11 @@
 "album": "So Tonight That I Might See",
 "film_hint": "",
 "genre": "Pop"
+},
+"Megan Moroney|Tennessee Orange": {
+"album": "Tennessee Orange - Single",
+"film_hint": "",
+"genre": "Country"
 },
 "Melody Gardot|This Foolish Heart Could Love You": {
 "album": "Entre eux deux",
@@ -1753,6 +1878,11 @@
 "album": "Aerial Boundaries",
 "film_hint": "",
 "genre": "New Age"
+},
+"Michael Jackson|You Are Not Alone": {
+"album": "HIStory - Past, Present and Future, Book I",
+"film_hint": "",
+"genre": "Pop"
 },
 "Michael McDonald|I Keep Forgettin' (Every Time You're Near)": {
 "album": "If That's What It Takes",
@@ -1979,6 +2109,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Parcels|Overnight - from Hansa Studios, Berlin": {
+"album": "Live Vol. 1",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Parliament|Give Up The Funk (Tear The Roof Off The Sucker)": {
 "album": "The Best of Parliament - Give Up the Funk",
 "film_hint": "",
@@ -2039,6 +2174,11 @@
 "film_hint": "",
 "genre": "Alternative Folk"
 },
+"Peter Fox|Haus am See": {
+"album": "Taub, Stumm & Blind - Single",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Peter Jablonski|Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth.": {
 "album": "Chopin: The Complete Waltzes, Polonaise",
 "film_hint": "",
@@ -2064,6 +2204,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Pink Floyd|Fearless": {
+"album": "Meddle (2016 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Piotr Musial|Some Place We Called Home": {
 "album": "This War of Mine (Original Game Soundtrack)",
 "film_hint": "This War of Mine (Original Game Soundtrack)",
@@ -2083,6 +2228,11 @@
 "album": "Caribou - EP",
 "film_hint": "",
 "genre": "Electronica"
+},
+"Pop Evil|Breathe Again": {
+"album": "Versatile",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Pornophonique|Sad Robot": {
 "album": "8-Bit Lagerfeuer",
@@ -2114,6 +2264,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Quad City DJ's|Space Jam": {
+"album": "Space Jam (Music from and Inspired By the Motion Picture)",
+"film_hint": "Space Jam (Music from and Inspired By the Motion Picture)",
+"genre": "Hip-Hop/Rap"
+},
 "Queens Of The Stone Age|No One Knows": {
 "album": "Songs for the Deaf",
 "film_hint": "",
@@ -2131,6 +2286,11 @@
 },
 "Queen|Somebody To Love": {
 "album": "A Day At The Races (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Queen|Under Pressure (Remastered 2011)": {
+"album": "Hot Space (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2174,6 +2334,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Ray Parker Junior|Ghostbusters (Album Version)": {
+"album": "Ghostbusters (Original Motion Picture Soundtrack)",
+"film_hint": "Ghostbusters (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
 "Rayland Baxter|Objects In The Mirror": {
 "album": "Good Mmornin",
 "film_hint": "",
@@ -2203,6 +2368,11 @@
 "album": "Immer in Bewegung (Deluxe Version)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Rio Reiser|Für immer und dich (Album Version)": {
+"album": "Rio I.",
+"film_hint": "",
+"genre": "Rock"
 },
 "Rival Consoles|Untravel": {
 "album": "Persona",
@@ -2249,6 +2419,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Roxy Music|Bitter Sweet (Remastered 1999)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Roy Ayers Ubiquity|Everybody Loves The Sunshine": {
 "album": "Everybody Loves the Sunshine",
 "film_hint": "",
@@ -2283,6 +2458,11 @@
 "album": "The Last Stand",
 "film_hint": "",
 "genre": "Metal"
+},
+"Sabrina Carpenter|Espresso": {
+"album": "Short n' Sweet",
+"film_hint": "",
+"genre": "Pop"
 },
 "Saint Etienne|Only Love Can Break Your Heart": {
 "album": "Foxbase Alpha",
@@ -2319,6 +2499,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Sarah McLachlan|Sweet Surrender (Album Version)": {
+"album": "Surfacing",
+"film_hint": "",
+"genre": "Pop"
+},
 "Savath &  Savalas|Te Quiero Pero Por Otro Lado.": {
 "album": "Apropa't",
 "film_hint": "",
@@ -2328,6 +2513,11 @@
 "album": "Bad for Good: The Very Best of Scorpions",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Sea Power|Instrument of Surrender": {
+"album": "Disco Elysium",
+"film_hint": "",
+"genre": "Video Game"
 },
 "Sepultura|Roots Bloody Roots  (2017 Remaster)": {
 "album": "Live in São Paulo (2022 Remaster)",
@@ -2403,6 +2593,11 @@
 "album": "The Best Of...",
 "film_hint": "",
 "genre": "Rock"
+},
+"Siouxsie & The Banshees|Spellbound": {
+"album": "Ju Ju (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Sister Sledge|Lost in Music (1995 Remaster) (LP Version)": {
 "album": "",
@@ -2484,6 +2679,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Steve Miller Band|The Joker": {
+"album": "Greatest Hits 1974-78",
+"film_hint": "",
+"genre": "Rock"
+},
 "Steve Roach|Living the Dream": {
 "album": "Life Sequence (Deluxe Edition)",
 "film_hint": "",
@@ -2494,6 +2694,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Stevie Wonder|Higher Ground (Album Version)": {
+"album": "Innervisions",
+"film_hint": "",
+"genre": "Motown"
+},
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
 "film_hint": "",
@@ -2503,6 +2708,11 @@
 "album": "Fulfillingness' First Finale",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Sting|Desert Rose (Album Version)": {
+"album": "Brand New Day",
+"film_hint": "",
+"genre": "Pop"
 },
 "Styx|Mr. Roboto": {
 "album": "Greatest Hits",
@@ -2874,6 +3084,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Van Halen|Jump  (2015 Remaster)": {
+"album": "1984",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Vangelis|La petite fille de la mer": {
 "album": "L'apocalypse des animaux (Remastered)",
 "film_hint": "",
@@ -2884,10 +3099,20 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Vicente Fernández|El Rey": {
+"album": "Historia de un Ídolo, Vol. II",
+"film_hint": "",
+"genre": "Música Mexicana"
+},
 "Vinicius Cantuaria|Lua e Estrela": {
 "album": "Série 2 em 1: Vinícius Cantuária",
 "film_hint": "",
 "genre": "Pop"
+},
+"Warpaint|Keep It Healthy": {
+"album": "Warpaint",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Wax Tailor|Seize The Day": {
 "album": "Seize the Day (feat. Charlotte Savary) - Single",
