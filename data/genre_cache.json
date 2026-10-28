@@ -157,6 +157,7 @@
 },
 "Aerosmith|Dream On": {
 "album": "Aerosmith",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/87/d9/e287d987-7b92-7749-737f-b5b8a6913f88/22UM1IM38560.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -301,6 +302,7 @@
 },
 "Alfa Mist|Organic Rust": {
 "album": "Bring Backs",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/27/f7/5727f790-f920-5f4a-72aa-981bb1f4b1ca/0045778778966.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -1913,6 +1915,7 @@
 },
 "Colin Currie|Music for 18 Musicians - Pulses": {
 "album": "Steve Reich: Music for 18 Musicians",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/af/07/d4af07fe-be24-2e9d-5e63-9d1257747776/0811043030660_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -2302,6 +2305,7 @@
 },
 "Def Leppard|Photograph": {
 "album": "Pyromania",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -2460,6 +2464,7 @@
 },
 "Don McLean|Vincent": {
 "album": "American Pie",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/54/65/1a546518-5709-5c11-3f30-90528331fbf6/15UMGIM65659.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2585,6 +2590,7 @@
 },
 "Durand Jones & The Indications|Witchoo": {
 "album": "Private Space",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/a8/cd/15a8cd7e-da90-5aa0-5559-416457a28a2f/656605152769.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -2684,6 +2690,7 @@
 },
 "Ednaswap|Torn": {
 "album": "Wacko Magneto",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/17/dc/29/17dc290c-4954-16f2-18bd-6eede704db9f/00731452432827.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2759,6 +2766,7 @@
 },
 "Eluvium|Surrounded by Illusion": {
 "album": "Don't Look Now: Aural Apparitions from the Geographic North",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/df/b3/66dfb342-bc42-b08e-b86a-87d909d085af/192641192746_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "IDM/Experimental"
 },
@@ -2815,6 +2823,7 @@
 },
 "Enya|Caribbean Blue (2009 Remaster) (Remastered 2009)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -2965,6 +2974,7 @@
 },
 "Fall Out Boy|Uma Thurman": {
 "album": "American Beauty / American Psycho",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3134,6 +3144,7 @@
 },
 "Foo Fighters|Everlong": {
 "album": "The Colour And The Shape",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3257,11 +3268,13 @@
 },
 "Garbage|Only Happy When It Rains": {
 "album": "Garbage (20th Anniversary Edition) [2015 Remaster]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/8e/64/818e6487-df77-bb60-7245-7f87c40d6f2d/00602547364890.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
 "Gary Jules|Mad World": {
 "album": "Mad World - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/2b/71/e62b71a0-013c-c43e-f20a-9ac454d9c8af/822665.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3736,6 +3749,7 @@
 },
 "Hania Rani|Eden": {
 "album": "Esja",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/99/6a/7e996a6a-353e-2262-1df9-add09c8f889c/5050580701854_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical Crossover"
 },
@@ -4074,6 +4088,7 @@
 },
 "Igor Levit|Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\" - I. Adagio sostenuto": {
 "album": "Beethoven: Complete Piano Sonatas",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dd/88/15/dd881550-f52a-5075-9231-05dd4e374473/886447741030.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -4325,6 +4340,7 @@
 },
 "Joe Cocker|With A Little Help From My Friends": {
 "album": "With a Little Help from My Friends",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/f3/bc/14f3bcca-264a-959e-f3eb-51b404cc081b/00602567821977.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4623,6 +4639,7 @@
 },
 "Judy Collins|Bread and Roses": {
 "album": "Bread and Roses",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/de/58/b0/mzi.voymoavu.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -4909,6 +4926,7 @@
 },
 "Kim Carnes|More Love": {
 "album": "Romance Dance",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/ee/0e/e6ee0e03-449c-42d5-e898-1fd61102b688/21UM1IM50679.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4942,6 +4960,7 @@
 },
 "Kings Of Convenience|Rocky Trail": {
 "album": "Peace Or Love",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/f5/f1/48f5f162-50ee-5441-5876-8e2116f150a0/5400863122102_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5044,6 +5063,7 @@
 },
 "Laith Al-Deen|Dein Lied": {
 "album": "Melomanie",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/cf/93/9e/dj.wowcxdba.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5093,6 +5113,7 @@
 },
 "Laufey|Madwoman": {
 "album": "A Matter of Time: The Final Hour",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/a0/ef14a03b-47a9-4bf0-f7c8-907b33ca430d/820200874818.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5130,6 +5151,7 @@
 },
 "Led Zeppelin|Over the Hills and Far Away  (Remaster)": {
 "album": "Houses of the Holy (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5147,6 +5169,7 @@
 },
 "Lemon Jelly|Ramblin' Man": {
 "album": "Lost Horizons",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/de/c9/90dec9ed-7a3c-b156-3b42-40d4a20810fd/634904016005.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -5261,16 +5284,19 @@
 },
 "Limp Bizkit|Rollin' (Air Raid Vehicle)": {
 "album": "Chocolate Starfish and the Hot Dog Flavored Water",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/22/d7/c022d742-bee6-7f53-cd23-dee90303299b/15UMGIM64609.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
 "Lindsey Buckingham|Trouble": {
 "album": "Law and Order",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/65/f5/1a/mzi.avydqfqw.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
 "Linkin Park|In the End": {
 "album": "Hybrid Theory (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5547,6 +5573,7 @@
 },
 "Mac DeMarco|Chamber Of Reflection": {
 "album": "Salad Days",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/04/eb/e004eb2b-754f-4a76-9ecc-87d4eea2a327/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5564,6 +5591,7 @@
 },
 "Madness|Our House": {
 "album": "Madness",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/78/53/f5/7853f5bf-a8ac-b387-3359-3f3c3229b737/00602557077643.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5792,6 +5820,7 @@
 },
 "Massive Attack|Angel": {
 "album": "Mezzanine",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/98/55/0a98555b-8d9d-3b46-660a-b91261557d17/00724384559953.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -6113,6 +6142,7 @@
 },
 "Milt Jackson|Bag's New Groove": {
 "album": "Bags & Flutes",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/56/36/96/mzi.qanffzxl.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -6661,6 +6691,7 @@
 },
 "Nusrat Fateh Ali Khan|Longing": {
 "album": "Night Song (Real World Gold)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0e/62/e4/0e62e47c-45b0-8c3d-2000-50b86cbc6b74/5037005001379_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -6915,6 +6946,7 @@
 },
 "Patti LaBelle|If Only You Knew": {
 "album": "Patti LaBelle: Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/7d/9e/e17d9ecb-934b-9872-5ba3-c4106f852906/00008811156725.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -7472,6 +7504,7 @@
 },
 "Rammstein|Deutschland": {
 "album": "Rammstein",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/52/c0/4b/52c04bfb-7eb1-a158-1ac9-e1d4c82ce146/19UMGIM06727.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7528,6 +7561,7 @@
 },
 "Red Hot Chili Peppers|Higher Ground (2014 Remaster)": {
 "album": "Stadium Arcadium",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5e/49/35/5e493511-d87b-5aa2-b379-30fffbae902b/093624932154.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7740,6 +7774,7 @@
 },
 "Russian State Symphony Orchestra|Jazz Suite No. 2 - VI. Waltz 2": {
 "album": "The Very Best of Shostakovich",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/16/26/d9/1626d91e-a9bc-076c-428b-62098b368de4/mzi.ehhewzkr.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -7992,6 +8027,7 @@
 },
 "Sepultura|Roots Bloody Roots  (2017 Remaster)": {
 "album": "Live in São Paulo (2022 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/82/b0/0d82b088-3d79-c494-13d4-19e0f9b5524d/4050538796841.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8156,6 +8192,7 @@
 },
 "Siouxsie & The Banshees|Cities In Dust (Single Version)": {
 "album": "The Best Of...",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/ba/10/c4ba1079-9098-14de-e399-c55f70ff589f/00602567792925.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8212,6 +8249,7 @@
 },
 "Slowdive|Erik's Song (Album Version)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -8623,6 +8661,7 @@
 },
 "Summon The Wolf|Ghost Story": {
 "album": "Ghost Story - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/79/74/dc7974c3-fc42-096d-bf1e-10eadc50dcad/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9938,6 +9977,7 @@
 },
 "Tori Amos|A Sorta Fairytale (2023 Remaster)": {
 "album": "Scarlet's Walk (2023 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/60/aa/42/mzi.gqpocdgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -10309,6 +10349,7 @@
 },
 "Wolf Alice|Don't Delete The Kisses": {
 "album": "Visions of a Life",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/01/ff/3b01ff37-0467-40f4-cb37-c477c23eb3c3/886446572734.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10331,6 +10372,7 @@
 },
 "YEBBA|Louie Bag  (Live at Electric Lady)": {
 "album": "Live at Electric Lady - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/a2/1f/aca21f9a-b069-4b3c-6a50-b34ad430165b/886449833566.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10346,6 +10388,7 @@
 },
 "Yazoo|Only You (Remastered 2008)": {
 "album": "Alison Moyet the Best of: 25 Years Revisited (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/45/76/3e/45763e2f-a271-8b30-bacc-3ab3b8811873/dj.osdcccpa.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
