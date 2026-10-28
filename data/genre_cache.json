@@ -249,6 +249,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Arcadia|The Promise  (2010 Remaster)": {
+"album": "Notorious - EP",
+"film_hint": "",
+"genre": "Pop"
+},
 "Arctic Monkeys|505": {
 "album": "Favourite Worst Nightmare",
 "film_hint": "",
@@ -308,6 +313,21 @@
 "album": "Portals of Grace",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"BETWEEN FRIENDS|affection": {
+"album": "we just need some time together - EP",
+"film_hint": "",
+"genre": "Rock"
+},
+"Bachman-Turner Overdrive|Takin' Care Of Business": {
+"album": "Bachman-Turner Overdrive II",
+"film_hint": "",
+"genre": "Rock"
+},
+"Backyard Babies|Minus Celsius": {
+"album": "Tinnitus",
+"film_hint": "",
+"genre": "Pop"
 },
 "Banners|Shine A Light": {
 "album": "Banners - EP",
@@ -374,6 +394,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Beenie Man|Feel It Boy": {
+"album": "Tropical Storm",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Ben Allison|D.A.V.E.": {
 "album": "The Stars Look Very Different Today",
 "film_hint": "",
@@ -404,6 +429,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Benny Sings|Rolled Up": {
+"album": "Rolled Up (feat. Mac DeMarco) - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Benny Sings|Sailing": {
 "album": "Sailing - Single",
 "film_hint": "",
@@ -418,6 +448,11 @@
 "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
 "film_hint": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
 "genre": "Soundtrack"
+},
+"Bernard Purdie|Cool Down": {
+"album": "Bernard Purdie & Friends Present: Cool Down",
+"film_hint": "",
+"genre": "Funk"
 },
 "Bert Kaempfert|A Swingin' Safari": {
 "album": "A Swingin' Safari (Remastered)",
@@ -614,6 +649,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Boy Throb|Finger": {
+"album": "Finger - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Boz Scaggs|JoJo (2023 Remaster)": {
 "album": "Middle Man (2023 Remaster)",
 "film_hint": "",
@@ -678,6 +718,11 @@
 "album": "Love, Damini",
 "film_hint": "",
 "genre": "Afro-fusion"
+},
+"ByeAlex|Kedvesem  (Original)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "CHVRCHES|Clearest Blue": {
 "album": "Every Open Eye (Special Edition)",
@@ -789,6 +834,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Chappell Roan|Good Luck, Babe!": {
+"album": "Good Luck, Babe! - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Charles Lloyd & The Marvels|You Are So Beautiful": {
 "album": "I Long to See You",
 "film_hint": "",
@@ -828,6 +878,11 @@
 "album": "The Best of Chet Baker Sings",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Chicago|Hard to Say I'M Sorry / Get Away": {
+"album": "The Very Best of Chicago: Only the Beginning",
+"film_hint": "",
+"genre": "Rock"
 },
 "Chico Buarque|Construção": {
 "album": "Construção",
@@ -949,6 +1004,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Creed|With Arms Wide Open": {
+"album": "Human Clay",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Crosby, Stills, Nash & Young|Helpless": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -1034,6 +1094,11 @@
 "film_hint": "Project Hail Mary (Original Motion Picture Score)",
 "genre": "Soundtrack"
 },
+"Dara|Bangaranga": {
+"album": "Bangaranga - Single",
+"film_hint": "",
+"genre": "Dance"
+},
 "Darude|Sandstorm": {
 "album": "Before the Storm, Special Edition",
 "film_hint": "",
@@ -1111,6 +1176,11 @@
 },
 "Depeche Mode|Policy of Truth": {
 "album": "Violator (Deluxe)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Depeche Mode|Precious": {
+"album": "Playing the Angel (Deluxe)",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1234,6 +1304,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Dúné|Hardcore Vibes": {
+"album": "Live!",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
 "film_hint": "",
@@ -1288,6 +1363,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Edwin Starr|War": {
+"album": "20th Century Masters - The Millennium Collection: The Best of Edwin Starr",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Electric Light Orchestra|Evil Woman": {
 "album": "Face the Music",
@@ -1353,6 +1433,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Erik Grönwall|House of the Rising Sun": {
+"album": "House of the Rising Sun - Single",
+"film_hint": "",
+"genre": "Rock"
 },
 "Erik Wøllo|Computerlove": {
 "album": "Blue Sky, Red Guitars",
@@ -1568,6 +1653,11 @@
 "album": "Exile (Real World Gold)",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"George Benson|Affirmation (Album Version)": {
+"album": "Breezin'",
+"film_hint": "",
+"genre": "Jazz"
 },
 "George Benson|Dreamin' (Album Version)": {
 "album": "Collaboration",
@@ -1874,6 +1964,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Hooverphonic|2 Wicky": {
+"album": "A New Stereophonic Sound Spectacular",
+"film_hint": "",
+"genre": "Pop"
+},
 "Horace Silver|Opus De Funk (Remastered 1998/Rudy Van Gelder Edition)": {
 "album": "",
 "film_hint": "",
@@ -2048,6 +2143,11 @@
 "album": "With a Little Help from My Friends",
 "film_hint": "",
 "genre": "Rock"
+},
+"Joe Hisaishi|Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea')": {
+"album": "A Symphonic Celebration (Music from the Studio Ghibli Films of Hayao Miyazaki)",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Joe Hisaishi|Departures (from 'Departures')": {
 "album": "Departures (Original Motion Picture Soundtrack)",
@@ -2244,6 +2344,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Kenny Loggins|Footloose (Album Version)": {
+"album": "Footloose (Original Motion Picture Soundtrack)",
+"film_hint": "Footloose (Original Motion Picture Soundtrack)",
+"genre": "Rock"
+},
 "Kenny Loggins|This Is It": {
 "album": "Keep the Fire",
 "film_hint": "",
@@ -2281,6 +2386,11 @@
 },
 "King Crimson|21st Century Schizoid Man (Including 'Mirrors')": {
 "album": "In the Court of the Crimson King (Expanded Edition)",
+"film_hint": "",
+"genre": "Prog-Rock/Art Rock"
+},
+"King Crimson|Matte Kudasai": {
+"album": "Discipline (Expanded Edition)",
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
 },
@@ -2459,7 +2569,22 @@
 "film_hint": "",
 "genre": "Dub"
 },
+"Little People|Start Shootin'": {
+"album": "Mickey Mouse Operation",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Little River Band|Cool Change": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Lofi Fruits Music|Plastic Love": {
+"album": "Plastic Love - Single",
+"film_hint": "",
+"genre": "Easy Listening"
+},
+"Lofi Lia|Tell Your World (From \"Hatsune Miku\")  (Lofi Remix)": {
 "album": "",
 "film_hint": "",
 "genre": ""
@@ -2659,6 +2784,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Martin Garrix|Carry You": {
+"album": "Carry You (feat. Declan J Donovan) - Single",
+"film_hint": "",
+"genre": "Dance"
+},
 "Marty Friedman|Senbonzakura": {
 "album": "Tokyo Jukebox 3",
 "film_hint": "",
@@ -2764,6 +2894,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Men At Work|Overkill": {
+"album": "Contraband: The Best of Men At Work",
+"film_hint": "",
+"genre": "Rock"
+},
 "Men I Trust|Show Me How": {
 "album": "Show Me How - Single",
 "film_hint": "",
@@ -2773,6 +2908,11 @@
 "album": "Mercedes Sosa en New York, 1974",
 "film_hint": "",
 "genre": "Raíces"
+},
+"Mercury Rev|Little Rhymes": {
+"album": "All is Dream",
+"film_hint": "",
+"genre": "Indie Rock"
 },
 "Mica Levi|Love": {
 "album": "Under the Skin (Original Soundtrack Album)",
@@ -2848,6 +2988,11 @@
 "album": "Play & Play: B Sides",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Moloko|Being Is Bewildering": {
+"album": "Things to Make and Do",
+"film_hint": "",
+"genre": "Pop"
 },
 "Moloko|Over & Over": {
 "album": "Statues",
@@ -2989,6 +3134,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Nick Cave & The Bad Seeds|(I'll Love You) Till The End Of The World": {
+"album": "Until the End of the World (Music from the Motion Picture Soundtrack)",
+"film_hint": "Until the End of the World (Music from the Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
 "Nick Cave & The Bad Seeds|Henry Lee (Remastered 2011)": {
 "album": "Let Love In (2011 Remaster)",
 "film_hint": "",
@@ -3068,6 +3218,11 @@
 "album": "The Best of Indian Music: The Best of Nusrat Fateh Ali Khan",
 "film_hint": "",
 "genre": "Indian"
+},
+"ODD EYE CIRCLE (ARTMS)|My Secret Playlist": {
+"album": "ODD EYE CIRCLE <Version Up> - EP",
+"film_hint": "",
+"genre": "K-Pop"
 },
 "ODESZA|Say My Name (feat. Zyra)": {
 "album": "In Return",
@@ -3194,6 +3349,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Paul McCartney|Monkberry Moon Delight (2012 Remaster)": {
+"album": "Thrillington (2012 Remaster)",
+"film_hint": "",
+"genre": "Instrumental"
+},
 "Paul Rodgers|Muddy Water Blues": {
 "album": "Now & Live, Pt. 2: Live (The Loreley Tapes)",
 "film_hint": "",
@@ -3206,6 +3366,11 @@
 },
 "Paul Simon|You Can Call Me Al": {
 "album": "The Essential Paul Simon",
+"film_hint": "",
+"genre": "Pop"
+},
+"Paula Abdul|Straight Up (Single Version)": {
+"album": "20 #1’s: 80's Pop",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3619,6 +3784,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Róisín Murphy|Murphy's Law (Album Version)": {
+"album": "Changes",
+"film_hint": "",
+"genre": "House"
+},
 "Röyksopp|Eple": {
 "album": "Melody A.M.",
 "film_hint": "",
@@ -3849,10 +4019,35 @@
 "film_hint": "",
 "genre": ""
 },
+"Smash Mouth|All Star (Album Version)": {
+"album": "Astro Lounge",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Smash Mouth|Walkin' On The Sun": {
 "album": "Fush Yu Mang (20th Anniversary Edition)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Smith & Mighty|Same": {
+"album": "Big World, Small World",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Smoke City|Underwater Love": {
+"album": "Flying Away",
+"film_hint": "",
+"genre": "Pop"
+},
+"Sneaker Pimps|6 Underground": {
+"album": "Becoming X",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Sneaker Pimps|How Do": {
+"album": "Becoming X",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Soda Stereo|En La Ciudad De La Furia (MTV Unplugged)": {
 "album": "MTV Unplugged: Comfort y Música para Volar",
@@ -3981,6 +4176,11 @@
 },
 "Sting|Desert Rose (Album Version)": {
 "album": "Brand New Day",
+"film_hint": "",
+"genre": "Pop"
+},
+"Sting|Fields Of Gold (My Songs Version)": {
+"album": "My Songs (Deluxe)",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4299,6 +4499,11 @@
 "film_hint": "",
 "genre": "Vocal"
 },
+"The Rolling Stones|Paint It, Black": {
+"album": "Hot Rocks 1964-1971",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Smashing Pumpkins|1979": {
 "album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
 "film_hint": "",
@@ -4336,6 +4541,11 @@
 },
 "The Tragically Hip|Long Time Running": {
 "album": "Road Apples",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Tragically Hip|New Orleans Is Sinking": {
+"album": "Up To Here",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4489,6 +4699,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Tom Robinson|The Saturday Disco": {
+"album": "Still Loving You",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Tom Waits|House Where Nobody Lives": {
 "album": "Mule Variations (Remastered)",
 "film_hint": "",
@@ -4588,6 +4803,16 @@
 "album": "Vienna (Remastered Definitive Edition)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Unkle|Rabbit in Your Headlights": {
+"album": "Psyence Fiction",
+"film_hint": "",
+"genre": "Rock"
+},
+"VAST|Thrown Away": {
+"album": "Turquoise & Crimson",
+"film_hint": "",
+"genre": "Rock"
 },
 "Van Halen|Jump  (2015 Remaster)": {
 "album": "1984",
