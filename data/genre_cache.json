@@ -374,6 +374,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Backstreet Boys|I Want It That Way": {
+"album": "Millennium",
+"film_hint": "",
+"genre": "Pop"
+},
 "Backyard Babies|Minus Celsius": {
 "album": "Tinnitus",
 "film_hint": "",
@@ -528,6 +533,11 @@
 "album": "Dangerously in Love",
 "film_hint": "",
 "genre": "Pop"
+},
+"Beyoncé|TEXAS HOLD 'EM": {
+"album": "TEXAS HOLD 'EM - Single",
+"film_hint": "",
+"genre": "Country"
 },
 "Bicep|Apricots": {
 "album": "Isles",
@@ -814,6 +824,11 @@
 "film_hint": "",
 "genre": "Solo Instrumental"
 },
+"Bruno Mars|Gorilla": {
+"album": "Unorthodox Jukebox",
+"film_hint": "",
+"genre": "Pop"
+},
 "Buddy Guy|Damn Right, I've Got the Blues": {
 "album": "Damn Right, I've Got the Blues (Expanded Edition)",
 "film_hint": "",
@@ -969,6 +984,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Charles Mingus|Goodbye Pork Pie Hat (Album Version)": {
+"album": "Mingus Ah Um (Bonus Track Version)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Charles Mingus|Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version)": {
 "album": "The Black Saint and the Sinner Lady",
 "film_hint": "",
@@ -983,6 +1003,11 @@
 "album": "Express Yourself: The Best of Charles Wright and the Watts 103rd Street Rhythm Band",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Charli XCX|360": {
+"album": "360 - Single",
+"film_hint": "",
+"genre": "Dance"
 },
 "Charly García|Demoliendo Hoteles (Live)": {
 "album": "Unplugged",
@@ -1013,6 +1038,11 @@
 "album": "Construção",
 "film_hint": "",
 "genre": "Pop"
+},
+"Chic|Good Times  (2018 Remaster)": {
+"album": "C'est Chic (2018 Remaster)",
+"film_hint": "",
+"genre": "Dance"
 },
 "Child Seat|Hyperphantasia": {
 "album": "Hyperphantasia - Single",
@@ -1154,6 +1184,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Creedence Clearwater Revival|Bad Moon Rising (Remastered 1985)": {
+"album": "Green River",
+"film_hint": "",
+"genre": "Rock"
+},
 "Creedence Clearwater Revival|Cotton Fields": {
 "album": "The Complete Collection (Digital Box) [iTunes]",
 "film_hint": "",
@@ -1193,6 +1228,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Cyndi Lauper|Time After Time": {
+"album": "She's So Unusual",
+"film_hint": "",
+"genre": "Pop"
 },
 "Czech Philharmonic|The Moldau Má Vlast: II. Vltava Moldau": {
 "album": "The 50 Greatest Pieces of Classical Music",
@@ -1289,6 +1329,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"David Bowie|Sound and Vision  (2017 Remaster)": {
+"album": "Low (2017 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Space Oddity": {
 "album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
 "film_hint": "",
@@ -1369,6 +1414,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Diana Ross|I'm Coming Out": {
+"album": "Diana",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Diana Ross|Muscles": {
 "album": "Silk Electric (Expanded Edition)",
 "film_hint": "",
@@ -1383,6 +1433,11 @@
 "album": "Dire Straits",
 "film_hint": "",
 "genre": "Rock"
+},
+"Disclosure|Help Me Lose My Mind": {
+"album": "Settle (Deluxe)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Disturbed|Won't Back Down": {
 "album": "Divisive",
@@ -1608,6 +1663,11 @@
 "album": "Soon It Will Be Cold Enough",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Emmylou Harris|Mister Sandman": {
+"album": "Evangeline",
+"film_hint": "",
+"genre": "Country"
 },
 "Enjambre|Vida En El Espejo": {
 "album": "Imperfecto Extraño",
@@ -1844,6 +1904,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"From Fall to Spring|DRAW THE LINE": {
+"album": "Disconnected - EP",
+"film_hint": "",
+"genre": "Rock"
+},
 "G.Rag & die Landlergschwister|Odessa": {
 "album": "The Erdäpfelkaas - Single",
 "film_hint": "",
@@ -1979,6 +2044,11 @@
 "film_hint": "",
 "genre": "Latin"
 },
+"GoGo Penguin|Hopopono": {
+"album": "v2.0 (Deluxe Edition)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "GoGo Penguin|Raven": {
 "album": "A Humdrum Star (Deluxe)",
 "film_hint": "",
@@ -2018,6 +2088,11 @@
 "album": "Wake of the Flood",
 "film_hint": "",
 "genre": "Rock"
+},
+"Green Day|American Idiot (Album Version)": {
+"album": "Amnesia - EP",
+"film_hint": "",
+"genre": "Pop"
 },
 "Greg Shilling|Shampoo": {
 "album": "Shampoo - Single",
@@ -2084,6 +2159,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Hammerfall|Hearts On Fire": {
+"album": "Crimson Thunder",
+"film_hint": "",
+"genre": "Metal"
+},
 "Hammock|Tape Recorder": {
 "album": "Departure Songs",
 "film_hint": "",
@@ -2138,6 +2218,11 @@
 "album": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
 "film_hint": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
 "genre": "Tamil"
+},
+"Harry Styles|As It Was": {
+"album": "Harry's House",
+"film_hint": "",
+"genre": "Pop"
 },
 "Haute & Freddy|Dance The Pain Away": {
 "album": "Big Disgrace",
@@ -2234,6 +2319,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Horace Silver Quintet|Peace": {
+"album": "That Healin' Feelin'",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Horace Silver|Opus De Funk (Remastered 1998/Rudy Van Gelder Edition)": {
 "album": "",
 "film_hint": "",
@@ -2283,6 +2373,11 @@
 "album": "The Best of INXS",
 "film_hint": "",
 "genre": "Rock"
+},
+"Icona Pop|I Love It (feat. Charli XCX)": {
+"album": "This Is... Icona Pop",
+"film_hint": "",
+"genre": "Pop"
 },
 "Igor Levit|Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\" - I. Adagio sostenuto": {
 "album": "Beethoven: Complete Piano Sonatas",
@@ -2379,6 +2474,11 @@
 "film_hint": "",
 "genre": "Christian"
 },
+"Jazz Liberatorz|Always something": {
+"album": "Fruit of the Past",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Jazzy|No Bad Vibes": {
 "album": "No Bad Vibes - Single",
 "film_hint": "",
@@ -2423,6 +2523,11 @@
 "album": "Twenty First Century Twenty First Year",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Jimmy Eat World|The Middle": {
+"album": "Bleed American",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Joan Jett & The Blackhearts|I Love Rock 'N Roll": {
 "album": "I Love Rock 'N' Roll (Expanded Edition)",
@@ -2473,6 +2578,11 @@
 "album": "Orphée",
 "film_hint": "",
 "genre": "Classical"
+},
+"John Coltrane|My Favorite Things": {
+"album": "My Favorite Things",
+"film_hint": "",
+"genre": "Jazz"
 },
 "John Denver|Take Me Home, Country Roads": {
 "album": "Poems, Prayers & Promises",
@@ -2538,6 +2648,11 @@
 "album": "Insides",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Joni Mitchell|A Case of You": {
+"album": "Blue",
+"film_hint": "",
+"genre": "Pop"
 },
 "Jorge Ben Jor|Mas, Que Nada!": {
 "album": "Samba Esquema Novo",
@@ -2666,6 +2781,11 @@
 },
 "Kate Bush|L'Amour Looks Something Like You (2018 Remaster)": {
 "album": "The Kick Inside (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Katy Perry|Roar": {
+"album": "PRISM (Deluxe Version)",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3014,6 +3134,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Love and Rockets|Saudade": {
+"album": "Seventh Dream of Teenage Heaven",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Loverboy|Lovin' Every Minute of It": {
 "album": "Lovin' Every Minute Of It",
 "film_hint": "",
@@ -3189,6 +3314,11 @@
 "film_hint": "",
 "genre": "Raíces"
 },
+"Mark Hollis|A Life (1895 - 1915)": {
+"album": "Mark Hollis",
+"film_hint": "",
+"genre": "Rock"
+},
 "Mark Hollis|The Colour Of Spring": {
 "album": "Mark Hollis",
 "film_hint": "",
@@ -3359,6 +3489,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Michael Jackson|Jam": {
+"album": "Dangerous",
+"film_hint": "",
+"genre": "Pop"
+},
 "Michael Jackson|You Are Not Alone": {
 "album": "HIStory - Past, Present and Future, Book I",
 "film_hint": "",
@@ -3372,6 +3507,11 @@
 "Mikis Theodorakis|Zorba the Greek:  Zorba's Dance": {
 "album": "Zorba The Greek - Original Soundtrack",
 "film_hint": "Zorba The Greek - Original Soundtrack",
+"genre": "Pop"
+},
+"Miley Cyrus|Flowers": {
+"album": "Endless Summer Vacation",
+"film_hint": "",
 "genre": "Pop"
 },
 "Miley Cyrus|Party In The U.S.A.": {
@@ -3537,6 +3677,11 @@
 "Neil Diamond|Be (Introduction Of Jonathan)": {
 "album": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
 "film_hint": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
+"genre": "Pop"
+},
+"Neil Diamond|Sweet Caroline": {
+"album": "50th Anniversary Collection",
+"film_hint": "",
 "genre": "Pop"
 },
 "Neil Young|Harvest Moon (Album Version)": {
@@ -3919,6 +4064,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Phoebe Bridgers|Moon Song": {
+"album": "Punisher",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Phoebe Bridgers|Smoke Signals": {
 "album": "Stranger in the Alps",
 "film_hint": "",
@@ -4019,6 +4169,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Prince|Purple Rain  (2015 Paisley Park Remaster)": {
+"album": "Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]",
+"film_hint": "",
+"genre": "Pop"
+},
 "Prince|Uptown (LP Version)": {
 "album": "",
 "film_hint": "",
@@ -4099,6 +4254,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Randy Travis|Forever and Ever, Amen": {
+"album": "I Told You So: The Ultimate Hits of Randy Travis",
+"film_hint": "",
+"genre": "Country"
+},
 "Raquel Tavares|Como É Grande o Meu Amor por Você": {
 "album": "Roberto Carlos por Raquel Tavares",
 "film_hint": "",
@@ -4159,10 +4319,20 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Rick Astley|Never Gonna Give You Up": {
+"album": "Whenever You Need Somebody",
+"film_hint": "",
+"genre": "Pop"
+},
 "Ride|Vapour Trail": {
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Rihanna|Umbrella (Album Version)": {
+"album": "Good Girl Gone Bad",
+"film_hint": "",
+"genre": "Pop"
 },
 "Rio Reiser|Für immer und dich (Album Version)": {
 "album": "Rio I.",
@@ -4233,6 +4403,11 @@
 "album": "Everybody Loves the Sunshine",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Royal Blood|Boilermaker": {
+"album": "Typhoons",
+"film_hint": "",
+"genre": "Rock"
 },
 "Rufus Wainwright|Dinner At Eight": {
 "album": "Want (Deluxe Version)",
@@ -4539,6 +4714,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Snarky Puppy|Lingus (Alternate Take)": {
+"album": "We Like It Here",
+"film_hint": "",
+"genre": "Fusion"
+},
 "Sneaker Pimps|6 Underground": {
 "album": "Becoming X",
 "film_hint": "",
@@ -4608,6 +4788,11 @@
 "album": "Tourist (Remastered) [Deluxe Version]",
 "film_hint": "",
 "genre": "Dance"
+},
+"Stan Bush|The Touch": {
+"album": "The Transformers (Original Motion Picture Soundtrack)",
+"film_hint": "The Transformers (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
 },
 "Stan Getz|Corcovado (Quiet Nights Of Quiet Stars)": {
 "album": "Getz/Gilberto",
@@ -4724,6 +4909,11 @@
 "film_hint": "Mystery of Love (From “Call Me By Your Name”) - Single",
 "genre": "Soundtrack"
 },
+"Sum 41|In Too Deep (Album Version)": {
+"album": "All Killer, No Filler",
+"film_hint": "",
+"genre": "Rock"
+},
 "Summon The Wolf|Ghost Story": {
 "album": "Ghost Story - Single",
 "film_hint": "",
@@ -4831,6 +5021,11 @@
 },
 "Talk Talk|Life's What You Make It  (1997 Remaster)": {
 "album": "The Colour of Spring",
+"film_hint": "",
+"genre": "Rock"
+},
+"Talk Talk|Such a Shame  (1997 Remaster)": {
+"album": "It's My Life (Remastered 1997)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5014,10 +5209,20 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Jetzons|Hard Times": {
+"album": "The Complete Jetzons",
+"film_hint": "",
+"genre": "New Age"
+},
 "The Jetzons|You": {
 "album": "The Complete Jetzons",
 "film_hint": "",
 "genre": "New Age"
+},
+"The Killers|Mr. Brightside": {
+"album": "Direct Hits",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
@@ -5046,6 +5251,11 @@
 },
 "The National|About Today (2021 Remaster)": {
 "album": "Cherry Tree (2021 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The National|Bloodbuzz Ohio (Live in Rome)": {
+"album": "Rome",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5399,6 +5609,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Toto|Africa": {
+"album": "Toto IV",
+"film_hint": "",
+"genre": "Rock"
+},
 "Toto|Georgy Porgy (album version)": {
 "album": "Toto",
 "film_hint": "",
@@ -5554,6 +5769,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)": {
+"album": "Whitney",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Wild Nothing|Chinatown": {
 "album": "Gemini",
 "film_hint": "",
@@ -5648,6 +5868,11 @@
 "album": "The Best of Youssou N'Dour",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Yussef Kamaal|Strings of Light": {
+"album": "Black Focus",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Zaz|Sous le ciel de Paris": {
 "album": "Paris",
