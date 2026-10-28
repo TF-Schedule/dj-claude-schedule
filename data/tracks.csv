@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Muddy Waters,Mannish Boy,22,2026-10-28T21:12:44Z,Open Channel,Blues,Hard Again,,https://music.apple.com/us/album/mannish-boy/198155305?i=198155375,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/9a/4d/9d9a4d75-895c-4dbe-dd1f-f586a24bd3e6/mzi.kkyhfzmk.jpg/100x100bb.jpg
+Roberta Flack,Killing Me Softly With His Song,29,2026-10-28T21:07:50Z,Open Channel,Pop,Killing Me Softly,,https://music.apple.com/us/album/killing-me-softly-with-his-song/355038498?i=355038523,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/100x100bb.jpg
+Prince,Adore  (2020 Remaster),45,2026-10-28T21:01:08Z,Open Channel,R&B/Soul,Sign O' The Times,,https://music.apple.com/us/search?term=Prince+Adore++%282020+Remaster%29,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/52/38/a95238ab-10f9-e407-4bc8-755148d32d65/886448874546.jpg/100x100bb.jpg
 Hem,Betting on Trains (Remastered 2025),19,2026-10-28T20:58:19Z,Open Channel,Folk,Rabbit Songs (25th Anniversary Edition),,https://music.apple.com/us/album/betting-on-trains-remastered-2025/1840726666?i=1840726674,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/97/7a/ef977a02-8732-e375-86b0-97fedf7138f8/656465295996_cover.jpg/100x100bb.jpg
 blink-182,All The Small Things,13,2026-10-28T20:55:25Z,Open Channel,Rock,Enema of the State,,https://music.apple.com/us/album/all-the-small-things/1440839912?i=1440840510,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/3d/86/c13d8619-0794-ceee-6b1b-d0709119a9cf/16UMGIM35657.rgb.jpg/100x100bb.jpg
 Albert King,Born Under A Bad Sign,17,2026-10-28T20:52:30Z,Open Channel,Blues,Born Under A Bad Sign,,https://music.apple.com/us/album/born-under-a-bad-sign/1469546309?i=1469546315,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2c/76/21/2c762145-6194-570e-6c96-e81286b303bc/06UMGIM70174.rgb.jpg/100x100bb.jpg
@@ -654,7 +657,6 @@ Bon Iver,Holocene,232,2026-10-26T17:47:15Z,,Alternative,Vitamin String Quartet P
 Etta James,I'd Rather Go Blind,54,2026-10-26T17:39:16Z,,Blues,Tell Mama,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/66/3d/12663dea-0fd8-1dd1-2505-fdfc01ad6237/18UMGIM16425.rgb.jpg/100x100bb.jpg
 Stevie Ray Vaughan & Double Trouble,Pride and Joy,22,2026-10-26T17:35:15Z,,Rock,Texas Flood (Legacy Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/4c/30/3b/4c303b15-31ec-2f95-5beb-370471968188/dj.fbyalctw.jpg/100x100bb.jpg
 Canned Heat,On The Road Again,5,2026-10-26T17:30:16Z,,Rock,Boogie With Canned Heat,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/ae/12/4eae12fd-27be-8598-0885-f42072bdfbd3/00602537935369.rgb.jpg/100x100bb.jpg
-Muddy Waters,Mannish Boy,22,2026-10-26T17:20:15Z,,Blues,Hard Again,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/9a/4d/9d9a4d75-895c-4dbe-dd1f-f586a24bd3e6/mzi.kkyhfzmk.jpg/100x100bb.jpg
 Howlin' Wolf,Smokestack Lightnin',24,2026-10-26T17:17:16Z,,Blues,Moanin' in the Moonlight,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/ed/5e/b2ed5ea1-2bc0-5b3a-8297-7df5ed2d13b8/15UMGIM29010.rgb.jpg/100x100bb.jpg
 Benny Goodman,Sing Sing Sing (With A Swing) (live),17,2026-10-26T17:04:46Z,,Jazz,The Famous 1938 Carnegie Hall Jazz Concert (Live),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/51/2c/09/mzi.ghpdiyij.jpg/100x100bb.jpg
 Vangelis,La petite fille de la mer,30,2026-10-26T16:58:46Z,,Pop,L'apocalypse des animaux (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c7/19/a8/c719a832-1eb2-b135-68c5-52cdb4384a05/00602547884503.rgb.jpg/100x100bb.jpg
@@ -702,7 +704,6 @@ Duke Ellington,In A Sentimental Mood,112,2026-10-26T13:48:45Z,,Jazz,Duke Ellingt
 Lauryn Hill,Ex-Factor,38,2026-10-26T13:39:15Z,,R&B/Soul,The Miseducation of Lauryn Hill,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/100x100bb.jpg
 Bobby Caldwell,Coming Down from Love,25,2026-10-26T13:35:15Z,,Smooth Jazz,Sings for the Broken Hearted,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/b8/b7/beb8b7b5-3bfb-14b2-a2ba-9835d4687c86/196626289186.jpg/100x100bb.jpg
 Donny Hathaway,Jealous Guy  (Live),18,2026-10-26T13:32:15Z,,R&B/Soul,Live,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/56/27/d8/5627d82f-b54c-60d6-5140-ed049ef44ada/075678027222.jpg/100x100bb.jpg
-Roberta Flack,Killing Me Softly With His Song,29,2026-10-26T13:27:15Z,,Pop,Killing Me Softly,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/100x100bb.jpg
 Al Green,Love and Happiness,29,2026-10-26T13:22:15Z,,R&B/Soul,Greatest Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/90/63/c0906357-b17c-bfcc-30c8-0532c52d8d0d/886446283692.jpg/100x100bb.jpg
 Bill Withers,Ain't No Sunshine (Album Version),103,2026-10-26T13:19:45Z,,R&B/Soul,Just As I Am,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/b9/16/1bb9167c-e0eb-5418-960d-e9adb61d0fdd/mzi.kqpazwnw.jpg/100x100bb.jpg
 The Ink Spots,Maybe,33,2026-10-26T13:16:45Z,,Vocal Pop,If I Didn't Care: An Anthology,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/a7/85/d1a785df-5d04-0cb1-3f2b-c11f324945dc/634457098190.png/100x100bb.jpg
@@ -914,46 +915,46 @@ Iron Maiden,Still Life (2015 Remaster),1,2026-10-25T16:43:13Z,,Metal,Piece of Mi
 Chico Buarque,Construção,45,2026-10-25T16:36:43Z,,Pop,Construção,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/de/62/c5de62c4-50a9-bc0a-1cb3-3836e7e0eb0e/06UMGIM31536.rgb.jpg/100x100bb.jpg
 Aster Aweke,Tizita,36,2026-10-25T16:27:14Z,,Worldwide,Aster,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/e9/a1/70e9a1a5-26d0-1340-aa66-653bef53c996/mzi.zuvgrnlf.jpg/100x100bb.jpg
 Mercedes Sosa,Gracias a la Vida (En Vivo NY),58,2026-10-25T16:15:13Z,,Raíces,"Mercedes Sosa en New York, 1974",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/82/b5/7f82b5dd-12fc-b29e-8dbf-a8cbc7406c2d/196872491579.jpg/100x100bb.jpg
-Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,Indian,The Best of Indian Music: The Best of Nusrat Fateh Ali Khan,,,Kurt,
-Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,Pop,Beautiful Things - Single,,,Kurt,
-Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,Dance,No Bad Vibes - Single,,,Kurt,
-Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,Country,Austin (Boots Stop Workin') - Single,,,Kurt,
-"Earth, Wind & Fire",Shining Star,65,2026-10-25T15:14:44Z,,R&B/Soul,Greatest Hits,,,Kurt,
-The Doobie Brothers,What a Fool Believes,82,2026-10-25T14:48:43Z,,Rock,Minute By Minute (Remastered),,,Kurt,
-Diana Ross,Muscles,27,2026-10-25T14:43:43Z,,R&B/Soul,Silk Electric (Expanded Edition),,,Kurt,
-Azam Ali,La Serena,21,2026-10-25T14:38:43Z,,Worldwide,Portals of Grace,,,Kurt,
-Booker T. & The M.G.'s,Green Onions,38,2026-10-25T14:35:43Z,,R&B/Soul,Green Onions,,,Kurt,
-Nat King Cole,(I Love You) For Sentimental Reasons,39,2026-10-25T14:32:13Z,,Pop,'Round Midnight with Nelson Riddle and His Orchestra,,,Kurt,
-Junior H,Ella,9,2026-10-25T14:19:44Z,,Música Mexicana,Corridos Tumbados,,,Kurt,
-The Beatles,Strawberry Fields Forever,23,2026-10-25T14:15:44Z,,Rock,Magical Mystery Tour,,,Kurt,
-Lawrence,23,19,2026-10-25T14:08:13Z,,Pop,Family Business,,,Kurt,
-The Bulgarian Voices Angelite,Utopia,27,2026-10-25T14:04:13Z,,Worldwide,Legend (with Huun-Huur-Tu & the Moscow Art Trio),,,Kurt,
-Betty Carter,Moonlight in Vermont,24,2026-10-25T14:00:13Z,,Jazz,Betty Carter At Her Best,,,Kurt,
-Rhye,Open,43,2026-10-25T13:51:43Z,,Electronic,Woman,,,Kurt,
-Alex Andre,"thanks, my day is ruined",4,2026-10-25T13:48:13Z,,House,"thanks, my day is ruined (feat. Clearcast) - Single",,,Kurt,
-Björk,Unravel,26,2026-10-25T13:41:13Z,,Electronic,Homogenic,,,Kurt,
-Visage,Fade To Grey,21,2026-10-25T13:36:13Z,,Pop,Visage,,,Kurt,
-Stardust,Music Sounds Better With You,6,2026-10-25T13:29:13Z,,Alternative,Music Sounds Better with You - Single,,,Kurt,
+Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,Indian,The Best of Indian Music: The Best of Nusrat Fateh Ali Khan,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3b/68/b7/3b68b7c8-c27d-ed7b-b4a2-82dd67c0590b/888831505938.jpg/100x100bb.jpg
+Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,Pop,Beautiful Things - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/100x100bb.jpg
+Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,Dance,No Bad Vibes - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/3f/98/2f3f98e8-291f-4271-907f-e32b6ccd7700/24UM1IM00867.rgb.jpg/100x100bb.jpg
+Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,Country,Austin (Boots Stop Workin') - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/b5/b0/85b5b00b-ca94-dfa1-a3cf-2da4a1e3dd39/054391277657.jpg/100x100bb.jpg
+"Earth, Wind & Fire",Shining Star,65,2026-10-25T15:14:44Z,,R&B/Soul,Greatest Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/66/3b/5d663b1f-dcc9-030d-0cf1-fc5d344d391d/886447618448.jpg/100x100bb.jpg
+The Doobie Brothers,What a Fool Believes,82,2026-10-25T14:48:43Z,,Rock,Minute By Minute (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/dd/74/7add74c3-49dc-1b4b-7555-9adc57c4c0e7/603497878000.jpg/100x100bb.jpg
+Diana Ross,Muscles,27,2026-10-25T14:43:43Z,,R&B/Soul,Silk Electric (Expanded Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ef/5f/88/ef5f8828-dd5d-b37c-6880-2f54b1143065/886445099447.jpg/100x100bb.jpg
+Azam Ali,La Serena,21,2026-10-25T14:38:43Z,,Worldwide,Portals of Grace,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a4/95/c8/a495c8ce-592f-167c-f5f0-b09cf8ff91bb/00724381139059.jpg/100x100bb.jpg
+Booker T. & The M.G.'s,Green Onions,38,2026-10-25T14:35:43Z,,R&B/Soul,Green Onions,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/80/1f/25/801f2544-c688-6024-05a8-5340ab6f5849/mzi.ffuwcujj.jpg/100x100bb.jpg
+Nat King Cole,(I Love You) For Sentimental Reasons,39,2026-10-25T14:32:13Z,,Pop,The World of Nat King Cole,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/97/60/579760cb-eef3-5c28-cf01-37876a6578de/13UABIM74013.rgb.jpg/100x100bb.jpg
+Junior H,Ella,9,2026-10-25T14:19:44Z,,Música Mexicana,Corridos Tumbados,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/75/58/f97558cf-9cce-0923-42df-196cc93c901a/050742369545_cover.jpg/100x100bb.jpg
+The Beatles,Strawberry Fields Forever,23,2026-10-25T14:15:44Z,,Rock,Magical Mystery Tour,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/0e/37/430e3790-75d5-c96a-1380-f9d9803aa700/18UMGIM31245.rgb.jpg/100x100bb.jpg
+Lawrence,23,19,2026-10-25T14:08:13Z,,Pop,Family Business,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/c2/04/38c20415-1cc3-ac53-9ab7-59f163b0f8b6/0.jpg/100x100bb.jpg
+The Bulgarian Voices Angelite,Utopia,27,2026-10-25T14:04:13Z,,Worldwide,Legend (with Huun-Huur-Tu & the Moscow Art Trio),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/d5/4e/d0/mzi.egdncnmy.jpg/100x100bb.jpg
+Betty Carter,Moonlight in Vermont,24,2026-10-25T14:00:13Z,,Jazz,Betty Carter At Her Best,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/a1/06/31a10605-85b9-bc9f-b05b-c3d72e7a4b94/cover.jpg/100x100bb.jpg
+Rhye,Open,43,2026-10-25T13:51:43Z,,Electronic,Woman,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/ff/d7/82ffd79e-6a4a-caee-b801-213c8823cc48/00602537321940.rgb.jpg/100x100bb.jpg
+Alex Andre,"thanks, my day is ruined",4,2026-10-25T13:48:13Z,,House,"thanks, my day is ruined (feat. Clearcast) - Single",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/2d/73/302d7389-a314-6e80-6879-fc0d5b3320c4/artwork.jpg/100x100bb.jpg
+Björk,Unravel,26,2026-10-25T13:41:13Z,,Electronic,Homogenic,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/bd/d0/7fbdd0e0-c588-ef4b-a6dd-4dca21f8b41f/081227607364.jpg/100x100bb.jpg
+Visage,Fade To Grey,21,2026-10-25T13:36:13Z,,Pop,Visage,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/99/03/e79903d1-f3c2-d20b-8c23-ecd6970962bd/00602547443090.rgb.jpg/100x100bb.jpg
+Stardust,Music Sounds Better With You,6,2026-10-25T13:29:13Z,,Alternative,Music Sounds Better with You - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/fe/52/b5fe5244-ba97-5676-bd3b-4251ee203938/067003101561.png/100x100bb.jpg
 Edwin Rosen,Vertigo,18,2026-10-25T13:25:43Z,,,,,,Kurt,
-Deathbrain,the empty space is stuck in my head,7,2026-10-25T13:22:43Z,,Jungle/Drum'n'bass,Fantasy Noises & Perfect Delusions,,,Kurt,
-Obie Fernandez,Naked,10,2026-10-25T13:18:43Z,,Dance,Naked - Single,,,Kurt,
-Dorian Electra,Hella Good,7,2026-10-25T13:14:43Z,,Pop,Dorian Electra,,,Kurt,
-Anne Clark,Our Darkness,6,2026-10-25T13:09:13Z,,Rock,Joined Up Writing,,,Kurt,
-Prince,Nothing Compares 2 U,19,2026-10-25T12:54:13Z,,Pop,Nothing Compares 2 U - Single,,,Kurt,
-Donna Summer,I Feel Love,41,2026-10-25T12:50:43Z,,Pop,I Remember Yesterday,,,Kurt,
-Q Lazzarus,Goodbye Horses - Single,23,2026-10-25T12:37:43Z,,New Wave,Goodbye Horses - Single,,,Kurt,
-Tim Curry,Sweet Transvestite,4,2026-10-25T12:34:43Z,,Soundtrack,The Rocky Horror Picture Show (Soundtrack from the Motion Picture),The Rocky Horror Picture Show (Soundtrack from the Motion Picture),,Kurt,
-Tribal Seeds,In Your Eyes,14,2026-10-25T12:17:43Z,,Reggae,SoundWaves EP - EP,,,Kurt,
-Virus,Imágenes Paganas,14,2026-10-25T12:09:43Z,,Rock y Alternativo,Nuestras 30 Mejores Canciones,,,Kurt,
-Iron & Wine,Such Great Heights,11,2026-10-25T11:50:13Z,,Alternative,Around the Well (Bonus Track Version),,,Kurt,
-Rufus Wainwright,Dinner At Eight,26,2026-10-25T11:40:13Z,,Rock,Want (Deluxe Version),,,Kurt,
-Mree,Into the Well,5,2026-10-25T11:01:43Z,,Singer/Songwriter,Winterwell,,,Kurt,
-Patrick Watson,Sit Down Beside Me,9,2026-10-25T10:56:43Z,,Alternative,Sit Down Beside Me - Single,,,Kurt,
-Jorge Ben Jor,"Mas, Que Nada!",50,2026-10-25T10:53:42Z,,Pop,Samba Esquema Novo,,,Kurt,
-Abdullah Ibrahim,Water From An Ancient Well,10,2026-10-25T10:18:13Z,,Jazz,3,,,Kurt,
-Club Nouveau,Lean On Me,23,2026-10-25T09:53:12Z,,R&B/Soul,"Life, Love & Pain",,,Kurt,
-Steely Dan,Home At Last,27,2026-10-25T09:39:43Z,,Rock,Aja,,,Kurt,
-Stevie Wonder,Go Home,23,2026-10-25T09:30:13Z,,R&B/Soul,In Square Circle,,,Kurt,
+Deathbrain,the empty space is stuck in my head,7,2026-10-25T13:22:43Z,,Jungle/Drum'n'bass,Fantasy Noises & Perfect Delusions,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/eb/df/f3ebdf8e-355e-c46a-4d5c-a2c2515974e2/artwork.jpg/100x100bb.jpg
+Obie Fernandez,Naked,10,2026-10-25T13:18:43Z,,Dance,Naked - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/1d/21/3c1d21fe-aaf5-aff3-69cd-83f45b06aa32/8718525375269.png/100x100bb.jpg
+Dorian Electra,Hella Good,7,2026-10-25T13:14:43Z,,Pop,Dorian Electra,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/44/33/cb443337-11d8-11d2-6063-c4c3731ca7a2/00823375078302_Cover.jpg/100x100bb.jpg
+Anne Clark,Our Darkness,6,2026-10-25T13:09:13Z,,Rock,Joined Up Writing,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/a6/96/2da6967a-2aa4-7f68-952f-133605bab5f8/00077778799955.tif/100x100bb.jpg
+Prince,Nothing Compares 2 U,19,2026-10-25T12:54:13Z,,Pop,Nothing Compares 2 U - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/a6/c1/daa6c196-2de6-8571-7642-b0b5c1b8278b/603497857982.jpg/100x100bb.jpg
+Donna Summer,I Feel Love,41,2026-10-25T12:50:43Z,,Pop,I Remember Yesterday,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/13/19/8213190b-60a9-95cd-9cc0-0948e08a085a/06UMGIM05259.rgb.jpg/100x100bb.jpg
+Q Lazzarus,Goodbye Horses - Single,23,2026-10-25T12:37:43Z,,New Wave,Goodbye Horses - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/c7/c8/9bc7c896-3541-3108-156d-9d71fb6c47ea/191773321826.jpg/100x100bb.jpg
+Tim Curry,Sweet Transvestite,4,2026-10-25T12:34:43Z,,Soundtrack,The Rocky Horror Picture Show (Soundtrack from the Motion Picture),The Rocky Horror Picture Show (Soundtrack from the Motion Picture),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/dc/0d/03dc0de5-5ff5-ff2c-58dd-35ba9972824e/884385092450_Cover.jpg/100x100bb.jpg
+Tribal Seeds,In Your Eyes,14,2026-10-25T12:17:43Z,,Reggae,SoundWaves EP - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/09/e2/0c09e2fb-b145-94de-7fb4-f0ca6fb277e7/885767768390.jpg/100x100bb.jpg
+Virus,Imágenes Paganas,14,2026-10-25T12:09:43Z,,Rock y Alternativo,Nuestras 30 Mejores Canciones,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/d7/5b/b1d75b9d-c3e3-6e5f-2c83-16ac23f2e697/884977644678.jpg/100x100bb.jpg
+Iron & Wine,Such Great Heights,11,2026-10-25T11:50:13Z,,Alternative,Around the Well (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/13/98/7b1398bd-4800-7027-ab6b-08c37155e9ff/mzi.vdjzaxyi.jpg/100x100bb.jpg
+Rufus Wainwright,Dinner At Eight,26,2026-10-25T11:40:13Z,,Rock,Want (Deluxe Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/0d/3c/ea0d3c13-5715-e94d-2c1e-f9c8b373243f/00602498872734.rgb.jpg/100x100bb.jpg
+Mree,Into the Well,5,2026-10-25T11:01:43Z,,Singer/Songwriter,Winterwell,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/b2/15/68b21571-a000-4e2d-47d6-7bee28da0f76/067003449359.png/100x100bb.jpg
+Patrick Watson,Sit Down Beside Me,9,2026-10-25T10:56:43Z,,Alternative,Sit Down Beside Me - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3d/e1/44/3de144d5-976a-107f-5f5c-74bd8230ebe5/cover.jpg/100x100bb.jpg
+Jorge Ben Jor,"Mas, Que Nada!",50,2026-10-25T10:53:42Z,,Pop,Samba Esquema Novo,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/46/58/94465854-cafb-ec16-ce23-afbdae80d47c/06UMGIM46403.rgb.jpg/100x100bb.jpg
+Abdullah Ibrahim,Water From An Ancient Well,10,2026-10-25T10:18:13Z,,Jazz,3,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/56/f8/0a56f832-fd33-08ac-f77e-67eefcbd75dd/cover.jpg/100x100bb.jpg
+Club Nouveau,Lean On Me,23,2026-10-25T09:53:12Z,,R&B/Soul,"Life, Love & Pain",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/20/57/f8/2057f873-1a76-78e7-d815-4b728dfef722/0081227636364.png/100x100bb.jpg
+Steely Dan,Home At Last,27,2026-10-25T09:39:43Z,,Rock,Aja,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/3c/54/c23c5414-20d1-7aea-f0f5-187974c58d65/23UMGIM79990.rgb.jpg/100x100bb.jpg
+Stevie Wonder,Go Home,23,2026-10-25T09:30:13Z,,R&B/Soul,In Square Circle,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/6e/1e/dd6e1e4d-b430-7bda-ca31-41b9d7601227/00602537840823.rgb.jpg/100x100bb.jpg
 Pink Floyd,Coming Back to Life,8,2026-10-25T09:20:13Z,,Rock,The Division Bell,,,Kurt,
 The Cinematic Orchestra,To Build A Home,79,2026-10-25T09:06:43Z,,Electronic,Ma Fleur,,,Kurt,
 Peter Gabriel,Don't Give Up  (2012 Remaster),28,2026-10-25T08:56:43Z,,Pop,Idlewild (Deluxe Edition),,,Kurt,
@@ -1718,7 +1719,6 @@ Faith No More,Surprise! You're Dead!,3,2026-10-17T05:00:10Z,,Hard Rock,The Real 
 Judas Priest,Breaking the Law,9,2026-10-17T04:45:39Z,,Metal,British Steel (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/100x100bb.jpg
 David Bowie,Slip Away,17,2026-10-17T01:45:39Z,,Rock,Heathen,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/64/86/ad64863b-3a90-2dd4-b064-38811178d993/5054197573927.jpg/100x100bb.jpg
 Hozier,Angel Of Small Death & The Codeine Scene,6,2026-10-17T01:03:37Z,,Alternative,Hozier (Expanded Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/100x100bb.jpg
-Prince,Adore  (2020 Remaster),45,2026-10-17T00:07:07Z,,R&B/Soul,Sign O' The Times,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/52/38/a95238ab-10f9-e407-4bc8-755148d32d65/886448874546.jpg/100x100bb.jpg
 The Beatles,Yesterday (Remastered),49,2026-10-16T21:46:36Z,,Rock,Help!,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/19/db/1a19db26-17ad-b986-11a9-f72ac7a6194b/18UMGIM31214.rgb.jpg/100x100bb.jpg
 Steely Dan,Almost Gothic (Album Version),20,2026-10-16T20:51:06Z,,,,,,Kurt,
 Haute & Freddy,Shy Girl,5,2026-10-16T18:08:07Z,,Alternative,Shy Girl - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/a0/d1/8ca0d1a5-1eba-c003-c0b6-0ec409deddcd/075679613288.jpg/100x100bb.jpg
