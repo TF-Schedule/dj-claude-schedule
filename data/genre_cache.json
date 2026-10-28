@@ -40,6 +40,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"A-Ha|Summer Moved On  (2019 Remaster)": {
+"album": "Minor Earth, Major Sky (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/85/bb/9e85bb44-1a7b-f57c-8eb1-d77cc4b55017/190295391881.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "A-Ha|Take on Me (2015 Remaster)": {
 "album": "Greatest Hits - Japanese Singles Collection",
 "film_hint": "",
@@ -855,6 +861,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Billie Eilish|BIRDS OF A FEATHER": {
+"album": "HIT ME HARD AND SOFT",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Billie Eilish|Lo Vas A Olvidar": {
 "album": "Lo Vas A Olvidar - Single",
 "film_hint": "",
@@ -1494,6 +1506,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Chappell Roan|HOT TO GO!": {
+"album": "The Rise and Fall of a Midwest Princess",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/65/cb/fb65cb0f-4260-d740-d6f5-bb80c9c27c1b/23UMGIM84225.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Chappell Roan|Pink Pony Club": {
 "album": "Pink Pony Club - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/100x100bb.jpg",
@@ -1551,7 +1569,8 @@
 "genre": "Country"
 },
 "Chet Baker|Almost Blue": {
-"album": "Plays and Sings",
+"album": "Chet Baker in Tokyo (The Complete Concert)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/53/28/ab5328ba-0f62-53a6-4f78-c93138e7cc73/859730742748.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -1600,6 +1619,12 @@
 "album": "The Getaway",
 "film_hint": "",
 "genre": "Rock"
+},
+"Chris Huelsbeck|GSTD Ingame 4": {
+"album": "Giana Sisters: Twisted Dreams (Original Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/08/e4/2908e4c9-5e2d-5c9d-6156-582ae0acddc9/Cover.jpg/100x100bb.jpg",
+"film_hint": "Giana Sisters: Twisted Dreams (Original Soundtrack)",
+"genre": "Soundtrack"
 },
 "Chris Isaak|Blue Hotel  (Remastered Album Version)": {
 "album": "Forever Blue (Remastered 2025)",
@@ -1979,6 +2004,12 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Database|Vice II": {
+"album": "Kitsuné: New Disco - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/8f/5f/018f5fb1-2dc8-6ee9-95ae-8d2ad41a6116/3700656506488_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
+},
 "David Bowie|\"Heroes\" (2017 Remaster)": {
 "album": "\"Heroes\" (2017 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/65/b2/e265b2ae-48d5-9dd8-0251-6cd6c6c4eb53/190295842826.jpg/100x100bb.jpg",
@@ -2248,6 +2279,12 @@
 "album": "American Pie",
 "film_hint": "",
 "genre": "Rock"
+},
+"Donald Fagen|The Nightfly": {
+"album": "The Nightfly",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/d0/87/98d0877d-3e15-0f41-ba27-3264e5ae3b09/093624943952.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Donna De Lory|Praying For Love": {
 "album": "The Unchanging",
@@ -2631,6 +2668,12 @@
 "album": "Tell Mama",
 "film_hint": "",
 "genre": "Blues"
+},
+"Euology|Logic": {
+"album": "Logic - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/fa/f2/8ffaf22a-cfe5-b87f-86a7-be27cb7435b8/artwork.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Downtempo"
 },
 "Europe|The Final Countdown (Album Version)": {
 "album": "The Final Countdown (Expanded Edition)",
@@ -3309,6 +3352,7 @@
 },
 "Grimes|Oblivion": {
 "album": "Visions",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/07/53/5e0753c1-f3fb-e464-908f-8efc0a249b9b/652637320886.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3523,6 +3567,12 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Helloween|Eagle Fly Free (Remastered 2024)": {
+"album": "Unarmed (Remastered 2020)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/ff/ad/beffad13-eab5-81ea-61c0-eb01c4cd2e2c/727361553661.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Metal"
+},
 "Hem|Betting on Trains (Remastered 2025)": {
 "album": "Rabbit Songs (25th Anniversary Edition)",
 "film_hint": "",
@@ -3532,6 +3582,12 @@
 "album": "Home Again, Home Again - EP",
 "film_hint": "",
 "genre": "Folk"
+},
+"Henry Cow|Beautiful as the Moon; Terrible as an Army with Banners": {
+"album": "Concerts (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/e3/92/e2/mzi.megjeyur.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Henry Mancini|Moon River (Remastered)": {
 "album": "Breakfast At Tiffany's (Music from the Motion Picture) [Remastered]",
@@ -3973,11 +4029,23 @@
 "film_hint": "FREEDOM PIANO STORIES 4",
 "genre": "Soundtrack"
 },
+"Joe Hisaishi|One Summer's Day (from 'Spirited Away')": {
+"album": "A Symphonic Celebration (Music from the Studio Ghibli Films of Hayao Miyazaki)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/3c/70/793c70c7-4bda-21c6-323a-11b76b025c18/23UMGIM37602.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "Joe Hisaishi|Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea')": {
 "album": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f7/19/cc/f719cc4e-05d7-708c-af87-a5cfbbb3ff79/TKCA-.jpg/100x100bb.jpg",
 "film_hint": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
 "genre": "Original Score"
+},
+"Joe Hisaishi|Summer (from 'Kikujiro')": {
+"album": "Dream Songs: The Essential Joe Hisaishi",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/0c/85/0a0c8531-746f-370e-db4d-29cc3cb20030/19UMGIM98620.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Joe Hisaishi|Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live)": {
 "album": "Symphonic Suite \"Princess Mononoke\" 2021 (Live)",
@@ -4009,6 +4077,12 @@
 "album": "Orphée",
 "film_hint": "",
 "genre": "Classical"
+},
+"John Carpenter|Halloween Theme": {
+"album": "Classic Themes Redux - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/db/75/76/db7576e5-50df-3461-cf73-5e6a2cfaa4e9/dj.eefzhfps.jpg/100x100bb.jpg",
+"film_hint": "Classic Themes Redux - EP",
+"genre": "Soundtrack"
 },
 "John Coltrane|Lush Life": {
 "album": "Lush Life (Remastered)",
@@ -4260,6 +4334,12 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Jvke|golden hour": {
+"album": "this is what ____ feels like (Vol. 1-4)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/1a/7b/8d1a7b44-316f-7c7f-4380-935673fb697a/5056167175650.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "KAYA!|Turn It Up": {
 "album": "Turn It Up - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/55/53/b2555362-c2a1-0ede-ff50-904506475193/8718522243141.png/100x100bb.jpg",
@@ -4350,6 +4430,12 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Kenny G|Songbird": {
+"album": "Duotones",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/a4/b4/9c/a4b49ced-3972-51c9-6414-92d5601f9fab/dj.ppxnggbm.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Kenny Loggins|Danger Zone (From \"Top Gun\" Original Soundtrack)": {
 "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
 "film_hint": "",
@@ -4381,6 +4467,12 @@
 "film_hint": "",
 "genre": "Delta Blues"
 },
+"Keola Beamer|E Ku'u Morning Dew": {
+"album": "Hawaiian Slack Key Guitar Masters, Vol. 1: Instrumental Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e4/d2/a9/e4d2a921-14b1-764b-9b4c-8c5181bf6fb6/contsched.sofmrwyt.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hawaii"
+},
 "Khalid|momentary lovers": {
 "album": "after the sun goes down",
 "film_hint": "",
@@ -4403,6 +4495,12 @@
 },
 "Khruangbin|August 10": {
 "album": "Con Todo El Mundo",
+"film_hint": "",
+"genre": "Indie Rock"
+},
+"Khruangbin|Friday Morning": {
+"album": "Con Todo El Mundo",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/67/2e/17672e3b-9d01-2d5e-9b43-38f44b40f654/656605145365.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Indie Rock"
 },
@@ -4703,6 +4801,12 @@
 "film_hint": "",
 "genre": "Folk"
 },
+"Leonard Cohen|Hallelujah": {
+"album": "The Essential Leonard Cohen",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/d8/5d/b6d85d2e-537e-5a8f-793f-78763de08dab/mzi.ppysthnn.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Leonard Cohen|So Long, Marianne": {
 "album": "Live In London",
 "film_hint": "",
@@ -4925,6 +5029,12 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Lucy Dacus|Night Shift": {
+"album": "Study Nerd",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/95/7e/16957e91-9247-44dc-6563-80a2ce27a86f/artwork.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Ludovico Einaudi|Einaudi: Canzone Africana IV": {
 "album": "I Giorni",
 "film_hint": "",
@@ -5057,6 +5167,12 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Marc Rebillet|Late To Work": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
 "Marconi Union|Weightless": {
 "album": "The Ambient Zone Just Music Cafe, Vol. 4",
 "film_hint": "",
@@ -5164,6 +5280,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Marvin Gaye|Let's Get It On": {
+"album": "Love Songs Number 1's",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/eb/3c/3feb3cc6-7f78-7cef-8f30-dfd3cd3472b9/07UMGIM03026.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Marvin Gaye|Mercy Mercy Me (The Ecology)": {
 "album": "What's Going On",
 "film_hint": "",
@@ -5241,6 +5363,12 @@
 },
 "Max Richter|Dream 3 (in the midst of my life)": {
 "album": "Richter: Dream 3 (Remix) - EP",
+"film_hint": "",
+"genre": "Classical"
+},
+"Max Richter|On the Nature of Daylight": {
+"album": "The Blue Notebooks (15 Years)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -6078,6 +6206,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"P!nk|Glitter In the Air": {
+"album": "Greatest Hits...So Far!!!",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/dc/4f/56dc4fd8-4ddc-7ef0-89b9-afc770fec47b/dj.sgpmxenv.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "P!nk|So What": {
 "album": "Funhouse (Deluxe Version)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/0b/56/180b566d-09b1-0510-cbc7-b35440b93f73/196874514603.jpg/100x100bb.jpg",
@@ -6269,6 +6403,12 @@
 "film_hint": "",
 "genre": "Christmas: Classic"
 },
+"Percy Faith & His Orchestra|Theme from \"A Summer Place\"": {
+"album": "Percy Faith's Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/5c/30/3b5c3089-4c4d-fcf6-cdad-1e9f7858190a/mzi.wryxcbuo.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Easy Listening"
+},
 "Perpetuum Jazzile|Africa": {
 "album": "Perpetuum Jazzile Africa",
 "film_hint": "",
@@ -6337,6 +6477,12 @@
 "album": "Chopin: The Complete Waltzes, Polonaise",
 "film_hint": "",
 "genre": "Classical"
+},
+"Petit Biscuit|Sunset Lover": {
+"album": "Petit Biscuit - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/1c/93/781c934a-c233-cfce-39db-31f7284969b4/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Petra Haden|Moon River": {
 "album": "Petra Haden and Bill Frisell",
@@ -6437,6 +6583,12 @@
 },
 "Pitbull|International Love": {
 "album": "Planet Pit (Deluxe Version)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Pitbull|Timber": {
+"album": "Global Warming: Meltdown (Deluxe Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/c5/af/1bc5af7d-ba57-a2a2-02ce-5a07c1a1074b/886444305686.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6733,6 +6885,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"René Aubry|Steppe": {
+"album": "Steppe",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/16/bf/6a/mzi.hdtehcbd.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "New Age"
+},
 "Revolverheld|Ich lass für dich das Licht an": {
 "album": "Immer in Bewegung (Deluxe Version)",
 "film_hint": "",
@@ -6752,6 +6910,18 @@
 "album": "Nur das Beste: Ricchi e Poveri",
 "film_hint": "",
 "genre": "Pop"
+},
+"Richard Ashcroft|Break The Night With Colour": {
+"album": "Keys to the World",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/ab/86/c6/ab86c607-97d3-bfd9-7cfc-797c816df7ea/00094635452051.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Richard O Brien|The Time Warp": {
+"album": "The Rocky Horror Picture Show (Soundtrack from the Motion Picture)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/dc/0d/03dc0de5-5ff5-ff2c-58dd-35ba9972824e/884385092450_Cover.jpg/100x100bb.jpg",
+"film_hint": "The Rocky Horror Picture Show (Soundtrack from the Motion Picture)",
+"genre": "Soundtrack"
 },
 "Richard Wagner|Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One)": {
 "album": "Wagner: Orchestral Pieces from Parsifal, Tristan und Isolde & Tannhäuser",
@@ -6885,6 +7055,12 @@
 "film_hint": "",
 "genre": "Funk"
 },
+"Rumahoy|Forest Party": {
+"album": "The Triumph of Piracy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/fd/77/f4fd77dc-c712-88cb-387d-9fb1a368185f/840588115723.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Metal"
+},
 "Rush|Tom Sawyer": {
 "album": "Chronicles (Remastered)",
 "film_hint": "",
@@ -6899,6 +7075,12 @@
 "album": "1996 (Re-Mastered)",
 "film_hint": "",
 "genre": "Classical Crossover"
+},
+"Ryuichi Sakamoto|Merry Christmas Mr. Lawrence": {
+"album": "Sakamoto: Merry Christmas Mr. Lawrence - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/70/6d/6a706d27-e30a-2a33-96f2-6f01ae47e115/25UM2IM02569.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical"
 },
 "Ryuichi Sakamoto|andata": {
 "album": "Sakamoto: Andata - Single",
@@ -7261,6 +7443,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Simple Minds|Someone Somewhere (In Summertime)": {
+"album": "New Gold Dream (81–82–83–84) [Remastered]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/d6/31/65d63111-69f6-48f9-fa45-04e746e1adfb/00602547665898.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Sinéad O'Connor|Nothing Compares 2 U (2009 Remaster)": {
 "album": "Nothing Compares 2 U (30th Anniversary Remaster) - Single",
 "film_hint": "",
@@ -7295,6 +7483,12 @@
 "Skid Row|I Remember You": {
 "album": "Skid Row",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/73/fb/9773fb18-0a19-d3dc-d702-47cc42beb64e/0603497880065.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Skid Row|Quicksand Jesus": {
+"album": "Slave to the Grind",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/45/17/3e45170c-1698-1321-8878-8b5421b0ef4f/0603497967995.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7373,6 +7567,12 @@
 "album": "Hélène Grimaud: Essentials",
 "film_hint": "",
 "genre": "Classical"
+},
+"Solange|Cranes in the Sky": {
+"album": "A Seat at the Table",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/2b/c4/762bc430-fae3-3262-ef16-bd74bad9cdea/886446143170.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Solisti e Orchestre del Cinema Italiano|L'uomo dell'armonica": {
 "album": "Ennio Morricone - Once Upon a Time - Critic's Choice",
@@ -7475,6 +7675,12 @@
 },
 "Steely Dan|Home At Last": {
 "album": "Aja",
+"film_hint": "",
+"genre": "Rock"
+},
+"Steely Dan|Jack of Speed (Album Version)": {
+"album": "Two Against Nature",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/58/65/fa586526-c19d-7885-2233-b0cddd1cfaa1/mzi.aolyoykp.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7956,6 +8162,12 @@
 },
 "The Beach Boys|Good Vibrations (Stereo/Remastered 2012)": {
 "album": "Smiley Smile (Mono & Stereo)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|A Day In The Life (2017 Mix)": {
+"album": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8441,6 +8653,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Strokes|Last Nite": {
+"album": "Is This It",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The Strokes|Lonely in the Future": {
 "album": "Don't Say No (Remastered)",
 "film_hint": "",
@@ -8508,6 +8726,12 @@
 "album": "The Undertones",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Vampire Lestat|Brutal Love": {
+"album": "Brutal Love (Karaoke Version) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/8b/84/ae8b840f-d261-429f-5154-352c70f51bac/780163703221.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Karaoke"
 },
 "The Vampire Lestat|Dancing With Myself": {
 "album": "Dancing With Myself - Single",
@@ -8880,8 +9104,20 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Turnstile|BLACKOUT": {
+"album": "GLOW ON",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/ed/05/bded05c9-3355-c885-3840-b9a4b427b118/075679792839.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Tycho|A Walk": {
 "album": "Dive",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Tycho|Awake": {
+"album": "Awake",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/b8/d6/7bb8d640-dfdc-1473-3948-4060af9a3819/804297820828.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -9064,6 +9300,12 @@
 "Weird Al Yankovic|Ode to a Superhero (Parody of \"Piano Man\" by Billy Joel)": {
 "album": "Poodle Hat",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d2/39/da/d239dac6-df7a-fe73-5e7d-6e9e2724e57b/dj.kjblpccs.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Comedy"
+},
+"Weird Al Yankovic|Perform This Way (Parody of \"Born This Way\" by Lady Gaga)": {
+"album": "Alpocalypse (Deluxe Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/3f/a9/c3/3fa9c39e-83f5-7680-8717-b911ae788c2c/dj.vsozdylo.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Comedy"
 },
