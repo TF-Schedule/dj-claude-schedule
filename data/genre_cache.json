@@ -44,6 +44,16 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Abdullah Ibrahim|Water From An Ancient Well": {
+"album": "3",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Adrianne Lenker|anything": {
+"album": "songs",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Adriano Celentano|Prisencolinensinainciusol": {
 "album": "Nostalrock",
 "film_hint": "",
@@ -58,6 +68,11 @@
 "album": "It's a Cello Thing",
 "film_hint": "",
 "genre": "Pop"
+},
+"Air|La femme d'argent": {
+"album": "Moon Safari",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Al Di Meola|Libertango": {
 "album": "The Grande Passion",
@@ -244,6 +259,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Ashra|Kazoo": {
+"album": "Belle Alliance",
+"film_hint": "",
+"genre": "Rock"
+},
 "Ashra|Sunrain": {
 "album": "New Age of Earth",
 "film_hint": "",
@@ -273,6 +293,11 @@
 "album": "Portals of Grace",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Banners|Shine A Light": {
+"album": "Banners - EP",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Barbara Pravi|Voilà": {
 "album": "On n’enferme pas les oiseaux",
@@ -559,6 +584,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Boz Scaggs|Lowdown (2023 Remaster)": {
+"album": "Silk Degrees (2023 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Brandi Carlile|The Joke": {
 "album": "By The Way, I Forgive You",
 "film_hint": "",
@@ -684,6 +714,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Cate Le Bon|Are You with Me Now?": {
+"album": "Mug Museum",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Caterina Barbieri|Fantas": {
 "album": "Ecstatic Computation",
 "film_hint": "",
@@ -716,6 +751,11 @@
 },
 "Charles Mingus|Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version)": {
 "album": "The Black Saint and the Sinner Lady",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Charles Mingus|Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version)": {
+"album": "The Impulse Story: Charles Mingus",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -759,6 +799,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Chris Snelling|Le onde": {
+"album": "Sleep Playlist",
+"film_hint": "",
+"genre": "New Age"
+},
 "Christian Löffler|Lid": {
 "album": "Mare",
 "film_hint": "",
@@ -788,6 +833,11 @@
 "album": "Noctilune No. 1 (Bandoneon Solo) - Single",
 "film_hint": "",
 "genre": "New Age"
+},
+"Club Nouveau|Lean On Me": {
+"album": "Life, Love & Pain",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Cocteau Twins|Whales Tails": {
 "album": "Victorialand",
@@ -849,12 +899,27 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"DIIV|Doused": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "DJ Cam Quartet|Boss Guitar": {
 "album": "Christmas Guitar",
 "film_hint": "",
 "genre": "Christmas"
 },
+"DJ Cam Quartet|Everybody Loves the Sunshine": {
+"album": "Magical Mystery Tour",
+"film_hint": "",
+"genre": "Rock"
+},
 "Daft Punk|One More Time": {
+"album": "Discovery",
+"film_hint": "",
+"genre": "Dance"
+},
+"Daft Punk|Something About Us": {
 "album": "Discovery",
 "film_hint": "",
 "genre": "Dance"
@@ -898,6 +963,11 @@
 "album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
 "film_hint": "",
 "genre": "Rock"
+},
+"David Bowie|Subterraneans  (2017 Remaster)": {
+"album": "Low (2017 Remaster)",
+"film_hint": "",
+"genre": "Pop"
 },
 "David Bowie|Wild Is the Wind  (2016 Remaster)": {
 "album": "Station to Station (2016 Remaster)",
@@ -978,6 +1048,11 @@
 "album": "Divisive",
 "film_hint": "",
 "genre": "Rock"
+},
+"Djivan Gasparyan|Fallen Star": {
+"album": "Black Rock",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Djivan Gasparyan|Take My Heart": {
 "album": "Black Rock",
@@ -1329,6 +1404,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"France Clidat|Pièces froides No.1 \"Trois airs à faire fuir\"": {
+"album": "Érik Satie by France Clidat - Piano Works: 3 Gymnopédies, Gnossiennes..",
+"film_hint": "",
+"genre": "Classical"
+},
 "Frank Ocean|Pink + White": {
 "album": "Blonde",
 "film_hint": "",
@@ -1419,6 +1499,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Gilbert Bécaud|Nathalie": {
+"album": "Gilbert Bécaud (1964-1966) [Remastered] [Deluxe version]",
+"film_hint": "",
+"genre": "Pop"
+},
 "Gilberto Gil|Aquele Abraço": {
 "album": "Gilberto Gil (1969)",
 "film_hint": "",
@@ -1499,6 +1584,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Greg Shilling|Shampoo": {
+"album": "Shampoo - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Gregory Alan Isakov|Big Black Car": {
 "album": "This Empty Northern Hemisphere",
 "film_hint": "",
@@ -1523,6 +1613,11 @@
 "album": "Lovebox",
 "film_hint": "",
 "genre": "Dance"
+},
+"Grover Washington Jr.|Mister Magic": {
+"album": "Mister Magic",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Gus Dapperton|Ditch": {
 "album": "Ditch - Single",
@@ -1648,6 +1743,11 @@
 "album": "I Walk",
 "film_hint": "",
 "genre": "Pop"
+},
+"Herbert Waltl|Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro": {
+"album": "Bach: Brandenburg Concerto No. 3 in G major, BWV 1048",
+"film_hint": "",
+"genre": "Classical"
 },
 "Hiatus Kaiyote|By Fire": {
 "album": "Choose Your Weapon",
@@ -1819,6 +1919,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Jeff Buckley|So Real": {
+"album": "Grace",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Jesse Cook|Breathing Below Surface (Rerecorded)": {
 "album": "Love In The Time Of Covid",
 "film_hint": "",
@@ -1863,6 +1968,11 @@
 "album": "Orphée",
 "film_hint": "",
 "genre": "Classical"
+},
+"John Denver|Take Me Home, Country Roads": {
+"album": "Poems, Prayers & Promises",
+"film_hint": "",
+"genre": "Pop"
 },
 "John Lee Hooker|Boom Boom": {
 "album": "Urban Blues (Bonus Tracks)",
@@ -1999,6 +2109,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Kali Uchis|For: You": {
+"album": "Sincerely,",
+"film_hint": "",
+"genre": "Pop"
+},
 "Kali Uchis|telepatía": {
 "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
 "film_hint": "",
@@ -2043,6 +2158,11 @@
 "album": "My Name is DuChaine - Live 1997",
 "film_hint": "",
 "genre": "Delta Blues"
+},
+"Khalid|momentary lovers": {
+"album": "after the sun goes down",
+"film_hint": "",
+"genre": "Pop"
 },
 "Khalid|please don't call (333)": {
 "album": "after the sun goes down",
@@ -2093,6 +2213,11 @@
 "album": "Cha Cha Cha - Single",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"L'Impératrice|Sonate Pacifique": {
+"album": "Sonate Pacifique - EP",
+"film_hint": "",
+"genre": "Alternative"
 },
 "LP|Lost on You": {
 "album": "Lost On You",
@@ -2174,6 +2299,11 @@
 "film_hint": "",
 "genre": "Hawaii"
 },
+"Leon Bridges|Coming Home": {
+"album": "Coming Home (Deluxe)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Leon Larregui|Brillas": {
 "album": "Solstis - De León Larregui",
 "film_hint": "",
@@ -2183,6 +2313,11 @@
 "album": "Voluma",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Levante|SEI TU": {
+"album": "The Art of Andrés Segovia Vol. 6",
+"film_hint": "",
+"genre": "Classical"
 },
 "Lianne La Havas|Sour Flower": {
 "album": "Lianne La Havas",
@@ -2444,6 +2579,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Matt Nathanson|All We Are": {
+"album": "Some Mad Hope",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Matt Nathanson|Come On Get Higher": {
 "album": "Some Mad Hope",
 "film_hint": "",
@@ -2481,6 +2621,11 @@
 },
 "Melody Gardot|Moon River": {
 "album": "Sunset In The Blue (Deluxe Version)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Melody Gardot|Over The Rainbow (Live)": {
+"album": "Live in Europe",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -2569,6 +2714,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Minnie Riperton|Lovin' You": {
+"album": "Perfect Angel",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Miriam Makeba|Pata Pata": {
 "album": "Pata Pata (Mono & Stereo Versions)",
 "film_hint": "",
@@ -2634,6 +2784,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Murray Gold|A Good Man? (Twelve's Theme)": {
+"album": "Doctor Who - Series 8 (Original Television Soundtrack)",
+"film_hint": "Doctor Who - Series 8 (Original Television Soundtrack)",
+"genre": "Soundtrack"
+},
 "Muse|Feeling Good": {
 "album": "Origin of Symmetry",
 "film_hint": "",
@@ -2668,6 +2823,11 @@
 "album": "L-O-V-E",
 "film_hint": "",
 "genre": "Vocal Pop"
+},
+"Nation of Language|Weak In Your Light": {
+"album": "Strange Disciple",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Neil Diamond|Be (Introduction Of Jonathan)": {
 "album": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
@@ -2954,6 +3114,11 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Peter Gabriel|Don't Give Up  (2012 Remaster)": {
+"album": "Idlewild (Deluxe Edition)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Peter Gabriel|The Feeling Begins (Remastered 2002)": {
 "album": "",
 "film_hint": "",
@@ -2993,6 +3158,11 @@
 "album": "Muchacho de Lujo (Deluxe Edition)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Pink Floyd|Coming Back to Life": {
+"album": "The Division Bell",
+"film_hint": "",
+"genre": "Rock"
 },
 "Pink Floyd|Fearless": {
 "album": "Meddle (2016 Remaster)",
@@ -3194,6 +3364,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Ride|Vapour Trail": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Rio Reiser|Für immer und dich (Album Version)": {
 "album": "Rio I.",
 "film_hint": "",
@@ -3318,6 +3493,11 @@
 "album": "The Ultimate Collection (Remastered)",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Saindra|Mil Besos": {
+"album": "Adictiva",
+"film_hint": "",
+"genre": "Latin"
 },
 "Saint Etienne|Only Love Can Break Your Heart": {
 "album": "Foxbase Alpha",
@@ -3446,6 +3626,11 @@
 },
 "Sigur Rós|Hoppípolla": {
 "album": "Takk...",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Sigur Rós|Untitled #3  (Samskeyti)": {
+"album": "( )",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3589,6 +3774,11 @@
 "film_hint": "Reservoir Dogs (Original Motion Picture Soundtrack)",
 "genre": "Pop"
 },
+"Steely Dan|Home At Last": {
+"album": "Aja",
+"film_hint": "",
+"genre": "Rock"
+},
 "Steely Dan|Kid Charlemagne": {
 "album": "A Decade of Steely Dan (Remastered)",
 "film_hint": "",
@@ -3608,6 +3798,11 @@
 "album": "Texas Flood (Legacy Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Stevie Wonder|Go Home": {
+"album": "In Square Circle",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Stevie Wonder|Higher Ground (Album Version)": {
 "album": "Innervisions",
@@ -3819,6 +4014,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"The Cinematic Orchestra|To Build A Home": {
+"album": "Ma Fleur",
+"film_hint": "",
+"genre": "Electronic"
+},
 "The Cure|Burn (Live)": {
 "album": "The Cure - Single",
 "film_hint": "",
@@ -3833,6 +4033,11 @@
 "album": "Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered)",
 "film_hint": "",
 "genre": "Gospel"
+},
+"The Ink Spots|If I Didn't Care": {
+"album": "20th Century Masters - The Millennium Collection: The Best of The Ink Spots",
+"film_hint": "",
+"genre": "Jazz"
 },
 "The Ink Spots|Maybe": {
 "album": "If I Didn't Care: An Anthology",
@@ -3898,6 +4103,16 @@
 "album": "The Best of the Staple Singers",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Style Council|Iwasadoledadstoyboy": {
+"album": "Confessions of a Pop Group (Remastered)",
+"film_hint": "",
+"genre": "Pop"
+},
+"The Sundays|Wild Horses": {
+"album": "Blind",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Supremes|Automatically Sunshine": {
 "album": "The Supremes: The '70s Anthology",
@@ -3998,6 +4213,11 @@
 "album": "More Than A Friend - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Tilda Swinton|Richter: Shadow Journal": {
+"album": "The Blue Notebooks (15 Years)",
+"film_hint": "",
+"genre": "Classical"
 },
 "Tim Cappello|I Still Believe": {
 "album": "The Lost Boys (Original Motion Picture Soundtrack)",
@@ -4268,6 +4488,11 @@
 "album": "Live at Electric Lady - EP",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Yann Tiersen|Comptine d'un autre été, l'après-midi": {
+"album": "Yann Tiersen: Comptine d’un autre été, l’après-midi - Single",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Yann Tiersen|La valse d'Amélie": {
 "album": "Yann Tiersen: La valse d’Amélie - Single",
