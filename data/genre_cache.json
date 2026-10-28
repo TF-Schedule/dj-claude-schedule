@@ -19,15 +19,55 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Antonio Carlos Jobim|The Girl From Ipanema": {
+"album": "Getz/Gilberto (Expanded Edition)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Aphex Twin|Xtal": {
 "album": "Selected Ambient Works 85-92",
 "film_hint": "",
 "genre": "Electronic"
 },
+"Arctic Monkeys|No. 1 Party Anthem": {
+"album": "AM",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Auringon Lapset|Etäpäivä": {
 "album": "Hittibiisien Kaatopaikka - EP",
 "film_hint": "",
 "genre": "Pop"
+},
+"Bart&Baker|Stop Googling Me !": {
+"album": "Buddha Bar - Best Of",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Bart&Baker|The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle]": {
+"album": "Introducing, Bart&Baker",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Bert Kaempfert|A Swingin' Safari": {
+"album": "A Swingin' Safari (Remastered)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Beyoncé|Crazy In Love": {
+"album": "Dangerously in Love",
+"film_hint": "",
+"genre": "Pop"
+},
+"Big Bad Voodoo Daddy|Why Me?": {
+"album": "Rattle Them Bones",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Billie Eilish|Lo Vas A Olvidar": {
+"album": "Lo Vas A Olvidar - Single",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Black Sabbath|Paranoid": {
 "album": "Paranoid",
@@ -79,10 +119,20 @@
 "film_hint": "",
 "genre": "Raíces"
 },
+"Carole King|It's Too Late": {
+"album": "Tapestry",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Chet Atkins|Why Worry (Album Version)": {
 "album": "Sails",
 "film_hint": "",
 "genre": "Country"
+},
+"Chet Baker|You Don't Know What Love Is": {
+"album": "The Best of Chet Baker Sings",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Colbie Caillat|Try": {
 "album": "Gypsy Heart",
@@ -129,6 +179,16 @@
 "film_hint": "",
 "genre": ""
 },
+"Edie Brickell & New Bohemians|Circle (Album Version)": {
+"album": "Shooting Rubberbands at the Stars",
+"film_hint": "",
+"genre": "Rock"
+},
+"Ella Fitzgerald|Bewitched, Bothered And Bewildered": {
+"album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Emancipator|Soon It Will Be Cold Enough to Build Fires": {
 "album": "Soon It Will Be Cold Enough",
 "film_hint": "",
@@ -159,10 +219,25 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Frank Ocean|Pink + White": {
+"album": "Blonde",
+"film_hint": "",
+"genre": "Pop"
+},
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Glasperlenspiel|Nie vergessen": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Glenn Miller & His Orchestra|In the Mood": {
+"album": "The Essential Glenn Miller",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Grace Jones|I've Seen That Face Before (Libertango)": {
 "album": "Nightclubbing",
@@ -239,6 +314,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Horace Silver|Opus De Funk (Remastered 1998/Rudy Van Gelder Edition)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
@@ -254,15 +334,65 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"James Brown|I Got You (I Feel Good)": {
+"album": "20 All-Time Greatest Hits!",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"James Taylor|Fire and Rain  (2019 Remaster)": {
+"album": "Emotional Rescue (2009 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Jamiroquai|Cosmic Girl (Remastered 2013)": {
+"album": "Travelling Without Moving",
+"film_hint": "",
+"genre": "Pop"
+},
+"Janet Jackson|Any Time, Any Place": {
+"album": "Janet.",
+"film_hint": "",
+"genre": "Dance"
+},
+"Janis Joplin|Me and Bobby McGee": {
+"album": "Pearl",
+"film_hint": "",
+"genre": "Rock"
+},
 "Jeff Buckley|Last Goodbye": {
 "album": "Grace (Legacy Edition)",
 "film_hint": "",
 "genre": "Alternative"
 },
+"Joan Jett & The Blackhearts|I Love Rock 'N Roll": {
+"album": "I Love Rock 'N' Roll (Expanded Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Jockstrap|Concrete Over Water": {
 "album": "I Love You Jennifer B",
 "film_hint": "",
 "genre": "Alternative"
+},
+"John Mayer|New Light": {
+"album": "Sob Rock",
+"film_hint": "",
+"genre": "Pop"
+},
+"Josh Rouse|Street Lights": {
+"album": "Nashville",
+"film_hint": "",
+"genre": "Rock"
+},
+"Journey|Don't Stop Believin' (Album Version)": {
+"album": "Escape (2022 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"João Gilberto|Garota de Ipanema (Live)": {
+"album": "Live At Umbria Jazz",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Julian Lage|Emily": {
 "album": "Squint",
@@ -304,10 +434,35 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Lamb|Gorecki": {
+"album": "Lamb",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Lana Del Rey|Young And Beautiful": {
+"album": "The Great Gatsby (Music From Baz Luhrmann's Film)",
+"film_hint": "The Great Gatsby (Music From Baz Luhrmann's Film)",
+"genre": "Soundtrack"
+},
 "Lianne La Havas|Sour Flower": {
 "album": "Lianne La Havas",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Loscil|Estuarine": {
+"album": "Endless Falls",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Louis Jordan & His Tympany Five|Choo Choo Ch'Boogie": {
+"album": "The Best of Louis Jordan",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Louis Prima|Jump, Jive, An' Wail (Remastered)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Lubomyr Melnyk|The Six Day Moment": {
 "album": "Corollaries",
@@ -329,8 +484,38 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Mac DeMarco|My Kind of Woman": {
+"album": "2",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Mahmoud Ahmed|Ere Mela Mela / Meche Neu": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Manal|MORAK": {
 "album": "MORAK - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Marconi Union|Weightless": {
+"album": "The Ambient Zone Just Music Cafe, Vol. 4",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Margaret Berger|I Feed You My Love (Extended Version)": {
+"album": "I Feed You My Love - Single",
+"film_hint": "",
+"genre": "Dance"
+},
+"Maria McKee|Absolutely Barking Stars": {
+"album": "Ultimate Collection: Maria McKee",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Maria McKee|Life Is Sweet": {
+"album": "20th Century Masters - The Millennium Collection: The Best of Maria McKee",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -394,6 +579,11 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Nina Simone|Mood Indigo (G-Swing Featuring Ludovic Allen Remix)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Nine Inch Nails|Hurt": {
 "album": "The Downward Spiral",
 "film_hint": "",
@@ -428,6 +618,16 @@
 "album": "Patsy Cline's Greatest Hits",
 "film_hint": "",
 "genre": "Country"
+},
+"Patti LaBelle|On My Own": {
+"album": "Patti LaBelle: Greatest Hits",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Pet Shop Boys|West End Girls  (2001 Remaster)": {
+"album": "Please: Further Listening 1984-1986 (Deluxe Edition) [2018 Remaster]",
+"film_hint": "",
+"genre": "Pop"
 },
 "Peter Broderick|A Little Lost": {
 "album": "Peter Broderick & Friends Play Arthur Russell",
@@ -524,6 +724,11 @@
 "film_hint": "",
 "genre": "Metal"
 },
+"Sam Cooke|A Change Is Gonna Come": {
+"album": "A Change Is Gonna Come - EP",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Santana|Black Magic Woman": {
 "album": "Ultimate Santana",
 "film_hint": "",
@@ -576,6 +781,11 @@
 },
 "Split Enz|I Got You": {
 "album": "True Colours",
+"film_hint": "",
+"genre": "Rock"
+},
+"Squirrel Nut Zippers|Hell": {
+"album": "Lost at Sea",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -664,6 +874,11 @@
 "film_hint": "",
 "genre": "Mandopop"
 },
+"The Brian Setzer Orchestra|Jump Jive An' Wail (Album Version)": {
+"album": "The Dirty Boogie",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
 "film_hint": "",
@@ -708,6 +923,16 @@
 "album": "Full Moon Fever",
 "film_hint": "",
 "genre": "Rock"
+},
+"Toni Braxton|Un-Break My Heart": {
+"album": "Ultimate Toni Braxton",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Vaya Con Dios|Nah Neh Nah": {
+"album": "Night Owls",
+"film_hint": "",
+"genre": "Pop"
 },
 "Wax Tailor|Seize The Day": {
 "album": "Seize the Day (feat. Charlotte Savary) - Single",
