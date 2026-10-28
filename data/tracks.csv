@@ -1,4 +1,5 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Herbie Hancock,Chameleon,27,2026-10-28T16:20:42Z,Jazzable Cities,Jazz,Head Hunters,,https://music.apple.com/us/album/chameleon/158571524?i=158571527,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/e5/f5/4fe5f511-462e-e87b-0711-d4e42809fb17/dj.goshfswo.jpg/100x100bb.jpg
 D'Angelo,Untitled (How Does It Feel),130,2026-10-28T16:13:23Z,Jazzable Cities,Pop,Voodoo,,https://music.apple.com/us/album/untitled-how-does-it-feel/1440841365?i=1440841917,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/be/cd/fdbecdf2-5bf5-09fc-8fab-6e93250ebda4/13ULAIM54464.rgb.jpg/100x100bb.jpg
 The Dave Brubeck Quartet,Take Five,53,2026-10-28T16:07:47Z,Jazzable Cities,Jazz,Time Out (50th Anniversary Legacy Edition),,https://music.apple.com/us/album/take-five/316475425?i=316475543,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/100x100bb.jpg
 Charles Lloyd & The Marvels,You Are So Beautiful,4,2026-10-28T16:01:36Z,Jazzable Cities,Jazz,I Long to See You,,https://music.apple.com/us/search?term=Charles+Lloyd+%26+The+Marvels+You+Are+So+Beautiful,Regal + Kurt,
@@ -1451,7 +1452,6 @@ Tame Impala,The Less I Know The Better,340,2026-10-21T21:28:47Z,,Dance,The Less 
 Crowded House,Don't Dream It's Over,9,2026-10-21T21:24:46Z,,Rock,Crowded House,,,Kurt,
 Billie Eilish,when the party's over,12,2026-10-21T21:21:46Z,,Alternative,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",,,Kurt,
 Sade,The Sweetest Taboo  (Remastered Version),64,2026-10-21T21:17:17Z,,R&B/Soul,Promise,,,Kurt,
-Herbie Hancock,Chameleon,27,2026-10-21T20:47:16Z,,Jazz,Head Hunters,,,Kurt,
 Genesis,Many Too Many (2007 Remaster),1,2026-10-21T20:39:47Z,,Rock,Invisible Touch (2007 Remaster),,,Kurt,
 Marvin Gaye,Sexual Healing (Album Version),46,2026-10-21T20:31:16Z,,R&B/Soul,Midnight Love & The Sexual Healing Sessions,,,Kurt,
 Stevie Wonder,I Wish,23,2026-10-21T20:17:46Z,,R&B/Soul,Songs in the Key of Life,,,Kurt,
@@ -1862,45 +1862,45 @@ Stevie Wonder,Happy Birthday,8,2026-09-29T18:47:57Z,,R&B/Soul,Hotter Than July,,
 The Animals,The House of the Rising Sun,4,2026-09-29T16:09:27Z,,British Invasion,Retrospective,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/3d/40/833d4083-c018-f1bf-5b30-707aa7c2557c/06PNDIM00281.rgb.jpg/100x100bb.jpg
 Tom Lehrer,Poisoning Pigeons in the Park,11,2026-09-29T16:02:27Z,,Rock,More of Tom Lehrer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/1e/4a/421e4a3e-97e7-5b58-a151-10a4411cd11b/655466786731.jpg/100x100bb.jpg
 Various Interprets,At Last,5,2026-09-27T15:48:14Z,,,,,,Kurt,
-Baby Face Willette,At Last,9,2026-09-26T09:07:56Z,,,,,,Kurt,
-Knocked Loose,Mistakes Like Fractures,8,2026-09-25T20:23:49Z,,,,,,Kurt,
-Lovage,Anger Management (Instrumental),1,2026-09-25T16:39:49Z,,,,,,Kurt,
-Sons Of Apollo,Desolate July,1,2026-09-25T16:24:49Z,,,,,,Kurt,
-Neuro-sama,Pattern Recognition (feat. ODDEEO),1,2026-09-25T15:01:49Z,,,,,,Kurt,
-Alabama 3,Woke Up This Morning,9,2026-09-25T07:44:19Z,,,,,,Kurt,
-Rock appetizers,Child in Time (Special Version),2,2026-09-22T21:18:30Z,,,,,,Kurt,
-Blue Murder,"Still Of The Night (Live In Tokyo, Japan / 1993)",1,2026-09-22T16:01:29Z,,,,,,Kurt,
-Hardcore Superstar,We Don't Celebrate Sundays,3,2026-09-22T13:05:29Z,,,,,,Kurt,
+Baby Face Willette,At Last,9,2026-09-26T09:07:56Z,,Jazz,Stop and Listen (Rudy Van Gelder Edition) [Remastered],,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/7c/ab/3e7cab44-efbe-3033-49fb-3d548e8bc898/05099926514352.jpg/100x100bb.jpg
+Knocked Loose,Mistakes Like Fractures,8,2026-09-25T20:23:49Z,,Rock,A Different Shade of Blue,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/91/46/4f914606-e895-9920-0afa-a10cdcc28771/193483790190.png/100x100bb.jpg
+Lovage,Anger Management (Instrumental),1,2026-09-25T16:39:49Z,,Hip-Hop,Music to Make Love to Your Old Lady By (Instrumental),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/38/57/06/mzi.nhpbhkcg.jpg/100x100bb.jpg
+Sons Of Apollo,Desolate July,1,2026-09-25T16:24:49Z,,Rock,MMXX (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e1/a4/93/e1a493c9-06af-5f32-3aa6-48369227630b/886448048541.jpg/100x100bb.jpg
+Neuro-sama,Pattern Recognition (feat. ODDEEO),1,2026-09-25T15:01:49Z,,Pop,Pattern Recognition (feat. ODDEEO) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/b8/36/aab83605-330b-70e6-4478-c4d4ad8c0b5b/artwork.jpg/100x100bb.jpg
+Alabama 3,Woke Up This Morning,9,2026-09-25T07:44:19Z,,Alternative,Exile on Coldharbour Lane,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/13/75/6613753c-f9c5-5d11-536b-bcb03fa3f6c6/5016958107369.png/100x100bb.jpg
+Rock appetizers,Child in Time (Special Version),2,2026-09-22T21:18:30Z,,Rock,Child in Time (Special Version) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/b8/69/feb869e8-a082-6458-35c5-61e8a5bbd35b/artwork.jpg/100x100bb.jpg
+Blue Murder,"Still Of The Night (Live In Tokyo, Japan / 1993)",1,2026-09-22T16:01:29Z,,Rock,Screaming Blue Murder: Dedicated to Phil Lynott (Live In Tokyo),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/6d/09/236d0976-5184-7fa0-203e-6aa88ed3b314/24UM1IM29817.rgb.jpg/100x100bb.jpg
+Hardcore Superstar,We Don't Celebrate Sundays,3,2026-09-22T13:05:29Z,,Metal,Hardcore Superstar (Reloaded),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2f/7f/b0/2f7fb028-113b-bba9-ffdd-fafc9808e382/cover.jpg/100x100bb.jpg
 The Czech Philharmonic and Theatre,Lazing On a Sunday Afternoon,5,2026-09-22T07:06:59Z,,,,,,Kurt,
-Halo,Halo Theme Mjolnir Mix,1,2026-09-21T03:04:14Z,,,,,,Kurt,
-江晴,"Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納",8,2026-09-21T02:37:44Z,,,,,,Kurt,
-Cover Vocals BPM 122 Acapellas,This Is Your Life (Originally Performed by Banderas),7,2026-09-21T02:20:13Z,,,,,,Kurt,
-Not Tomorrow Night,"Duel of the Fates (From ""Star Wars"")",20,2026-09-21T02:10:43Z,,,,,,Kurt,
-U2,One (Remastered 2011),1,2026-09-19T22:20:33Z,,,,,,Kurt,
-Duncan Sheik,Barely Breathing,1,2026-09-19T22:14:04Z,,,,,,Kurt,
-Wham!,Last Christmas (Single Version),3,2026-09-19T20:13:04Z,,,,,,Kurt,
-The Ray Charles Singers,Sweet Little Mountain Bird,3,2026-09-18T12:34:54Z,,,,,,Kurt,
-Grossstadtgeflüster,Fickt-Euch-Allee,8,2026-09-18T10:29:54Z,,,,,,Kurt,
-Tom Konkle,Children of No Horizon,2,2026-09-17T19:18:13Z,,,,,,Kurt,
-Tom Konkle,One Last Time,5,2026-09-17T07:17:42Z,,,,,,Kurt,
-Buckcherry,Crazy Bitch,1,2026-09-15T19:59:27Z,,,,,,Kurt,
+Halo,Halo Theme Mjolnir Mix,1,2026-09-21T03:04:14Z,,Soundtrack,"Halo 2, Vol. 1 (Original Soundtrack)","Halo 2, Vol. 1 (Original Soundtrack)",,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/6f/eb/d76febdb-2ea9-ce48-32b8-992c42d2aa22/669311201324_cover.jpg/100x100bb.jpg
+江晴,"Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納",8,2026-09-21T02:37:44Z,,Classical,The 50 Greatest Pieces of Classical Music,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/7f/fd/8d7ffd6d-1dca-7012-1859-0241a2a86033/7340027075005.jpg/100x100bb.jpg
+Cover Vocals BPM 122 Acapellas,This Is Your Life (Originally Performed by Banderas),7,2026-09-21T02:20:13Z,,Pop,"Acapella Vocal Classics, Vol.2",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4a/bb/80/4abb803e-5c72-0af4-acbf-61d8232bcf49/4250783605817_1448.jpg/100x100bb.jpg
+Not Tomorrow Night,"Duel of the Fates (From ""Star Wars"")",20,2026-09-21T02:10:43Z,,Soundtrack,Star Wars: The Phantom Menace (Original Motion Picture Soundtrack),Star Wars: The Phantom Menace (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/f6/57/faf657aa-5796-f34e-5ce7-3a85051038d1/00050087389147.rgb.jpg/100x100bb.jpg
+U2,One (Remastered 2011),1,2026-09-19T22:20:33Z,,Metal,...And Justice for All (Deluxe Box Set),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/f3/83/b5f38312-5b95-9a09-fcb9-5622dd5ea077/858978005820.png/100x100bb.jpg
+Duncan Sheik,Barely Breathing,1,2026-09-19T22:14:04Z,,Pop,Duncan Sheik,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/8a/6e/4b/mzi.eoybtrnh.jpg/100x100bb.jpg
+Wham!,Last Christmas (Single Version),3,2026-09-19T20:13:04Z,,Holiday,Last Christmas - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg
+The Ray Charles Singers,Sweet Little Mountain Bird,3,2026-09-18T12:34:54Z,,Easy Listening,Something Special For Young Lovers,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e6/04/dd/e604ddeb-cb95-e17f-5c8f-987af23508e2/00602557232189.rgb.jpg/100x100bb.jpg
+Grossstadtgeflüster,Fickt-Euch-Allee,8,2026-09-18T10:29:54Z,,Pop,Fickt-Euch-Allee EP (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/da/5f/6fda5f12-80b8-68f8-5cc0-fe4a083b56ee/4050538175318.jpg/100x100bb.jpg
+Tom Konkle,Children of No Horizon,2,2026-09-17T19:18:13Z,,Rock,Palace of Hours,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/5b/c8/d95bc899-df11-a50b-b218-c63b9fb1e037/885000282614.png/100x100bb.jpg
+Tom Konkle,One Last Time,5,2026-09-17T07:17:42Z,,Folk,One Last Time - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/86/59/7b865917-f09f-8107-2344-b7a7bb3ce6b3/823000877874.png/100x100bb.jpg
+Buckcherry,Crazy Bitch,1,2026-09-15T19:59:27Z,,Rock,Blurring the Edges,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/f9/0f/83f90f81-57c9-e611-22b1-c4ca3ddf1335/13UABIM59258.rgb.jpg/100x100bb.jpg
 Pussy Riot,Straight Outta Vagina (feat. Desi Mo & Leikeli47),3,2026-09-15T09:55:56Z,,,,,,Kurt,
-Skindred,You Got This,1,2026-09-15T08:59:56Z,,,,,,Kurt,
-Airiel,Bloom,2,2026-09-15T08:41:56Z,,,,,,Kurt,
-The Beatles,Revolution 9 (Remastered 2009),6,2026-09-14T19:37:24Z,,,,,,Kurt,
-Patrik Andrén,ARC Raiders,3,2026-09-13T03:09:42Z,,,,,,Kurt,
-P!nk,TRUSTFALL,1,2026-09-12T19:13:36Z,,,,,,Kurt,
-P!nk,Just Give Me a Reason,1,2026-09-12T18:57:37Z,,,,,,Kurt,
-P!nk,Who Knew (Main Version),1,2026-09-12T18:53:38Z,,,,,,Kurt,
-P!nk,Raise Your Glass,1,2026-09-12T18:44:07Z,,,,,,Kurt,
-Tom Konkle,Losing Faith,6,2026-09-12T01:59:34Z,,,,,,Kurt,
+Skindred,You Got This,1,2026-09-15T08:59:56Z,,Hard Rock,You Got This,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/74/cd/c774cd69-aebe-7673-84e6-b2c7285be8c0/Skindred_-_You_Got_This_Packshot_3000.jpg/100x100bb.jpg
+Airiel,Bloom,2,2026-09-15T08:41:56Z,,Alternative,Bloom - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e8/ea/67e8eac1-34c8-39a7-74db-5404733d3ec4/artwork.jpg/100x100bb.jpg
+The Beatles,Revolution 9 (Remastered 2009),6,2026-09-14T19:37:24Z,,Rock,The Beatles 1967-1970 (The Blue Album),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/8b/65/a68b657c-cac6-68e6-3bde-b79d58fbc795/18UMGIM30762.rgb.jpg/100x100bb.jpg
+Patrik Andrén,ARC Raiders,3,2026-09-13T03:09:42Z,,Soundtrack,ARC Raiders (Original Video Game Soundtrack),ARC Raiders (Original Video Game Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/af/3f/2daf3f17-8764-9d81-1cff-f53316e51727/859721268653_cover.jpg/100x100bb.jpg
+P!nk,TRUSTFALL,1,2026-09-12T19:13:36Z,,Pop,TRUSTFALL,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/47/01/e047015a-0a4d-4058-d981-aec960e67e69/196589666222.jpg/100x100bb.jpg
+P!nk,Just Give Me a Reason,1,2026-09-12T18:57:37Z,,Pop,The Truth About Love,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/c9/7f/4ac97f30-465f-c85b-4dfd-d911a8750fa1/886443581159.jpg/100x100bb.jpg
+P!nk,Who Knew (Main Version),1,2026-09-12T18:53:38Z,,Pop,I'm Not Dead (Bonus Tracks),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/01/c7/4801c73d-11f3-ad7b-7367-096b7ba7eed1/888880181589.jpg/100x100bb.jpg
+P!nk,Raise Your Glass,1,2026-09-12T18:44:07Z,,Pop,21 Pop Sensations,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/be/ac/0fbeace5-d5cc-2098-cfbe-7267051e05ef/886444630818.jpg/100x100bb.jpg
+Tom Konkle,Losing Faith,6,2026-09-12T01:59:34Z,,Rock,Echo Drift,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f8/ae/e0f8ae11-25e1-10ce-5a59-348b7638148d/199800926259.jpg/100x100bb.jpg
 Confetti,People Suck [Explicit],3,2026-09-06T09:09:23Z,,,,,,Kurt,
-Bing Crosby,White Christmas,2,2026-09-05T21:37:18Z,,,,,,Kurt,
-Rozen,Voice of NO Return,3,2026-09-05T17:43:18Z,,,,,,Kurt,
-Liam Comerford,Front Line (action),2,2026-09-05T17:34:48Z,,,,,,Kurt,
+Bing Crosby,White Christmas,2,2026-09-05T21:37:18Z,,Holiday,Bing at Christmas,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/01/7b/02017b4b-0ff6-9207-5e5c-800862c24a05/19UMGIM91545.rgb.jpg/100x100bb.jpg
+Rozen,Voice of NO Return,3,2026-09-05T17:43:18Z,,Soundtrack,Nier: Become as Gods,Nier: Become as Gods,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/8d/72/ba8d72d5-2859-3399-9b9a-3069ad0dc2c0/811576033749.png/100x100bb.jpg
+Liam Comerford,Front Line (action),2,2026-09-05T17:34:48Z,,Soundtrack,Empires of the Undergrowth (Original Soundtrack),Empires of the Undergrowth (Original Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/6d/28/116d28aa-bde8-ced6-0350-971b176bf8f4/8721215876908.png/100x100bb.jpg
 The Velvet Underground,Sweet Jane   (Full Length Versio,13,2026-09-05T10:40:18Z,,,,,,Kurt,
-Maxwell,"Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut]",42,2026-09-05T10:34:18Z,,,,,,Kurt,
-MC WINDHUND,Uschi (Trance Edit),4,2026-09-04T09:18:39Z,,,,,,Kurt,
+Maxwell,"Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut]",42,2026-09-05T10:34:18Z,,R&B/Soul,Ascension (Don't Ever Wonder) The Tribute,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/b1/de/75b1deba-09e9-4220-889b-80c47fe5ea6e/886446667621.jpg/100x100bb.jpg
+MC WINDHUND,Uschi (Trance Edit),4,2026-09-04T09:18:39Z,,Trance,Uschi (Trance Edit) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/08/20/c0082034-0324-6ba4-f7ac-0da10e546b03/cover_4099885581458.jpg/100x100bb.jpg
 Jonathan Parecki,Senbonzakura (Hatsune Miku),4,2026-09-02T17:36:53Z,,,,,,Kurt,
 Studio Group,Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley,2,2026-08-31T18:46:20Z,,,,,,Kurt,
 Neuro-sama,NEVER,4,2026-08-30T14:42:13Z,,,,,,Kurt,
