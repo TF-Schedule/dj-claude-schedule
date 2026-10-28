@@ -166,6 +166,7 @@
 },
 "Ailbhe Mcdonagh|Apres Un Reve": {
 "album": "It's a Cello Thing",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/89/cc/80/89cc805a-ba78-543a-6b9b-d9d7b50ee131/5391519680612.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -193,6 +194,7 @@
 },
 "Al Di Meola|Libertango": {
 "album": "The Grande Passion",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/68/e7/3b68e7ae-c0ad-c03d-d2d9-48c082b33d87/23CRGIM36546.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -760,6 +762,7 @@
 },
 "Beatrice Rana|Libertango (Arr. Yamamoto for Piano 4-Hands)": {
 "album": "Piazzolla: Libertango - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/2f/9d/222f9d6b-b0e4-9487-3697-c44e6d9f4238/5054197486821.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -827,7 +830,8 @@
 "genre": "Jazz"
 },
 "Ben E. King|Stand By Me": {
-"album": "The Very Best of Ben E. King",
+"album": "Rhino Hi-Five: Ben E. King - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/d9/f8/72d9f8dc-672d-2c35-e6a1-4e38d405420c/mzi.ymtshcyn.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -1555,6 +1559,7 @@
 },
 "Cage The Elephant|What I'm Becoming": {
 "album": "Social Cues",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/31/cc/e931cc5a-e541-5348-b601-1a3053474acb/886447488812.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2388,6 +2393,7 @@
 },
 "Delia Derbyshire|Doctor Who Opening Titles (“In Colour” Mix, Daleks Version)": {
 "album": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/a4/2c/cea42c12-26fd-9bd3-e7c5-844bd95529bc/2102.jpg/100x100bb.jpg",
 "film_hint": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
 "genre": "Soundtrack"
 },
@@ -2822,6 +2828,7 @@
 },
 "Elliott Smith|Independence Day": {
 "album": "XO",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bc/e0/e7/bce0e78b-be7d-648c-d910-59ffa456ad37/00600445004825.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2944,6 +2951,7 @@
 },
 "Eskimo Joe|Black Fingernails, Red Wine": {
 "album": "Black Fingernails, Red Wine",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/69/ed/fc/mzi.gsspopyh.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2971,6 +2979,7 @@
 },
 "Europe|The Final Countdown (Album Version)": {
 "album": "The Final Countdown (Expanded Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/4d/a9/004da9d2-9b4f-99f4-d396-72ec786fb88c/696998575721.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -3009,6 +3018,7 @@
 },
 "Ewan Maccoll|The First Time Ever I Saw Your Face": {
 "album": "New Briton Gazette, Vol. 2",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/a6/1f/88/mzi.qvfxwlqb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -3201,6 +3211,7 @@
 },
 "Fleetwood Mac|Tusk": {
 "album": "Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3589,6 +3600,7 @@
 },
 "Golden Earring|Radar Love": {
 "album": "Moontan",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/fb/f6/b9/fbf6b9d8-6eb6-699d-ac21-55db5b169536/dj.vbyvxmwd.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3897,6 +3909,7 @@
 },
 "Harris Jayaraj|Adiyae Kolluthey (From \"Vaaranam Aayiram\")": {
 "album": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/1b/c1/0e1bc194-973e-9e04-c8d9-b12cfbc71289/888880794635.jpg/100x100bb.jpg",
 "film_hint": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
 "genre": "Tamil"
 },
@@ -4083,6 +4096,7 @@
 },
 "Hotel Ugly|Mice City": {
 "album": "Mice City - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/34/d5/da34d5fb-d5da-336a-fdde-1e093b0de03f/a692744a-6ae6-4e99-9a97-ac2a1e57d736.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -4512,6 +4526,7 @@
 },
 "Joel Pott|Chances": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -4601,6 +4616,7 @@
 },
 "John Williams|Theme From Superman  (Concert Version)": {
 "album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m03/d14/h21/s06.dvzlmtvq.jpg/100x100bb.jpg",
 "film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
 "genre": "Soundtrack"
 },
@@ -4864,6 +4880,7 @@
 },
 "Kate Bush|Get Out Of My House  (2018 Remaster)": {
 "album": "The Dreaming (2018 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/4b/5d/254b5db1-d013-f761-6315-c9d6e85b8c06/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5508,9 +5525,10 @@
 "genre": "Dance"
 },
 "Los Enanitos Verdes|Lamento Boliviano": {
-"album": "",
+"album": "EV+",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/5e/97/8a5e970a-87cf-5924-0189-8880b318e747/196874093931.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "Rock y Alternativo"
 },
 "Los Rodriguez|Milonga del marinero y el capitán": {
 "album": "Hasta luego",
@@ -5719,6 +5737,7 @@
 },
 "Madonna|Holiday": {
 "album": "Madonna",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.ykiinwgl.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5855,6 +5874,7 @@
 },
 "Martha And The Muffins|Echo Beach": {
 "album": "Marthology: The In and Outtakes",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3c/c9/0d3cc9a2-18f5-10b0-7c0c-7afa002c3e69/803057062829_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5877,6 +5897,7 @@
 },
 "Marty Friedman|Senbonzakura": {
 "album": "Tokyo Jukebox 3",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/df/6f/47df6fad-f85f-8f73-d851-21b65b03b997/810020503869.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5906,6 +5927,7 @@
 },
 "Marvin Gaye|Mercy Mercy Me (The Ecology)": {
 "album": "What's Going On",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -6055,6 +6077,7 @@
 },
 "Megan Moroney|Tennessee Orange": {
 "album": "Tennessee Orange - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/35/7c/4b/357c4b5b-92a4-4cdf-3abb-f0a09f93b964/196589682536.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
@@ -6215,6 +6238,7 @@
 },
 "Michael Jackson|You Are Not Alone": {
 "album": "HIStory - Past, Present and Future, Book I",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/39/dc/e5/39dce57c-8f64-bb54-fc50-2b2ea6a0e669/MichaelJackson_HistoryPastPresentAndFutureBoo_G0100029916490_F_001_1400x1400RGB.jpeg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7053,6 +7077,7 @@
 },
 "Parcels|Overnight - from Hansa Studios, Berlin": {
 "album": "Live Vol. 1",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/df/b5/6cdfb5ac-ee5c-7859-a340-1e49ccc0eb5d/5060686509834_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7252,6 +7277,7 @@
 },
 "Peter Fox|Haus am See": {
 "album": "Taub, Stumm & Blind - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/5d/eb/e25deb10-6ae4-8283-06dd-2d58864b6fc3/886449287659.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
@@ -7364,6 +7390,7 @@
 },
 "Pink Floyd|Fearless": {
 "album": "Meddle (2016 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/b7/18a8b7ed-365d-ef37-d724-88ce764c3ee7/886445635911.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7432,6 +7459,7 @@
 },
 "Pop Evil|Breathe Again": {
 "album": "Versatile",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/07/e5/ae07e582-917c-9d17-b1e9-30c4be7e1c3f/634164258320.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -7547,6 +7575,7 @@
 },
 "Quad City DJ's|Space Jam": {
 "album": "Space Jam (Music from and Inspired By the Motion Picture)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/0d/94/740d9464-ef6c-6db0-5617-ffee13f43cd0/603497870356.jpg/100x100bb.jpg",
 "film_hint": "Space Jam (Music from and Inspired By the Motion Picture)",
 "genre": "Hip-Hop/Rap"
 },
@@ -7609,6 +7638,7 @@
 },
 "Queen|Under Pressure (Remastered 2011)": {
 "album": "Hot Space (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/3d/04/4f3d04f2-290a-bcb2-9a64-957905c5efc8/602527717586.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7647,6 +7677,7 @@
 },
 "Radiohead|Paranoid Android": {
 "album": "OK Computer",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7692,6 +7723,7 @@
 },
 "Ray Parker Junior|Ghostbusters (Album Version)": {
 "album": "Ghostbusters (Original Motion Picture Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/100x100bb.jpg",
 "film_hint": "Ghostbusters (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
 },
@@ -7799,6 +7831,7 @@
 },
 "Rio Reiser|Für immer und dich (Album Version)": {
 "album": "Rio I.",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/13/86/fb138658-f838-ad82-bb0f-a4f5f883efdd/mzi.wfupulzr.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8010,6 +8043,7 @@
 },
 "Sabrina Carpenter|Espresso": {
 "album": "Short n' Sweet",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -8132,6 +8166,7 @@
 },
 "Sarah McLachlan|Sweet Surrender (Album Version)": {
 "album": "Surfacing",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e6/2c/2ae62c32-451b-cd5b-4e0c-235b9d044c0a/dj.gmqwiwxg.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -8317,6 +8352,7 @@
 },
 "Simon & Garfunkel|Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981)": {
 "album": "Sounds of Silence",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/8c/fa/f98cfa9e-282b-8a4f-33bd-ff3de9269963/074640926921.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Folk-Rock"
 },
@@ -8368,6 +8404,7 @@
 },
 "Siouxsie & The Banshees|Spellbound": {
 "album": "Ju Ju (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/44/01/32440139-f4aa-0be8-cb1d-51742508c535/00602498369142.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -8784,6 +8821,7 @@
 },
 "Styx|Mr. Roboto": {
 "album": "Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/5a/96/7e5a96a1-fa11-20be-fee4-23907b7e2632/06UMGIM18639.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9546,6 +9584,7 @@
 },
 "The McCoys|Hang on Sloopy": {
 "album": "Hang On Sloopy - The Best of the McCoys",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/3d/eb/163deb4f-9f8e-9a68-1fe3-4a2f05bb7a9f/mzi.oxktsvls.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -10361,6 +10400,7 @@
 },
 "Van Halen|Jump  (2015 Remaster)": {
 "album": "1984",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -10399,6 +10439,7 @@
 },
 "Vicente Fernández|El Rey": {
 "album": "Historia de un Ídolo, Vol. II",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/85/87/c58587d3-fb95-226b-1063-3e72b3c47132/mzi.sfllgtrf.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Música Mexicana"
 },
@@ -10709,6 +10750,7 @@
 },
 "twenty one pilots|Stressed Out": {
 "album": "Blurryface",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
