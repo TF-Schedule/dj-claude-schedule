@@ -14,6 +14,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"2CELLOS|Thunderstruck": {
+"album": "Celloverse (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4c/24/da/4c24da09-e37f-4594-4b26-95b1e3ebb01c/886444957540.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "9MUSES|Dolls": {
 "album": "Dolls - EP",
 "film_hint": "",
@@ -460,6 +466,12 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Ashley Tisdale|Bop to the Top": {
+"album": "High School Musical",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/92/8a/12928ad9-c140-3cf4-3f48-1ed6300fbf95/09BVMIM00576.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Ashra|Kazoo": {
 "album": "Belle Alliance",
 "film_hint": "",
@@ -482,6 +494,7 @@
 },
 "Astor Piazzolla|Milonga Del Angel": {
 "album": "Tango: Zero Hour",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/80/53/7d/80537db6-0572-06f6-61d9-4e937edf13b1/dj.roveyfht.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Raíces"
 },
@@ -594,6 +607,12 @@
 "album": "Depression Cherry",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Beastie Boys|Sabotage": {
+"album": "Solid Gold Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/af/7c/39af7ceb-b3ad-9ce1-e29b-ffe77f549a65/00094634627153.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Beatrice Rana|Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro": {
 "album": "Bach: Keyboard Concertos, BWV 1052, 1053, 1054 & 1056",
@@ -811,6 +830,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Billy Joel|The River of Dreams (Album Version)": {
+"album": "River of Dreams",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/53/27/175327c0-3cdc-74b9-7862-22d34b7f20dc/dj.ibpwurgt.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Billy Joel|Vienna (Album Version)": {
 "album": "The Stranger",
 "film_hint": "",
@@ -865,6 +890,12 @@
 "album": "Call Me - EP",
 "film_hint": "",
 "genre": "Disco"
+},
+"Bloodhound Gang|Mope (Album Version)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
 },
 "Blossom Dearie|It Amazes Me": {
 "album": "Once Upon a Summertime...",
@@ -1314,6 +1345,12 @@
 "film_hint": "",
 "genre": "Indie Pop"
 },
+"Carter Vail|Ants In My Room": {
+"album": "Ants In My Room - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/6d/83/306d83b1-e87d-e4ae-e4c7-b7781d0eddc8/196874029039.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Cartola|As Rosas Não Falam": {
 "album": "Cartola (1976)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/2c/02/3a2c021a-40a2-8aae-96cf-2a2a530ec00a/14UMGIM11062.rgb.jpg/100x100bb.jpg",
@@ -1339,6 +1376,12 @@
 "album": "Ecstatic Computation",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Celtic Siren Noreen|Penelope's Song The Odyssey": {
+"album": "Penelope's Song the Odyssey - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/b5/61/d3b56195-4ba5-ac6a-c0fb-2010f7f9e24e/823000251896.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Cesária Evora|Petit pays": {
 "album": "Anthologie / Mornas & Coladeras",
@@ -1440,6 +1483,12 @@
 "album": "C'est Chic (2018 Remaster)",
 "film_hint": "",
 "genre": "Dance"
+},
+"Child Seat|Heart To Heart": {
+"album": "Hyperphantasia",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/05/b0/0b05b078-855e-5aaa-9b1c-c02159a19e02/193436455367_ChildSeatHyperphantasia.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Child Seat|Hyperphantasia": {
 "album": "Hyperphantasia - Single",
@@ -1826,6 +1875,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"David Bowie|Rebel Rebel": {
+"album": "Diamond Dogs (2016 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/3a/fb/053afbb1-d7ec-6a7f-57d9-0d7bea7c38c6/190295990381.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Slow Burn": {
 "album": "Heathen",
 "film_hint": "",
@@ -1876,6 +1931,12 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Dead Can Dance|Bird": {
+"album": "A Passage In Time",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/b8/b5/b4b8b5dc-2990-0ace-1caa-050441bea330/652637101089.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Dead Can Dance|The Host of Seraphim (Remastered)": {
 "album": "The Serpent’s Egg (Remastered)",
 "film_hint": "",
@@ -1893,6 +1954,12 @@
 },
 "Def Leppard|Photograph": {
 "album": "Pyromania",
+"film_hint": "",
+"genre": "Hard Rock"
+},
+"Deftones|Change (In the House of Flies)": {
+"album": "White Pony",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -2080,6 +2147,12 @@
 },
 "Dua Lipa|Don't Start Now": {
 "album": "Don't Start Now - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Dua Lipa|Future Nostalgia": {
+"album": "Future Nostalgia",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2280,6 +2353,12 @@
 "album": "Imperial Bedroom",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Elvis Costello|Watching The Detectives (Single Version)": {
+"album": "The Best of Elvis Costello: The First 10 Years",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/e0/20/1de0208c-9781-b10e-d92d-51db8387dc36/00602517260917.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "Elvis Presley|Can't Help Falling in Love": {
 "album": "Elv1s: 30 #1 Hits",
@@ -2824,6 +2903,12 @@
 "film_hint": "",
 "genre": "Latin"
 },
+"Gloria Gaynor|I Will Survive": {
+"album": "20th Century Masters - The Millennium Collection: The Best of Gloria Gaynor",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/33/12/df/3312dfbf-2cd2-e149-1ccb-9688e2a60980/00731454913720.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "GoGo Penguin|Hopopono": {
 "album": "v2.0 (Deluxe Edition)",
 "film_hint": "",
@@ -2888,6 +2973,12 @@
 "Gorillaz|Souk Eye": {
 "album": "The Now Now",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Gorillaz|The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)": {
+"album": "The Mountain",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3235,6 +3326,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Howard Shore|Caras Galadhon / \"Lament for Gandalf\" (feat. Elizabeth Fraser)": {
+"album": "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/d0/0b/cdd00b19-0cd7-3c23-3f47-79a5b4399491/603497859108.jpg/100x100bb.jpg",
+"film_hint": "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings",
+"genre": "Soundtrack"
+},
 "Howlin' Wolf|Smokestack Lightnin'": {
 "album": "Moanin' in the Moonlight",
 "film_hint": "",
@@ -3310,6 +3407,12 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"In Love With a Ghost|Flowers": {
+"album": "In Love with a Ghost - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/c4/38/54c4385b-070f-205f-df2b-0e9018ff7a21/8721465228281.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Iration|Fly with Me": {
 "album": "Iration",
 "film_hint": "",
@@ -3349,6 +3452,12 @@
 "album": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George",
 "film_hint": "",
 "genre": "Rock"
+},
+"Jacquees|Won't Turn It Down": {
+"album": "Down (feat. Lil Wayne) - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/71/64/8a7164bf-2a64-c752-4b92-25d36aa7adb3/09UMGIM21866.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "James Blake|Retrograde": {
 "album": "Overgrown (Deluxe Edition)",
@@ -3613,6 +3722,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"John McLaughlin|You Know, You Know (Album Version)": {
+"album": "The Inner Mounting Flame (with John McLaughlin)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/d9/32/c1/d932c164-9f19-b3e9-c1cb-b017783b74a4/dj.blxgjyql.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Jazz"
+},
 "John Prine|Your Flag Decal Won't Get You into Heaven Anymore": {
 "album": "John Prine",
 "film_hint": "",
@@ -3670,6 +3785,12 @@
 },
 "Joni Mitchell|A Case of You": {
 "album": "Blue",
+"film_hint": "",
+"genre": "Pop"
+},
+"Joni Mitchell|At Last (LP Version)": {
+"album": "Ladies of the Canyon",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/c6/45/89c645ec-9226-30b3-e3b4-473711562ca7/603497924653.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3819,6 +3940,12 @@
 },
 "Kate Bush|L'Amour Looks Something Like You (2018 Remaster)": {
 "album": "The Kick Inside (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Kate Bush|Under The Ivy": {
+"album": "Best Of The Other Sides",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/76/63/727663a0-0ea5-d891-e5e9-91bf5fe2a174/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4290,6 +4417,12 @@
 "film_hint": "The Hills Have Eyes 2 - The Album",
 "genre": "Soundtrack"
 },
+"Loreena McKennitt|The Holly and the Ivy  (Live)": {
+"album": "Under A Winter's Moon (Live At Knox Church, Stratford, Ontario 2021)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/2a/18/842a1811-effe-9a0e-0b7c-37cd6879b5ec/22UM1IM28374.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Loreen|Euphoria": {
 "album": "Euphoria",
 "film_hint": "",
@@ -4344,6 +4477,12 @@
 },
 "Love and Rockets|Saudade": {
 "album": "Seventh Dream of Teenage Heaven",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Love and Rockets|So Alive": {
+"album": "Love and Rockets",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/60/34/2b/60342b09-d488-e319-68d8-13cec65fe2cd/607618203580.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4572,6 +4711,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Marvin Gaye|Distant Lover": {
+"album": "Let's Get It On (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/65/db/e565db27-c3fd-e972-4010-1bfa2d918f10/23UMGIM49775.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Marvin Gaye|I Heard It Through The Grapevine (SACD Stereo)": {
 "album": "Let's Get It On (Deluxe Edition)",
 "film_hint": "",
@@ -4665,6 +4810,12 @@
 },
 "Maxwell|This Woman's Work (Uncut)": {
 "album": "Now (2021 Remaster)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Maxwell|Whenever Wherever Whatever (Remastered 2021) (Album Version)": {
+"album": "Maxwell's Urban Hang Suite",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/64/1e/5e641ea6-be24-4cb1-c7d7-289b1082bee8/888880648082.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -4797,6 +4948,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Michael Jackson|Thriller": {
+"album": "Thriller",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Michael Jackson|You Are Not Alone": {
 "album": "HIStory - Past, Present and Future, Book I",
 "film_hint": "",
@@ -4894,6 +5051,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/b4/93/b0b493b1-71ae-b154-ab40-e6acc7d84c46/842108036099_1.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Modest Mouse|Float On": {
+"album": "Float On - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/15/73/3a1573f6-fd63-bd5d-3182-65399cbade55/mzi.kplxkuxw.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Moloko|Being Is Bewildering": {
 "album": "Things to Make and Do",
@@ -5299,6 +5462,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"P!nk|Eventually": {
+"album": "M!ssundaztood (Expanded Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1c/fc/7c1cfca0-6771-a907-618e-21451edcba78/888880452016.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "P!nk|So What": {
 "album": "Funhouse (Deluxe Version)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/0b/56/180b566d-09b1-0510-cbc7-b35440b93f73/196874514603.jpg/100x100bb.jpg",
@@ -5523,6 +5692,18 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Peter Gabriel|Sky Blue": {
+"album": "Up",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/7d/08/e37d0833-b8a9-32c2-b581-6a64a20c0ec1/dj.yqbugmck.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Peter Gabriel|Sledgehammer": {
+"album": "So (Special Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/ee/3a/7aee3ac5-7627-0c97-e859-19ae7a6320b1/So_cover_iTunes_copy.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Peter Gabriel|The Feeling Begins (Remastered 2002)": {
 "album": "",
 "film_hint": "",
@@ -5595,6 +5776,12 @@
 "album": "Wish You Were Here",
 "film_hint": "",
 "genre": "Rock"
+},
+"Pink Floyd|The Great Gig in the Sky (2023 Remaster)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
 },
 "Pink Floyd|Wish You Were Here": {
 "album": "Wish You Were Here",
@@ -5711,6 +5898,12 @@
 "album": "A Whiter Shade of Pale (Original Single Version) [2007 Remaster] - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Pulp|Common People (Full Length Version; Album Version)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
 },
 "Q Lazzarus|Goodbye Horses - Single": {
 "album": "Goodbye Horses - Single",
@@ -5973,6 +6166,7 @@
 },
 "Roxette|The Look": {
 "album": "Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/ef/d7/5cefd760-1260-4081-621a-85db2355e13a/dj.gmqdvhoe.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6571,6 +6765,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Stevie Wonder|As": {
+"album": "Songs in the Key of Life",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Stevie Wonder|Go Home": {
 "album": "In Square Circle",
 "film_hint": "",
@@ -6600,6 +6800,12 @@
 "album": "Innervisions",
 "film_hint": "",
 "genre": "Motown"
+},
+"Stevie Wonder|Master Blaster (Jammin')": {
+"album": "Hotter Than July",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/71/7e/10717e68-72d1-e3ce-6173-a920506bf797/00602537779482.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
@@ -6650,6 +6856,12 @@
 "album": "#3",
 "film_hint": "",
 "genre": "Pop"
+},
+"Suede|Animal Nitrate": {
+"album": "Suede",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e3/6a/0c/e36a0cb0-7e2c-31ec-d384-dda46771f96a/5032698638314.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Sufjan Stevens|Casimir Pulaski Day": {
 "album": "Illinois",
@@ -6912,6 +7124,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The 1975|Somebody Else": {
+"album": "Somebody Else (The 1975 Lo-Fi Version) [Cover] - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/a3/1c/8ca31c09-2b11-3e23-21cb-cc17fe932389/0.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Ambient"
+},
 "The Altons|When You Go (That's When You'll Know)": {
 "album": "When You Go (That's When You'll Know) - Single",
 "film_hint": "",
@@ -7043,6 +7261,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Crystal Method|Busy Child": {
+"album": "Vegas",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/3a/6f/b23a6f62-1d03-044a-71ab-edb55f385fc5/00607703000322.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
+},
 "The Crystal Method|Cherry Twist": {
 "album": "Vegas",
 "film_hint": "",
@@ -7171,6 +7395,12 @@
 "artwork": "",
 "film_hint": "",
 "genre": ""
+},
+"The La's|There She Goes": {
+"album": "The La's (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/78/68/dc7868a1-cac3-67ff-0b58-baa92e944be1/00600753060216.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Magnetic Fields|Absolutely Cuckoo": {
 "album": "69 Love Songs",
@@ -7327,6 +7557,12 @@
 },
 "The Smile|The Smoke": {
 "album": "A Light for Attracting Attention",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The Smiths|I Know It's Over": {
+"album": "The Queen Is Dead",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7661,6 +7897,12 @@
 "album": "Scarlet's Walk (2023 Remaster)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Tori Amos|Rattlesnakes": {
+"album": "Strange Little Girls",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/a0/33/mzi.dcgazvrs.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "Tori Amos|Winter": {
 "album": "A Tori Amos Collection - Tales of a Librarian",
