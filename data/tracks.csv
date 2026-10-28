@@ -1,4 +1,6 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Martina McBride,Independence Day,9,2026-10-28T23:10:55Z,Life Tracks,Country,Greatest Hits,,https://music.apple.com/us/album/independence-day/256344266?i=256344593,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/d2/c4/5bd2c44e-5487-4a57-dabf-3591879bb045/mzi.lprvsbxk.jpg/100x100bb.jpg
+Lianne La Havas,Unstoppable,85,2026-10-28T23:05:19Z,Life Tracks,R&B/Soul,Blood,,https://music.apple.com/us/album/unstoppable/986317401?i=986317406,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/4a/1e/6b/4a1e6b00-8429-dcbc-0593-129dd4659c02/825646101566.jpg/100x100bb.jpg
 Ben Allison,D.A.V.E.,20,2026-10-28T22:54:06Z,Open Channel,Jazz,The Stars Look Very Different Today,,https://music.apple.com/us/album/d-a-v-e/1465796791?i=1465796792,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cb/ad/ac/cbadacd1-8c1a-146e-5356-1e3e8e76e232/616892154341.jpg/100x100bb.jpg
 Paco de Lucía,Mediterranean sundance - Di Meola: Mediterranean sundance,20,2026-10-28T22:49:48Z,Open Channel,Classical,Pavarotti & Friends for War Child,,https://music.apple.com/us/search?term=Paco+de+Luc%C3%ADa+Mediterranean+sundance+-+Di+Meola%3A+Mediterranean+sundance,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/0c/eb/890ceb60-eb22-5283-31e0-f4fdc438e12d/00028945290027.rgb.jpg/100x100bb.jpg
 Canned Heat,On The Road Again,5,2026-10-28T22:44:39Z,Open Channel,Rock,Boogie With Canned Heat,,https://music.apple.com/us/album/on-the-road-again/1452592173?i=1452592179,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/ae/12/4eae12fd-27be-8598-0885-f42072bdfbd3/00602537935369.rgb.jpg/100x100bb.jpg
@@ -1246,45 +1248,45 @@ ANNIE,Heartbeat,12,2026-10-23T14:19:02Z,,Electronic,Anniemal,,,Kurt,https://is1-
 Bonnie Tyler,Total Eclipse of the Heart,6,2026-10-23T13:49:31Z,,Adult Contemporary,Faster Than the Speed of Night,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/100x100bb.jpg
 R.E.M.,Orange Crush (Remastered),11,2026-10-23T13:45:31Z,,Alternative,Green (Remastered 2013),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/25/78/4b2578c0-eab0-fd43-743b-9a757e5a8b24/00888072396098.rgb.jpg/100x100bb.jpg
 Metallica,"Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",13,2026-10-23T13:38:32Z,,,,,,Kurt,
-The Doobie Brothers,You Belong to Me  (2016 Remaster),10,2026-10-23T13:31:32Z,,Pop,This Year's Model (2021 Remaster / Deluxe),,,Kurt,
-Kenny Loggins,"Danger Zone (From ""Top Gun"" Original Soundtrack)",14,2026-10-23T13:19:31Z,,Rock,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",,,Kurt,
-Miles Davis,So What,21,2026-10-23T12:46:32Z,,Jazz,Kind of Blue,,,Kurt,
-João Gilberto,Chega de Saudade,50,2026-10-23T12:37:31Z,,Bossa Nova,Chega de Saudade (2022 Ultimate Mix),,,Kurt,
-Bonobo,Cirrus,129,2026-10-23T12:31:31Z,,Electronic,The North Borders,,,Kurt,
-Boz Scaggs,Simone (2023 Remaster),22,2026-10-23T12:26:32Z,,Rock,Middle Man (2023 Remaster),,,Kurt,
-Sufjan Stevens,Should Have Known Better,85,2026-10-23T12:21:04Z,,Singer/Songwriter,Carrie & Lowell,,,Kurt,
+The Doobie Brothers,You Belong to Me  (2016 Remaster),10,2026-10-23T13:31:32Z,,Pop,This Year's Model (2021 Remaster / Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/40/80/3b40808e-986c-7b03-d337-1c9ee850b45e/21UMGIM48777.rgb.jpg/100x100bb.jpg
+Kenny Loggins,"Danger Zone (From ""Top Gun"" Original Soundtrack)",14,2026-10-23T13:19:31Z,,Rock,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/b3/cc/10b3ccaa-d66e-54df-41e9-f8b3a52e7563/mzi.lrbbfqac.jpg/100x100bb.jpg
+Miles Davis,So What,21,2026-10-23T12:46:32Z,,Jazz,Kind of Blue,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/100x100bb.jpg
+João Gilberto,Chega de Saudade,50,2026-10-23T12:37:31Z,,Bossa Nova,Chega de Saudade (2022 Ultimate Mix),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6d/37/38/6d3738f1-a645-612a-616d-8dca08e9bb1d/196925600774.jpg/100x100bb.jpg
+Bonobo,Cirrus,129,2026-10-23T12:31:31Z,,Electronic,The North Borders,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/ec/66/ddec66e4-9034-4409-f310-ee87da874487/5021392806198.png/100x100bb.jpg
+Boz Scaggs,Simone (2023 Remaster),22,2026-10-23T12:26:32Z,,Rock,Middle Man (2023 Remaster),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1f/d9/9d1fd999-2d02-86d2-4653-1604f5f969d3/196871320719.jpg/100x100bb.jpg
+Sufjan Stevens,Should Have Known Better,85,2026-10-23T12:21:04Z,,Singer/Songwriter,Carrie & Lowell,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/100x100bb.jpg
 Herbert Grönemeyer,Was soll das (Remastered 2016),23,2026-10-23T12:16:31Z,,,,,,Kurt,
 Deichkind,Keine Party (Single Edit),1,2026-10-23T12:12:33Z,,,,,,Kurt,
-José González,Heartbeats,118,2026-10-23T12:10:02Z,,Singer/Songwriter,Veneer,,,Kurt,
-The Beatles,Rain (Remastered),19,2026-10-23T11:57:01Z,,Rock,Past Masters (Vols. 1 & 2 / Remastered),,,Kurt,
-Gorillaz,Rock the House,9,2026-10-23T11:41:32Z,,Alternative,G Sides,,,Kurt,
-Love and Rockets,Haunted When the Minutes Drag,5,2026-10-23T11:33:31Z,,Alternative,Seventh Dream of Teenage Heaven,,,Kurt,
-Metallica,Spit Out The Bone,12,2026-10-23T11:26:01Z,,Metal,Hardwired…To Self-Destruct (Deluxe Edition),,,Kurt,
+José González,Heartbeats,118,2026-10-23T12:10:02Z,,Singer/Songwriter,Veneer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/4e/93/744e930f-65d9-dffb-5d86-1360bb5a6bc5/724596932452.jpg/100x100bb.jpg
+The Beatles,Rain (Remastered),19,2026-10-23T11:57:01Z,,Rock,Past Masters (Vols. 1 & 2 / Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/71/4f/8c714fd9-cc4e-c898-07b2-212f33d5ee6f/13UMGIM63896.rgb.jpg/100x100bb.jpg
+Gorillaz,Rock the House,9,2026-10-23T11:41:32Z,,Alternative,G Sides,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/fc/e7/76fce783-7be6-2dcd-7b54-1306c7d872ea/825646264261.jpg/100x100bb.jpg
+Love and Rockets,Haunted When the Minutes Drag,5,2026-10-23T11:33:31Z,,Alternative,Seventh Dream of Teenage Heaven,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/0b/df/5b0bdf13-8d16-31e2-78f6-e191bd2e36eb/607618202538.png/100x100bb.jpg
+Metallica,Spit Out The Bone,12,2026-10-23T11:26:01Z,,Metal,Hardwired…To Self-Destruct (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/c1/52/01c15233-6950-93f5-2501-8f61de465c5c/858978005240.png/100x100bb.jpg
 Guns N' Roses,Sweet Child O' Mine,28,2026-10-23T11:20:01Z,,,,,,Kurt,
-Queen,We Will Rock You,7,2026-10-23T11:12:31Z,,Rock,News Of The World (Deluxe Edition),,,Kurt,
-Bad Religion,21st Century (Digital Boy),10,2026-10-23T11:06:31Z,,Hard Rock,Stranger Than Fiction (Deluxe Edition Remastered),,,Kurt,
-Björk,I’ve Seen It All,12,2026-10-23T10:48:01Z,,Soundtrack,"Selmasongs (Music from the Motion Picture ""Dancer In the Dark"")","Selmasongs (Music from the Motion Picture ""Dancer In the Dark"")",,Kurt,
-Sigur Rós,Sé Lest,58,2026-10-23T10:39:01Z,,Alternative,Takk...,,,Kurt,
-U2,Beautiful Day (Remastered 2020),7,2026-10-23T10:34:31Z,,Pop,Beautiful Day (Remastered 2024) - EP,,,Kurt,
-Loreen,Euphoria,18,2026-10-23T10:31:01Z,,Dance,Euphoria,,,Kurt,
-Wolfsheim,Künstliche Welten,7,2026-10-23T10:15:31Z,,Pop,Spectators,,,Kurt,
-Yellow Magic Orchestra,RYDEEN  (2018 Bob Ludwig Remastering),25,2026-10-23T10:07:31Z,,Electronica,Solid State Survivor,,,Kurt,
-Kraftwerk,Autobahn  (2024 Single Edit),24,2026-10-23T09:55:01Z,,Electronic,Autobahn (2024 Single Edit) - Single,,,Kurt,
-Dua Lipa,Don't Start Now,19,2026-10-23T09:49:01Z,,Pop,Don't Start Now - Single,,,Kurt,
-Prince,Moonbeam Levels  (2019 Remaster),23,2026-10-23T09:44:31Z,,R&B/Soul,1999 (Super Deluxe Edition) [2019 Remaster],,,Kurt,
-The Beatles,With A Little Help From My Friends (2017 Mix),15,2026-10-23T09:41:31Z,,Rock,Sgt. Pepper's Lonely Hearts Club Band (2017 Mix),,,Kurt,
-Bruno Mars,I Just Might,259,2026-10-23T09:33:02Z,,Pop,The Romantic,,,Kurt,
-Michael Jackson,Rock with You (Single Version),50,2026-10-23T09:29:31Z,,Pop,Off the Wall,,,Kurt,
-Queen,Don't Stop Me Now (Remastered 2011),76,2026-10-23T09:16:31Z,,Rock,The Platinum Collection,,,Kurt,
-Cyndi Lauper,Girls Just Want to Have Fun,26,2026-10-23T09:12:31Z,,Pop,She's So Unusual,,,Kurt,
-"Earth, Wind & Fire",Let's Groove (Album Version),33,2026-10-23T09:03:31Z,,R&B/Soul,Raise!,,,Kurt,
-Boney M.,Gotta Go Home,61,2026-10-23T08:43:31Z,,R&B/Soul,Oceans of Fantasy,,,Kurt,
-Nick Drake,Northern Sky,127,2026-10-23T08:21:00Z,,Rock,A Treasury,,,Kurt,
-U2,Where The Streets Have No Name (Remastered 2007),108,2026-10-23T08:10:30Z,,Rock,The Joshua Tree,,,Kurt,
-The Hu,Yuve Yuve Yu,23,2026-10-23T08:05:30Z,,Metal,The Gereg (Deluxe Edition),,,Kurt,
-Astor Piazzolla,Adiós Nonino,10,2026-10-23T07:47:30Z,,Classical,Roses of the Classic - Accordion,,,Kurt,
-Ben&Ben,Leaves,48,2026-10-23T07:32:00Z,,Alternative Folk,Leaves (feat. Young K) - Single,,,Kurt,
-The Beach Boys,Good Vibrations (Stereo/Remastered 2012),29,2026-10-23T07:28:30Z,,Rock,Smiley Smile (Mono & Stereo),,,Kurt,
+Queen,We Will Rock You,7,2026-10-23T11:12:31Z,,Rock,News Of The World (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/25/81/3a258183-09c1-e6ee-b517-258288ca3d03/602527717487.jpg/100x100bb.jpg
+Bad Religion,21st Century (Digital Boy),10,2026-10-23T11:06:31Z,,Hard Rock,Stranger Than Fiction (Deluxe Edition Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/8d/24/798d24ab-26fa-82a3-c917-27eaa938bdec/0045778699452.png/100x100bb.jpg
+Björk,I’ve Seen It All,12,2026-10-23T10:48:01Z,,Soundtrack,"Selmasongs (Music from the Motion Picture ""Dancer In the Dark"")","Selmasongs (Music from the Motion Picture ""Dancer In the Dark"")",,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f5/72/f6/f572f6cd-8499-065e-9b0e-ccebec352dab/075596253369.jpg/100x100bb.jpg
+Sigur Rós,Sé Lest,58,2026-10-23T10:39:01Z,,Alternative,Takk...,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg/100x100bb.jpg
+U2,Beautiful Day (Remastered 2020),7,2026-10-23T10:34:31Z,,Pop,Beautiful Day (Remastered 2024) - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/05/62/6a05623f-58c5-90db-bf10-a0d6e48efeed/24UMGIM37748.rgb.jpg/100x100bb.jpg
+Loreen,Euphoria,18,2026-10-23T10:31:01Z,,Dance,Euphoria,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/9b/7e/469b7e7b-f7d1-f468-ee84-7901549ef158/825646611072.jpg/100x100bb.jpg
+Wolfsheim,Künstliche Welten,7,2026-10-23T10:15:31Z,,Pop,Spectators,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a7/d5/3a/a7d53ac7-6486-8a2a-ee2b-94de1f1f6a59/4051972101741_1448.jpg/100x100bb.jpg
+Yellow Magic Orchestra,RYDEEN  (2018 Bob Ludwig Remastering),25,2026-10-23T10:07:31Z,,Electronica,Solid State Survivor,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7b/a4/1a/7ba41a51-f5e0-042d-5d10-8fd10b629bab/886447666654.jpg/100x100bb.jpg
+Kraftwerk,Autobahn  (2024 Single Edit),24,2026-10-23T09:55:01Z,,Electronic,Autobahn (2024 Single Edit) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/3f/2d/fb3f2d55-dc7a-8f17-09f8-28191d34bc53/5021732496591.jpg/100x100bb.jpg
+Dua Lipa,Don't Start Now,19,2026-10-23T09:49:01Z,,Pop,Don't Start Now - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/100x100bb.jpg
+Prince,Moonbeam Levels  (2019 Remaster),23,2026-10-23T09:44:31Z,,R&B/Soul,1999 (Super Deluxe Edition) [2019 Remaster],,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/dd/09/7fdd0995-aef8-64af-ee5d-be49326fc7a8/886448921325.jpg/100x100bb.jpg
+The Beatles,With A Little Help From My Friends (2017 Mix),15,2026-10-23T09:41:31Z,,Rock,Sgt. Pepper's Lonely Hearts Club Band (2017 Mix),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/100x100bb.jpg
+Bruno Mars,I Just Might,259,2026-10-23T09:33:02Z,,Pop,The Romantic,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/100x100bb.jpg
+Michael Jackson,Rock with You (Single Version),50,2026-10-23T09:29:31Z,,Pop,Off the Wall,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/100x100bb.jpg
+Queen,Don't Stop Me Now (Remastered 2011),76,2026-10-23T09:16:31Z,,Rock,The Platinum Collection,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/100x100bb.jpg
+Cyndi Lauper,Girls Just Want to Have Fun,26,2026-10-23T09:12:31Z,,Pop,She's So Unusual,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/8c/13/8a8c13e0-06af-1710-7b7d-ebec65fb8361/074643893022.jpg/100x100bb.jpg
+"Earth, Wind & Fire",Let's Groove (Album Version),33,2026-10-23T09:03:31Z,,R&B/Soul,Raise!,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/100x100bb.jpg
+Boney M.,Gotta Go Home,61,2026-10-23T08:43:31Z,,R&B/Soul,Oceans of Fantasy,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/c7/e1/37/mzi.qtpzcewy.jpg/100x100bb.jpg
+Nick Drake,Northern Sky,127,2026-10-23T08:21:00Z,,Rock,A Treasury,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/0a/de/090adef8-d0f6-6681-a8b4-f33aa52c2c5c/00602537415816.rgb.jpg/100x100bb.jpg
+U2,Where The Streets Have No Name (Remastered 2007),108,2026-10-23T08:10:30Z,,Rock,The Joshua Tree (30th Anniversary Super Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/ba/3e/1aba3e49-70e9-7443-4c00-32364a9205b7/17UMGIM81723.rgb.jpg/100x100bb.jpg
+The Hu,Yuve Yuve Yu,23,2026-10-23T08:05:30Z,,Metal,The Gereg (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/d1/99/9dd1992d-cc4b-85ee-3230-2d69f49187d4/849320085201.png/100x100bb.jpg
+Astor Piazzolla,Adiós Nonino,10,2026-10-23T07:47:30Z,,Classical,Roses of the Classic - Accordion,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/91/87/1f/91871fa7-dca8-d412-e306-1728ed42a01b/5901571097923.jpg/100x100bb.jpg
+Ben&Ben,Leaves,48,2026-10-23T07:32:00Z,,Alternative Folk,Leaves (feat. Young K) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/72/19/35721962-2902-809f-e24c-73a8bdf7dfcb/886449312276.jpg/100x100bb.jpg
+The Beach Boys,Good Vibrations (Stereo/Remastered 2012),29,2026-10-23T07:28:30Z,,Rock,Smiley Smile (Mono & Stereo),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/62/6c/94626c44-4657-739e-e639-39ae55e6d2cc/13UABIM03827.rgb.jpg/100x100bb.jpg
 Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,Rock y Alternativo,MTV Unplugged: Comfort y Música para Volar,,,Kurt,
 Goldmund,Threnody,109,2026-10-23T06:51:29Z,,Alternative,The Malady of Elegance,,,Kurt,
 Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,Soundtrack,"Desperados III, Vol. 1 (Official Game Soundtrack)","Desperados III, Vol. 1 (Official Game Soundtrack)",,Kurt,
@@ -1335,7 +1337,6 @@ Stevie Wonder,Superstition (Album Version),98,2026-10-22T21:40:21Z,,R&B/Soul,Tal
 David Bowie,Starman  (2012 Remaster),32,2026-10-22T21:36:21Z,,Pop,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),,,Kurt,
 Linkin Park,Numb,11,2026-10-22T21:29:21Z,,Hard Rock,Meteora (Deluxe Edition),,,Kurt,
 Gonzales,Gogol,16,2026-10-22T21:27:21Z,,Instrumental,Solo Piano 20th Anniversary (Live in Paris),,,Kurt,
-Lianne La Havas,Unstoppable,85,2026-10-22T21:16:51Z,,R&B/Soul,Blood,,,Kurt,
 Eiffel 65,Blue (Flume Remix),10,2026-10-22T21:13:51Z,,Electronic,Blue (Flume Remix) - Single,,,Kurt,
 Khruangbin,Time (You and I),94,2026-10-22T21:03:51Z,,Alternative,Mordechai,,,Kurt,
 Daft Punk,Face to Face,15,2026-10-22T20:54:21Z,,Dance,Discovery,,,Kurt,
@@ -1762,7 +1763,6 @@ Marvin Gaye,Inner City Blues (Make Me Wanna Holler),130,2026-10-15T10:53:30Z,,R&
 Melody Gardot,If You Love Me,3,2026-10-15T09:51:29Z,,Jazz,Sunset In The Blue (Deluxe Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/fc/bf/8dfcbf64-e015-cea7-a6d2-d62525c1b627/21UMGIM08725.rgb.jpg/100x100bb.jpg
 Supercell,Melt (feat. Hatsune Miku),17,2026-10-15T04:11:57Z,,Worldwide,supercell (feat. Hatsune Miku),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b2/a4/10/b2a410df-9deb-5269-50bf-6a31ce3bd0fb/mzi.dqdonwii.jpg/100x100bb.jpg
 Noah Kahan,Stick Season,18,2026-10-15T03:23:27Z,,Alternative,Stick Season (We'll All Be Here Forever),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/75/f3/e475f31a-ade1-50bf-e983-1467aaf62c46/23UMGIM59938.rgb.jpg/100x100bb.jpg
-Martina McBride,Independence Day,9,2026-10-15T02:26:26Z,,Country,Greatest Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/d2/c4/5bd2c44e-5487-4a57-dabf-3591879bb045/mzi.lprvsbxk.jpg/100x100bb.jpg
 Leonard Cohen,Bird on the Wire,32,2026-10-15T00:28:56Z,,Rock,Live In London,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/d4/a0/8bd4a0c4-a87a-3045-0aaf-3d5a419f54a2/mzi.saafxovb.jpg/100x100bb.jpg
 The Cure,The Last Day Of Summer,3,2026-10-15T00:00:26Z,,Alternative,Bloodflowers,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/c0/89/41c08977-663e-20df-ad8c-7966e94b9714/mzi.akxastzt.jpg/100x100bb.jpg
 Cyndi Lauper,All Through the Night,61,2026-10-14T22:47:57Z,,Pop,She's So Unusual,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/8c/13/8a8c13e0-06af-1710-7b7d-ebec65fb8361/074643893022.jpg/100x100bb.jpg
