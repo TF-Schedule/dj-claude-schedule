@@ -110,10 +110,10 @@ Claire Chevallier,Je te veux,"Café de Paris, Classic",,"Erik Satie, intimate so
 Clannad,Theme From Harry's Game,Roots: Green Light & Ivy,,"Gälischer Chorgesang mit pulsierender, mystischer Kraft",Green Light & Ivy,Ethereal / Keltischer Pop
 Claude Debussy,Clair de Lune,"Café de Paris, Classic",,"Soft impressionist piano, moonlight stillness","French, Classic",Klassik
 Claudio Constantini,Noctilune No. 1 (Bandoneon Solo),Roots: Raíces Latinas,,"Intimes Bandoneon-Solo, Klang des Río de la Plata",Raíces Latinas,Tango / Bandoneon
-Cocteau Twins,Cherry-coloured Funk,Roots: Green Light & Ivy,,"Schimmernde, verträumte Gitarrenwände und ätherischer Gesang",Green Light & Ivy,Dream Pop / Shoegaze
-Cocteau Twins,Ivo,Roots: Green Light & Ivy,,Dynamisch-sphärisches Wechselspiel aus Gesang und Instrumentierung,Green Light & Ivy,Dream Pop / Ethereal Wave
+Cocteau Twins,Cherry-coloured Funk,"Roots: Green Light & Ivy, Shoe Shine, Dream Pop",,"Schimmernde, verträumte Gitarrenwände und ätherischer Gesang",Green Light & Ivy,Dream Pop / Shoegaze
+Cocteau Twins,Ivo,"Roots: Green Light & Ivy, Shoe Shine, Dream Pop",,Dynamisch-sphärisches Wechselspiel aus Gesang und Instrumentierung,Green Light & Ivy,Dream Pop / Ethereal Wave
 Cocteau Twins,"Sea, Swallow Me",Roots: Green Light & Ivy,,Schimmernde Texturen mit Harold Budd am Piano und Elizabeth Fraser,Green Light & Ivy,Dream Pop / Ambient
-Cocteau Twins,Whales Tails,Roots: Green Light & Ivy,,"Sanft fließendes, mystisches Zusammenspiel von Vocals und Instrumenten",Green Light & Ivy,Dream Pop / Ambient
+Cocteau Twins,Whales Tails,"Roots: Green Light & Ivy, Shoe Shine, Dream Pop",,"Sanft fließendes, mystisches Zusammenspiel von Vocals und Instrumenten",Green Light & Ivy,Dream Pop / Ambient
 Coldplay,Talk,Europe Express: Britannia,,Kraftwerk-Computer-Love-Zitat,Britannia,Alternative Rock / Elektro
 Coldplay,Yellow,Europe Express: Britannia,,Parachutes-Farb-Gefühlsausbruch,Britannia,Alternative Rock
 Coleman Hawkins,Body and Soul,Jazzable Cities,,Urknall der Saxofon-Improvisation,Jazz-Klassiker,Swing / Bebop-Pionier
@@ -284,8 +284,8 @@ Loreena McKennitt,Bonny Portmore,Roots: Green Light & Ivy,,Traditionelle Harfenk
 Loreena McKennitt,The Mummers' Dance (Single Version),Roots: Green Light & Ivy,,"Kraftvolle Percussion, mystische Harfe und ätherischer Natur-Gesang",Green Light & Ivy,Ethereal / Keltischer Pop
 Lou Reed,Goodnight Ladies,Roots: Americana,,"Cabaret-artige Theater-Nummer vom Solo-Debüt, Vaudeville-Charme im VU-Kosmos",Americana,Folk-Cabaret / Art-Rock
 Lou Reed,Perfect Day,Roots: Americana,Trainspotting,"Transformer-Ära 1972, Bowie/Eno-Produktion, scheinbar idyllisches Streicher-Gedicht mit Doppelboden; BBC-Coverversion machte ihn zum All-Star-Standard",Americana,Art-Rock / American Songwriter
-M83,Midnight City,Café de Paris,,"2011, soaring wordless vocals & neon synths",French,Synth-Pop / Dream Pop
-M83,Wait,Café de Paris,,"Same album, slow ambient swell & fragile voice",French,Ambient / Dream Pop
+M83,Midnight City,"Café de Paris, Dream Pop",,"2011, soaring wordless vocals & neon synths",French,Synth-Pop / Dream Pop
+M83,Wait,"Café de Paris, Dream Pop",,"Same album, slow ambient swell & fragile voice",French,Ambient / Dream Pop
 Mahalia Jackson,How I Got Over (Live),"Roots: Americana, Quiet Quell",,"Die Königin des Gospel live, testimony-Kraft","Americana, Quiet Quell",Gospel
 Manau,La tribu de Dana,Europe Express: Chanson & Liedermacher,,Französischer Hip-Hop mit keltischen Zitaten,Europa: Chanson & Liedermacher,Hip-Hop / Chanson
 Måneskin,Torna a casa,Europe Express: ESC & Eurodance,,Heimweh-Rock-Ballade aus dem Album Il ballo della vita,Europa: ESC & Eurodance,ESC / Rock
@@ -485,7 +485,7 @@ The Verve,The Drugs Don't Work (Remastered 2016),Europe Express: Britannia,,Urba
 The Winstons,"Amen, Brother",Roots: Americana,,"Gospel-Funk 1969; enthält den „Amen Break"" (G. C. Colemans Drum-Solo-Sekunden) – den meistgesampelten Drum-Loop der Musikgeschichte, Urzelle von Hip-Hop, Jungle und Drum'n'Bass",Americana,Funk / Gospel-Funk
 Thelonious Monk,´Round Midnight,Jazzable Cities,,Es-Moll-Nachtmelancholie,Jazz-Klassiker,Bebop
 Thievery Corporation feat. Lou Lou Ghelichkhani,Le Coeur,Café de Paris,,"Saudade (2014), zartes Französisch von Loulou über Bossa-Downtempo – „mon cœur, il bat si fort""",French,Downtempo / Bossa-Chanson
-This Mortal Coil,Song To The Siren,Roots: Green Light & Ivy,,"Hypnotischer, minimalistischer Gesang über schwebenden Gitarrenflächen (Tim-Buckley-Cover, Elizabeth Fraser)",Green Light & Ivy,Ethereal Wave / Dream Pop
+This Mortal Coil,Song To The Siren,"Roots: Green Light & Ivy, Dream Pop",,"Hypnotischer, minimalistischer Gesang über schwebenden Gitarrenflächen (Tim-Buckley-Cover, Elizabeth Fraser)",Green Light & Ivy,Ethereal Wave / Dream Pop
 Tom Petty,I Won't Back Down,Roots: Americana,,"Trotzige, geradlinige Rock-Hymne",Americana,Heartland / Roots Rock
 Tom Petty,Runnin' Down A Dream,Roots: Americana,,"Road-Feeling, treibender Rock",Americana,Heartland Rock
 Tom Petty & The Heartbreakers,American Girl,Roots: Americana,,"Frisch, erzählerisch, klassischer Petty-Sound",Americana,Heartland Rock
@@ -592,3 +592,28 @@ Moby,Natural Blues,"Roots: River & Crossroads, Crossed Wires, Quiet Quell, TripH
 Justice,D.A.N.C.E.,Europe Express: Elektronik,,,,
 Cartola,As Rosas Não Falam,Roots: Raíces Latinas,,"Samba-Poet aus Mangueira, 1976 – zarte Samba-canção über Rosen, die nicht sprechen.",Raíces Latinas,Samba / Samba-canção
 DIIV,Doused,"Shoe Shine, Dream Pop, Fuzzy Frontier, Indie Coasts",,,,Shoegaze / Dream Pop
+Yo La Tengo,You Can Have It All,Dream Pop,,,,
+Warpaint,Keep It Healthy,Dream Pop,,,,
+Beach House,Bluebird,"Dream Pop, Dream Drift",,,,
+Mazzy Star,Fade Into You,"Dream Pop, Dream Drift",,,,
+Hammock,Tape Recorder,"Shoe Shine, Dream Pop",,,,
+Slowdive,Alison,"Shoe Shine, Dream Pop",,,,
+Alvvays,Belinda Says,"Dream Pop, Indie Coasts",,,,
+Lana Del Rey,Young And Beautiful,Dream Drift,,,,
+Men I Trust,Show Me How,"Dream Pop, Dream Drift",,,,
+Wild Nothing,Chinatown,"Dream Pop, Dream Drift",,,,
+Cigarettes After Sex,Nothing's Gonna Hurt You Baby,"Dream Pop, Dream Drift",,,,
+Beach House,Space Song,"Dream Pop, Dream Drift",,,,
+Slowdive,Erik's Song (Album Version),"Shoe Shine, Dream Pop",,,,
+Wolf Alice,Don't Delete The Kisses,Dream Pop,,,,
+Lana Del Rey,Diet Mountain Dew,Dream Drift,,,,
+Pale Saints,Kinky Love,"Shoe Shine, Dream Pop",,,,
+Cults,Gilded Lily,Dream Pop,,,,
+Ride,Vapour Trail,"Shoe Shine, Dream Pop",,,,
+Mazzy Star,Halah,"Dream Pop, Dream Drift",,,,
+Cigarettes After Sex,Apocalypse,"Dream Pop, Dream Drift",,,,
+Hammock,Maybe They Will Sing for Us Tomorrow,"Shoe Shine, Dream Pop",,,,
+Lana Del Rey,Salvatore,Dream Drift,,,,
+Lana Del Rey,Venice Bitch,Dream Drift,,,,
+Lana Del Rey,Heroin,Dream Drift,,,,
+Airiel,Bloom,"Shoe Shine, Dream Pop",,,,
