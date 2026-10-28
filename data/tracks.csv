@@ -1,4 +1,5 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Jazz Liberatorz,Always something,15,2026-10-28T13:31:17Z,Velvet Vibe,Hip-Hop/Rap,Fruit of the Past,,https://music.apple.com/us/album/always-something/311400953?i=311400958,Regal + Kurt
 James Brown,Sunny,5,2026-10-28T13:27:53Z,Velvet Vibe,R&B/Soul,Gettin' Down to It,,https://music.apple.com/us/search?term=James+Brown+Sunny,Regal + Kurt
 Ali Farka Touré,Soukora,84,2026-10-28T13:21:42Z,Velvet Vibe,Worldwide,Talking Timbuktu (with Ry Cooder),,https://music.apple.com/us/search?term=Ali+Farka+Tour%C3%A9+Soukora,Regal + Kurt
 Alice Coltrane,Journey In Satchidananda,9,2026-10-28T13:14:59Z,Velvet Vibe,Jazz,Journey in Satchidananda,,https://music.apple.com/us/search?term=Alice+Coltrane+Journey+In+Satchidananda,Regal + Kurt
@@ -1172,7 +1173,6 @@ Emmylou Harris,Mister Sandman,21,2026-10-23T18:31:02Z,,Country,Evangeline,,,Kurt
 Joni Mitchell,A Case of You,40,2026-10-23T18:09:32Z,,Pop,Blue,,,Kurt
 Neil Diamond,Sweet Caroline,4,2026-10-23T18:05:32Z,,Pop,50th Anniversary Collection,,,Kurt
 Horace Silver Quintet,Peace,26,2026-10-23T17:55:02Z,,Jazz,That Healin' Feelin',,,Kurt
-Jazz Liberatorz,Always something,15,2026-10-23T17:46:02Z,,Hip-Hop/Rap,Fruit of the Past,,,Kurt
 Charles Mingus,Goodbye Pork Pie Hat (Album Version),30,2026-10-23T17:36:32Z,,Jazz,Mingus Ah Um (Bonus Track Version),,,Kurt
 GoGo Penguin,Hopopono,79,2026-10-23T17:32:32Z,,Jazz,v2.0 (Deluxe Edition),,,Kurt
 Yussef Kamaal,Strings of Light,109,2026-10-23T17:23:32Z,,Jazz,Black Focus,,,Kurt
@@ -1321,51 +1321,51 @@ A Tribe Called Quest,Scenario (LP Mix),7,2026-10-22T20:04:50Z,,Hip-Hop/Rap,Scena
 Amy Winehouse,Rehab,55,2026-10-22T19:57:21Z,,R&B/Soul,Back To Black,,,Kurt
 Lisa Gerrard,Until We Meet Again,25,2026-10-22T19:46:21Z,,New Age,Exaudia,,,Kurt
 Eva Cassidy,At Last (Acoustic),9,2026-10-22T19:43:21Z,,Pop,Acoustic,,,Kurt
-Whitney Houston,I Have Nothing,14,2026-10-22T19:38:21Z,,,,,,Kurt
-Sade,Kiss of Life (Remastered Version),86,2026-10-22T19:33:51Z,,,,,,Kurt
-Fiona Apple,Slow Like Honey,22,2026-10-22T19:23:20Z,,,,,,Kurt
-Johnny Cash,Ring of Fire,15,2026-10-22T19:16:51Z,,,,,,Kurt
-Roy Orbison,"Oh, Pretty Woman",23,2026-10-22T19:08:51Z,,,,,,Kurt
-Etta James,At Last,13,2026-10-22T19:01:51Z,,,,,,Kurt
-Nat King Cole,Nature Boy,46,2026-10-22T18:58:21Z,,,,,,Kurt
-The Carpenters,(They Long To Be) Close To You,17,2026-10-22T18:54:21Z,,,,,,Kurt
-The Dave Brubeck Quartet,Take Five,53,2026-10-22T18:48:21Z,,,,,,Kurt
-Bruce Springsteen,Streets of Philadelphia  (Single Edit),23,2026-10-22T18:40:21Z,,,,,,Kurt
-Patti Smith,Wing,1,2026-10-22T18:35:21Z,,,,,,Kurt
-Patti Smith Group,Dancing Barefoot,1,2026-10-22T18:30:22Z,,,,,,Kurt
-Patti Smith,Gloria : In Excelsis Deo - Gloria,1,2026-10-22T18:24:51Z,,,,,,Kurt
-Patti Smith,People Have the Power,1,2026-10-22T18:19:21Z,,,,,,Kurt
-Leonard Cohen,Anthem,29,2026-10-22T18:12:51Z,,,,,,Kurt
-Khruangbin,People Everywhere ii,63,2026-10-22T18:00:21Z,,,,,,Kurt
-Jill Scott,Golden,96,2026-10-22T17:56:21Z,,,,,,Kurt
-Erykah Badu,On & On,119,2026-10-22T17:52:21Z,,,,,,Kurt
-Sade,Is It a Crime (Remastered Version),43,2026-10-22T17:26:50Z,,,,,,Kurt
-Al Green,The Lord Will Make a Way,22,2026-10-22T17:12:20Z,,,,,,Kurt
-Donny Hathaway,A Song for You,144,2026-10-22T17:05:50Z,,,,,,Kurt
-Marvin Gaye,Wholy Holy,18,2026-10-22T17:02:50Z,,,,,,Kurt
-Tabu,Dobra Vila,1,2026-10-22T16:58:51Z,,,,,,Kurt
-Ludovico Einaudi,Einaudi: Canzone Africana IV,5,2026-10-22T16:51:20Z,,,,,,Kurt
-Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),79,2026-10-22T16:46:51Z,,,,,,Kurt
-Antonio Carlos Jobim,Wave,93,2026-10-22T16:31:20Z,,,,,,Kurt
-Joe Hisaishi,Innocent (from 'Castle in the Sky'),29,2026-10-22T16:17:50Z,,,,,,Kurt
-Björk,Venus As A Boy (Live),13,2026-10-22T16:07:20Z,,,,,,Kurt
-ABBA,Waterloo (English Version),18,2026-10-22T16:00:20Z,,,,,,Kurt
-Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",14,2026-10-22T15:52:20Z,,,,,,Kurt
-Metallica,Enter Sandman,10,2026-10-22T15:46:20Z,,,,,,Kurt
-Pete Seeger,Which Side are You On?,14,2026-10-22T15:40:20Z,,,,,,Kurt
-The Weepies,Gotta Have You,36,2026-10-22T15:28:50Z,,,,,,Kurt
-Joe Hisaishi,Merry-Go-Round of Life (from 'Howl’s Moving Castle'),37,2026-10-22T15:25:50Z,,,,,,Kurt
-The Police,Message In A Bottle (Remastered 2003),4,2026-10-22T15:13:50Z,,,,,,Kurt
-The Impressions,People Get Ready (Single Version),23,2026-10-22T15:10:50Z,,,,,,Kurt
-"Lester Flatt, Earl Scruggs",Foggy Mountain Breakdown,8,2026-10-22T15:08:20Z,,,,,,Kurt
-Queen,Killer Queen (Remastered 2011),35,2026-10-22T15:05:20Z,,,,,,Kurt
-The Beatles,Girl (Remastered),12,2026-10-22T15:02:20Z,,,,,,Kurt
-Ramones,Blitzkrieg Bop,6,2026-10-22T15:00:20Z,,,,,,Kurt
-Whitney Houston,Saving All My Love for You,36,2026-10-22T14:55:20Z,,,,,,Kurt
-Marvin Gaye,What's Going On,288,2026-10-22T14:51:50Z,,,,,,Kurt
-Boyz II Men,End Of The Road (Album Version),19,2026-10-22T14:23:50Z,,,,,,Kurt
-Hem,Betting on Trains (Remastered 2025),19,2026-10-22T14:13:50Z,,,,,,Kurt
-Johnny Cash,Redemption Day (Album Version),107,2026-10-22T14:09:20Z,,,,,,Kurt
+Whitney Houston,I Have Nothing,14,2026-10-22T19:38:21Z,,Soundtrack,The Bodyguard (Original Soundtrack Album),The Bodyguard (Original Soundtrack Album),,Kurt
+Sade,Kiss of Life (Remastered Version),86,2026-10-22T19:33:51Z,,R&B/Soul,Love Deluxe,,,Kurt
+Fiona Apple,Slow Like Honey,22,2026-10-22T19:23:20Z,,Alternative,Tidal,,,Kurt
+Johnny Cash,Ring of Fire,15,2026-10-22T19:16:51Z,,Country,The Essential Johnny Cash,,,Kurt
+Roy Orbison,"Oh, Pretty Woman",23,2026-10-22T19:08:51Z,,Rock,Oh! Pretty Woman,,,Kurt
+Etta James,At Last,13,2026-10-22T19:01:51Z,,Blues,At Last!,,,Kurt
+Nat King Cole,Nature Boy,46,2026-10-22T18:58:21Z,,Pop,The Nat King Cole Story,,,Kurt
+The Carpenters,(They Long To Be) Close To You,17,2026-10-22T18:54:21Z,,Pop,Close To You,,,Kurt
+The Dave Brubeck Quartet,Take Five,53,2026-10-22T18:48:21Z,,Jazz,Time Out,,,Kurt
+Bruce Springsteen,Streets of Philadelphia  (Single Edit),23,2026-10-22T18:40:21Z,,Rock,Greatest Hits,,,Kurt
+Patti Smith,Wing,1,2026-10-22T18:35:21Z,,Rock,Land (1975-2002),,,Kurt
+Patti Smith Group,Dancing Barefoot,1,2026-10-22T18:30:22Z,,Rock,Wave (1996 Remaster),,,Kurt
+Patti Smith,Gloria : In Excelsis Deo - Gloria,1,2026-10-22T18:24:51Z,,Rock,Horses (Legacy Edition),,,Kurt
+Patti Smith,People Have the Power,1,2026-10-22T18:19:21Z,,Rock,Dream of Life (Remastered),,,Kurt
+Leonard Cohen,Anthem,29,2026-10-22T18:12:51Z,,Singer/Songwriter,The Essential Leonard Cohen,,,Kurt
+Khruangbin,People Everywhere ii,63,2026-10-22T18:00:21Z,,Alternative,The Universe Smiles Upon You ii,,,Kurt
+Jill Scott,Golden,96,2026-10-22T17:56:21Z,,R&B/Soul,"Beautifully Human: Words and Sounds, Vol. 2",,,Kurt
+Erykah Badu,On & On,119,2026-10-22T17:52:21Z,,R&B/Soul,On and On - Single,,,Kurt
+Sade,Is It a Crime (Remastered Version),43,2026-10-22T17:26:50Z,,R&B/Soul,The Best of Sade,,,Kurt
+Al Green,The Lord Will Make a Way,22,2026-10-22T17:12:20Z,,Christian,The Best of the Gospel Sessions,,,Kurt
+Donny Hathaway,A Song for You,144,2026-10-22T17:05:50Z,,R&B/Soul,Donny Hathaway,,,Kurt
+Marvin Gaye,Wholy Holy,18,2026-10-22T17:02:50Z,,R&B/Soul,What's Going On,,,Kurt
+Tabu,Dobra Vila,1,2026-10-22T16:58:51Z,,Pop,Tabu,,,Kurt
+Ludovico Einaudi,Einaudi: Canzone Africana IV,5,2026-10-22T16:51:20Z,,Classical,I Giorni,,,Kurt
+Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),79,2026-10-22T16:46:51Z,,Worldwide,"Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",,,Kurt
+Antonio Carlos Jobim,Wave,93,2026-10-22T16:31:20Z,,Jazz,Wave,,,Kurt
+Joe Hisaishi,Innocent (from 'Castle in the Sky'),29,2026-10-22T16:17:50Z,,Original Score,Castle in the Sky (Original Soundtrack),Castle in the Sky (Original Soundtrack),,Kurt
+Björk,Venus As A Boy (Live),13,2026-10-22T16:07:20Z,,Pop,Debut,,,Kurt
+ABBA,Waterloo (English Version),18,2026-10-22T16:00:20Z,,Pop,Waterloo (Bonus Track Version),,,Kurt
+Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",14,2026-10-22T15:52:20Z,,Alternative,"What Was I Made For? (From The Motion Picture ""Barbie"") - Single","What Was I Made For? (From The Motion Picture ""Barbie"") - Single",,Kurt
+Metallica,Enter Sandman,10,2026-10-22T15:46:20Z,,Metal,Metallica (Deluxe Box Set),,,Kurt
+Pete Seeger,Which Side are You On?,14,2026-10-22T15:40:20Z,,Singer/Songwriter,The Essential Pete Seeger,,,Kurt
+The Weepies,Gotta Have You,36,2026-10-22T15:28:50Z,,Singer/Songwriter,Say I Am You,,,Kurt
+Joe Hisaishi,Merry-Go-Round of Life (from 'Howl’s Moving Castle'),37,2026-10-22T15:25:50Z,,Soundtrack,FREEDOM PIANO STORIES 4,FREEDOM PIANO STORIES 4,,Kurt
+The Police,Message In A Bottle (Remastered 2003),4,2026-10-22T15:13:50Z,,Rock,Reggatta De Blanc (Remastered 2003),,,Kurt
+The Impressions,People Get Ready (Single Version),23,2026-10-22T15:10:50Z,,Pop,The Greatest Hits,,,Kurt
+"Lester Flatt, Earl Scruggs",Foggy Mountain Breakdown,8,2026-10-22T15:08:20Z,,Country,20th Century Masters: The Millennium Collection: Best Of Flatt & Scruggs,,,Kurt
+Queen,Killer Queen (Remastered 2011),35,2026-10-22T15:05:20Z,,Rock,News Of The World (Deluxe Edition),,,Kurt
+The Beatles,Girl (Remastered),12,2026-10-22T15:02:20Z,,Rock,Rubber Soul,,,Kurt
+Ramones,Blitzkrieg Bop,6,2026-10-22T15:00:20Z,,Rock,Ramones (40th Anniversary Deluxe Edition),,,Kurt
+Whitney Houston,Saving All My Love for You,36,2026-10-22T14:55:20Z,,Pop,Whitney Houston,,,Kurt
+Marvin Gaye,What's Going On,288,2026-10-22T14:51:50Z,,R&B/Soul,What's Going On,,,Kurt
+Boyz II Men,End Of The Road (Album Version),19,2026-10-22T14:23:50Z,,R&B/Soul,CooleyHighHarmony (Bonus Track Version),,,Kurt
+Hem,Betting on Trains (Remastered 2025),19,2026-10-22T14:13:50Z,,Folk,Rabbit Songs (25th Anniversary Edition),,,Kurt
+Johnny Cash,Redemption Day (Album Version),107,2026-10-22T14:09:20Z,,Country,American VI: Ain't No Grave,,,Kurt
 The Mamas & The Papas,California Dreamin' (Single Version),9,2026-10-22T14:06:20Z,,,,,,Kurt
 Chavela Vargas,La llorona,27,2026-10-22T13:50:20Z,,,,,,Kurt
 Luis Fonsi,Despacito,1,2026-10-22T13:36:20Z,,,,,,Kurt

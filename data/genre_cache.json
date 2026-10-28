@@ -44,6 +44,11 @@
 "film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
 "genre": "Soundtrack"
 },
+"ABBA|Waterloo (English Version)": {
+"album": "Waterloo (Bonus Track Version)",
+"film_hint": "",
+"genre": "Pop"
+},
 "ANNIE|Heartbeat": {
 "album": "Anniemal",
 "film_hint": "",
@@ -133,6 +138,11 @@
 "album": "I'm Still In Love with You",
 "film_hint": "",
 "genre": "Soul"
+},
+"Al Green|The Lord Will Make a Way": {
+"album": "The Best of the Gospel Sessions",
+"film_hint": "",
+"genre": "Christian"
 },
 "Al Stewart|Year of the Cat": {
 "album": "Year of the Cat",
@@ -306,6 +316,11 @@
 },
 "Antonio Carlos Jobim|The Girl From Ipanema": {
 "album": "Getz/Gilberto (Expanded Edition)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Antonio Carlos Jobim|Wave": {
+"album": "Wave",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -649,6 +664,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Billie Eilish|What Was I Made For? [From The Motion Picture \"Barbie\"]": {
+"album": "What Was I Made For? (From The Motion Picture \"Barbie\") - Single",
+"film_hint": "What Was I Made For? (From The Motion Picture \"Barbie\") - Single",
+"genre": "Alternative"
+},
 "Billy Crystal|If I Didn't Have You (From \"Monsters, Inc.\"/Soundtrack Version)": {
 "album": "Monsters, Inc. (Original Motion Picture Soundtrack)",
 "film_hint": "Monsters, Inc. (Original Motion Picture Soundtrack)",
@@ -693,6 +713,11 @@
 "album": "Homogenic",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Björk|Venus As A Boy (Live)": {
+"album": "Debut",
+"film_hint": "",
+"genre": "Pop"
 },
 "Black Sabbath|Paranoid": {
 "album": "Paranoid",
@@ -864,6 +889,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Boyz II Men|End Of The Road (Album Version)": {
+"album": "CooleyHighHarmony (Bonus Track Version)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Boz Scaggs|JoJo (2023 Remaster)": {
 "album": "Middle Man (2023 Remaster)",
 "film_hint": "",
@@ -936,6 +966,11 @@
 },
 "Bruce Springsteen|No Surrender": {
 "album": "Born In the U.S.A.",
+"film_hint": "",
+"genre": "Rock"
+},
+"Bruce Springsteen|Streets of Philadelphia  (Single Edit)": {
+"album": "Greatest Hits",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1669,6 +1704,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Donny Hathaway|A Song for You": {
+"album": "Donny Hathaway",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Donny Hathaway|Jealous Guy  (Live)": {
 "album": "Live",
 "film_hint": "",
@@ -1919,6 +1959,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Erykah Badu|On & On": {
+"album": "On and On - Single",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Erykah Badu|Window Seat": {
 "album": "New Amerykah, Pt. 2: Return of the Ankh",
 "film_hint": "",
@@ -1933,6 +1978,11 @@
 "album": "Punish - Single",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Etta James|At Last": {
+"album": "At Last!",
+"film_hint": "",
+"genre": "Blues"
 },
 "Etta James|I'd Rather Go Blind": {
 "album": "Tell Mama",
@@ -2018,6 +2068,11 @@
 "album": "Desperados III, Vol. 1 (Official Game Soundtrack)",
 "film_hint": "Desperados III, Vol. 1 (Official Game Soundtrack)",
 "genre": "Soundtrack"
+},
+"Fiona Apple|Slow Like Honey": {
+"album": "Tidal",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Fito Páez|El amor después del amor": {
 "album": "El Amor Después del Amor",
@@ -2539,6 +2594,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Hem|Betting on Trains (Remastered 2025)": {
+"album": "Rabbit Songs (25th Anniversary Edition)",
+"film_hint": "",
+"genre": "Folk"
+},
 "Hem|Half Acre (Remastered 2025)": {
 "album": "Home Again, Home Again - EP",
 "film_hint": "",
@@ -2814,6 +2874,11 @@
 "film_hint": "",
 "genre": "Flamenco"
 },
+"Jill Scott|Golden": {
+"album": "Beautifully Human: Words and Sounds, Vol. 2",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Jim James|St. James Infirmary": {
 "album": "Plays the Hits",
 "film_hint": "",
@@ -2862,6 +2927,16 @@
 "Joe Hisaishi|Departures (from 'Departures')": {
 "album": "Departures (Original Motion Picture Soundtrack)",
 "film_hint": "Departures (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
+"Joe Hisaishi|Innocent (from 'Castle in the Sky')": {
+"album": "Castle in the Sky (Original Soundtrack)",
+"film_hint": "Castle in the Sky (Original Soundtrack)",
+"genre": "Original Score"
+},
+"Joe Hisaishi|Merry-Go-Round of Life (from 'Howl’s Moving Castle')": {
+"album": "FREEDOM PIANO STORIES 4",
+"film_hint": "FREEDOM PIANO STORIES 4",
 "genre": "Soundtrack"
 },
 "Joe Hisaishi|The Path of the Wind (from 'My Neighbor Totoro')": {
@@ -2941,6 +3016,16 @@
 },
 "Johnny Cash|Folsom Prison Blues": {
 "album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
+"film_hint": "",
+"genre": "Country"
+},
+"Johnny Cash|Redemption Day (Album Version)": {
+"album": "American VI: Ain't No Grave",
+"film_hint": "",
+"genre": "Country"
+},
+"Johnny Cash|Ring of Fire": {
+"album": "The Essential Johnny Cash",
 "film_hint": "",
 "genre": "Country"
 },
@@ -3189,6 +3274,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Khruangbin|People Everywhere ii": {
+"album": "The Universe Smiles Upon You ii",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Khruangbin|Time (You and I)": {
 "album": "Mordechai",
 "film_hint": "",
@@ -3384,10 +3474,20 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Leonard Cohen|Anthem": {
+"album": "The Essential Leonard Cohen",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Leonard Cohen|Avalanche": {
 "album": "Songs of Love and Hate",
 "film_hint": "",
 "genre": "Pop"
+},
+"Lester Flatt, Earl Scruggs|Foggy Mountain Breakdown": {
+"album": "20th Century Masters: The Millennium Collection: Best Of Flatt & Scruggs",
+"film_hint": "",
+"genre": "Country"
 },
 "Levante|SEI TU": {
 "album": "The Art of Andrés Segovia Vol. 6",
@@ -3558,6 +3658,11 @@
 "album": "Switched-on Ben Dover",
 "film_hint": "",
 "genre": "Dance"
+},
+"Ludovico Einaudi|Einaudi: Canzone Africana IV": {
+"album": "I Giorni",
+"film_hint": "",
+"genre": "Classical"
 },
 "Ludovico Einaudi|Nuvole Bianche": {
 "album": "Peaceful Piano",
@@ -3764,6 +3869,16 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Marvin Gaye|What's Going On": {
+"album": "What's Going On",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Marvin Gaye|Wholy Holy": {
+"album": "What's Going On",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Mary Halvorson|About Ghosts": {
 "album": "About Ghosts",
 "film_hint": "",
@@ -3883,6 +3998,11 @@
 "album": "All is Dream",
 "film_hint": "",
 "genre": "Indie Rock"
+},
+"Metallica|Enter Sandman": {
+"album": "Metallica (Deluxe Box Set)",
+"film_hint": "",
+"genre": "Metal"
 },
 "Metallica|Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)": {
 "album": "",
@@ -4059,6 +4179,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Mulatu Astatqe|Yèkèrmo Sèw (A Man of Experience and Wisdom)": {
+"album": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Mumford & Sons|Awake My Soul": {
 "album": "Sigh No More",
 "film_hint": "",
@@ -4108,6 +4233,11 @@
 "album": "L-O-V-E",
 "film_hint": "",
 "genre": "Vocal Pop"
+},
+"Nat King Cole|Nature Boy": {
+"album": "The Nat King Cole Story",
+"film_hint": "",
+"genre": "Pop"
 },
 "Natalie Imbruglia|Torn": {
 "album": "Left of the Middle",
@@ -4409,6 +4539,26 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Patti Smith Group|Dancing Barefoot": {
+"album": "Wave (1996 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Patti Smith|Gloria : In Excelsis Deo - Gloria": {
+"album": "Horses (Legacy Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Patti Smith|People Have the Power": {
+"album": "Dream of Life (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Patti Smith|Wing": {
+"album": "Land (1975-2002)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Paul Mauriat|Love Is Blue (Album Version)": {
 "album": "By the Time I Get to Phoenix",
 "film_hint": "",
@@ -4476,6 +4626,11 @@
 },
 "Pete Seeger|Solidarity Forever": {
 "album": "If I Had a Hammer: Songs of Hope & Struggle",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Pete Seeger|Which Side are You On?": {
+"album": "The Essential Pete Seeger",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -4694,6 +4849,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Queen|Killer Queen (Remastered 2011)": {
+"album": "News Of The World (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Queen|Somebody To Love": {
 "album": "A Day At The Races (Deluxe Edition)",
 "film_hint": "",
@@ -4746,6 +4906,11 @@
 },
 "Rammstein|Deutschland": {
 "album": "Rammstein",
+"film_hint": "",
+"genre": "Rock"
+},
+"Ramones|Blitzkrieg Bop": {
+"album": "Ramones (40th Anniversary Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4904,6 +5069,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Roy Orbison|Oh, Pretty Woman": {
+"album": "Oh! Pretty Woman",
+"film_hint": "",
+"genre": "Rock"
+},
 "Royal Blood|Boilermaker": {
 "album": "Typhoons",
 "film_hint": "",
@@ -4976,6 +5146,16 @@
 },
 "Sade|By Your Side  (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Sade|Is It a Crime (Remastered Version)": {
+"album": "The Best of Sade",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Sade|Kiss of Life (Remastered Version)": {
+"album": "Love Deluxe",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -5549,6 +5729,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Tabu|Dobra Vila": {
+"album": "Tabu",
+"film_hint": "",
+"genre": "Pop"
+},
 "Takako Mamiya|LOVE TRIP": {
 "album": "",
 "film_hint": "",
@@ -5664,6 +5849,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Beatles|Girl (Remastered)": {
+"album": "Rubber Soul",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
 "film_hint": "",
@@ -5713,6 +5903,11 @@
 "album": "Legend (with Huun-Huur-Tu & the Moscow Art Trio)",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"The Carpenters|(They Long To Be) Close To You": {
+"album": "Close To You",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Chills|Pink Frost": {
 "album": "Kaleidoscope World",
@@ -5764,6 +5959,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Dave Brubeck Quartet|Take Five": {
+"album": "Time Out",
+"film_hint": "",
+"genre": "Jazz"
+},
 "The Doobie Brothers|What a Fool Believes": {
 "album": "Minute By Minute (Remastered)",
 "film_hint": "",
@@ -5798,6 +5998,11 @@
 "album": "The Gereg (Deluxe Edition)",
 "film_hint": "",
 "genre": "Metal"
+},
+"The Impressions|People Get Ready (Single Version)": {
+"album": "The Greatest Hits",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Ink Spots|If I Didn't Care": {
 "album": "20th Century Masters - The Millennium Collection: The Best of The Ink Spots",
@@ -5893,6 +6098,11 @@
 "album": "The Great Pretender - Single",
 "film_hint": "",
 "genre": "Doo Wop"
+},
+"The Police|Message In A Bottle (Remastered 2003)": {
+"album": "Reggatta De Blanc (Remastered 2003)",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Police|Roxanne (Remastered 2003)": {
 "album": "Outlandos D'Amour (Remastered 2003)",
@@ -6053,6 +6263,11 @@
 "album": "Dawn FM",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Weepies|Gotta Have You": {
+"album": "Say I Am You",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "The White Stripes|Seven Nation Army": {
 "album": "Elephant",
@@ -6429,10 +6644,20 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Whitney Houston|I Have Nothing": {
+"album": "The Bodyguard (Original Soundtrack Album)",
+"film_hint": "The Bodyguard (Original Soundtrack Album)",
+"genre": "Soundtrack"
+},
 "Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)": {
 "album": "Whitney",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Whitney Houston|Saving All My Love for You": {
+"album": "Whitney Houston",
+"film_hint": "",
+"genre": "Pop"
 },
 "Wild Nothing|Chinatown": {
 "album": "Gemini",
