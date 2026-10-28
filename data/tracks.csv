@@ -1,4 +1,6 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+The Orb,Earth (Gaia),27,2026-10-28T14:52:16Z,Earth Beats,Electronic,The Orb's Adventures Beyond the Ultraworld,,https://music.apple.com/us/album/earth-gaia/1452851519?i=1452851526,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/d9/94/e6d994a2-585a-4940-ff6d-5b4d73b330b2/06UMGIM03957.rgb.jpg/100x100bb.jpg
+Pedro Infante,Amorcito corazón,17,2026-10-28T14:49:06Z,Earth Beats,Baladas y Boleros,Amorcito Corazón,,https://music.apple.com/us/album/amorcito-coraz%C3%B3n/358371281?i=358371283,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/c7/8e/00c78ec1-5757-a226-b325-c866c3afadfa/mzi.ceibfsfp.jpg/100x100bb.jpg
 Roxette,The Look,12,2026-10-28T14:45:00Z,Earth Beats,Pop,Greatest Hits,,https://music.apple.com/us/album/the-look/693154507?i=693154909,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/ef/d7/5cefd760-1260-4081-621a-85db2355e13a/dj.gmqdvhoe.jpg/100x100bb.jpg
 Saindra,Mil Besos,14,2026-10-28T14:41:35Z,Earth Beats,Latin,Adictiva,,https://music.apple.com/us/search?term=Saindra+Mil+Besos,Regal + Kurt,
 Astor Piazzolla,Milonga Del Angel,29,2026-10-28T14:34:57Z,Earth Beats,Raíces,Tango: Zero Hour,,https://music.apple.com/us/album/milonga-del-angel/79574688?i=79574618,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/80/53/7d/80537db6-0572-06f6-61d9-4e937edf13b1/dj.roveyfht.jpg/100x100bb.jpg
@@ -865,7 +867,6 @@ The Isley Brothers,Between the Sheets,112,2026-10-25T17:17:13Z,,R&B/Soul,Between
 Sade,No Ordinary Love  (Remastered Version),99,2026-10-25T17:09:43Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt,
 Aretha Franklin,Wholy Holy,24,2026-10-25T17:04:13Z,,R&B/Soul,30 Greatest Hits,,,Kurt,
 Tinashe,Nasty,130,2026-10-25T16:58:13Z,,R&B/Soul,Quantum Baby,,,Kurt,
-Pedro Infante,Amorcito corazón,17,2026-10-25T16:54:44Z,,Música Mexicana,"Pedro Infante - 55 Aniversarío, Vol. 4",,,Kurt,
 Iron Maiden,Still Life (2015 Remaster),1,2026-10-25T16:43:13Z,,Metal,Piece of Mind (2015 Remaster),,,Kurt,
 Chico Buarque,Construção,45,2026-10-25T16:36:43Z,,Pop,Construção,,,Kurt,
 Aster Aweke,Tizita,36,2026-10-25T16:27:14Z,,Worldwide,Aster,,,Kurt,
@@ -1255,7 +1256,6 @@ Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,Rock
 Goldmund,Threnody,109,2026-10-23T06:51:29Z,,Alternative,The Malady of Elegance,,,Kurt,
 Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,Soundtrack,"Desperados III, Vol. 1 (Official Game Soundtrack)","Desperados III, Vol. 1 (Official Game Soundtrack)",,Kurt,
 Guts,Laisser Lucie faire,8,2026-10-23T06:39:29Z,,Electronic,Paradise for All (Deluxe Edition),,,Kurt,
-The Orb,Earth (Gaia),27,2026-10-23T06:29:29Z,,Electronic,The Orb's Adventures Beyond the Ultraworld,,,Kurt,
 Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),21,2026-10-23T06:22:59Z,,Classical Crossover,Saudade,,,Kurt,
 Suzanne Ciani,Oceanium,77,2026-10-23T06:01:28Z,,Ambient,Golden Apples of the Sun,,,Kurt,
 Arvo Pärt,Spiegel im spiegel,87,2026-10-23T05:52:58Z,,Classical,Pärt: Portrait,,,Kurt,
@@ -1621,46 +1621,46 @@ Michael Jackson,Thriller,5,2026-10-19T15:45:35Z,,Pop,Thriller,,,Kurt,https://is1
 Pulp,Common People (Full Length Version; Album Version),8,2026-10-19T13:20:05Z,,,,,,Kurt,
 Modest Mouse,Float On,6,2026-10-19T13:05:35Z,,Alternative,Float On - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/15/73/3a1573f6-fd63-bd5d-3182-65399cbade55/mzi.kplxkuxw.jpg/100x100bb.jpg
 Dua Lipa,Future Nostalgia,62,2026-10-19T10:42:05Z,,Pop,Future Nostalgia,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/100x100bb.jpg
-Sabrina Carpenter,Taste,49,2026-10-19T09:48:34Z,,,,,,Kurt,
-Harry Styles,Watermelon Sugar,13,2026-10-19T09:27:34Z,,,,,,Kurt,
-EMF,Unbelievable,1,2026-10-19T09:23:34Z,,,,,,Kurt,
-Kid Cudi,ILLusions,1,2026-10-19T08:50:04Z,,,,,,Kurt,
-Halestorm,Do Not Disturb,1,2026-10-19T08:11:05Z,,,,,,Kurt,
-Swan Dive,Until,9,2026-10-19T07:19:34Z,,,,,,Kurt,
-Lana Del Rey,Venice Bitch,17,2026-10-19T03:22:32Z,,,,,,Kurt,
-Omara Portuondo,Guantanamera (feat. Angelique Kidjo),13,2026-10-19T01:54:30Z,,,,,,Kurt,
-U2,When Love Comes To Town (Album Version),7,2026-10-19T01:40:00Z,,,,,,Kurt,
-George Michael Duet with Mary J. Blige,As (Album Version),17,2026-10-19T00:44:59Z,,,,,,Kurt,
-The Police,Walking On The Moon (Remastered 2003),12,2026-10-19T00:33:29Z,,,,,,Kurt,
-Aretha Franklin,Precious Lord (Take My Hand) (Part One),18,2026-10-18T22:20:27Z,,,,,,Kurt,
-Ed Sheeran,Perfect,8,2026-10-18T22:00:27Z,,,,,,Kurt,
-Leonard Cohen,Treaty,8,2026-10-18T21:18:57Z,,,,,,Kurt,
-Aaliyah,Rock The Boat,12,2026-10-18T20:50:27Z,,,,,,Kurt,
-Missio,I See You,5,2026-10-18T20:41:26Z,,,,,,Kurt,
-Blake Shelton,Austin,9,2026-10-18T20:29:56Z,,,,,,Kurt,
-Hozier,Take Me To Church,270,2026-10-18T20:21:27Z,,,,,,Kurt,
-Joe Hisaishi,Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live),18,2026-10-18T18:52:57Z,,,,,,Kurt,
-Gary Numan,Cars,9,2026-10-18T17:59:28Z,,,,,,Kurt,
-Blind Guardian,Mirror Mirror (Remastered 2007),8,2026-10-18T17:52:28Z,,,,,,Kurt,
-Michael Damian,Rock On,5,2026-10-18T16:00:26Z,,,,,,Kurt,
-Siddhartha,00:00,25,2026-10-18T14:39:56Z,,,,,,Kurt,
-Tom Jones,Cwm Rhondda,3,2026-10-18T13:57:57Z,,,,,,Kurt,
-The Magnetic Fields,All My Little Words,6,2026-10-18T13:10:56Z,,,,,,Kurt,
-Stratovarius,Black Diamond,6,2026-10-18T12:54:27Z,,,,,,Kurt,
-Pink Floyd,"Another Brick in the Wall, Pt. 2",138,2026-10-18T12:35:26Z,,,,,,Kurt,
-David Bowie,Breaking Glass  (2017 Remaster),10,2026-10-18T12:22:56Z,,,,,,Kurt,
-Meat Beat Manifesto,Prime Audio Soup,5,2026-10-18T11:27:56Z,,,,,,Kurt,
-Tenacious D,...Baby One More Time (from Kung Fu Panda 4),6,2026-10-18T11:11:57Z,,,,,,Kurt,
+Sabrina Carpenter,Taste,49,2026-10-19T09:48:34Z,,Pop,Short n' Sweet,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/100x100bb.jpg
+Harry Styles,Watermelon Sugar,13,2026-10-19T09:27:34Z,,Pop,Fine Line,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/100x100bb.jpg
+EMF,Unbelievable,1,2026-10-19T09:23:34Z,,Pop,Adaptations Volume 1 - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/88/d9/9788d959-86ea-24e7-3481-6885f571d264/199.jpg/100x100bb.jpg
+Kid Cudi,ILLusions,1,2026-10-19T08:50:04Z,,Hip-Hop/Rap,"Passion, Pain & Demon Slayin'",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/58/74/56587425-b3fa-26b2-402c-75d700040d33/16UMGIM77685.rgb.jpg/100x100bb.jpg
+Halestorm,Do Not Disturb,1,2026-10-19T08:11:05Z,,Rock,Vicious,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/1f/55/951f5514-8a2c-3e52-36d0-1be036e89e13/075679871602.jpg/100x100bb.jpg
+Swan Dive,Until,9,2026-10-19T07:19:34Z,,Folk,Until,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/14/50/2d1450f3-9f5b-f106-84c4-cb4712edb7d3/889845189060.jpg/100x100bb.jpg
+Lana Del Rey,Venice Bitch,17,2026-10-19T03:22:32Z,,Alternative,Ultraviolence (Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/3f/ad/183fadf3-0d36-6db2-b733-d8f032654b07/14UMGIM20562.rgb.jpg/100x100bb.jpg
+Omara Portuondo,Guantanamera (feat. Angelique Kidjo),13,2026-10-19T01:54:30Z,,Worldwide,Guantanamera (feat. Angelique Kidjo) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/75/4a/af754ac9-0440-a0dc-1af2-1de0f511779d/5021732970848.jpg/100x100bb.jpg
+U2,When Love Comes To Town (Album Version),7,2026-10-19T01:40:00Z,,Rock,Rattle and Hum,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/95/5e/b8955e8b-6993-2404-4ea5-442119be149c/17UMGIM95505.rgb.jpg/100x100bb.jpg
+George Michael Duet with Mary J. Blige,As (Album Version),17,2026-10-19T00:44:59Z,,R&B/Soul,Ladies & Gentlemen,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/46/95/8946959a-e959-f22d-ced2-745feb799454/mzm.upagbaeg.jpg/100x100bb.jpg
+The Police,Walking On The Moon (Remastered 2003),12,2026-10-19T00:33:29Z,,Rock,Reggatta De Blanc (Remastered 2003),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/2a/da/742ada22-9a00-1620-b72e-6667745b010a/16UMGIM60881.rgb.jpg/100x100bb.jpg
+Aretha Franklin,Precious Lord (Take My Hand) (Part One),18,2026-10-18T22:20:27Z,,Gospel,"Songs of Faith: Aretha Gospel (Live at New Bethel Baptist Church, Detroit 1956)",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/64/c7/8d/64c78df7-6731-96da-086c-90a414761aea/00602577509506.rgb.jpg/100x100bb.jpg
+Ed Sheeran,Perfect,8,2026-10-18T22:00:27Z,,Pop,÷ (Deluxe),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg
+Leonard Cohen,Treaty,8,2026-10-18T21:18:57Z,,Rock,You Want It Darker,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5f/54/1f/5f541fad-83ea-ffaa-3979-4cf528496764/886446019253.jpg/100x100bb.jpg
+Aaliyah,Rock The Boat,12,2026-10-18T20:50:27Z,,R&B/Soul,Aaliyah,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/5c/5c/225c5cd1-4ab7-edd2-1490-b44afa1416cf/5034644712819.jpg/100x100bb.jpg
+Missio,I See You,5,2026-10-18T20:41:26Z,,Alternative,The Darker the Weather // The Better the Man,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/22/df/5822dfa8-d9a9-36ce-492b-fb7db6c8a622/886447474365.jpg/100x100bb.jpg
+Blake Shelton,Austin,9,2026-10-18T20:29:56Z,,Country,Blake Shelton,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/7b/50/877b5043-910e-f11c-ff01-6dbd8edba2f6/075992473125.jpg/100x100bb.jpg
+Hozier,Take Me To Church,270,2026-10-18T20:21:27Z,,Alternative,Hozier (Expanded Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/100x100bb.jpg
+Joe Hisaishi,Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live),18,2026-10-18T18:52:57Z,,Classical Crossover,"Symphonic Suite ""Princess Mononoke"" 2021 (Live)",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/bd/4e/40bd4e5e-d1a5-5333-aa8b-fd0359e0346f/22UMGIM76250.rgb.jpg/100x100bb.jpg
+Gary Numan,Cars,9,2026-10-18T17:59:28Z,,New Wave,The Pleasure Principle (Bonus Tracks),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/48/fd/6d48fdae-76f8-cb9b-62c6-51606741c7d5/607618001063.png/100x100bb.jpg
+Blind Guardian,Mirror Mirror (Remastered 2007),8,2026-10-18T17:52:28Z,,Metal,Nightfall in Middle Earth (Remastered 2007),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/57/82/c95782cd-7a4c-38a1-1ae5-beed05f5c192/cover.jpg/100x100bb.jpg
+Michael Damian,Rock On,5,2026-10-18T16:00:26Z,,Rock,Rock On - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/22/dc/ac/mzi.nbfyzlab.jpg/100x100bb.jpg
+Siddhartha,00:00,25,2026-10-18T14:39:56Z,,Alternative,00:00 - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/6f/1a/3f6f1aad-9fbb-0d41-7c78-65b6c5bacf52/886449813780.jpg/100x100bb.jpg
+Tom Jones,Cwm Rhondda,3,2026-10-18T13:57:57Z,,Classical,Bryn Terfel: We'll Keep a Welcome,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/9a/4f/259a4f17-2398-782b-d76f-a2218ed306d8/00028946359327.rgb.jpg/100x100bb.jpg
+The Magnetic Fields,All My Little Words,6,2026-10-18T13:10:56Z,,Rock,69 Love Songs,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/58/a5/c358a5e7-f4de-b068-e831-fb2ac7de53d2/57123.jpg/100x100bb.jpg
+Stratovarius,Black Diamond,6,2026-10-18T12:54:27Z,,Rock,Visions,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/8e/39/888e3908-a28e-b949-e6b1-b8b6a2e50345/4262428352703.png/100x100bb.jpg
+Pink Floyd,"Another Brick in the Wall, Pt. 2",138,2026-10-18T12:35:26Z,,Rock,The Wall,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/100x100bb.jpg
+David Bowie,Breaking Glass  (2017 Remaster),10,2026-10-18T12:22:56Z,,Pop,Low (2017 Remaster),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg
+Meat Beat Manifesto,Prime Audio Soup,5,2026-10-18T11:27:56Z,,Electronic,Actual Sounds + Voices,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/53/8e/4c/538e4cf5-2493-12c7-8998-0ab675fa5b0c/cover.jpg/100x100bb.jpg
+Tenacious D,...Baby One More Time (from Kung Fu Panda 4),6,2026-10-18T11:11:57Z,,Soundtrack,Kung Fu Panda 4 (Original Motion Picture Soundtrack),Kung Fu Panda 4 (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0a/b0/e8/0ab0e867-8982-525d-4f38-3cb7a449a686/774.jpg/100x100bb.jpg
 Beats by Luca,52 CHICKEN NUGGET (McRave),5,2026-10-18T11:09:56Z,,,,,,Kurt,
-Moes Haven,Shut Up Your Monkey,6,2026-10-18T11:07:57Z,,,,,,Kurt,
-Vylet Pony,ANTONYMPH,5,2026-10-18T11:03:26Z,,,,,,Kurt,
-Chappell Roan,Pink Pony Club,49,2026-10-18T10:54:56Z,,,,,,Kurt,
-Bring Me The Horizon,Blessed with a Curse,6,2026-10-18T10:42:26Z,,,,,,Kurt,
-Eagles,Hotel California  (2013 Remaster),48,2026-10-18T10:29:56Z,,,,,,Kurt,
-P!nk,Get the Party Started,6,2026-10-18T09:39:26Z,,,,,,Kurt,
-Pink Floyd,Comfortably Numb,10,2026-10-18T09:32:57Z,,,,,,Kurt,
-Melody Gardot,La chanson des vieux amants,7,2026-10-18T08:01:26Z,,,,,,Kurt,
-Steely Dan,Time Out Of Mind,31,2026-10-18T07:04:57Z,,,,,,Kurt,
+Moes Haven,Shut Up Your Monkey,6,2026-10-18T11:07:57Z,,Pop,Dislocated Songs,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/a9/50/9a/mzi.sknotaua.tif/100x100bb.jpg
+Vylet Pony,ANTONYMPH,5,2026-10-18T11:03:26Z,,Electronic,Antonymph (Foozogz Cover) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/9a/43/499a43c4-adcb-d5ee-a4c2-f30cae6763e3/198009549443.png/100x100bb.jpg
+Chappell Roan,Pink Pony Club,49,2026-10-18T10:54:56Z,,Pop,Pink Pony Club - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/100x100bb.jpg
+Bring Me The Horizon,Blessed with a Curse,6,2026-10-18T10:42:26Z,,Hard Rock,There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/3f/73/e23f7366-967a-b2b3-5455-1e74c7e3a355/0045778706563.png/100x100bb.jpg
+Eagles,Hotel California  (2013 Remaster),48,2026-10-18T10:29:56Z,,Rock,Hotel California,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/100x100bb.jpg
+P!nk,Get the Party Started,6,2026-10-18T09:39:26Z,,Pop,Greatest Hits...So Far!!!,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a0/a5/e0a0a571-b775-16c0-2a9c-ff2778c1f8f7/884977798951.jpg/100x100bb.jpg
+Pink Floyd,Comfortably Numb,10,2026-10-18T09:32:57Z,,Rock,The Wall,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/100x100bb.jpg
+Melody Gardot,La chanson des vieux amants,7,2026-10-18T08:01:26Z,,Jazz,Brel - Ces gens-là,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/cc/e8/f0cce8f5-80f5-c963-3099-90518b10a4b4/00602577414749.rgb.jpg/100x100bb.jpg
+Steely Dan,Time Out Of Mind,31,2026-10-18T07:04:57Z,,Rock,Gaucho,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/2e/26/492e2633-9199-0b8e-6642-e2d4a5f08a93/23UM1IM00406.rgb.jpg/100x100bb.jpg
 Jeff Lynne,At Last,4,2026-10-18T05:13:25Z,,,,,,Kurt,
 Cynthia Harrell,SNAKE EATER Δ,12,2026-10-18T05:04:55Z,,,,,,Kurt,
 Queen,The March of the Black Queen (2026 Mix),19,2026-10-18T04:48:25Z,,,,,,Kurt,
