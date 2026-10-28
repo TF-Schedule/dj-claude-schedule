@@ -1,4 +1,9 @@
 {
+"A-Ha|Take on Me (2015 Remaster)": {
+"album": "Greatest Hits - Japanese Singles Collection",
+"film_hint": "",
+"genre": "Pop"
+},
 "ABBA|Dancing Queen": {
 "album": "ABBA Gold: Greatest Hits",
 "film_hint": "",
@@ -84,6 +89,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"Alestorm|Drink": {
+"album": "Captain Morgan's Revenge (10th Anniversary Edition)",
+"film_hint": "",
+"genre": "Metal"
+},
 "Alexander Rybak|Fairytale": {
 "album": "Fairytale - Single",
 "film_hint": "",
@@ -159,6 +169,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Antonio Campo|I Need You More and More  (Remastered)": {
+"album": "Flying Dreams - Antonio Campo (2024 Remastered Version)",
+"film_hint": "",
+"genre": "Easy Listening"
+},
 "Antonio Carlos Jobim|The Girl From Ipanema": {
 "album": "Getz/Gilberto (Expanded Edition)",
 "film_hint": "",
@@ -168,6 +183,11 @@
 "album": "Selected Ambient Works Volume II (Expanded Edition)",
 "film_hint": "",
 "genre": "Ambient"
+},
+"Aphex Twin|Windowlicker": {
+"album": "Windowlicker - EP",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Aphex Twin|Xtal": {
 "album": "Selected Ambient Works 85-92",
@@ -218,6 +238,11 @@
 "album": "Introducing, Bart&Baker",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Bauhaus|Ziggy Stardust": {
+"album": "The Sky's Gone Out",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Beach House|Bluebird": {
 "album": "Depression Cherry",
@@ -328,6 +353,11 @@
 "album": "The Stranger",
 "film_hint": "",
 "genre": "Rock"
+},
+"Billy Joel|Honesty (Album Version)": {
+"album": "52nd Street",
+"film_hint": "",
+"genre": "Pop"
 },
 "Billy Joel|Vienna (Album Version)": {
 "album": "The Stranger",
@@ -454,6 +484,11 @@
 "film_hint": "",
 "genre": "Funk"
 },
+"Brian Eno|Spinning Away": {
+"album": "Wrong Way Up [Expanded Edition]",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Brijean|Counting Sheep": {
 "album": "Macro",
 "film_hint": "",
@@ -504,6 +539,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Caifanes|Afuera": {
+"album": "El Nervio del Volcán",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Caifanes|La Negra Tomasa (Bilongo - Version Tropical)": {
 "album": "Las Flores de la Vída",
 "film_hint": "",
@@ -543,6 +583,11 @@
 "album": "Bunny Is A Rider - Single",
 "film_hint": "",
 "genre": "Indie Pop"
+},
+"Cartola|As Rosas Não Falam": {
+"album": "Cartola (1976)",
+"film_hint": "",
+"genre": "Samba"
 },
 "Cat Power|The Greatest": {
 "album": "The Greatest: Slipcase Edition",
@@ -639,6 +684,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Claudio Constantini|Noctilune No. 1 (Bandoneon Solo)": {
+"album": "Noctilune No. 1 (Bandoneon Solo) - Single",
+"film_hint": "",
+"genre": "New Age"
+},
 "Cocteau Twins|Whales Tails": {
 "album": "Victorialand",
 "film_hint": "",
@@ -709,6 +759,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Daft Punk|Touch It / Technologic": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Daft Punk|Voyager": {
 "album": "Discovery",
 "film_hint": "",
@@ -723,6 +778,16 @@
 "album": "O",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Daniel Pemberton|Amaze Amaze Amaze (Life on Erid) (from \"Project Hail Mary\")": {
+"album": "Project Hail Mary (Original Motion Picture Score)",
+"film_hint": "Project Hail Mary (Original Motion Picture Score)",
+"genre": "Soundtrack"
+},
+"David Bowie|Space Oddity": {
+"album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
+"film_hint": "",
+"genre": "Rock"
 },
 "David Bowie|Wild Is the Wind  (2016 Remaster)": {
 "album": "Station to Station (2016 Remaster)",
@@ -809,6 +874,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Dolly Parton|9 to 5": {
+"album": "Ultimate Dolly Parton",
+"film_hint": "",
+"genre": "Country"
+},
 "Don McLean|Vincent": {
 "album": "American Pie",
 "film_hint": "",
@@ -863,6 +933,11 @@
 "album": "Private Space",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Dutyyaknow|Close in the Distance (FFXIV Endwalker) [Synthwave]": {
+"album": "Close in the Distance (FFXIV Endwalker) [Synthwave] - Single",
+"film_hint": "",
+"genre": "Dance"
 },
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
@@ -954,6 +1029,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Erik Wøllo|Computerlove": {
+"album": "Blue Sky, Red Guitars",
+"film_hint": "",
+"genre": "New Age"
+},
 "Erykah Badu|Bag Lady (Album Version)": {
 "album": "Motown: The Complete No. 1's",
 "film_hint": "",
@@ -1008,6 +1088,11 @@
 "album": "American Beauty / American Psycho",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Fanfare Ciocarlia|Asfalt Tango": {
+"album": "Baro Biao",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Federico Aubele|Postales": {
 "album": "Gran Hotel Buenos Aires",
@@ -1088,6 +1173,11 @@
 "album": "Blonde",
 "film_hint": "",
 "genre": "Pop"
+},
+"Frank Ocean|Pyramids": {
+"album": "Novacane - Single",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Frank Sinatra|Fly Me To The Moon (Remastered 2008)": {
 "album": "Nothing But the Best (Remastered)",
@@ -1284,6 +1374,11 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"HYD|Freak": {
+"album": "Hold Onto Me Infinity",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Haddaway|What Is Love (7\" Mix) (Remastered 2025) (7\" Mix / Remastered 2025)": {
 "album": "",
 "film_hint": "",
@@ -1318,6 +1413,11 @@
 "album": "Forever",
 "film_hint": "",
 "genre": "Pop"
+},
+"Hans Zimmer|Cornfield Chase": {
+"album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+"film_hint": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+"genre": "Soundtrack"
 },
 "Hans Zimmer|S.T.A.Y.": {
 "album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
@@ -1398,6 +1498,11 @@
 "album": "Green",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Holly Herndon|Chorus": {
+"album": "Platform",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Horace Silver|Opus De Funk (Remastered 1998/Rudy Van Gelder Edition)": {
 "album": "",
@@ -1519,6 +1624,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Jeff Buckley|Calling You (Live)": {
+"album": "Live At Sin-é (Legacy Edition) [Audio Version]",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Jeff Buckley|Last Goodbye": {
 "album": "Grace (Legacy Edition)",
 "film_hint": "",
@@ -1528,6 +1638,11 @@
 "album": "Love In The Time Of Covid",
 "film_hint": "",
 "genre": "Flamenco"
+},
+"Jim White|Static on the Radio": {
+"album": "Twenty First Century Twenty First Year",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Joan Jett & The Blackhearts|I Love Rock 'N Roll": {
 "album": "I Love Rock 'N' Roll (Expanded Edition)",
@@ -1558,6 +1673,11 @@
 "album": "Urban Blues (Bonus Tracks)",
 "film_hint": "",
 "genre": "Blues"
+},
+"John Lennon|Instant Karma! (We All Shine On) (Ultimate Mix)": {
+"album": "John Lennon/Plastic Ono Band (The Ultimate Collection)",
+"film_hint": "",
+"genre": "Rock"
 },
 "John Mayer|New Light": {
 "album": "Sob Rock",
@@ -1653,6 +1773,11 @@
 "album": "Loving In Stereo",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Junkie XL|Brothers In Arms": {
+"album": "Mad Max: Fury Road (Original Motion Picture Soundtrack)",
+"film_hint": "Mad Max: Fury Road (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
 },
 "Justice|D.A.N.C.E.": {
 "album": "Justice",
@@ -1768,6 +1893,11 @@
 "album": "The Fame",
 "film_hint": "",
 "genre": "Pop"
+},
+"Laibach|The Whistleblowers": {
+"album": "Spectre",
+"film_hint": "",
+"genre": "Rock"
 },
 "Laith Al-Deen|Dein Lied": {
 "album": "Melomanie",
@@ -2109,6 +2239,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Melody Gardot|Moon River": {
+"album": "Sunset In The Blue (Deluxe Version)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Melody Gardot|This Foolish Heart Could Love You": {
 "album": "Entre eux deux",
 "film_hint": "",
@@ -2174,6 +2309,11 @@
 "film_hint": "",
 "genre": "J-Pop"
 },
+"Ministry|Just One Fix (Album Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Miriam Makeba|Pata Pata": {
 "album": "Pata Pata (Mono & Stereo Versions)",
 "film_hint": "",
@@ -2213,6 +2353,11 @@
 "album": "Mother Earth's Plantasia",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Mstislav Rostropovich|Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene \"Swan Theme\". Moderato": {
+"album": "Tchaikovsky: Ballet Suites",
+"film_hint": "",
+"genre": "Classical"
 },
 "Muddy Waters|Mannish Boy": {
 "album": "Hard Again",
@@ -2319,6 +2464,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Nine Inch Nails|Heresy (Nine Inch Noize Version)": {
+"album": "Nine Inch Noize",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Nine Inch Nails|Hurt": {
 "album": "The Downward Spiral",
 "film_hint": "",
@@ -2383,6 +2533,11 @@
 "album": "Pretty In Pink (Original Motion Picture Soundtrack)",
 "film_hint": "Pretty In Pink (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
+},
+"Os Mutantes|A Minha Menina": {
+"album": "Os Mutantes",
+"film_hint": "",
+"genre": "Pop"
 },
 "Otis Redding|(Sittin' On) the Dock of the Bay": {
 "album": "The Very Best of Otis Redding",
@@ -2526,6 +2681,11 @@
 },
 "Pink Floyd|Fearless": {
 "album": "Meddle (2016 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Pink Floyd|Have a Cigar": {
+"album": "Wish You Were Here",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2689,6 +2849,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Rhapsody Of Fire|Emerald Sword (Re-Recorded)": {
+"album": "Symphony of Enchanted Lands",
+"film_hint": "",
+"genre": "Rock"
+},
 "Rio Reiser|Für immer und dich (Album Version)": {
 "album": "Rio I.",
 "film_hint": "",
@@ -2839,12 +3004,22 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Scorpions|Holiday (Remastered 2015)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Scorpions|Still Loving You (2011 Version)": {
 "album": "Bad for Good: The Very Best of Scorpions",
 "film_hint": "",
 "genre": "Hard Rock"
 },
 "Sea Power|Instrument of Surrender": {
+"album": "Disco Elysium",
+"film_hint": "",
+"genre": "Video Game"
+},
+"Sea Power|La Revacholiere": {
 "album": "Disco Elysium",
 "film_hint": "",
 "genre": "Video Game"
@@ -2984,6 +3159,11 @@
 "film_hint": "",
 "genre": "Indie Pop"
 },
+"Soul Coughing|Screenwriter's Blues": {
+"album": "Ruby Vroom (30th Anniversary Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Soundgarden|Black Hole Sun": {
 "album": "Superunknown (20th Anniversary)",
 "film_hint": "",
@@ -3078,6 +3258,11 @@
 "album": "Greatest Hits",
 "film_hint": "",
 "genre": "Rock"
+},
+"Suburban Kids With Biblical Names|Rent A Wreck": {
+"album": "#3",
+"film_hint": "",
+"genre": "Pop"
 },
 "Sufjan Stevens|Casimir Pulaski Day": {
 "album": "Illinois",
@@ -3224,6 +3409,16 @@
 "film_hint": "",
 "genre": "Mandopop"
 },
+"The Beatles|Golden Slumbers (Remastered)": {
+"album": "Abbey Road (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|This Boy (Remastered)": {
+"album": "Past Masters (Vols. 1 & 2 / Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Brian Setzer Orchestra|Jump Jive An' Wail (Album Version)": {
 "album": "The Dirty Boogie",
 "film_hint": "",
@@ -3264,6 +3459,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"The Police|Roxanne (Remastered 2003)": {
+"album": "Outlandos D'Amour (Remastered 2003)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Proclaimers|I'm Gonna Be (500 Miles)": {
 "album": "Sunshine On Leith",
 "film_hint": "",
@@ -3278,6 +3478,11 @@
 "album": "The Very Best Of...",
 "film_hint": "",
 "genre": "Jazz"
+},
+"The Ray Conniff Singers|Somewhere, My Love (Lara's Theme from \"Doctor Zhivago\") (Album Version)": {
+"album": "Somewhere My Love (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
+"film_hint": "",
+"genre": "Vocal"
 },
 "The Smashing Pumpkins|1979": {
 "album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
@@ -3333,6 +3538,11 @@
 "album": "Color Him Father",
 "film_hint": "",
 "genre": "Pop"
+},
+"The xx|Intro": {
+"album": "xx",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Thee Sacred Souls|Live For You": {
 "album": "Got a Story to Tell",
@@ -3403,6 +3613,11 @@
 "album": "Elwan",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Tiny Habits|Right In Front Of Me": {
+"album": "Keepers",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Tlahoun Gessesse|Tchuheten Betsemu": {
 "album": "Éthiopiques, Vol. 17: Tlahoun Gèssèssè",
@@ -3493,6 +3708,11 @@
 "album": "Water - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"U2|The Fly (Remastered 2011)": {
+"album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Ulrich Schnauss|I Take Comfort in Your Ignorance (2019 Version)": {
 "album": "A Long Way To Fall - Rebound",
@@ -3623,6 +3843,11 @@
 "album": "Fragile (Super Deluxe)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Yo-Yo Ma|Carnival of the Animals, R. 125: XIII. The Swan": {
+"album": "Saint-Saëns: Carnival of the Animals - Bizet: Jeux d'enfants - Ravel: Mother Goose",
+"film_hint": "",
+"genre": "Orchestral"
 },
 "Youssou N'Dour featuring Neneh Cherry|7 Seconds (Album Version)": {
 "album": "The Best of Youssou N'Dour",
