@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Mac DeMarco,No Other Heart,25,2026-10-28T11:59:04Z,Fuzzy Frontier,,,,https://music.apple.com/us/album/no-other-heart/986081055?i=986081065,Regal + Kurt
+Ben Howard,Only Love,1,2026-10-28T11:54:49Z,Fuzzy Frontier,Singer/Songwriter,Every Kingdom,,https://music.apple.com/us/album/only-love/1440804636?i=1440805198,Regal + Kurt
+Belle and Sebastian,The Boy with the Arab Strap,30,2026-10-28T11:49:29Z,Fuzzy Frontier,,,,https://music.apple.com/us/album/the-boy-with-the-arab-strap/297357069?i=297357087,Regal + Kurt
 Smoke City,Underwater Love,3,2026-10-28T11:42:33Z,Fuzzy Frontier,Pop,Flying Away,,https://music.apple.com/us/album/underwater-love/1266447134?i=1266447309,Regal + Kurt
 The Smashing Pumpkins,1979,30,2026-10-28T11:38:49Z,Fuzzy Frontier,Alternative,Mellon Collie And The Infinite Sadness (2012 Remastered),,https://music.apple.com/us/album/1979/721224313?i=721224621,Regal + Kurt
 Nick Cave & The Bad Seeds,(I'll Love You) Till The End Of The World,10,2026-10-28T11:34:49Z,Fuzzy Frontier,Soundtrack,Until the End of the World (Music from the Motion Picture Soundtrack),Until the End of the World (Music from the Motion Picture Soundtrack),https://music.apple.com/us/search?term=Nick+Cave+%26+The+Bad+Seeds+%28I%27ll+Love+You%29+Till+The+End+Of+The+World,Regal + Kurt
@@ -706,7 +709,6 @@ Chris Christodoulou,The Rain Formerly Known as Purple,11,2026-10-26T05:48:14Z,,S
 Peter Gabriel,The Feeling Begins (Remastered 2002),24,2026-10-26T05:43:44Z,,,,,,Kurt
 Ken Thomson And Slow/Fast,We Are Not All in This Together,14,2026-10-26T05:41:45Z,,Jazz,Settle,,,Kurt
 The Tallest Man On Earth,The Gardener,1,2026-10-26T05:37:14Z,,Singer/Songwriter,Shallow Grave,,,Kurt
-Ben Howard,Only Love,1,2026-10-26T05:29:44Z,,Singer/Songwriter,Every Kingdom,,,Kurt
 Alexi Murdoch,Orange Sky,1,2026-10-26T05:23:14Z,,Singer/Songwriter,Four Songs - EP,,,Kurt
 Eva Cassidy,Ain't No Sunshine (Album Version),1,2026-10-26T05:19:44Z,,Singer/Songwriter,Time After Time,,,Kurt
 Cat Power,The Greatest,1,2026-10-26T05:16:14Z,,Alternative,The Greatest: Slipcase Edition,,,Kurt
@@ -1007,48 +1009,48 @@ Martin Garrix,Carry You,7,2026-10-24T16:34:42Z,,Dance,Carry You (feat. Declan J 
 Bachman-Turner Overdrive,Takin' Care Of Business,18,2026-10-24T16:29:42Z,,Rock,Bachman-Turner Overdrive II,,,Kurt
 Paula Abdul,Straight Up (Single Version),11,2026-10-24T16:25:12Z,,Pop,20 #1’s: 80's Pop,,,Kurt
 Benny Sings,Rolled Up,20,2026-10-24T16:16:42Z,,Pop,Rolled Up (feat. Mac DeMarco) - Single,,,Kurt
-Miracles of Modern Science,Dear Pressure,19,2026-10-24T16:13:12Z,,,,,,Kurt
-Apo Hiking Society,When I Met You,10,2026-10-24T16:00:42Z,,,,,,Kurt
-USA for Africa,We Are The World,45,2026-10-24T15:48:46Z,,,,,,Kurt
-Grace Jones,Slave To The Rhythm (Hot Blooded Version),13,2026-10-24T15:30:42Z,,,,,,Kurt
-RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),26,2026-10-24T15:22:42Z,,,,,,Kurt
-The Orb,Blue Room  (Live),17,2026-10-24T15:14:42Z,,,,,,Kurt
-Billy Joel,Scenes from an Italian Restaurant (Album Version),17,2026-10-24T15:07:13Z,,,,,,Kurt
-D'Angelo,Untitled (How Does It Feel),130,2026-10-24T14:59:42Z,,,,,,Kurt
-Leonard Bernstein,Candide: Overture,2,2026-10-24T14:49:12Z,,,,,,Kurt
-Johnny Cash,Folsom Prison Blues,15,2026-10-24T14:46:12Z,,,,,,Kurt
-Leonard Cohen,Avalanche,20,2026-10-24T14:40:42Z,,,,,,Kurt
-SWV,Weak,20,2026-10-24T14:31:42Z,,,,,,Kurt
-Tom Konkle,Name On A Screen,8,2026-10-24T14:24:42Z,,,,,,Kurt
-Анна Герман,Город влюблённых,15,2026-10-24T14:16:12Z,,,,,,Kurt
-The Script feat. will.i.am,Hall of Fame,11,2026-10-24T14:13:12Z,,,,,,Kurt
-Screamin' Jay Hawkins,I Put a Spell On You,13,2026-10-24T13:53:42Z,,,,,,Kurt
-Freddie Mercury,Love Kills,7,2026-10-24T13:49:12Z,,,,,,Kurt
-The Rolling Stones,Street Fighting Man,25,2026-10-24T13:40:12Z,,,,,,Kurt
-Bruce Springsteen,No Surrender,6,2026-10-24T13:36:12Z,,,,,,Kurt
-Creedence Clearwater Revival,Cotton Fields,11,2026-10-24T13:33:12Z,,,,,,Kurt
-B.B. King,The Thrill Is Gone,29,2026-10-24T13:27:42Z,,,,,,Kurt
-Petra,This Means War,5,2026-10-24T13:22:12Z,,,,,,Kurt
-Chuck Berry,Johnny B. Goode,26,2026-10-24T13:19:12Z,,,,,,Kurt
-Dire Straits,Money for Nothing,21,2026-10-24T13:06:42Z,,,,,,Kurt
-Loverboy,Lovin' Every Minute of It,5,2026-10-24T12:57:12Z,,,,,,Kurt
-Gene Kelly,Singin' in the Rain,9,2026-10-24T12:44:12Z,,,,,,Kurt
-Stevie Wonder,Living For The City (Album Version),21,2026-10-24T12:36:43Z,,,,,,Kurt
-Jim James,St. James Infirmary,28,2026-10-24T12:25:12Z,,,,,,Kurt
-The Brothers Johnson,Strawberry Letter 23 (Album Version),55,2026-10-24T12:20:12Z,,,,,,Kurt
-The Weeknd,Gasoline,95,2026-10-24T12:16:42Z,,,,,,Kurt
-The Platters,The Great Pretender (Single Version),35,2026-10-24T12:13:42Z,,,,,,Kurt
-The Crystal Method,Cherry Twist,3,2026-10-24T12:09:12Z,,,,,,Kurt
+Miracles of Modern Science,Dear Pressure,19,2026-10-24T16:13:12Z,,Alternative,Meems - EP,,,Kurt
+Apo Hiking Society,When I Met You,10,2026-10-24T16:00:42Z,,Pop,True to My Music,,,Kurt
+USA for Africa,We Are The World,45,2026-10-24T15:48:46Z,,Rock,We Are the World - Single,,,Kurt
+Grace Jones,Slave To The Rhythm (Hot Blooded Version),13,2026-10-24T15:30:42Z,,R&B/Soul,Private Life: The Compass Point Sessions,,,Kurt
+RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),26,2026-10-24T15:22:42Z,,Electronic,Live from Joshua Tree,,,Kurt
+The Orb,Blue Room  (Live),17,2026-10-24T15:14:42Z,,Electronic,U.F.OFF: The Best of the Orb,,,Kurt
+Billy Joel,Scenes from an Italian Restaurant (Album Version),17,2026-10-24T15:07:13Z,,Rock,The Stranger,,,Kurt
+D'Angelo,Untitled (How Does It Feel),130,2026-10-24T14:59:42Z,,Pop,Voodoo,,,Kurt
+Leonard Bernstein,Candide: Overture,2,2026-10-24T14:49:12Z,,Classical,Bernstein: Candide,,,Kurt
+Johnny Cash,Folsom Prison Blues,15,2026-10-24T14:46:12Z,,Country,All Aboard the Blue Train (Definitive Expanded Remastered Edition),,,Kurt
+Leonard Cohen,Avalanche,20,2026-10-24T14:40:42Z,,Pop,Songs of Love and Hate,,,Kurt
+SWV,Weak,20,2026-10-24T14:31:42Z,,R&B/Soul,It's About Time,,,Kurt
+Tom Konkle,Name On A Screen,8,2026-10-24T14:24:42Z,,Rock,The Storm with a Gentle Face,,,Kurt
+Анна Герман,Город влюблённых,15,2026-10-24T14:16:12Z,,Pop,На тот берег,,,Kurt
+The Script feat. will.i.am,Hall of Fame,11,2026-10-24T14:13:12Z,,Pop,#3 (Deluxe Version),,,Kurt
+Screamin' Jay Hawkins,I Put a Spell On You,13,2026-10-24T13:53:42Z,,R&B/Soul,Cow Fingers And Mosquito Pie,,,Kurt
+Freddie Mercury,Love Kills,7,2026-10-24T13:49:12Z,,Rock,Queen Forever (Deluxe Edition),,,Kurt
+The Rolling Stones,Street Fighting Man,25,2026-10-24T13:40:12Z,,Pop,Beggars Banquet (2018 Remaster),,,Kurt
+Bruce Springsteen,No Surrender,6,2026-10-24T13:36:12Z,,Rock,Born In the U.S.A.,,,Kurt
+Creedence Clearwater Revival,Cotton Fields,11,2026-10-24T13:33:12Z,,Rock,The Complete Collection (Digital Box) [iTunes],,,Kurt
+B.B. King,The Thrill Is Gone,29,2026-10-24T13:27:42Z,,Blues,Completely Well,,,Kurt
+Petra,This Means War,5,2026-10-24T13:22:12Z,,Christian,This Means War! (25th Anniversary Edition),,,Kurt
+Chuck Berry,Johnny B. Goode,26,2026-10-24T13:19:12Z,,Rock,Berry Is On Top,,,Kurt
+Dire Straits,Money for Nothing,21,2026-10-24T13:06:42Z,,Rock,Private Investigations: The Best of Dire Straits & Mark Knopfler,,,Kurt
+Loverboy,Lovin' Every Minute of It,5,2026-10-24T12:57:12Z,,Rock,Lovin' Every Minute Of It,,,Kurt
+Gene Kelly,Singin' in the Rain,9,2026-10-24T12:44:12Z,,Soundtrack,Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version],,Kurt
+Stevie Wonder,Living For The City (Album Version),21,2026-10-24T12:36:43Z,,Motown,Innervisions,,,Kurt
+Jim James,St. James Infirmary,28,2026-10-24T12:25:12Z,,Rock,Plays the Hits,,,Kurt
+The Brothers Johnson,Strawberry Letter 23 (Album Version),55,2026-10-24T12:20:12Z,,R&B/Soul,Strawberry Letter 23 / The Very Best of the Brothers Johnson (Remastered),,,Kurt
+The Weeknd,Gasoline,95,2026-10-24T12:16:42Z,,R&B/Soul,Dawn FM,,,Kurt
+The Platters,The Great Pretender (Single Version),35,2026-10-24T12:13:42Z,,Doo Wop,The Great Pretender - Single,,,Kurt
+The Crystal Method,Cherry Twist,3,2026-10-24T12:09:12Z,,Electronic,Vegas,,,Kurt
 Little River Band,Reminiscing (2002 Digital Remaster),26,2026-10-24T12:03:42Z,,,,,,Kurt
-Tonto's Expanding Head Band,Cybernaut,30,2026-10-24T11:52:42Z,,,,,,Kurt
-The Altons,When You Go (That's When You'll Know),32,2026-10-24T11:49:12Z,,,,,,Kurt
-Queen,Flash (Remastered 2011),19,2026-10-24T11:46:12Z,,,,,,Kurt
-Huey Lewis And The News,The Power Of Love,14,2026-10-24T11:42:42Z,,,,,,Kurt
-The Smile,The Smoke,6,2026-10-24T11:35:12Z,,,,,,Kurt
-Charly García,Demoliendo Hoteles (Live),21,2026-10-24T11:11:12Z,,,,,,Kurt
-Daft Punk feat. Julian Casablancas,Instant Crush (feat. Julian Casablancas),18,2026-10-24T11:05:12Z,,,,,,Kurt
-Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:42Z,,,,,,Kurt
-Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,,,,,Kurt
+Tonto's Expanding Head Band,Cybernaut,30,2026-10-24T11:52:42Z,,Electronic,Zero Time,,,Kurt
+The Altons,When You Go (That's When You'll Know),32,2026-10-24T11:49:12Z,,R&B/Soul,When You Go (That's When You'll Know) - Single,,,Kurt
+Queen,Flash (Remastered 2011),19,2026-10-24T11:46:12Z,,Rock,Some Girls (Remastered 2011),,,Kurt
+Huey Lewis And The News,The Power Of Love,14,2026-10-24T11:42:42Z,,Rock,Greatest Hits (Remastered),,,Kurt
+The Smile,The Smoke,6,2026-10-24T11:35:12Z,,Alternative,A Light for Attracting Attention,,,Kurt
+Charly García,Demoliendo Hoteles (Live),21,2026-10-24T11:11:12Z,,Rock y Alternativo,Unplugged,,,Kurt
+Daft Punk feat. Julian Casablancas,Instant Crush (feat. Julian Casablancas),18,2026-10-24T11:05:12Z,,Pop,Random Access Memories,,,Kurt
+Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:42Z,,Classical,The 50 Greatest Pieces of Classical Music,,,Kurt
+Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,Original Score,My Neighbor Totoro (Original Soundtrack),My Neighbor Totoro (Original Soundtrack),,Kurt
 Soda Stereo,Luna Roja (Remasterizado 2007),20,2026-10-24T10:12:12Z,,,,,,Kurt
 City,Am Fenster,4,2026-10-24T09:59:12Z,,,,,,Kurt
 John Lennon,Watching The Wheels (Remastered 2010),4,2026-10-24T09:49:12Z,,,,,,Kurt
@@ -1237,7 +1239,6 @@ Radiohead,Paranoid Android,17,2026-10-23T07:37:31Z,,,,,,Kurt
 Ben&Ben,Leaves,48,2026-10-23T07:32:00Z,,,,,,Kurt
 The Beach Boys,Good Vibrations (Stereo/Remastered 2012),29,2026-10-23T07:28:30Z,,,,,,Kurt
 Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,,,,,Kurt
-Belle and Sebastian,The Boy with the Arab Strap,30,2026-10-23T07:06:30Z,,,,,,Kurt
 Goldmund,Threnody,109,2026-10-23T06:51:29Z,,,,,,Kurt
 Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,,,,,Kurt
 Guts,Laisser Lucie faire,8,2026-10-23T06:39:29Z,,,,,,Kurt
@@ -1407,7 +1408,6 @@ The Beatles,Octopus's Garden (Remastered),10,2026-10-22T03:51:47Z,,,,,,Kurt
 Gorillaz,Hong Kong,24,2026-10-22T03:44:47Z,,,,,,Kurt
 Phoebe Bridgers,Moon Song,74,2026-10-22T03:35:17Z,,,,,,Kurt
 The Cure,Just Like Heaven (Album Version),9,2026-10-22T03:27:48Z,,,,,,Kurt
-Mac DeMarco,No Other Heart,25,2026-10-22T03:24:47Z,,,,,,Kurt
 Hozier,"Wasteland, Baby!",13,2026-10-22T03:16:17Z,,,,,,Kurt
 Arctic Monkeys,Do I Wanna Know?,181,2026-10-22T03:08:17Z,,,,,,Kurt
 The Strokes,Lonely in the Future,15,2026-10-22T03:04:47Z,,,,,,Kurt

@@ -249,6 +249,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Apo Hiking Society|When I Met You": {
+"album": "True to My Music",
+"film_hint": "",
+"genre": "Pop"
+},
 "Arcadia|The Promise  (2010 Remaster)": {
 "album": "Notorious - EP",
 "film_hint": "",
@@ -313,6 +318,11 @@
 "album": "Portals of Grace",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"B.B. King|The Thrill Is Gone": {
+"album": "Completely Well",
+"film_hint": "",
+"genre": "Blues"
 },
 "BETWEEN FRIENDS|affection": {
 "album": "we just need some time together - EP",
@@ -398,6 +408,11 @@
 "album": "Tropical Storm",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Belle and Sebastian|The Boy with the Arab Strap": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Ben Allison|D.A.V.E.": {
 "album": "The Stars Look Very Different Today",
@@ -518,6 +533,11 @@
 "album": "52nd Street",
 "film_hint": "",
 "genre": "Pop"
+},
+"Billy Joel|Scenes from an Italian Restaurant (Album Version)": {
+"album": "The Stranger",
+"film_hint": "",
+"genre": "Rock"
 },
 "Billy Joel|Vienna (Album Version)": {
 "album": "The Stranger",
@@ -699,6 +719,11 @@
 "film_hint": "",
 "genre": "New Age"
 },
+"Bruce Springsteen|No Surrender": {
+"album": "Born In the U.S.A.",
+"film_hint": "",
+"genre": "Rock"
+},
 "Bruno Battisti D'Amario|Omaggio a giuliani": {
 "album": "D'Amario: Complete Works for Solo Guitar Solo & 2 Guitars",
 "film_hint": "",
@@ -864,6 +889,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Charly García|Demoliendo Hoteles (Live)": {
+"album": "Unplugged",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Chet Atkins|Why Worry (Album Version)": {
 "album": "Sails",
 "film_hint": "",
@@ -933,6 +963,11 @@
 "album": "Christopher Cross (2019 Remaster)",
 "film_hint": "",
 "genre": "Adult Contemporary"
+},
+"Chuck Berry|Johnny B. Goode": {
+"album": "Berry Is On Top",
+"film_hint": "",
+"genre": "Rock"
 },
 "Cibo Matto|Sugar Water (Album Version)": {
 "album": "Viva! La Woman",
@@ -1004,6 +1039,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Creedence Clearwater Revival|Cotton Fields": {
+"album": "The Complete Collection (Digital Box) [iTunes]",
+"film_hint": "",
+"genre": "Rock"
+},
 "Creed|With Arms Wide Open": {
 "album": "Human Clay",
 "film_hint": "",
@@ -1034,6 +1074,16 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Czech Philharmonic|The Moldau Má Vlast: II. Vltava Moldau": {
+"album": "The 50 Greatest Pieces of Classical Music",
+"film_hint": "",
+"genre": "Classical"
+},
+"D'Angelo|Untitled (How Does It Feel)": {
+"album": "Voodoo",
+"film_hint": "",
+"genre": "Pop"
+},
 "DIIV|Doused": {
 "album": "",
 "film_hint": "",
@@ -1048,6 +1098,11 @@
 "album": "Magical Mystery Tour",
 "film_hint": "",
 "genre": "Rock"
+},
+"Daft Punk feat. Julian Casablancas|Instant Crush (feat. Julian Casablancas)": {
+"album": "Random Access Memories",
+"film_hint": "",
+"genre": "Pop"
 },
 "Daft Punk|One More Time": {
 "album": "Discovery",
@@ -1193,6 +1248,11 @@
 "album": "Silk Electric (Expanded Edition)",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Dire Straits|Money for Nothing": {
+"album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
+"film_hint": "",
+"genre": "Rock"
 },
 "Dire Straits|Sultans of Swing": {
 "album": "Dire Straits",
@@ -1619,6 +1679,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"Freddie Mercury|Love Kills": {
+"album": "Queen Forever (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Free|Wild Indian Woman": {
 "album": "Tons of Sobs (Bonus Track Version)",
 "film_hint": "",
@@ -1648,6 +1713,11 @@
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Gene Kelly|Singin' in the Rain": {
+"album": "Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version]",
+"film_hint": "Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version]",
+"genre": "Soundtrack"
 },
 "Geoffrey Oryema|Solitude": {
 "album": "Exile (Real World Gold)",
@@ -1753,6 +1823,11 @@
 "album": "Nightclubbing",
 "film_hint": "",
 "genre": "Dance"
+},
+"Grace Jones|Slave To The Rhythm (Hot Blooded Version)": {
+"album": "Private Life: The Compass Point Sessions",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Grand Corps Malade|Mais je t'aime": {
 "album": "Mesdames",
@@ -1989,6 +2064,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Huey Lewis And The News|The Power Of Love": {
+"album": "Greatest Hits (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
@@ -2124,6 +2204,11 @@
 "film_hint": "",
 "genre": "Flamenco"
 },
+"Jim James|St. James Infirmary": {
+"album": "Plays the Hits",
+"film_hint": "",
+"genre": "Rock"
+},
 "Jim White|Static on the Radio": {
 "album": "Twenty First Century Twenty First Year",
 "film_hint": "",
@@ -2153,6 +2238,11 @@
 "album": "Departures (Original Motion Picture Soundtrack)",
 "film_hint": "Departures (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
+},
+"Joe Hisaishi|The Path of the Wind (from 'My Neighbor Totoro')": {
+"album": "My Neighbor Totoro (Original Soundtrack)",
+"film_hint": "My Neighbor Totoro (Original Soundtrack)",
+"genre": "Original Score"
 },
 "Joe Hisaishi|アシタカとサン (from 'Princess Mononoke')": {
 "album": "Princess Mononoke (Original Soundtrack)",
@@ -2198,6 +2288,11 @@
 "album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
 "film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
 "genre": "Soundtrack"
+},
+"Johnny Cash|Folsom Prison Blues": {
+"album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
+"film_hint": "",
+"genre": "Country"
 },
 "Joker Out|Novi Val": {
 "album": "",
@@ -2524,6 +2619,16 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Leonard Bernstein|Candide: Overture": {
+"album": "Bernstein: Candide",
+"film_hint": "",
+"genre": "Classical"
+},
+"Leonard Cohen|Avalanche": {
+"album": "Songs of Love and Hate",
+"film_hint": "",
+"genre": "Pop"
+},
 "Levante|SEI TU": {
 "album": "The Art of Andrés Segovia Vol. 6",
 "film_hint": "",
@@ -2579,6 +2684,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Little River Band|Reminiscing (2002 Digital Remaster)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Lofi Fruits Music|Plastic Love": {
 "album": "Plastic Love - Single",
 "film_hint": "",
@@ -2623,6 +2733,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Loverboy|Lovin' Every Minute of It": {
+"album": "Lovin' Every Minute Of It",
+"film_hint": "",
+"genre": "Rock"
 },
 "Lubomyr Melnyk|The Six Day Moment": {
 "album": "Corollaries",
@@ -2688,6 +2803,11 @@
 "album": "2",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Mac DeMarco|No Other Heart": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Madness|Our House": {
 "album": "Madness",
@@ -2978,6 +3098,11 @@
 "album": "Perfect Angel",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Miracles of Modern Science|Dear Pressure": {
+"album": "Meems - EP",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Miriam Makeba|Pata Pata": {
 "album": "Pata Pata (Mono & Stereo Versions)",
@@ -3444,6 +3569,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Petra|This Means War": {
+"album": "This Means War! (25th Anniversary Edition)",
+"film_hint": "",
+"genre": "Christian"
+},
 "Phil Collins|In the Air Tonight  (2015 Remaster)": {
 "album": "Face Value (Remastered)",
 "film_hint": "",
@@ -3586,6 +3716,11 @@
 },
 "Queen|Another One Bites The Dust": {
 "album": "The Game (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Queen|Flash (Remastered 2011)": {
+"album": "Some Girls (Remastered 2011)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3784,6 +3919,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"RÜFÜS DU SOL|Innerbloom  (Live from Joshua Tree)": {
+"album": "Live from Joshua Tree",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Róisín Murphy|Murphy's Law (Album Version)": {
 "album": "Changes",
 "film_hint": "",
@@ -3798,6 +3938,11 @@
 "album": "Married To the Music - The 4th Album Repackage",
 "film_hint": "",
 "genre": "K-Pop"
+},
+"SWV|Weak": {
+"album": "It's About Time",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Sabaton|The Last Stand": {
 "album": "The Last Stand",
@@ -3883,6 +4028,11 @@
 "album": "Bad for Good: The Very Best of Scorpions",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Screamin' Jay Hawkins|I Put a Spell On You": {
+"album": "Cow Fingers And Mosquito Pie",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Sea Power|Instrument of Surrender": {
 "album": "Disco Elysium",
@@ -4054,6 +4204,11 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Soda Stereo|Luna Roja (Remasterizado 2007)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Soft Cell|Tainted Love": {
 "album": "Tainted Love / Where Did Our Love Go - Single",
 "film_hint": "",
@@ -4160,6 +4315,11 @@
 "genre": "R&B/Soul"
 },
 "Stevie Wonder|Higher Ground (Album Version)": {
+"album": "Innervisions",
+"film_hint": "",
+"genre": "Motown"
+},
+"Stevie Wonder|Living For The City (Album Version)": {
 "album": "Innervisions",
 "film_hint": "",
 "genre": "Motown"
@@ -4354,6 +4514,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Altons|When You Go (That's When You'll Know)": {
+"album": "When You Go (That's When You'll Know) - Single",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
 "film_hint": "",
@@ -4384,6 +4549,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Brothers Johnson|Strawberry Letter 23 (Album Version)": {
+"album": "Strawberry Letter 23 / The Very Best of the Brothers Johnson (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The Bulgarian Voices Angelite|Utopia": {
 "album": "Legend (with Huun-Huur-Tu & the Moscow Art Trio)",
 "film_hint": "",
@@ -4403,6 +4573,11 @@
 "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Crystal Method|Cherry Twist": {
+"album": "Vegas",
+"film_hint": "",
+"genre": "Electronic"
 },
 "The Cure|Burn (Live)": {
 "album": "The Cure - Single",
@@ -4474,6 +4649,16 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"The Orb|Blue Room  (Live)": {
+"album": "U.F.OFF: The Best of the Orb",
+"film_hint": "",
+"genre": "Electronic"
+},
+"The Platters|The Great Pretender (Single Version)": {
+"album": "The Great Pretender - Single",
+"film_hint": "",
+"genre": "Doo Wop"
+},
 "The Police|Roxanne (Remastered 2003)": {
 "album": "Outlandos D'Amour (Remastered 2003)",
 "film_hint": "",
@@ -4504,8 +4689,23 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Rolling Stones|Street Fighting Man": {
+"album": "Beggars Banquet (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"The Script feat. will.i.am|Hall of Fame": {
+"album": "#3 (Deluxe Version)",
+"film_hint": "",
+"genre": "Pop"
+},
 "The Smashing Pumpkins|1979": {
 "album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The Smile|The Smoke": {
+"album": "A Light for Attracting Attention",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4571,6 +4771,11 @@
 },
 "The Weeknd|Call Out My Name": {
 "album": "My Dear Melancholy,",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"The Weeknd|Gasoline": {
+"album": "Dawn FM",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -4689,6 +4894,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Tom Konkle|Name On A Screen": {
+"album": "The Storm with a Gentle Face",
+"film_hint": "",
+"genre": "Rock"
+},
 "Tom Misch|Disco Yes": {
 "album": "Geography",
 "film_hint": "",
@@ -4723,6 +4933,11 @@
 "album": "Ultimate Toni Braxton",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Tonto's Expanding Head Band|Cybernaut": {
+"album": "Zero Time",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Tony Bennett & Faith Hill|The Way You Look Tonight": {
 "album": "Sixty Years: The Artistry of Tony Bennett",
@@ -4791,6 +5006,11 @@
 },
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"USA for Africa|We Are The World": {
+"album": "We Are the World - Single",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5038,5 +5258,10 @@
 "album": "Olafur Arnalds: saman - Single",
 "film_hint": "",
 "genre": "Classical Crossover"
+},
+"Анна Герман|Город влюблённых": {
+"album": "На тот берег",
+"film_hint": "",
+"genre": "Pop"
 }
 }
