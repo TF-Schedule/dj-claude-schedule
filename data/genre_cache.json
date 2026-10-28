@@ -112,6 +112,7 @@
 },
 "Aaliyah|If Your Girl Only Knew": {
 "album": "One In A Million",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c5/d8/1fc5d881-cced-601d-6ab2-67772c02e5f9/194690589874.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -245,6 +246,7 @@
 },
 "Albert Hammond|When I'm Gone": {
 "album": "Your World and My World",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/18/da/34/18da34fd-a7f1-e8ac-9572-f4710e2a4a54/4011586112120_1448.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -1040,6 +1042,7 @@
 },
 "Bleachers|I Wanna Get Better": {
 "album": "Strange Desire",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/2a/74/4c2a7400-42b9-9986-058c-aa8293d7838c/886444565134.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -1333,6 +1336,7 @@
 },
 "Brijean|Counting Sheep": {
 "album": "Macro",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/84/fa/8684fa4b-ef2a-9046-47d0-262a723760d9/45077.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Indie Pop"
 },
@@ -1485,6 +1489,7 @@
 },
 "Caetano Veloso|Tropicália (Remastered 2006)": {
 "album": "Caetano Veloso (Remixed Original Album)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ae/2f/0f/ae2f0fd0-6b64-7e2a-ca02-d876f3bb8c8d/00602537449491.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "MPB"
 },
@@ -2046,6 +2051,7 @@
 },
 "DJ Cam Quartet|Boss Guitar": {
 "album": "Christmas Guitar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/b2/ba/d5b2ba96-da2c-58bb-4391-d0f6a6d386d0/96741070228.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Christmas"
 },
@@ -2467,6 +2473,7 @@
 },
 "Dope Lemon|Honey Bones": {
 "album": "Honey Bones",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/55/73/dd55738b-8df2-44cf-e6e0-59c49b4acea7/4050538506631.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3177,6 +3184,7 @@
 },
 "Freddie King|Going Down": {
 "album": "Getting Ready...",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/98/fe/8c98fe7a-a445-ed49-1f31-abe925192e54/00724385386657.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Blues"
 },
@@ -3218,6 +3226,7 @@
 },
 "Gal Costa|Baby (Original Album)": {
 "album": "Unreal Album",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/1f/32/541f3277-8a57-38d5-b120-3b5dba155c01/859798525208_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
@@ -3315,6 +3324,7 @@
 },
 "Gerry Rafferty|Right Down the Line": {
 "album": "City to City",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/a3/a0/d8a3a079-d358-2a95-9ece-9885c448c486/dj.qbsugeyr.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3352,11 +3362,13 @@
 },
 "Gilberto Gil|Aquele Abraço": {
 "album": "Gilberto Gil (1969)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/36/50/bb3650ff-29ae-187a-0815-439b154747a9/08429006189557_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Brazilian"
 },
 "Gipsy Kings|Bamboleo": {
 "album": "¡Volaré! The Very Best of the Gipsy Kings",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0d/d2/f8/0dd2f824-8730-6bd3-a645-6697c470fe47/s06.pnsyuean.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Latin"
 },
@@ -3627,6 +3639,7 @@
 },
 "Gus Dapperton|Ditch": {
 "album": "Ditch - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0a/d7/0e/0ad70eaf-3349-69bd-64b6-2a194307c259/190394587833_1.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3724,6 +3737,7 @@
 },
 "Hard Life|daydreams": {
 "album": "daydreams - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/ec/af/b9ecaf53-2543-d438-1658-e7556ccba890/20UMGIM78246.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3912,9 +3926,10 @@
 "genre": "Electronic"
 },
 "Hooverphonic|2 Wicky": {
-"album": "A New Stereophonic Sound Spectacular",
-"film_hint": "",
-"genre": "Pop"
+"album": "The Heights (Original Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/6e/43/mzi.dfcprwzt.jpg/100x100bb.jpg",
+"film_hint": "The Heights (Original Soundtrack)",
+"genre": "Soundtrack"
 },
 "Horace Silver Quintet|Peace": {
 "album": "That Healin' Feelin'",
@@ -4365,6 +4380,7 @@
 },
 "John Coltrane|Lush Life": {
 "album": "Lush Life (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/5c/81/0c5c815e-c019-94fa-781d-44ebaffe0771/00888072349193.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -4584,6 +4600,7 @@
 },
 "Julien Baker|Hardline": {
 "album": "Little Oblivions",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/ac/1c/4dac1c94-8327-c330-39b1-b9b0b62efa00/191401163255.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4771,6 +4788,7 @@
 },
 "Kent DuChaine|Trouble in Mind (Live)": {
 "album": "My Name is DuChaine - Live 1997",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/cd/10/1ecd108f-eddf-343a-3d56-a645b5fa129a/195081773131.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Delta Blues"
 },
@@ -5219,6 +5237,7 @@
 },
 "Lisa Gerrard|Sanvean - I Am Your Shadow": {
 "album": "The Mirror Pool",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/51/99/90519982-2e99-db13-b0f1-3b49aba03055/652637500950.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -5455,6 +5474,7 @@
 },
 "MGMT|Electric Feel (Album Version)": {
 "album": "Oracular Spectacular",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f3/ed/72f3edba-cbb0-4887-bb89-4aedf97ecd12/888880287779.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5470,6 +5490,7 @@
 },
 "MIKA|Grace Kelly": {
 "album": "Life In Cartoon Motion",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/97/76/36977630-7bed-b717-ce9b-1dbff75fdeb7/07UMGIM00928.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5706,6 +5727,7 @@
 },
 "Mary Halvorson|About Ghosts": {
 "album": "About Ghosts",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/af/56/66af56b6-69c3-9c1a-3f6c-e42dc1584471/075597896558.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -5863,6 +5885,7 @@
 },
 "Melody Gardot|This Foolish Heart Could Love You": {
 "album": "Entre eux deux",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/90/30/c69030cc-00c7-f90a-c4ed-3030a0af5628/21UM1IM29911.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -5884,6 +5907,7 @@
 },
 "Men I Trust|Show Me How": {
 "album": "Show Me How - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/57/39/cf5739e6-332a-e64c-bed0-b763893c0517/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6129,6 +6153,7 @@
 },
 "Moloko|The Time Is Now": {
 "album": "Things to Make and Do",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1f/b1/22/1fb122d3-a5e9-c3d9-7fb9-2852d06d94c8/0886443963085.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6404,6 +6429,7 @@
 },
 "Ngo Hong Quang|Núi Xưa": {
 "album": "Tình Đàn",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/98/73/b4987350-e9b3-c31a-6255-e353e320aa53/886449345816.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -6472,6 +6498,7 @@
 },
 "Nina Simone|Feeling Good": {
 "album": "I Put a Spell On You",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -6635,6 +6662,7 @@
 },
 "OneRepublic|I Lived": {
 "album": "Native (Deluxe)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6755,6 +6783,7 @@
 },
 "Pages|If I Saw You Again (Album Version)": {
 "album": "Destiny Fulfilled",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/06/fa/55/06fa553a-33c2-282c-4625-d7d4e16812bb/mzi.loqhyccy.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7544,6 +7573,7 @@
 },
 "Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
 "album": "First Take (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/92/92/21929237-dc83-f6a8-05ff-d2808530e226/603497844142.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -7685,6 +7715,7 @@
 },
 "SHINee|Married To The Music": {
 "album": "Married To the Music - The 4th Album Repackage",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/9c/0a/ae/9c0aae7a-8fd0-0eec-b671-7d23fde6a1cb/mzm.sbfhwsul.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "K-Pop"
 },
@@ -7816,6 +7847,7 @@
 },
 "Sarah McLachlan|Building a Mystery": {
 "album": "Mirrorball: The Complete Concert (Live)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/42/cf/4a42cfb3-4693-15fd-b73b-a179411e90d3/dj.jnzuqiwi.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -8000,6 +8032,7 @@
 },
 "Silverchair|Anthem for the Year 2000 (Album Version)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -8160,6 +8193,7 @@
 },
 "Soft Cell|Tainted Love": {
 "album": "Tainted Love / Where Did Our Love Go - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/ff/8c/70ff8c59-95dc-5444-fd3b-81204d0477e5/00600753223598.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -8209,6 +8243,7 @@
 },
 "Soundgarden|Black Hole Sun": {
 "album": "Superunknown (20th Anniversary)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/b6/d6/aeb6d672-2004-41eb-ccba-e2964643a2bc/06UMGIM18607.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -8252,6 +8287,7 @@
 },
 "Stan Getz|Corcovado (Quiet Nights Of Quiet Stars)": {
 "album": "Getz/Gilberto",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -8387,6 +8423,7 @@
 },
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -9112,7 +9149,8 @@
 "genre": "Vocal Pop"
 },
 "The Isley Brothers|Between the Sheets": {
-"album": "Between the Sheets",
+"album": "Love Songs",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/74/d6/f274d6ce-d965-6285-76aa-699dccc7fc37/mzi.tsqmlkaz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -9539,6 +9577,7 @@
 },
 "Thee Sacred Souls|Live For You": {
 "album": "Got a Story to Tell",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/33/c0/9833c0fe-87e6-f084-b0bb-170a6a6bd0b2/107898.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -9560,6 +9599,7 @@
 },
 "Thievery Corporation|Lebanese Blonde": {
 "album": "It Takes A Thief: The Very Best Of Thievery Corporation",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/90/59/0a905907-f9ef-83e3-4877-b82708ed8121/00792755853351_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -9643,6 +9683,7 @@
 },
 "Tinariwen|Sastanàqqàm": {
 "album": "Elwan",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/55/f0/7555f01d-92a0-6e03-5daa-0c57787ef61f/0045778746705.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -9853,6 +9894,7 @@
 },
 "Train|Drops of Jupiter (Tell Me)": {
 "album": "Drops of Jupiter",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/22/ae/1c22ae8d-a7e7-cfc5-c2c8-ef5b38c9fa03/5099706988823.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -10277,6 +10319,7 @@
 },
 "Zoé|Labios Rotos (Live 8.11.14)": {
 "album": "8.11.14 (Deluxe)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/0b/f6/2c0bf655-868f-20b7-740b-726d566e6a04/00602547588463.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
