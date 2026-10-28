@@ -4,6 +4,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"ABBA|Don't Shut Me Down": {
+"album": "Voyage",
+"film_hint": "",
+"genre": "Pop"
+},
 "ABBA|I Wonder (Departure)": {
 "album": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
 "film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
@@ -23,6 +28,11 @@
 "album": "One In A Million",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Adriano Celentano|Prisencolinensinainciusol": {
+"album": "Nostalrock",
+"film_hint": "",
+"genre": "Pop"
 },
 "Aerosmith|Dream On": {
 "album": "Aerosmith",
@@ -124,6 +134,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Andrew W.K.|Party Hard (Album Version)": {
+"album": "I Get Wet",
+"film_hint": "",
+"genre": "Rock"
+},
 "Andrés Calamaro|Flaca": {
 "album": "Alta Suciedad",
 "film_hint": "",
@@ -173,6 +188,11 @@
 "album": "Young, Gifted and Black",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Ashra|Sunrain": {
+"album": "New Age of Earth",
+"film_hint": "",
+"genre": "Rock"
 },
 "Auringon Lapset|Etäpäivä": {
 "album": "Hittibiisien Kaatopaikka - EP",
@@ -228,6 +248,11 @@
 "album": "Odelay",
 "film_hint": "",
 "genre": "Rock"
+},
+"Ben E. King|Stand By Me": {
+"album": "The Very Best of Ben E. King",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Ben Harper|Yard Sale": {
 "album": "Wide Open Light",
@@ -304,6 +329,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Billy Joel|Vienna (Album Version)": {
+"album": "The Stranger",
+"film_hint": "",
+"genre": "Rock"
+},
 "Black Sabbath|Paranoid": {
 "album": "Paranoid",
 "film_hint": "",
@@ -323,6 +353,11 @@
 "album": "Once Upon a Summertime...",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Blue Öyster Cult|(Don't Fear) The Reaper": {
+"album": "Larry the Cable Guy: Health Inspector (Music from the Motion Picture)",
+"film_hint": "Larry the Cable Guy: Health Inspector (Music from the Motion Picture)",
+"genre": "Soundtrack"
 },
 "Blur|Song 2": {
 "album": "Blur",
@@ -358,6 +393,11 @@
 "album": "That's All",
 "film_hint": "",
 "genre": "Pop"
+},
+"Bobby Hutcherson|Stardust": {
+"album": "Stardust (Remastered) - Single",
+"film_hint": "",
+"genre": "Vocal"
 },
 "Bobby McFerrin|Don't Worry Be Happy": {
 "album": "The Best of Bobby McFerrin",
@@ -408,6 +448,11 @@
 "album": "Baby I'm Yours (feat. Irfane) - Single",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Breakestra|Back At The Boathouse": {
+"album": "Dusk Till Dawn",
+"film_hint": "",
+"genre": "Funk"
 },
 "Brijean|Counting Sheep": {
 "album": "Macro",
@@ -574,6 +619,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Christopher Cross|I Really Don't Know Anymore  (2019 Remaster)": {
+"album": "Christopher Cross (2019 Remaster)",
+"film_hint": "",
+"genre": "Adult Contemporary"
+},
 "Christopher Cross|Sailing": {
 "album": "Christopher Cross (2019 Remaster)",
 "film_hint": "",
@@ -664,6 +714,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Daikaiju|Magic Wanda": {
+"album": "Phase 3",
+"film_hint": "",
+"genre": "Rock"
+},
 "Damien Rice|The Blower's Daughter": {
 "album": "O",
 "film_hint": "",
@@ -729,6 +784,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Dire Straits|Sultans of Swing": {
+"album": "Dire Straits",
+"film_hint": "",
+"genre": "Rock"
+},
 "Disturbed|Won't Back Down": {
 "album": "Divisive",
 "film_hint": "",
@@ -743,6 +803,11 @@
 "album": "Black Rock",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Djo|End of Beginning": {
+"album": "DECIDE",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Don McLean|Vincent": {
 "album": "American Pie",
@@ -763,6 +828,11 @@
 "album": "Honey Bones",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Dua Lipa|Houdini": {
+"album": "Houdini - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Dua Lipa|Training Season": {
 "album": "Training Season - Single",
@@ -808,6 +878,11 @@
 "album": "The Best Of Earth, Wind & Fire Vol. 1",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Echo And The Bunnymen|The Killing Moon": {
+"album": "Songs to Learn and Sing",
+"film_hint": "",
+"genre": "Pop"
 },
 "Ed Maverick|lagunas": {
 "album": "",
@@ -974,6 +1049,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Fleetwood Mac|Go Your Own Way  (2004 Remaster)": {
+"album": "Rumours (Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Fleetwood Mac|That's All for Everyone": {
 "album": "Tusk (Remastered)",
 "film_hint": "",
@@ -1033,6 +1113,11 @@
 "album": "Getting Ready...",
 "film_hint": "",
 "genre": "Blues"
+},
+"Free|Wild Indian Woman": {
+"album": "Tons of Sobs (Bonus Track Version)",
+"film_hint": "",
+"genre": "Rock"
 },
 "G.Rag & die Landlergschwister|Odessa": {
 "album": "The Erdäpfelkaas - Single",
@@ -1289,6 +1374,16 @@
 "film_hint": "",
 "genre": "Indie Rock"
 },
+"Herbert Grönemeyer|Mensch": {
+"album": "I Walk",
+"film_hint": "",
+"genre": "Pop"
+},
+"Hiatus Kaiyote|By Fire": {
+"album": "Choose Your Weapon",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Hikaru Utada|First Love": {
 "album": "First Love - EP",
 "film_hint": "",
@@ -1318,6 +1413,11 @@
 "album": "Moanin' in the Moonlight",
 "film_hint": "",
 "genre": "Blues"
+},
+"Huey Lewis And The News|Hip To Be Square": {
+"album": "Greatest Hits (Remastered)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
@@ -1554,6 +1654,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Justice|D.A.N.C.E.": {
+"album": "Justice",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Kacey Musgraves|Deeper Well": {
 "album": "Deeper Well",
 "film_hint": "",
@@ -1604,6 +1709,11 @@
 "film_hint": "",
 "genre": "Delta Blues"
 },
+"Khalid|please don't call (333)": {
+"album": "after the sun goes down",
+"film_hint": "",
+"genre": "Pop"
+},
 "Khruangbin|A Calf Born In Winter": {
 "album": "A Calf Born in Winter - Single",
 "film_hint": "",
@@ -1629,6 +1739,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Kraftwerk|Trans-Europe Express  (2009 Remaster)": {
+"album": "Trans-Europe Express (2009 Remaster)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Kygo|Heaven On Your Mind": {
 "album": "Heaven On Your Mind (feat. Dan Tyminski) - Single",
 "film_hint": "",
@@ -1638,6 +1753,11 @@
 "album": "Light Years (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"LP|Lost on You": {
+"album": "Lost On You",
+"film_hint": "",
+"genre": "Alternative"
 },
 "La Rappresentante di Lista|Ciao Ciao": {
 "album": "Ciao Ciao - Single",
@@ -1738,6 +1858,11 @@
 "album": "The Mirror Pool",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Lita Ford & Ozzy Osborne|Close My Eyes Forever": {
+"album": "Lita",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Little Axe|Ride On (Fight On)": {
 "album": "The Wolf That House Built (Bonus Track Version)",
@@ -1994,6 +2119,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Men At Work|Down Under": {
+"album": "Business As Usual",
+"film_hint": "",
+"genre": "Rock"
+},
 "Men I Trust|Show Me How": {
 "album": "Show Me How - Single",
 "film_hint": "",
@@ -2144,6 +2274,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"New Found Glory|My Friends Over You": {
+"album": "Sticks and Stones",
+"film_hint": "",
+"genre": "Punk"
+},
 "New Order|True Faith": {
 "album": "Total",
 "film_hint": "",
@@ -2199,6 +2334,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Nusantara Beat|Sifat Manusia": {
+"album": "Sifat Manusia / Mang Becak - Single",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Nusrat Fateh Ali Khan|Longing": {
 "album": "Night Song (Real World Gold)",
 "film_hint": "",
@@ -2208,6 +2348,11 @@
 "album": "In Return",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Oasis|Live Forever": {
+"album": "Definitely Maybe",
+"film_hint": "",
+"genre": "Indie Rock"
 },
 "Olejniczak Janusz|Nocturne in C minor, Op. 48, No. 1": {
 "album": "The Pianist (Original Motion Picture Soundtrack)",
@@ -2314,6 +2459,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Pellek|Bohemian Rhapsody": {
+"album": "The Platinum Collection",
+"film_hint": "",
+"genre": "Rock"
+},
 "Perpetuum Jazzile|Africa": {
 "album": "Perpetuum Jazzile Africa",
 "film_hint": "",
@@ -2363,6 +2513,11 @@
 "album": "Stranger in the Alps",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Phoenix|Lisztomania": {
+"album": "Wolfgang Amadeus Phoenix",
+"film_hint": "",
+"genre": "Pop"
 },
 "Phosphorescent|Song for Zula": {
 "album": "Muchacho de Lujo (Deluxe Edition)",
@@ -2579,6 +2734,11 @@
 "film_hint": "",
 "genre": "Guitar"
 },
+"Roseanna Vitro|If I Didn't Have You (If I Didn't Have You)": {
+"album": "The Music of Randy Newman",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Roxette|The Look": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -2739,6 +2899,16 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Side-A|Only You (There Will Never Be Another)": {
+"album": "18 Greatest Hits: Side A",
+"film_hint": "",
+"genre": "Pop"
+},
+"Sigur Rós|Hoppípolla": {
+"album": "Takk...",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Silverchair|Anthem for the Year 2000 (Album Version)": {
 "album": "",
 "film_hint": "",
@@ -2794,10 +2964,20 @@
 "film_hint": "",
 "genre": ""
 },
+"Soda Stereo|En La Ciudad De La Furia (MTV Unplugged)": {
+"album": "MTV Unplugged: Comfort y Música para Volar",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Soft Cell|Tainted Love": {
 "album": "Tainted Love / Where Did Our Love Go - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Sophie Hunger|Le vent nous portera": {
+"album": "1983",
+"film_hint": "",
+"genre": "Rock"
 },
 "Sophie Hunger|Shape": {
 "album": "Monday's Ghost",
@@ -3004,6 +3184,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Talking Heads|This Must Be the Place (Naive Melody)  (2005 Remastered LP Version)": {
+"album": "The Best of Talking Heads (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Tame Impala|Is It True": {
+"album": "The Slow Rush",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Tammy Wynette|Stand By Your Man (Album Version)": {
 "album": "French Touch",
 "film_hint": "",
@@ -3084,6 +3274,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Rah Band|Clouds Across the Moon": {
+"album": "The Very Best Of...",
+"film_hint": "",
+"genre": "Jazz"
+},
 "The Smashing Pumpkins|1979": {
 "album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
 "film_hint": "",
@@ -3101,6 +3296,11 @@
 },
 "The Tragically Hip|Long Time Running": {
 "album": "Road Apples",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Vampire Lestat|La Fontaine De Sang": {
+"album": "The Failures",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3224,6 +3424,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Tomaso Albinoni|Adagio in G Minor": {
+"album": "The Immersive Experience",
+"film_hint": "",
+"genre": "Classical"
+},
+"Tomohisa Okudo|Always with Me": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Toni Braxton|Un-Break My Heart": {
 "album": "Ultimate Toni Braxton",
 "film_hint": "",
@@ -3236,6 +3446,11 @@
 },
 "Tori Amos|A Sorta Fairytale (2023 Remaster)": {
 "album": "Scarlet's Walk (2023 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Tori Amos|Winter": {
+"album": "A Tori Amos Collection - Tales of a Librarian",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3298,6 +3513,11 @@
 "album": "L'apocalypse des animaux (Remastered)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Various Interprets|Come Tomorrow (Duet With Barry Gibb (Album Version))": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Vaya Con Dios|Nah Neh Nah": {
 "album": "Night Owls",
@@ -3438,6 +3658,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"gesunokiwamiotome|watashi igai watashi ja naino": {
+"album": "Sukinaratowanai",
+"film_hint": "",
+"genre": "J-Pop"
 },
 "indigo la End|Haru No Iutoori": {
 "album": "Pulsate",

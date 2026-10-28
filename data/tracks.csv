@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Tomaso Albinoni,Adagio in G Minor,13,2026-10-28T10:09:31Z,Passport Please,Classical,The Immersive Experience,,https://music.apple.com/us/search?term=Tomaso+Albinoni+Adagio+in+G+Minor,Regal + Kurt
+Tomohisa Okudo,Always with Me,12,2026-10-28T10:05:06Z,Passport Please,,,,https://music.apple.com/us/search?term=Tomohisa+Okudo+Always+with+Me,Regal + Kurt
+Justice,D.A.N.C.E.,33,2026-10-28T10:00:59Z,Passport Please,Electronic,Justice,,https://music.apple.com/us/search?term=Justice+D.A.N.C.E.,Regal + Kurt
 Jungle,Busy Earnin',34,2026-10-28T09:57:55Z,Longing Look,Electronic,Jungle,,https://music.apple.com/us/album/busy-earnin/872853887?i=872853945,Regal + Kurt
 Falco,Vienna Calling,23,2026-10-28T09:53:40Z,Longing Look,Pop,Falco III,,https://music.apple.com/us/album/vienna-calling/289513035?i=289513270,Regal + Kurt
 Boney M.,Sunny,19,2026-10-28T09:49:35Z,Longing Look,R&B/Soul,Take the Heat Off Me,,https://music.apple.com/us/album/sunny/220385910?i=220385946,Regal + Kurt
@@ -692,48 +695,48 @@ Chet Baker,Almost Blue,50,2026-10-26T05:12:44Z,,Jazz,Plays and Sings,,,Kurt
 Billy Crystal,"If I Didn't Have You (From ""Monsters, Inc.""/Soundtrack Version)",10,2026-10-26T05:08:44Z,,Soundtrack,"Monsters, Inc. (Original Motion Picture Soundtrack)","Monsters, Inc. (Original Motion Picture Soundtrack)",,Kurt
 Sade,By Your Side  (Remastered Version),52,2026-10-26T05:04:14Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt
 Charles Lloyd & The Marvels,You Are So Beautiful,4,2026-10-26T04:58:14Z,,Jazz,I Long to See You,,,Kurt
-Men At Work,Down Under,6,2026-10-26T04:53:44Z,,,,,,Kurt
-Pellek,Bohemian Rhapsody,8,2026-10-26T04:48:14Z,,,,,,Kurt
-Echo And The Bunnymen,The Killing Moon,14,2026-10-26T04:42:14Z,,,,,,Kurt
-The Rah Band,Clouds Across the Moon,5,2026-10-26T04:35:19Z,,,,,,Kurt
-Free,Wild Indian Woman,13,2026-10-26T04:25:14Z,,,,,,Kurt
-Ashra,Sunrain,32,2026-10-26T04:18:14Z,,,,,,Kurt
-Ben E. King,Stand By Me,35,2026-10-26T04:15:14Z,,,,,,Kurt
-Herbert Grönemeyer,Mensch,6,2026-10-26T04:10:14Z,,,,,,Regal + Kurt
-Djo,End of Beginning,17,2026-10-26T04:07:44Z,,,,,,Kurt
-Roseanna Vitro,If I Didn't Have You (If I Didn't Have You),13,2026-10-26T04:01:14Z,,,,,,Kurt
-Bobby Hutcherson,Stardust,9,2026-10-26T03:52:44Z,,,,,,Kurt
-Tori Amos,Winter,13,2026-10-26T03:47:14Z,,,,,,Kurt
-Christopher Cross,I Really Don't Know Anymore  (2019 Remaster),11,2026-10-26T03:43:14Z,,,,,,Kurt
-gesunokiwamiotome,watashi igai watashi ja naino,9,2026-10-26T03:39:14Z,,,,,,Kurt
-Sophie Hunger,Le vent nous portera,22,2026-10-26T03:35:14Z,,,,,,Kurt
-Billy Joel,Vienna (Album Version),31,2026-10-26T03:31:44Z,,,,,,Kurt
-Oasis,Live Forever,11,2026-10-26T03:27:14Z,,,,,,Kurt
-Side-A,Only You (There Will Never Be Another),8,2026-10-26T03:22:44Z,,,,,,Kurt
-New Found Glory,My Friends Over You,5,2026-10-26T03:18:44Z,,,,,,Kurt
-Daikaiju,Magic Wanda,10,2026-10-26T03:11:14Z,,,,,,Kurt
-Nusantara Beat,Sifat Manusia,6,2026-10-26T03:05:14Z,,,,,,Kurt
+Men At Work,Down Under,6,2026-10-26T04:53:44Z,,Rock,Business As Usual,,,Kurt
+Pellek,Bohemian Rhapsody,8,2026-10-26T04:48:14Z,,Rock,The Platinum Collection,,,Kurt
+Echo And The Bunnymen,The Killing Moon,14,2026-10-26T04:42:14Z,,Pop,Songs to Learn and Sing,,,Kurt
+The Rah Band,Clouds Across the Moon,5,2026-10-26T04:35:19Z,,Jazz,The Very Best Of...,,,Kurt
+Free,Wild Indian Woman,13,2026-10-26T04:25:14Z,,Rock,Tons of Sobs (Bonus Track Version),,,Kurt
+Ashra,Sunrain,32,2026-10-26T04:18:14Z,,Rock,New Age of Earth,,,Kurt
+Ben E. King,Stand By Me,35,2026-10-26T04:15:14Z,,R&B/Soul,The Very Best of Ben E. King,,,Kurt
+Herbert Grönemeyer,Mensch,6,2026-10-26T04:10:14Z,,Pop,I Walk,,,Regal + Kurt
+Djo,End of Beginning,17,2026-10-26T04:07:44Z,,Alternative,DECIDE,,,Kurt
+Roseanna Vitro,If I Didn't Have You (If I Didn't Have You),13,2026-10-26T04:01:14Z,,Jazz,The Music of Randy Newman,,,Kurt
+Bobby Hutcherson,Stardust,9,2026-10-26T03:52:44Z,,Vocal,Stardust (Remastered) - Single,,,Kurt
+Tori Amos,Winter,13,2026-10-26T03:47:14Z,,Pop,A Tori Amos Collection - Tales of a Librarian,,,Kurt
+Christopher Cross,I Really Don't Know Anymore  (2019 Remaster),11,2026-10-26T03:43:14Z,,Adult Contemporary,Christopher Cross (2019 Remaster),,,Kurt
+gesunokiwamiotome,watashi igai watashi ja naino,9,2026-10-26T03:39:14Z,,J-Pop,Sukinaratowanai,,,Kurt
+Sophie Hunger,Le vent nous portera,22,2026-10-26T03:35:14Z,,Rock,1983,,,Kurt
+Billy Joel,Vienna (Album Version),31,2026-10-26T03:31:44Z,,Rock,The Stranger,,,Kurt
+Oasis,Live Forever,11,2026-10-26T03:27:14Z,,Indie Rock,Definitely Maybe,,,Kurt
+Side-A,Only You (There Will Never Be Another),8,2026-10-26T03:22:44Z,,Pop,18 Greatest Hits: Side A,,,Kurt
+New Found Glory,My Friends Over You,5,2026-10-26T03:18:44Z,,Punk,Sticks and Stones,,,Kurt
+Daikaiju,Magic Wanda,10,2026-10-26T03:11:14Z,,Rock,Phase 3,,,Kurt
+Nusantara Beat,Sifat Manusia,6,2026-10-26T03:05:14Z,,Worldwide,Sifat Manusia / Mang Becak - Single,,,Kurt
 Various Interprets,Come Tomorrow (Duet With Barry Gibb (Album Version)),6,2026-10-26T03:00:14Z,,,,,,Kurt
-Dua Lipa,Houdini,113,2026-10-26T02:57:14Z,,,,,,Kurt
-Blue Öyster Cult,(Don't Fear) The Reaper,12,2026-10-26T02:52:14Z,,,,,,Kurt
-Andrew W.K.,Party Hard (Album Version),9,2026-10-26T02:48:44Z,,,,,,Kurt
-Lita Ford & Ozzy Osborne,Close My Eyes Forever,7,2026-10-26T02:44:14Z,,,,,,Kurt
-Huey Lewis And The News,Hip To Be Square,15,2026-10-26T02:39:44Z,,,,,,Kurt
-LP,Lost on You,17,2026-10-26T02:35:14Z,,,,,,Kurt
-Adriano Celentano,Prisencolinensinainciusol,34,2026-10-26T02:31:44Z,,,,,,Kurt
-Breakestra,Back At The Boathouse,32,2026-10-26T02:28:44Z,,,,,,Kurt
-Talking Heads,This Must Be the Place (Naive Melody)  (2005 Remastered LP Version),58,2026-10-26T02:23:44Z,,,,,,Kurt
-ABBA,Don't Shut Me Down,13,2026-10-26T02:19:44Z,,,,,,Kurt
-Fleetwood Mac,Go Your Own Way  (2004 Remaster),50,2026-10-26T02:16:45Z,,,,,,Kurt
-Dire Straits,Sultans of Swing,77,2026-10-26T02:10:14Z,,,,,,Regal + Kurt
-Kraftwerk,Trans-Europe Express  (2009 Remaster),32,2026-10-26T02:04:14Z,,,,,,Kurt
-Khalid,please don't call (333),128,2026-10-26T02:01:44Z,,,,,,Kurt
-The Vampire Lestat,La Fontaine De Sang,3,2026-10-26T01:58:47Z,,,,,,Kurt
-Sigur Rós,Hoppípolla,82,2026-10-26T01:54:14Z,,,,,,Kurt
-Phoenix,Lisztomania,41,2026-10-26T01:50:14Z,,,,,,Kurt
-Hiatus Kaiyote,By Fire,127,2026-10-26T01:44:44Z,,,,,,Kurt
-Soda Stereo,En La Ciudad De La Furia (MTV Unplugged),20,2026-10-26T01:33:14Z,,,,,,Kurt
-Tame Impala,Is It True,16,2026-10-26T01:29:14Z,,,,,,Kurt
+Dua Lipa,Houdini,113,2026-10-26T02:57:14Z,,Pop,Houdini - Single,,,Kurt
+Blue Öyster Cult,(Don't Fear) The Reaper,12,2026-10-26T02:52:14Z,,Soundtrack,Larry the Cable Guy: Health Inspector (Music from the Motion Picture),Larry the Cable Guy: Health Inspector (Music from the Motion Picture),,Kurt
+Andrew W.K.,Party Hard (Album Version),9,2026-10-26T02:48:44Z,,Rock,I Get Wet,,,Kurt
+Lita Ford & Ozzy Osborne,Close My Eyes Forever,7,2026-10-26T02:44:14Z,,Hard Rock,Lita,,,Kurt
+Huey Lewis And The News,Hip To Be Square,15,2026-10-26T02:39:44Z,,Rock,Greatest Hits (Remastered),,,Kurt
+LP,Lost on You,17,2026-10-26T02:35:14Z,,Alternative,Lost On You,,,Kurt
+Adriano Celentano,Prisencolinensinainciusol,34,2026-10-26T02:31:44Z,,Pop,Nostalrock,,,Kurt
+Breakestra,Back At The Boathouse,32,2026-10-26T02:28:44Z,,Funk,Dusk Till Dawn,,,Kurt
+Talking Heads,This Must Be the Place (Naive Melody)  (2005 Remastered LP Version),58,2026-10-26T02:23:44Z,,Alternative,The Best of Talking Heads (Remastered),,,Kurt
+ABBA,Don't Shut Me Down,13,2026-10-26T02:19:44Z,,Pop,Voyage,,,Kurt
+Fleetwood Mac,Go Your Own Way  (2004 Remaster),50,2026-10-26T02:16:45Z,,Rock,Rumours (Super Deluxe Edition),,,Kurt
+Dire Straits,Sultans of Swing,77,2026-10-26T02:10:14Z,,Rock,Dire Straits,,,Regal + Kurt
+Kraftwerk,Trans-Europe Express  (2009 Remaster),32,2026-10-26T02:04:14Z,,Electronic,Trans-Europe Express (2009 Remaster),,,Kurt
+Khalid,please don't call (333),128,2026-10-26T02:01:44Z,,Pop,after the sun goes down,,,Kurt
+The Vampire Lestat,La Fontaine De Sang,3,2026-10-26T01:58:47Z,,Rock,The Failures,,,Kurt
+Sigur Rós,Hoppípolla,82,2026-10-26T01:54:14Z,,Alternative,Takk...,,,Kurt
+Phoenix,Lisztomania,41,2026-10-26T01:50:14Z,,Pop,Wolfgang Amadeus Phoenix,,,Kurt
+Hiatus Kaiyote,By Fire,127,2026-10-26T01:44:44Z,,Alternative,Choose Your Weapon,,,Kurt
+Soda Stereo,En La Ciudad De La Furia (MTV Unplugged),20,2026-10-26T01:33:14Z,,Rock y Alternativo,MTV Unplugged: Comfort y Música para Volar,,,Kurt
+Tame Impala,Is It True,16,2026-10-26T01:29:14Z,,Alternative,The Slow Rush,,,Kurt
 Os Mutantes,A Minha Menina,43,2026-10-26T01:24:14Z,,,,,,Kurt
 Scorpions,Holiday (Remastered 2015),9,2026-10-26T01:17:44Z,,,,,,Kurt
 Pink Floyd,Have a Cigar,16,2026-10-26T01:08:44Z,,,,,,Kurt
@@ -797,7 +800,6 @@ Lordi,Hard Rock Hallelujah,14,2026-10-25T20:02:43Z,,,,,,Kurt
 Bowling For Soup,1985,11,2026-10-25T19:59:43Z,,,,,,Kurt
 Tate McRae,TIT FOR TAT,6,2026-10-25T19:53:13Z,,,,,,Kurt
 Ed Sheeran,Beautiful People (feat. Khalid),72,2026-10-25T19:49:43Z,,,,,,Kurt
-Justice,D.A.N.C.E.,33,2026-10-25T19:39:43Z,,,,,,Kurt
 Paolo Conte,Via Con Me,19,2026-10-25T19:37:13Z,,,,,,Kurt
 Gotan Project,Santa María (del Buen Ayre),17,2026-10-25T19:31:13Z,,,,,,Kurt
 Melody Gardot,Perhaps You'll Wonder Why (The Paris Sessions),5,2026-10-25T19:13:13Z,,,,,,Kurt
@@ -825,7 +827,6 @@ Cesária Evora,Petit pays,14,2026-10-25T16:20:13Z,,,,,,Kurt
 Mercedes Sosa,Gracias a la Vida (En Vivo NY),58,2026-10-25T16:15:13Z,,,,,,Kurt
 Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,,,,,Kurt
 Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,,,,,Kurt
-Tomohisa Okudo,Always with Me,12,2026-10-25T15:45:43Z,,,,,,Kurt
 Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,,,,,Kurt
 Astor Piazzolla,Milonga Del Angel,29,2026-10-25T15:32:43Z,,,,,,Kurt
 Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,,,,,Kurt
@@ -1233,7 +1234,6 @@ Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,,,,,Kurt
 Guts,Laisser Lucie faire,8,2026-10-23T06:39:29Z,,,,,,Kurt
 The Orb,Earth (Gaia),27,2026-10-23T06:29:29Z,,,,,,Kurt
 Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),21,2026-10-23T06:22:59Z,,,,,,Kurt
-Tomaso Albinoni,Adagio in G Minor,13,2026-10-23T06:13:59Z,,,,,,Kurt
 Suzanne Ciani,Oceanium,77,2026-10-23T06:01:28Z,,,,,,Kurt
 Arvo Pärt,Spiegel im spiegel,87,2026-10-23T05:52:58Z,,,,,,Kurt
 Johnny Flynn,Detectorists (Original Soundtrack from the TV Series),1,2026-10-23T05:38:28Z,,,,,,Kurt
