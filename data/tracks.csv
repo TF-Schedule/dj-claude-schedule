@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),79,2026-10-28T14:12:53Z,Earth Beats,Worldwide,"Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",,https://music.apple.com/us/search?term=Mulatu+Astatqe+Y%C3%A8k%C3%A8rmo+S%C3%A8w+%28A+Man+of+Experience+and+Wisdom%29,Regal + Kurt
+Kraftwerk,Computer Love  (2009 Remaster),41,2026-10-28T14:05:26Z,Earth Beats,,,,https://music.apple.com/us/search?term=Kraftwerk+Computer+Love++%282009+Remaster%29,Regal + Kurt
+Men At Work,Overkill,14,2026-10-28T14:01:31Z,Earth Beats,Rock,Contraband: The Best of Men At Work,,https://music.apple.com/us/album/overkill/203772047?i=203776378,Regal + Kurt
 Tom Misch,It Runs Through Me (feat. De La Soul),47,2026-10-28T13:57:02Z,Velvet Vibe,Alternative,Geography,,https://music.apple.com/us/album/it-runs-through-me-feat-de-la-soul/1327772541?i=1327772855,Regal + Kurt
 Toto,Africa,90,2026-10-28T13:51:59Z,Velvet Vibe,Rock,Toto IV,,https://music.apple.com/us/album/africa/185716551?i=185717604,Regal + Kurt
 Zaz,Sous le ciel de Paris,2,2026-10-28T13:48:35Z,Velvet Vibe,Pop,Paris,,https://music.apple.com/us/album/sous-le-ciel-de-paris/916979258?i=916979382,Regal + Kurt
@@ -986,7 +989,6 @@ Miley Cyrus,Party In The U.S.A.,8,2026-10-24T21:54:12Z,,Pop,Party In the U.S.A. 
 Beenie Man,Feel It Boy,12,2026-10-24T21:50:42Z,,Worldwide,Tropical Storm,,,Kurt
 Dara,Bangaranga,10,2026-10-24T21:47:42Z,,Dance,Bangaranga - Single,,,Kurt
 ByeAlex,Kedvesem  (Original),15,2026-10-24T21:44:12Z,,,,,,Kurt
-Men At Work,Overkill,14,2026-10-24T21:36:42Z,,Rock,Contraband: The Best of Men At Work,,,Kurt
 Chappell Roan,"Good Luck, Babe!",75,2026-10-24T21:33:12Z,,Pop,"Good Luck, Babe! - Single",,,Kurt
 Bernard Purdie,Cool Down,22,2026-10-24T21:29:12Z,,Funk,Bernard Purdie & Friends Present: Cool Down,,,Kurt
 Edwin Starr,War,18,2026-10-24T21:18:12Z,,R&B/Soul,20th Century Masters - The Millennium Collection: The Best of Edwin Starr,,,Kurt
@@ -1345,7 +1347,6 @@ Donny Hathaway,A Song for You,144,2026-10-22T17:05:50Z,,R&B/Soul,Donny Hathaway,
 Marvin Gaye,Wholy Holy,18,2026-10-22T17:02:50Z,,R&B/Soul,What's Going On,,,Kurt
 Tabu,Dobra Vila,1,2026-10-22T16:58:51Z,,Pop,Tabu,,,Kurt
 Ludovico Einaudi,Einaudi: Canzone Africana IV,5,2026-10-22T16:51:20Z,,Classical,I Giorni,,,Kurt
-Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),79,2026-10-22T16:46:51Z,,Worldwide,"Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",,,Kurt
 Antonio Carlos Jobim,Wave,93,2026-10-22T16:31:20Z,,Jazz,Wave,,,Kurt
 Joe Hisaishi,Innocent (from 'Castle in the Sky'),29,2026-10-22T16:17:50Z,,Original Score,Castle in the Sky (Original Soundtrack),Castle in the Sky (Original Soundtrack),,Kurt
 Björk,Venus As A Boy (Live),13,2026-10-22T16:07:20Z,,Pop,Debut,,,Kurt
@@ -1435,7 +1436,6 @@ Daft Punk,"Harder, Better, Faster, Stronger",50,2026-10-22T00:31:17Z,,Dance,Daft
 Bonobo,Kiara,103,2026-10-22T00:27:17Z,,Electronic,Black Sands,,,Kurt
 Gorillaz,Pac-Man (feat. ScHoolboy Q),6,2026-10-22T00:14:47Z,,Hip-Hop/Rap,"Flesh of My Flesh, Blood of My Blood",,,Kurt
 Massive Attack,Angel,60,2026-10-22T00:00:47Z,,Electronic,Mezzanine,,,Kurt
-Kraftwerk,Computer Love  (2009 Remaster),41,2026-10-21T23:43:17Z,,,,,,Kurt
 Soundgarden,Fell On Black Days (Album Version),3,2026-10-21T22:32:16Z,,Hard Rock,Superunknown (20th Anniversary),,,Kurt
 Jerry Cantrell,Would? (2022 Remaster),10,2026-10-21T22:28:46Z,,Alternative,Dirt (Remastered),,,Kurt
 Tom Petty & The Heartbreakers,American Girl,32,2026-10-21T22:17:46Z,,Rock,Tom Petty And The Heartbreakers,,,Kurt
@@ -1456,51 +1456,51 @@ Stevie Wonder,I Wish,23,2026-10-21T20:17:46Z,,R&B/Soul,Songs in the Key of Life,
 David Bowie,Dancing in the Street (2002 Remaster),7,2026-10-21T20:00:17Z,,Pop,Let's Dance (2018 Remaster),,,Kurt
 Booker T. & The M.G.'s,Time Is Tight  (Live),14,2026-10-21T19:49:48Z,,Pop,The Best of Booker T. & the MGs (Remastered),,,Kurt
 Michael Bublé,Crazy (with Jon Batiste & Stay Human)  (Live),11,2026-10-21T19:42:48Z,,Pop,Crazy (with Jon Batiste & Stay Human) [Live] - Single,,,Kurt
-Hozier,Cherry Wine  (Live),51,2026-10-21T19:38:48Z,,,,,,Kurt
-Paco de Lucía,Mediterranean sundance - Di Meola: Mediterranean sundance,20,2026-10-21T19:22:47Z,,,,,,Kurt
-"10,000 Maniacs",Like the Weather,6,2026-10-21T18:57:49Z,,,,,,Kurt
-Paul McCartney,Maybe I’m Amazed (2011 Remaster),21,2026-10-21T18:53:47Z,,,,,,Kurt
-Sting,If You Love Somebody Set Them Free (Single Edit),4,2026-10-21T18:49:19Z,,,,,,Kurt
-Santana,Maria Maria,11,2026-10-21T18:44:46Z,,,,,,Kurt
-Fugazi,Waiting Room,11,2026-10-21T18:41:47Z,,,,,,Kurt
-Gorillaz,"Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",18,2026-10-21T18:38:16Z,,,,,,Kurt
-Ricchi E Poveri,Sarà perché ti amo,5,2026-10-21T18:35:18Z,,,,,,Kurt
-Pink Floyd,Breathe (In the Air),8,2026-10-21T18:32:18Z,,,,,,Kurt
-Fugees,Killing Me Softly,17,2026-10-21T18:28:49Z,,,,,,Kurt
-Sister Rosetta Tharpe,Up Above My Head There's Music In The Air,20,2026-10-21T18:13:46Z,,,,,,Kurt
-Björk,Hyperballad,25,2026-10-21T17:31:17Z,,,,,,Kurt
-Daft Punk,Around the World,38,2026-10-21T17:19:46Z,,,,,,Kurt
+Hozier,Cherry Wine  (Live),51,2026-10-21T19:38:48Z,,Alternative,Hozier (Expanded Edition),,,Kurt
+Paco de Lucía,Mediterranean sundance - Di Meola: Mediterranean sundance,20,2026-10-21T19:22:47Z,,Classical,Pavarotti & Friends for War Child,,,Kurt
+"10,000 Maniacs",Like the Weather,6,2026-10-21T18:57:49Z,,Alternative,In My Tribe,,,Kurt
+Paul McCartney,Maybe I’m Amazed (2011 Remaster),21,2026-10-21T18:53:47Z,,Rock,McCartney (Archive Collection Special Edition) [2011 Remaster],,,Kurt
+Sting,If You Love Somebody Set Them Free (Single Edit),4,2026-10-21T18:49:19Z,,Pop,The Dream Of The Blue Turtles (Expanded Edition),,,Kurt
+Santana,Maria Maria,11,2026-10-21T18:44:46Z,,Rock,Supernatural (Remastered) [Bonus Track Version],,,Kurt
+Fugazi,Waiting Room,11,2026-10-21T18:41:47Z,,Alternative,13 Songs,,,Kurt
+Gorillaz,"Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",18,2026-10-21T18:38:16Z,,Alternative,The Mountain,,,Kurt
+Ricchi E Poveri,Sarà perché ti amo,5,2026-10-21T18:35:18Z,,Pop,Nur das Beste: Ricchi e Poveri,,,Kurt
+Pink Floyd,Breathe (In the Air),8,2026-10-21T18:32:18Z,,Rock,The Dark Side of the Moon,,,Kurt
+Fugees,Killing Me Softly,17,2026-10-21T18:28:49Z,,Pop,The Score,,,Kurt
+Sister Rosetta Tharpe,Up Above My Head There's Music In The Air,20,2026-10-21T18:13:46Z,,Christian,Gospel Train,,,Kurt
+Björk,Hyperballad,25,2026-10-21T17:31:17Z,,Electronic,Björk's Greatest Hits,,,Kurt
+Daft Punk,Around the World,38,2026-10-21T17:19:46Z,,Dance,Homework,,,Kurt
 Ideal,Blaue Augen,10,2026-10-21T16:55:16Z,,,,,,Kurt
-Azawi,Make a Wish,30,2026-10-21T16:53:17Z,,,,,,Kurt
-Lil Jon,Get Low [Explicit],81,2026-10-21T16:43:16Z,,,,,,Kurt
-Olivia Rodrigo,the cure,1,2026-10-21T16:38:16Z,,,,,,Kurt
-The Magnetic Fields,Absolutely Cuckoo,4,2026-10-21T16:36:46Z,,,,,,Kurt
-David Bowie,Let's Dance  (2018 Remaster),25,2026-10-21T16:28:46Z,,,,,,Kurt
-Peeping Tom,Your Neighborhood Spaceman,2,2026-10-21T16:19:46Z,,,,,,Kurt
-Igor Levit,"Piano Sonata No. 17 in D minor, Op. 31, No. 2, ""Tempest"" - III. Allegretto",2,2026-10-21T16:13:46Z,,,,,,Kurt
-Girls' Generation,Gee,16,2026-10-21T16:10:16Z,,,,,,Kurt
-Alison Krauss,Down To The River To Pray (Live),7,2026-10-21T15:53:16Z,,,,,,Kurt
-Aretha Franklin,I Say a Little Prayer,50,2026-10-21T15:49:16Z,,,,,,Kurt
-The Hollyridge Strings,Yesterday,16,2026-10-21T15:19:46Z,,,,,,Kurt
-Serge Clivio,Your Love Is King,11,2026-10-21T15:15:46Z,,,,,,Kurt
-Perrie,Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge),5,2026-10-21T15:11:16Z,,,,,,Kurt
-U2,All Along The Watchtower (Live - Rattle & Hum Version),3,2026-10-21T15:02:46Z,,,,,,Kurt
-Bikini Kill,Rebel Girl,10,2026-10-21T15:00:16Z,,,,,,Kurt
-Leonard Cohen,Famous Blue Raincoat,38,2026-10-21T14:49:46Z,,,,,,Kurt
-Matt Nathanson,Faster,4,2026-10-21T14:38:16Z,,,,,,Kurt
-My Chemical Romance,I'm Not Okay (I Promise),9,2026-10-21T14:34:45Z,,,,,,Kurt
-Stevie Wonder,Isn't She Lovely,21,2026-10-21T14:00:17Z,,,,,,Kurt
-The Doors,Riders on the Storm,4,2026-10-21T13:52:15Z,,,,,,Kurt
-Eluvium,Taken,42,2026-10-21T11:43:45Z,,,,,,Kurt
-Brian Eno,The Big Ship (2004 Remaster),17,2026-10-21T10:53:15Z,,,,,,Kurt
-Leonard Cohen,Suzanne,51,2026-10-21T10:12:45Z,,,,,,Kurt
-Floating Points,Last Bloom,91,2026-10-21T09:56:15Z,,,,,,Kurt
-Cognitron,Low Frequency Thunderstorm Shield,5,2026-10-21T06:17:45Z,,,,,,Kurt
-Alvin Lucier,I Am Sitting in a Room,8,2026-10-21T05:59:14Z,,,,,,Kurt
-Portishead,Roads,56,2026-10-21T05:40:14Z,,,,,,Kurt
-Brian Eno,Deep Blue Day (Remastered 2019),77,2026-10-21T05:36:45Z,,,,,,Kurt
-Talk Talk,New Grass,25,2026-10-21T05:19:15Z,,,,,,Kurt
-Nils Frahm,Familiar,124,2026-10-21T05:13:45Z,,,,,,Kurt
+Azawi,Make a Wish,30,2026-10-21T16:53:17Z,,Pop,make a wish (sped-up & slowed + reverb) [feat. Ayesha Erotica] - Single,,,Kurt
+Lil Jon,Get Low [Explicit],81,2026-10-21T16:43:16Z,,Hip-Hop/Rap,Kings of Crunk,,,Kurt
+Olivia Rodrigo,the cure,1,2026-10-21T16:38:16Z,,Pop,you seem pretty sad for a girl so in love,,,Kurt
+The Magnetic Fields,Absolutely Cuckoo,4,2026-10-21T16:36:46Z,,Rock,69 Love Songs,,,Kurt
+David Bowie,Let's Dance  (2018 Remaster),25,2026-10-21T16:28:46Z,,Pop,Let's Dance (2018 Remaster),,,Kurt
+Peeping Tom,Your Neighborhood Spaceman,2,2026-10-21T16:19:46Z,,Rock,Peeping Tom,,,Kurt
+Igor Levit,"Piano Sonata No. 17 in D minor, Op. 31, No. 2, ""Tempest"" - III. Allegretto",2,2026-10-21T16:13:46Z,,Classical,Beethoven: Complete Piano Sonatas,,,Kurt
+Girls' Generation,Gee,16,2026-10-21T16:10:16Z,,K-Pop,Gee - EP,,,Kurt
+Alison Krauss,Down To The River To Pray (Live),7,2026-10-21T15:53:16Z,,Country,"O Brother, Where Art Thou? (Music from the Motion Picture)","O Brother, Where Art Thou? (Music from the Motion Picture)",,Kurt
+Aretha Franklin,I Say a Little Prayer,50,2026-10-21T15:49:16Z,,R&B/Soul,Aretha Now,,,Kurt
+The Hollyridge Strings,Yesterday,16,2026-10-21T15:19:46Z,,Easy Listening,The Best Of The Beatles Songbook,,,Kurt
+Serge Clivio,Your Love Is King,11,2026-10-21T15:15:46Z,,Pop,SERGE AND FRIENDS (Vol. 1-3): The Recording Sessions,,,Kurt
+Perrie,Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge),5,2026-10-21T15:11:16Z,,Pop,BBC Radio 1 Live Lounge Session - Single,,,Kurt
+U2,All Along The Watchtower (Live - Rattle & Hum Version),3,2026-10-21T15:02:46Z,,Rock,Rattle and Hum,,,Kurt
+Bikini Kill,Rebel Girl,10,2026-10-21T15:00:16Z,,Alternative,The Punk Singer (Original Motion Picture Soundtrack),The Punk Singer (Original Motion Picture Soundtrack),,Kurt
+Leonard Cohen,Famous Blue Raincoat,38,2026-10-21T14:49:46Z,,Folk,Songs of Love and Hate,,,Kurt
+Matt Nathanson,Faster,4,2026-10-21T14:38:16Z,,Singer/Songwriter,Modern Love,,,Kurt
+My Chemical Romance,I'm Not Okay (I Promise),9,2026-10-21T14:34:45Z,,Alternative,May Death Never Stop You,,,Kurt
+Stevie Wonder,Isn't She Lovely,21,2026-10-21T14:00:17Z,,R&B/Soul,Songs in the Key of Life,,,Kurt
+The Doors,Riders on the Storm,4,2026-10-21T13:52:15Z,,Rock,The Very Best of the Doors,,,Kurt
+Eluvium,Taken,42,2026-10-21T11:43:45Z,,Electronic,Talk Amongst the Trees,,,Kurt
+Brian Eno,The Big Ship (2004 Remaster),17,2026-10-21T10:53:15Z,,Rock,Here Come the Warm Jets,,,Kurt
+Leonard Cohen,Suzanne,51,2026-10-21T10:12:45Z,,Singer/Songwriter,The Essential Leonard Cohen,,,Kurt
+Floating Points,Last Bloom,91,2026-10-21T09:56:15Z,,Electronic,Crush,,,Kurt
+Cognitron,Low Frequency Thunderstorm Shield,5,2026-10-21T06:17:45Z,,New Age,Seperation Anxiety Relief for Dogs (Calming Frequencies) - Single,,,Kurt
+Alvin Lucier,I Am Sitting in a Room,8,2026-10-21T05:59:14Z,,Classical,I am sitting in a room,,,Kurt
+Portishead,Roads,56,2026-10-21T05:40:14Z,,Electronic,Dummy,,,Kurt
+Brian Eno,Deep Blue Day (Remastered 2019),77,2026-10-21T05:36:45Z,,Electronic,Eno: A Rather Deep Level - EP,,,Kurt
+Talk Talk,New Grass,25,2026-10-21T05:19:15Z,,Rock,Laughing Stock,,,Kurt
+Nils Frahm,Familiar,124,2026-10-21T05:13:45Z,,Ambient,Felt,,,Kurt
 Joe Hisaishi,Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea'),6,2026-10-21T05:08:14Z,,,,,,Kurt
 Beatrice Rana,"Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro",3,2026-10-21T04:56:14Z,,,,,,Kurt
 Bulgarian State Television Female Choir,"Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House)",12,2026-10-21T04:54:45Z,,,,,,Kurt

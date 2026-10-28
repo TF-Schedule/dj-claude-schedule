@@ -9,6 +9,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"10,000 Maniacs|Like the Weather": {
+"album": "In My Tribe",
+"film_hint": "",
+"genre": "Alternative"
+},
 "9MUSES|Dolls": {
 "album": "Dolls - EP",
 "film_hint": "",
@@ -229,10 +234,20 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Alison Krauss|Down To The River To Pray (Live)": {
+"album": "O Brother, Where Art Thou? (Music from the Motion Picture)",
+"film_hint": "O Brother, Where Art Thou? (Music from the Motion Picture)",
+"genre": "Country"
+},
 "Almendra|Plegaria para un Niño Dormido": {
 "album": "Almendra (50 Años)",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Alvin Lucier|I Am Sitting in a Room": {
+"album": "I am sitting in a room",
+"film_hint": "",
+"genre": "Classical"
 },
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
@@ -399,6 +414,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Aretha Franklin|I Say a Little Prayer": {
+"album": "Aretha Now",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Aretha Franklin|Rock Steady (Album Version)": {
 "album": "Young, Gifted and Black",
 "film_hint": "",
@@ -458,6 +478,11 @@
 "album": "Portals of Grace",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Azawi|Make a Wish": {
+"album": "make a wish (sped-up & slowed + reverb) [feat. Ayesha Erotica] - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "B.B. King|The Thrill Is Gone": {
 "album": "Completely Well",
@@ -674,6 +699,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bikini Kill|Rebel Girl": {
+"album": "The Punk Singer (Original Motion Picture Soundtrack)",
+"film_hint": "The Punk Singer (Original Motion Picture Soundtrack)",
+"genre": "Alternative"
+},
 "Bill Callahan|Riding For The Feeling": {
 "album": "Apocalypse",
 "film_hint": "",
@@ -743,6 +773,11 @@
 "album": "Post",
 "film_hint": "",
 "genre": "Pop"
+},
+"Björk|Hyperballad": {
+"album": "Björk's Greatest Hits",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Björk|I’ve Seen It All": {
 "album": "Selmasongs (Music from the Motion Picture \"Dancer In the Dark\")",
@@ -1004,6 +1039,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Brian Eno|Deep Blue Day (Remastered 2019)": {
+"album": "Eno: A Rather Deep Level - EP",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Brian Eno|Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004)": {
 "album": "",
 "film_hint": "",
@@ -1013,6 +1053,11 @@
 "album": "Wrong Way Up [Expanded Edition]",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Brian Eno|The Big Ship (2004 Remaster)": {
+"album": "Here Come the Warm Jets",
+"film_hint": "",
+"genre": "Rock"
 },
 "Brijean|Counting Sheep": {
 "album": "Macro",
@@ -1414,6 +1459,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Cognitron|Low Frequency Thunderstorm Shield": {
+"album": "Seperation Anxiety Relief for Dogs (Calming Frequencies) - Single",
+"film_hint": "",
+"genre": "New Age"
+},
 "Colbie Caillat|Try": {
 "album": "Gypsy Heart",
 "film_hint": "",
@@ -1544,6 +1594,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Daft Punk|Around the World": {
+"album": "Homework",
+"film_hint": "",
+"genre": "Dance"
+},
 "Daft Punk|Face to Face": {
 "album": "Discovery",
 "film_hint": "",
@@ -1625,6 +1680,11 @@
 "genre": "Country"
 },
 "David Bowie|Dancing in the Street (2002 Remaster)": {
+"album": "Let's Dance (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
+"David Bowie|Let's Dance  (2018 Remaster)": {
 "album": "Let's Dance (2018 Remaster)",
 "film_hint": "",
 "genre": "Pop"
@@ -2049,6 +2109,11 @@
 "film_hint": "",
 "genre": "IDM/Experimental"
 },
+"Eluvium|Taken": {
+"album": "Talk Amongst the Trees",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Elvis Costello|Almost Blue": {
 "album": "Imperial Bedroom",
 "film_hint": "",
@@ -2294,6 +2359,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Floating Points|Last Bloom": {
+"album": "Crush",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Floating Points|LesAlpx": {
 "album": "Crush",
 "film_hint": "",
@@ -2373,6 +2443,16 @@
 "album": "Disconnected - EP",
 "film_hint": "",
 "genre": "Rock"
+},
+"Fugazi|Waiting Room": {
+"album": "13 Songs",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Fugees|Killing Me Softly": {
+"album": "The Score",
+"film_hint": "",
+"genre": "Pop"
 },
 "G.Rag & die Landlergschwister|Odessa": {
 "album": "The Erdäpfelkaas - Single",
@@ -2474,6 +2554,11 @@
 "film_hint": "",
 "genre": "Latin"
 },
+"Girls' Generation|Gee": {
+"album": "Gee - EP",
+"film_hint": "",
+"genre": "K-Pop"
+},
 "Glasperlenspiel|Nie vergessen": {
 "album": "",
 "film_hint": "",
@@ -2556,6 +2641,11 @@
 },
 "Gorillaz|Hong Kong": {
 "album": "D-Sides",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Gorillaz|Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)": {
+"album": "The Mountain",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2899,6 +2989,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"Hozier|Cherry Wine  (Live)": {
+"album": "Hozier (Expanded Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Hozier|From Eden": {
 "album": "Hozier (Expanded Edition)",
 "film_hint": "",
@@ -2949,7 +3044,17 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Ideal|Blaue Augen": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Igor Levit|Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\" - I. Adagio sostenuto": {
+"album": "Beethoven: Complete Piano Sonatas",
+"film_hint": "",
+"genre": "Classical"
+},
+"Igor Levit|Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto": {
 "album": "Beethoven: Complete Piano Sonatas",
 "film_hint": "",
 "genre": "Classical"
@@ -3739,10 +3844,20 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Leonard Cohen|Famous Blue Raincoat": {
+"album": "Songs of Love and Hate",
+"film_hint": "",
+"genre": "Folk"
+},
 "Leonard Cohen|So Long, Marianne": {
 "album": "Live In London",
 "film_hint": "",
 "genre": "Rock"
+},
+"Leonard Cohen|Suzanne": {
+"album": "The Essential Leonard Cohen",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "Lester Flatt, Earl Scruggs|Foggy Mountain Breakdown": {
 "album": "20th Century Masters: The Millennium Collection: Best Of Flatt & Scruggs",
@@ -3763,6 +3878,11 @@
 "album": "Blood",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Lil Jon|Get Low [Explicit]": {
+"album": "Kings of Crunk",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Limp Bizkit|Rollin' (Air Raid Vehicle)": {
 "album": "Chocolate Starfish and the Hot Dog Flavored Water",
@@ -4189,6 +4309,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Matt Nathanson|Faster": {
+"album": "Modern Love",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Mavis Staples|We're Gonna Make It": {
 "album": "You Are Not Alone",
 "film_hint": "",
@@ -4499,6 +4624,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"My Chemical Romance|I'm Not Okay (I Promise)": {
+"album": "May Death Never Stop You",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Måneskin|Torna a casa": {
 "album": "Il ballo della vita",
 "film_hint": "",
@@ -4639,6 +4769,11 @@
 "film_hint": "",
 "genre": "Ambient"
 },
+"Nils Frahm|Familiar": {
+"album": "Felt",
+"film_hint": "",
+"genre": "Ambient"
+},
 "Nils Frahm|Says": {
 "album": "Spaces (Special Edition)",
 "film_hint": "",
@@ -4734,6 +4869,11 @@
 "film_hint": "The Pianist (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
 },
+"Olivia Rodrigo|the cure": {
+"album": "you seem pretty sad for a girl so in love",
+"film_hint": "",
+"genre": "Pop"
+},
 "Olivia Rodrigo|vampire": {
 "album": "GUTS (spilled)",
 "film_hint": "",
@@ -4783,6 +4923,11 @@
 "album": "Entre Dos Aguas",
 "film_hint": "",
 "genre": "Latin"
+},
+"Paco de Lucía|Mediterranean sundance - Di Meola: Mediterranean sundance": {
+"album": "Pavarotti & Friends for War Child",
+"film_hint": "",
+"genre": "Classical"
 },
 "Pages|If I Saw You Again (Album Version)": {
 "album": "Destiny Fulfilled",
@@ -4874,6 +5019,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Paul McCartney|Maybe I’m Amazed (2011 Remaster)": {
+"album": "McCartney (Archive Collection Special Edition) [2011 Remaster]",
+"film_hint": "",
+"genre": "Rock"
+},
 "Paul McCartney|Monkberry Moon Delight (2012 Remaster)": {
 "album": "Thrillington (2012 Remaster)",
 "film_hint": "",
@@ -4914,6 +5064,11 @@
 "film_hint": "",
 "genre": "Música Mexicana"
 },
+"Peeping Tom|Your Neighborhood Spaceman": {
+"album": "Peeping Tom",
+"film_hint": "",
+"genre": "Rock"
+},
 "Pellek|Bohemian Rhapsody": {
 "album": "The Platinum Collection",
 "film_hint": "",
@@ -4928,6 +5083,11 @@
 "album": "Perpetuum Jazzile Africa",
 "film_hint": "",
 "genre": "Easy Listening"
+},
+"Perrie|Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)": {
+"album": "BBC Radio 1 Live Lounge Session - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Pet Shop Boys|West End Girls  (2001 Remaster)": {
 "album": "Please: Further Listening 1984-1986 (Deluxe Edition) [2018 Remaster]",
@@ -5009,6 +5169,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Pink Floyd|Breathe (In the Air)": {
+"album": "The Dark Side of the Moon",
+"film_hint": "",
+"genre": "Rock"
+},
 "Pink Floyd|Coming Back to Life": {
 "album": "The Division Bell",
 "film_hint": "",
@@ -5075,6 +5240,11 @@
 "genre": "Electronic"
 },
 "Portishead|It Could Be Sweet": {
+"album": "Dummy",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Portishead|Roads": {
 "album": "Dummy",
 "film_hint": "",
 "genre": "Electronic"
@@ -5303,6 +5473,11 @@
 "album": "Woman",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Ricchi E Poveri|Sarà perché ti amo": {
+"album": "Nur das Beste: Ricchi e Poveri",
+"film_hint": "",
+"genre": "Pop"
 },
 "Rick Astley|Never Gonna Give You Up": {
 "album": "Whenever You Need Somebody",
@@ -5534,6 +5709,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Santana|Maria Maria": {
+"album": "Supernatural (Remastered) [Bonus Track Version]",
+"film_hint": "",
+"genre": "Rock"
+},
 "Santana|Oye Como Va": {
 "album": "Abraxas",
 "film_hint": "",
@@ -5598,6 +5778,11 @@
 "album": "Live in São Paulo (2022 Remaster)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Serge Clivio|Your Love Is King": {
+"album": "SERGE AND FRIENDS (Vol. 1-3): The Recording Sessions",
+"film_hint": "",
+"genre": "Pop"
 },
 "Sergio Mendes|Berimbau/Consolacao (Album Version)": {
 "album": "Timeless",
@@ -5718,6 +5903,11 @@
 "album": "Ju Ju (Remastered)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Sister Rosetta Tharpe|Up Above My Head There's Music In The Air": {
+"album": "Gospel Train",
+"film_hint": "",
+"genre": "Christian"
 },
 "Sister Sledge|Lost in Music (1995 Remaster) (LP Version)": {
 "album": "",
@@ -5939,6 +6129,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Stevie Wonder|Isn't She Lovely": {
+"album": "Songs in the Key of Life",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Stevie Wonder|Living For The City (Album Version)": {
 "album": "Innervisions",
 "film_hint": "",
@@ -5978,6 +6173,11 @@
 "album": "...Nothing Like the Sun",
 "film_hint": "",
 "genre": "Rock"
+},
+"Sting|If You Love Somebody Set Them Free (Single Edit)": {
+"album": "The Dream Of The Blue Turtles (Expanded Edition)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Styx|Mr. Roboto": {
 "album": "Greatest Hits",
@@ -6136,6 +6336,11 @@
 },
 "Talk Talk|Life's What You Make It  (1997 Remaster)": {
 "album": "The Colour of Spring",
+"film_hint": "",
+"genre": "Rock"
+},
+"Talk Talk|New Grass": {
+"album": "Laughing Stock",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6384,6 +6589,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"The Doors|Riders on the Storm": {
+"album": "The Very Best of the Doors",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Doors|Spanish Caravan": {
 "album": "The Very Best of the Doors",
 "film_hint": "",
@@ -6403,6 +6613,11 @@
 "album": "The Head And The Heart",
 "film_hint": "",
 "genre": "Alternative"
+},
+"The Hollyridge Strings|Yesterday": {
+"album": "The Best Of The Beatles Songbook",
+"film_hint": "",
+"genre": "Easy Listening"
 },
 "The Hu|Yuve Yuve Yu": {
 "album": "The Gereg (Deluxe Edition)",
@@ -6448,6 +6663,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"The Magnetic Fields|Absolutely Cuckoo": {
+"album": "69 Love Songs",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Magnetic Fields|Born on a Train": {
 "album": "The Charm of the Highway Strip",
@@ -6963,6 +7183,11 @@
 "album": "DON'T TAP THE GLASS",
 "film_hint": "",
 "genre": "Rap"
+},
+"U2|All Along The Watchtower (Live - Rattle & Hum Version)": {
+"album": "Rattle and Hum",
+"film_hint": "",
+"genre": "Rock"
 },
 "U2|Beautiful Day (Remastered 2020)": {
 "album": "Beautiful Day (Remastered 2024) - EP",
