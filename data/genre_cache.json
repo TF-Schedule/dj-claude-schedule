@@ -1,4 +1,9 @@
 {
+"ABBA|I Wonder (Departure)": {
+"album": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
+"film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
+"genre": "Soundtrack"
+},
 "Aaliyah|If Your Girl Only Knew": {
 "album": "One In A Million",
 "film_hint": "",
@@ -53,6 +58,11 @@
 "album": "Getz/Gilberto (Expanded Edition)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Aphex Twin|Rhubarb Orc. 19.53 Rev": {
+"album": "Selected Ambient Works Volume II (Expanded Edition)",
+"film_hint": "",
+"genre": "Ambient"
 },
 "Aphex Twin|Xtal": {
 "album": "Selected Ambient Works 85-92",
@@ -189,6 +199,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Carbon Based Lifeforms|Photosynthesis": {
+"album": "World of Sleepers",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Carlos Gardel|Por una Cabeza": {
 "album": "Lo Mejor de Carlos Gardel",
 "film_hint": "",
@@ -198,6 +213,16 @@
 "album": "Tapestry",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Cesária Evora|Sodade": {
+"album": "Anthologie / Mornas & Coladeras",
+"film_hint": "",
+"genre": "Worldwide"
+},
+"Charles Lloyd|You Are So Beautiful": {
+"album": "I Long to See You",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Chet Atkins|Why Worry (Album Version)": {
 "album": "Sails",
@@ -209,8 +234,18 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Christopher Cross|Sailing": {
+"album": "Christopher Cross (2019 Remaster)",
+"film_hint": "",
+"genre": "Adult Contemporary"
+},
 "Cigarettes After Sex|Nothing's Gonna Hurt You Baby": {
 "album": "I. - EP",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Cocteau Twins|Whales Tails": {
+"album": "Victorialand",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -269,10 +304,20 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Donna De Lory|Praying For Love": {
+"album": "The Unchanging",
+"film_hint": "",
+"genre": "Pop"
+},
 "Dope Lemon|Honey Bones": {
 "album": "Honey Bones",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Duran Duran|Notorious  (2010 Remaster)": {
+"album": "Notorious - EP",
+"film_hint": "",
+"genre": "Pop"
 },
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
@@ -309,6 +354,16 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Ennio Morricone|The Ecstasy of Gold": {
+"album": "The Good, The Bad & The Ugly (Expanded Edition) [Original Motion Picture Soundtrack]",
+"film_hint": "The Good, The Bad & The Ugly (Expanded Edition) [Original Motion Picture Soundtrack]",
+"genre": "Original Score"
+},
+"Erykah Badu|Bag Lady (Album Version)": {
+"album": "Motown: The Complete No. 1's",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Fabrizio De Andrè|Bocca di rosa": {
 "album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
 "film_hint": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
@@ -334,6 +389,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Foster The People|Sit Next to Me": {
+"album": "Sacred Hearts Club",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Four Tet|Two Thousand and Seventeen": {
 "album": "New Energy",
 "film_hint": "",
@@ -348,6 +408,11 @@
 "album": "Nothing But the Best (Remastered)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Fraunhofer Diffraction|Kvrt in Space": {
+"album": "Scattering",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Freddie King|Going Down": {
 "album": "Getting Ready...",
@@ -369,10 +434,20 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Geoffrey Oryema|Solitude": {
+"album": "Exile (Real World Gold)",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Gerry Rafferty|Right Down the Line": {
 "album": "City to City",
 "film_hint": "",
 "genre": "Rock"
+},
+"Getatchèw Mèkurya|Shellela": {
+"album": "Éthiopiques, Vol. 14: Getachèw Mèkurya",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Gilberto Gil|Aquele Abraço": {
 "album": "Gilberto Gil (1969)",
@@ -554,6 +629,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Janelle Monáe|Make Me Feel": {
+"album": "Dirty Computer",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Janet Jackson|Any Time, Any Place": {
 "album": "Janet.",
 "film_hint": "",
@@ -583,6 +663,11 @@
 "album": "Sob Rock",
 "film_hint": "",
 "genre": "Pop"
+},
+"Jon Hopkins|Open Eye Signal (Remaster 2023)": {
+"album": "Immunity",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Josh Rouse|Street Lights": {
 "album": "Nashville",
@@ -618,6 +703,11 @@
 "album": "Little Oblivions",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Julio Iglesias|Quiero": {
+"album": "El Amor",
+"film_hint": "",
+"genre": "Pop Latino"
 },
 "Kali Uchis|telepatía": {
 "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
@@ -794,10 +884,25 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Marija Šerifović|Molitva": {
+"album": "Molitva",
+"film_hint": "",
+"genre": "Pop"
+},
 "Marisa Monte|Beija Eu": {
 "album": "Barulhinho Bom",
 "film_hint": "",
 "genre": "MPB"
+},
+"Mariza|Ó gente da minha terra": {
+"album": "Fado Em Mim",
+"film_hint": "",
+"genre": "Raíces"
+},
+"Mark Hollis|The Colour Of Spring": {
+"album": "Mark Hollis",
+"film_hint": "",
+"genre": "Rock"
 },
 "Mark Knopfler|The Long Road": {
 "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
@@ -839,10 +944,25 @@
 "film_hint": "",
 "genre": "New Age"
 },
+"Mikis Theodorakis|Zorba the Greek:  Zorba's Dance": {
+"album": "Zorba The Greek - Original Soundtrack",
+"film_hint": "Zorba The Greek - Original Soundtrack",
+"genre": "Pop"
+},
+"Milton Nascimento|Bridges (Travessia)": {
+"album": "Courage",
+"film_hint": "",
+"genre": "MPB"
+},
 "Minako Yoshida|I'll Teach You All About Love": {
 "album": "Let's Do It",
 "film_hint": "",
 "genre": "J-Pop"
+},
+"Miriam Makeba|Pata Pata": {
+"album": "Pata Pata (Mono & Stereo Versions)",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Moloko|The Time Is Now": {
 "album": "Things to Make and Do",
@@ -851,6 +971,11 @@
 },
 "Montaigne|Technicolour": {
 "album": "Technicolour - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Morcheeba|Trigger Hippie": {
+"album": "Who Can You Trust?",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -868,6 +993,11 @@
 "album": "Sigh No More",
 "film_hint": "",
 "genre": "Alternative"
+},
+"NMIXX|High Horse": {
+"album": "Fe3O4: FORWARD - EP",
+"film_hint": "",
+"genre": "K-Pop"
 },
 "Nat King Cole|L-O-V-E": {
 "album": "L-O-V-E",
@@ -893,6 +1023,11 @@
 "album": "Tình Đàn",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Nick Cave & The Bad Seeds|Henry Lee (Remastered 2011)": {
+"album": "Let Love In (2011 Remaster)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Niko B|Who's That What's That": {
 "album": "dog eat dog food world",
@@ -958,6 +1093,16 @@
 "album": "Patti LaBelle: Greatest Hits",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Paul Simon|Further to Fly": {
+"album": "The Rhythm of the Saints (Bonus Tracks Edition)",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Perpetuum Jazzile|Africa": {
+"album": "Perpetuum Jazzile Africa",
+"film_hint": "",
+"genre": "Easy Listening"
 },
 "Pet Shop Boys|West End Girls  (2001 Remaster)": {
 "album": "Please: Further Listening 1984-1986 (Deluxe Edition) [2018 Remaster]",
@@ -1064,6 +1209,11 @@
 "film_hint": "",
 "genre": "Latin"
 },
+"Rodrigo y Gabriela|Libertango": {
+"album": "Live Manchester and Dublin",
+"film_hint": "",
+"genre": "Rock"
+},
 "Roland Dyens|Fuoco (Libra Sonatine)": {
 "album": "Alba Nera",
 "film_hint": "",
@@ -1108,6 +1258,16 @@
 "album": "Timeless",
 "film_hint": "",
 "genre": "Brazilian"
+},
+"Serú Girán|Viernes, 3AM (2019 Remasterizado)": {
+"album": "La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Sheryl Crow|The First Cut Is The Deepest": {
+"album": "The Very Best of Sheryl Crow",
+"film_hint": "",
+"genre": "Rock"
 },
 "Shida Shahabi|Futō": {
 "album": "Shifts - EP",
@@ -1214,6 +1374,21 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Sun's Signature|Underwater": {
+"album": "Sun's Signature - EP",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Susumu Yokota|Saku": {
+"album": "Sakura (2025 Remaster)",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Swan Dive|Circle": {
+"album": "Circle",
+"film_hint": "",
+"genre": "Pop"
+},
 "THE TEARDROP EXPLODES|Reward": {
 "album": "Culture Bunker 1978 - 82",
 "film_hint": "",
@@ -1223,6 +1398,11 @@
 "album": "Lateralus",
 "film_hint": "",
 "genre": "Metal"
+},
+"TV Girl|Hate Yourself": {
+"album": "French Exit",
+"film_hint": "",
+"genre": "Pop"
 },
 "Takako Mamiya|LOVE TRIP": {
 "album": "",
@@ -1314,6 +1494,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Thievery Corporation|Facing East": {
+"album": "The Richest Man In Babylon",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Thievery Corporation|Lebanese Blonde": {
 "album": "It Takes A Thief: The Very Best Of Thievery Corporation",
 "film_hint": "",
@@ -1349,6 +1534,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Tlahoun Gessesse|Tchuheten Betsemu": {
+"album": "Éthiopiques, Vol. 17: Tlahoun Gèssèssè",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Tom Petty|I Won't Back Down": {
 "album": "Full Moon Fever",
 "film_hint": "",
@@ -1359,6 +1549,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Tracy Chapman|Fast Car  (2015 Remaster)": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Train|Drops of Jupiter (Tell Me)": {
 "album": "Drops of Jupiter",
 "film_hint": "",
@@ -1366,6 +1561,11 @@
 },
 "Tyla|Water": {
 "album": "Water - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Ultravox|Vienna (2008 Remaster)": {
+"album": "Vienna (Remastered Definitive Edition)",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1414,10 +1614,25 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Wizkid|Essence": {
+"album": "Made In Lagos",
+"film_hint": "",
+"genre": "Afrobeats"
+},
+"Wonder Girls|Rewind": {
+"album": "REBOOT",
+"film_hint": "",
+"genre": "K-Pop"
+},
 "Yes|Mood for a Day  (2008 Remaster)": {
 "album": "Fragile (Super Deluxe)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Zero 7|In The Waiting Line": {
+"album": "Simple Things Special Edition",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Zeynep Bastık|Her Yerde Sen (Akustik)": {
 "album": "Akustikler - EP",
@@ -1429,10 +1644,20 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"indigo la End|Haru No Iutoori": {
+"album": "Pulsate",
+"film_hint": "",
+"genre": "J-Pop"
+},
 "toe|Goodbye (Live)": {
 "album": "The Radio in My Head: Live at 54 Below",
 "film_hint": "",
 "genre": "Pop"
+},
+"Ólafur Arnalds|Near Light": {
+"album": "Living Room Songs",
+"film_hint": "",
+"genre": "Ambient"
 },
 "Ólafur Arnalds|saman": {
 "album": "Olafur Arnalds: saman - Single",
