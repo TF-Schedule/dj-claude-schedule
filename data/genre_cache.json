@@ -14,15 +14,160 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Bobby Caldwell|What You Won't Do for Love": {
+"album": "What You Won't Do for Love",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Bon Iver|Skinny Love": {
+"album": "For Emma, Forever Ago",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Bruce Kaphan|Clouds": {
+"album": "Slider (2022 Remaster)",
+"film_hint": "",
+"genre": "New Age"
+},
+"Bruno Battisti D'Amario|Omaggio a giuliani": {
+"album": "D'Amario: Complete Works for Solo Guitar Solo & 2 Guitars",
+"film_hint": "",
+"genre": "Solo Instrumental"
+},
+"Caifanes|La Negra Tomasa (Bilongo - Version Tropical)": {
+"album": "Las Flores de la Vída",
+"film_hint": "",
+"genre": "Música tropical"
+},
+"Camille Thomas|Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra )": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Carlos Gardel|Por una Cabeza": {
+"album": "Lo Mejor de Carlos Gardel",
+"film_hint": "",
+"genre": "Raíces"
+},
+"Chet Atkins|Why Worry (Album Version)": {
+"album": "Sails",
+"film_hint": "",
+"genre": "Country"
+},
+"Ed Maverick|lagunas": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Emancipator|Soon It Will Be Cold Enough to Build Fires": {
+"album": "Soon It Will Be Cold Enough",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Federico Aubele|Postales": {
+"album": "Gran Hotel Buenos Aires",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
+"Ferrante & Teicher|Exodus": {
+"album": "All Time Great Movie Themes",
+"film_hint": "All Time Great Movie Themes",
+"genre": "Soundtrack"
+},
+"Four Tet|Two Thousand and Seventeen": {
+"album": "New Energy",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
 },
+"Gustavo Cerati|Puente": {
+"album": "Bocanada",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
+"Hailu Mergia|Tezeta": {
+"album": "Tezeta",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Hammock|Tape Recorder": {
+"album": "Departure Songs",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Hania Rani|Glass": {
+"album": "Esja",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
+"Hans Zimmer|S.T.A.Y.": {
+"album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+"film_hint": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+"genre": "Soundtrack"
+},
+"Harold Budd|A Stream With Bright Fish (2005 Digital Remaster)": {
+"album": "Avalon Sutra (2013 Remaster)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Hindi Zahra|Beautiful Tango (Remastered Version)": {
+"album": "Handmade (Bonus Track Version)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Iron & Wine|Naked as We Came": {
+"album": "Our Endless Numbered Days",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Jeff Buckley|Last Goodbye": {
+"album": "Grace (Legacy Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Julian Lage|Emily": {
+"album": "Squint",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Julie London|Cry Me A River": {
+"album": "Julie Is Her Name",
+"film_hint": "",
+"genre": "Pop"
+},
+"King Crimson|21st Century Schizoid Man (Including 'Mirrors')": {
+"album": "In the Court of the Crimson King (Expanded Edition)",
+"film_hint": "",
+"genre": "Prog-Rock/Art Rock"
+},
+"Lianne La Havas|Sour Flower": {
+"album": "Lianne La Havas",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Lubomyr Melnyk|The Six Day Moment": {
+"album": "Corollaries",
+"film_hint": "",
+"genre": "Classical"
+},
+"Luca Di Sabatino|Switched-on Wendy": {
+"album": "Switched-on Ben Dover",
+"film_hint": "",
+"genre": "Dance"
+},
+"Luther Vandross|A House Is Not A Home": {
+"album": "Never Too Much",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Marisa Monte|Beija Eu": {
 "album": "Barulhinho Bom",
@@ -33,6 +178,31 @@
 "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
 "film_hint": "",
 "genre": "Rock"
+},
+"Mica Levi|Love": {
+"album": "Under the Skin (Original Soundtrack Album)",
+"film_hint": "Under the Skin (Original Soundtrack Album)",
+"genre": "Soundtrack"
+},
+"Michael Brook|Ultramarine": {
+"album": "Cobalt Blue",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Michael Hedges|Aerial Boundaries": {
+"album": "Aerial Boundaries",
+"film_hint": "",
+"genre": "New Age"
+},
+"Minako Yoshida|I'll Teach You All About Love": {
+"album": "Let's Do It",
+"film_hint": "",
+"genre": "J-Pop"
+},
+"Orchestral Manoeuvres in the dark (OMD)|If You Leave (From \"Pretty In Pink\" Soundtrack)": {
+"album": "Pretty In Pink (Original Motion Picture Soundtrack)",
+"film_hint": "Pretty In Pink (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
 },
 "Otis Redding|(Sittin' On) the Dock of the Bay": {
 "album": "The Very Best of Otis Redding",
@@ -59,15 +229,60 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Piotr Musial|Some Place We Called Home": {
+"album": "This War of Mine (Original Game Soundtrack)",
+"film_hint": "This War of Mine (Original Game Soundtrack)",
+"genre": "Video Game"
+},
+"Rodrigo Leão|Pasión (Album Version)": {
+"album": "Alma Mater",
+"film_hint": "",
+"genre": "Latin"
+},
+"Roland Dyens|Fuoco (Libra Sonatine)": {
+"album": "Alba Nera",
+"film_hint": "",
+"genre": "Guitar"
+},
+"Santana|Black Magic Woman": {
+"album": "Ultimate Santana",
+"film_hint": "",
+"genre": "Rock"
+},
+"Savath &  Savalas|Te Quiero Pero Por Otro Lado.": {
+"album": "Apropa't",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Sergio Mendes|Berimbau/Consolacao (Album Version)": {
 "album": "Timeless",
 "film_hint": "",
 "genre": "Brazilian"
 },
+"Shida Shahabi|Futō": {
+"album": "Shifts - EP",
+"film_hint": "",
+"genre": "Downtempo"
+},
+"Shira Kammen|Downstream (Remastered, 2024)": {
+"album": "Music of Waters",
+"film_hint": "",
+"genre": "Classical"
+},
+"Simon Trpčeski|Suite bergamasque, CD 82, L. 75: III. Clair de lune": {
+"album": "Debussy: Images & Children's Corner",
+"film_hint": "",
+"genre": "Classical"
+},
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 1": {
 "album": "The Tired Sounds of Stars of the Lid",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Steve Roach|Living the Dream": {
+"album": "Life Sequence (Deluxe Edition)",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Tangerine Dream|Love On A Real Train": {
 "album": "Hyperborea",
@@ -84,9 +299,19 @@
 "film_hint": "",
 "genre": ""
 },
+"Wax Tailor|Seize The Day": {
+"album": "Seize the Day (feat. Charlotte Savary) - Single",
+"film_hint": "",
+"genre": "Dance"
+},
 "Zeynep Bastık|Her Yerde Sen (Akustik)": {
 "album": "Akustikler - EP",
 "film_hint": "",
 "genre": "Turkish Pop"
+},
+"Ólafur Arnalds|saman": {
+"album": "Olafur Arnalds: saman - Single",
+"film_hint": "",
+"genre": "Classical Crossover"
 }
 }
