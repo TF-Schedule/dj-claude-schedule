@@ -14,6 +14,11 @@
 "film_hint": "",
 "genre": "K-Pop"
 },
+"A Tribe Called Quest|Scenario (LP Mix)": {
+"album": "Scenario (Remixes)",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "A Winged Victory For The Sullen|Steep Hills of Vicodin Tears": {
 "album": "A Winged Victory for the Sullen",
 "film_hint": "",
@@ -199,6 +204,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Alice In Chains|Man in the Box": {
+"album": "Dirt (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Alicia Keys|Fallin' (Album Version)": {
 "album": "Songs In A Minor",
 "film_hint": "",
@@ -229,6 +239,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Amy Winehouse|Rehab": {
+"album": "Back To Black",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Amália Rodrigues|Barco negro": {
 "album": "Amália Rodrigues - Antologia",
 "film_hint": "",
@@ -258,6 +273,11 @@
 "album": "Ovation",
 "film_hint": "",
 "genre": "Classical"
+},
+"Anita Baker|Angel (LP Version)": {
+"album": "Rhythm of Love",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Anita Baker|Caught Up in the Rapture (LP Version)": {
 "album": "Rhythm of Love",
@@ -325,6 +345,11 @@
 "genre": "Alternative"
 },
 "Aretha Franklin|Day Dreaming (Album Version)": {
+"album": "Young, Gifted and Black",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Aretha Franklin|Rock Steady (Album Version)": {
 "album": "Young, Gifted and Black",
 "film_hint": "",
 "genre": "R&B/Soul"
@@ -659,6 +684,11 @@
 "film_hint": "Selmasongs (Music from the Motion Picture \"Dancer In the Dark\")",
 "genre": "Soundtrack"
 },
+"Björk|Pagan Poetry": {
+"album": "Vespertine",
+"film_hint": "",
+"genre": "Pop"
+},
 "Björk|Unravel": {
 "album": "Homogenic",
 "film_hint": "",
@@ -879,6 +909,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Brian Eno|Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Brian Eno|Spinning Away": {
 "album": "Wrong Way Up [Expanded Edition]",
 "film_hint": "",
@@ -893,6 +928,11 @@
 "album": "Slider (2022 Remaster)",
 "film_hint": "",
 "genre": "New Age"
+},
+"Bruce Springsteen|Born to Run": {
+"album": "The Essential Bruce Springsteen",
+"film_hint": "",
+"genre": "Rock"
 },
 "Bruce Springsteen|No Surrender": {
 "album": "Born In the U.S.A.",
@@ -1214,6 +1254,11 @@
 "film_hint": "",
 "genre": "German Pop"
 },
+"Claire Chevallier|Je te veux": {
+"album": "La Route blanche: The Endlessly Surprising Erik Satie",
+"film_hint": "",
+"genre": "Classical"
+},
 "Clannad|Theme From Harry's Game": {
 "album": "Hourglass - Single",
 "film_hint": "",
@@ -1369,6 +1414,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Daft Punk|Face to Face": {
+"album": "Discovery",
+"film_hint": "",
+"genre": "Dance"
+},
 "Daft Punk|One More Time": {
 "album": "Discovery",
 "film_hint": "",
@@ -1443,6 +1493,11 @@
 "album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
 "film_hint": "",
 "genre": "Rock"
+},
+"David Bowie|Starman  (2012 Remaster)": {
+"album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+"film_hint": "",
+"genre": "Pop"
 },
 "David Bowie|Subterraneans  (2017 Remaster)": {
 "album": "Low (2017 Remaster)",
@@ -1534,6 +1589,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Die Fantastischen Vier|MfG - Mit freundlichen Grüßen  (2022)": {
+"album": "The Liechtenstein Tapes",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Dire Straits|Brothers in Arms": {
 "album": "Brothers In Arms",
 "film_hint": "",
@@ -1583,6 +1643,11 @@
 "album": "Ultimate Dolly Parton",
 "film_hint": "",
 "genre": "Country"
+},
+"Dolly Parton|Coat of Many Colors": {
+"album": "Coat of Many Colors",
+"film_hint": "",
+"genre": "Traditional Country"
 },
 "Dolly Parton|I Dreamed About Elvis": {
 "album": "Rockstar (Deluxe)",
@@ -1744,6 +1809,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Eiffel 65|Blue (Flume Remix)": {
+"album": "Blue (Flume Remix) - Single",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Electric Light Orchestra|Evil Woman": {
 "album": "Face the Music",
 "film_hint": "",
@@ -1824,6 +1894,16 @@
 "film_hint": "",
 "genre": ""
 },
+"Eric B. & Rakim|Paid In Full": {
+"album": "Paid In Full",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
+"Eric Clapton|Change the World": {
+"album": "Clapton Chronicles: The Best of Eric Clapton",
+"film_hint": "",
+"genre": "Rock"
+},
 "Erik Grönwall|House of the Rising Sun": {
 "album": "House of the Rising Sun - Single",
 "film_hint": "",
@@ -1874,6 +1954,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Eva Cassidy|At Last (Acoustic)": {
+"album": "Acoustic",
+"film_hint": "",
+"genre": "Pop"
+},
 "Evanescence|Bring Me To Life": {
 "album": "Fallen",
 "film_hint": "",
@@ -1883,6 +1968,11 @@
 "album": "New Briton Gazette, Vol. 2",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Explosions In The Sky|Your Hand in Mine": {
+"album": "The Earth Is Not a Cold Dead Place",
+"film_hint": "",
+"genre": "Rock"
 },
 "Fabrizio De Andrè|Bocca di rosa": {
 "album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
@@ -2209,6 +2299,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Gonzales|Gogol": {
+"album": "Solo Piano 20th Anniversary (Live in Paris)",
+"film_hint": "",
+"genre": "Instrumental"
+},
+"Gorillaz|Damascus (feat. Omar Souleyman and Yasiin Bey)": {
+"album": "The Mountain",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Gorillaz|Empire Ants (feat. Little Dragon)": {
 "album": "Plastic Beach (Deluxe Version)",
 "film_hint": "",
@@ -2279,10 +2379,20 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Grouper|Holding": {
+"album": "Ruins",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Grover Washington Jr.|Mister Magic": {
 "album": "Mister Magic",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Guns N' Roses|Paradise City": {
+"album": "Appetite For Destruction",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Guns N' Roses|Sweet Child O' Mine": {
 "album": "",
@@ -2378,6 +2488,11 @@
 "album": "Avalon Sutra (2013 Remaster)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Harold Budd|Lost In The Humming Air (2005 Digital Remaster)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Harris Jayaraj|Adiyae Kolluthey (From \"Vaaranam Aayiram\")": {
 "album": "Vaaranam Aayiram (Original Motion Picture Soundtrack)",
@@ -2709,6 +2824,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Jimi Hendrix|Voodoo Child (Slight Return)": {
+"album": "Electric Ladyland",
+"film_hint": "",
+"genre": "Rock"
+},
 "Jimmy Eat World|The Middle": {
 "album": "Bleed American",
 "film_hint": "",
@@ -2748,6 +2868,11 @@
 "album": "My Neighbor Totoro (Original Soundtrack)",
 "film_hint": "My Neighbor Totoro (Original Soundtrack)",
 "genre": "Original Score"
+},
+"Joe Hisaishi|a Wish to the Moon": {
+"album": "ETUDE - A Wish to the Moon",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Joe Hisaishi|アシタカとサン (from 'Princess Mononoke')": {
 "album": "Princess Mononoke (Original Soundtrack)",
@@ -3049,6 +3174,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Khatia Buniatishvili|Orchestral Suite No. 3 in D Major, BMV 1068 \"Air On The G String\" - Air on the G String": {
+"album": "Labyrinth",
+"film_hint": "",
+"genre": "Classical"
+},
 "Khruangbin|A Calf Born In Winter": {
 "album": "A Calf Born in Winter - Single",
 "film_hint": "",
@@ -3058,6 +3188,16 @@
 "album": "A LA SALA",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Khruangbin|Time (You and I)": {
+"album": "Mordechai",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Kid Cudi|Enter Galactic (Love Connection Part I) (Album Version (Explicit))": {
+"album": "Man On the Moon: The End of Day (Deluxe Version)",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Kim Carnes|More Love": {
 "album": "Romance Dance",
@@ -3259,6 +3399,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Lianne La Havas|Unstoppable": {
+"album": "Blood",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Limp Bizkit|Rollin' (Air Raid Vehicle)": {
 "album": "Chocolate Starfish and the Hot Dog Flavored Water",
 "film_hint": "",
@@ -3274,6 +3419,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Linkin Park|Numb": {
+"album": "Meteora (Deluxe Edition)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Lionel Richie|You Are": {
 "album": "Lionel Richie (Expanded Edition)",
 "film_hint": "",
@@ -3283,6 +3433,11 @@
 "album": "The Mirror Pool",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Lisa Gerrard|Until We Meet Again": {
+"album": "Exaudia",
+"film_hint": "",
+"genre": "New Age"
 },
 "Lita Ford & Ozzy Osborne|Close My Eyes Forever": {
 "album": "Lita",
@@ -4414,6 +4569,11 @@
 "film_hint": "This War of Mine (Original Game Soundtrack)",
 "genre": "Video Game"
 },
+"Pitbull|International Love": {
+"album": "Planet Pit (Deluxe Version)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Pixies|Ana": {
 "album": "Bossanova",
 "film_hint": "",
@@ -4558,6 +4718,11 @@
 "album": "Green (Remastered 2013)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"ROSALÍA|Berghain": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "ROSALÍA|MALAMENTE (Cap.1: Augurio)": {
 "album": "MALAMENTE (Cap.1: Augurio) - Single",
@@ -4763,6 +4928,11 @@
 "album": "The Very Best of Shostakovich",
 "film_hint": "",
 "genre": "Classical"
+},
+"Ryuichi Sakamoto|Bibo no Aozora": {
+"album": "1996 (Re-Mastered)",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Ryuichi Sakamoto|andata": {
 "album": "Sakamoto: Andata - Single",
@@ -5094,6 +5264,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Sol Gabetta|Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck": {
+"album": "Hélène Grimaud: Essentials",
+"film_hint": "",
+"genre": "Classical"
+},
 "Sophie Hunger|Le vent nous portera": {
 "album": "1983",
 "film_hint": "",
@@ -5221,6 +5396,11 @@
 },
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Stevie Wonder|Superstition (Album Version)": {
+"album": "Talking Book",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -5549,6 +5729,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"The Clash|London Calling": {
+"album": "London Calling",
+"film_hint": "",
+"genre": "Punk"
+},
 "The Cranberries|Dreams": {
 "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
 "film_hint": "",
@@ -5566,6 +5751,11 @@
 },
 "The Cure|Lovesong  (2010 Remaster)": {
 "album": "Disintegration (2010 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The Cure|Pictures of You": {
+"album": "Galore",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5709,6 +5899,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Postal Service|Such Great Heights (Remastered)": {
+"album": "Give Up (Deluxe 10th Anniversary Edition)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "The Proclaimers|I'm Gonna Be (500 Miles)": {
 "album": "Sunshine On Leith",
 "film_hint": "",
@@ -5778,6 +5973,11 @@
 "album": "The Best of the Staple Singers",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Strokes|Ode To The Mets": {
+"album": "Pristine Karaoke, Vol. 20",
+"film_hint": "",
+"genre": "Instrumental"
 },
 "The Style Council|Iwasadoledadstoyboy": {
 "album": "Confessions of a Pop Group (Remastered)",
@@ -5929,6 +6129,11 @@
 "film_hint": "The Rocky Horror Picture Show (Soundtrack from the Motion Picture)",
 "genre": "Soundtrack"
 },
+"Tim Hecker|Black Refraction": {
+"album": "Virgins",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Tim Hecker|In the Fog I": {
 "album": "Ravedeath, 1972",
 "film_hint": "",
@@ -5975,6 +6180,11 @@
 "genre": "Rock"
 },
 "Tom Misch|Disco Yes": {
+"album": "Geography",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Tom Misch|It Runs Through Me (feat. De La Soul)": {
 "album": "Geography",
 "film_hint": "",
 "genre": "Alternative"
@@ -6079,6 +6289,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Tycho|Dive": {
+"album": "Dive",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Tyla|Water": {
 "album": "Water - Single",
 "film_hint": "",
@@ -6088,6 +6303,11 @@
 "album": "Country Squire",
 "film_hint": "",
 "genre": "Country"
+},
+"Tyler, The Creator|Ring Ring Ring": {
+"album": "DON'T TAP THE GLASS",
+"film_hint": "",
+"genre": "Rap"
 },
 "U2|Beautiful Day (Remastered 2020)": {
 "album": "Beautiful Day (Remastered 2024) - EP",
@@ -6138,6 +6358,11 @@
 "album": "L'apocalypse des animaux (Remastered)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Vanilla Ice|Ninja Rap": {
+"album": "The Best Of Vanilla Ice",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Various Interprets|Come Tomorrow (Duet With Barry Gibb (Album Version))": {
 "album": "",
