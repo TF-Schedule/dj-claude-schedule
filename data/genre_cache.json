@@ -4,6 +4,16 @@
 "film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
 "genre": "Soundtrack"
 },
+"ANORAQUE|Ivy": {
+"album": "D A R E",
+"film_hint": "",
+"genre": "Alternative"
+},
+"AWOLNATION|Burn It Down": {
+"album": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Aaliyah|If Your Girl Only Knew": {
 "album": "One In A Million",
 "film_hint": "",
@@ -33,6 +43,11 @@
 "album": "Your World and My World",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Albert King|Born Under A Bad Sign": {
+"album": "Born Under A Bad Sign",
+"film_hint": "",
+"genre": "Blues"
 },
 "Alfa Mist|Organic Rust": {
 "album": "Bring Backs",
@@ -159,6 +174,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Benny Goodman|Sing Sing Sing (With A Swing) (live)": {
+"album": "The Famous 1938 Carnegie Hall Jazz Concert (Live)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Benny Sings|Sailing": {
 "album": "Sailing - Single",
 "film_hint": "",
@@ -234,6 +254,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Bob Dylan|Girl from the North Country": {
+"album": "The Freewheelin' Bob Dylan",
+"film_hint": "",
+"genre": "Contemporary Folk"
+},
 "Bob Marley & The Wailers|Get Up, Stand Up": {
 "album": "Burnin' (Remastered 2001)",
 "film_hint": "",
@@ -249,15 +274,30 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Bon Iver|Holocene": {
+"album": "Vitamin String Quartet Performs Bon Iver",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Bon Iver|Skinny Love": {
 "album": "For Emma, Forever Ago",
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bon Jovi|Livin' On A Prayer": {
+"album": "Slippery When Wet",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Bonobo|Terrapin": {
 "album": "Animal Magic",
 "film_hint": "",
 "genre": "Dance"
+},
+"Boz Scaggs|JoJo (2023 Remaster)": {
+"album": "Middle Man (2023 Remaster)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Brandi Carlile|The Joke": {
 "album": "By The Way, I Forgive You",
@@ -294,10 +334,25 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Burna Boy|Last Last": {
+"album": "Love, Damini",
+"film_hint": "",
+"genre": "Afro-fusion"
+},
+"Caetano Veloso|O Leãozinho (Ao Vivo)": {
+"album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+"film_hint": "",
+"genre": "Brazilian"
+},
 "Caetano Veloso|Tropicália (Remastered 2006)": {
 "album": "Caetano Veloso (Remixed Original Album)",
 "film_hint": "",
 "genre": "MPB"
+},
+"Café Tacvba|Eres (Album Version)": {
+"album": "Re",
+"film_hint": "",
+"genre": "Rock y Alternativo"
 },
 "Caifanes|La Negra Tomasa (Bilongo - Version Tropical)": {
 "album": "Las Flores de la Vída",
@@ -308,6 +363,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Canned Heat|On The Road Again": {
+"album": "Boogie With Canned Heat",
+"film_hint": "",
+"genre": "Rock"
 },
 "Carbon Based Lifeforms|Photosynthesis": {
 "album": "World of Sleepers",
@@ -439,6 +499,11 @@
 "film_hint": "",
 "genre": "Christmas"
 },
+"Daft Punk|One More Time": {
+"album": "Discovery",
+"film_hint": "",
+"genre": "Dance"
+},
 "Daft Punk|Voyager": {
 "album": "Discovery",
 "film_hint": "",
@@ -483,6 +548,11 @@
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Depeche Mode|Policy of Truth": {
+"album": "Violator (Deluxe)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Diana Krall|How Deep Is The Ocean": {
 "album": "This Dream Of You",
@@ -614,6 +684,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Etta James|I'd Rather Go Blind": {
+"album": "Tell Mama",
+"film_hint": "",
+"genre": "Blues"
+},
 "Evanescence|Bring Me To Life": {
 "album": "Fallen",
 "film_hint": "",
@@ -643,6 +718,16 @@
 "album": "All Time Great Movie Themes",
 "film_hint": "All Time Great Movie Themes",
 "genre": "Soundtrack"
+},
+"Fito Páez|El amor después del amor": {
+"album": "El Amor Después del Amor",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
+"Fleet Foxes|Helplessness Blues": {
+"album": "Helplessness Blues",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Fleet Foxes|Mykonos": {
 "album": "Sun Giant - EP",
@@ -859,6 +944,11 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Haddaway|What Is Love (7\" Mix) (Remastered 2025) (7\" Mix / Remastered 2025)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Hailu Mergia|Tezeta": {
 "album": "Tezeta",
 "film_hint": "",
@@ -934,6 +1024,11 @@
 "film_hint": "",
 "genre": "Indie Rock"
 },
+"Hikaru Utada|First Love": {
+"album": "First Love - EP",
+"film_hint": "",
+"genre": "J-Pop"
+},
 "Hindi Zahra|Beautiful Tango (Remastered Version)": {
 "album": "Handmade (Bonus Track Version)",
 "film_hint": "",
@@ -949,10 +1044,20 @@
 "film_hint": "",
 "genre": ""
 },
+"Howlin' Wolf|Smokestack Lightnin'": {
+"album": "Moanin' in the Moonlight",
+"film_hint": "",
+"genre": "Blues"
+},
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
 "genre": "Pop"
+},
+"INXS|Don't Change": {
+"album": "Shabooh Shoobah",
+"film_hint": "",
+"genre": "Rock"
 },
 "INXS|Never Tear Us Apart": {
 "album": "The Best of INXS",
@@ -1059,6 +1164,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"John Lee Hooker|Boom Boom": {
+"album": "Urban Blues (Bonus Tracks)",
+"film_hint": "",
+"genre": "Blues"
+},
 "John Mayer|New Light": {
 "album": "Sob Rock",
 "film_hint": "",
@@ -1096,6 +1206,11 @@
 },
 "Joywave|In Clover": {
 "album": "How Do You Feel Now?",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Joywave|Rumors": {
+"album": "Content",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -1164,6 +1279,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Kenny Loggins|This Is It": {
+"album": "Keep the Fire",
+"film_hint": "",
+"genre": "Rock"
+},
 "Kenshi Yonezu|Lemon": {
 "album": "Lemon - Single",
 "film_hint": "",
@@ -1188,6 +1308,16 @@
 "album": "Peace Or Love",
 "film_hint": "",
 "genre": "Pop"
+},
+"Kraftwerk|Das Model": {
+"album": "The Man-Machine (Remastered)",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Kygo|Heaven On Your Mind": {
+"album": "Heaven On Your Mind (feat. Dan Tyminski) - Single",
+"film_hint": "",
+"genre": "Dance"
 },
 "Kylie Minogue|Spinning Around": {
 "album": "Light Years (Deluxe Edition)",
@@ -1284,6 +1414,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Little Axe|Ride On (Fight On)": {
+"album": "The Wolf That House Built (Bonus Track Version)",
+"film_hint": "",
+"genre": "Dub"
+},
 "Little River Band|Cool Change": {
 "album": "",
 "film_hint": "",
@@ -1293,6 +1428,11 @@
 "album": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "film_hint": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
+},
+"Los Rodriguez|Milonga del marinero y el capitán": {
+"album": "Hasta luego",
+"film_hint": "",
+"genre": "Rock"
 },
 "Loscil|Estuarine": {
 "album": "Endless Falls",
@@ -1514,6 +1654,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Moloko|Over & Over": {
+"album": "Statues",
+"film_hint": "",
+"genre": "Pop"
+},
 "Moloko|The Time Is Now": {
 "album": "Things to Make and Do",
 "film_hint": "",
@@ -1533,6 +1678,11 @@
 "album": "Mother Earth's Plantasia",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Muddy Waters|Mannish Boy": {
+"album": "Hard Again",
+"film_hint": "",
+"genre": "Blues"
 },
 "Mulatu Astatke|Yègellé Tezeta": {
 "album": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",
@@ -1598,6 +1748,11 @@
 "album": "Carboot Soul",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Nightwish|Wishmaster": {
+"album": "Wishmaster",
+"film_hint": "",
+"genre": "Rock"
 },
 "Niko B|Who's That What's That": {
 "album": "dog eat dog food world",
@@ -1744,6 +1899,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Phil Collins|In the Air Tonight  (2015 Remaster)": {
+"album": "Face Value (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Phoebe Bridgers|Kyoto": {
 "album": "Punisher",
 "film_hint": "",
@@ -1763,6 +1923,16 @@
 "album": "This War of Mine (Original Game Soundtrack)",
 "film_hint": "This War of Mine (Original Game Soundtrack)",
 "genre": "Video Game"
+},
+"Player|Baby Come Back": {
+"album": "Player",
+"film_hint": "",
+"genre": "Rock"
+},
+"Playroom|Patient": {
+"album": "Patient - Single",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Polar Sun|Caribou": {
 "album": "Caribou - EP",
@@ -1823,6 +1993,11 @@
 "album": "Out of Time (2016 Remaster)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"ROSALÍA|MALAMENTE (Cap.1: Augurio)": {
+"album": "MALAMENTE (Cap.1: Augurio) - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "RY X|Let You Go": {
 "album": "",
@@ -1894,6 +2069,11 @@
 "film_hint": "",
 "genre": "Soft Rock"
 },
+"Robert Johnson|Cross Road Blues": {
+"album": "King of the Delta Blues Singers",
+"film_hint": "",
+"genre": "Blues"
+},
 "Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
 "album": "First Take (Deluxe Edition)",
 "film_hint": "",
@@ -1913,6 +2093,16 @@
 "album": "Alba Nera",
 "film_hint": "",
 "genre": "Guitar"
+},
+"Roxette|The Look": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Pop"
+},
+"Rush|Tom Sawyer": {
+"album": "Chronicles (Remastered)",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Russian State Symphony Orchestra|Jazz Suite No. 2 - VI. Waltz 2": {
 "album": "The Very Best of Shostakovich",
@@ -2019,6 +2209,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Simon & Garfunkel|The Boxer": {
+"album": "Bridge Over Troubled Water",
+"film_hint": "",
+"genre": "Pop"
+},
 "Simon Trpčeski|Suite bergamasque, CD 82, L. 75: III. Clair de lune": {
 "album": "Debussy: Images & Children's Corner",
 "film_hint": "",
@@ -2026,6 +2221,11 @@
 },
 "Simple Minds|Alive And Kicking (Remastered 2002)": {
 "album": "In the City of Light (Live) [Remastered]",
+"film_hint": "",
+"genre": "Rock"
+},
+"Simple Minds|Don't You (Forget About Me)": {
+"album": "The Breakfast Club",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2113,6 +2313,11 @@
 "album": "Life Sequence (Deluxe Edition)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Stevie Ray Vaughan & Double Trouble|Pride and Joy": {
+"album": "Texas Flood (Legacy Edition)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
@@ -2289,6 +2494,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Weeknd|Call Out My Name": {
+"album": "My Dear Melancholy,",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The White Stripes|Seven Nation Army": {
 "album": "Elephant",
 "film_hint": "",
@@ -2318,6 +2528,11 @@
 "album": "It Takes A Thief: The Very Best Of Thievery Corporation",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Thin Lizzy|Emerald": {
+"album": "Jailbreak",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "This Mortal Coil|Song To The Siren": {
 "album": "It'll End in Tears (Remastered)",
@@ -2439,6 +2654,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Vangelis|La petite fille de la mer": {
+"album": "L'apocalypse des animaux (Remastered)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Vaya Con Dios|Nah Neh Nah": {
 "album": "Night Owls",
 "film_hint": "",
@@ -2523,6 +2743,11 @@
 "album": "Fragile (Super Deluxe)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Youssou N'Dour featuring Neneh Cherry|7 Seconds (Album Version)": {
+"album": "The Best of Youssou N'Dour",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Zero 7|In The Waiting Line": {
 "album": "Simple Things Special Edition",

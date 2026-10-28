@@ -1,4 +1,6 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Moloko,Over & Over,20,2026-10-28T09:08:35Z,Longing Look,Pop,Statues,,https://music.apple.com/us/album/over-over/1436335511?i=1436335526,Regal + Kurt
+Boz Scaggs,JoJo (2023 Remaster),14,2026-10-28T09:02:35Z,Longing Look,Pop,Middle Man (2023 Remaster),,https://music.apple.com/us/album/jojo-2023-remaster/1698413548?i=1698413550,Regal + Kurt
 Jeff Beck,Where Were You (Live),13,2026-10-28T08:59:40Z,Continental Break,Rock,Performing This Week... Live at Ronnie Scott's,,https://music.apple.com/us/search?term=Jeff+Beck+Where+Were+You+%28Live%29,Regal + Kurt
 Jean-Luc Ponty,Computer Incantations for World Peace,30,2026-10-28T08:53:53Z,Continental Break,Jazz,Individual Choice,,https://music.apple.com/us/album/computer-incantations-for-world-peace/301643464?i=301643472,Regal + Kurt
 Little River Band,Cool Change,14,2026-10-28T08:48:38Z,Continental Break,,,,https://music.apple.com/us/album/cool-change/1440663306?i=1440663718,Regal + Kurt
@@ -512,49 +514,49 @@ Tove Lo,No One Dies From Love,184,2026-10-26T18:20:15Z,,Pop,Dirt Femme,,,Kurt
 Lana Del Rey,Diet Mountain Dew,34,2026-10-26T18:16:15Z,,Alternative,Born to Die,,,Kurt
 Vinicius Cantuaria,Lua e Estrela,23,2026-10-26T18:12:45Z,,Pop,Série 2 em 1: Vinícius Cantuária,,,Kurt
 The Smashing Pumpkins,1979,29,2026-10-26T18:07:45Z,,Alternative,Mellon Collie And The Infinite Sadness (2012 Remastered),,,Kurt
-Simon & Garfunkel,The Boxer,94,2026-10-26T18:02:16Z,,,,,,Kurt
-Bob Dylan,Girl from the North Country,21,2026-10-26T17:58:46Z,,,,,,Kurt
-Little Axe,Ride On (Fight On),14,2026-10-26T17:53:16Z,,,,,,Kurt
-Bon Iver,Holocene,232,2026-10-26T17:47:15Z,,,,,,Kurt
-Fleet Foxes,Helplessness Blues,27,2026-10-26T17:42:16Z,,,,,,Kurt
-Etta James,I'd Rather Go Blind,54,2026-10-26T17:39:16Z,,,,,,Kurt
-Stevie Ray Vaughan & Double Trouble,Pride and Joy,22,2026-10-26T17:35:15Z,,,,,,Kurt
-Canned Heat,On The Road Again,5,2026-10-26T17:30:16Z,,,,,,Kurt
-John Lee Hooker,Boom Boom,20,2026-10-26T17:27:15Z,,,,,,Kurt
-Albert King,Born Under A Bad Sign,17,2026-10-26T17:24:16Z,,,,,,Kurt
-Muddy Waters,Mannish Boy,22,2026-10-26T17:20:15Z,,,,,,Kurt
-Howlin' Wolf,Smokestack Lightnin',24,2026-10-26T17:17:16Z,,,,,,Kurt
-Robert Johnson,Cross Road Blues,24,2026-10-26T17:14:15Z,,,,,,Kurt
-Benny Goodman,Sing Sing Sing (With A Swing) (live),17,2026-10-26T17:04:46Z,,,,,,Kurt
-Vangelis,La petite fille de la mer,30,2026-10-26T16:58:46Z,,,,,,Kurt
-ROSALÍA,MALAMENTE (Cap.1: Augurio),20,2026-10-26T16:55:15Z,,,,,,Kurt
-Nightwish,Wishmaster,13,2026-10-26T16:51:16Z,,,,,,Kurt
-Kygo,Heaven On Your Mind,11,2026-10-26T16:47:16Z,,,,,,Kurt
-Caetano Veloso,O Leãozinho (Ao Vivo),76,2026-10-26T16:43:45Z,,,,,,Kurt
-Rush,Tom Sawyer,23,2026-10-26T16:39:15Z,,,,,,Kurt
-Daft Punk,One More Time,146,2026-10-26T16:33:45Z,,,,,,Kurt
-Youssou N'Dour featuring Neneh Cherry,7 Seconds (Album Version),55,2026-10-26T16:28:15Z,,,,,,Kurt
-Fito Páez,El amor después del amor,22,2026-10-26T16:22:45Z,,,,,,Kurt
-Thin Lizzy,Emerald,20,2026-10-26T16:18:45Z,,,,,,Kurt
-Kraftwerk,Das Model,25,2026-10-26T16:14:46Z,,,,,,Kurt
-Burna Boy,Last Last,44,2026-10-26T16:11:46Z,,,,,,Kurt
-Hikaru Utada,First Love,30,2026-10-26T16:07:45Z,,,,,,Kurt
-INXS,Don't Change,18,2026-10-26T16:02:46Z,,,,,,Kurt
-Café Tacvba,Eres (Album Version),32,2026-10-26T15:58:15Z,,,,,,Kurt
-Roxette,The Look,12,2026-10-26T15:54:16Z,,,,,,Kurt
+Simon & Garfunkel,The Boxer,94,2026-10-26T18:02:16Z,,Pop,Bridge Over Troubled Water,,,Kurt
+Bob Dylan,Girl from the North Country,21,2026-10-26T17:58:46Z,,Contemporary Folk,The Freewheelin' Bob Dylan,,,Kurt
+Little Axe,Ride On (Fight On),14,2026-10-26T17:53:16Z,,Dub,The Wolf That House Built (Bonus Track Version),,,Kurt
+Bon Iver,Holocene,232,2026-10-26T17:47:15Z,,Alternative,Vitamin String Quartet Performs Bon Iver,,,Kurt
+Fleet Foxes,Helplessness Blues,27,2026-10-26T17:42:16Z,,Alternative,Helplessness Blues,,,Kurt
+Etta James,I'd Rather Go Blind,54,2026-10-26T17:39:16Z,,Blues,Tell Mama,,,Kurt
+Stevie Ray Vaughan & Double Trouble,Pride and Joy,22,2026-10-26T17:35:15Z,,Rock,Texas Flood (Legacy Edition),,,Kurt
+Canned Heat,On The Road Again,5,2026-10-26T17:30:16Z,,Rock,Boogie With Canned Heat,,,Kurt
+John Lee Hooker,Boom Boom,20,2026-10-26T17:27:15Z,,Blues,Urban Blues (Bonus Tracks),,,Kurt
+Albert King,Born Under A Bad Sign,17,2026-10-26T17:24:16Z,,Blues,Born Under A Bad Sign,,,Kurt
+Muddy Waters,Mannish Boy,22,2026-10-26T17:20:15Z,,Blues,Hard Again,,,Kurt
+Howlin' Wolf,Smokestack Lightnin',24,2026-10-26T17:17:16Z,,Blues,Moanin' in the Moonlight,,,Kurt
+Robert Johnson,Cross Road Blues,24,2026-10-26T17:14:15Z,,Blues,King of the Delta Blues Singers,,,Kurt
+Benny Goodman,Sing Sing Sing (With A Swing) (live),17,2026-10-26T17:04:46Z,,Jazz,The Famous 1938 Carnegie Hall Jazz Concert (Live),,,Kurt
+Vangelis,La petite fille de la mer,30,2026-10-26T16:58:46Z,,Pop,L'apocalypse des animaux (Remastered),,,Kurt
+ROSALÍA,MALAMENTE (Cap.1: Augurio),20,2026-10-26T16:55:15Z,,Pop,MALAMENTE (Cap.1: Augurio) - Single,,,Kurt
+Nightwish,Wishmaster,13,2026-10-26T16:51:16Z,,Rock,Wishmaster,,,Kurt
+Kygo,Heaven On Your Mind,11,2026-10-26T16:47:16Z,,Dance,Heaven On Your Mind (feat. Dan Tyminski) - Single,,,Kurt
+Caetano Veloso,O Leãozinho (Ao Vivo),76,2026-10-26T16:43:45Z,,Brazilian,Ofertório (feat. Tom Veloso) [Ao Vivo],,,Kurt
+Rush,Tom Sawyer,23,2026-10-26T16:39:15Z,,Hard Rock,Chronicles (Remastered),,,Kurt
+Daft Punk,One More Time,146,2026-10-26T16:33:45Z,,Dance,Discovery,,,Kurt
+Youssou N'Dour featuring Neneh Cherry,7 Seconds (Album Version),55,2026-10-26T16:28:15Z,,Worldwide,The Best of Youssou N'Dour,,,Kurt
+Fito Páez,El amor después del amor,22,2026-10-26T16:22:45Z,,Rock y Alternativo,El Amor Después del Amor,,,Kurt
+Thin Lizzy,Emerald,20,2026-10-26T16:18:45Z,,Hard Rock,Jailbreak,,,Kurt
+Kraftwerk,Das Model,25,2026-10-26T16:14:46Z,,Electronic,The Man-Machine (Remastered),,,Kurt
+Burna Boy,Last Last,44,2026-10-26T16:11:46Z,,Afro-fusion,"Love, Damini",,,Kurt
+Hikaru Utada,First Love,30,2026-10-26T16:07:45Z,,J-Pop,First Love - EP,,,Kurt
+INXS,Don't Change,18,2026-10-26T16:02:46Z,,Rock,Shabooh Shoobah,,,Kurt
+Café Tacvba,Eres (Album Version),32,2026-10-26T15:58:15Z,,Rock y Alternativo,Re,,,Kurt
+Roxette,The Look,12,2026-10-26T15:54:16Z,,Pop,Greatest Hits,,,Kurt
 Haddaway,"What Is Love (7"" Mix) (Remastered 2025) (7"" Mix / Remastered 2025)",12,2026-10-26T15:51:15Z,,,,,,Regal + Kurt
-Kenny Loggins,This Is It,38,2026-10-26T15:47:17Z,,,,,,Kurt
-The Weeknd,Call Out My Name,7,2026-10-26T15:43:15Z,,,,,,Kurt
-AWOLNATION,Burn It Down,6,2026-10-26T15:40:15Z,,,,,,Kurt
-Joywave,Rumors,18,2026-10-26T15:36:45Z,,,,,,Kurt
-Playroom,Patient,10,2026-10-26T15:32:15Z,,,,,,Kurt
-Bon Jovi,Livin' On A Prayer,145,2026-10-26T15:27:45Z,,,,,,Kurt
-Phil Collins,In the Air Tonight  (2015 Remaster),7,2026-10-26T15:22:15Z,,,,,,Kurt
-Simple Minds,Don't You (Forget About Me),22,2026-10-26T15:17:45Z,,,,,,Kurt
-ANORAQUE,Ivy,12,2026-10-26T15:13:45Z,,,,,,Kurt
-Player,Baby Come Back,43,2026-10-26T15:12:15Z,,,,,,Kurt
-Los Rodriguez,Milonga del marinero y el capitán,28,2026-10-26T15:08:45Z,,,,,,Kurt
-Depeche Mode,Policy of Truth,12,2026-10-26T15:03:45Z,,,,,,Kurt
+Kenny Loggins,This Is It,38,2026-10-26T15:47:17Z,,Rock,Keep the Fire,,,Kurt
+The Weeknd,Call Out My Name,7,2026-10-26T15:43:15Z,,R&B/Soul,"My Dear Melancholy,",,,Kurt
+AWOLNATION,Burn It Down,6,2026-10-26T15:40:15Z,,Alternative,Megalithic Symphony (10th Anniversary Deluxe Edition),,,Kurt
+Joywave,Rumors,18,2026-10-26T15:36:45Z,,Alternative,Content,,,Kurt
+Playroom,Patient,10,2026-10-26T15:32:15Z,,Alternative,Patient - Single,,,Kurt
+Bon Jovi,Livin' On A Prayer,145,2026-10-26T15:27:45Z,,Hard Rock,Slippery When Wet,,,Kurt
+Phil Collins,In the Air Tonight  (2015 Remaster),7,2026-10-26T15:22:15Z,,Rock,Face Value (Remastered),,,Kurt
+Simple Minds,Don't You (Forget About Me),22,2026-10-26T15:17:45Z,,Rock,The Breakfast Club,,,Kurt
+ANORAQUE,Ivy,12,2026-10-26T15:13:45Z,,Alternative,D A R E,,,Kurt
+Player,Baby Come Back,43,2026-10-26T15:12:15Z,,Rock,Player,,,Kurt
+Los Rodriguez,Milonga del marinero y el capitán,28,2026-10-26T15:08:45Z,,Rock,Hasta luego,,,Kurt
+Depeche Mode,Policy of Truth,12,2026-10-26T15:03:45Z,,Pop,Violator (Deluxe),,,Kurt
 Gloria Estefan,Rhythm Is Gonna Get You,14,2026-10-26T14:58:45Z,,,,,,Kurt
 Conchita Wurst,Rise Like a Phoenix,13,2026-10-26T14:55:15Z,,,,,,Kurt
 No Vacation,Waltzing Back,16,2026-10-26T14:52:15Z,,,,,,Kurt
@@ -1589,7 +1591,6 @@ Suede,Animal Nitrate,4,2026-10-20T09:01:43Z,,,,,,Kurt
 Stevie Wonder,As,20,2026-10-20T08:02:43Z,,,,,,Kurt
 Gorillaz,"The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",13,2026-10-20T06:32:12Z,,,,,,Kurt
 John McLaughlin,"You Know, You Know (Album Version)",23,2026-10-20T05:00:42Z,,,,,,Kurt
-Moloko,Over & Over,20,2026-10-20T03:29:41Z,,,,,,Kurt
 The Crystal Method,Busy Child,3,2026-10-20T02:04:09Z,,,,,,Kurt
 The La's,There She Goes,12,2026-10-20T01:55:39Z,,,,,,Kurt
 Maxwell,Whenever Wherever Whatever (Remastered 2021) (Album Version),9,2026-10-20T01:17:39Z,,,,,,Kurt
@@ -1614,7 +1615,6 @@ Peter Gabriel,Sky Blue,32,2026-10-19T16:08:06Z,,,,,,Kurt
 Michael Jackson,Thriller,5,2026-10-19T15:45:35Z,,,,,,Kurt
 Pulp,Common People (Full Length Version; Album Version),8,2026-10-19T13:20:05Z,,,,,,Kurt
 Modest Mouse,Float On,6,2026-10-19T13:05:35Z,,,,,,Kurt
-Boz Scaggs,JoJo (2023 Remaster),14,2026-10-19T11:15:35Z,,,,,,Kurt
 Dua Lipa,Future Nostalgia,62,2026-10-19T10:42:05Z,,,,,,Kurt
 Sabrina Carpenter,Taste,49,2026-10-19T09:48:34Z,,,,,,Kurt
 Harry Styles,Watermelon Sugar,13,2026-10-19T09:27:34Z,,,,,,Kurt
