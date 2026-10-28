@@ -14,6 +14,11 @@
 "film_hint": "",
 "genre": "K-Pop"
 },
+"A Winged Victory For The Sullen|Steep Hills of Vicodin Tears": {
+"album": "A Winged Victory for the Sullen",
+"film_hint": "",
+"genre": "Alternative"
+},
 "A-Ha|Take on Me (2015 Remaster)": {
 "album": "Greatest Hits - Japanese Singles Collection",
 "film_hint": "",
@@ -184,6 +189,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Almendra|Plegaria para un Niño Dormido": {
+"album": "Almendra (50 Años)",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
 "film_hint": "",
@@ -223,6 +233,11 @@
 "album": "Alta Suciedad",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Angus & Julia Stone|You're The One That I Want": {
+"album": "Big Jet Plane - EP",
+"film_hint": "",
+"genre": "Pop"
 },
 "Angèle Dubeau|The Mission – Buona Fortuna Jack (Live)": {
 "album": "Ovation",
@@ -629,6 +644,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Boards of Canada|Roygbiv": {
+"album": "Music Has the Right to Children",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Bob Dylan|Girl from the North Country": {
 "album": "The Freewheelin' Bob Dylan",
 "film_hint": "",
@@ -694,6 +714,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Bonobo|Kong": {
+"album": "Black Sands",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Bonobo|Terrapin": {
 "album": "Animal Magic",
 "film_hint": "",
@@ -756,6 +781,11 @@
 },
 "Brian Eno|An Ending (Ascent) (Remastered 2019)": {
 "album": "Brian Eno - Film Music 1976 ~ 2020",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Brian Eno|Capsule": {
+"album": "For All Mankind",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1044,6 +1074,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Cigarettes After Sex|Apocalypse": {
+"album": "Cigarettes After Sex",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Cigarettes After Sex|Nothing's Gonna Hurt You Baby": {
 "album": "I. - EP",
 "film_hint": "",
@@ -1068,6 +1103,11 @@
 "album": "Heaven Or Las Vegas (Remastered)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Cocteau Twins|Ivo": {
+"album": "Treasure",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Cocteau Twins|Whales Tails": {
 "album": "Victorialand",
@@ -1409,6 +1449,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Dot Allison|Bleached By The Sun": {
+"album": "Consciousology",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Dua Lipa|Houdini": {
 "album": "Houdini - Single",
 "film_hint": "",
@@ -1483,6 +1528,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Ed Sheeran|Azizam": {
+"album": "Azizam - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Ed Sheeran|Beautiful People (feat. Khalid)": {
 "album": "No.6 Collaborations Project",
@@ -1604,6 +1654,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Ethel Cain|Punish": {
+"album": "Punish - Single",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Etta James|I'd Rather Go Blind": {
 "album": "Tell Mama",
 "film_hint": "",
@@ -1613,6 +1668,11 @@
 "album": "The Final Countdown (Expanded Edition)",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Eurythmics, Annie Lennox, Dave Stewart|Sweet Dreams (Are Made of This) [2018 Remastered]": {
+"album": "Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Eva Cassidy|Ain't No Sunshine (Album Version)": {
 "album": "Time After Time",
@@ -1699,6 +1759,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Fleetwood Mac|The Ledge": {
+"album": "Tusk (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Fleetwood Mac|Tusk": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -1753,6 +1818,11 @@
 "album": "Scattering",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Fred again..|Victory Lap": {
+"album": "Victory Lap",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Fred again..|leavemealone": {
 "album": "Actual Life 3 (January 1 - September 9 2022)",
@@ -1818,6 +1888,11 @@
 "album": "Collaboration",
 "film_hint": "",
 "genre": "Jazz"
+},
+"George Michael|Somebody to Love (Album Version)": {
+"album": "The Platinum Collection",
+"film_hint": "",
+"genre": "Rock"
 },
 "Geowulf|Saltwater": {
 "album": "Great Big Blue",
@@ -2184,6 +2259,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Human League|Don't You Want Me": {
+"album": "Dare",
+"film_hint": "",
+"genre": "Pop"
+},
 "Hundreds|Black Sea  (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
@@ -2233,6 +2313,11 @@
 "album": "Piece of Mind (2015 Remaster)",
 "film_hint": "",
 "genre": "Metal"
+},
+"Iron Mountain|Enthralldom": {
+"album": "Unum",
+"film_hint": "",
+"genre": "Prog-Rock/Art Rock"
 },
 "Jack Johnson|Better Together": {
 "album": "In Between Dreams (Bonus Track Version)",
@@ -2354,6 +2439,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joe Hisaishi|Asian Dream Song": {
+"album": "Dream Songs: The Essential Joe Hisaishi",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "Joe Hisaishi|Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea')": {
 "album": "A Symphonic Celebration (Music from the Studio Ghibli Films of Hayao Miyazaki)",
 "film_hint": "",
@@ -2414,6 +2504,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"John Prine|Your Flag Decal Won't Get You into Heaven Anymore": {
+"album": "John Prine",
+"film_hint": "",
+"genre": "Rock"
+},
 "John Williams|Theme From Superman  (Concert Version)": {
 "album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
 "film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
@@ -2436,6 +2531,11 @@
 },
 "Jon Hopkins|Open Eye Signal (Remaster 2023)": {
 "album": "Immunity",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Jon Hopkins|Small Memory": {
+"album": "Insides",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -2574,10 +2674,20 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Kaytranada|LITE SPOTS": {
+"album": "99.9%",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Ken Thomson And Slow/Fast|We Are Not All in This Together": {
 "album": "Settle",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Kendrick Lamar|Alright": {
+"album": "To Pimp a Butterfly",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Kenny Loggins|Footloose (Album Version)": {
 "album": "Footloose (Original Motion Picture Soundtrack)",
@@ -2754,6 +2864,11 @@
 "film_hint": "",
 "genre": "Hawaii"
 },
+"Lemon Jelly|Ramblin' Man": {
+"album": "Lost Horizons",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Leon Bridges|Coming Home": {
 "album": "Coming Home (Deluxe)",
 "film_hint": "",
@@ -2854,6 +2969,16 @@
 "film_hint": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
 },
+"LoneGray|Tell Your World": {
+"album": "Tell Your World (feat. Kasane Teto) - Single",
+"film_hint": "",
+"genre": "Metal"
+},
+"Lord Huron|Life Is Strange": {
+"album": "The Cosmic Selector Vol. 1",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Lordi|Hard Rock Hallelujah": {
 "album": "The Hills Have Eyes 2 - The Album",
 "film_hint": "The Hills Have Eyes 2 - The Album",
@@ -2904,6 +3029,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Ludovico Einaudi|Nuvole Bianche": {
+"album": "Peaceful Piano",
+"film_hint": "",
+"genre": "Classical"
+},
 "Ludovico Einaudi|Primavera": {
 "album": "Divenire",
 "film_hint": "",
@@ -2934,8 +3064,18 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"M83|Wait": {
+"album": "Hurry Up, We're Dreaming",
+"film_hint": "",
+"genre": "Electronic"
+},
 "MGMT|Electric Feel (Album Version)": {
 "album": "Oracular Spectacular",
+"film_hint": "",
+"genre": "Alternative"
+},
+"MGMT|Little Dark Age": {
+"album": "Little Dark Age",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3089,6 +3229,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Masego|Tadow": {
+"album": "Lady Lady",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Massive Attack|Teardrop": {
 "album": "Mezzanine",
 "film_hint": "",
@@ -3128,6 +3273,11 @@
 "album": "So Tonight That I Might See",
 "film_hint": "",
 "genre": "Pop"
+},
+"Mazzy Star|Halah": {
+"album": "She Hangs Brightly",
+"film_hint": "",
+"genre": "Rock"
 },
 "Megan Moroney|Tennessee Orange": {
 "album": "Tennessee Orange - Single",
@@ -3404,6 +3554,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Nelson Freire|Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento": {
+"album": "Memories – The Unreleased Recordings 1970-2019",
+"film_hint": "",
+"genre": "Classical"
+},
 "Never Get Used To People|Life Letters (Slowed+Reverb)": {
 "album": "Life Letters (Slowed+Reverb) - Single",
 "film_hint": "",
@@ -3448,6 +3603,11 @@
 "album": "dog eat dog food world",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"Nils Frahm|All Melody": {
+"album": "All Melody",
+"film_hint": "",
+"genre": "Ambient"
 },
 "Nils Frahm|Says": {
 "album": "Spaces (Special Edition)",
@@ -4189,6 +4349,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Sarah McLachlan|Fallen (Album Mix)": {
+"album": "Afterglow",
+"film_hint": "",
+"genre": "Pop"
+},
 "Sarah McLachlan|Sweet Surrender (Album Version)": {
 "album": "Surfacing",
 "film_hint": "",
@@ -4338,6 +4503,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Sleeping At Last|Saturn": {
+"album": "Atlas: Space (Deluxe)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Slowdive|Alison": {
 "album": "Souvlaki",
@@ -4494,6 +4664,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Stevie Ray Vaughan & Double Trouble|Riviera Paradise": {
+"album": "The Essential Stevie Ray Vaughan and Double Trouble",
+"film_hint": "",
+"genre": "Rock"
+},
 "Stevie Wonder|Go Home": {
 "album": "In Square Circle",
 "film_hint": "",
@@ -4584,6 +4759,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Suzanne Ciani|Improvisation On Four Sequences Pt.1": {
+"album": "Improvisation On Four Sequences (Live at Week-End Fest)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Swan Dive|Circle": {
 "album": "Circle",
 "film_hint": "",
@@ -4593,6 +4773,11 @@
 "album": "Soundtrack to Me and You",
 "film_hint": "Soundtrack to Me and You",
 "genre": "Pop"
+},
+"Swan Dive|Tender Love": {
+"album": "Until",
+"film_hint": "",
+"genre": "Folk"
 },
 "Synergy|Chateau": {
 "album": "Sequencer (feat. Larry Fast)",
@@ -4659,6 +4844,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Tamara Živković|Nova Zora (Eurovision 2026)": {
+"album": "Nova Zora (Eurovision 2026) - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tame Impala|Is It True": {
 "album": "The Slow Rush",
 "film_hint": "",
@@ -4714,6 +4904,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Avett Brothers|The Ballad of Love and Hate": {
+"album": "Emotionalism (Bonus Track Version)",
+"film_hint": "",
+"genre": "Country"
+},
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
 "film_hint": "",
@@ -4763,6 +4958,11 @@
 "album": "Ma Fleur",
 "film_hint": "",
 "genre": "Electronic"
+},
+"The Civil Wars|The One That Got Away": {
+"album": "The Civil Wars",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "The Cranberries|Dreams": {
 "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
@@ -4844,6 +5044,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"The National|About Today (2021 Remaster)": {
+"album": "Cherry Tree (2021 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The O'Jays|Back Stabbers": {
 "album": "Back Stabbers",
 "film_hint": "",
@@ -4894,6 +5099,16 @@
 "film_hint": "",
 "genre": "Vocal"
 },
+"The Replacements|Answering Machine": {
+"album": "Let It Be",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Replacements|Left of the Dial (Ed Stasium Mix)": {
+"album": "Tim (Let It Bleed Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Rolling Stones|Paint It, Black": {
 "album": "Hot Rocks 1964-1971",
 "film_hint": "",
@@ -4924,6 +5139,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"The Soul Stirrers|Touch The Hem Of His Garment": {
+"album": "The 2 Sides of Sam Cooke",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The Staple Singers|I'll Take You There": {
 "album": "The Best of the Staple Singers",
 "film_hint": "",
@@ -4933,6 +5153,11 @@
 "album": "Confessions of a Pop Group (Remastered)",
 "film_hint": "",
 "genre": "Pop"
+},
+"The Sundays|Folk Song": {
+"album": "Static & Silence",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Sundays|Wild Horses": {
 "album": "Blind",
