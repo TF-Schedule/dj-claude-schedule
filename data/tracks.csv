@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Grace Jones,Slave To The Rhythm (Hot Blooded Version),13,2026-10-28T15:29:08Z,Open Channel,R&B/Soul,Private Life: The Compass Point Sessions,,https://music.apple.com/us/album/slave-to-the-rhythm-hot-blooded-version/1452863515?i=1452864178,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b3/11/79/b311798d-610a-620d-f13a-c75d8ed4aa92/06UMGIM05341.rgb.jpg/100x100bb.jpg
+Pearl Jam,Yellow Ledbetter,26,2026-10-28T15:23:57Z,Open Channel,Rock,Jeremy - Single,,https://music.apple.com/us/album/yellow-ledbetter/158049800?i=158051513,Regal + Kurt,
+Floating Points,Birth4000,64,2026-10-28T15:19:05Z,Open Channel,Electronic,Birth4000 - Single,,https://music.apple.com/us/album/birth4000/1707533777?i=1707533778,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/43/86/2f43863b-30dd-2094-8ac4-b369e132052f/5054429190229.png/100x100bb.jpg
 Fleetwood Mac,Sara,21,2026-10-28T15:12:27Z,Open Channel,Rock,Greatest Hits,,https://music.apple.com/us/album/sara/202271826?i=202272717,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg
 Duran Duran,Ordinary World,10,2026-10-28T15:06:41Z,Open Channel,Pop,Duran Duran (The Wedding Album),,https://music.apple.com/us/album/ordinary-world/696247010?i=696247422,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/43/cb/e943cba9-b641-14a9-c5cb-52e67cef101c/077779887651.jpg/100x100bb.jpg
 Angélique Kidjo,Malaika,1,2026-10-28T15:02:14Z,Open Channel,Worldwide,Logozo,,https://music.apple.com/us/search?term=Ang%C3%A9lique+Kidjo+Malaika,Regal,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/ef/99/54ef9954-35d4-e281-4e51-b3e4d538bf35/00731451035227.rgb.jpg/100x100bb.jpg
@@ -476,7 +479,6 @@ Benjamin Francis Leftwich,Ticket To Ride,38,2026-10-27T02:55:15Z,,Alternative,Ho
 Synergy,Chateau,30,2026-10-27T02:50:15Z,,Electronic,Sequencer (feat. Larry Fast),,,Kurt,
 Rival Consoles,Untravel,49,2026-10-27T02:44:15Z,,Electronic,Persona,,,Kurt,
 Jungle,Keep Moving,52,2026-10-27T02:35:15Z,,Electronic,Loving In Stereo,,,Kurt,
-Floating Points,Birth4000,64,2026-10-27T02:30:15Z,,Electronic,Cascade,,,Kurt,
 Djivan Gasparyan,Together Forever,59,2026-10-27T02:23:15Z,,Worldwide,Black Rock,,,Kurt,
 The Psychedelic Furs,The Ghost In You,12,2026-10-27T02:18:45Z,,Alternative,Greatest Hits,,,Kurt,
 Nightmares On Wax,Les Nuits,59,2026-10-27T02:12:15Z,,Electronic,Carboot Soul,,,Kurt,
@@ -508,7 +510,6 @@ James Blake,Retrograde,65,2026-10-27T00:10:15Z,,Electronic,Overgrown (Deluxe Edi
 M83,Midnight City,112,2026-10-27T00:05:45Z,,Electronic,"Hurry Up, We're Dreaming",,,Kurt,
 Bonobo,Terrapin,135,2026-10-27T00:04:45Z,,Dance,Animal Magic,,,Kurt,
 George Benson,Dreamin' (Album Version),16,2026-10-26T23:51:15Z,,Jazz,Collaboration,,,Kurt,
-Pearl Jam,Yellow Ledbetter,26,2026-10-26T23:46:15Z,,Rock,Jeremy - Single,,,Kurt,
 Ambrosia,Biggest Part of Me (Album Version),49,2026-10-26T23:40:15Z,,Pop,One Eighty,,,Kurt,
 The Staple Singers,I'll Take You There,46,2026-10-26T23:35:15Z,,R&B/Soul,The Best of the Staple Singers,,,Kurt,
 David Byrne,Everybody's Coming to My House (Live),5,2026-10-26T23:31:45Z,,Soundtrack,American Utopia on Broadway (Original Cast Recording Live),American Utopia on Broadway (Original Cast Recording Live),,Kurt,
@@ -1035,7 +1036,6 @@ Benny Sings,Rolled Up,20,2026-10-24T16:16:42Z,,Pop,Rolled Up (feat. Mac DeMarco)
 Miracles of Modern Science,Dear Pressure,19,2026-10-24T16:13:12Z,,Alternative,Meems - EP,,,Kurt,
 Apo Hiking Society,When I Met You,10,2026-10-24T16:00:42Z,,Pop,True to My Music,,,Kurt,
 USA for Africa,We Are The World,45,2026-10-24T15:48:46Z,,Rock,We Are the World - Single,,,Kurt,
-Grace Jones,Slave To The Rhythm (Hot Blooded Version),13,2026-10-24T15:30:42Z,,R&B/Soul,Private Life: The Compass Point Sessions,,,Kurt,
 RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),26,2026-10-24T15:22:42Z,,Electronic,Live from Joshua Tree,,,Kurt,
 The Orb,Blue Room  (Live),17,2026-10-24T15:14:42Z,,Electronic,U.F.OFF: The Best of the Orb,,,Kurt,
 Billy Joel,Scenes from an Italian Restaurant (Album Version),17,2026-10-24T15:07:13Z,,Rock,The Stranger,,,Kurt,
@@ -1701,46 +1701,46 @@ Tom Konkle,Fail Upward For A Change,2,2026-10-17T13:56:45Z,,Rock,The Storm with 
 Sir David Willcocks,"5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",3,2026-10-17T13:40:15Z,,Classical,Vaughan Williams: Five Tudor Portraits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/19/1a/e6191a52-27c1-8447-e415-2af8805dff91/5021732628862.jpg/100x100bb.jpg
 Geraint Watkins,At Last,4,2026-10-17T12:36:44Z,,Blues,In a Bad Mood (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/c5/da/79/mzi.pxgmeawl.jpg/100x100bb.jpg
 The Temptations,At Last (Album Version),6,2026-10-17T12:23:44Z,,R&B/Soul,The Big Chill (Original Motion Picture Soundtrack) [15th Anniversary],The Big Chill (Original Motion Picture Soundtrack) [15th Anniversary],,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/e7/f9/9fe7f9f4-ba2f-b369-707f-76899faf1f2c/06UMGIM07593.rgb.jpg/100x100bb.jpg
-Gene Watson,At Last,2,2026-10-17T10:29:11Z,,,,,,Kurt,
-Solisti e Orchestre del Cinema Italiano,L'uomo dell'armonica,5,2026-10-17T10:17:11Z,,,,,,Kurt,
-The Rolling Stones,Sweet Sounds Of Heaven,11,2026-10-17T09:34:41Z,,,,,,Kurt,
-Natalie Cole,At Last,8,2026-10-17T08:16:10Z,,,,,,Kurt,
-Claude Debussy,Clair de Lune: I,14,2026-10-17T07:48:10Z,,,,,,Kurt,
-Camille,Ta douleur,6,2026-10-17T07:19:11Z,,,,,,Kurt,
-Karim Sulayman,Li Beirut (after Joaquín Rodrigo),2,2026-10-17T06:37:10Z,,,,,,Kurt,
-Tom Konkle,Life Without The Living,5,2026-10-17T06:06:40Z,,,,,,Kurt,
-U2,Angel Of Harlem,3,2026-10-17T05:36:10Z,,,,,,Kurt,
-Faith No More,Surprise! You're Dead!,3,2026-10-17T05:00:10Z,,,,,,Kurt,
-Judas Priest,Breaking the Law,9,2026-10-17T04:45:39Z,,,,,,Kurt,
-David Bowie,Slip Away,17,2026-10-17T01:45:39Z,,,,,,Kurt,
-Hozier,Angel Of Small Death & The Codeine Scene,6,2026-10-17T01:03:37Z,,,,,,Kurt,
-Prince,Adore  (2020 Remaster),45,2026-10-17T00:07:07Z,,,,,,Kurt,
-The Beatles,Yesterday (Remastered),49,2026-10-16T21:46:36Z,,,,,,Kurt,
+Gene Watson,At Last,2,2026-10-17T10:29:11Z,,Country,At Last,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/b2/90/6db2905f-cd83-3adc-7411-6921801dcf23/603497868780.jpg/100x100bb.jpg
+Solisti e Orchestre del Cinema Italiano,L'uomo dell'armonica,5,2026-10-17T10:17:11Z,,Soundtrack,Ennio Morricone - Once Upon a Time - Critic's Choice,Ennio Morricone - Once Upon a Time - Critic's Choice,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/6c/50/9f6c50d9-e163-30ed-312f-d92c031418ca/76119005618.jpg/100x100bb.jpg
+The Rolling Stones,Sweet Sounds Of Heaven,11,2026-10-17T09:34:41Z,,Rock,Hackney Diamonds,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/55/b7/af55b7c8-e6d2-d806-8186-a6207bef2638/23UMGIM99574.rgb.jpg/100x100bb.jpg
+Natalie Cole,At Last,8,2026-10-17T08:16:10Z,,Jazz,Unforgettable...With Love,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/04/82/07048202-a054-8c3f-7c3e-8d8a286c71cc/19CRGIM10645.rgb.jpg/100x100bb.jpg
+Claude Debussy,Clair de Lune: I,14,2026-10-17T07:48:10Z,,Classical,Roland Pöntinen Plays Romantic Piano Music,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/77/83/e67783db-13ee-9196-ddf0-271825b9b5a4/8721056492589.png/100x100bb.jpg
+Camille,Ta douleur,6,2026-10-17T07:19:11Z,,French Pop,Le fil,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/4d/7f/594d7f11-e0b8-0e16-663e-047e02ff684f/5060421569314_cover.jpg/100x100bb.jpg
+Karim Sulayman,Li Beirut (after Joaquín Rodrigo),2,2026-10-17T06:37:10Z,,Classical,Broken Branches,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/1e/66/a81e66f2-92c4-ea34-2466-395f0c858afa/8717306260800_cover.jpg/100x100bb.jpg
+Tom Konkle,Life Without The Living,5,2026-10-17T06:06:40Z,,Rock,Life Without the Living - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/6c/87/9a6c8705-c4ba-f02c-0c30-95e53e4882c0/823000365227.png/100x100bb.jpg
+U2,Angel Of Harlem,3,2026-10-17T05:36:10Z,,Rock,Rattle and Hum,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/95/5e/b8955e8b-6993-2404-4ea5-442119be149c/17UMGIM95505.rgb.jpg/100x100bb.jpg
+Faith No More,Surprise! You're Dead!,3,2026-10-17T05:00:10Z,,Hard Rock,The Real Thing,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/66/6c/1c666c64-4140-05c4-296b-54e8a69cb983/mzi.pqhqsipo.jpg/100x100bb.jpg
+Judas Priest,Breaking the Law,9,2026-10-17T04:45:39Z,,Metal,British Steel (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/100x100bb.jpg
+David Bowie,Slip Away,17,2026-10-17T01:45:39Z,,Rock,Heathen,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/64/86/ad64863b-3a90-2dd4-b064-38811178d993/5054197573927.jpg/100x100bb.jpg
+Hozier,Angel Of Small Death & The Codeine Scene,6,2026-10-17T01:03:37Z,,Alternative,Hozier (Expanded Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/100x100bb.jpg
+Prince,Adore  (2020 Remaster),45,2026-10-17T00:07:07Z,,R&B/Soul,Sign O' The Times,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/52/38/a95238ab-10f9-e407-4bc8-755148d32d65/886448874546.jpg/100x100bb.jpg
+The Beatles,Yesterday (Remastered),49,2026-10-16T21:46:36Z,,Rock,Help!,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/19/db/1a19db26-17ad-b986-11a9-f72ac7a6194b/18UMGIM31214.rgb.jpg/100x100bb.jpg
 Steely Dan,Almost Gothic (Album Version),20,2026-10-16T20:51:06Z,,,,,,Kurt,
-Haute & Freddy,Shy Girl,5,2026-10-16T18:08:07Z,,,,,,Kurt,
-The Rah Band,Messages from the Stars (Remaster),24,2026-10-16T15:45:07Z,,,,,,Kurt,
-Belcea Quartet,"Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato",7,2026-10-16T14:38:06Z,,,,,,Kurt,
-Tom Konkle,When Did Love Become A Test,3,2026-10-16T13:58:06Z,,,,,,Kurt,
-SZA,Kill Bill,112,2026-10-16T13:26:06Z,,,,,,Kurt,
-TV Girl,Loving Machine,19,2026-10-16T13:16:37Z,,,,,,Kurt,
-Fleet Foxes,White Winter Hymnal,74,2026-10-16T12:06:36Z,,,,,,Kurt,
-Glenn Gould,"3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental)",6,2026-10-16T07:43:35Z,,,,,,Kurt,
-John T. Williams,Anything Goes,9,2026-10-16T05:14:34Z,,,,,,Kurt,
-Extreme,More Than Words,2,2026-10-16T03:51:33Z,,,,,,Kurt,
-KOHTO,princess mononoke theme,8,2026-10-16T03:35:03Z,,,,,,Kurt,
-DEEN,Ride On Time,9,2026-10-16T03:27:03Z,,,,,,Kurt,
-KAYA!,Turn It Up,4,2026-10-16T03:12:33Z,,,,,,Kurt,
-Gesu No Kiwami Otome,Revenge of Instinct,13,2026-10-16T03:03:03Z,,,,,,Kurt,
-Robert Fripp,Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix),4,2026-10-16T02:19:33Z,,,,,,Kurt,
-Underscores,Do It,6,2026-10-16T02:13:33Z,,,,,,Kurt,
-Abor & Tynna,Baller,3,2026-10-16T02:11:04Z,,,,,,Kurt,
-Noisia,Pleasure Model (Rohaan Remix),4,2026-10-16T00:31:02Z,,,,,,Kurt,
-Autechre,Gantz Graf,3,2026-10-16T00:24:02Z,,,,,,Kurt,
-DJ Benjii,Aykedashem Lebe,14,2026-10-16T00:04:32Z,,,,,,Kurt,
-Genesis,I Know What I Like (In Your Wardrobe) (2007 Stereo Mix),4,2026-10-15T23:59:02Z,,,,,,Kurt,
-Supercell,The World Is Mine (feat. Hatsune Miku),20,2026-10-15T22:23:31Z,,,,,,Kurt,
-YASSiN & Sean Terrio,All Summer,4,2026-10-15T21:52:31Z,,,,,,Kurt,
-Scott Carlin,Fragile,2,2026-10-15T21:02:31Z,,,,,,Kurt,
+Haute & Freddy,Shy Girl,5,2026-10-16T18:08:07Z,,Alternative,Shy Girl - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/a0/d1/8ca0d1a5-1eba-c003-c0b6-0ec409deddcd/075679613288.jpg/100x100bb.jpg
+The Rah Band,Messages from the Stars (Remaster),24,2026-10-16T15:45:07Z,,Jazz,The Very Best Of...,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/e2/cc/12/mzi.czxafjmh.tif/100x100bb.jpg
+Belcea Quartet,"Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato",7,2026-10-16T14:38:06Z,,Classical,Bartók: String Quartets Nos. 1 - 6,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/89/b0/b4/89b0b4a1-bf6f-a29f-f30b-cc39da81c20c/094639440054.jpg/100x100bb.jpg
+Tom Konkle,When Did Love Become A Test,3,2026-10-16T13:58:06Z,,Pop,When Did Love Become a Test - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/a8/4a/b5a84a95-8d92-fd12-ac5a-04e4ced02c5f/823000201631.png/100x100bb.jpg
+SZA,Kill Bill,112,2026-10-16T13:26:06Z,,R&B/Soul,SOS,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/100x100bb.jpg
+TV Girl,Loving Machine,19,2026-10-16T13:16:37Z,,Pop,Who Really Cares,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/48/1b/f7481be7-f879-64de-fccb-9a464aa7506f/190394310509_cover.jpg/100x100bb.jpg
+Fleet Foxes,White Winter Hymnal,74,2026-10-16T12:06:36Z,,Alternative,Fleet Foxes,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/13/5d/b5135d6b-97e1-19cb-4234-5f711b77972e/098787077766.png/100x100bb.jpg
+Glenn Gould,"3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental)",6,2026-10-16T07:43:35Z,,Classical,Schoenberg: Piano Music,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/11/b9/ac/11b9ac77-ade8-3dec-67bf-73dc7401f0d0/896931005142.jpg/100x100bb.jpg
+John T. Williams,Anything Goes,9,2026-10-16T05:14:34Z,,Soundtrack,Indiana Jones and the Temple of Doom (Original Motion Picture Soundtrack),Indiana Jones and the Temple of Doom (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6f/a6/07/6fa6072a-6362-f7ae-c55f-d13caac90ee4/00050087398637.rgb.jpg/100x100bb.jpg
+Extreme,More Than Words,2,2026-10-16T03:51:33Z,,Hard Rock,Extreme II: Pornograffitti,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/51/37/13513726-9197-8dea-bf06-b134044f8d34/06UMGIM00648.rgb.jpg/100x100bb.jpg
+KOHTO,princess mononoke theme,8,2026-10-16T03:35:03Z,,Instrumental,ghibli lullabies II,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/7c/11/247c1139-caac-47c7-c126-98287a6d20b0/197999187048_cover.jpg/100x100bb.jpg
+DEEN,Ride On Time,9,2026-10-16T03:27:03Z,,J-Pop,POP IN CITY - for covers only,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/52/9c/87529ca3-843f-3cd2-3b64-d6911b64f2e3/4547366494839.jpg/100x100bb.jpg
+KAYA!,Turn It Up,4,2026-10-16T03:12:33Z,,Trance,Turn It Up - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/55/53/b2555362-c2a1-0ede-ff50-904506475193/8718522243141.png/100x100bb.jpg
+Gesu No Kiwami Otome,Revenge of Instinct,13,2026-10-16T03:03:03Z,,Instrumental,ORGEL J-POP Selection Vol.38 - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/48/fa/c7/48fac7aa-6947-9265-1cd8-00c880a0b57a/D000000002560.jpg/100x100bb.jpg
+Robert Fripp,Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix),4,2026-10-16T02:19:33Z,,Prog-Rock/Art Rock,"Here Comes The Flood: Robert Fripp @ 80, Vol. 16 - Single",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/12/47/7812472e-5321-2cc0-9206-ad91ee1c4b5b/33510.jpg/100x100bb.jpg
+Underscores,Do It,6,2026-10-16T02:13:33Z,,Pop,U,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e9/68/34e9680c-152b-9fc6-07e7-8f253e76d8f2/810090098852_Cover.jpg/100x100bb.jpg
+Abor & Tynna,Baller,3,2026-10-16T02:11:04Z,,Pop,Bittersüß,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/19/bb/9019bbb2-1c97-4fad-7d67-d99011d8c5c1/196871080972.jpg/100x100bb.jpg
+Noisia,Pleasure Model (Rohaan Remix),4,2026-10-16T00:31:02Z,,Jungle/Drum'n'bass,The Resonance III,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/42/d4/0442d46e-6694-1210-b420-b026d2b562df/5057272937164.png/100x100bb.jpg
+Autechre,Gantz Graf,3,2026-10-16T00:24:02Z,,Electronic,Gantz Graf - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/cd/5a/ce/mzi.urpqhrho.jpg/100x100bb.jpg
+DJ Benjii,Aykedashem Lebe,14,2026-10-16T00:04:32Z,,Amapiano,Afro Experience Mix Vol. 1,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/c6/7c/13c67c30-e0b6-aa25-1651-dccd0ed51b12/199826658240-copy-b77d23ab.png/100x100bb.jpg
+Genesis,I Know What I Like (In Your Wardrobe) (2007 Stereo Mix),4,2026-10-15T23:59:02Z,,Rock,Selling England By the Pound (2007 Stereo Mix),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/49/52/90/mzi.zezbnsxb.jpg/100x100bb.jpg
+Supercell,The World Is Mine (feat. Hatsune Miku),20,2026-10-15T22:23:31Z,,Worldwide,supercell (feat. Hatsune Miku),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b2/a4/10/b2a410df-9deb-5269-50bf-6a31ce3bd0fb/mzi.dqdonwii.jpg/100x100bb.jpg
+YASSiN & Sean Terrio,All Summer,4,2026-10-15T21:52:31Z,,Alternative,Just Try,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/07/26/390726a8-b722-19f5-d93b-92e2bd5cd67e/3617228901261_cover.jpg/100x100bb.jpg
+Scott Carlin,Fragile,2,2026-10-15T21:02:31Z,,Indie Rock,Pressure + Heat,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/b3/7a/6bb37a36-2b6f-d4b2-5db6-6df9bd41bf98/692531518798.png/100x100bb.jpg
 Rick Springfield,Jessie's Girl,4,2026-10-15T20:25:01Z,,,,,,Kurt,
 Iggy Pop,Mass Production,21,2026-10-15T19:52:31Z,,,,,,Kurt,
 Silverchair,Ana's Song (Open Fire),10,2026-10-15T19:37:31Z,,,,,,Kurt,
