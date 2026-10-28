@@ -1,13 +1,43 @@
 {
+"Aaliyah|If Your Girl Only Knew": {
+"album": "One In A Million",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Al Green|Let's Stay Together": {
+"album": "Let's Stay Together",
+"film_hint": "",
+"genre": "Soul"
+},
 "Al Stewart|Year of the Cat": {
 "album": "Year of the Cat",
 "film_hint": "",
 "genre": "Pop"
 },
+"Albert Hammond|When I'm Gone": {
+"album": "Your World and My World",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Amadou & Mariam|M' Bife": {
+"album": "Dimanche à Bamako",
+"film_hint": "",
+"genre": "Worldwide"
+},
+"Amália Rodrigues|Barco negro": {
+"album": "Amália Rodrigues - Antologia",
+"film_hint": "",
+"genre": "Fado"
+},
+"Ana Sofia Varela|Fado Vadio (Má Fama)": {
+"album": "Fados de Amor e Pecado",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Angèle Dubeau|The Mission – Buona Fortuna Jack (Live)": {
 "album": "Ovation",
@@ -49,6 +79,16 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Beach House|Space Song": {
+"album": "Depression Cherry",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Beck|Devils Haircut": {
+"album": "Odelay",
+"film_hint": "",
+"genre": "Rock"
+},
 "Bert Kaempfert|A Swingin' Safari": {
 "album": "A Swingin' Safari (Remastered)",
 "film_hint": "",
@@ -63,6 +103,11 @@
 "album": "Rattle Them Bones",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Big Thief|Mary": {
+"album": "Capacity",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Billie Eilish|Lo Vas A Olvidar": {
 "album": "Lo Vas A Olvidar - Single",
@@ -84,6 +129,11 @@
 "film_hint": "",
 "genre": "Disco"
 },
+"Blossom Dearie|It Amazes Me": {
+"album": "Once Upon a Summertime...",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Blur|Song 2": {
 "album": "Blur",
 "film_hint": "",
@@ -98,6 +148,11 @@
 "album": "What You Won't Do for Love",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Bobby McFerrin|Don't Worry Be Happy": {
+"album": "The Best of Bobby McFerrin",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Bon Iver|Skinny Love": {
 "album": "For Emma, Forever Ago",
@@ -154,6 +209,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Cigarettes After Sex|Nothing's Gonna Hurt You Baby": {
+"album": "I. - EP",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Colbie Caillat|Try": {
 "album": "Gypsy Heart",
 "film_hint": "",
@@ -174,10 +234,20 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"DJ Cam Quartet|Boss Guitar": {
+"album": "Christmas Guitar",
+"film_hint": "",
+"genre": "Christmas"
+},
 "Daft Punk|Voyager": {
 "album": "Discovery",
 "film_hint": "",
 "genre": "Dance"
+},
+"Damien Rice|The Blower's Daughter": {
+"album": "O",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "De La Soul|Me Myself and I": {
 "album": "3 Feet High and Rising",
@@ -193,6 +263,11 @@
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Djivan Gasparyan|Take My Heart": {
+"album": "Black Rock",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Dope Lemon|Honey Bones": {
 "album": "Honey Bones",
@@ -234,6 +309,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Fabrizio De Andrè|Bocca di rosa": {
+"album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
+"film_hint": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
+"genre": "Soundtrack"
+},
 "Federico Aubele|Postales": {
 "album": "Gran Hotel Buenos Aires",
 "film_hint": "",
@@ -274,6 +354,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"G.Rag & die Landlergschwister|Odessa": {
+"album": "The Erdäpfelkaas - Single",
+"film_hint": "",
+"genre": "Dance"
+},
 "Gal Costa|Baby (Original Album)": {
 "album": "Unreal Album",
 "film_hint": "",
@@ -304,6 +389,16 @@
 "film_hint": "",
 "genre": ""
 },
+"Glass Animals|Heat Waves (Stripped Back)": {
+"album": "Dreamland",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Glen Hansard and Marketa Irglova|Falling Slowly (Album Version)": {
+"album": "Once (Music from the Motion Picture)",
+"film_hint": "Once (Music from the Motion Picture)",
+"genre": "Soundtrack"
+},
 "Glenn Miller & His Orchestra|(I've Got A Gal In) Kalamazoo": {
 "album": "Big Band Classics (Volume 1)",
 "film_hint": "",
@@ -313,6 +408,16 @@
 "album": "The Essential Glenn Miller",
 "film_hint": "",
 "genre": "Jazz"
+},
+"GoGo Penguin|Raven": {
+"album": "A Humdrum Star (Deluxe)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Gorillaz|Empire Ants (feat. Little Dragon)": {
+"album": "Plastic Beach (Deluxe Version)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Grace Jones|I've Seen That Face Before (Libertango)": {
 "album": "Nightclubbing",
@@ -369,10 +474,20 @@
 "film_hint": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
 "genre": "Soundtrack"
 },
+"Hard Life|daydreams": {
+"album": "daydreams - Single",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Harold Budd|A Stream With Bright Fish (2005 Digital Remaster)": {
 "album": "Avalon Sutra (2013 Remaster)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Heejin|Algorithm": {
+"album": "<K> - EP",
+"film_hint": "",
+"genre": "K-Pop"
 },
 "Helado Negro|Brown Fluorescence": {
 "album": "Far In",
@@ -409,10 +524,20 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Iration|Fly with Me": {
+"album": "Iration",
+"film_hint": "",
+"genre": "Reggae"
+},
 "Iron & Wine|Naked as We Came": {
 "album": "Our Endless Numbered Days",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Jack Johnson|Better Together": {
+"album": "In Between Dreams (Bonus Track Version)",
+"film_hint": "",
+"genre": "Rock"
 },
 "James Brown|I Got You (I Feel Good)": {
 "album": "20 All-Time Greatest Hits!",
@@ -469,6 +594,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joywave|In Clover": {
+"album": "How Do You Feel Now?",
+"film_hint": "",
+"genre": "Alternative"
+},
 "João Gilberto|Garota de Ipanema (Live)": {
 "album": "Live At Umbria Jazz",
 "film_hint": "",
@@ -483,6 +613,11 @@
 "album": "Julie Is Her Name",
 "film_hint": "",
 "genre": "Pop"
+},
+"Julien Baker|Hardline": {
+"album": "Little Oblivions",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Kali Uchis|telepatía": {
 "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
@@ -529,6 +664,21 @@
 "film_hint": "The Great Gatsby (Music From Baz Luhrmann's Film)",
 "genre": "Soundtrack"
 },
+"Led Zeppelin|Going to California  (Remaster)": {
+"album": "Led Zeppelin IV (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Ledward Kaapana|Salomila  (Live)": {
+"album": "Led Live - Solo",
+"film_hint": "",
+"genre": "Hawaii"
+},
+"Leon Larregui|Brillas": {
+"album": "Solstis - De León Larregui",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Lianne La Havas|Sour Flower": {
 "album": "Lianne La Havas",
 "film_hint": "",
@@ -563,6 +713,11 @@
 "album": "Switched-on Ben Dover",
 "film_hint": "",
 "genre": "Dance"
+},
+"Luis Miguel|La Mentira": {
+"album": "Romance",
+"film_hint": "",
+"genre": "Pop Latino"
 },
 "Luther Vandross|A House Is Not A Home": {
 "album": "Never Too Much",
@@ -664,6 +819,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Men I Trust|Show Me How": {
+"album": "Show Me How - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Mica Levi|Love": {
 "album": "Under the Skin (Original Soundtrack Album)",
 "film_hint": "Under the Skin (Original Soundtrack Album)",
@@ -698,6 +858,16 @@
 "album": "Mother Earth's Plantasia",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Mulatu Astatke|Yègellé Tezeta": {
+"album": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",
+"film_hint": "",
+"genre": "Worldwide"
+},
+"Mumford & Sons|Awake My Soul": {
+"album": "Sigh No More",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Nat King Cole|L-O-V-E": {
 "album": "L-O-V-E",
@@ -843,6 +1013,16 @@
 "album": "A Day At The Races (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"RY X|Let You Go": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Radiohead|Weird Fishes / Arpeggi": {
+"album": "In Rainbows",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Randy Crawford|One Day I'll Fly Away": {
 "album": "Now We May Begin",
@@ -1029,6 +1209,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Sun's Signature|Golden Air": {
+"album": "Sun's Signature (Extended)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "THE TEARDROP EXPLODES|Reward": {
 "album": "Culture Bunker 1978 - 82",
 "film_hint": "",
@@ -1094,6 +1279,16 @@
 "film_hint": "",
 "genre": ""
 },
+"The Magnetic Fields|Born on a Train": {
+"album": "The Charm of the Highway Strip",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Proclaimers|I'm Gonna Be (500 Miles)": {
+"album": "Sunshine On Leith",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Velvet Underground|Sweet Jane   (Full Length Version; 2015 Remaster)": {
 "album": "New York (Deluxe Edition)",
 "film_hint": "",
@@ -1114,6 +1309,21 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Thee Sacred Souls|Live For You": {
+"album": "Got a Story to Tell",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Thievery Corporation|Lebanese Blonde": {
+"album": "It Takes A Thief: The Very Best Of Thievery Corporation",
+"film_hint": "",
+"genre": "Electronic"
+},
+"This Mortal Coil|Song To The Siren": {
+"album": "It'll End in Tears (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Tim Cappello|I Still Believe": {
 "album": "The Lost Boys (Original Motion Picture Soundtrack)",
 "film_hint": "The Lost Boys (Original Motion Picture Soundtrack)",
@@ -1123,6 +1333,11 @@
 "album": "Ravedeath, 1972",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Tim Maia|Réu Confesso": {
+"album": "The Soul of Brazil",
+"film_hint": "",
+"genre": "MPB"
 },
 "Tina Turner|The Best": {
 "album": "All the Best: The Hits",
@@ -1149,6 +1364,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Tyla|Water": {
+"album": "Water - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Vaya Con Dios|Nah Neh Nah": {
 "album": "Night Owls",
 "film_hint": "",
@@ -1163,6 +1383,11 @@
 "album": "Whitesnake (2018 Remaster)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Wild Nothing|Chinatown": {
+"album": "Gemini",
+"film_hint": "",
+"genre": "Alternative"
 },
 "William Fitzsimmons|Passion Play (Live in Paris)": {
 "album": "Until When We Are Ghosts",

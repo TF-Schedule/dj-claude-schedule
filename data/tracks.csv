@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Fabrizio De Andrè,Bocca di rosa,14,2026-10-28T08:12:54Z,Continental Break,Soundtrack,Fabrizio De André & PFM: il concerto ritrovato (Soundtrack),Fabrizio De André & PFM: il concerto ritrovato (Soundtrack),https://music.apple.com/us/search?term=Fabrizio+De+Andr%C3%A8+Bocca+di+rosa,Regal + Kurt
+Ana Sofia Varela,Fado Vadio (Má Fama),22,2026-10-28T08:09:59Z,Continental Break,Worldwide,Fados de Amor e Pecado,,https://music.apple.com/us/album/fado-vadio-m%C3%A1-fama/337902631?i=337903045,Regal + Kurt
+Amadou & Mariam,M' Bife,8,2026-10-28T08:07:44Z,Continental Break,Worldwide,Dimanche à Bamako,,https://music.apple.com/us/search?term=Amadou+%26+Mariam+M%27+Bife,Regal + Kurt
 Talk Talk,After The Flood,28,2026-10-28T07:58:00Z,Deep Drift,Rock,Laughing Stock,,https://music.apple.com/us/album/after-the-flood/1444218854?i=1444218867,Regal + Kurt
 Boards of Canada,Olson,54,2026-10-28T07:56:24Z,Deep Drift,Electronic,Music Has the Right to Children,,https://music.apple.com/us/album/olson/281116024?i=281116088,Regal + Kurt
 Mazzy Star,Fade Into You,94,2026-10-28T07:51:27Z,Deep Drift,Pop,So Tonight That I Might See,,https://music.apple.com/us/album/fade-into-you/1440848808?i=1440848810,Regal + Kurt
@@ -242,48 +245,48 @@ Brijean,Counting Sheep,27,2026-10-27T13:31:16Z,,Indie Pop,Macro,,,Kurt
 Dope Lemon,Honey Bones,21,2026-10-27T13:25:16Z,,Alternative,Honey Bones,,,Kurt
 Stevie Wonder,Sir Duke,30,2026-10-27T13:21:46Z,,R&B/Soul,Songs in the Key of Life,,,Kurt
 Sarah McLachlan,Building a Mystery,13,2026-10-27T13:17:46Z,,Pop,Mirrorball: The Complete Concert (Live),,,Kurt
-Julien Baker,Hardline,29,2026-10-27T13:13:46Z,,,,,,Kurt
-Men I Trust,Show Me How,57,2026-10-27T13:09:46Z,,,,,,Kurt
-Aaliyah,If Your Girl Only Knew,27,2026-10-27T13:04:46Z,,,,,,Kurt
-DJ Cam Quartet,Boss Guitar,22,2026-10-27T13:00:16Z,,,,,,Kurt
-Thee Sacred Souls,Live For You,31,2026-10-27T12:56:46Z,,,,,,Kurt
-Albert Hammond,When I'm Gone,10,2026-10-27T12:52:16Z,,,,,,Kurt
-Thievery Corporation,Lebanese Blonde,63,2026-10-27T12:47:16Z,,,,,,Kurt
-Hard Life,daydreams,19,2026-10-27T12:44:46Z,,,,,,Kurt
-Gorillaz,Empire Ants (feat. Little Dragon),8,2026-10-27T12:39:46Z,,,,,,Kurt
-Bobby McFerrin,Don't Worry Be Happy,2,2026-10-27T12:34:46Z,,,,,,Kurt
-The Proclaimers,I'm Gonna Be (500 Miles),17,2026-10-27T12:31:16Z,,,,,,Kurt
-Blossom Dearie,It Amazes Me,23,2026-10-27T12:26:46Z,,,,,,Kurt
-Damien Rice,The Blower's Daughter,85,2026-10-27T12:21:46Z,,,,,,Kurt
-Leon Larregui,Brillas,3,2026-10-27T12:17:46Z,,,,,,Kurt
-Jack Johnson,Better Together,142,2026-10-27T12:14:16Z,,,,,,Kurt
-Al Green,Let's Stay Together,127,2026-10-27T12:10:16Z,,,,,,Kurt
-GoGo Penguin,Raven,79,2026-10-27T12:05:46Z,,,,,,Kurt
-Sun's Signature,Golden Air,19,2026-10-27T11:59:46Z,,,,,,Kurt
-Led Zeppelin,Going to California  (Remaster),17,2026-10-27T11:55:46Z,,,,,,Kurt
-Beck,Devils Haircut,21,2026-10-27T11:52:46Z,,,,,,Kurt
-Wild Nothing,Chinatown,29,2026-10-27T11:49:16Z,,,,,,Kurt
-Cigarettes After Sex,Nothing's Gonna Hurt You Baby,26,2026-10-27T11:44:16Z,,,,,,Kurt
-Big Thief,Mary,93,2026-10-27T11:38:46Z,,,,,,Kurt
-The Magnetic Fields,Born on a Train,8,2026-10-27T11:34:47Z,,,,,,Kurt
-Mumford & Sons,Awake My Soul,164,2026-10-27T11:30:16Z,,,,,,Kurt
-Radiohead,Weird Fishes / Arpeggi,316,2026-10-27T11:24:46Z,,,,,,Kurt
-Glass Animals,Heat Waves (Stripped Back),13,2026-10-27T11:21:46Z,,,,,,Kurt
+Julien Baker,Hardline,29,2026-10-27T13:13:46Z,,Alternative,Little Oblivions,,,Kurt
+Men I Trust,Show Me How,57,2026-10-27T13:09:46Z,,Pop,Show Me How - Single,,,Kurt
+Aaliyah,If Your Girl Only Knew,27,2026-10-27T13:04:46Z,,R&B/Soul,One In A Million,,,Kurt
+DJ Cam Quartet,Boss Guitar,22,2026-10-27T13:00:16Z,,Christmas,Christmas Guitar,,,Kurt
+Thee Sacred Souls,Live For You,31,2026-10-27T12:56:46Z,,R&B/Soul,Got a Story to Tell,,,Kurt
+Albert Hammond,When I'm Gone,10,2026-10-27T12:52:16Z,,Singer/Songwriter,Your World and My World,,,Kurt
+Thievery Corporation,Lebanese Blonde,63,2026-10-27T12:47:16Z,,Electronic,It Takes A Thief: The Very Best Of Thievery Corporation,,,Kurt
+Hard Life,daydreams,19,2026-10-27T12:44:46Z,,Alternative,daydreams - Single,,,Kurt
+Gorillaz,Empire Ants (feat. Little Dragon),8,2026-10-27T12:39:46Z,,Pop,Plastic Beach (Deluxe Version),,,Kurt
+Bobby McFerrin,Don't Worry Be Happy,2,2026-10-27T12:34:46Z,,Jazz,The Best of Bobby McFerrin,,,Kurt
+The Proclaimers,I'm Gonna Be (500 Miles),17,2026-10-27T12:31:16Z,,Rock,Sunshine On Leith,,,Kurt
+Blossom Dearie,It Amazes Me,23,2026-10-27T12:26:46Z,,Jazz,Once Upon a Summertime...,,,Kurt
+Damien Rice,The Blower's Daughter,85,2026-10-27T12:21:46Z,,Singer/Songwriter,O,,,Kurt
+Leon Larregui,Brillas,3,2026-10-27T12:17:46Z,,Rock y Alternativo,Solstis - De León Larregui,,,Kurt
+Jack Johnson,Better Together,142,2026-10-27T12:14:16Z,,Rock,In Between Dreams (Bonus Track Version),,,Kurt
+Al Green,Let's Stay Together,127,2026-10-27T12:10:16Z,,Soul,Let's Stay Together,,,Kurt
+GoGo Penguin,Raven,79,2026-10-27T12:05:46Z,,Jazz,A Humdrum Star (Deluxe),,,Kurt
+Sun's Signature,Golden Air,19,2026-10-27T11:59:46Z,,Alternative,Sun's Signature (Extended),,,Kurt
+Led Zeppelin,Going to California  (Remaster),17,2026-10-27T11:55:46Z,,Rock,Led Zeppelin IV (Remastered),,,Kurt
+Beck,Devils Haircut,21,2026-10-27T11:52:46Z,,Rock,Odelay,,,Kurt
+Wild Nothing,Chinatown,29,2026-10-27T11:49:16Z,,Alternative,Gemini,,,Kurt
+Cigarettes After Sex,Nothing's Gonna Hurt You Baby,26,2026-10-27T11:44:16Z,,Alternative,I. - EP,,,Kurt
+Big Thief,Mary,93,2026-10-27T11:38:46Z,,Alternative,Capacity,,,Kurt
+The Magnetic Fields,Born on a Train,8,2026-10-27T11:34:47Z,,Rock,The Charm of the Highway Strip,,,Kurt
+Mumford & Sons,Awake My Soul,164,2026-10-27T11:30:16Z,,Alternative,Sigh No More,,,Kurt
+Radiohead,Weird Fishes / Arpeggi,316,2026-10-27T11:24:46Z,,Alternative,In Rainbows,,,Kurt
+Glass Animals,Heat Waves (Stripped Back),13,2026-10-27T11:21:46Z,,Alternative,Dreamland,,,Kurt
 RY X,Let You Go,16,2026-10-27T11:17:46Z,,,,,,Kurt
-This Mortal Coil,Song To The Siren,29,2026-10-27T11:13:46Z,,,,,,Kurt
-Beach House,Space Song,114,2026-10-27T11:08:16Z,,,,,,Kurt
-Joywave,In Clover,18,2026-10-27T11:03:46Z,,,,,,Kurt
-Glen Hansard and Marketa Irglova,Falling Slowly (Album Version),24,2026-10-27T10:59:46Z,,,,,,Kurt
-Heejin,Algorithm,19,2026-10-27T10:56:16Z,,,,,,Kurt
-G.Rag & die Landlergschwister,Odessa,29,2026-10-27T10:51:16Z,,,,,,Kurt
-Iration,Fly with Me,20,2026-10-27T10:47:16Z,,,,,,Kurt
-Mulatu Astatke,Yègellé Tezeta,55,2026-10-27T10:43:46Z,,,,,,Kurt
-Djivan Gasparyan,Take My Heart,28,2026-10-27T10:38:46Z,,,,,,Kurt
-Tim Maia,Réu Confesso,66,2026-10-27T10:35:16Z,,,,,,Kurt
-Ledward Kaapana,Salomila  (Live),16,2026-10-27T10:31:46Z,,,,,,Kurt
-Tyla,Water,237,2026-10-27T10:28:16Z,,,,,,Kurt
-Luis Miguel,La Mentira,14,2026-10-27T10:24:46Z,,,,,,Kurt
-Amália Rodrigues,Barco negro,34,2026-10-27T10:20:16Z,,,,,,Kurt
+This Mortal Coil,Song To The Siren,29,2026-10-27T11:13:46Z,,Alternative,It'll End in Tears (Remastered),,,Kurt
+Beach House,Space Song,114,2026-10-27T11:08:16Z,,Alternative,Depression Cherry,,,Kurt
+Joywave,In Clover,18,2026-10-27T11:03:46Z,,Alternative,How Do You Feel Now?,,,Kurt
+Glen Hansard and Marketa Irglova,Falling Slowly (Album Version),24,2026-10-27T10:59:46Z,,Soundtrack,Once (Music from the Motion Picture),Once (Music from the Motion Picture),,Kurt
+Heejin,Algorithm,19,2026-10-27T10:56:16Z,,K-Pop,<K> - EP,,,Kurt
+G.Rag & die Landlergschwister,Odessa,29,2026-10-27T10:51:16Z,,Dance,The Erdäpfelkaas - Single,,,Kurt
+Iration,Fly with Me,20,2026-10-27T10:47:16Z,,Reggae,Iration,,,Kurt
+Mulatu Astatke,Yègellé Tezeta,55,2026-10-27T10:43:46Z,,Worldwide,"Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",,,Kurt
+Djivan Gasparyan,Take My Heart,28,2026-10-27T10:38:46Z,,Worldwide,Black Rock,,,Kurt
+Tim Maia,Réu Confesso,66,2026-10-27T10:35:16Z,,MPB,The Soul of Brazil,,,Kurt
+Ledward Kaapana,Salomila  (Live),16,2026-10-27T10:31:46Z,,Hawaii,Led Live - Solo,,,Kurt
+Tyla,Water,237,2026-10-27T10:28:16Z,,Pop,Water - Single,,,Kurt
+Luis Miguel,La Mentira,14,2026-10-27T10:24:46Z,,Pop Latino,Romance,,,Kurt
+Amália Rodrigues,Barco negro,34,2026-10-27T10:20:16Z,,Fado,Amália Rodrigues - Antologia,,,Kurt
 Geoffrey Oryema,Solitude,26,2026-10-27T10:16:16Z,,,,,,Kurt
 Wonder Girls,Rewind,17,2026-10-27T10:12:46Z,,,,,,Kurt
 Tlahoun Gessesse,Tchuheten Betsemu,36,2026-10-27T10:08:46Z,,,,,,Kurt
@@ -636,7 +639,6 @@ Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,43,2026-10-26T08:27:45Z,,,
 Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,,,,,Kurt
 Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,,,,,Kurt
 Zucchero,Senza Una Donna (Remastered 2007),6,2026-10-26T08:10:15Z,,,,,,Kurt
-Ana Sofia Varela,Fado Vadio (Má Fama),22,2026-10-26T08:07:15Z,,,,,,Kurt
 Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,,,,,Kurt
 Zaz,Sous le ciel de Paris,2,2026-10-26T08:00:15Z,,,,,,Kurt
 The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,,,,,Kurt
@@ -808,7 +810,6 @@ Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,,,,,Kurt
 Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,,,,,Kurt
 Tomohisa Okudo,Always with Me,12,2026-10-25T15:45:43Z,,,,,,Kurt
 Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,,,,,Kurt
-Fabrizio De Andrè,Bocca di rosa,14,2026-10-25T15:39:43Z,,,,,,Kurt
 Astor Piazzolla,Milonga Del Angel,29,2026-10-25T15:32:43Z,,,,,,Kurt
 Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,,,,,Kurt
 Robbie Robertson,Coyote Dance,22,2026-10-25T15:17:43Z,,,,,,Kurt
@@ -1023,7 +1024,6 @@ Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:4
 Barbara Pravi,Voilà,23,2026-10-24T10:40:42Z,,,,,,Kurt
 Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,,,,,Kurt
 Soda Stereo,Luna Roja (Remasterizado 2007),20,2026-10-24T10:12:12Z,,,,,,Kurt
-Amadou & Mariam,M' Bife,8,2026-10-24T10:10:12Z,,,,,,Kurt
 City,Am Fenster,4,2026-10-24T09:59:12Z,,,,,,Kurt
 John Lennon,Watching The Wheels (Remastered 2010),4,2026-10-24T09:49:12Z,,,,,,Kurt
 Okkervil River,Lost Coastlines,19,2026-10-24T09:39:42Z,,,,,,Kurt
