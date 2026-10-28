@@ -1,4 +1,8 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Yo La Tengo,You Can Have It All,14,2026-10-28T10:56:55Z,Passport Please,,,,https://music.apple.com/us/album/you-can-have-it-all/1023399300?i=1023399758,Regal + Kurt
+Sampha,(No One Knows Me) Like the Piano,58,2026-10-28T10:53:11Z,Passport Please,Electronic,Process,,https://music.apple.com/us/album/no-one-knows-me-like-the-piano/1138217713?i=1138217731,Regal + Kurt
+Michael Hutchence,Slide Away,13,2026-10-28T10:48:44Z,Passport Please,Rock,Michael Hutchence,,https://music.apple.com/us/album/slide-away/1442231697?i=1442232548,Regal + Kurt
+Barbara Pravi,Voilà,23,2026-10-28T10:45:43Z,Passport Please,French Pop,On n’enferme pas les oiseaux,,https://music.apple.com/us/album/voil%C3%A0/1592352554?i=1592352556,Regal + Kurt
 Mariya Takeuchi,Plastic Love,23,2026-10-28T10:40:44Z,Passport Please,,,,https://music.apple.com/us/album/plastic-love/1541673202?i=1541673399,Regal + Kurt
 Cesária Evora,Petit pays,14,2026-10-28T10:36:55Z,Passport Please,Worldwide,Anthologie / Mornas & Coladeras,,https://music.apple.com/us/album/petit-pays/1397952824?i=1397955893,Regal + Kurt
 Caetano Veloso,O Leãozinho (Ao Vivo),76,2026-10-28T10:34:00Z,Passport Please,Brazilian,Ofertório (feat. Tom Veloso) [Ao Vivo],,https://music.apple.com/us/album/o-le%C3%A3ozinho-ao-vivo/1814723324?i=1814723444,Regal + Kurt
@@ -827,47 +831,47 @@ Pedro Infante,Amorcito corazón,17,2026-10-25T16:54:44Z,,Música Mexicana,"Pedro
 Ali Farka Touré,Soukora,84,2026-10-25T16:48:13Z,,Worldwide,Talking Timbuktu (with Ry Cooder),,,Kurt
 Iron Maiden,Still Life (2015 Remaster),1,2026-10-25T16:43:13Z,,Metal,Piece of Mind (2015 Remaster),,,Kurt
 Chico Buarque,Construção,45,2026-10-25T16:36:43Z,,Pop,Construção,,,Kurt
-Aster Aweke,Tizita,36,2026-10-25T16:27:14Z,,,,,,Kurt
-Mercedes Sosa,Gracias a la Vida (En Vivo NY),58,2026-10-25T16:15:13Z,,,,,,Kurt
-Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,,,,,Kurt
-Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,,,,,Kurt
-Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,,,,,Kurt
-Astor Piazzolla,Milonga Del Angel,29,2026-10-25T15:32:43Z,,,,,,Kurt
-Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,,,,,Kurt
-Robbie Robertson,Coyote Dance,22,2026-10-25T15:17:43Z,,,,,,Kurt
-"Earth, Wind & Fire",Shining Star,65,2026-10-25T15:14:44Z,,,,,,Kurt
-Leon Larregui,Locos,14,2026-10-25T15:11:43Z,,,,,,Kurt
-The Doobie Brothers,What a Fool Believes,82,2026-10-25T14:48:43Z,,,,,,Kurt
-Diana Ross,Muscles,27,2026-10-25T14:43:43Z,,,,,,Kurt
-Azam Ali,La Serena,21,2026-10-25T14:38:43Z,,,,,,Kurt
-Booker T. & The M.G.'s,Green Onions,38,2026-10-25T14:35:43Z,,,,,,Kurt
-Nat King Cole,(I Love You) For Sentimental Reasons,39,2026-10-25T14:32:13Z,,,,,,Kurt
-Junior H,Ella,9,2026-10-25T14:19:44Z,,,,,,Kurt
-The Beatles,Strawberry Fields Forever,23,2026-10-25T14:15:44Z,,,,,,Kurt
-Lawrence,23,19,2026-10-25T14:08:13Z,,,,,,Kurt
-The Bulgarian Voices Angelite,Utopia,27,2026-10-25T14:04:13Z,,,,,,Kurt
-Betty Carter,Moonlight in Vermont,24,2026-10-25T14:00:13Z,,,,,,Kurt
-Rhye,Open,43,2026-10-25T13:51:43Z,,,,,,Kurt
-Alex Andre,"thanks, my day is ruined",4,2026-10-25T13:48:13Z,,,,,,Kurt
-Björk,Unravel,26,2026-10-25T13:41:13Z,,,,,,Kurt
-Visage,Fade To Grey,21,2026-10-25T13:36:13Z,,,,,,Kurt
-Stardust,Music Sounds Better With You,6,2026-10-25T13:29:13Z,,,,,,Kurt
+Aster Aweke,Tizita,36,2026-10-25T16:27:14Z,,Worldwide,Aster,,,Kurt
+Mercedes Sosa,Gracias a la Vida (En Vivo NY),58,2026-10-25T16:15:13Z,,Raíces,"Mercedes Sosa en New York, 1974",,,Kurt
+Nusrat Fateh Ali Khan,Mera Piya Ghar Aaya,29,2026-10-25T15:53:13Z,,Indian,The Best of Indian Music: The Best of Nusrat Fateh Ali Khan,,,Kurt
+Benson Boone,Beautiful Things,13,2026-10-25T15:50:13Z,,Pop,Beautiful Things - Single,,,Kurt
+Jazzy,No Bad Vibes,4,2026-10-25T15:42:43Z,,Dance,No Bad Vibes - Single,,,Kurt
+Astor Piazzolla,Milonga Del Angel,29,2026-10-25T15:32:43Z,,Raíces,Tango: Zero Hour,,,Kurt
+Dasha,Austin (Boots Stop Workin'),13,2026-10-25T15:29:43Z,,Country,Austin (Boots Stop Workin') - Single,,,Kurt
+Robbie Robertson,Coyote Dance,22,2026-10-25T15:17:43Z,,Rock,Music for The Native Americans,,,Kurt
+"Earth, Wind & Fire",Shining Star,65,2026-10-25T15:14:44Z,,R&B/Soul,Greatest Hits,,,Kurt
+Leon Larregui,Locos,14,2026-10-25T15:11:43Z,,Rock y Alternativo,Voluma,,,Kurt
+The Doobie Brothers,What a Fool Believes,82,2026-10-25T14:48:43Z,,Rock,Minute By Minute (Remastered),,,Kurt
+Diana Ross,Muscles,27,2026-10-25T14:43:43Z,,R&B/Soul,Silk Electric (Expanded Edition),,,Kurt
+Azam Ali,La Serena,21,2026-10-25T14:38:43Z,,Worldwide,Portals of Grace,,,Kurt
+Booker T. & The M.G.'s,Green Onions,38,2026-10-25T14:35:43Z,,R&B/Soul,Green Onions,,,Kurt
+Nat King Cole,(I Love You) For Sentimental Reasons,39,2026-10-25T14:32:13Z,,Pop,'Round Midnight with Nelson Riddle and His Orchestra,,,Kurt
+Junior H,Ella,9,2026-10-25T14:19:44Z,,Música Mexicana,Corridos Tumbados,,,Kurt
+The Beatles,Strawberry Fields Forever,23,2026-10-25T14:15:44Z,,Rock,Magical Mystery Tour,,,Kurt
+Lawrence,23,19,2026-10-25T14:08:13Z,,Pop,Family Business,,,Kurt
+The Bulgarian Voices Angelite,Utopia,27,2026-10-25T14:04:13Z,,Worldwide,Legend (with Huun-Huur-Tu & the Moscow Art Trio),,,Kurt
+Betty Carter,Moonlight in Vermont,24,2026-10-25T14:00:13Z,,Jazz,Betty Carter At Her Best,,,Kurt
+Rhye,Open,43,2026-10-25T13:51:43Z,,Electronic,Woman,,,Kurt
+Alex Andre,"thanks, my day is ruined",4,2026-10-25T13:48:13Z,,House,"thanks, my day is ruined (feat. Clearcast) - Single",,,Kurt
+Björk,Unravel,26,2026-10-25T13:41:13Z,,Electronic,Homogenic,,,Kurt
+Visage,Fade To Grey,21,2026-10-25T13:36:13Z,,Pop,Visage,,,Kurt
+Stardust,Music Sounds Better With You,6,2026-10-25T13:29:13Z,,Alternative,Music Sounds Better with You - Single,,,Kurt
 Edwin Rosen,Vertigo,18,2026-10-25T13:25:43Z,,,,,,Kurt
-Deathbrain,the empty space is stuck in my head,7,2026-10-25T13:22:43Z,,,,,,Kurt
-Obie Fernandez,Naked,10,2026-10-25T13:18:43Z,,,,,,Kurt
-Dorian Electra,Hella Good,7,2026-10-25T13:14:43Z,,,,,,Kurt
-Anne Clark,Our Darkness,6,2026-10-25T13:09:13Z,,,,,,Kurt
-Prince,Nothing Compares 2 U,19,2026-10-25T12:54:13Z,,,,,,Kurt
-Donna Summer,I Feel Love,41,2026-10-25T12:50:43Z,,,,,,Kurt
-Q Lazzarus,Goodbye Horses - Single,23,2026-10-25T12:37:43Z,,,,,,Kurt
-Tim Curry,Sweet Transvestite,4,2026-10-25T12:34:43Z,,,,,,Kurt
-Tribal Seeds,In Your Eyes,14,2026-10-25T12:17:43Z,,,,,,Kurt
-Virus,Imágenes Paganas,14,2026-10-25T12:09:43Z,,,,,,Kurt
-Iron & Wine,Such Great Heights,11,2026-10-25T11:50:13Z,,,,,,Kurt
-Rufus Wainwright,Dinner At Eight,26,2026-10-25T11:40:13Z,,,,,,Kurt
-Mree,Into the Well,5,2026-10-25T11:01:43Z,,,,,,Kurt
-Patrick Watson,Sit Down Beside Me,9,2026-10-25T10:56:43Z,,,,,,Kurt
-Jorge Ben Jor,"Mas, Que Nada!",50,2026-10-25T10:53:42Z,,,,,,Kurt
+Deathbrain,the empty space is stuck in my head,7,2026-10-25T13:22:43Z,,Jungle/Drum'n'bass,Fantasy Noises & Perfect Delusions,,,Kurt
+Obie Fernandez,Naked,10,2026-10-25T13:18:43Z,,Dance,Naked - Single,,,Kurt
+Dorian Electra,Hella Good,7,2026-10-25T13:14:43Z,,Pop,Dorian Electra,,,Kurt
+Anne Clark,Our Darkness,6,2026-10-25T13:09:13Z,,Rock,Joined Up Writing,,,Kurt
+Prince,Nothing Compares 2 U,19,2026-10-25T12:54:13Z,,Pop,Nothing Compares 2 U - Single,,,Kurt
+Donna Summer,I Feel Love,41,2026-10-25T12:50:43Z,,Pop,I Remember Yesterday,,,Kurt
+Q Lazzarus,Goodbye Horses - Single,23,2026-10-25T12:37:43Z,,New Wave,Goodbye Horses - Single,,,Kurt
+Tim Curry,Sweet Transvestite,4,2026-10-25T12:34:43Z,,Soundtrack,The Rocky Horror Picture Show (Soundtrack from the Motion Picture),The Rocky Horror Picture Show (Soundtrack from the Motion Picture),,Kurt
+Tribal Seeds,In Your Eyes,14,2026-10-25T12:17:43Z,,Reggae,SoundWaves EP - EP,,,Kurt
+Virus,Imágenes Paganas,14,2026-10-25T12:09:43Z,,Rock y Alternativo,Nuestras 30 Mejores Canciones,,,Kurt
+Iron & Wine,Such Great Heights,11,2026-10-25T11:50:13Z,,Alternative,Around the Well (Bonus Track Version),,,Kurt
+Rufus Wainwright,Dinner At Eight,26,2026-10-25T11:40:13Z,,Rock,Want (Deluxe Version),,,Kurt
+Mree,Into the Well,5,2026-10-25T11:01:43Z,,Singer/Songwriter,Winterwell,,,Kurt
+Patrick Watson,Sit Down Beside Me,9,2026-10-25T10:56:43Z,,Alternative,Sit Down Beside Me - Single,,,Kurt
+Jorge Ben Jor,"Mas, Que Nada!",50,2026-10-25T10:53:42Z,,Pop,Samba Esquema Novo,,,Kurt
 Djivan Gasparyan,Fallen Star,30,2026-10-25T10:44:43Z,,,,,,Kurt
 Abdullah Ibrahim,Water From An Ancient Well,10,2026-10-25T10:18:13Z,,,,,,Kurt
 Club Nouveau,Lean On Me,23,2026-10-25T09:53:12Z,,,,,,Kurt
@@ -1036,7 +1040,6 @@ The Smile,The Smoke,6,2026-10-24T11:35:12Z,,,,,,Kurt
 Charly García,Demoliendo Hoteles (Live),21,2026-10-24T11:11:12Z,,,,,,Kurt
 Daft Punk feat. Julian Casablancas,Instant Crush (feat. Julian Casablancas),18,2026-10-24T11:05:12Z,,,,,,Kurt
 Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,16,2026-10-24T10:52:42Z,,,,,,Kurt
-Barbara Pravi,Voilà,23,2026-10-24T10:40:42Z,,,,,,Kurt
 Joe Hisaishi,The Path of the Wind (from 'My Neighbor Totoro'),16,2026-10-24T10:28:42Z,,,,,,Kurt
 Soda Stereo,Luna Roja (Remasterizado 2007),20,2026-10-24T10:12:12Z,,,,,,Kurt
 City,Am Fenster,4,2026-10-24T09:59:12Z,,,,,,Kurt
@@ -1046,7 +1049,6 @@ Gigi Perez,Sailor Song,234,2026-10-24T09:36:12Z,,,,,,Kurt
 Bobby Vinton,Blue Velvet,9,2026-10-24T09:26:12Z,,,,,,Kurt
 Paul Mauriat,Love Is Blue (Album Version),13,2026-10-24T09:23:42Z,,,,,,Kurt
 Buddy Guy,"Damn Right, I've Got the Blues",9,2026-10-24T09:15:42Z,,,,,,Kurt
-Michael Hutchence,Slide Away,13,2026-10-24T09:04:42Z,,,,,,Kurt
 Home,We're Finally Landing,10,2026-10-24T08:57:42Z,,,,,,Kurt
 The Rolling Stones,You Can't Always Get What You Want,8,2026-10-24T08:38:42Z,,,,,,Kurt
 Mireille Mathieu,Together We're Strong,49,2026-10-24T08:34:42Z,,,,,,Kurt
@@ -1228,7 +1230,6 @@ Radiohead,Paranoid Android,17,2026-10-23T07:37:31Z,,,,,,Kurt
 Ben&Ben,Leaves,48,2026-10-23T07:32:00Z,,,,,,Kurt
 The Beach Boys,Good Vibrations (Stereo/Remastered 2012),29,2026-10-23T07:28:30Z,,,,,,Kurt
 Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,,,,,Kurt
-Sampha,(No One Knows Me) Like the Piano,58,2026-10-23T07:12:00Z,,,,,,Kurt
 Belle and Sebastian,The Boy with the Arab Strap,30,2026-10-23T07:06:30Z,,,,,,Kurt
 Goldmund,Threnody,109,2026-10-23T06:51:29Z,,,,,,Kurt
 Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,,,,,Kurt
@@ -1416,7 +1417,6 @@ Dead Can Dance,The Host of Seraphim (Remastered),16,2026-10-22T02:52:47Z,,,,,,Ku
 Floating Points,LesAlpx,43,2026-10-22T02:47:47Z,,,,,,Kurt
 Boards of Canada,Dayvan Cowboy,50,2026-10-22T02:34:17Z,,,,,,Kurt
 Portishead,It Could Be Sweet,15,2026-10-22T02:30:17Z,,,,,,Kurt
-Yo La Tengo,You Can Have It All,14,2026-10-22T02:15:17Z,,,,,,Kurt
 David Bowie,Warszawa  (2017 Remaster),3,2026-10-22T02:08:47Z,,,,,,Kurt
 Hammock,Maybe They Will Sing for Us Tomorrow,130,2026-10-22T01:56:17Z,,,,,,Kurt
 Burial,Ghost Hardware,17,2026-10-22T01:51:17Z,,,,,,Kurt
