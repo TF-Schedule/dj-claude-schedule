@@ -234,6 +234,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Alèmayèhu Eshèté|Tashamanaletch": {
+"album": "Éthiopiques, Vol. 13: The Golden Seventies",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Amadou & Mariam|M' Bife": {
 "album": "Dimanche à Bamako",
 "film_hint": "",
@@ -284,6 +289,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Angélique Kidjo|Agolo": {
+"album": "Aye",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Anita Baker|Angel (LP Version)": {
 "album": "Rhythm of Love",
 "film_hint": "",
@@ -324,6 +334,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Aphex Twin|Flim": {
+"album": "Come to Daddy",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Aphex Twin|Rhubarb Orc. 19.53 Rev": {
 "album": "Selected Ambient Works Volume II (Expanded Edition)",
 "film_hint": "",
@@ -353,6 +368,11 @@
 "album": "Favourite Worst Nightmare",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Arctic Monkeys|Fake Tales Of San Francisco": {
+"album": "8-bit tribute to Arctic Monkeys",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Arctic Monkeys|No. 1 Party Anthem": {
 "album": "AM",
@@ -508,6 +528,11 @@
 "album": "Tanto Tempo",
 "film_hint": "",
 "genre": "Bossa Nova"
+},
+"Becky Levi and the Nightjars|Wake Me Up": {
+"album": "Wake Me Up - Single",
+"film_hint": "",
+"genre": "Alternative Folk"
 },
 "Beck|Devils Haircut": {
 "album": "Odelay",
@@ -1004,6 +1029,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Burial|Archangel": {
+"album": "Untrue",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Burial|Etched Headplate": {
 "album": "Untrue",
 "film_hint": "",
@@ -1184,6 +1214,11 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Chavela Vargas|La llorona": {
+"album": "Piensa en mí (Collection \"L'art de...\")",
+"film_hint": "",
+"genre": "South America"
+},
 "Chet Atkins|Why Worry (Album Version)": {
 "album": "Sails",
 "film_hint": "",
@@ -1191,6 +1226,11 @@
 },
 "Chet Baker|Almost Blue": {
 "album": "Plays and Sings",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Chet Baker|My Funny Valentine": {
+"album": "Chet Baker Sings",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -1226,6 +1266,11 @@
 },
 "Chris De Burgh|The Getaway": {
 "album": "The Getaway",
+"film_hint": "",
+"genre": "Rock"
+},
+"Chris Isaak|Blue Hotel  (Remastered Album Version)": {
+"album": "Forever Blue (Remastered 2025)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1514,10 +1559,20 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Daryl Hall & John Oates|I Can't Go For That (No Can Do) (Remastered 2003)": {
+"album": "Private Eyes (Expanded Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Dasha|Austin (Boots Stop Workin')": {
 "album": "Austin (Boots Stop Workin') - Single",
 "film_hint": "",
 "genre": "Country"
+},
+"David Bowie|Slow Burn": {
+"album": "Heathen",
+"film_hint": "",
+"genre": "Rock"
 },
 "David Bowie|Sound and Vision  (2017 Remaster)": {
 "album": "Low (2017 Remaster)",
@@ -1689,6 +1744,16 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Dolly Parton|I Will Always Love You": {
+"album": "Ultimate Dolly Parton",
+"film_hint": "",
+"genre": "Country"
+},
+"Dolly Parton|Jolene": {
+"album": "Jolene",
+"film_hint": "",
+"genre": "Country"
+},
 "Don McLean|Vincent": {
 "album": "American Pie",
 "film_hint": "",
@@ -1728,6 +1793,11 @@
 "album": "Consciousology",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Dragonforce|Through The Fire And Flames": {
+"album": "Inhuman Rampage",
+"film_hint": "",
+"genre": "Rock"
 },
 "Dua Lipa|Don't Start Now": {
 "album": "Don't Start Now - Single",
@@ -1868,6 +1938,11 @@
 "album": "Time",
 "film_hint": "",
 "genre": "Rock"
+},
+"Elis Regina|Águas De Marco": {
+"album": "Elis",
+"film_hint": "",
+"genre": "Pop"
 },
 "Ella Fitzgerald|Bewitched, Bothered And Bewildered": {
 "album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
@@ -2044,6 +2119,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Father John Misty|Just Dumb Enough to Try": {
+"album": "God's Favorite Customer",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Federico Aubele|Postales": {
 "album": "Gran Hotel Buenos Aires",
 "film_hint": "",
@@ -2064,6 +2144,11 @@
 "film_hint": "All Time Great Movie Themes",
 "genre": "Soundtrack"
 },
+"Filippo Beck Peccoz|Main Theme": {
+"album": "Shadow Tactics - Blades of the Shogun (Original Game Soundtrack)",
+"film_hint": "Shadow Tactics - Blades of the Shogun (Original Game Soundtrack)",
+"genre": "Soundtrack"
+},
 "Filippo Beck Peccoz|Until Death Do Us Part": {
 "album": "Desperados III, Vol. 1 (Official Game Soundtrack)",
 "film_hint": "Desperados III, Vol. 1 (Official Game Soundtrack)",
@@ -2073,6 +2158,11 @@
 "album": "Tidal",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Fireboy DML|GODDESS": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Fito Páez|El amor después del amor": {
 "album": "El Amor Después del Amor",
@@ -2096,6 +2186,11 @@
 },
 "Fleetwood Mac|Go Your Own Way  (2004 Remaster)": {
 "album": "Rumours (Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Fleetwood Mac|I Know I'm Not Wrong": {
+"album": "Tusk (Remastered)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2304,6 +2399,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Glass Animals|Life Itself": {
+"album": "How to Be a Human Being",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Glen Hansard and Marketa Irglova|Falling Slowly (Album Version)": {
 "album": "Once (Music from the Motion Picture)",
 "film_hint": "Once (Music from the Motion Picture)",
@@ -2433,6 +2533,11 @@
 "album": "Lovebox",
 "film_hint": "",
 "genre": "Dance"
+},
+"Grouper|Alien Observer": {
+"album": "A I A: Alien Observer",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Grouper|Holding": {
 "album": "Ruins",
@@ -2689,6 +2794,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"Hozier|From Eden": {
+"album": "Hozier (Expanded Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Huey Lewis And The News|Hip To Be Square": {
 "album": "Greatest Hits (Remastered)",
 "film_hint": "",
@@ -2914,6 +3024,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joe Hisaishi|A Town with an Ocean View (from 'Kiki's Delivery Service')": {
+"album": "Kiki's Delivery Service (Original Sountrack)",
+"film_hint": "",
+"genre": "Original Score"
+},
 "Joe Hisaishi|Asian Dream Song": {
 "album": "Dream Songs: The Essential Joe Hisaishi",
 "film_hint": "",
@@ -3016,6 +3131,11 @@
 },
 "Johnny Cash|Folsom Prison Blues": {
 "album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
+"film_hint": "",
+"genre": "Country"
+},
+"Johnny Cash|Hurt (Album Version)": {
+"album": "Unearthed (Box Set)",
 "film_hint": "",
 "genre": "Country"
 },
@@ -3269,6 +3389,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Khruangbin|August 10": {
+"album": "Con Todo El Mundo",
+"film_hint": "",
+"genre": "Indie Rock"
+},
 "Khruangbin|May Ninth": {
 "album": "A LA SALA",
 "film_hint": "",
@@ -3303,6 +3428,11 @@
 "album": "Discipline (Expanded Edition)",
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
+},
+"King Gizzard & The Lizard Wizard|Crumbling Castle": {
+"album": "Polygondwanaland",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Kings Of Convenience|Rocky Trail": {
 "album": "Peace Or Love",
@@ -3483,6 +3613,11 @@
 "album": "Songs of Love and Hate",
 "film_hint": "",
 "genre": "Pop"
+},
+"Leonard Cohen|So Long, Marianne": {
+"album": "Live In London",
+"film_hint": "",
+"genre": "Rock"
 },
 "Lester Flatt, Earl Scruggs|Foggy Mountain Breakdown": {
 "album": "20th Century Masters: The Millennium Collection: Best Of Flatt & Scruggs",
@@ -3678,6 +3813,11 @@
 "album": "Spinetta y Las Bandas Eternas",
 "film_hint": "",
 "genre": "Rock y Alternativo"
+},
+"Luis Fonsi|Despacito": {
+"album": "VIDA",
+"film_hint": "",
+"genre": "Pop Latino"
 },
 "Luis Miguel|La Mentira": {
 "album": "Romance",
@@ -3899,6 +4039,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Massive Attack|Unfinished Sympathy (2012 Mix/Master)": {
+"album": "Blue Lines (2012 Mix/Master)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Matt Nathanson|All We Are": {
 "album": "Some Mad Hope",
 "film_hint": "",
@@ -4058,6 +4203,16 @@
 "album": "Zorba The Greek - Original Soundtrack",
 "film_hint": "Zorba The Greek - Original Soundtrack",
 "genre": "Pop"
+},
+"Miles Davis|Blue in Green": {
+"album": "Kind of Blue",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Miles Davis|Flamenco Sketches": {
+"album": "Kind of Blue",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Miles Davis|So What": {
 "album": "Kind of Blue",
@@ -4313,6 +4468,11 @@
 "album": "A Treasury",
 "film_hint": "",
 "genre": "Rock"
+},
+"Nick Drake|Pink Moon": {
+"album": "A Treasury",
+"film_hint": "",
+"genre": "Alternative Folk"
 },
 "Nightmares On Wax|Les Nuits": {
 "album": "Carboot Soul",
@@ -4764,6 +4924,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Portishead|Sour Times": {
+"album": "Dummy",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Portishead|Wandering Star": {
 "album": "Dummy",
 "film_hint": "",
@@ -5149,6 +5314,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Sade|Cherish the Day  (Remastered Version)": {
+"album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Sade|Is It a Crime (Remastered Version)": {
 "album": "The Best of Sade",
 "film_hint": "",
@@ -5343,6 +5513,11 @@
 "album": "Bridge Over Troubled Water",
 "film_hint": "",
 "genre": "Pop"
+},
+"Simon & Garfunkel|The Sound of Silence  (Acoustic Version)": {
+"album": "Sounds of Silence",
+"film_hint": "",
+"genre": "Folk-Rock"
 },
 "Simon Trpčeski|Suite bergamasque, CD 82, L. 75: III. Clair de lune": {
 "album": "Debussy: Images & Children's Corner",
@@ -5539,6 +5714,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Steely Dan|Peg": {
+"album": "Aja",
+"film_hint": "",
+"genre": "Rock"
+},
 "Steve Miller Band|The Joker": {
 "album": "Greatest Hits 1974-78",
 "film_hint": "",
@@ -5564,6 +5744,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Stevie Wonder|Golden Lady": {
+"album": "Innervisions",
+"film_hint": "",
+"genre": "Motown"
+},
 "Stevie Wonder|Higher Ground (Album Version)": {
 "album": "Innervisions",
 "film_hint": "",
@@ -5588,6 +5773,11 @@
 "album": "Fulfillingness' First Finale",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Still Woozy|Get Down": {
+"album": "If This Isn’t Nice, I Don’t Know What Is",
+"film_hint": "",
+"genre": "Pop"
 },
 "Sting|Desert Rose (Album Version)": {
 "album": "Brand New Day",
@@ -5628,6 +5818,11 @@
 "album": "Carrie & Lowell",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Sukhwinder Singh|Chaiyya Chaiyya": {
+"album": "Dil Se (Original Motion Picture Soundtrack)",
+"film_hint": "Dil Se (Original Motion Picture Soundtrack)",
+"genre": "Bollywood"
 },
 "Sum 41|In Too Deep (Album Version)": {
 "album": "All Killer, No Filler",
@@ -5844,6 +6039,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Beach Boys|God Only Knows (Stereo)": {
+"album": "The Pet Sounds Sessions (Deluxe Edition)",
+"film_hint": "",
+"genre": "Pop"
+},
 "The Beach Boys|Good Vibrations (Stereo/Remastered 2012)": {
 "album": "Smiley Smile (Mono & Stereo)",
 "film_hint": "",
@@ -5918,6 +6118,11 @@
 "album": "Ma Fleur",
 "film_hint": "",
 "genre": "Electronic"
+},
+"The Civil Wars|Poison & Wine": {
+"album": "Barton Hollow",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "The Civil Wars|The One That Got Away": {
 "album": "The Civil Wars",
@@ -6053,6 +6258,11 @@
 "album": "69 Love Songs",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Mamas & The Papas|California Dreamin' (Single Version)": {
+"album": "If You Can Believe Your Eyes and Ears",
+"film_hint": "",
+"genre": "Pop"
 },
 "The McCoys|Hang on Sloopy": {
 "album": "Hang On Sloopy - The Best of the McCoys",
@@ -6469,6 +6679,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Toto|Rosanna (Album Version)": {
+"album": "Toto IV",
+"film_hint": "",
+"genre": "Rock"
+},
 "Tove Lo|No One Dies From Love": {
 "album": "Dirt Femme",
 "film_hint": "",
@@ -6588,6 +6803,11 @@
 "album": "Night Owls",
 "film_hint": "",
 "genre": "Pop"
+},
+"Vengaboys|We Like To Party! (The Vengabus)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Vicente Fernández|El Rey": {
 "album": "Historia de un Ídolo, Vol. II",
@@ -6733,6 +6953,11 @@
 "album": "Alison Moyet the Best of: 25 Years Revisited (Remastered)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Yellow Magic Orchestra|Behind the Mask  (2018 Bob Ludwig Remastering)": {
+"album": "Solid State Survivor",
+"film_hint": "",
+"genre": "Electronica"
 },
 "Yellow Magic Orchestra|RYDEEN  (2018 Bob Ludwig Remastering)": {
 "album": "Solid State Survivor",
