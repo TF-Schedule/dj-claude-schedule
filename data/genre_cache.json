@@ -114,6 +114,12 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Akiaura|Sleepwalker": {
+"album": "Sleepwalker (Slowed) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/49/86/a4498628-fb97-1557-3c68-cfa28547cf8d/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Al Di Meola|Double Concerto": {
 "album": "The Grande Passion",
 "film_hint": "",
@@ -146,6 +152,7 @@
 },
 "Al Green|Simply Beautiful": {
 "album": "I'm Still In Love with You",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/19/29/8d19295e-9776-1319-adb2-9d07249473ab/886445997743.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Soul"
 },
@@ -286,6 +293,7 @@
 },
 "Ana Sofia Varela|Fado Vadio (Má Fama)": {
 "album": "Fados de Amor e Pecado",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/3c/2a/mzi.dwvrjory.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -326,6 +334,7 @@
 },
 "Anita Baker|Sweet Love": {
 "album": "The Best of Anita Baker",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/d6/5e/3fd65eb3-84f2-78df-1fc0-08ef71da7f44/mzi.qjwjgnxa.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -466,8 +475,15 @@
 },
 "Auringon Lapset|Etäpäivä": {
 "album": "Hittibiisien Kaatopaikka - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/fa/9e/34fa9e59-d496-c923-419c-fca6b909dec0/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
+},
+"Autechre|Clipper": {
+"album": "Tri Repetae",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/a9/36/b6/mzi.vtdskskv.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Avril Lavigne|Sk8er Boi": {
 "album": "Let Go",
@@ -521,6 +537,7 @@
 },
 "Barbara Pravi|Voilà": {
 "album": "On n’enferme pas les oiseaux",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/a5/f2/0da5f2bd-e943-0e7a-b7a2-09887ebe2b1d/21UMGIM57721.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "French Pop"
 },
@@ -551,6 +568,7 @@
 },
 "Beach House|Bluebird": {
 "album": "Depression Cherry",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/e0/d5/09e0d559-0682-f0f0-5e0c-3cd11e3114fd/beachhouse_depressioncherry_2400_300.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -558,6 +576,12 @@
 "album": "Depression Cherry",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Beatrice Rana|Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro": {
+"album": "Bach: Keyboard Concertos, BWV 1052, 1053, 1054 & 1056",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/84/0e/df840e70-abc2-de57-24d1-4337dcce06ef/5021732433633.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical"
 },
 "Beatrice Rana|Libertango (Arr. Yamamoto for Piano 4-Hands)": {
 "album": "Piazzolla: Libertango - Single",
@@ -581,6 +605,7 @@
 },
 "Beck|Loser": {
 "album": "Mellow Gold",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/a5/a8/35a5a83a-7a68-2390-c069-6bee759f047a/00075021017924.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -596,6 +621,7 @@
 },
 "Belle and Sebastian|The Boy with the Arab Strap": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -616,6 +642,7 @@
 },
 "Ben Howard|Only Love": {
 "album": "Every Kingdom",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/ea/a8/87eaa882-e383-c351-984d-9c8a4daea14e/11UMGIM20073.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -706,6 +733,7 @@
 },
 "Bill Callahan|Riding For The Feeling": {
 "album": "Apocalypse",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cf/cf/68/cfcf689a-da99-8989-de82-64f805a217b9/781484045021.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -726,6 +754,7 @@
 },
 "Bill Withers|Lovely Day": {
 "album": "The Best Of Bill Withers: Lean On Me",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/93/40/3a9340a1-73f7-5bbb-86a2-15a4ba20acea/884977735840.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -846,6 +875,7 @@
 },
 "Boards of Canada|Olson": {
 "album": "Music Has the Right to Children",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -931,6 +961,7 @@
 },
 "Boney M.|Sunny": {
 "album": "Take the Heat Off Me",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/31/26/4b312698-1511-c0a7-66dd-9808188850af/dj.rwsaogpu.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -996,6 +1027,7 @@
 },
 "Boz Scaggs|JoJo (2023 Remaster)": {
 "album": "Middle Man (2023 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1f/d9/9d1fd999-2d02-86d2-4653-1604f5f969d3/196871320719.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1069,6 +1101,12 @@
 "film_hint": "",
 "genre": "New Age"
 },
+"Bruce Springsteen|Born in the U.S.A.": {
+"album": "Born In the U.S.A.",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/72/68/327268ba-b9dd-b322-2a16-bdd0212df48c/074643865326.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Bruce Springsteen|Born to Run": {
 "album": "The Essential Bruce Springsteen",
 "film_hint": "",
@@ -1114,6 +1152,12 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Bulgarian State Television Female Choir|Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House)": {
+"album": "Le mystère des voix bulgares: Ritual",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/58/91/d4/5891d436-07a9-665d-5e3f-2d7cb9d69b35/dj.onqlufzz.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Burial|Archangel": {
 "album": "Untrue",
 "film_hint": "",
@@ -1144,15 +1188,22 @@
 "film_hint": "",
 "genre": ""
 },
+"Béla Fleck|My Home's Across The Blue Ridge Mountains": {
+"album": "Echo In the Valley",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/02/ca/cb/02cacbf9-f965-ac17-e55b-38b44e4d1a37/00888072036161.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Bluegrass"
+},
 "CHVRCHES|Clearest Blue": {
 "album": "Every Open Eye (Special Edition)",
 "film_hint": "",
 "genre": "Electronic"
 },
 "Caetano Veloso|O Leãozinho (Ao Vivo)": {
-"album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+"album": "Caetano e Bethânia Ao Vivo",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/fb/47/6afb4796-5400-0e0b-66c8-65f7ff3e6f7c/196872808452.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": "Brazilian"
+"genre": "MPB"
 },
 "Caetano Veloso|Tropicália (Remastered 2006)": {
 "album": "Caetano Veloso (Remixed Original Album)",
@@ -1171,6 +1222,7 @@
 },
 "Caifanes|Afuera": {
 "album": "El Nervio del Volcán",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a9/d2/d2/a9d2d2cd-1be4-f8b0-574d-cd994aedd277/dj.yduzfbus.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
@@ -1196,6 +1248,7 @@
 },
 "Cardiacs|Big Ship": {
 "album": "Songs for Ships and Irons",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/01/f1/8401f152-6845-b579-7f88-3b21082564a2/mzi.idsvjqzl.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1221,6 +1274,7 @@
 },
 "Cartola|As Rosas Não Falam": {
 "album": "Cartola (1976)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/2c/02/3a2c021a-40a2-8aae-96cf-2a2a530ec00a/14UMGIM11062.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Samba"
 },
@@ -1246,6 +1300,7 @@
 },
 "Cesária Evora|Petit pays": {
 "album": "Anthologie / Mornas & Coladeras",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/be/7d/48be7d1f-8162-30f7-10d5-c10f5273c98b/3567253626793.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -1446,6 +1501,7 @@
 },
 "Cocteau Twins|Cherry-coloured Funk": {
 "album": "Heaven Or Las Vegas (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/cd/61/76cd61e7-0714-dce5-c48e-0f05f8fcb84b/652637001280.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1490,7 +1546,8 @@
 "genre": "Classical"
 },
 "Conchita Wurst|Rise Like a Phoenix": {
-"album": "Rise Like a Phoenix - Single",
+"album": "Conchita",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/78/aa/9578aaac-ba16-b990-5e26-8145c4c0c790/mzm.utxbmjwg.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1501,8 +1558,15 @@
 },
 "Cornelius|Star Fruit Surf Rider (Damon Albarn Remix)": {
 "album": "FM - Fantasma - Remixes",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/dc/e7/6f/mzi.yvdxtnia.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Crazy Town|Butterfly": {
+"album": "The Gift of Game",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/5e/16/b85e1612-0b86-efe5-d6e2-a53a7244e558/mzi.xsnqpqgt.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "Creedence Clearwater Revival|Bad Moon Rising (Remastered 1985)": {
 "album": "Green River",
@@ -1544,6 +1608,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Cunninlynguists|My Habit (I Haven't Changed)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
 "Curtis Mayfield|The Makings of You (2019 Remaster) (Remastered)": {
 "album": "The Makings Of: A Curtis Mayfield Collection",
 "film_hint": "",
@@ -1576,6 +1646,7 @@
 },
 "DIIV|Doused": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -1689,6 +1760,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"David Bowie|Moonage Daydream (2012 Remaster)": {
+"album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/fa/56/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d/825646124206.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Slow Burn": {
 "album": "Heathen",
 "film_hint": "",
@@ -1781,6 +1858,12 @@
 },
 "Depeche Mode|Enjoy the Silence": {
 "album": "Violator  The 12\" Singles",
+"film_hint": "",
+"genre": "Pop"
+},
+"Depeche Mode|Just Can't Get Enough": {
+"album": "Speak and Spell (Deluxe)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/b8/13/19b81309-d81c-66f7-25b5-ecf545bc2db7/0094635797954.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -1979,6 +2062,12 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Eagles|Desperado (Live On MTV, 1994)": {
+"album": "Hell Freezes Over (Remastered) [Live]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/13/c7/8813c795-1794-e1a0-bea6-79e01866d98b/00602577302473.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
 "film_hint": "",
@@ -2030,9 +2119,10 @@
 "genre": "Rock"
 },
 "Edith Piaf|La Vie en rose": {
-"album": "The Best of Édith Piaf",
+"album": "30ème Anniversaire",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/25/2f/ec252f44-804c-7548-7e3e-16d62e1f125b/724382709756.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": "French Pop"
+"genre": "Pop"
 },
 "Ednaswap|Torn": {
 "album": "Wacko Magneto",
@@ -2131,6 +2221,7 @@
 },
 "Enjambre|Vida En El Espejo": {
 "album": "Imperfecto Extraño",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/80/55/bd/8055bdec-9347-2607-b758-6ca343797dba/00602557588644.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
@@ -2229,6 +2320,12 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Evergrey|In Orbit": {
+"album": "The Storm Within (Track Commentary Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/4f/31/bb/4f31bb30-9782-8db6-bff6-80f475f55ff8/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Metal"
+},
 "Ewan Maccoll|The First Time Ever I Saw Your Face": {
 "album": "New Briton Gazette, Vol. 2",
 "film_hint": "",
@@ -2245,7 +2342,8 @@
 "genre": "Soundtrack"
 },
 "Falco|Vienna Calling": {
-"album": "Falco III",
+"album": "Falco: Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/72/2b/f8722b02-3ade-5f3b-112e-a85a4ec7330c/mzi.yxwhhgww.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2259,6 +2357,24 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Fat Bard|Crashlands!": {
+"album": "Crashlands OST",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/71/d5/ae/71d5ae8a-a092-a303-974e-3e891aeda7df/2Sb4T.png/100x100bb.jpg",
+"film_hint": "Crashlands OST",
+"genre": "Worldwide"
+},
+"Fat Bard|The Tendraam": {
+"album": "Crashlands OST",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/71/d5/ae/71d5ae8a-a092-a303-974e-3e891aeda7df/2Sb4T.png/100x100bb.jpg",
+"film_hint": "Crashlands OST",
+"genre": "Worldwide"
+},
+"Fates Warning|One Thousand Fires": {
+"album": "Darkness in a Different Light",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music32/v4/c5/6b/da/c56bda21-9129-ee97-088d-cdf53e921c44/mzm.mknygtco.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Metal"
+},
 "Father John Misty|Just Dumb Enough to Try": {
 "album": "God's Favorite Customer",
 "film_hint": "",
@@ -2271,6 +2387,7 @@
 },
 "Fela Kuti|Water No Get Enemy": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -2282,6 +2399,12 @@
 "Ferrante & Teicher|Exodus": {
 "album": "All Time Great Movie Themes",
 "film_hint": "All Time Great Movie Themes",
+"genre": "Soundtrack"
+},
+"Filippo Beck Peccoz|Desperados III Main Theme": {
+"album": "Desperados III, Vol. 1 (Official Game Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2e/97/36/2e973613-3751-9912-248c-a97ae0e76ce5/artwork.jpg/100x100bb.jpg",
+"film_hint": "Desperados III, Vol. 1 (Official Game Soundtrack)",
 "genre": "Soundtrack"
 },
 "Filippo Beck Peccoz|Main Theme": {
@@ -2321,6 +2444,12 @@
 },
 "Fleetwood Mac|Albatross": {
 "album": "The Pious Bird of Good Omen",
+"film_hint": "",
+"genre": "Rock"
+},
+"Fleetwood Mac|Dreams  (2004 Remaster)": {
+"album": "Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2476,6 +2605,7 @@
 },
 "Gary Moore|Parisienne Walkways": {
 "album": "Back On the Streets (Bonus Track Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/ba/e7/77/mzi.gmtvztsn.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2660,9 +2790,10 @@
 "genre": "Alternative"
 },
 "Gotan Project|Santa María (del Buen Ayre)": {
-"album": "La Revancha del Tango",
+"album": "Gotan Project Live",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/35/49/e4/mzi.abixntzr.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": "Rock y Alternativo"
+"genre": "Latin"
 },
 "Grace Jones|I've Seen That Face Before (Libertango)": {
 "album": "Nightclubbing",
@@ -2716,6 +2847,12 @@
 },
 "Groove Armada|Madder": {
 "album": "Lovebox",
+"film_hint": "",
+"genre": "Dance"
+},
+"Groove Armada|My Friend (Album Version)": {
+"album": "Lovebox",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f1/57/86/mzi.kparnihz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Dance"
 },
@@ -2884,6 +3021,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Helen Forrest|It's Been A Long, Long Time": {
+"album": "Capitol Sings Sammy Cahn: “It's Magic”",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/b4/24/1eb42483-a93e-f70c-e793-c487186a57f7/13UABIM51837.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Vocal"
+},
 "Helios|First Dream Called Ocean": {
 "album": "Eingya",
 "film_hint": "",
@@ -2918,6 +3061,12 @@
 "album": "I Walk",
 "film_hint": "",
 "genre": "Pop"
+},
+"Herbert Grönemeyer|Männer (Remastered 2016)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
 },
 "Herbert Grönemeyer|Was soll das (Remastered 2016)": {
 "album": "",
@@ -3130,9 +3279,10 @@
 "genre": "Pop"
 },
 "Jan Hammer|Crockett's Theme": {
-"album": "Escape From Television",
+"album": "Miami Vice: The Complete Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/65/75/8d65757f-43b5-3201-119e-1585af751d7e/888174423425.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": "Rock"
+"genre": "Pop"
 },
 "Janelle Monáe|Make Me Feel": {
 "album": "Dirty Computer",
@@ -3156,6 +3306,7 @@
 },
 "Jazz Liberatorz|Always something": {
 "album": "Fruit of the Past",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/8d/ec/bc/mzi.qmsjtqvw.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
@@ -3166,6 +3317,7 @@
 },
 "Jean-Luc Ponty|Computer Incantations for World Peace": {
 "album": "Individual Choice",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/93/01/mzi.opesfbjm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -3191,6 +3343,7 @@
 },
 "Jeff Buckley|So Real": {
 "album": "Grace",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3201,6 +3354,7 @@
 },
 "Jesse Cook|Breathing Below Surface (Rerecorded)": {
 "album": "Love In The Time Of Covid",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/05/35/540535c1-0b3a-4753-2445-8414d08a46ce/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Flamenco"
 },
@@ -3274,6 +3428,12 @@
 "film_hint": "FREEDOM PIANO STORIES 4",
 "genre": "Soundtrack"
 },
+"Joe Hisaishi|Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea')": {
+"album": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f7/19/cc/f719cc4e-05d7-708c-af87-a5cfbbb3ff79/TKCA-.jpg/100x100bb.jpg",
+"film_hint": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
+"genre": "Original Score"
+},
 "Joe Hisaishi|The Path of the Wind (from 'My Neighbor Totoro')": {
 "album": "My Neighbor Totoro (Original Soundtrack)",
 "film_hint": "My Neighbor Totoro (Original Soundtrack)",
@@ -3323,6 +3483,18 @@
 "album": "The Best Of Friends",
 "film_hint": "",
 "genre": "Blues"
+},
+"John Lennon|Give Peace A Chance (Remastered 2010)": {
+"album": "Signature Box (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/7f/87/487f871a-bf7b-31eb-5b6b-52931e061b79/13UABIM49243.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"John Lennon|Imagine (Remastered 2010)": {
+"album": "Imagine",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/e3/b0/21e3b048-c917-92c4-bd7d-ace44797b388/13UABIM52808.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "John Lennon|Instant Karma! (We All Shine On) (Ultimate Mix)": {
 "album": "John Lennon/Plastic Ono Band (The Ultimate Collection)",
@@ -3471,6 +3643,7 @@
 },
 "Julio Iglesias|Quiero": {
 "album": "El Amor",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/0d/2d/mzi.nlftitdn.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop Latino"
 },
@@ -3481,6 +3654,7 @@
 },
 "Jungle|Busy Earnin'": {
 "album": "Jungle",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/05/54/c105548a-9e3b-071f-05a8-01bc689c1b37/634904164768.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3496,6 +3670,7 @@
 },
 "Junkie XL|Brothers In Arms": {
 "album": "Mad Max: Fury Road (Original Motion Picture Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/76/96/8b/76968bbf-224b-2361-f103-94ea4c9ab876/794043172595.jpg/100x100bb.jpg",
 "film_hint": "Mad Max: Fury Road (Original Motion Picture Soundtrack)",
 "genre": "Soundtrack"
 },
@@ -3518,6 +3693,12 @@
 "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
 "film_hint": "",
 "genre": "Latin"
+},
+"Kanye West|Devil In A New Dress (Album Version (Explicit))": {
+"album": "My Beautiful Dark Twisted Fantasy (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Kat Edmonson|All The Way": {
 "album": "The Big Picture",
@@ -3649,6 +3830,12 @@
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
 },
+"King Crimson|The Sheltering Sky": {
+"album": "Discipline (Expanded Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ef/7a/4d/ef7a4d20-5ed2-3e7b-8e54-db586f2bc96b/Discipline_2500px.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Prog-Rock/Art Rock"
+},
 "King Gizzard & The Lizard Wizard|Crumbling Castle": {
 "album": "Polygondwanaland",
 "film_hint": "",
@@ -3661,6 +3848,7 @@
 },
 "Korpiklaani|Vodka": {
 "album": "Karkelo",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/9d/09/379d095f-8904-b010-f855-91efd2ff532c/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Metal"
 },
@@ -3794,6 +3982,12 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Lebanon Hanover|Babes of the 80s (She Past Away)": {
+"album": "Babes of the 80'S - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/1b/10/881b1066-6c28-f87c-6638-96bb4df2a6c3/859718685517_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Led Zeppelin|Going to California  (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
 "film_hint": "",
@@ -3801,6 +3995,12 @@
 },
 "Led Zeppelin|Over the Hills and Far Away  (Remaster)": {
 "album": "Houses of the Holy (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Led Zeppelin|Stairway to Heaven  (Remaster)": {
+"album": "Led Zeppelin IV (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3816,6 +4016,7 @@
 },
 "Leon Bridges|Coming Home": {
 "album": "Coming Home (Deluxe)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/37/70/273770eb-92ac-1d00-87e6-e0f5ec0e97ab/886445452204.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -3936,6 +4137,7 @@
 },
 "Little River Band|Cool Change": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -3991,6 +4193,7 @@
 },
 "Loscil|Estuarine": {
 "album": "Endless Falls",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/53/9b/06539b83-2776-fb42-2767-7883b6ddab2f/mzi.ilbbyuao.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4121,6 +4324,7 @@
 },
 "Mac DeMarco|No Other Heart": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -4196,13 +4400,15 @@
 },
 "Marisa Monte|Beija Eu": {
 "album": "Barulhinho Bom",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8f/d3/37/8fd33722-ba9e-a57c-65f2-477e1833f772/00094637461457.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "MPB"
 },
 "Mariya Takeuchi|Plastic Love": {
-"album": "",
+"album": "Expressions (MOON Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/bf/7d/1bbf7d0d-fe41-4e4b-29d0-7feb373a9e4c/190295078515.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "J-Pop"
 },
 "Mariza|Ó gente da minha terra": {
 "album": "Fado Em Mim",
@@ -4221,6 +4427,7 @@
 },
 "Mark Knopfler|The Long Road": {
 "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/91/ff/c391ff50-caba-db8a-2387-6c906d2ca65c/mzi.gyijrdqr.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4326,6 +4533,7 @@
 },
 "Maxwell|Pretty Wings (uncut)": {
 "album": "BLACKsummers'night",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/a3/d4/e4a3d458-a1c2-b14c-568f-f8a8503c022d/884977106770.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -4336,6 +4544,7 @@
 },
 "Mazzy Star|Fade Into You": {
 "album": "So Tonight That I Might See",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4386,6 +4595,7 @@
 },
 "Men At Work|Overkill": {
 "album": "Contraband: The Best of Men At Work",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c0/69/00/c0690034-99df-60e5-0169-437adff1a06d/mzi.dsehorsv.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4441,6 +4651,7 @@
 },
 "Michael Hutchence|Slide Away": {
 "album": "Michael Hutchence",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b7/44/a2/b744a299-6819-3beb-7ae8-306f2225815a/00602557843606.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4461,6 +4672,12 @@
 },
 "Michael McDonald|I Keep Forgettin' (Every Time You're Near)": {
 "album": "If That's What It Takes",
+"film_hint": "",
+"genre": "Rock"
+},
+"Mike Oldfield|Moonlight Shadow": {
+"album": "The Mike Oldfield Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/24/3b/d9243b7b-3274-8142-8771-00133e3e587f/00602527065489.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4536,11 +4753,13 @@
 },
 "Mitski|My Love Mine All Mine": {
 "album": "The Land Is Inhospitable and So Are We",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
 "Moby|Natural Blues": {
 "album": "Play & Play: B Sides",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/b4/93/b0b493b1-71ae-b154-ab40-e6acc7d84c46/842108036099_1.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4551,6 +4770,7 @@
 },
 "Moloko|Over & Over": {
 "album": "Statues",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5e/52/5e/5e525eba-f6b0-a9f2-71d1-3c2e965f1608/0886443963092.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4578,6 +4798,18 @@
 "album": "Mother Earth's Plantasia",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Mr. Bungle|The Air-Conditioned Nightmare (Album Version)": {
+"album": "California",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/7d/f0/25/7df025a4-381f-20ca-4fdd-508a2b04362a/dj.hfzcjsim.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hard Rock"
+},
+"Mr. President|Don't You Ever Stop": {
+"album": "The Gift - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/19/e9/e5/19e9e548-0cd5-c3dd-5777-51ff352caa50/00602537781300.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Mree|Into the Well": {
 "album": "Winterwell",
@@ -4631,6 +4863,7 @@
 },
 "Måneskin|Torna a casa": {
 "album": "Il ballo della vita",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/56/3f/23/563f230d-4672-ce4a-7722-1d20425cefe5/886447116159.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4744,6 +4977,12 @@
 "film_hint": "",
 "genre": "Alternative Folk"
 },
+"Nickelback|How You Remind Me (- LP Mix)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
 "Nightmares On Wax|Les Nuits": {
 "album": "Carboot Soul",
 "film_hint": "",
@@ -4816,6 +5055,7 @@
 },
 "Nirvana|Smells Like Teen Spirit": {
 "album": "Nevermind",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4911,6 +5151,7 @@
 },
 "Otis Redding|(Sittin' On) the Dock of the Bay": {
 "album": "The Very Best of Otis Redding",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/3e/f6/923ef641-d13b-c0ac-1271-332f74b17956/603497887217.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -5106,6 +5347,7 @@
 },
 "Peter Broderick|A Little Lost": {
 "album": "Peter Broderick & Friends Play Arthur Russell",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/da/3a/11/da3a11a7-30e6-6c2b-1650-38b929dadde4/193483303130.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative Folk"
 },
@@ -5151,11 +5393,13 @@
 },
 "Phoebe Bridgers|Moon Song": {
 "album": "Punisher",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/91/4f/39914f60-e9aa-4ae9-3962-44b0a5e5d570/656605150062.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
 "Phoebe Bridgers|Smoke Signals": {
 "album": "Stranger in the Alps",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/4c/6e/204c6ef3-8e95-4cee-2256-202ca62aebed/60220.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5166,6 +5410,7 @@
 },
 "Phosphorescent|Song for Zula": {
 "album": "Muchacho de Lujo (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/ec/87/b1/ec87b108-d56f-1011-bfe5-be4d1f1b964c/656605138763.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5206,6 +5451,7 @@
 },
 "Pixies|Ana": {
 "album": "Bossanova",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/9b/c3/689bc3f6-b6b9-f926-ccf9-4ff34cb942c8/652637001037.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5329,6 +5575,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Queen|Bohemian Rhapsody (Remastered 2011)": {
+"album": "The Platinum Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Queen|Don't Stop Me Now (Remastered 2011)": {
 "album": "The Platinum Collection",
 "film_hint": "",
@@ -5406,6 +5658,7 @@
 },
 "Randy Crawford|One Day I'll Fly Away": {
 "album": "Now We May Begin",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/b9/72/5eb972d2-613c-1208-b095-5a39bb8f18bc/mzi.luaufgbg.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -5486,6 +5739,7 @@
 },
 "Ride|Vapour Trail": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -5561,6 +5815,7 @@
 },
 "Roy Ayers Ubiquity|Everybody Loves The Sunshine": {
 "album": "Everybody Loves the Sunshine",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/0e/28/e10e28c1-bed6-3143-cb91-265ba590bc35/15UMGIM65435.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -5621,8 +5876,15 @@
 },
 "Röyksopp|Eple": {
 "album": "Melody A.M.",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/01/13/360113a3-63b8-6c1b-3ac6-c60d4d25b4d4/724385092022.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Dance"
+},
+"S Club|I Really Miss You": {
+"album": "S Club",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/56/9d/3a569dbc-6c93-44ea-88be-83b8cbdde377/00731454310321.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "SHINee|Married To The Music": {
 "album": "Married To the Music - The 4th Album Repackage",
@@ -5691,6 +5953,7 @@
 },
 "Salvador Sobral|Amar pelos Dois": {
 "album": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/ed/7b37ed79-71d5-1f36-44f9-289f2997c3b8/886448418108.jpg/100x100bb.jpg",
 "film_hint": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
 "genre": "Soundtrack"
 },
@@ -5701,6 +5964,7 @@
 },
 "Sampha|(No One Knows Me) Like the Piano": {
 "album": "Process",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/8d/ed/958ded66-ec58-2347-caa3-dfa2c0e417e1/889030015860.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -5721,6 +5985,7 @@
 },
 "Santana|Samba Pa Ti": {
 "album": "Abraxas",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/03/7f/30037fd6-3292-1806-c806-5341391c9aac/886444593038.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5761,6 +6026,7 @@
 },
 "Sea Power|Instrument of Surrender": {
 "album": "Disco Elysium",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/05/30/ce053024-6253-93a3-12a6-492e36c95cbc/5060079269147.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Video Game"
 },
@@ -5798,6 +6064,12 @@
 "album": "Live In The USA 1978",
 "film_hint": "",
 "genre": "Punk"
+},
+"Shaboozey|A Bar Song (Tipsy)": {
+"album": "A Bar Song (Tipsy) [Remix] - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/88/da/7688da1f-220a-c26f-ec35-dd3bbd3091bd/197342663274_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Dance"
 },
 "Shakespears Sister|Stay": {
 "album": "Hormonally Yours",
@@ -5946,6 +6218,7 @@
 },
 "Smoke City|Underwater Love": {
 "album": "Flying Away",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0d/4c/ee/0d4cee93-a8a2-e805-0f0d-9baa6ee2b02e/886446674278.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6056,11 +6329,13 @@
 },
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 1": {
 "album": "The Tired Sounds of Stars of the Lid",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/6e/07/20/6e0720ae-5fa3-45a4-ba49-44f412376670/dj.lepjddjz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 2": {
 "album": "The Tired Sounds of Stars of the Lid",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/6e/07/20/6e0720ae-5fa3-45a4-ba49-44f412376670/dj.lepjddjz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -6096,6 +6371,7 @@
 },
 "Steve Roach|Living the Dream": {
 "album": "Life Sequence (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/34/f0/df/34f0df8e-1936-74cd-46fe-4fc451ec13ce/617026301228.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -6284,6 +6560,12 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"THE FATBACK BAND|At Last": {
+"album": "Fired up 'N' Kickin'",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/5b/43/925b4329-50d0-60dd-39aa-eb963d00dcf7/196626769497.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Funk"
+},
 "THE TEARDROP EXPLODES|Reward": {
 "album": "Culture Bunker 1978 - 82",
 "film_hint": "",
@@ -6326,6 +6608,7 @@
 },
 "Talk Talk|After The Flood": {
 "album": "Laughing Stock",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4e/d3/44/4ed34448-31df-5d76-5043-77c1dc257575/00042284771726.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6441,6 +6724,12 @@
 },
 "The Beach Boys|Good Vibrations (Stereo/Remastered 2012)": {
 "album": "Smiley Smile (Mono & Stereo)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|Get Back (2021 Mix)": {
+"album": "Let It Be (2021 Mix)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c8/6d/05/c86d05fa-8056-9b42-3483-0e9e474da327/21UMGIM61111.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6606,6 +6895,7 @@
 },
 "The Good, The Bad & The Queen|History Song": {
 "album": "The Good, the Bad & the Queen",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b9/67/98/b967986a-5dbc-fbd3-d150-7fbc2bcca7c5/825646290963.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -6651,6 +6941,7 @@
 },
 "The Jetzons|You": {
 "album": "The Complete Jetzons",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/1e/5e/mzi.htcvifyh.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "New Age"
 },
@@ -6661,6 +6952,7 @@
 },
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -6801,6 +7093,7 @@
 },
 "The Smashing Pumpkins|1979": {
 "album": "Mellon Collie And The Infinite Sadness (2012 Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/ce/b2/caceb2ed-50f0-c666-e4d0-165a0a1541fc/13UABIM04008.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -6841,6 +7134,7 @@
 },
 "The Sundays|Wild Horses": {
 "album": "Blind",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/f5/4f/9af54ff7-150c-1877-eabc-15c2bd87f830/00720642447925.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6901,6 +7195,12 @@
 },
 "The Weeknd|Gasoline": {
 "album": "Dawn FM",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"The Weeknd|Starboy": {
+"album": "Starboy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -7039,6 +7339,12 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Tom Konkle|Light Bulb In My Head": {
+"album": "Light Bulb in My Head - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/69/9f/29699f06-88c9-eb5a-8348-06a9ab92b365/823000090778.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Tom Konkle|Name On A Screen": {
 "album": "The Storm with a Gentle Face",
 "film_hint": "",
@@ -7051,8 +7357,15 @@
 },
 "Tom Misch|It Runs Through Me (feat. De La Soul)": {
 "album": "Geography",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/f6/72/4cf672af-31a3-772a-f27d-4ebc4ddeafbf/5056167104650.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Tom Novy|Superstar  (The Jason Nevins' Live Peep Show Mix)": {
+"album": "Superstar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/28/06/cd/2806cdc7-2308-7250-1365-caba53f06f9d/196589597830.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Dance"
 },
 "Tom Petty & The Heartbreakers|American Girl": {
 "album": "Tom Petty And The Heartbreakers",
@@ -7116,6 +7429,7 @@
 },
 "Toto|Africa": {
 "album": "Toto IV",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7296,6 +7610,7 @@
 },
 "Warpaint|Keep It Healthy": {
 "album": "Warpaint",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/ee/e9/56eee914-668c-a1b6-37ea-1ffe7f99bfbf/883870068055.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7308,6 +7623,12 @@
 "album": "Seize the Day (feat. Charlotte Savary) - Single",
 "film_hint": "",
 "genre": "Dance"
+},
+"Weird Al Yankovic|Everything You Know Is Wrong": {
+"album": "Bad Hair Day",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/c4/c5/65c4c588-0fcd-fb3c-e1b0-5a685cb13040/dj.iydpynlx.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Comedy"
 },
 "Whitesnake|Still Of The Night (2018 Remaster)": {
 "album": "Whitesnake (2018 Remaster)",
@@ -7421,6 +7742,7 @@
 },
 "Yo La Tengo|You Can Have It All": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -7431,6 +7753,7 @@
 },
 "Yo-Yo Ma|Libertango": {
 "album": "Impressions",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/38/81/0a/mzi.zjtrbyko.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -7446,6 +7769,7 @@
 },
 "Zaz|Sous le ciel de Paris": {
 "album": "Paris",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/73/55/4973559f-9bc7-e6e1-8296-0de96b0b8962/dj.klywycjq.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7456,6 +7780,7 @@
 },
 "Zeynep Bastık|Her Yerde Sen (Akustik)": {
 "album": "Akustikler - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/34/1e/a5341ec2-0337-e97f-7b01-2ec8d4aef0a9/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Turkish Pop"
 },
