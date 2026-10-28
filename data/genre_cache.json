@@ -350,6 +350,7 @@
 },
 "Alice In Chains|Man in the Box": {
 "album": "Dirt (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -458,6 +459,7 @@
 },
 "Anita Baker|Angel (LP Version)": {
 "album": "Rhythm of Love",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/82/7d/94/mzi.pxuciqlw.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -613,6 +615,7 @@
 },
 "Arvo Pärt|Spiegel im spiegel": {
 "album": "Pärt: Portrait",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/0c/b8/39/0cb83963-8362-6e23-57ae-3130226f76e0/dj.nmdgayfo.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -1232,6 +1235,7 @@
 },
 "Bob Dylan|The Lonesome Death of Hattie Carroll": {
 "album": "The Times They Are A-Changin’",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d8/e5/06/d8e50659-ccc2-5dee-689b-6420f95c7064/BobDylan_TheTimesTheyAreAChangin2010Mon_G0100020269983_F_001_RGBJPEG.jpeg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1461,6 +1465,7 @@
 },
 "Brian Eno|Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -1501,6 +1506,7 @@
 },
 "Bruce Springsteen|Born to Run": {
 "album": "The Essential Bruce Springsteen",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a6/a6/53/a6a65331-d20b-53b5-766a-0c79c78f1e73/886445412307.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1547,6 +1553,7 @@
 },
 "Bryan Ferry|Reason or Rhyme": {
 "album": "Bitter-Sweet",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/92/f3/16/92f316e3-02ad-d1fc-ce36-020b3446c21f/4050538448252.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -2014,11 +2021,13 @@
 },
 "Claire Chevallier|Je te veux": {
 "album": "La Route blanche: The Endlessly Surprising Erik Satie",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/4e/8a/bb4e8ade-04cb-617a-1f5f-cb7ed54b27f6/5425004841667.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
 "Clannad|Theme From Harry's Game": {
 "album": "Hourglass - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a7/6f/26/a76f26ac-b1b9-a3a2-a3f8-8af980e0d99a/4050538546644.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2595,6 +2604,7 @@
 },
 "Dire Straits|Brothers in Arms": {
 "album": "Brothers In Arms",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/bd/54/e8bd54fd-6595-4ebf-aa4c-58139ed316e6/dj.bngafruf.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3083,6 +3093,7 @@
 },
 "Eric Clapton|Change the World": {
 "album": "Clapton Chronicles: The Best of Eric Clapton",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b4/a8/99/b4a89922-4b67-104e-f85c-d6d478303e65/93624755364.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3199,6 +3210,7 @@
 },
 "Explosions In The Sky|Your Hand in Mine": {
 "album": "The Earth Is Not a Cold Dead Place",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/ea/6c/82ea6c96-4f61-9b4a-9fad-ce4bbef9f6ed/mzi.fntrndfr.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3310,6 +3322,7 @@
 },
 "Filippo Beck Peccoz|Until Death Do Us Part": {
 "album": "Desperados III, Vol. 1 (Official Game Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2e/97/36/2e973613-3751-9912-248c-a97ae0e76ce5/artwork.jpg/100x100bb.jpg",
 "film_hint": "Desperados III, Vol. 1 (Official Game Soundtrack)",
 "genre": "Soundtrack"
 },
@@ -3798,6 +3811,7 @@
 },
 "Goldmund|Threnody": {
 "album": "The Malady of Elegance",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/e5/d9/75e5d9f3-d899-532d-8708-dc297f926dfd/182270000895.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3965,6 +3979,7 @@
 },
 "Guns N' Roses|Paradise City": {
 "album": "Appetite For Destruction",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -3994,6 +4009,7 @@
 },
 "Guts|Laisser Lucie faire": {
 "album": "Paradise for All (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/9a/54/bb/9a54bb86-ff21-4af6-1cd8-f98467661444/3700551764983_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4106,6 +4122,7 @@
 },
 "Harold Budd|Lost In The Humming Air (2005 Digital Remaster)": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -4153,6 +4170,7 @@
 },
 "Hector Villalobos|Bachianas Brasileiras No. 5: I Aria (Cantilena)": {
 "album": "Saudade",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5b/6b/de/5b6bde17-3692-9d1f-d576-6fb7758cb76c/22UMGIM41658.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical Crossover"
 },
@@ -4489,6 +4507,7 @@
 },
 "Jack Johnson|Upside Down": {
 "album": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/11/d2/0811d2b3-b4d5-dc22-1107-3625511844b5/00602537869770.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4596,6 +4615,7 @@
 },
 "Jeff Buckley|Hallelujah": {
 "album": "Grace",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Holiday"
 },
@@ -4653,6 +4673,7 @@
 },
 "Jimi Hendrix|Voodoo Child (Slight Return)": {
 "album": "Electric Ladyland",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/b8/45/a6b84589-6ff7-a462-9ff9-170b724980d5/dj.wjkdwlks.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4880,6 +4901,7 @@
 },
 "Johnny Flynn|Detectorists (Original Soundtrack from the TV Series)": {
 "album": "Detectorists (Original Soundtrack from the TV Series) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/85/8e/69858ebb-54e1-12c1-0fcb-de1fdedbaeba/197189057526.jpg/100x100bb.jpg",
 "film_hint": "Detectorists (Original Soundtrack from the TV Series) - Single",
 "genre": "TV Soundtrack"
 },
@@ -5251,6 +5273,7 @@
 },
 "Khatia Buniatishvili|Orchestral Suite No. 3 in D Major, BMV 1068 \"Air On The G String\" - Air on the G String": {
 "album": "Labyrinth",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/3b/99/f33b9926-b31a-34f7-1f2f-805f688b5bf8/886448587316.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -5389,6 +5412,7 @@
 },
 "Kris Kristofferson|Me and Bobby McGee": {
 "album": "Kristofferson",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/2b/96/da2b96b8-a339-2d6b-76bb-9d74f590b2ce/886445340648.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
@@ -6262,6 +6286,7 @@
 },
 "Massive Attack|Protection": {
 "album": "Protection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/db/2d/65/db2d6579-b267-7283-ee16-a618650ec8d1/00724383988358.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -6895,6 +6920,7 @@
 },
 "Natalie Imbruglia|Torn": {
 "album": "Left of the Middle",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/5d/f1/115df15e-e05f-b0f1-ae66-3ad2c5e969b4/mzi.ihaejhxb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7774,6 +7800,7 @@
 },
 "Pink Floyd|Wish You Were Here": {
 "album": "Wish You Were Here",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -8359,6 +8386,7 @@
 },
 "Ryuichi Sakamoto|Bibo no Aozora": {
 "album": "1996 (Re-Mastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/a2/ce/7ba2ce4d-a220-9715-7704-b11efff6a1be/881036000000_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical Crossover"
 },
@@ -8474,6 +8502,7 @@
 },
 "Sade|Smooth Operator (2011 Remastered) (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -8904,6 +8933,7 @@
 },
 "Soda Stereo|De Música Ligera (Remasterizado 2007)": {
 "album": "MTV Unplugged: Comfort y Música para Volar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/fe/0f/9dfe0fb6-3b64-d459-1e36-cb47bd763d18/888880502377.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
@@ -9208,6 +9238,7 @@
 },
 "Sting|Fragile": {
 "album": "...Nothing Like the Sun",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/4e/ec/2b4eec10-07f0-8f54-857e-44e9155b3091/22UM1IM21288.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9349,6 +9380,7 @@
 },
 "Supertramp|Even In The Quietest Moments": {
 "album": "Retrospectacle: The Supertramp Anthology",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/06/17/e2061799-7c48-7b68-6f8a-5742888d2179/06UMGIM48539.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9372,6 +9404,7 @@
 },
 "Suzanne Ciani|Oceanium": {
 "album": "Golden Apples of the Sun",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/5d/94/905d94d1-5c2d-b277-fd74-b23fac546430/3760179357547.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Ambient"
 },
@@ -9801,6 +9834,7 @@
 },
 "The Clash|London Calling": {
 "album": "London Calling",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/d7/17/45d71740-b204-de23-3f9e-f2f823296f1d/886443520721.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Punk"
 },
@@ -9846,11 +9880,13 @@
 },
 "The Cure|Lovesong  (2010 Remaster)": {
 "album": "Disintegration (2010 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/93/3c/2c/mzi.ujtdsknz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
 "The Cure|Pictures of You": {
 "album": "Galore",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/b1/d5/c8/mzi.qrmzfpis.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -9921,6 +9957,7 @@
 },
 "The Head And The Heart|Down in the Valley": {
 "album": "The Head And The Heart",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/4d/d9/974dd997-73af-5ed2-530c-892ec10f9deb/0098787091564_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10125,6 +10162,7 @@
 },
 "The Postal Service|Such Great Heights (Remastered)": {
 "album": "Give Up (Deluxe 10th Anniversary Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/0d/c2/e80dc202-b4ec-b056-5dda-d51c16b89f17/098787104561.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -10504,6 +10542,7 @@
 },
 "Tim Hecker|Black Refraction": {
 "album": "Virgins",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/52/31/c3/5231c34d-8566-0e12-73fa-6be28ff4ed7e/dj.qeqrsvxx.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -10806,6 +10845,7 @@
 },
 "Tycho|Dive": {
 "album": "Dive",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/be/ed/46beed8a-5d0f-1077-cbeb-aace15e69f44/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },

@@ -1,4 +1,5 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Youssou N'Dour featuring Neneh Cherry,7 Seconds (Album Version),55,2026-10-28T23:14:29Z,Life Tracks,Worldwide,The Best of Youssou N'Dour,,https://music.apple.com/us/search?term=Youssou+N%27Dour+featuring+Neneh+Cherry+7+Seconds+%28Album+Version%29,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/dd/21/24dd21dc-9477-d8f6-4341-ef55d80a1567/mzi.jcefhylw.jpg/100x100bb.jpg
 Martina McBride,Independence Day,9,2026-10-28T23:10:55Z,Life Tracks,Country,Greatest Hits,,https://music.apple.com/us/album/independence-day/256344266?i=256344593,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/d2/c4/5bd2c44e-5487-4a57-dabf-3591879bb045/mzi.lprvsbxk.jpg/100x100bb.jpg
 Lianne La Havas,Unstoppable,85,2026-10-28T23:05:19Z,Life Tracks,R&B/Soul,Blood,,https://music.apple.com/us/album/unstoppable/986317401?i=986317406,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/4a/1e/6b/4a1e6b00-8429-dcbc-0593-129dd4659c02/825646101566.jpg/100x100bb.jpg
 Ben Allison,D.A.V.E.,20,2026-10-28T22:54:06Z,Open Channel,Jazz,The Stars Look Very Different Today,,https://music.apple.com/us/album/d-a-v-e/1465796791?i=1465796792,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cb/ad/ac/cbadacd1-8c1a-146e-5356-1e3e8e76e232/616892154341.jpg/100x100bb.jpg
@@ -686,7 +687,6 @@ Nightwish,Wishmaster,13,2026-10-26T16:51:16Z,,Rock,Wishmaster,,,Kurt,https://is1
 Kygo,Heaven On Your Mind,11,2026-10-26T16:47:16Z,,Dance,Heaven On Your Mind (feat. Dan Tyminski) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/51/87/0b51872e-7744-5278-5bf7-bcd7d851b210/196874401378.jpg/100x100bb.jpg
 Rush,Tom Sawyer,23,2026-10-26T16:39:15Z,,Hard Rock,Chronicles (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/3d/1f/893d1f2b-7690-bc6d-6f0e-c7fc31acf7b4/06UMGIM04263.rgb.jpg/100x100bb.jpg
 Daft Punk,One More Time,146,2026-10-26T16:33:45Z,,Dance,Discovery,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/100x100bb.jpg
-Youssou N'Dour featuring Neneh Cherry,7 Seconds (Album Version),55,2026-10-26T16:28:15Z,,Worldwide,The Best of Youssou N'Dour,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/dd/21/24dd21dc-9477-d8f6-4341-ef55d80a1567/mzi.jcefhylw.jpg/100x100bb.jpg
 Fito Páez,El amor después del amor,22,2026-10-26T16:22:45Z,,Rock y Alternativo,El Amor Después del Amor,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/06/19/ca061956-688a-56fc-845e-9df14c6fcf14/mzi.gpiharyr.jpg/100x100bb.jpg
 Thin Lizzy,Emerald,20,2026-10-26T16:18:45Z,,Hard Rock,Jailbreak,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/73/ee/9973ee9c-626e-7fff-f916-ccde75ba818e/06UMGIM69340.rgb.jpg/100x100bb.jpg
 Kraftwerk,Das Model,25,2026-10-26T16:14:46Z,,Electronic,The Man-Machine (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/c1/48/b7c1481a-5a92-4b71-ee35-ab7c890770da/5099996602256.jpg/100x100bb.jpg
@@ -1287,46 +1287,46 @@ The Hu,Yuve Yuve Yu,23,2026-10-23T08:05:30Z,,Metal,The Gereg (Deluxe Edition),,,
 Astor Piazzolla,Adiós Nonino,10,2026-10-23T07:47:30Z,,Classical,Roses of the Classic - Accordion,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/91/87/1f/91871fa7-dca8-d412-e306-1728ed42a01b/5901571097923.jpg/100x100bb.jpg
 Ben&Ben,Leaves,48,2026-10-23T07:32:00Z,,Alternative Folk,Leaves (feat. Young K) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/72/19/35721962-2902-809f-e24c-73a8bdf7dfcb/886449312276.jpg/100x100bb.jpg
 The Beach Boys,Good Vibrations (Stereo/Remastered 2012),29,2026-10-23T07:28:30Z,,Rock,Smiley Smile (Mono & Stereo),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/62/6c/94626c44-4657-739e-e639-39ae55e6d2cc/13UABIM03827.rgb.jpg/100x100bb.jpg
-Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,Rock y Alternativo,MTV Unplugged: Comfort y Música para Volar,,,Kurt,
-Goldmund,Threnody,109,2026-10-23T06:51:29Z,,Alternative,The Malady of Elegance,,,Kurt,
-Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,Soundtrack,"Desperados III, Vol. 1 (Official Game Soundtrack)","Desperados III, Vol. 1 (Official Game Soundtrack)",,Kurt,
-Guts,Laisser Lucie faire,8,2026-10-23T06:39:29Z,,Electronic,Paradise for All (Deluxe Edition),,,Kurt,
-Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),21,2026-10-23T06:22:59Z,,Classical Crossover,Saudade,,,Kurt,
-Suzanne Ciani,Oceanium,77,2026-10-23T06:01:28Z,,Ambient,Golden Apples of the Sun,,,Kurt,
-Arvo Pärt,Spiegel im spiegel,87,2026-10-23T05:52:58Z,,Classical,Pärt: Portrait,,,Kurt,
-Johnny Flynn,Detectorists (Original Soundtrack from the TV Series),1,2026-10-23T05:38:28Z,,TV Soundtrack,Detectorists (Original Soundtrack from the TV Series) - Single,Detectorists (Original Soundtrack from the TV Series) - Single,,Kurt,
-The Head And The Heart,Down in the Valley,22,2026-10-23T05:26:28Z,,Alternative,The Head And The Heart,,,Kurt,
-Clannad,Theme From Harry's Game,35,2026-10-23T05:18:58Z,,Pop,Hourglass - Single,,,Kurt,
-Supertramp,Even In The Quietest Moments,21,2026-10-23T05:04:27Z,,Pop,Retrospectacle: The Supertramp Anthology,,,Kurt,
-Kris Kristofferson,Me and Bobby McGee,32,2026-10-23T04:50:27Z,,Country,Kristofferson,,,Kurt,
-Bryan Ferry,Reason or Rhyme,5,2026-10-23T04:46:27Z,,Jazz,Bitter-Sweet,,,Kurt,
-Sade,Smooth Operator (2011 Remastered) (Remastered Version),98,2026-10-23T04:41:58Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt,
-Dire Straits,Brothers in Arms,21,2026-10-23T04:34:57Z,,Rock,Brothers In Arms,,,Kurt,
-Jeff Buckley,Hallelujah,31,2026-10-23T04:17:27Z,,Holiday,Grace,,,Kurt,
-Massive Attack,Protection,37,2026-10-23T04:01:57Z,,Electronic,Protection,,,Kurt,
-Sting,Fragile,33,2026-10-23T03:52:56Z,,Rock,...Nothing Like the Sun,,,Kurt,
-Natalie Imbruglia,Torn,13,2026-10-23T03:48:56Z,,Pop,Left of the Middle,,,Kurt,
-Pink Floyd,Wish You Were Here,14,2026-10-23T03:43:26Z,,Rock,Wish You Were Here,,,Kurt,
-Jack Johnson,Upside Down,5,2026-10-23T03:39:56Z,,Rock,Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George,,,Kurt,
-Bob Dylan,The Lonesome Death of Hattie Carroll,46,2026-10-23T03:23:56Z,,Rock,The Times They Are A-Changin’,,,Kurt,
-The Cure,Lovesong  (2010 Remaster),12,2026-10-23T03:10:27Z,,Alternative,Disintegration (2010 Remaster),,,Kurt,
-Ryuichi Sakamoto,Bibo no Aozora,23,2026-10-23T02:54:26Z,,Classical Crossover,1996 (Re-Mastered),,,Kurt,
-Explosions In The Sky,Your Hand in Mine,20,2026-10-23T02:39:55Z,,Rock,The Earth Is Not a Cold Dead Place,,,Kurt,
-Tycho,Dive,99,2026-10-23T02:31:25Z,,Electronic,Dive,,,Kurt,
+Soda Stereo,De Música Ligera (Remasterizado 2007),29,2026-10-23T07:21:30Z,,Rock y Alternativo,MTV Unplugged: Comfort y Música para Volar,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/fe/0f/9dfe0fb6-3b64-d459-1e36-cb47bd763d18/888880502377.jpg/100x100bb.jpg
+Goldmund,Threnody,109,2026-10-23T06:51:29Z,,Alternative,The Malady of Elegance,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/e5/d9/75e5d9f3-d899-532d-8708-dc297f926dfd/182270000895.png/100x100bb.jpg
+Filippo Beck Peccoz,Until Death Do Us Part,6,2026-10-23T06:49:29Z,,Soundtrack,"Desperados III, Vol. 1 (Official Game Soundtrack)","Desperados III, Vol. 1 (Official Game Soundtrack)",,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2e/97/36/2e973613-3751-9912-248c-a97ae0e76ce5/artwork.jpg/100x100bb.jpg
+Guts,Laisser Lucie faire,8,2026-10-23T06:39:29Z,,Electronic,Paradise for All (Deluxe Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/9a/54/bb/9a54bb86-ff21-4af6-1cd8-f98467661444/3700551764983_cover.jpg/100x100bb.jpg
+Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),21,2026-10-23T06:22:59Z,,Classical Crossover,Saudade,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5b/6b/de/5b6bde17-3692-9d1f-d576-6fb7758cb76c/22UMGIM41658.rgb.jpg/100x100bb.jpg
+Suzanne Ciani,Oceanium,77,2026-10-23T06:01:28Z,,Ambient,Golden Apples of the Sun,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/5d/94/905d94d1-5c2d-b277-fd74-b23fac546430/3760179357547.jpg/100x100bb.jpg
+Arvo Pärt,Spiegel im spiegel,87,2026-10-23T05:52:58Z,,Classical,Pärt: Portrait,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/0c/b8/39/0cb83963-8362-6e23-57ae-3130226f76e0/dj.nmdgayfo.jpg/100x100bb.jpg
+Johnny Flynn,Detectorists (Original Soundtrack from the TV Series),1,2026-10-23T05:38:28Z,,TV Soundtrack,Detectorists (Original Soundtrack from the TV Series) - Single,Detectorists (Original Soundtrack from the TV Series) - Single,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/85/8e/69858ebb-54e1-12c1-0fcb-de1fdedbaeba/197189057526.jpg/100x100bb.jpg
+The Head And The Heart,Down in the Valley,22,2026-10-23T05:26:28Z,,Alternative,The Head And The Heart,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/4d/d9/974dd997-73af-5ed2-530c-892ec10f9deb/0098787091564_Cover.jpg/100x100bb.jpg
+Clannad,Theme From Harry's Game,35,2026-10-23T05:18:58Z,,Pop,Hourglass - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a7/6f/26/a76f26ac-b1b9-a3a2-a3f8-8af980e0d99a/4050538546644.jpg/100x100bb.jpg
+Supertramp,Even In The Quietest Moments,21,2026-10-23T05:04:27Z,,Pop,Retrospectacle: The Supertramp Anthology,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/06/17/e2061799-7c48-7b68-6f8a-5742888d2179/06UMGIM48539.rgb.jpg/100x100bb.jpg
+Kris Kristofferson,Me and Bobby McGee,32,2026-10-23T04:50:27Z,,Country,Kristofferson,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/2b/96/da2b96b8-a339-2d6b-76bb-9d74f590b2ce/886445340648.jpg/100x100bb.jpg
+Bryan Ferry,Reason or Rhyme,5,2026-10-23T04:46:27Z,,Jazz,Bitter-Sweet,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/92/f3/16/92f316e3-02ad-d1fc-ce36-020b3446c21f/4050538448252.jpg/100x100bb.jpg
+Sade,Smooth Operator (2011 Remastered) (Remastered Version),98,2026-10-23T04:41:58Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg
+Dire Straits,Brothers in Arms,21,2026-10-23T04:34:57Z,,Rock,Brothers In Arms,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/bd/54/e8bd54fd-6595-4ebf-aa4c-58139ed316e6/dj.bngafruf.jpg/100x100bb.jpg
+Jeff Buckley,Hallelujah,31,2026-10-23T04:17:27Z,,Holiday,Grace,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/100x100bb.jpg
+Massive Attack,Protection,37,2026-10-23T04:01:57Z,,Electronic,Protection,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/db/2d/65/db2d6579-b267-7283-ee16-a618650ec8d1/00724383988358.rgb.jpg/100x100bb.jpg
+Sting,Fragile,33,2026-10-23T03:52:56Z,,Rock,...Nothing Like the Sun,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/4e/ec/2b4eec10-07f0-8f54-857e-44e9155b3091/22UM1IM21288.rgb.jpg/100x100bb.jpg
+Natalie Imbruglia,Torn,13,2026-10-23T03:48:56Z,,Pop,Left of the Middle,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/5d/f1/115df15e-e05f-b0f1-ae66-3ad2c5e969b4/mzi.ihaejhxb.jpg/100x100bb.jpg
+Pink Floyd,Wish You Were Here,14,2026-10-23T03:43:26Z,,Rock,Wish You Were Here,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg
+Jack Johnson,Upside Down,5,2026-10-23T03:39:56Z,,Rock,Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/11/d2/0811d2b3-b4d5-dc22-1107-3625511844b5/00602537869770.rgb.jpg/100x100bb.jpg
+Bob Dylan,The Lonesome Death of Hattie Carroll,46,2026-10-23T03:23:56Z,,Rock,The Times They Are A-Changin’,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d8/e5/06/d8e50659-ccc2-5dee-689b-6420f95c7064/BobDylan_TheTimesTheyAreAChangin2010Mon_G0100020269983_F_001_RGBJPEG.jpeg/100x100bb.jpg
+The Cure,Lovesong  (2010 Remaster),12,2026-10-23T03:10:27Z,,Alternative,Disintegration (2010 Remaster),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/93/3c/2c/mzi.ujtdsknz.jpg/100x100bb.jpg
+Ryuichi Sakamoto,Bibo no Aozora,23,2026-10-23T02:54:26Z,,Classical Crossover,1996 (Re-Mastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/a2/ce/7ba2ce4d-a220-9715-7704-b11efff6a1be/881036000000_cover.jpg/100x100bb.jpg
+Explosions In The Sky,Your Hand in Mine,20,2026-10-23T02:39:55Z,,Rock,The Earth Is Not a Cold Dead Place,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/ea/6c/82ea6c96-4f61-9b4a-9fad-ce4bbef9f6ed/mzi.fntrndfr.tif/100x100bb.jpg
+Tycho,Dive,99,2026-10-23T02:31:25Z,,Electronic,Dive,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/be/ed/46beed8a-5d0f-1077-cbeb-aace15e69f44/cover.jpg/100x100bb.jpg
 Brian Eno,Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004),46,2026-10-23T02:16:25Z,,,,,,Kurt,
-Tim Hecker,Black Refraction,82,2026-10-23T02:04:55Z,,Electronic,Virgins,,,Kurt,
-Anita Baker,Angel (LP Version),47,2026-10-23T01:52:25Z,,R&B/Soul,Rhythm of Love,,,Kurt,
-Claire Chevallier,Je te veux,23,2026-10-23T01:36:54Z,,Classical,La Route blanche: The Endlessly Surprising Erik Satie,,,Kurt,
-The Postal Service,Such Great Heights (Remastered),13,2026-10-23T00:43:23Z,,Electronic,Give Up (Deluxe 10th Anniversary Edition),,,Kurt,
-Khatia Buniatishvili,"Orchestral Suite No. 3 in D Major, BMV 1068 ""Air On The G String"" - Air on the G String",2,2026-10-23T00:32:53Z,,Classical,Labyrinth,,,Kurt,
+Tim Hecker,Black Refraction,82,2026-10-23T02:04:55Z,,Electronic,Virgins,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/52/31/c3/5231c34d-8566-0e12-73fa-6be28ff4ed7e/dj.qeqrsvxx.jpg/100x100bb.jpg
+Anita Baker,Angel (LP Version),47,2026-10-23T01:52:25Z,,R&B/Soul,Rhythm of Love,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/82/7d/94/mzi.pxuciqlw.jpg/100x100bb.jpg
+Claire Chevallier,Je te veux,23,2026-10-23T01:36:54Z,,Classical,La Route blanche: The Endlessly Surprising Erik Satie,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/4e/8a/bb4e8ade-04cb-617a-1f5f-cb7ed54b27f6/5425004841667.jpg/100x100bb.jpg
+The Postal Service,Such Great Heights (Remastered),13,2026-10-23T00:43:23Z,,Electronic,Give Up (Deluxe 10th Anniversary Edition),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/0d/c2/e80dc202-b4ec-b056-5dda-d51c16b89f17/098787104561.png/100x100bb.jpg
+Khatia Buniatishvili,"Orchestral Suite No. 3 in D Major, BMV 1068 ""Air On The G String"" - Air on the G String",2,2026-10-23T00:32:53Z,,Classical,Labyrinth,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/3b/99/f33b9926-b31a-34f7-1f2f-805f688b5bf8/886448587316.jpg/100x100bb.jpg
 Harold Budd,Lost In The Humming Air (2005 Digital Remaster),96,2026-10-23T00:28:23Z,,,,,,Kurt,
-The Cure,Pictures of You,38,2026-10-23T00:19:53Z,,Alternative,Galore,,,Kurt,
-Eric Clapton,Change the World,14,2026-10-22T23:50:23Z,,Rock,Clapton Chronicles: The Best of Eric Clapton,,,Kurt,
-Alice In Chains,Man in the Box,7,2026-10-22T23:45:22Z,,Alternative,Dirt (Remastered),,,Kurt,
-The Clash,London Calling,133,2026-10-22T23:29:52Z,,Punk,London Calling,,,Kurt,
-Jimi Hendrix,Voodoo Child (Slight Return),7,2026-10-22T23:11:22Z,,Rock,Electric Ladyland,,,Kurt,
-Guns N' Roses,Paradise City,12,2026-10-22T23:04:52Z,,Hard Rock,Appetite For Destruction,,,Kurt,
-Bruce Springsteen,Born to Run,8,2026-10-22T22:50:22Z,,Rock,The Essential Bruce Springsteen,,,Kurt,
+The Cure,Pictures of You,38,2026-10-23T00:19:53Z,,Alternative,Galore,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/b1/d5/c8/mzi.qrmzfpis.jpg/100x100bb.jpg
+Eric Clapton,Change the World,14,2026-10-22T23:50:23Z,,Rock,Clapton Chronicles: The Best of Eric Clapton,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b4/a8/99/b4a89922-4b67-104e-f85c-d6d478303e65/93624755364.jpg/100x100bb.jpg
+Alice In Chains,Man in the Box,7,2026-10-22T23:45:22Z,,Alternative,Dirt (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/100x100bb.jpg
+The Clash,London Calling,133,2026-10-22T23:29:52Z,,Punk,London Calling,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/d7/17/45d71740-b204-de23-3f9e-f2f823296f1d/886443520721.jpg/100x100bb.jpg
+Jimi Hendrix,Voodoo Child (Slight Return),7,2026-10-22T23:11:22Z,,Rock,Electric Ladyland,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/b8/45/a6b84589-6ff7-a462-9ff9-170b724980d5/dj.wjkdwlks.jpg/100x100bb.jpg
+Guns N' Roses,Paradise City,12,2026-10-22T23:04:52Z,,Hard Rock,Appetite For Destruction,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/100x100bb.jpg
+Bruce Springsteen,Born to Run,8,2026-10-22T22:50:22Z,,Rock,The Essential Bruce Springsteen,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a6/a6/53/a6a65331-d20b-53b5-766a-0c79c78f1e73/886445412307.jpg/100x100bb.jpg
 The Strokes,Ode To The Mets,22,2026-10-22T22:39:21Z,,Instrumental,"Pristine Karaoke, Vol. 20",,,Kurt,
 Björk,Pagan Poetry,14,2026-10-22T22:18:51Z,,Pop,Vespertine,,,Kurt,
 Dolly Parton,Coat of Many Colors,13,2026-10-22T22:07:21Z,,Traditional Country,Coat of Many Colors,,,Kurt,
