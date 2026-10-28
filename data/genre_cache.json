@@ -1,4 +1,9 @@
 {
+"ABBA|Dancing Queen": {
+"album": "ABBA Gold: Greatest Hits",
+"film_hint": "",
+"genre": "Pop"
+},
 "ABBA|I Wonder (Departure)": {
 "album": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
 "film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
@@ -29,6 +34,11 @@
 "film_hint": "",
 "genre": "Soul"
 },
+"Al Green|Love and Happiness": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Al Stewart|Year of the Cat": {
 "album": "Year of the Cat",
 "film_hint": "",
@@ -48,6 +58,11 @@
 "album": "Born Under A Bad Sign",
 "film_hint": "",
 "genre": "Blues"
+},
+"Alexander Rybak|Fairytale": {
+"album": "Fairytale - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Alfa Mist|Organic Rust": {
 "album": "Bring Backs",
@@ -94,6 +109,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Anita Baker|Caught Up in the Rapture (LP Version)": {
+"album": "Rhythm of Love",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Anita Baker|Sweet Love": {
 "album": "The Best of Anita Baker",
 "film_hint": "",
@@ -114,10 +134,20 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Arctic Monkeys|505": {
+"album": "Favourite Worst Nightmare",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Arctic Monkeys|No. 1 Party Anthem": {
 "album": "AM",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Aretha Franklin|Day Dreaming (Album Version)": {
+"album": "Young, Gifted and Black",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Auringon Lapset|Etäpäivä": {
 "album": "Hittibiisien Kaatopaikka - EP",
@@ -143,6 +173,11 @@
 "album": "Introducing, Bart&Baker",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Beach House|Bluebird": {
+"album": "Depression Cherry",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Beach House|Space Song": {
 "album": "Depression Cherry",
@@ -214,6 +249,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bill Withers|Ain't No Sunshine (Album Version)": {
+"album": "Just As I Am",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Billie Eilish|Lo Vas A Olvidar": {
 "album": "Lo Vas A Olvidar - Single",
 "film_hint": "",
@@ -264,6 +304,11 @@
 "film_hint": "",
 "genre": "Reggae"
 },
+"Bobby Caldwell|Coming Down from Love": {
+"album": "Sings for the Broken Hearted",
+"film_hint": "",
+"genre": "Smooth Jazz"
+},
 "Bobby Caldwell|What You Won't Do for Love": {
 "album": "What You Won't Do for Love",
 "film_hint": "",
@@ -293,6 +338,11 @@
 "album": "Animal Magic",
 "film_hint": "",
 "genre": "Dance"
+},
+"Booker T. Jones|Everything Is Everything": {
+"album": "The Road from Memphis (Deluxe Edition)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Boz Scaggs|JoJo (2023 Remaster)": {
 "album": "Middle Man (2023 Remaster)",
@@ -409,6 +459,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Charles Wright & The Watts 103rd Street Rhythm Band|Express Yourself (Album Version)": {
+"album": "Express Yourself: The Best of Charles Wright and the Watts 103rd Street Rhythm Band",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Chet Atkins|Why Worry (Album Version)": {
 "album": "Sails",
 "film_hint": "",
@@ -479,10 +534,20 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Conchita Wurst|Rise Like a Phoenix": {
+"album": "Rise Like a Phoenix - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Cornelius|New Music Machine (Buffalo Daughter Remix)": {
 "album": "FM - Fantasma - Remixes",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Crosby, Stills, Nash & Young|Helpless": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Rock"
 },
 "Cuco|One and Only": {
 "album": "Songs4u",
@@ -493,6 +558,11 @@
 "album": "Careful What You Wish For",
 "film_hint": "",
 "genre": "Pop"
+},
+"Curtis Mayfield|The Makings of You (2019 Remaster) (Remastered)": {
+"album": "The Makings Of: A Curtis Mayfield Collection",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "DJ Cam Quartet|Boss Guitar": {
 "album": "Christmas Guitar",
@@ -513,6 +583,11 @@
 "album": "O",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"David Bowie|Wild Is the Wind  (2016 Remaster)": {
+"album": "Station to Station (2016 Remaster)",
+"film_hint": "",
+"genre": "Pop"
 },
 "David Byrne|Everybody's Coming to My House (Live)": {
 "album": "American Utopia on Broadway (Original Cast Recording Live)",
@@ -559,6 +634,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Disturbed|Won't Back Down": {
+"album": "Divisive",
+"film_hint": "",
+"genre": "Rock"
+},
 "Djivan Gasparyan|Take My Heart": {
 "album": "Black Rock",
 "film_hint": "",
@@ -579,6 +659,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Donny Hathaway|Jealous Guy  (Live)": {
+"album": "Live",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Dope Lemon|Honey Bones": {
 "album": "Honey Bones",
 "film_hint": "",
@@ -588,6 +673,11 @@
 "album": "Training Season - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Duke Ellington|In A Sentimental Mood": {
+"album": "Duke Ellington & John Coltrane",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Duncan Laurence|Arcade (feat. FLETCHER)": {
 "album": "Arcade (feat. FLETCHER) - Single",
@@ -684,6 +774,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Erykah Badu|Window Seat": {
+"album": "New Amerykah, Pt. 2: Return of the Ankh",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Etta James|I'd Rather Go Blind": {
 "album": "Tell Mama",
 "film_hint": "",
@@ -698,6 +793,11 @@
 "album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
 "film_hint": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
 "genre": "Soundtrack"
+},
+"Falco|Vienna Calling": {
+"album": "Falco III",
+"film_hint": "",
+"genre": "Pop"
 },
 "Fall Out Boy|Uma Thurman": {
 "album": "American Beauty / American Psycho",
@@ -878,6 +978,11 @@
 "album": "The Essential Glenn Miller",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Gloria Estefan|Rhythm Is Gonna Get You": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Latin"
 },
 "GoGo Penguin|Raven": {
 "album": "A Humdrum Star (Deluxe)",
@@ -1364,6 +1469,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Lauryn Hill|Ex-Factor": {
+"album": "The Miseducation of Lauryn Hill",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Led Zeppelin|Going to California  (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
 "film_hint": "",
@@ -1584,10 +1694,30 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Marvin Gaye|I Heard It Through The Grapevine (SACD Stereo)": {
+"album": "Let's Get It On (Deluxe Edition)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Mary Halvorson|About Ghosts": {
 "album": "About Ghosts",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Matt Nathanson|Come On Get Higher": {
+"album": "Some Mad Hope",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Maxwell|Pretty Wings (uncut)": {
+"album": "BLACKsummers'night",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Maxwell|This Woman's Work (Uncut)": {
+"album": "Now (2021 Remaster)",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Mazzy Star|Fade Into You": {
 "album": "So Tonight That I Might See",
@@ -1779,6 +1909,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"No Vacation|Waltzing Back": {
+"album": "Waltzing Back - Single",
+"film_hint": "",
+"genre": "Rock"
+},
 "Nusrat Fateh Ali Khan|Longing": {
 "album": "Night Song (Real World Gold)",
 "film_hint": "",
@@ -1828,6 +1963,11 @@
 "album": "Destiny Fulfilled",
 "film_hint": "",
 "genre": "Pop"
+},
+"Pale Saints|Kinky Love": {
+"album": "Flesh Balloon - EP",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Papooz|You and I": {
 "album": "Night Sketches (US Version)",
@@ -1888,6 +2028,11 @@
 "album": "Please: Further Listening 1984-1986 (Deluxe Edition) [2018 Remaster]",
 "film_hint": "",
 "genre": "Pop"
+},
+"Pete Seeger|Solidarity Forever": {
+"album": "If I Had a Hammer: Songs of Hope & Struggle",
+"film_hint": "",
+"genre": "Singer/Songwriter"
 },
 "Peter Broderick|A Little Lost": {
 "album": "Peter Broderick & Friends Play Arthur Russell",
@@ -2074,6 +2219,11 @@
 "film_hint": "",
 "genre": "Blues"
 },
+"Roberta Flack|Killing Me Softly With His Song": {
+"album": "Killing Me Softly",
+"film_hint": "",
+"genre": "Pop"
+},
 "Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
 "album": "First Take (Deluxe Edition)",
 "film_hint": "",
@@ -2099,6 +2249,16 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Roy Ayers Ubiquity|Everybody Loves The Sunshine": {
+"album": "Everybody Loves the Sunshine",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Rufus|Ain't Nobody (Album Version)": {
+"album": "Stompin' at The Savoy (Live)",
+"film_hint": "",
+"genre": "Funk"
+},
 "Rush|Tom Sawyer": {
 "album": "Chronicles (Remastered)",
 "film_hint": "",
@@ -2108,6 +2268,11 @@
 "album": "The Very Best of Shostakovich",
 "film_hint": "",
 "genre": "Classical"
+},
+"Röyksopp|Eple": {
+"album": "Melody A.M.",
+"film_hint": "",
+"genre": "Dance"
 },
 "SHINee|Married To The Music": {
 "album": "Married To the Music - The 4th Album Repackage",
@@ -2209,6 +2374,11 @@
 "film_hint": "",
 "genre": ""
 },
+"Simon & Garfunkel|Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981)": {
+"album": "Sounds of Silence",
+"film_hint": "",
+"genre": "Folk-Rock"
+},
 "Simon & Garfunkel|The Boxer": {
 "album": "Bridge Over Troubled Water",
 "film_hint": "",
@@ -2309,6 +2479,11 @@
 "film_hint": "Reservoir Dogs (Original Motion Picture Soundtrack)",
 "genre": "Pop"
 },
+"Steely Dan|Kid Charlemagne": {
+"album": "A Decade of Steely Dan (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Steve Roach|Living the Dream": {
 "album": "Life Sequence (Deluxe Edition)",
 "film_hint": "",
@@ -2323,6 +2498,16 @@
 "album": "Songs in the Key of Life",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Stevie Wonder|You Haven't Done Nothin'": {
+"album": "Fulfillingness' First Finale",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Styx|Mr. Roboto": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Rock"
 },
 "Sufjan Stevens|Casimir Pulaski Day": {
 "album": "Illinois",
@@ -2358,6 +2543,11 @@
 "album": "Sun's Signature - EP",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Survivor|Eye of the Tiger": {
+"album": "Eye of the Tiger (Remastered)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Susumu Yokota|Saku": {
 "album": "Sakura (2025 Remaster)",
@@ -2454,6 +2644,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Ink Spots|Maybe": {
+"album": "If I Didn't Care: An Anthology",
+"film_hint": "",
+"genre": "Vocal Pop"
+},
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
 "film_hint": "",
@@ -2463,6 +2658,16 @@
 "album": "The Charm of the Highway Strip",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Magnetic Fields|The Book of Love": {
+"album": "69 Love Songs",
+"film_hint": "",
+"genre": "Rock"
+},
+"The McCoys|Hang on Sloopy": {
+"album": "Hang On Sloopy - The Best of the McCoys",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Proclaimers|I'm Gonna Be (500 Miles)": {
 "album": "Sunshine On Leith",
@@ -2483,6 +2688,11 @@
 "album": "The Best of the Staple Singers",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Tragically Hip|Long Time Running": {
+"album": "Road Apples",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Velvet Underground|Sweet Jane   (Full Length Version; 2015 Remaster)": {
 "album": "New York (Deluxe Edition)",
@@ -2604,6 +2814,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Tony Bennett & Faith Hill|The Way You Look Tonight": {
+"album": "Sixty Years: The Artistry of Tony Bennett",
+"film_hint": "",
+"genre": "Vocal Pop"
+},
 "Tori Amos|A Sorta Fairytale (2023 Remaster)": {
 "album": "Scarlet's Walk (2023 Remaster)",
 "film_hint": "",
@@ -2633,6 +2848,11 @@
 "album": "Maxinquaye (Deluxe Edition)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Tubeway Army|Are 'Friends' Electric? (1998 Remaster)": {
+"album": "Replicas (1998 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Tycho|A Walk": {
 "album": "Dive",
@@ -2778,6 +2998,11 @@
 "album": "The Radio in My Head: Live at 54 Below",
 "film_hint": "",
 "genre": "Pop"
+},
+"twenty one pilots|Stressed Out": {
+"album": "Blurryface",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Ólafur Arnalds|Near Light": {
 "album": "Living Room Songs",
