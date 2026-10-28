@@ -1,4 +1,14 @@
 {
+"-M-|La bonne étoile (Live 2020)": {
+"album": "Lamomali Airlines (Live)",
+"film_hint": "",
+"genre": "African"
+},
+"9MUSES|Dolls": {
+"album": "Dolls - EP",
+"film_hint": "",
+"genre": "K-Pop"
+},
 "A-Ha|Take on Me (2015 Remaster)": {
 "album": "Greatest Hits - Japanese Singles Collection",
 "film_hint": "",
@@ -94,6 +104,11 @@
 "film_hint": "",
 "genre": "Metal"
 },
+"Alexander Malter|Pärt: Für Alina": {
+"album": "Foxcatcher (Soundtrack from the Motion Picture)",
+"film_hint": "Foxcatcher (Soundtrack from the Motion Picture)",
+"genre": "Soundtrack"
+},
 "Alexander Rybak|Fairytale": {
 "album": "Fairytale - Single",
 "film_hint": "",
@@ -113,6 +128,11 @@
 "album": "Bring Backs",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Ali Farka Touré|Soukora": {
+"album": "Talking Timbuktu (with Ry Cooder)",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
@@ -209,6 +229,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Aretha Franklin|Wholy Holy": {
+"album": "30 Greatest Hits",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Ashra|Sunrain": {
 "album": "New Age of Earth",
 "film_hint": "",
@@ -274,6 +299,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Ben Allison|D.A.V.E.": {
+"album": "The Stars Look Very Different Today",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Ben E. King|Stand By Me": {
 "album": "The Very Best of Ben E. King",
 "film_hint": "",
@@ -336,6 +366,11 @@
 },
 "Bill Withers|Ain't No Sunshine (Album Version)": {
 "album": "Just As I Am",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Bill Withers|Lovely Day": {
+"album": "The Best Of Bill Withers: Lean On Me",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -463,6 +498,11 @@
 "album": "The Road from Memphis (Deluxe Edition)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Bowling For Soup|1985": {
+"album": "A Hangover You Don't Deserve",
+"film_hint": "",
+"genre": "Rock"
 },
 "Boz Scaggs|JoJo (2023 Remaster)": {
 "album": "Middle Man (2023 Remaster)",
@@ -599,6 +639,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Cesária Evora|Petit pays": {
+"album": "Anthologie / Mornas & Coladeras",
+"film_hint": "",
+"genre": "Worldwide"
+},
 "Cesária Evora|Sodade": {
 "album": "Anthologie / Mornas & Coladeras",
 "film_hint": "",
@@ -643,6 +688,11 @@
 "album": "The Best of Chet Baker Sings",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Chico Buarque|Construção": {
+"album": "Construção",
+"film_hint": "",
+"genre": "Pop"
 },
 "Child Seat|Hyperphantasia": {
 "album": "Hyperphantasia - Single",
@@ -778,6 +828,11 @@
 "album": "O",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Daniel Barenboim|Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2": {
+"album": "Chopin: Nocturnes",
+"film_hint": "",
+"genre": "Classical"
 },
 "Daniel Pemberton|Amaze Amaze Amaze (Life on Erid) (from \"Project Hail Mary\")": {
 "album": "Project Hail Mary (Original Motion Picture Score)",
@@ -964,10 +1019,20 @@
 "film_hint": "",
 "genre": ""
 },
+"Ed Sheeran|Beautiful People (feat. Khalid)": {
+"album": "No.6 Collaborations Project",
+"film_hint": "",
+"genre": "Pop"
+},
 "Edie Brickell & New Bohemians|Circle (Album Version)": {
 "album": "Shooting Rubberbands at the Stars",
 "film_hint": "",
 "genre": "Rock"
+},
+"Edith Piaf|La Vie en rose": {
+"album": "The Best of Édith Piaf",
+"film_hint": "",
+"genre": "French Pop"
 },
 "Ednaswap|Torn": {
 "album": "Wacko Magneto",
@@ -981,6 +1046,11 @@
 },
 "Electric Light Orchestra|Mr. Blue Sky": {
 "album": "All Over the World: The Very Best of Electric Light Orchestra",
+"film_hint": "",
+"genre": "Rock"
+},
+"Electric Light Orchestra|Yours Truly, 2095": {
+"album": "Time",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1003,6 +1073,11 @@
 "album": "Don't Look Now: Aural Apparitions from the Geographic North",
 "film_hint": "",
 "genre": "IDM/Experimental"
+},
+"Elvis Costello|Almost Blue": {
+"album": "Imperial Bedroom",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Emancipator|Soon It Will Be Cold Enough to Build Fires": {
 "album": "Soon It Will Be Cold Enough",
@@ -1319,6 +1394,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Gotan Project|Santa María (del Buen Ayre)": {
+"album": "La Revancha del Tango",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Grace Jones|I've Seen That Face Before (Libertango)": {
 "album": "Nightclubbing",
 "film_hint": "",
@@ -1474,6 +1554,11 @@
 "film_hint": "",
 "genre": "Indie Rock"
 },
+"Herb Alpert's Tijuana Brass|A Taste of Honey": {
+"album": "Whipped Cream & Other Delights",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Herbert Grönemeyer|Mensch": {
 "album": "I Walk",
 "film_hint": "",
@@ -1558,6 +1643,11 @@
 "album": "Our Endless Numbered Days",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Iron Maiden|Still Life (2015 Remaster)": {
+"album": "Piece of Mind (2015 Remaster)",
+"film_hint": "",
+"genre": "Metal"
 },
 "Jack Johnson|Better Together": {
 "album": "In Between Dreams (Bonus Track Version)",
@@ -1659,6 +1749,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Joe Hisaishi|Departures (from 'Departures')": {
+"album": "Departures (Original Motion Picture Soundtrack)",
+"film_hint": "Departures (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
 "Joe Hisaishi|アシタカとサン (from 'Princess Mononoke')": {
 "album": "Princess Mononoke (Original Soundtrack)",
 "film_hint": "Princess Mononoke (Original Soundtrack)",
@@ -1669,8 +1764,18 @@
 "film_hint": "",
 "genre": ""
 },
+"Johann Johannsson|Flight From The City - Jóhannsson: Flight from the City": {
+"album": "Orphée",
+"film_hint": "",
+"genre": "Classical"
+},
 "John Lee Hooker|Boom Boom": {
 "album": "Urban Blues (Bonus Tracks)",
+"film_hint": "",
+"genre": "Blues"
+},
+"John Lee Hooker|I Cover the Waterfront": {
+"album": "The Best Of Friends",
 "film_hint": "",
 "genre": "Blues"
 },
@@ -1879,6 +1984,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Käärijä|Cha Cha Cha": {
+"album": "Cha Cha Cha - Single",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "LP|Lost on You": {
 "album": "Lost On You",
 "film_hint": "",
@@ -2007,6 +2117,11 @@
 "London Symphony Orchestra|Duel of the Fates": {
 "album": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "film_hint": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
+"Lordi|Hard Rock Hallelujah": {
+"album": "The Hills Have Eyes 2 - The Album",
+"film_hint": "The Hills Have Eyes 2 - The Album",
 "genre": "Soundtrack"
 },
 "Los Enanitos Verdes|Lamento Boliviano": {
@@ -2164,6 +2279,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Marilyn Manson|The Love Song": {
+"album": "Lest We Forget: The Best of Marilyn Manson",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Marisa Monte|Beija Eu": {
 "album": "Barulhinho Bom",
 "film_hint": "",
@@ -2214,6 +2334,11 @@
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
+"Max Richter|Dream 3 (in the midst of my life)": {
+"album": "Richter: Dream 3 (Remix) - EP",
+"film_hint": "",
+"genre": "Classical"
+},
 "Maxwell|Pretty Wings (uncut)": {
 "album": "BLACKsummers'night",
 "film_hint": "",
@@ -2241,6 +2366,11 @@
 },
 "Melody Gardot|Moon River": {
 "album": "Sunset In The Blue (Deluxe Version)",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Melody Gardot|Perhaps You'll Wonder Why (The Paris Sessions)": {
+"album": "Entre eux deux (The Paris Sessions) - EP",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -2394,6 +2524,11 @@
 "film_hint": "",
 "genre": "K-Pop"
 },
+"Nancy Wilson|Guess Who I Saw Today": {
+"album": "Something Wonderful (Remastered)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Nat King Cole|L-O-V-E": {
 "album": "L-O-V-E",
 "film_hint": "",
@@ -2471,6 +2606,11 @@
 },
 "Nine Inch Nails|Hurt": {
 "album": "The Downward Spiral",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Nine Inch Nails|The Hand That Feeds": {
+"album": "With Teeth",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2559,6 +2699,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Paolo Conte|Via Con Me": {
+"album": "I primi tempi",
+"film_hint": "",
+"genre": "Pop"
+},
+"Papa Roach|Last Resort": {
+"album": "Infest",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Papooz|You and I": {
 "album": "Night Sketches (US Version)",
 "film_hint": "",
@@ -2614,10 +2764,20 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Pedro Infante|Amorcito corazón": {
+"album": "Pedro Infante - 55 Aniversarío, Vol. 4",
+"film_hint": "",
+"genre": "Música Mexicana"
+},
 "Pellek|Bohemian Rhapsody": {
 "album": "The Platinum Collection",
 "film_hint": "",
 "genre": "Rock"
+},
+"Percy Faith & His Orchestra|Black Magic Woman": {
+"album": "Greatest Christmas Songs",
+"film_hint": "",
+"genre": "Christmas: Classic"
 },
 "Perpetuum Jazzile|Africa": {
 "album": "Perpetuum Jazzile Africa",
@@ -2653,6 +2813,11 @@
 "album": "Chopin: The Complete Waltzes, Polonaise",
 "film_hint": "",
 "genre": "Classical"
+},
+"Petra Haden|Moon River": {
+"album": "Petra Haden and Bill Frisell",
+"film_hint": "",
+"genre": "Rock"
 },
 "Phil Collins|In the Air Tonight  (2015 Remaster)": {
 "album": "Face Value (Remastered)",
@@ -2728,6 +2893,16 @@
 "album": "Dummy",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Post Malone|Chemical": {
+"album": "Chemical - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Powerwolf|Demons Are a Girl's Best Friend": {
+"album": "The Sacrament of Sin (Deluxe Version)",
+"film_hint": "",
+"genre": "Metal"
 },
 "Prince|Kiss (LP Version)": {
 "album": "Evolve",
@@ -2934,6 +3109,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Ryuichi Sakamoto|andata": {
+"album": "Sakamoto: Andata - Single",
+"film_hint": "",
+"genre": "Classical"
+},
 "Röyksopp|Eple": {
 "album": "Melody A.M.",
 "film_hint": "",
@@ -2955,6 +3135,11 @@
 "genre": "Pop"
 },
 "Sade|By Your Side  (Remastered Version)": {
+"album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Sade|No Ordinary Love  (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "film_hint": "",
 "genre": "R&B/Soul"
@@ -3138,6 +3323,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Smash Mouth|Walkin' On The Sun": {
+"album": "Fush Yu Mang (20th Anniversary Edition)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Soda Stereo|En La Ciudad De La Furia (MTV Unplugged)": {
 "album": "MTV Unplugged: Comfort y Música para Volar",
@@ -3394,6 +3584,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Tate McRae|TIT FOR TAT": {
+"album": "SO CLOSE TO WHAT??? (deluxe)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tears For Fears|Everybody Wants To Rule The World": {
 "album": "Songs from the Big Chair",
 "film_hint": "",
@@ -3411,6 +3606,11 @@
 },
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|Lucy In The Sky With Diamonds (Remastered 2009)": {
+"album": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3438,6 +3638,11 @@
 "album": "If I Didn't Care: An Anthology",
 "film_hint": "",
 "genre": "Vocal Pop"
+},
+"The Isley Brothers|Between the Sheets": {
+"album": "Between the Sheets",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
@@ -3494,10 +3699,20 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Supremes|Automatically Sunshine": {
+"album": "The Supremes: The '70s Anthology",
+"film_hint": "",
+"genre": "Motown"
+},
 "The Tallest Man On Earth|The Gardener": {
 "album": "Shallow Grave",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"The Temptations|Papa Was A Rollin' Stone (Full Version)": {
+"album": "Gold",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "The Tragically Hip|Long Time Running": {
 "album": "Road Apples",
@@ -3613,6 +3828,11 @@
 "album": "Elwan",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Tinashe|Nasty": {
+"album": "Quantum Baby",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Tiny Habits|Right In Front Of Me": {
 "album": "Keepers",
@@ -3848,6 +4068,11 @@
 "album": "Saint-Saëns: Carnival of the Animals - Bizet: Jeux d'enfants - Ravel: Mother Goose",
 "film_hint": "",
 "genre": "Orchestral"
+},
+"Yo-Yo Ma|Libertango": {
+"album": "Impressions",
+"film_hint": "",
+"genre": "Classical"
 },
 "Youssou N'Dour featuring Neneh Cherry|7 Seconds (Album Version)": {
 "album": "The Best of Youssou N'Dour",
