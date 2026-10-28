@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+Simon & Garfunkel,The Boxer,94,2026-10-28T20:14:08Z,Open Channel,Pop,Bridge Over Troubled Water,,https://music.apple.com/us/album/the-boxer/324127933?i=324127939,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg/100x100bb.jpg
+Paramore,Thick Skull,14,2026-10-28T20:10:08Z,Open Channel,Alternative,This Is Why,,https://music.apple.com/us/album/thick-skull/1646945378?i=1646945783,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/de/99/21de99a3-6eb6-5372-6a96-40d992808d9c/075679716224.jpg/100x100bb.jpg
+Coldplay,Talk,21,2026-10-28T20:04:50Z,Open Channel,Alternative,X&Y,,https://music.apple.com/us/album/talk/1123076757?i=1123076827,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/100x100bb.jpg
 Radiohead,Paranoid Android,17,2026-10-28T19:58:16Z,Open Channel,Alternative,OK Computer,,https://music.apple.com/us/album/paranoid-android/1097861387?i=1097861770,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/100x100bb.jpg
 Martha And The Muffins,Echo Beach,10,2026-10-28T19:54:30Z,Open Channel,Alternative,Marthology: The In and Outtakes,,https://music.apple.com/us/search?term=Martha+And+The+Muffins+Echo+Beach,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3c/c9/0d3cc9a2-18f5-10b0-7c0c-7afa002c3e69/803057062829_cover.jpg/100x100bb.jpg
 John Lee Hooker,Boom Boom,20,2026-10-28T19:51:44Z,Open Channel,Blues,Urban Blues (Bonus Tracks),,https://music.apple.com/us/album/boom-boom/1443174137?i=1443174144,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/8b/9e/b28b9ea9-e0c1-1ca4-7f98-8565a6d40190/00602567109150.rgb.jpg/100x100bb.jpg
@@ -543,8 +546,6 @@ Hiroshi Yoshimura,Feel,32,2026-10-27T01:59:15Z,,Worldwide,Green,,,Kurt,https://i
 Christian Löffler,Lid,38,2026-10-27T01:54:15Z,,Alternative,Mare,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/ca/4c/cdca4caa-52d3-03ed-78bc-e6ebd851027d/4050486966662_cover.jpg/100x100bb.jpg
 Tim Hecker,In the Fog II,117,2026-10-27T01:47:45Z,,Electronic,"Ravedeath, 1972",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/68/4c/4a684c10-456b-8442-9ed3-764d57a32aed/mzi.ukvgcwzt.jpg/100x100bb.jpg
 Eagles,Take It Easy,22,2026-10-27T01:43:15Z,,Rock,Eagles,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/e7/f4/8fe7f417-d464-8879-b00e-3d4965a9cfd1/075596062329.jpg/100x100bb.jpg
-Coldplay,Talk,21,2026-10-27T01:37:45Z,,Alternative,X&Y,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/100x100bb.jpg
-Paramore,Thick Skull,14,2026-10-27T01:29:15Z,,Alternative,This Is Why,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/de/99/21de99a3-6eb6-5372-6a96-40d992808d9c/075679716224.jpg/100x100bb.jpg
 Ben Harper,Yard Sale,66,2026-10-27T01:24:45Z,,Alternative,Wide Open Light,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/9a/e7/9a9ae789-a317-f3ad-364b-3e2406e5df2b/0810098501477.png/100x100bb.jpg
 Soundgarden,Holy Water (Album Version),11,2026-10-27T01:19:45Z,,Rock,Badmotorfinger (25th Anniversary / Remastered 2016),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/a2/84/2ca284fb-2ec8-6a6e-e739-bb019b594c5a/00602557233278.rgb.jpg/100x100bb.jpg
 Grateful Dead,Eyes of the World,25,2026-10-27T01:14:15Z,,Rock,Wake of the Flood,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b7/6d/ef/b76def6d-4a81-3df6-077b-cbc8a8a232dd/603497920754.jpg/100x100bb.jpg
@@ -640,7 +641,6 @@ Red Velvet,Stupid Cupid,16,2026-10-26T18:23:15Z,,K-Pop,The 1st Mini Album ‘Ice
 Tove Lo,No One Dies From Love,184,2026-10-26T18:20:15Z,,Pop,Dirt Femme,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/4a/ad/354aad69-7308-4207-63ab-cb66c4c843c3/653738999322_Cover.jpg/100x100bb.jpg
 Lana Del Rey,Diet Mountain Dew,34,2026-10-26T18:16:15Z,,Alternative,Born to Die,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/100x100bb.jpg
 Vinicius Cantuaria,Lua e Estrela,23,2026-10-26T18:12:45Z,,Pop,Série 2 em 1: Vinícius Cantuária,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4e/09/d5/4e09d589-e477-f61b-d7ea-48879e4961bf/743218031021.jpg/100x100bb.jpg
-Simon & Garfunkel,The Boxer,94,2026-10-26T18:02:16Z,,Pop,Bridge Over Troubled Water,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg/100x100bb.jpg
 Bob Dylan,Girl from the North Country,21,2026-10-26T17:58:46Z,,Contemporary Folk,The Freewheelin' Bob Dylan,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/3c/98/633c98ab-b4f3-3f40-798b-bdb49d923468/074640878626.jpg/100x100bb.jpg
 Little Axe,Ride On (Fight On),14,2026-10-26T17:53:16Z,,Dub,The Wolf That House Built (Bonus Track Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7a/1a/f0/7a1af097-7f24-d3eb-4d5e-7ce24fa85956/4050486903322_cover.jpg/100x100bb.jpg
 Bon Iver,Holocene,232,2026-10-26T17:47:15Z,,Alternative,Vitamin String Quartet Performs Bon Iver,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/9e/5e/76/mzi.hirwgfic.jpg/100x100bb.jpg
@@ -750,46 +750,46 @@ Marvin Gaye,Mercy Mercy Me (The Ecology),23,2026-10-26T09:44:15Z,,R&B/Soul,What'
 Harris Jayaraj,"Adiyae Kolluthey (From ""Vaaranam Aayiram"")",14,2026-10-26T09:39:15Z,,Tamil,Vaaranam Aayiram (Original Motion Picture Soundtrack),Vaaranam Aayiram (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/1b/c1/0e1bc194-973e-9e04-c8d9-b12cfbc71289/888880794635.jpg/100x100bb.jpg
 Madonna,Holiday,15,2026-10-26T09:32:15Z,,Pop,Madonna,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.ykiinwgl.jpg/100x100bb.jpg
 Al Di Meola,Libertango,8,2026-10-26T09:27:15Z,,Jazz,The Grande Passion,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/68/e7/3b68e7ae-c0ad-c03d-d2d9-48c082b33d87/23CRGIM36546.rgb.jpg/100x100bb.jpg
-Steve Miller Band,The Joker,8,2026-10-26T09:22:45Z,,Rock,Greatest Hits 1974-78,,,Kurt,
-Stevie Wonder,Higher Ground (Album Version),66,2026-10-26T09:18:44Z,,Motown,Innervisions,,,Kurt,
-Sting,Desert Rose (Album Version),4,2026-10-26T09:09:44Z,,Pop,Brand New Day,,,Kurt,
+Steve Miller Band,The Joker,8,2026-10-26T09:22:45Z,,Rock,Greatest Hits 1974-78,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/f8/cd/78f8cdac-35ff-34ee-4303-f447ef3a2c3f/13UAAIM00691.rgb.jpg/100x100bb.jpg
+Stevie Wonder,Higher Ground (Album Version),66,2026-10-26T09:18:44Z,,Motown,Innervisions,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/100x100bb.jpg
+Sting,Desert Rose (Album Version),4,2026-10-26T09:09:44Z,,Pop,Brand New Day,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/29/4c/eb294c36-1f54-fade-0de3-463ff57ea09a/16UMGIM59578.rgb.jpg/100x100bb.jpg
 Roxy Music,Bitter Sweet (Remastered 1999),6,2026-10-26T08:55:15Z,,,,,,Kurt,
-Bobby Darin,Beyond the Sea,24,2026-10-26T08:52:14Z,,Pop,That's All,,,Kurt,
-Depeche Mode,Enjoy the Silence,18,2026-10-26T08:48:15Z,,Pop,"Violator  The 12"" Singles",,,Kurt,
-Talk Talk,I Believe in You  (1997 Remaster),28,2026-10-26T08:41:45Z,,Rock,I Believe in You - EP,,,Kurt,
-Olejniczak Janusz,"Nocturne in C minor, Op. 48, No. 1",4,2026-10-26T08:35:44Z,,Soundtrack,The Pianist (Original Motion Picture Soundtrack),The Pianist (Original Motion Picture Soundtrack),,Kurt,
-Wax Tailor,Just a Candle,7,2026-10-26T08:31:15Z,,Electronic,The Shadow of Their Suns (Extended with Instrumentals),,,Kurt,
-Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,43,2026-10-26T08:27:45Z,,Classical,Moderne,,,Kurt,
-Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,Rock,Greatest Hits,,,Kurt,
-Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,Classical,Piano Book 2,,,Kurt,
+Bobby Darin,Beyond the Sea,24,2026-10-26T08:52:14Z,,Pop,That's All,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d17/h18/s06.tysgshrt.jpg/100x100bb.jpg
+Depeche Mode,Enjoy the Silence,18,2026-10-26T08:48:15Z,,Pop,"Violator  The 12"" Singles",,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a1/67/9c/a1679c06-1050-239c-bd3a-c374f7c6459e/886449952601.jpg/100x100bb.jpg
+Talk Talk,I Believe in You  (1997 Remaster),28,2026-10-26T08:41:45Z,,Rock,I Believe in You - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/8c/3b/268c3b0e-6cb1-cfd7-f8c2-ee32e396bb97/5021732947413.jpg/100x100bb.jpg
+Olejniczak Janusz,"Nocturne in C minor, Op. 48, No. 1",4,2026-10-26T08:35:44Z,,Soundtrack,The Pianist (Original Motion Picture Soundtrack),The Pianist (Original Motion Picture Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/3d/cf/423dcf24-0bbf-2c73-69de-14b1555f47e5/mzi.zrhhfvnb.jpg/100x100bb.jpg
+Wax Tailor,Just a Candle,7,2026-10-26T08:31:15Z,,Electronic,The Shadow of Their Suns (Extended with Instrumentals),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e5/91/55e591db-c80f-65f9-0672-aff59ab9888f/9904.jpg/100x100bb.jpg
+Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,43,2026-10-26T08:27:45Z,,Classical,Moderne,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/8f/41/318f41f7-1d58-d563-daae-8340c4c9dfc1/3149020871003.jpg/100x100bb.jpg
+Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,Rock,Greatest Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/45/41/4d45414c-6364-51cf-2874-7c8aa755caaa/mzi.oetoyyot.jpg/100x100bb.jpg
+Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,Classical,Piano Book 2,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/0b/05/7f0b0590-3e21-b19c-463f-1d51e327efca/25UM1IM01348.rgb.jpg/100x100bb.jpg
 Zucchero,Senza Una Donna (Remastered 2007),6,2026-10-26T08:10:15Z,,,,,,Kurt,
-Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,Classical Crossover,Yann Tiersen: La valse d’Amélie - Single,,,Kurt,
-The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,Gospel,Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered),,,Kurt,
-Sea Power,Polyhedrons,11,2026-10-26T07:48:45Z,,Video Game,Disco Elysium,,,Kurt,
-Montaigne,I Am Not an End,3,2026-10-26T07:45:14Z,,Alternative,Life of Montaigne - EP,,,Kurt,
-Shakespears Sister,Stay,4,2026-10-26T07:35:15Z,,Rock,Hormonally Yours,,,Kurt,
-Melody Gardot,If I Tell You I Love You,5,2026-10-26T07:31:45Z,,Jazz,The Absence,,,Kurt,
-Hank Williams,I'm So Lonesome I Could Cry (Single Version),18,2026-10-26T07:29:14Z,,Country,Turn Back The Years: The Essential Hank Williams Collection,,,Kurt,
-Never Get Used To People,Life Letters (Slowed+Reverb),4,2026-10-26T07:23:15Z,,Pop,Life Letters (Slowed+Reverb) - Single,,,Kurt,
-The Verve,The Drugs Don't Work (Remastered 2016),5,2026-10-26T07:18:15Z,,Rock,Urban Hymns (Deluxe / Remastered 2016),,,Kurt,
-Caterina Barbieri,Fantas,48,2026-10-26T07:07:45Z,,Electronic,Ecstatic Computation,,,Kurt,
-Ella Fitzgerald,Summertime,93,2026-10-26T07:02:45Z,,Jazz,Pure Ella,,,Kurt,
-Ludovico Einaudi,Primavera,13,2026-10-26T06:55:15Z,,Classical,Divenire,,,Kurt,
-The Cure,Burn (Live),15,2026-10-26T06:48:44Z,,Pop,The Cure - Single,,,Kurt,
-Al Di Meola,Red Moon,12,2026-10-26T06:44:15Z,,Jazz,Consequence Of Chaos,,,Kurt,
-Khruangbin,A Calf Born In Winter,84,2026-10-26T06:40:15Z,,Rock,A Calf Born in Winter - Single,,,Kurt,
-I Monster,Daydream In Blue,22,2026-10-26T06:36:44Z,,Alternative,Neveroddoreven,,,Kurt,
-Charles Mingus,Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version),22,2026-10-26T06:18:15Z,,Jazz,The Black Saint and the Sinner Lady,,,Kurt,
-Joe Hisaishi,アシタカとサン (from 'Princess Mononoke'),36,2026-10-26T06:14:14Z,,Original Score,Princess Mononoke (Original Soundtrack),Princess Mononoke (Original Soundtrack),,Kurt,
-Fennesz,Endless Summer,83,2026-10-26T06:01:14Z,,IDM/Experimental,Endless Summer,,,Kurt,
-Chris Christodoulou,The Rain Formerly Known as Purple,11,2026-10-26T05:48:14Z,,Soundtrack,Risk of Rain 2,Risk of Rain 2,,Kurt,
+Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,Classical Crossover,Yann Tiersen: La valse d’Amélie - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/ef/98/a8ef98bc-837e-bf3f-1a86-5221677fbca3/5054197162961.jpg/100x100bb.jpg
+The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,Gospel,Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/aa/92/18aa9229-9f03-74c9-9d9e-07a2416037ed/mzi.pezcapdq.jpg/100x100bb.jpg
+Sea Power,Polyhedrons,11,2026-10-26T07:48:45Z,,Video Game,Disco Elysium,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/05/30/ce053024-6253-93a3-12a6-492e36c95cbc/5060079269147.jpg/100x100bb.jpg
+Montaigne,I Am Not an End,3,2026-10-26T07:45:14Z,,Alternative,Life of Montaigne - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/43/9f/4a/439f4a4d-b7cd-3904-89f7-6ccf78061134/886444884983.jpg/100x100bb.jpg
+Shakespears Sister,Stay,4,2026-10-26T07:35:15Z,,Rock,Hormonally Yours,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/dd/07/9ddd07ec-daad-dc6e-0a91-9bb50c769f38/603497059966.jpg/100x100bb.jpg
+Melody Gardot,If I Tell You I Love You,5,2026-10-26T07:31:45Z,,Jazz,The Absence,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f9/f1/15/f9f1157c-1bc0-e669-0432-b52b56e29f30/00602537090143.rgb.jpg/100x100bb.jpg
+Hank Williams,I'm So Lonesome I Could Cry (Single Version),18,2026-10-26T07:29:14Z,,Country,Turn Back The Years: The Essential Hank Williams Collection,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/dc/c6/e9dcc686-e713-5d02-8a1f-fc291b422709/06UMGIM12535.rgb.jpg/100x100bb.jpg
+Never Get Used To People,Life Letters (Slowed+Reverb),4,2026-10-26T07:23:15Z,,Pop,Life Letters (Slowed+Reverb) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/df/99/90df9905-f52c-965a-cefd-adffbf72bd7e/0.jpg/100x100bb.jpg
+The Verve,The Drugs Don't Work (Remastered 2016),5,2026-10-26T07:18:15Z,,Rock,Urban Hymns (Deluxe / Remastered 2016),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/b1/85/5cb18512-9cbd-7b84-4042-37f23bc2ae45/17UMGIM89555.rgb.jpg/100x100bb.jpg
+Caterina Barbieri,Fantas,48,2026-10-26T07:07:45Z,,Electronic,Ecstatic Computation,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/b5/25/6cb525a6-e7b9-562c-83f6-b84501478580/4062548064292.png/100x100bb.jpg
+Ella Fitzgerald,Summertime,93,2026-10-26T07:02:45Z,,Jazz,Pure Ella,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/6e/fb/656efb76-ba63-3091-d458-7539948e45e4/14UMGIM51556.rgb.jpg/100x100bb.jpg
+Ludovico Einaudi,Primavera,13,2026-10-26T06:55:15Z,,Classical,Divenire,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/86/bc/2c86bcb8-2ff2-f0a1-f157-976f5c85159a/06UMGIM37884.rgb.jpg/100x100bb.jpg
+The Cure,Burn (Live),15,2026-10-26T06:48:44Z,,Pop,The Cure - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/f1/86/c4f186ea-1742-5e73-64c7-9179fc4b8566/00602557652536.rgb.jpg/100x100bb.jpg
+Al Di Meola,Red Moon,12,2026-10-26T06:44:15Z,,Jazz,Consequence Of Chaos,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d4/06/47/d40647c2-5c3a-4662-5384-970b2f77f98d/22CRGIM34771.rgb.jpg/100x100bb.jpg
+Khruangbin,A Calf Born In Winter,84,2026-10-26T06:40:15Z,,Rock,A Calf Born in Winter - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/83/c8/8583c8d4-99ed-21d7-1a46-7e808a256d35/5060391090085.jpg/100x100bb.jpg
+I Monster,Daydream In Blue,22,2026-10-26T06:36:44Z,,Alternative,Neveroddoreven,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/48/55/2b48553a-8fcc-707c-4d4b-e22562945170/s05.ieqandlq.jpg/100x100bb.jpg
+Charles Mingus,Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version),22,2026-10-26T06:18:15Z,,Jazz,The Black Saint and the Sinner Lady,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/85/94/cb85949f-5a43-58d5-c866-d9d0292354bd/06UMGIM01616.rgb.jpg/100x100bb.jpg
+Joe Hisaishi,アシタカとサン (from 'Princess Mononoke'),36,2026-10-26T06:14:14Z,,Original Score,Princess Mononoke (Original Soundtrack),Princess Mononoke (Original Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music/v4/07/8e/50/078e500d-625b-b438-c62c-9eabf9b30df0/TKCA-71168.jpg/100x100bb.jpg
+Fennesz,Endless Summer,83,2026-10-26T06:01:14Z,,IDM/Experimental,Endless Summer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/c3/21/dec3219a-0595-f974-0b15-48e9be304420/880918269771.jpg/100x100bb.jpg
+Chris Christodoulou,The Rain Formerly Known as Purple,11,2026-10-26T05:48:14Z,,Soundtrack,Risk of Rain 2,Risk of Rain 2,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/4d/d0/e14dd066-df8d-acfd-6ebe-12651c5ae725/194152450568.png/100x100bb.jpg
 Peter Gabriel,The Feeling Begins (Remastered 2002),24,2026-10-26T05:43:44Z,,,,,,Kurt,
-Ken Thomson And Slow/Fast,We Are Not All in This Together,14,2026-10-26T05:41:45Z,,Jazz,Settle,,,Kurt,
-The Tallest Man On Earth,The Gardener,1,2026-10-26T05:37:14Z,,Singer/Songwriter,Shallow Grave,,,Kurt,
-Alexi Murdoch,Orange Sky,1,2026-10-26T05:23:14Z,,Singer/Songwriter,Four Songs - EP,,,Kurt,
-Eva Cassidy,Ain't No Sunshine (Album Version),1,2026-10-26T05:19:44Z,,Singer/Songwriter,Time After Time,,,Kurt,
-Cat Power,The Greatest,1,2026-10-26T05:16:14Z,,Alternative,The Greatest: Slipcase Edition,,,Kurt,
-Billy Crystal,"If I Didn't Have You (From ""Monsters, Inc.""/Soundtrack Version)",10,2026-10-26T05:08:44Z,,Soundtrack,"Monsters, Inc. (Original Motion Picture Soundtrack)","Monsters, Inc. (Original Motion Picture Soundtrack)",,Kurt,
+Ken Thomson And Slow/Fast,We Are Not All in This Together,14,2026-10-26T05:41:45Z,,Jazz,Settle,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6c/b1/ea/6cb1ea0c-dd13-5320-a1d4-dea66be7d07e/601534013827.jpg/100x100bb.jpg
+The Tallest Man On Earth,The Gardener,1,2026-10-26T05:37:14Z,,Singer/Songwriter,Shallow Grave,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/37/16/a0371670-45af-e032-2ba3-483e46c6c0bd/mzi.pnyetyjq.jpg/100x100bb.jpg
+Alexi Murdoch,Orange Sky,1,2026-10-26T05:23:14Z,,Singer/Songwriter,Four Songs - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/22/77/00/2277006f-cdee-f518-4b60-169612e662be/s05.pveqhuep.jpg/100x100bb.jpg
+Eva Cassidy,Ain't No Sunshine (Album Version),1,2026-10-26T05:19:44Z,,Singer/Songwriter,Time After Time,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/df/3c/7adf3c70-254d-f64b-b719-1d8f2ebe6d8a/739341007361.jpg/100x100bb.jpg
+Cat Power,The Greatest,1,2026-10-26T05:16:14Z,,Alternative,The Greatest: Slipcase Edition,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a4/06/c0/a406c07e-2306-ff92-7ddd-0dc79eeea4c6/744861074366.png/100x100bb.jpg
+Billy Crystal,"If I Didn't Have You (From ""Monsters, Inc.""/Soundtrack Version)",10,2026-10-26T05:08:44Z,,Soundtrack,"Monsters, Inc. (Original Motion Picture Soundtrack)","Monsters, Inc. (Original Motion Picture Soundtrack)",,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/89/dc/1c89dc90-8df9-d91c-c814-256cf589642b/00050087349691.rgb.jpg/100x100bb.jpg
 Sade,By Your Side  (Remastered Version),52,2026-10-26T05:04:14Z,,R&B/Soul,The Ultimate Collection (Remastered),,,Kurt,
 Men At Work,Down Under,6,2026-10-26T04:53:44Z,,Rock,Business As Usual,,,Kurt,
 Pellek,Bohemian Rhapsody,8,2026-10-26T04:48:14Z,,Rock,The Platinum Collection,,,Kurt,
