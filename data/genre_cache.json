@@ -4,6 +4,11 @@
 "film_hint": "",
 "genre": "African"
 },
+"10,000 Maniacs|Can't Ignore the Train (LP Version)": {
+"album": "The Wishing Chair",
+"film_hint": "",
+"genre": "Pop"
+},
 "9MUSES|Dolls": {
 "album": "Dolls - EP",
 "film_hint": "",
@@ -49,6 +54,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Acker Bilk|Stranger On The Shore": {
+"album": "Stranger On the Shore",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Adrianne Lenker|anything": {
 "album": "songs",
 "film_hint": "",
@@ -74,8 +84,18 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Al Di Meola|Double Concerto": {
+"album": "The Grande Passion",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Al Di Meola|Libertango": {
 "album": "The Grande Passion",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Al Di Meola|Passion, Grace & Fire (Album Version)": {
+"album": "Electric Rendezvous",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -224,6 +244,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Annenmaykantereit|Oft gefragt": {
+"album": "Alles nix konkretes",
+"film_hint": "",
+"genre": "Rock"
+},
 "Antonio Campo|I Need You More and More  (Remastered)": {
 "album": "Flying Dreams - Antonio Campo (2024 Remastered Version)",
 "film_hint": "",
@@ -348,6 +373,11 @@
 "album": "On n’enferme pas les oiseaux",
 "film_hint": "",
 "genre": "French Pop"
+},
+"Barbra Streisand|Woman in Love (Album Version)": {
+"album": "Guilty",
+"film_hint": "",
+"genre": "Pop"
 },
 "Barrington Levy|Black Roses": {
 "album": "Original Ragga Muffin, Pt. 1",
@@ -504,6 +534,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bill Monroe & His Blue Grass Boys|Blue Moon Of Kentucky": {
+"album": "Country Music Hall of Fame",
+"film_hint": "",
+"genre": "Country"
+},
 "Bill Withers|Ain't No Sunshine (Album Version)": {
 "album": "Just As I Am",
 "film_hint": "",
@@ -558,6 +593,11 @@
 "album": "Paranoid",
 "film_hint": "",
 "genre": "Metal"
+},
+"Blank & Jones|Get Down  (Rediscovered)": {
+"album": "Rediscovered Works",
+"film_hint": "",
+"genre": "Ambient"
 },
 "Bleachers|I Wanna Get Better": {
 "album": "Strange Desire",
@@ -629,6 +669,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Bobby Vinton|Blue Velvet": {
+"album": "The Best of Bobby Vinton",
+"film_hint": "",
+"genre": "Pop"
+},
 "Bon Iver|Holocene": {
 "album": "Vitamin String Quartet Performs Bon Iver",
 "film_hint": "",
@@ -664,6 +709,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Bootsy Collins|Psychoticbumpschool (LP Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Bowling For Soup|1985": {
 "album": "A Hangover You Don't Deserve",
 "film_hint": "",
@@ -683,6 +733,11 @@
 "album": "Silk Degrees (2023 Remaster)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Brainstory|Mnemophobia": {
+"album": "Buck",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Brandi Carlile|The Joke": {
 "album": "By The Way, I Forgive You",
@@ -729,10 +784,20 @@
 "film_hint": "",
 "genre": "Solo Instrumental"
 },
+"Buddy Guy|Damn Right, I've Got the Blues": {
+"album": "Damn Right, I've Got the Blues (Expanded Edition)",
+"film_hint": "",
+"genre": "Blues"
+},
 "Buena Vista Social Club|Chan Chan": {
 "album": "Buena Vista Social Club",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Burial|Etched Headplate": {
+"album": "Untrue",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Burial|Near Dark": {
 "album": "Untrue",
@@ -969,6 +1034,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Chuck Mangione|Feels So Good": {
+"album": "Feels So Good",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Cibo Matto|Sugar Water (Album Version)": {
 "album": "Viva! La Woman",
 "film_hint": "",
@@ -978,6 +1048,11 @@
 "album": "I. - EP",
 "film_hint": "",
 "genre": "Alternative"
+},
+"City|Am Fenster": {
+"album": "Am Fenster - Single",
+"film_hint": "",
+"genre": "German Pop"
 },
 "Claudio Constantini|Noctilune No. 1 (Bandoneon Solo)": {
 "album": "Noctilune No. 1 (Bandoneon Solo) - Single",
@@ -1074,6 +1149,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Curve|Fait Accompli": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Czech Philharmonic|The Moldau Má Vlast: II. Vltava Moldau": {
 "album": "The 50 Greatest Pieces of Classical Music",
 "film_hint": "",
@@ -1123,6 +1203,11 @@
 "album": "Discovery",
 "film_hint": "",
 "genre": "Dance"
+},
+"Dafuniks|The Dance": {
+"album": "Past Present Future...",
+"film_hint": "",
+"genre": "Alternative Rap"
 },
 "Daikaiju|Magic Wanda": {
 "album": "Phase 3",
@@ -1739,6 +1824,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Gerry Rafferty|Baker Street": {
+"album": "City to City",
+"film_hint": "",
+"genre": "Rock"
+},
 "Gerry Rafferty|Right Down the Line": {
 "album": "City to City",
 "film_hint": "",
@@ -1748,6 +1838,16 @@
 "album": "Éthiopiques, Vol. 14: Getachèw Mèkurya",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Gigi Perez|Sailor Song": {
+"album": "Sailor Song - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Gilbert Bécaud|Le Pianiste de Varsovie": {
+"album": "20 chansons d'or",
+"film_hint": "",
+"genre": "Pop"
 },
 "Gilbert Bécaud|Nathalie": {
 "album": "Gilbert Bécaud (1964-1966) [Remastered] [Deluxe version]",
@@ -1781,6 +1881,11 @@
 },
 "Glenn Gould|3 Klavierstücke, Op. 11 - No. 1, Massig": {
 "album": "Berg: Piano Sonata, Op. 1 - Schoenberg: Three Piano Pieces, Op. 11 - Krenek: Piano Sonata No. 3, Op. 92, No. 4",
+"film_hint": "",
+"genre": "Classical"
+},
+"Glenn Gould|3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrumental)": {
+"album": "Schoenberg: Piano Music",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -1969,6 +2074,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Heathered Pearls|Pacific Summits (Pulse Version)": {
+"album": "Air Texture IV Steve Hauschildt + Bnjmn",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Heejin|Algorithm": {
 "album": "<K> - EP",
 "film_hint": "",
@@ -2039,6 +2149,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Home|We're Finally Landing": {
+"album": "Before the Night",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Hooverphonic|2 Wicky": {
 "album": "A New Stereophonic Sound Spectacular",
 "film_hint": "",
@@ -2099,6 +2214,11 @@
 "film_hint": "",
 "genre": "Reggae"
 },
+"Irene Cara|Flashdance...What a Feeling (Radio Edit)": {
+"album": "What a Feelin' (Bonus Track Version)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Iron & Wine|Naked as We Came": {
 "album": "Our Endless Numbered Days",
 "film_hint": "",
@@ -2126,6 +2246,11 @@
 },
 "James Brown|I Got You (I Feel Good)": {
 "album": "20 All-Time Greatest Hits!",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"James Brown|Sunny": {
+"album": "Gettin' Down to It",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -2279,6 +2404,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"John Lennon|Watching The Wheels (Remastered 2010)": {
+"album": "Double Fantasy (Stripped Down)",
+"film_hint": "",
+"genre": "Rock"
+},
 "John Mayer|New Light": {
 "album": "Sob Rock",
 "film_hint": "",
@@ -2293,6 +2423,11 @@
 "album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
 "film_hint": "",
 "genre": "Country"
+},
+"Johnny Mathis|Wonderful! Wonderful!": {
+"album": "Johnny's Greatest Hits",
+"film_hint": "",
+"genre": "Vocal"
 },
 "Joker Out|Novi Val": {
 "album": "",
@@ -2429,6 +2564,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kate Bush|L'Amour Looks Something Like You (2018 Remaster)": {
+"album": "The Kick Inside (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Kavinsky|Nightcall": {
 "album": "Nightcall",
 "film_hint": "",
@@ -2524,6 +2664,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"L.T.D.|(Every Time I Turn Around) Back In Love Again (Album Version)": {
+"album": "Love Actually Soundtrack",
+"film_hint": "Love Actually Soundtrack",
+"genre": "Pop"
+},
 "LP|Lost on You": {
 "album": "Lost On You",
 "film_hint": "",
@@ -2588,6 +2733,11 @@
 "album": "Family Business",
 "film_hint": "",
 "genre": "Pop"
+},
+"LeAnn Rimes|Blue": {
+"album": "Blue",
+"film_hint": "",
+"genre": "Country"
 },
 "Led Zeppelin|Going to California  (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
@@ -2723,6 +2873,11 @@
 "album": "Endless Falls",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Louis Clark|Teo Torriatte (Let Us Cling Together)": {
+"album": "A Day At The Races (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Louis Jordan & His Tympany Five|Choo Choo Ch'Boogie": {
 "album": "The Best of Louis Jordan",
@@ -3104,10 +3259,20 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Mireille Mathieu|Together We're Strong": {
+"album": "Rendezvous",
+"film_hint": "",
+"genre": "German Pop"
+},
 "Miriam Makeba|Pata Pata": {
 "album": "Pata Pata (Mono & Stereo Versions)",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Mitski|My Love Mine All Mine": {
+"album": "The Land Is Inhospitable and So Are We",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Moby|Natural Blues": {
 "album": "Play & Play: B Sides",
@@ -3364,6 +3529,11 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Okkervil River|Lost Coastlines": {
+"album": "The Stand Ins",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Olejniczak Janusz|Nocturne in C minor, Op. 48, No. 1": {
 "album": "The Pianist (Original Motion Picture Soundtrack)",
 "film_hint": "The Pianist (Original Motion Picture Soundtrack)",
@@ -3473,6 +3643,11 @@
 "album": "Patti LaBelle: Greatest Hits",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Paul Mauriat|Love Is Blue (Album Version)": {
+"album": "By the Time I Get to Phoenix",
+"film_hint": "",
+"genre": "Country"
 },
 "Paul McCartney|Monkberry Moon Delight (2012 Remaster)": {
 "album": "Thrillington (2012 Remaster)",
@@ -3803,6 +3978,11 @@
 "album": "The 1st Mini Album ‘Ice Cream Cake’ - EP",
 "film_hint": "",
 "genre": "K-Pop"
+},
+"Remi Wolf|Disco Man": {
+"album": "We Love Dogs!",
+"film_hint": "",
+"genre": "Pop"
 },
 "Revolverheld|Ich lass für dich das Licht an": {
 "album": "Immer in Bewegung (Deluxe Version)",
@@ -4284,6 +4464,11 @@
 "film_hint": "Reservoir Dogs (Original Motion Picture Soundtrack)",
 "genre": "Pop"
 },
+"Steely Dan|Babylon Sisters": {
+"album": "Gaucho",
+"film_hint": "",
+"genre": "Rock"
+},
 "Steely Dan|Home At Last": {
 "album": "Aja",
 "film_hint": "",
@@ -4419,12 +4604,22 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya)|Memories of Tomorrow (The Koln Concert - Part IIc)": {
+"album": "Cubic Magic",
+"film_hint": "",
+"genre": "Jazz"
+},
 "TOOL|Lateralus": {
 "album": "Lateralus",
 "film_hint": "",
 "genre": "Metal"
 },
 "TV Girl|Hate Yourself": {
+"album": "French Exit",
+"film_hint": "",
+"genre": "Pop"
+},
+"TV Girl|Lovers Rock": {
 "album": "French Exit",
 "film_hint": "",
 "genre": "Pop"
@@ -4594,6 +4789,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Doors|Spanish Caravan": {
+"album": "The Very Best of the Doors",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Edwin Hawkins Singers|Oh Happy Day": {
 "album": "Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered)",
 "film_hint": "",
@@ -4613,6 +4813,11 @@
 "album": "Between the Sheets",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Jetzons|You": {
+"album": "The Complete Jetzons",
+"film_hint": "",
+"genre": "New Age"
 },
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
@@ -4651,6 +4856,11 @@
 },
 "The Orb|Blue Room  (Live)": {
 "album": "U.F.OFF: The Best of the Orb",
+"film_hint": "",
+"genre": "Electronic"
+},
+"The Orb|Spanish Castles In Space": {
+"album": "The Orb's Adventures Beyond the Ultraworld",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4693,6 +4903,11 @@
 "album": "Beggars Banquet (2018 Remaster)",
 "film_hint": "",
 "genre": "Pop"
+},
+"The Rolling Stones|You Can't Always Get What You Want": {
+"album": "Let It Bleed (Remastered 2019)",
+"film_hint": "",
+"genre": "Rock"
 },
 "The Script feat. will.i.am|Hall of Fame": {
 "album": "#3 (Deluxe Version)",
@@ -4746,6 +4961,11 @@
 },
 "The Tragically Hip|New Orleans Is Sinking": {
 "album": "Up To Here",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Undertones|Teenage Kicks": {
+"album": "The Undertones",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5058,6 +5278,11 @@
 "album": "Historia de un Ídolo, Vol. II",
 "film_hint": "",
 "genre": "Música Mexicana"
+},
+"Victor Babin|Vocalise: Lentamente, Molto cantabile - 14 Romances Op. 34, No. 14 (arr. Babin - Sergei Rachmaninoff)  (Remastered 2023, Hollywood 1939)": {
+"album": "Sandro Nebieridze - Prokofiev & Rachmaninov - harmonia nova #9",
+"film_hint": "",
+"genre": "Classical"
 },
 "Victor Leksell|Skriker mitt namn": {
 "album": "Skriker mitt namn - Single",
