@@ -124,6 +124,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Al Green|Simply Beautiful": {
+"album": "I'm Still In Love with You",
+"film_hint": "",
+"genre": "Soul"
+},
 "Al Stewart|Year of the Cat": {
 "album": "Year of the Cat",
 "film_hint": "",
@@ -188,6 +193,11 @@
 "album": "Talking Timbuktu (with Ry Cooder)",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Alice Coltrane|Journey In Satchidananda": {
+"album": "Journey in Satchidananda",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Alicia Keys|Fallin' (Album Version)": {
 "album": "Songs In A Minor",
@@ -329,6 +339,11 @@
 "film_hint": "",
 "genre": "Trance"
 },
+"Arvo Pärt|Spiegel im spiegel": {
+"album": "Pärt: Portrait",
+"film_hint": "",
+"genre": "Classical"
+},
 "Ashra|Kazoo": {
 "album": "Belle Alliance",
 "film_hint": "",
@@ -343,6 +358,11 @@
 "album": "Aster",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Astor Piazzolla|Adiós Nonino": {
+"album": "Roses of the Classic - Accordion",
+"film_hint": "",
+"genre": "Classical"
 },
 "Astor Piazzolla|Milonga Del Angel": {
 "album": "Tango: Zero Hour",
@@ -493,6 +513,11 @@
 "album": "Every Kingdom",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Ben&Ben|Leaves": {
+"album": "Leaves (feat. Young K) - Single",
+"film_hint": "",
+"genre": "Alternative Folk"
 },
 "Benjamin Francis Leftwich|Ticket To Ride": {
 "album": "Home Covers (2010-2014)",
@@ -689,6 +714,11 @@
 "film_hint": "",
 "genre": "Contemporary Folk"
 },
+"Bob Dylan|The Lonesome Death of Hattie Carroll": {
+"album": "The Times They Are A-Changin’",
+"film_hint": "",
+"genre": "Rock"
+},
 "Bob Marley & The Wailers|Get Up, Stand Up": {
 "album": "Burnin' (Remastered 2001)",
 "film_hint": "",
@@ -748,6 +778,11 @@
 "album": "Slippery When Wet",
 "film_hint": "",
 "genre": "Hard Rock"
+},
+"Boney M.|Gotta Go Home": {
+"album": "Oceans of Fantasy",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Boney M.|Sunny": {
 "album": "Take the Heat Off Me",
@@ -873,6 +908,16 @@
 "album": "Unorthodox Jukebox",
 "film_hint": "",
 "genre": "Pop"
+},
+"Bruno Mars|I Just Might": {
+"album": "The Romantic",
+"film_hint": "",
+"genre": "Pop"
+},
+"Bryan Ferry|Reason or Rhyme": {
+"album": "Bitter-Sweet",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Buddy Guy|Damn Right, I've Got the Blues": {
 "album": "Damn Right, I've Got the Blues (Expanded Edition)",
@@ -1169,6 +1214,11 @@
 "film_hint": "",
 "genre": "German Pop"
 },
+"Clannad|Theme From Harry's Game": {
+"album": "Hourglass - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Claudio Constantini|Noctilune No. 1 (Bandoneon Solo)": {
 "album": "Noctilune No. 1 (Bandoneon Solo) - Single",
 "film_hint": "",
@@ -1278,6 +1328,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Cyndi Lauper|Girls Just Want to Have Fun": {
+"album": "She's So Unusual",
+"film_hint": "",
+"genre": "Pop"
 },
 "Cyndi Lauper|Time After Time": {
 "album": "She's So Unusual",
@@ -1479,6 +1534,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Dire Straits|Brothers in Arms": {
+"album": "Brothers In Arms",
+"film_hint": "",
+"genre": "Rock"
+},
 "Dire Straits|Money for Nothing": {
 "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
 "film_hint": "",
@@ -1624,6 +1684,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Earth, Wind & Fire|Let's Groove (Album Version)": {
+"album": "Raise!",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Earth, Wind & Fire|September": {
 "album": "The Best Of Earth, Wind & Fire Vol. 1",
 "film_hint": "",
@@ -1713,6 +1778,11 @@
 "album": "XO",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Elton John|Rocket Man (I Think It's Going To Be A Long, Long Time)": {
+"album": "Honky Château (Bonus Track Version)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Eluvium|Surrounded by Illusion": {
 "album": "Don't Look Now: Aural Apparitions from the Geographic North",
@@ -1854,6 +1924,11 @@
 "film_hint": "All Time Great Movie Themes",
 "genre": "Soundtrack"
 },
+"Filippo Beck Peccoz|Until Death Do Us Part": {
+"album": "Desperados III, Vol. 1 (Official Game Soundtrack)",
+"film_hint": "Desperados III, Vol. 1 (Official Game Soundtrack)",
+"genre": "Soundtrack"
+},
 "Fito Páez|El amor después del amor": {
 "album": "El Amor Después del Amor",
 "film_hint": "",
@@ -1876,6 +1951,11 @@
 },
 "Fleetwood Mac|Go Your Own Way  (2004 Remaster)": {
 "album": "Rumours (Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Fleetwood Mac|Sara": {
+"album": "Greatest Hits",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2124,6 +2204,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Goldmund|Threnody": {
+"album": "The Malady of Elegance",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Gorillaz|Empire Ants (feat. Little Dragon)": {
 "album": "Plastic Beach (Deluxe Version)",
 "film_hint": "",
@@ -2219,6 +2304,11 @@
 "film_hint": "",
 "genre": "Rock y Alternativo"
 },
+"Guts|Laisser Lucie faire": {
+"album": "Paradise for All (Deluxe Edition)",
+"film_hint": "",
+"genre": "Electronic"
+},
 "HYD|Freak": {
 "album": "Hold Onto Me Infinity",
 "film_hint": "",
@@ -2313,6 +2403,11 @@
 "album": "Air Texture IV Steve Hauschildt + Bnjmn",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Hector Villalobos|Bachianas Brasileiras No. 5: I Aria (Cantilena)": {
+"album": "Saudade",
+"film_hint": "",
+"genre": "Classical Crossover"
 },
 "Heejin|Algorithm": {
 "album": "<K> - EP",
@@ -2499,6 +2594,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Jack Johnson|Upside Down": {
+"album": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George",
+"film_hint": "",
+"genre": "Rock"
+},
 "James Blake|Retrograde": {
 "album": "Overgrown (Deluxe Edition)",
 "film_hint": "",
@@ -2578,6 +2678,11 @@
 "album": "Live At Sin-é (Legacy Edition) [Audio Version]",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Jeff Buckley|Hallelujah": {
+"album": "Grace",
+"film_hint": "",
+"genre": "Holiday"
 },
 "Jeff Buckley|Last Goodbye": {
 "album": "Grace (Legacy Edition)",
@@ -2659,6 +2764,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"John Coltrane|Lush Life": {
+"album": "Lush Life (Remastered)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "John Coltrane|My Favorite Things": {
 "album": "My Favorite Things",
 "film_hint": "",
@@ -2708,6 +2818,11 @@
 "album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
 "film_hint": "",
 "genre": "Country"
+},
+"Johnny Flynn|Detectorists (Original Soundtrack from the TV Series)": {
+"album": "Detectorists (Original Soundtrack from the TV Series) - Single",
+"film_hint": "Detectorists (Original Soundtrack from the TV Series) - Single",
+"genre": "TV Soundtrack"
 },
 "Johnny Mathis|Wonderful! Wonderful!": {
 "album": "Johnny's Greatest Hits",
@@ -2983,6 +3098,11 @@
 "album": "Trans-Europe Express (2009 Remaster)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Kris Kristofferson|Me and Bobby McGee": {
+"album": "Kristofferson",
+"film_hint": "",
+"genre": "Country"
 },
 "Kygo|Heaven On Your Mind": {
 "album": "Heaven On Your Mind (feat. Dan Tyminski) - Single",
@@ -3499,6 +3619,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Massive Attack|Protection": {
+"album": "Protection",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Massive Attack|Teardrop": {
 "album": "Mezzanine",
 "film_hint": "",
@@ -3636,6 +3761,11 @@
 },
 "Michael Jackson|Jam": {
 "album": "Dangerous",
+"film_hint": "",
+"genre": "Pop"
+},
+"Michael Jackson|Rock with You (Single Version)": {
+"album": "Off the Wall",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3824,6 +3954,11 @@
 "film_hint": "",
 "genre": "Vocal Pop"
 },
+"Natalie Imbruglia|Torn": {
+"album": "Left of the Middle",
+"film_hint": "",
+"genre": "Pop"
+},
 "Nation of Language|Weak In Your Light": {
 "album": "Strange Disciple",
 "film_hint": "",
@@ -3886,6 +4021,11 @@
 },
 "Nick Cave & The Bad Seeds|Henry Lee (Remastered 2011)": {
 "album": "Let Love In (2011 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Nick Drake|Northern Sky": {
+"album": "A Treasury",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4099,6 +4239,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Patsy Cline|Strange": {
+"album": "Patsy Cline's Greatest Hits",
+"film_hint": "",
+"genre": "Country"
+},
 "Patti LaBelle|If Only You Knew": {
 "album": "Patti LaBelle: Greatest Hits",
 "film_hint": "",
@@ -4259,6 +4404,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Pink Floyd|Wish You Were Here": {
+"album": "Wish You Were Here",
+"film_hint": "",
+"genre": "Rock"
+},
 "Piotr Musial|Some Place We Called Home": {
 "album": "This War of Mine (Original Game Soundtrack)",
 "film_hint": "This War of Mine (Original Game Soundtrack)",
@@ -4374,6 +4524,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Queen|Don't Stop Me Now (Remastered 2011)": {
+"album": "The Platinum Collection",
+"film_hint": "",
+"genre": "Rock"
+},
 "Queen|Flash (Remastered 2011)": {
 "album": "Some Girls (Remastered 2011)",
 "film_hint": "",
@@ -4413,6 +4568,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Radiohead|Paranoid Android": {
+"album": "OK Computer",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Radiohead|Weird Fishes / Arpeggi": {
 "album": "In Rainbows",
@@ -4650,6 +4810,11 @@
 "genre": "R&B/Soul"
 },
 "Sade|No Ordinary Love  (Remastered Version)": {
+"album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Sade|Smooth Operator (2011 Remastered) (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "film_hint": "",
 "genre": "R&B/Soul"
@@ -4909,6 +5074,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Soda Stereo|De Música Ligera (Remasterizado 2007)": {
+"album": "MTV Unplugged: Comfort y Música para Volar",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Soda Stereo|En La Ciudad De La Furia (MTV Unplugged)": {
 "album": "MTV Unplugged: Comfort y Música para Volar",
 "film_hint": "",
@@ -5069,6 +5239,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Sting|Fragile": {
+"album": "...Nothing Like the Sun",
+"film_hint": "",
+"genre": "Rock"
+},
 "Styx|Mr. Roboto": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -5124,6 +5299,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Supertramp|Even In The Quietest Moments": {
+"album": "Retrospectacle: The Supertramp Anthology",
+"film_hint": "",
+"genre": "Pop"
+},
 "Survivor|Eye of the Tiger": {
 "album": "Eye of the Tiger (Remastered)",
 "film_hint": "",
@@ -5138,6 +5318,11 @@
 "album": "Improvisation On Four Sequences (Live at Week-End Fest)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Suzanne Ciani|Oceanium": {
+"album": "Golden Apples of the Sun",
+"film_hint": "",
+"genre": "Ambient"
 },
 "Swan Dive|Circle": {
 "album": "Circle",
@@ -5294,6 +5479,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Beach Boys|Good Vibrations (Stereo/Remastered 2012)": {
+"album": "Smiley Smile (Mono & Stereo)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
 "film_hint": "",
@@ -5316,6 +5506,11 @@
 },
 "The Beatles|This Boy (Remastered)": {
 "album": "Past Masters (Vols. 1 & 2 / Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|With A Little Help From My Friends (2017 Mix)": {
+"album": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5369,6 +5564,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"The Cure|Lovesong  (2010 Remaster)": {
+"album": "Disintegration (2010 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The Cure|Plainsong (Remastered)": {
 "album": "Disintegration (Deluxe Edition - Remastered)",
 "film_hint": "",
@@ -5393,6 +5593,21 @@
 "album": "Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered)",
 "film_hint": "",
 "genre": "Gospel"
+},
+"The Good, The Bad & The Queen|History Song": {
+"album": "The Good, the Bad & the Queen",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The Head And The Heart|Down in the Valley": {
+"album": "The Head And The Heart",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The Hu|Yuve Yuve Yu": {
+"album": "The Gereg (Deluxe Edition)",
+"film_hint": "",
+"genre": "Metal"
 },
 "The Ink Spots|If I Didn't Care": {
 "album": "20th Century Masters - The Millennium Collection: The Best of The Ink Spots",
@@ -5471,6 +5686,11 @@
 },
 "The Orb|Blue Room  (Live)": {
 "album": "U.F.OFF: The Best of the Orb",
+"film_hint": "",
+"genre": "Electronic"
+},
+"The Orb|Earth (Gaia)": {
+"album": "The Orb's Adventures Beyond the Ultraworld",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -5876,6 +6096,11 @@
 },
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"U2|Where The Streets Have No Name (Remastered 2007)": {
+"album": "The Joshua Tree",
 "film_hint": "",
 "genre": "Rock"
 },
