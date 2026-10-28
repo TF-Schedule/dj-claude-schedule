@@ -44,6 +44,11 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Amy Macdonald|This Is The Life": {
+"album": "This Is the Life",
+"film_hint": "",
+"genre": "Rock"
+},
 "Amália Rodrigues|Barco negro": {
 "album": "Amália Rodrigues - Antologia",
 "film_hint": "",
@@ -109,10 +114,25 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bebel Gilberto|Samba Da Benção": {
+"album": "Tanto Tempo",
+"film_hint": "",
+"genre": "Bossa Nova"
+},
 "Beck|Devils Haircut": {
 "album": "Odelay",
 "film_hint": "",
 "genre": "Rock"
+},
+"Ben Harper|Yard Sale": {
+"album": "Wide Open Light",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Benjamin Francis Leftwich|Ticket To Ride": {
+"album": "Home Covers (2010-2014)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Bert Kaempfert|A Swingin' Safari": {
 "album": "A Swingin' Safari (Remastered)",
@@ -184,6 +204,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Breakbot|Baby I'm Yours": {
+"album": "Baby I'm Yours (feat. Irfane) - Single",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Brijean|Counting Sheep": {
 "album": "Macro",
 "film_hint": "",
@@ -198,6 +223,11 @@
 "album": "D'Amario: Complete Works for Solo Guitar Solo & 2 Guitars",
 "film_hint": "",
 "genre": "Solo Instrumental"
+},
+"Burial|Near Dark": {
+"album": "Untrue",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Caetano Veloso|Tropicália (Remastered 2006)": {
 "album": "Caetano Veloso (Remixed Original Album)",
@@ -254,6 +284,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Christian Löffler|Lid": {
+"album": "Mare",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Christopher Cross|Sailing": {
 "album": "Christopher Cross (2019 Remaster)",
 "film_hint": "",
@@ -274,6 +309,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Coldplay|Talk": {
+"album": "X&Y",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Coldplay|Yellow": {
 "album": "Parachutes",
 "film_hint": "",
@@ -293,6 +333,16 @@
 "album": "FM - Fantasma - Remixes",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Cuco|One and Only": {
+"album": "Songs4u",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Cult With No Name|You Know Me Better Than I Know Myself": {
+"album": "Careful What You Wish For",
+"film_hint": "",
+"genre": "Pop"
 },
 "DJ Cam Quartet|Boss Guitar": {
 "album": "Christmas Guitar",
@@ -324,12 +374,22 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Deftones|Cherry Waves": {
+"album": "Saturday Night Wrist (Bonus Track Version)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Dennis Edwards|Don't Look Any Further (Single Version)": {
 "album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
 "Djivan Gasparyan|Take My Heart": {
+"album": "Black Rock",
+"film_hint": "",
+"genre": "Worldwide"
+},
+"Djivan Gasparyan|Together Forever": {
 "album": "Black Rock",
 "film_hint": "",
 "genre": "Worldwide"
@@ -361,6 +421,11 @@
 },
 "Eagles|I Can't Tell You Why  (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
+"film_hint": "",
+"genre": "Rock"
+},
+"Eagles|Take It Easy": {
+"album": "Eagles",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -399,6 +464,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Enjambre|Vida En El Espejo": {
+"album": "Imperfecto Extraño",
+"film_hint": "",
+"genre": "Rock y Alternativo"
+},
 "Ennio Morricone|Once Upon a Time in the West (From \"Once Upon a Time in the West\")": {
 "album": "Communique",
 "film_hint": "",
@@ -418,6 +488,11 @@
 "album": "Motown: The Complete No. 1's",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Evanescence|Bring Me To Life": {
+"album": "Fallen",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Fabrizio De Andrè|Bocca di rosa": {
 "album": "Fabrizio De André & PFM: il concerto ritrovato (Soundtrack)",
@@ -454,6 +529,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Floating Points|Birth4000": {
+"album": "Cascade",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Foo Fighters|Everlong": {
 "album": "The Colour And The Shape",
 "film_hint": "",
@@ -486,6 +566,11 @@
 },
 "Fraunhofer Diffraction|Kvrt in Space": {
 "album": "Scattering",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Fred again..|leavemealone": {
+"album": "Actual Life 3 (January 1 - September 9 2022)",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -589,6 +674,11 @@
 "film_hint": "",
 "genre": "French Pop"
 },
+"Grateful Dead|Eyes of the World": {
+"album": "Wake of the Flood",
+"film_hint": "",
+"genre": "Rock"
+},
 "Gregory Alan Isakov|Big Black Car": {
 "album": "This Empty Northern Hemisphere",
 "film_hint": "",
@@ -601,6 +691,11 @@
 },
 "Groove Armada|At the River": {
 "album": "Vertigo",
+"film_hint": "",
+"genre": "Dance"
+},
+"Groove Armada|Madder": {
+"album": "Lovebox",
 "film_hint": "",
 "genre": "Dance"
 },
@@ -634,6 +729,11 @@
 "film_hint": "",
 "genre": "Classical Crossover"
 },
+"Hans Tanz|Neues Land": {
+"album": "Forever",
+"film_hint": "",
+"genre": "Pop"
+},
 "Hans Zimmer|S.T.A.Y.": {
 "album": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
 "film_hint": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
@@ -659,6 +759,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Helios|First Dream Called Ocean": {
+"album": "Eingya",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Hem|Half Acre (Remastered 2025)": {
 "album": "Home Again, Home Again - EP",
 "film_hint": "",
@@ -673,6 +778,11 @@
 "album": "Handmade (Bonus Track Version)",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Hiroshi Yoshimura|Feel": {
+"album": "Green",
+"film_hint": "",
+"genre": "Worldwide"
 },
 "Horace Silver|Opus De Funk (Remastered 1998/Rudy Van Gelder Edition)": {
 "album": "",
@@ -708,6 +818,11 @@
 "album": "In Between Dreams (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
+},
+"James Blake|Retrograde": {
+"album": "Overgrown (Deluxe Edition)",
+"film_hint": "",
+"genre": "Electronic"
 },
 "James Brown|I Got You (I Feel Good)": {
 "album": "20 All-Time Greatest Hits!",
@@ -814,6 +929,11 @@
 "film_hint": "",
 "genre": "Pop Latino"
 },
+"Jungle|Keep Moving": {
+"album": "Loving In Stereo",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Kali Uchis|telepatía": {
 "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
 "film_hint": "",
@@ -863,6 +983,11 @@
 "album": "Melomanie",
 "film_hint": "",
 "genre": "Pop"
+},
+"Lamb|Bonfire": {
+"album": "Fear of Fours",
+"film_hint": "",
+"genre": "Rock"
 },
 "Lamb|Gorecki": {
 "album": "Lamb",
@@ -966,6 +1091,11 @@
 },
 "M/A/R/R/S|Pump Up The Volume (UK 12\" Remix)": {
 "album": "Pump Up the Volume - EP",
+"film_hint": "",
+"genre": "Electronic"
+},
+"M83|Midnight City": {
+"album": "Hurry Up, We're Dreaming",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1154,6 +1284,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Måneskin|Torna a casa": {
+"album": "Il ballo della vita",
+"film_hint": "",
+"genre": "Pop"
+},
 "NMIXX|High Horse": {
 "album": "Fe3O4: FORWARD - EP",
 "film_hint": "",
@@ -1189,6 +1324,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Nightmares On Wax|Les Nuits": {
+"album": "Carboot Soul",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Niko B|Who's That What's That": {
 "album": "dog eat dog food world",
 "film_hint": "",
@@ -1214,10 +1354,20 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"ODESZA|Say My Name (feat. Zyra)": {
+"album": "In Return",
+"film_hint": "",
+"genre": "Electronic"
+},
 "OneRepublic|I Lived": {
 "album": "Native (Deluxe)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Oneohtrix Point Never|Sleep Dealer": {
+"album": "Replica",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Orchestral Manoeuvres in the dark (OMD)|If You Leave (From \"Pretty In Pink\" Soundtrack)": {
 "album": "Pretty In Pink (Original Motion Picture Soundtrack)",
@@ -1243,6 +1393,11 @@
 "album": "Night Sketches (US Version)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Paramore|Thick Skull": {
+"album": "This Is Why",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Parliament|Give Up The Funk (Tear The Roof Off The Sucker)": {
 "album": "The Best of Parliament - Give Up the Funk",
@@ -1309,6 +1464,16 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Portishead|Wandering Star": {
+"album": "Dummy",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Prince|Kiss (LP Version)": {
+"album": "Evolve",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Prince|Uptown (LP Version)": {
 "album": "",
 "film_hint": "",
@@ -1328,6 +1493,11 @@
 "album": "A Day At The Races (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"R.E.M.|Endgame": {
+"album": "Out of Time (2016 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "RY X|Let You Go": {
 "album": "",
@@ -1379,6 +1549,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Rival Consoles|Untravel": {
+"album": "Persona",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Roberta Flack|The First Time Ever I Saw Your Face (2020 Remaster)": {
 "album": "First Take (Deluxe Edition)",
 "film_hint": "",
@@ -1421,6 +1596,11 @@
 },
 "Santana|Black Magic Woman": {
 "album": "Ultimate Santana",
+"film_hint": "",
+"genre": "Rock"
+},
+"Santana|Samba Pa Ti": {
+"album": "Abraxas",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1514,6 +1694,16 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Soundgarden|Holy Water (Album Version)": {
+"album": "Badmotorfinger (25th Anniversary / Remastered 2016)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Spandau Ballet|Gold (2003 Remaster)": {
+"album": "True (Remastered)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Split Enz|I Got You": {
 "album": "True Colours",
 "film_hint": "",
@@ -1593,6 +1783,11 @@
 "album": "Circle",
 "film_hint": "",
 "genre": "Pop"
+},
+"Synergy|Chateau": {
+"album": "Sequencer (feat. Larry Fast)",
+"film_hint": "",
+"genre": "Electronic"
 },
 "THE TEARDROP EXPLODES|Reward": {
 "album": "Culture Bunker 1978 - 82",
@@ -1674,6 +1869,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Psychedelic Furs|The Ghost In You": {
+"album": "Greatest Hits",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The Velvet Underground|Sweet Jane   (Full Length Version; 2015 Remaster)": {
 "album": "New York (Deluxe Edition)",
 "film_hint": "",
@@ -1724,6 +1924,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Tim Hecker|In the Fog II": {
+"album": "Ravedeath, 1972",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Tim Maia|Réu Confesso": {
 "album": "The Soul of Brazil",
 "film_hint": "",
@@ -1743,6 +1948,11 @@
 "album": "Éthiopiques, Vol. 17: Tlahoun Gèssèssè",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Tom Misch|Disco Yes": {
+"album": "Geography",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Tom Petty|I Won't Back Down": {
 "album": "Full Moon Fever",
@@ -1769,10 +1979,25 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Tricky|Hell Is Round The Corner": {
+"album": "Maxinquaye (Deluxe Edition)",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Tycho|A Walk": {
+"album": "Dive",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Tyla|Water": {
 "album": "Water - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"Ulrich Schnauss|I Take Comfort in Your Ignorance (2019 Version)": {
+"album": "A Long Way To Fall - Rebound",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Ultravox|Vienna (2008 Remaster)": {
 "album": "Vienna (Remastered Definitive Edition)",
