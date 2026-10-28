@@ -99,6 +99,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Alabama 3|Sad Eyed Lady Of The Low Life": {
+"album": "La Peste",
+"film_hint": "",
+"genre": "Pop"
+},
 "Alabama 3|Thank you": {
 "album": "\"The Gurlz\" Live",
 "film_hint": "",
@@ -153,6 +158,11 @@
 "album": "Talking Timbuktu (with Ry Cooder)",
 "film_hint": "",
 "genre": "Worldwide"
+},
+"Alicia Keys|Fallin' (Album Version)": {
+"album": "Songs In A Minor",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Alvvays|Belinda Says": {
 "album": "Blue Rev",
@@ -259,6 +269,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Armin van Buuren|Set Me Free": {
+"album": "Set Me Free - Single",
+"film_hint": "",
+"genre": "Trance"
+},
 "Ashra|Kazoo": {
 "album": "Belle Alliance",
 "film_hint": "",
@@ -349,6 +364,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Beck|Loser": {
+"album": "Mellow Gold",
+"film_hint": "",
+"genre": "Pop"
+},
 "Beck|The New Pollution": {
 "album": "Odelay",
 "film_hint": "",
@@ -424,6 +444,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Big Data|Put Me to Work": {
+"album": "Put Me to Work - Single",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Big Thief|Mary": {
 "album": "Capacity",
 "film_hint": "",
@@ -463,6 +488,11 @@
 "album": "The Stranger",
 "film_hint": "",
 "genre": "Rock"
+},
+"Björk|Army Of Me": {
+"album": "Post",
+"film_hint": "",
+"genre": "Pop"
 },
 "Björk|Unravel": {
 "album": "Homogenic",
@@ -534,6 +564,11 @@
 "film_hint": "",
 "genre": "Vocal"
 },
+"Bobby McFerrin|Common Threads": {
+"album": "Medicine Music",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Bobby McFerrin|Don't Worry Be Happy": {
 "album": "The Best of Bobby McFerrin",
 "film_hint": "",
@@ -604,6 +639,11 @@
 "film_hint": "",
 "genre": "Funk"
 },
+"Brian Eno|An Ending (Ascent) (Remastered 2019)": {
+"album": "Brian Eno - Film Music 1976 ~ 2020",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Brian Eno|Spinning Away": {
 "album": "Wrong Way Up [Expanded Edition]",
 "film_hint": "",
@@ -638,6 +678,11 @@
 "album": "Love, Damini",
 "film_hint": "",
 "genre": "Afro-fusion"
+},
+"CHVRCHES|Clearest Blue": {
+"album": "Every Open Eye (Special Edition)",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Caetano Veloso|O Leãozinho (Ao Vivo)": {
 "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
@@ -708,6 +753,11 @@
 "album": "Cartola (1976)",
 "film_hint": "",
 "genre": "Samba"
+},
+"Cascada|Everytime We Touch": {
+"album": "Everytime We Touch (Hardwell & Maurice West Remix) - Single",
+"film_hint": "",
+"genre": "Dance"
 },
 "Cat Power|The Greatest": {
 "album": "The Greatest: Slipcase Edition",
@@ -804,12 +854,22 @@
 "film_hint": "",
 "genre": "New Age"
 },
+"Chris Whitley|Big Sky Country (Album Version)": {
+"album": "Living With The Law",
+"film_hint": "",
+"genre": "Rock"
+},
 "Christian Löffler|Lid": {
 "album": "Mare",
 "film_hint": "",
 "genre": "Alternative"
 },
 "Christopher Cross|I Really Don't Know Anymore  (2019 Remaster)": {
+"album": "Christopher Cross (2019 Remaster)",
+"film_hint": "",
+"genre": "Adult Contemporary"
+},
+"Christopher Cross|Ride Like the Wind (Album Version)": {
 "album": "Christopher Cross (2019 Remaster)",
 "film_hint": "",
 "genre": "Adult Contemporary"
@@ -838,6 +898,11 @@
 "album": "Life, Love & Pain",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Cocteau Twins|Cherry-coloured Funk": {
+"album": "Heaven Or Las Vegas (Remastered)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Cocteau Twins|Whales Tails": {
 "album": "Victorialand",
@@ -879,6 +944,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Cornelius|Star Fruit Surf Rider (Damon Albarn Remix)": {
+"album": "FM - Fantasma - Remixes",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Crosby, Stills, Nash & Young|Helpless": {
 "album": "Greatest Hits",
 "film_hint": "",
@@ -893,6 +963,11 @@
 "album": "Careful What You Wish For",
 "film_hint": "",
 "genre": "Pop"
+},
+"Cults|Gilded Lily": {
+"album": "Offering",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Curtis Mayfield|The Makings of You (2019 Remaster) (Remastered)": {
 "album": "The Makings Of: A Curtis Mayfield Collection",
@@ -939,6 +1014,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Dalida|Paroles paroles (Album Version)": {
+"album": "Paroles (Radio Edit Version) - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Damien Rice|The Blower's Daughter": {
 "album": "O",
 "film_hint": "",
@@ -953,6 +1033,11 @@
 "album": "Project Hail Mary (Original Motion Picture Score)",
 "film_hint": "Project Hail Mary (Original Motion Picture Score)",
 "genre": "Soundtrack"
+},
+"Darude|Sandstorm": {
+"album": "Before the Storm, Special Edition",
+"film_hint": "",
+"genre": "Dance"
 },
 "Dasha|Austin (Boots Stop Workin')": {
 "album": "Austin (Boots Stop Workin') - Single",
@@ -1073,6 +1158,11 @@
 "album": "Ultimate Dolly Parton",
 "film_hint": "",
 "genre": "Country"
+},
+"Dolly Parton|I Dreamed About Elvis": {
+"album": "Rockstar (Deluxe)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Don McLean|Vincent": {
 "album": "American Pie",
@@ -1689,6 +1779,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Hariprasad Chaurasia|Bhupali": {
+"album": "The Raga Guide",
+"film_hint": "",
+"genre": "Indian Pop"
+},
 "Harold Budd|A Stream With Bright Fish (2005 Digital Remaster)": {
 "album": "Avalon Sutra (2013 Remaster)",
 "film_hint": "",
@@ -1701,6 +1796,11 @@
 },
 "Haute & Freddy|Dance The Pain Away": {
 "album": "Big Disgrace",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Hayley Williams|Simmer  (Acoustic)": {
+"album": "Riot!",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2574,10 +2674,20 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Marvin Gaye|Save The Children": {
+"album": "What's Going On",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Mary Halvorson|About Ghosts": {
 "album": "About Ghosts",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Massive Attack|Teardrop": {
+"album": "Mezzanine",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Matt Nathanson|All We Are": {
 "album": "Some Mad Hope",
@@ -2588,6 +2698,11 @@
 "album": "Some Mad Hope",
 "film_hint": "",
 "genre": "Singer/Songwriter"
+},
+"Mavis Staples|We're Gonna Make It": {
+"album": "You Are Not Alone",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Max Richter|Dream 3 (in the midst of my life)": {
 "album": "Richter: Dream 3 (Remix) - EP",
@@ -2692,6 +2807,11 @@
 "Mikis Theodorakis|Zorba the Greek:  Zorba's Dance": {
 "album": "Zorba The Greek - Original Soundtrack",
 "film_hint": "Zorba The Greek - Original Soundtrack",
+"genre": "Pop"
+},
+"Miley Cyrus|Party In The U.S.A.": {
+"album": "Party In the U.S.A. - Single",
+"film_hint": "",
 "genre": "Pop"
 },
 "Milt Jackson|Bag's New Groove": {
@@ -2844,6 +2964,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Nek|Fatti avanti amore (feat. Jovanotti)  (5030 version)": {
+"album": "5030",
+"film_hint": "",
+"genre": "Pop"
+},
 "Never Get Used To People|Life Letters (Slowed+Reverb)": {
 "album": "Life Letters (Slowed+Reverb) - Single",
 "film_hint": "",
@@ -2884,6 +3009,11 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Nils Frahm|Says": {
+"album": "Spaces (Special Edition)",
+"film_hint": "",
+"genre": "Ambient"
+},
 "Nina Simone|Feeling Good": {
 "album": "I Put a Spell On You",
 "film_hint": "",
@@ -2913,6 +3043,11 @@
 "album": "In Utero (20th Anniversary Edition)",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Nirvana|Smells Like Teen Spirit": {
+"album": "Nevermind",
+"film_hint": "",
+"genre": "Rock"
 },
 "No Vacation|Waltzing Back": {
 "album": "Waltzing Back - Single",
@@ -2963,6 +3098,11 @@
 "album": "Native (Deluxe)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Oneohtrix Point Never|Nothing’s Special": {
+"album": "Nothing's Special - Single",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Oneohtrix Point Never|Sleep Dealer": {
 "album": "Replica",
@@ -3053,6 +3193,11 @@
 "album": "Patti LaBelle: Greatest Hits",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Paul Rodgers|Muddy Water Blues": {
+"album": "Now & Live, Pt. 2: Live (The Loreley Tapes)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Paul Simon|Further to Fly": {
 "album": "The Rhythm of the Saints (Bonus Tracks Edition)",
@@ -3179,6 +3324,11 @@
 "film_hint": "This War of Mine (Original Game Soundtrack)",
 "genre": "Video Game"
 },
+"Pixies|Ana": {
+"album": "Bossanova",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Player|Baby Come Back": {
 "album": "Player",
 "film_hint": "",
@@ -3223,6 +3373,11 @@
 "album": "The Sacrament of Sin (Deluxe Version)",
 "film_hint": "",
 "genre": "Metal"
+},
+"Predatory Meerkats|Resist The Force": {
+"album": "Resist the Force - Single",
+"film_hint": "",
+"genre": "Dance"
 },
 "Prince|Kiss (LP Version)": {
 "album": "Evolve",
@@ -3588,6 +3743,11 @@
 "album": "La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Sex Pistols|Anarchy In The UK": {
+"album": "Live In The USA 1978",
+"film_hint": "",
+"genre": "Punk"
 },
 "Shakespears Sister|Stay": {
 "album": "Hormonally Yours",
@@ -3979,10 +4139,20 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Teddy Swims|The Door": {
+"album": "I've Tried Everything But Therapy (Part 1)",
+"film_hint": "",
+"genre": "Pop"
+},
 "Teresa Teng|月亮代表我的心": {
 "album": "天國的情人 - 鄧麗君逝世十周年紀念聲影存集  (10th Anniversary)",
 "film_hint": "",
 "genre": "Mandopop"
+},
+"The 1975|Robbers": {
+"album": "The 1975",
+"film_hint": "",
+"genre": "Alternative"
 },
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
@@ -4004,6 +4174,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Blind Boys Of Alabama|Amazing Grace": {
+"album": "Spirit of the Century",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The Brian Setzer Orchestra|Jump Jive An' Wail (Album Version)": {
 "album": "The Dirty Boogie",
 "film_hint": "",
@@ -4014,15 +4189,30 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"The Chills|Pink Frost": {
+"album": "Kaleidoscope World",
+"film_hint": "",
+"genre": "Alternative"
+},
 "The Cinematic Orchestra|To Build A Home": {
 "album": "Ma Fleur",
 "film_hint": "",
 "genre": "Electronic"
 },
+"The Cranberries|Dreams": {
+"album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Cure|Burn (Live)": {
 "album": "The Cure - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"The Cure|Plainsong (Remastered)": {
+"album": "Disintegration (Deluxe Edition - Remastered)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "The Doobie Brothers|What a Fool Believes": {
 "album": "Minute By Minute (Remastered)",
@@ -4059,6 +4249,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Magnetic Fields|Papa Was a Rodeo": {
+"album": "69 Love Songs",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Magnetic Fields|The Book of Love": {
 "album": "69 Love Songs",
 "film_hint": "",
@@ -4066,6 +4261,16 @@
 },
 "The McCoys|Hang on Sloopy": {
 "album": "Hang On Sloopy - The Best of the McCoys",
+"film_hint": "",
+"genre": "Pop"
+},
+"The O'Jays|Back Stabbers": {
+"album": "Back Stabbers",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"The Opium Cartel|Beach House": {
+"album": "Night Blooms",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4206,6 +4411,11 @@
 },
 "Thom Yorke|5.17": {
 "album": "5.17 / That's How Horses Are - Single",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Thorsten Quaeschning|Rain On Dry Concrete": {
+"album": "Synthwaves",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -4359,6 +4569,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Tyler Childers|Feathered Indians": {
+"album": "Country Squire",
+"film_hint": "",
+"genre": "Country"
+},
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
 "film_hint": "",
@@ -4399,6 +4614,11 @@
 "film_hint": "",
 "genre": "Música Mexicana"
 },
+"Victor Leksell|Skriker mitt namn": {
+"album": "Skriker mitt namn - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Vinicius Cantuaria|Lua e Estrela": {
 "album": "Série 2 em 1: Vinícius Cantuária",
 "film_hint": "",
@@ -4413,6 +4633,11 @@
 "album": "Visage",
 "film_hint": "",
 "genre": "Pop"
+},
+"Voyager|Promise": {
+"album": "Promise - Single",
+"film_hint": "",
+"genre": "Metal"
 },
 "Warpaint|Keep It Healthy": {
 "album": "Warpaint",
