@@ -1,4 +1,14 @@
 {
+"Al Stewart|Year of the Cat": {
+"album": "Year of the Cat",
+"film_hint": "",
+"genre": "Pop"
+},
+"Alvvays|Belinda Says": {
+"album": "Blue Rev",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Angèle Dubeau|The Mission – Buona Fortuna Jack (Live)": {
 "album": "Ovation",
 "film_hint": "",
@@ -74,6 +84,21 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Colbie Caillat|Try": {
+"album": "Gypsy Heart",
+"film_hint": "",
+"genre": "Pop"
+},
+"Coldplay|Yellow": {
+"album": "Parachutes",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Cornelius|New Music Machine (Buffalo Daughter Remix)": {
+"album": "FM - Fantasma - Remixes",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Daft Punk|Voyager": {
 "album": "Discovery",
 "film_hint": "",
@@ -118,6 +143,16 @@
 "album": "All Time Great Movie Themes",
 "film_hint": "All Time Great Movie Themes",
 "genre": "Soundtrack"
+},
+"Fleet Foxes|Mykonos": {
+"album": "Sun Giant - EP",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Fleetwood Mac|Albatross": {
+"album": "The Pious Bird of Good Omen",
+"film_hint": "",
+"genre": "Rock"
 },
 "Four Tet|Two Thousand and Seventeen": {
 "album": "New Energy",
@@ -184,6 +219,21 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Helado Negro|Brown Fluorescence": {
+"album": "Far In",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Hem|Half Acre (Remastered 2025)": {
+"album": "Home Again, Home Again - EP",
+"film_hint": "",
+"genre": "Folk"
+},
+"Henry Mancini|Moon River (Remastered)": {
+"album": "Breakfast At Tiffany's (Music from the Motion Picture) [Remastered]",
+"film_hint": "Breakfast At Tiffany's (Music from the Motion Picture) [Remastered]",
+"genre": "Soundtrack"
+},
 "Hindi Zahra|Beautiful Tango (Remastered Version)": {
 "album": "Handmade (Bonus Track Version)",
 "film_hint": "",
@@ -209,6 +259,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Jockstrap|Concrete Over Water": {
+"album": "I Love You Jennifer B",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Julian Lage|Emily": {
 "album": "Squint",
 "film_hint": "",
@@ -219,10 +274,35 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kali Uchis|telepatía": {
+"album": "Sin Miedo (del Amor y Otros Demonios) ∞",
+"film_hint": "",
+"genre": "Latin"
+},
+"Kat Edmonson|All The Way": {
+"album": "The Big Picture",
+"film_hint": "",
+"genre": "Pop"
+},
+"Kate Bush|Coffee Homeground": {
+"album": "Lionheart (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "King Crimson|21st Century Schizoid Man (Including 'Mirrors')": {
 "album": "In the Court of the Crimson King (Expanded Edition)",
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
+},
+"La Rappresentante di Lista|Ciao Ciao": {
+"album": "Ciao Ciao - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Lady Gaga|Just Dance": {
+"album": "The Fame",
+"film_hint": "",
+"genre": "Pop"
 },
 "Lianne La Havas|Sour Flower": {
 "album": "Lianne La Havas",
@@ -243,6 +323,16 @@
 "album": "Never Too Much",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"M/A/R/R/S|Pump Up The Volume (UK 12\" Remix)": {
+"album": "Pump Up the Volume - EP",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Manal|MORAK": {
+"album": "MORAK - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Marisa Monte|Beija Eu": {
 "album": "Barulhinho Bom",
@@ -284,6 +374,21 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Neil Diamond|Be (Introduction Of Jonathan)": {
+"album": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
+"film_hint": "Jonathan Livingston Seagull (Original Motion Picture Soundtrack)",
+"genre": "Pop"
+},
+"Neil Young|Heart of Gold": {
+"album": "Harvest",
+"film_hint": "",
+"genre": "Rock"
+},
+"New Order|True Faith": {
+"album": "Total",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Niko B|Who's That What's That": {
 "album": "dog eat dog food world",
 "film_hint": "",
@@ -303,6 +408,26 @@
 "album": "The Very Best of Otis Redding",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Paco de Lucía|Entre Dos Aguas": {
+"album": "Entre Dos Aguas",
+"film_hint": "",
+"genre": "Latin"
+},
+"Papooz|You and I": {
+"album": "Night Sketches (US Version)",
+"film_hint": "",
+"genre": "Pop"
+},
+"Parliament|Give Up The Funk (Tear The Roof Off The Sucker)": {
+"album": "The Best of Parliament - Give Up the Funk",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Patsy Cline|Crazy (Single Version)": {
+"album": "Patsy Cline's Greatest Hits",
+"film_hint": "",
+"genre": "Country"
 },
 "Peter Broderick|A Little Lost": {
 "album": "Peter Broderick & Friends Play Arthur Russell",
@@ -334,6 +459,16 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Prince|Uptown (LP Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Procol Harum|A Whiter Shade of Pale (Original Single Version (2007 Remaster))": {
+"album": "A Whiter Shade of Pale (Original Single Version) [2007 Remaster] - Single",
+"film_hint": "",
+"genre": "Pop"
+},
 "Queensrÿche|Silent Lucidity (Remastered 2003)": {
 "album": "Empire (Remastered) [Expanded Edition]",
 "film_hint": "",
@@ -343,6 +478,26 @@
 "album": "A Day At The Races (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Randy Crawford|One Day I'll Fly Away": {
+"album": "Now We May Begin",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Raquel Tavares|Como É Grande o Meu Amor por Você": {
+"album": "Roberto Carlos por Raquel Tavares",
+"film_hint": "",
+"genre": "Fado"
+},
+"Ray Anthony|The Hokey Pokey": {
+"album": "Capitol Sings Kids' Songs For Grown-Ups: Small Fry",
+"film_hint": "",
+"genre": "Jazz"
+},
+"Rayland Baxter|Objects In The Mirror": {
+"album": "Good Mmornin",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Reba McEntire|Fancy": {
 "album": "Reba McEntire: Greatest Hits, Vol. 2",
@@ -404,10 +559,25 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Simple Minds|Alive And Kicking (Remastered 2002)": {
+"album": "In the City of Light (Live) [Remastered]",
+"film_hint": "",
+"genre": "Rock"
+},
+"Sister Sledge|Lost in Music (1995 Remaster) (LP Version)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Slowdive|Alison": {
 "album": "Souvlaki",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Split Enz|I Got You": {
+"album": "True Colours",
+"film_hint": "",
+"genre": "Rock"
 },
 "St Germain|Rose rouge": {
 "album": "Tourist (Remastered) [Deluxe Version]",
@@ -415,6 +585,11 @@
 "genre": "Dance"
 },
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 1": {
+"album": "The Tired Sounds of Stars of the Lid",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Stars of the Lid|Requiem for Dying Mothers, Pt. 2": {
 "album": "The Tired Sounds of Stars of the Lid",
 "film_hint": "",
 "genre": "Alternative"
@@ -448,6 +623,26 @@
 "album": "Lateralus",
 "film_hint": "",
 "genre": "Metal"
+},
+"Takako Mamiya|LOVE TRIP": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Talk Talk|Life's What You Make It  (1997 Remaster)": {
+"album": "The Colour of Spring",
+"film_hint": "",
+"genre": "Rock"
+},
+"Talking Heads|Psycho Killer": {
+"album": "The Best of Talking Heads (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Tammy Wynette|Stand By Your Man (Album Version)": {
+"album": "French Touch",
+"film_hint": "",
+"genre": "Pop"
 },
 "Tangerine Dream|Love On A Real Train": {
 "album": "Hyperborea",
@@ -489,6 +684,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Winstons|Amen Brother": {
+"album": "Color Him Father",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tim Cappello|I Still Believe": {
 "album": "The Lost Boys (Original Motion Picture Soundtrack)",
 "film_hint": "The Lost Boys (Original Motion Picture Soundtrack)",
@@ -516,6 +716,31 @@
 },
 "Whitesnake|Still Of The Night (2018 Remaster)": {
 "album": "Whitesnake (2018 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"William Fitzsimmons|Passion Play (Live in Paris)": {
+"album": "Until When We Are Ghosts",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Willie Nelson|On the Road Again": {
+"album": "Country Super Hits",
+"film_hint": "",
+"genre": "Country"
+},
+"Willy DeVille|Heaven Stood Still": {
+"album": "Unplugged in Berlin",
+"film_hint": "",
+"genre": "Blues"
+},
+"Wilson Pickett|In the Midnight Hour": {
+"album": "In the Midnight Hour",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Wings|Goodnight Tonight (Single Version)": {
+"album": "Wingspan: Hits and History",
 "film_hint": "",
 "genre": "Rock"
 },
