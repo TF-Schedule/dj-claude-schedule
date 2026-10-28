@@ -19,6 +19,11 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"A Winged Victory For The Sullen|Minuet for a Cheap Piano Number Two": {
+"album": "A Winged Victory for the Sullen",
+"film_hint": "",
+"genre": "Alternative"
+},
 "A Winged Victory For The Sullen|Steep Hills of Vicodin Tears": {
 "album": "A Winged Victory for the Sullen",
 "film_hint": "",
@@ -334,6 +339,11 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Aphex Twin|Avril 14th": {
+"album": "Drukqs",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Aphex Twin|Flim": {
 "album": "Come to Daddy",
 "film_hint": "",
@@ -366,6 +376,11 @@
 },
 "Arctic Monkeys|505": {
 "album": "Favourite Worst Nightmare",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Arctic Monkeys|Do I Wanna Know?": {
+"album": "AM",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -694,6 +709,11 @@
 "film_hint": "What Was I Made For? (From The Motion Picture \"Barbie\") - Single",
 "genre": "Alternative"
 },
+"Billie Eilish|when the party's over": {
+"album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Billy Crystal|If I Didn't Have You (From \"Monsters, Inc.\"/Soundtrack Version)": {
 "album": "Monsters, Inc. (Original Motion Picture Soundtrack)",
 "film_hint": "Monsters, Inc. (Original Motion Picture Soundtrack)",
@@ -778,6 +798,16 @@
 "album": "Blur",
 "film_hint": "",
 "genre": "Pop"
+},
+"Boards of Canada|Blood In The Labyrinth": {
+"album": "Inferno",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Boards of Canada|Dayvan Cowboy": {
+"album": "The Campfire Headphase",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Boards of Canada|Olson": {
 "album": "Music Has the Right to Children",
@@ -879,6 +909,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Bonobo|Kiara": {
+"album": "Black Sands",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Bonobo|Kong": {
 "album": "Black Sands",
 "film_hint": "",
@@ -893,6 +928,11 @@
 "album": "Green Onions",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Booker T. & The M.G.'s|Time Is Tight  (Live)": {
+"album": "The Best of Booker T. & the MGs (Remastered)",
+"film_hint": "",
+"genre": "Pop"
 },
 "Booker T. Jones|Everything Is Everything": {
 "album": "The Road from Memphis (Deluxe Edition)",
@@ -1035,6 +1075,11 @@
 "genre": "Electronic"
 },
 "Burial|Etched Headplate": {
+"album": "Untrue",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Burial|Ghost Hardware": {
 "album": "Untrue",
 "film_hint": "",
 "genre": "Electronic"
@@ -1429,6 +1474,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Crowded House|Don't Dream It's Over": {
+"album": "Crowded House",
+"film_hint": "",
+"genre": "Rock"
+},
 "Cuco|One and Only": {
 "album": "Songs4u",
 "film_hint": "",
@@ -1496,6 +1546,11 @@
 },
 "Daft Punk|Face to Face": {
 "album": "Discovery",
+"film_hint": "",
+"genre": "Dance"
+},
+"Daft Punk|Harder, Better, Faster, Stronger": {
+"album": "Daft Club",
 "film_hint": "",
 "genre": "Dance"
 },
@@ -1569,6 +1624,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"David Bowie|Dancing in the Street (2002 Remaster)": {
+"album": "Let's Dance (2018 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Slow Burn": {
 "album": "Heathen",
 "film_hint": "",
@@ -1594,6 +1654,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"David Bowie|Warszawa  (2017 Remaster)": {
+"album": "Low (2017 Remaster)",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Wild Is the Wind  (2016 Remaster)": {
 "album": "Station to Station (2016 Remaster)",
 "film_hint": "",
@@ -1613,6 +1678,11 @@
 "album": "3 Feet High and Rising",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
+},
+"Dead Can Dance|The Host of Seraphim (Remastered)": {
+"album": "The Serpent’s Egg (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Dean Martin|Everybody Loves Somebody": {
 "album": "Everybody Loves Somebody",
@@ -1969,6 +2039,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Eluvium|Indoor Swimming At The Space Station": {
+"album": "Copia",
+"film_hint": "",
+"genre": "Rock"
+},
 "Eluvium|Surrounded by Illusion": {
 "album": "Don't Look Now: Aural Apparitions from the Geographic North",
 "film_hint": "",
@@ -2219,6 +2294,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Floating Points|LesAlpx": {
+"album": "Crush",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Foo Fighters|Everlong": {
 "album": "The Colour And The Shape",
 "film_hint": "",
@@ -2323,6 +2403,11 @@
 "album": "Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version]",
 "film_hint": "Singin' in the Rain (Original Motion Picture Soundtrack) [Deluxe Version]",
 "genre": "Soundtrack"
+},
+"Genesis|Many Too Many (2007 Remaster)": {
+"album": "Invisible Touch (2007 Remaster)",
+"film_hint": "",
+"genre": "Rock"
 },
 "Geoffrey Oryema|Solitude": {
 "album": "Exile (Real World Gold)",
@@ -2469,6 +2554,16 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Gorillaz|Hong Kong": {
+"album": "D-Sides",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Gorillaz|Pac-Man (feat. ScHoolboy Q)": {
+"album": "Flesh of My Flesh, Blood of My Blood",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Gorillaz|Rock the House": {
 "album": "G Sides",
 "film_hint": "",
@@ -2598,6 +2693,11 @@
 "album": "Crimson Thunder",
 "film_hint": "",
 "genre": "Metal"
+},
+"Hammock|Maybe They Will Sing for Us Tomorrow": {
+"album": "Maybe They Will Sing for Us Tomorrow",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Hammock|Tape Recorder": {
 "album": "Departure Songs",
@@ -2739,6 +2839,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Herbie Hancock|Chameleon": {
+"album": "Head Hunters",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Hiatus Kaiyote|By Fire": {
 "album": "Choose Your Weapon",
 "film_hint": "",
@@ -2796,6 +2901,11 @@
 },
 "Hozier|From Eden": {
 "album": "Hozier (Expanded Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Hozier|Wasteland, Baby!": {
+"album": "Wasteland, Baby!",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2976,6 +3086,11 @@
 },
 "Jeff Buckley|So Real": {
 "album": "Grace",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Jerry Cantrell|Would? (2022 Remaster)": {
+"album": "Dirt (Remastered)",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3449,6 +3564,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Kraftwerk|Computer Love  (2009 Remaster)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Kraftwerk|Das Model": {
 "album": "The Man-Machine (Remastered)",
 "film_hint": "",
@@ -3526,6 +3646,11 @@
 },
 "Lana Del Rey|Diet Mountain Dew": {
 "album": "Born to Die",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Lana Del Rey|Salvatore": {
+"album": "Honeymoon",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4009,6 +4134,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Marvin Gaye|Sexual Healing (Album Version)": {
+"album": "Midnight Love & The Sexual Healing Sessions",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Marvin Gaye|What's Going On": {
 "album": "What's Going On",
 "film_hint": "",
@@ -4028,6 +4158,11 @@
 "album": "Lady Lady",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Massive Attack|Angel": {
+"album": "Mezzanine",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Massive Attack|Protection": {
 "album": "Protection",
@@ -4168,6 +4303,11 @@
 "album": "Cobalt Blue",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Michael Bublé|Crazy (with Jon Batiste & Stay Human)  (Live)": {
+"album": "Crazy (with Jon Batiste & Stay Human) [Live] - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Michael Hedges|Aerial Boundaries": {
 "album": "Aerial Boundaries",
@@ -4494,6 +4634,11 @@
 "film_hint": "",
 "genre": "Ambient"
 },
+"Nils Frahm|Ambre": {
+"album": "Wintermusik - EP",
+"film_hint": "",
+"genre": "Ambient"
+},
 "Nils Frahm|Says": {
 "album": "Spaces (Special Edition)",
 "film_hint": "",
@@ -4628,6 +4773,11 @@
 "album": "The Very Best of Otis Redding",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"P!nk|Try": {
+"album": "The Truth About Love",
+"film_hint": "",
+"genre": "Pop"
 },
 "Paco de Lucía|Entre Dos Aguas": {
 "album": "Entre Dos Aguas",
@@ -4921,6 +5071,11 @@
 },
 "Portishead|Glory Box (Album Version)": {
 "album": "The Wanderings of the Avener",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Portishead|It Could Be Sweet": {
+"album": "Dummy",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -5274,6 +5429,11 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Ryuichi Sakamoto|energy flow": {
+"album": "Playing the Piano 12122020",
+"film_hint": "",
+"genre": "Classical Crossover"
+},
 "RÜFÜS DU SOL|Innerbloom  (Live from Joshua Tree)": {
 "album": "Live from Joshua Tree",
 "film_hint": "",
@@ -5336,6 +5496,11 @@
 },
 "Sade|Smooth Operator (2011 Remastered) (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Sade|The Sweetest Taboo  (Remastered Version)": {
+"album": "Promise",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -5489,6 +5654,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Sigur Rós|Starálfur": {
+"album": "Ágætis Byrjun",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Sigur Rós|Sé Lest": {
 "album": "Takk...",
 "film_hint": "",
@@ -5533,6 +5703,11 @@
 "album": "The Breakfast Club",
 "film_hint": "",
 "genre": "Rock"
+},
+"Sinéad O'Connor|Nothing Compares 2 U (2009 Remaster)": {
+"album": "Nothing Compares 2 U (30th Anniversary Remaster) - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Siouxsie & The Banshees|Cities In Dust (Single Version)": {
 "album": "The Best Of...",
@@ -5640,6 +5815,11 @@
 "genre": "Alternative"
 },
 "Soundgarden|Black Hole Sun": {
+"album": "Superunknown (20th Anniversary)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
+"Soundgarden|Fell On Black Days (Album Version)": {
 "album": "Superunknown (20th Anniversary)",
 "film_hint": "",
 "genre": "Hard Rock"
@@ -5753,6 +5933,11 @@
 "album": "Innervisions",
 "film_hint": "",
 "genre": "Motown"
+},
+"Stevie Wonder|I Wish": {
+"album": "Songs in the Key of Life",
+"film_hint": "",
+"genre": "R&B/Soul"
 },
 "Stevie Wonder|Living For The City (Album Version)": {
 "album": "Innervisions",
@@ -5979,6 +6164,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Tame Impala|The Less I Know The Better": {
+"album": "The Less I Know The Better - Single",
+"film_hint": "",
+"genre": "Dance"
+},
 "Tammy Wynette|Stand By Your Man (Album Version)": {
 "album": "French Touch",
 "film_hint": "",
@@ -6064,6 +6254,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"The Beatles|Octopus's Garden (Remastered)": {
+"album": "Abbey Road (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Beatles|Rain (Remastered)": {
 "album": "Past Masters (Vols. 1 & 2 / Remastered)",
 "film_hint": "",
@@ -6134,6 +6329,11 @@
 "film_hint": "",
 "genre": "Punk"
 },
+"The Clash|Should I Stay or Should I Go (Remastered)": {
+"album": "Combat Rock",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Cranberries|Dreams": {
 "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
 "film_hint": "",
@@ -6148,6 +6348,11 @@
 "album": "The Cure - Single",
 "film_hint": "",
 "genre": "Pop"
+},
+"The Cure|Just Like Heaven (Album Version)": {
+"album": "Kiss Me, Kiss Me, Kiss Me",
+"film_hint": "",
+"genre": "Alternative"
 },
 "The Cure|Lovesong  (2010 Remaster)": {
 "album": "Disintegration (2010 Remaster)",
@@ -6394,6 +6599,11 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Strokes|Lonely in the Future": {
+"album": "Don't Say No (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Strokes|Ode To The Mets": {
 "album": "Pristine Karaoke, Vol. 20",
 "film_hint": "",
@@ -6514,6 +6724,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Thievery Corporation|Omid": {
+"album": "The Richest Man In Babylon",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Thin Lizzy|Emerald": {
 "album": "Jailbreak",
 "film_hint": "",
@@ -6556,6 +6771,11 @@
 },
 "Tim Hecker|Black Refraction": {
 "album": "Virgins",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Tim Hecker|Harmony in Blue I": {
+"album": "Harmony In Ultraviolet",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -6613,6 +6833,11 @@
 "album": "Geography",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Tom Petty & The Heartbreakers|American Girl": {
+"album": "Tom Petty And The Heartbreakers",
+"film_hint": "",
+"genre": "Rock"
 },
 "Tom Petty|I Won't Back Down": {
 "album": "Full Moon Fever",

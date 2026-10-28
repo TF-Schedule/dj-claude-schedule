@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source
+Tom Misch,It Runs Through Me (feat. De La Soul),47,2026-10-28T13:57:02Z,Velvet Vibe,Alternative,Geography,,https://music.apple.com/us/album/it-runs-through-me-feat-de-la-soul/1327772541?i=1327772855,Regal + Kurt
+Toto,Africa,90,2026-10-28T13:51:59Z,Velvet Vibe,Rock,Toto IV,,https://music.apple.com/us/album/africa/185716551?i=185717604,Regal + Kurt
+Zaz,Sous le ciel de Paris,2,2026-10-28T13:48:35Z,Velvet Vibe,Pop,Paris,,https://music.apple.com/us/album/sous-le-ciel-de-paris/916979258?i=916979382,Regal + Kurt
 Randy Crawford,One Day I'll Fly Away,27,2026-10-28T13:43:25Z,Velvet Vibe,R&B/Soul,Now We May Begin,,https://music.apple.com/us/album/one-day-ill-fly-away/298106734?i=298106833,Regal + Kurt
 Leon Bridges,Coming Home,107,2026-10-28T13:39:53Z,Velvet Vibe,R&B/Soul,Coming Home (Deluxe),,https://music.apple.com/us/album/coming-home/1079234232?i=1079234234,Regal + Kurt
 Jan Hammer,Crockett's Theme,19,2026-10-28T13:36:12Z,Velvet Vibe,Rock,Escape From Television,,https://music.apple.com/us/album/crocketts-theme/780105859?i=780105864,Regal + Kurt
@@ -705,7 +708,6 @@ Neil Young,Harvest Moon (Album Version),10,2026-10-26T08:17:44Z,,Rock,Greatest H
 Lang Lang,Joe Hisaishi: Spring,35,2026-10-26T08:14:45Z,,Classical,Piano Book 2,,,Kurt
 Zucchero,Senza Una Donna (Remastered 2007),6,2026-10-26T08:10:15Z,,,,,,Kurt
 Yann Tiersen,La valse d'Amélie,2,2026-10-26T08:04:14Z,,Classical Crossover,Yann Tiersen: La valse d’Amélie - Single,,,Kurt
-Zaz,Sous le ciel de Paris,2,2026-10-26T08:00:15Z,,Pop,Paris,,,Kurt
 The Edwin Hawkins Singers,Oh Happy Day,18,2026-10-26T07:55:15Z,,Gospel,Oh Happy Day: The Best of The Edwin Hawkins Singers (Remastered),,,Kurt
 Madness,Our House,13,2026-10-26T07:52:15Z,,Pop,Madness,,,Kurt
 Sea Power,Polyhedrons,11,2026-10-26T07:48:45Z,,Video Game,Disco Elysium,,,Kurt
@@ -1179,7 +1181,6 @@ Yussef Kamaal,Strings of Light,109,2026-10-23T17:23:32Z,,Jazz,Black Focus,,,Kurt
 Snarky Puppy,Lingus (Alternate Take),36,2026-10-23T17:14:02Z,,Fusion,We Like It Here,,,Kurt
 John Coltrane,My Favorite Things,51,2026-10-23T17:00:02Z,,Jazz,My Favorite Things,,,Kurt
 Hammerfall,Hearts On Fire,8,2026-10-23T16:52:32Z,,Metal,Crimson Thunder,,,Kurt
-Toto,Africa,90,2026-10-23T16:47:32Z,,Rock,Toto IV,,,Kurt
 Stan Bush,The Touch,7,2026-10-23T16:43:32Z,,Soundtrack,The Transformers (Original Motion Picture Soundtrack),The Transformers (Original Motion Picture Soundtrack),,Kurt
 Love and Rockets,Saudade,20,2026-10-23T16:38:32Z,,Alternative,Seventh Dream of Teenage Heaven,,,Kurt
 The Jetzons,Hard Times,13,2026-10-23T16:35:02Z,,New Age,The Complete Jetzons,,,Kurt
@@ -1312,7 +1313,6 @@ Daft Punk,Face to Face,15,2026-10-22T20:54:21Z,,Dance,Discovery,,,Kurt
 Kid Cudi,Enter Galactic (Love Connection Part I) (Album Version (Explicit)),9,2026-10-22T20:49:51Z,,Hip-Hop/Rap,Man On the Moon: The End of Day (Deluxe Version),,,Kurt
 Pitbull,International Love,70,2026-10-22T20:41:51Z,,Pop,Planet Pit (Deluxe Version),,,Kurt
 Vanilla Ice,Ninja Rap,10,2026-10-22T20:37:51Z,,Hip-Hop/Rap,The Best Of Vanilla Ice,,,Kurt
-Tom Misch,It Runs Through Me (feat. De La Soul),47,2026-10-22T20:28:21Z,,Alternative,Geography,,,Kurt
 Die Fantastischen Vier,MfG - Mit freundlichen Grüßen  (2022),9,2026-10-22T20:20:21Z,,Hip-Hop/Rap,The Liechtenstein Tapes,,,Kurt
 Eric B. & Rakim,Paid In Full,18,2026-10-22T20:16:51Z,,Hip-Hop/Rap,Paid In Full,,,Kurt
 "Tyler, The Creator",Ring Ring Ring,11,2026-10-22T20:13:20Z,,Rap,DON'T TAP THE GLASS,,,Kurt
@@ -1411,51 +1411,51 @@ Hozier,From Eden,48,2026-10-22T05:02:17Z,,Alternative,Hozier (Expanded Edition),
 Fleetwood Mac,I Know I'm Not Wrong,17,2026-10-22T04:27:17Z,,Rock,Tusk (Remastered),,,Kurt
 The Beach Boys,God Only Knows (Stereo),37,2026-10-22T04:24:17Z,,Pop,The Pet Sounds Sessions (Deluxe Edition),,,Kurt
 Stevie Wonder,Golden Lady,133,2026-10-22T04:19:17Z,,Motown,Innervisions,,,Kurt
-The Beatles,Octopus's Garden (Remastered),10,2026-10-22T03:51:47Z,,,,,,Kurt
-Gorillaz,Hong Kong,24,2026-10-22T03:44:47Z,,,,,,Kurt
-The Cure,Just Like Heaven (Album Version),9,2026-10-22T03:27:48Z,,,,,,Kurt
-Hozier,"Wasteland, Baby!",13,2026-10-22T03:16:17Z,,,,,,Kurt
-Arctic Monkeys,Do I Wanna Know?,181,2026-10-22T03:08:17Z,,,,,,Kurt
-The Strokes,Lonely in the Future,15,2026-10-22T03:04:47Z,,,,,,Kurt
-Thievery Corporation,Omid,16,2026-10-22T03:01:17Z,,,,,,Kurt
-Aphex Twin,Avril 14th,89,2026-10-22T02:58:47Z,,,,,,Kurt
-Dead Can Dance,The Host of Seraphim (Remastered),16,2026-10-22T02:52:47Z,,,,,,Kurt
-Floating Points,LesAlpx,43,2026-10-22T02:47:47Z,,,,,,Kurt
-Boards of Canada,Dayvan Cowboy,50,2026-10-22T02:34:17Z,,,,,,Kurt
-Portishead,It Could Be Sweet,15,2026-10-22T02:30:17Z,,,,,,Kurt
-David Bowie,Warszawa  (2017 Remaster),3,2026-10-22T02:08:47Z,,,,,,Kurt
-Hammock,Maybe They Will Sing for Us Tomorrow,130,2026-10-22T01:56:17Z,,,,,,Kurt
-Burial,Ghost Hardware,17,2026-10-22T01:51:17Z,,,,,,Kurt
-Ryuichi Sakamoto,energy flow,76,2026-10-22T01:35:17Z,,,,,,Kurt
-Nils Frahm,Ambre,37,2026-10-22T01:31:47Z,,,,,,Kurt
-A Winged Victory For The Sullen,Minuet for a Cheap Piano Number Two,12,2026-10-22T01:17:47Z,,,,,,Kurt
-Eluvium,Indoor Swimming At The Space Station,102,2026-10-22T01:07:17Z,,,,,,Kurt
-Tim Hecker,Harmony in Blue I,63,2026-10-22T01:05:17Z,,,,,,Kurt
-Daft Punk,"Harder, Better, Faster, Stronger",50,2026-10-22T00:31:17Z,,,,,,Kurt
-Bonobo,Kiara,103,2026-10-22T00:27:17Z,,,,,,Kurt
-Gorillaz,Pac-Man (feat. ScHoolboy Q),6,2026-10-22T00:14:47Z,,,,,,Kurt
-Massive Attack,Angel,60,2026-10-22T00:00:47Z,,,,,,Kurt
+The Beatles,Octopus's Garden (Remastered),10,2026-10-22T03:51:47Z,,Rock,Abbey Road (Remastered),,,Kurt
+Gorillaz,Hong Kong,24,2026-10-22T03:44:47Z,,Alternative,D-Sides,,,Kurt
+The Cure,Just Like Heaven (Album Version),9,2026-10-22T03:27:48Z,,Alternative,"Kiss Me, Kiss Me, Kiss Me",,,Kurt
+Hozier,"Wasteland, Baby!",13,2026-10-22T03:16:17Z,,Alternative,"Wasteland, Baby!",,,Kurt
+Arctic Monkeys,Do I Wanna Know?,181,2026-10-22T03:08:17Z,,Alternative,AM,,,Kurt
+The Strokes,Lonely in the Future,15,2026-10-22T03:04:47Z,,Rock,Don't Say No (Remastered),,,Kurt
+Thievery Corporation,Omid,16,2026-10-22T03:01:17Z,,Electronic,The Richest Man In Babylon,,,Kurt
+Aphex Twin,Avril 14th,89,2026-10-22T02:58:47Z,,Electronic,Drukqs,,,Kurt
+Dead Can Dance,The Host of Seraphim (Remastered),16,2026-10-22T02:52:47Z,,Alternative,The Serpent’s Egg (Remastered),,,Kurt
+Floating Points,LesAlpx,43,2026-10-22T02:47:47Z,,Electronic,Crush,,,Kurt
+Boards of Canada,Dayvan Cowboy,50,2026-10-22T02:34:17Z,,Electronic,The Campfire Headphase,,,Kurt
+Portishead,It Could Be Sweet,15,2026-10-22T02:30:17Z,,Electronic,Dummy,,,Kurt
+David Bowie,Warszawa  (2017 Remaster),3,2026-10-22T02:08:47Z,,Pop,Low (2017 Remaster),,,Kurt
+Hammock,Maybe They Will Sing for Us Tomorrow,130,2026-10-22T01:56:17Z,,Alternative,Maybe They Will Sing for Us Tomorrow,,,Kurt
+Burial,Ghost Hardware,17,2026-10-22T01:51:17Z,,Electronic,Untrue,,,Kurt
+Ryuichi Sakamoto,energy flow,76,2026-10-22T01:35:17Z,,Classical Crossover,Playing the Piano 12122020,,,Kurt
+Nils Frahm,Ambre,37,2026-10-22T01:31:47Z,,Ambient,Wintermusik - EP,,,Kurt
+A Winged Victory For The Sullen,Minuet for a Cheap Piano Number Two,12,2026-10-22T01:17:47Z,,Alternative,A Winged Victory for the Sullen,,,Kurt
+Eluvium,Indoor Swimming At The Space Station,102,2026-10-22T01:07:17Z,,Rock,Copia,,,Kurt
+Tim Hecker,Harmony in Blue I,63,2026-10-22T01:05:17Z,,Electronic,Harmony In Ultraviolet,,,Kurt
+Daft Punk,"Harder, Better, Faster, Stronger",50,2026-10-22T00:31:17Z,,Dance,Daft Club,,,Kurt
+Bonobo,Kiara,103,2026-10-22T00:27:17Z,,Electronic,Black Sands,,,Kurt
+Gorillaz,Pac-Man (feat. ScHoolboy Q),6,2026-10-22T00:14:47Z,,Hip-Hop/Rap,"Flesh of My Flesh, Blood of My Blood",,,Kurt
+Massive Attack,Angel,60,2026-10-22T00:00:47Z,,Electronic,Mezzanine,,,Kurt
 Kraftwerk,Computer Love  (2009 Remaster),41,2026-10-21T23:43:17Z,,,,,,Kurt
-Soundgarden,Fell On Black Days (Album Version),3,2026-10-21T22:32:16Z,,,,,,Kurt
-Jerry Cantrell,Would? (2022 Remaster),10,2026-10-21T22:28:46Z,,,,,,Kurt
-Tom Petty & The Heartbreakers,American Girl,32,2026-10-21T22:17:46Z,,,,,,Kurt
-The Clash,Should I Stay or Should I Go (Remastered),50,2026-10-21T22:10:17Z,,,,,,Kurt
-P!nk,Try,2,2026-10-21T22:06:16Z,,,,,,Kurt
-Sigur Rós,Starálfur,17,2026-10-21T21:59:46Z,,,,,,Kurt
-Boards of Canada,Blood In The Labyrinth,19,2026-10-21T21:42:46Z,,,,,,Kurt
-Lana Del Rey,Salvatore,13,2026-10-21T21:37:46Z,,,,,,Kurt
-Sinéad O'Connor,Nothing Compares 2 U (2009 Remaster),27,2026-10-21T21:32:46Z,,,,,,Kurt
-Tame Impala,The Less I Know The Better,340,2026-10-21T21:28:47Z,,,,,,Kurt
-Crowded House,Don't Dream It's Over,9,2026-10-21T21:24:46Z,,,,,,Kurt
-Billie Eilish,when the party's over,12,2026-10-21T21:21:46Z,,,,,,Kurt
-Sade,The Sweetest Taboo  (Remastered Version),64,2026-10-21T21:17:17Z,,,,,,Kurt
-Herbie Hancock,Chameleon,27,2026-10-21T20:47:16Z,,,,,,Kurt
-Genesis,Many Too Many (2007 Remaster),1,2026-10-21T20:39:47Z,,,,,,Kurt
-Marvin Gaye,Sexual Healing (Album Version),46,2026-10-21T20:31:16Z,,,,,,Kurt
-Stevie Wonder,I Wish,23,2026-10-21T20:17:46Z,,,,,,Kurt
-David Bowie,Dancing in the Street (2002 Remaster),7,2026-10-21T20:00:17Z,,,,,,Kurt
-Booker T. & The M.G.'s,Time Is Tight  (Live),14,2026-10-21T19:49:48Z,,,,,,Kurt
-Michael Bublé,Crazy (with Jon Batiste & Stay Human)  (Live),11,2026-10-21T19:42:48Z,,,,,,Kurt
+Soundgarden,Fell On Black Days (Album Version),3,2026-10-21T22:32:16Z,,Hard Rock,Superunknown (20th Anniversary),,,Kurt
+Jerry Cantrell,Would? (2022 Remaster),10,2026-10-21T22:28:46Z,,Alternative,Dirt (Remastered),,,Kurt
+Tom Petty & The Heartbreakers,American Girl,32,2026-10-21T22:17:46Z,,Rock,Tom Petty And The Heartbreakers,,,Kurt
+The Clash,Should I Stay or Should I Go (Remastered),50,2026-10-21T22:10:17Z,,Rock,Combat Rock,,,Kurt
+P!nk,Try,2,2026-10-21T22:06:16Z,,Pop,The Truth About Love,,,Kurt
+Sigur Rós,Starálfur,17,2026-10-21T21:59:46Z,,Alternative,Ágætis Byrjun,,,Kurt
+Boards of Canada,Blood In The Labyrinth,19,2026-10-21T21:42:46Z,,Electronic,Inferno,,,Kurt
+Lana Del Rey,Salvatore,13,2026-10-21T21:37:46Z,,Alternative,Honeymoon,,,Kurt
+Sinéad O'Connor,Nothing Compares 2 U (2009 Remaster),27,2026-10-21T21:32:46Z,,Pop,Nothing Compares 2 U (30th Anniversary Remaster) - Single,,,Kurt
+Tame Impala,The Less I Know The Better,340,2026-10-21T21:28:47Z,,Dance,The Less I Know The Better - Single,,,Kurt
+Crowded House,Don't Dream It's Over,9,2026-10-21T21:24:46Z,,Rock,Crowded House,,,Kurt
+Billie Eilish,when the party's over,12,2026-10-21T21:21:46Z,,Alternative,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",,,Kurt
+Sade,The Sweetest Taboo  (Remastered Version),64,2026-10-21T21:17:17Z,,R&B/Soul,Promise,,,Kurt
+Herbie Hancock,Chameleon,27,2026-10-21T20:47:16Z,,Jazz,Head Hunters,,,Kurt
+Genesis,Many Too Many (2007 Remaster),1,2026-10-21T20:39:47Z,,Rock,Invisible Touch (2007 Remaster),,,Kurt
+Marvin Gaye,Sexual Healing (Album Version),46,2026-10-21T20:31:16Z,,R&B/Soul,Midnight Love & The Sexual Healing Sessions,,,Kurt
+Stevie Wonder,I Wish,23,2026-10-21T20:17:46Z,,R&B/Soul,Songs in the Key of Life,,,Kurt
+David Bowie,Dancing in the Street (2002 Remaster),7,2026-10-21T20:00:17Z,,Pop,Let's Dance (2018 Remaster),,,Kurt
+Booker T. & The M.G.'s,Time Is Tight  (Live),14,2026-10-21T19:49:48Z,,Pop,The Best of Booker T. & the MGs (Remastered),,,Kurt
+Michael Bublé,Crazy (with Jon Batiste & Stay Human)  (Live),11,2026-10-21T19:42:48Z,,Pop,Crazy (with Jon Batiste & Stay Human) [Live] - Single,,,Kurt
 Hozier,Cherry Wine  (Live),51,2026-10-21T19:38:48Z,,,,,,Kurt
 Paco de Lucía,Mediterranean sundance - Di Meola: Mediterranean sundance,20,2026-10-21T19:22:47Z,,,,,,Kurt
 "10,000 Maniacs",Like the Weather,6,2026-10-21T18:57:49Z,,,,,,Kurt
