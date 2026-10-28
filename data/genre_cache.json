@@ -39,6 +39,11 @@
 "film_hint": "Mamma Mia! Here We Go Again (The Movie Soundtrack feat. the Songs of ABBA)",
 "genre": "Soundtrack"
 },
+"ANNIE|Heartbeat": {
+"album": "Anniemal",
+"film_hint": "",
+"genre": "Electronic"
+},
 "ANORAQUE|Ivy": {
 "album": "D A R E",
 "film_hint": "",
@@ -384,6 +389,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Bad Religion|21st Century (Digital Boy)": {
+"album": "Stranger Than Fiction (Deluxe Edition Remastered)",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Banners|Shine A Light": {
 "album": "Banners - EP",
 "film_hint": "",
@@ -559,6 +569,16 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Bill Callahan|Riding For The Feeling": {
+"album": "Apocalypse",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Bill Evans|Peace Piece (Album Version)": {
+"album": "Everybody Digs Bill Evans (Keepnews Collection)",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Bill Monroe & His Blue Grass Boys|Blue Moon Of Kentucky": {
 "album": "Country Music Hall of Fame",
 "film_hint": "",
@@ -608,6 +628,11 @@
 "album": "Post",
 "film_hint": "",
 "genre": "Pop"
+},
+"Björk|I’ve Seen It All": {
+"album": "Selmasongs (Music from the Motion Picture \"Dancer In the Dark\")",
+"film_hint": "Selmasongs (Music from the Motion Picture \"Dancer In the Dark\")",
+"genre": "Soundtrack"
 },
 "Björk|Unravel": {
 "album": "Homogenic",
@@ -719,10 +744,25 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Bon Jovi|You Give Love A Bad Name": {
+"album": "Slippery When Wet",
+"film_hint": "",
+"genre": "Hard Rock"
+},
 "Boney M.|Sunny": {
 "album": "Take the Heat Off Me",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Bonnie Tyler|Total Eclipse of the Heart": {
+"album": "Faster Than the Speed of Night",
+"film_hint": "",
+"genre": "Adult Contemporary"
+},
+"Bonobo|Cirrus": {
+"album": "The North Borders",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Bonobo|Kong": {
 "album": "Black Sands",
@@ -766,6 +806,11 @@
 },
 "Boz Scaggs|Lowdown (2023 Remaster)": {
 "album": "Silk Degrees (2023 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Boz Scaggs|Simone (2023 Remaster)": {
+"album": "Middle Man (2023 Remaster)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -908,6 +953,11 @@
 "album": "World of Sleepers",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Cardiacs|Big Ship": {
+"album": "Songs for Ships and Irons",
+"film_hint": "",
+"genre": "Pop"
 },
 "Carlos Gardel|Por una Cabeza": {
 "album": "Lo Mejor de Carlos Gardel",
@@ -1384,6 +1434,11 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
+"Deichkind|Keine Party (Single Edit)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
 "Delia Derbyshire|Doctor Who Opening Titles (“In Colour” Mix, Daleks Version)": {
 "album": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
 "film_hint": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
@@ -1508,6 +1563,11 @@
 "album": "Consciousology",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Dua Lipa|Don't Start Now": {
+"album": "Don't Start Now - Single",
+"film_hint": "",
+"genre": "Pop"
 },
 "Dua Lipa|Houdini": {
 "album": "Houdini - Single",
@@ -1643,6 +1703,11 @@
 "album": "Pure Ella",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Elliott Smith|Angeles": {
+"album": "Either/Or",
+"film_hint": "",
+"genre": "Rock"
 },
 "Elliott Smith|Independence Day": {
 "album": "XO",
@@ -2064,6 +2129,11 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Gorillaz|Rock the House": {
+"album": "G Sides",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Gotan Project|Santa María (del Buen Ayre)": {
 "album": "La Revancha del Tango",
 "film_hint": "",
@@ -2128,6 +2198,11 @@
 "album": "Mister Magic",
 "film_hint": "",
 "genre": "Jazz"
+},
+"Guns N' Roses|Sweet Child O' Mine": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Gus Dapperton|Ditch": {
 "album": "Ditch - Single",
@@ -2278,6 +2353,11 @@
 "album": "I Walk",
 "film_hint": "",
 "genre": "Pop"
+},
+"Herbert Grönemeyer|Was soll das (Remastered 2016)": {
+"album": "",
+"film_hint": "",
+"genre": ""
 },
 "Herbert Waltl|Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro": {
 "album": "Bach: Brandenburg Concerto No. 3 in G major, BWV 1048",
@@ -2669,6 +2749,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"José González|Heartbeats": {
+"album": "Veneer",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Journey|Don't Stop Believin' (Album Version)": {
 "album": "Escape (2022 Remaster)",
 "film_hint": "",
@@ -2688,6 +2773,11 @@
 "album": "Content",
 "film_hint": "",
 "genre": "Alternative"
+},
+"João Gilberto|Chega de Saudade": {
+"album": "Chega de Saudade (2022 Ultimate Mix)",
+"film_hint": "",
+"genre": "Bossa Nova"
 },
 "João Gilberto|Garota de Ipanema (Live)": {
 "album": "Live At Umbria Jazz",
@@ -2809,6 +2899,11 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Kenny Loggins|Danger Zone (From \"Top Gun\" Original Soundtrack)": {
+"album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+"film_hint": "",
+"genre": "Rock"
+},
 "Kenny Loggins|Footloose (Album Version)": {
 "album": "Footloose (Original Motion Picture Soundtrack)",
 "film_hint": "Footloose (Original Motion Picture Soundtrack)",
@@ -2844,6 +2939,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Khruangbin|May Ninth": {
+"album": "A LA SALA",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Kim Carnes|More Love": {
 "album": "Romance Dance",
 "film_hint": "",
@@ -2863,6 +2963,16 @@
 "album": "Peace Or Love",
 "film_hint": "",
 "genre": "Pop"
+},
+"Korpiklaani|Vodka": {
+"album": "Karkelo",
+"film_hint": "",
+"genre": "Metal"
+},
+"Kraftwerk|Autobahn  (2024 Single Edit)": {
+"album": "Autobahn (2024 Single Edit) - Single",
+"film_hint": "",
+"genre": "Electronic"
 },
 "Kraftwerk|Das Model": {
 "album": "The Man-Machine (Remastered)",
@@ -2951,6 +3061,11 @@
 },
 "Laufey|Madwoman": {
 "album": "A Matter of Time: The Final Hour",
+"film_hint": "",
+"genre": "Pop"
+},
+"Laurie Anderson|Sharkey's Day (Album Version)": {
+"album": "Mister Heartbreak",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3104,6 +3219,11 @@
 "film_hint": "The Hills Have Eyes 2 - The Album",
 "genre": "Soundtrack"
 },
+"Loreen|Euphoria": {
+"album": "Euphoria",
+"film_hint": "",
+"genre": "Dance"
+},
 "Los Enanitos Verdes|Lamento Boliviano": {
 "album": "",
 "film_hint": "",
@@ -3119,6 +3239,11 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Lou Reed|Perfect Day": {
+"album": "The Essential Lou Reed (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Louis Clark|Teo Torriatte (Let Us Cling Together)": {
 "album": "A Day At The Races (Deluxe Edition)",
 "film_hint": "",
@@ -3133,6 +3258,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Love and Rockets|Haunted When the Minutes Drag": {
+"album": "Seventh Dream of Teenage Heaven",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Love and Rockets|Saudade": {
 "album": "Seventh Dream of Teenage Heaven",
@@ -3329,6 +3459,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Martha And The Muffins|Echo Beach": {
+"album": "Marthology: The In and Outtakes",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Martin Garrix|Carry You": {
 "album": "Carry You (feat. Declan J Donovan) - Single",
 "film_hint": "",
@@ -3469,6 +3604,16 @@
 "film_hint": "",
 "genre": "Indie Rock"
 },
+"Metallica|Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)": {
+"album": "",
+"film_hint": "",
+"genre": ""
+},
+"Metallica|Spit Out The Bone": {
+"album": "Hardwired…To Self-Destruct (Deluxe Edition)",
+"film_hint": "",
+"genre": "Metal"
+},
 "Mica Levi|Love": {
 "album": "Under the Skin (Original Soundtrack Album)",
 "film_hint": "Under the Skin (Original Soundtrack Album)",
@@ -3508,6 +3653,11 @@
 "album": "Zorba The Greek - Original Soundtrack",
 "film_hint": "Zorba The Greek - Original Soundtrack",
 "genre": "Pop"
+},
+"Miles Davis|So What": {
+"album": "Kind of Blue",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Miley Cyrus|Flowers": {
 "album": "Endless Summer Vacation",
@@ -3636,6 +3786,11 @@
 },
 "Muse|Feeling Good": {
 "album": "Origin of Symmetry",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Muse|Won’t Stand Down": {
+"album": "Will Of The People",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3768,6 +3923,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"Nina Simone|Wild Is The Wind": {
+"album": "The Best of Nina Simone 20th Century Masters the Millennium Collection",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Nine Inch Nails|Heresy (Nine Inch Noize Version)": {
 "album": "Nine Inch Noize",
@@ -4164,6 +4324,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Prince|Moonbeam Levels  (2019 Remaster)": {
+"album": "1999 (Super Deluxe Edition) [2019 Remaster]",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Prince|Nothing Compares 2 U": {
 "album": "Nothing Compares 2 U - Single",
 "film_hint": "",
@@ -4224,8 +4389,18 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Queen|We Will Rock You": {
+"album": "News Of The World (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
 "R.E.M.|Endgame": {
 "album": "Out of Time (2016 Remaster)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"R.E.M.|Orange Crush (Remastered)": {
+"album": "Green (Remastered 2013)",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4629,6 +4804,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Sigur Rós|Sé Lest": {
+"album": "Takk...",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Sigur Rós|Untitled #3  (Samskeyti)": {
 "album": "( )",
 "film_hint": "",
@@ -4909,6 +5089,11 @@
 "film_hint": "Mystery of Love (From “Call Me By Your Name”) - Single",
 "genre": "Soundtrack"
 },
+"Sufjan Stevens|Should Have Known Better": {
+"album": "Carrie & Lowell",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
 "Sum 41|In Too Deep (Album Version)": {
 "album": "All Killer, No Filler",
 "film_hint": "",
@@ -5104,6 +5289,11 @@
 "film_hint": "",
 "genre": "Country"
 },
+"The Band|The Weight (Remastered 2000)": {
+"album": "Music From Big Pink (Remastered 2000)",
+"film_hint": "",
+"genre": "Rock"
+},
 "The Beatles|Golden Slumbers (Remastered)": {
 "album": "Abbey Road (Remastered)",
 "film_hint": "",
@@ -5111,6 +5301,11 @@
 },
 "The Beatles|Lucy In The Sky With Diamonds (Remastered 2009)": {
 "album": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
+"film_hint": "",
+"genre": "Rock"
+},
+"The Beatles|Rain (Remastered)": {
+"album": "Past Masters (Vols. 1 & 2 / Remastered)",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5183,6 +5378,11 @@
 "album": "Minute By Minute (Remastered)",
 "film_hint": "",
 "genre": "Rock"
+},
+"The Doobie Brothers|You Belong to Me  (2016 Remaster)": {
+"album": "This Year's Model (2021 Remaster / Deluxe)",
+"film_hint": "",
+"genre": "Pop"
 },
 "The Doors|Spanish Caravan": {
 "album": "The Very Best of the Doors",
@@ -5564,6 +5764,11 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Tom Petty|Runnin' Down A Dream": {
+"album": "Full Moon Fever",
+"film_hint": "",
+"genre": "Rock"
+},
 "Tom Robinson|The Saturday Disco": {
 "album": "Still Loving You",
 "film_hint": "",
@@ -5663,6 +5868,11 @@
 "album": "Country Squire",
 "film_hint": "",
 "genre": "Country"
+},
+"U2|Beautiful Day (Remastered 2020)": {
+"album": "Beautiful Day (Remastered 2024) - EP",
+"film_hint": "",
+"genre": "Pop"
 },
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
@@ -5819,6 +6029,11 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Wolfsheim|Künstliche Welten": {
+"album": "Spectators",
+"film_hint": "",
+"genre": "Pop"
+},
 "Wonder Girls|Rewind": {
 "album": "REBOOT",
 "film_hint": "",
@@ -5843,6 +6058,11 @@
 "album": "Alison Moyet the Best of: 25 Years Revisited (Remastered)",
 "film_hint": "",
 "genre": "Pop"
+},
+"Yellow Magic Orchestra|RYDEEN  (2018 Bob Ludwig Remastering)": {
+"album": "Solid State Survivor",
+"film_hint": "",
+"genre": "Electronica"
 },
 "Yes|Mood for a Day  (2008 Remaster)": {
 "album": "Fragile (Super Deluxe)",
@@ -5903,6 +6123,11 @@
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"blink-182|All The Small Things": {
+"album": "Enema of the State",
+"film_hint": "",
+"genre": "Rock"
 },
 "gesunokiwamiotome|watashi igai watashi ja naino": {
 "album": "Sukinaratowanai",
