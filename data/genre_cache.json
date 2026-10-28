@@ -20,6 +20,12 @@
 "film_hint": "",
 "genre": "Classical Crossover"
 },
+"8-Bit Arcade|The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation)": {
+"album": "The Mountain",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "9MUSES|Dolls": {
 "album": "Dolls - EP",
 "film_hint": "",
@@ -58,6 +64,12 @@
 },
 "ABBA|Don't Shut Me Down": {
 "album": "Voyage",
+"film_hint": "",
+"genre": "Pop"
+},
+"ABBA|Gimme! Gimme! Gimme! (A Man After Midnight)": {
+"album": "ABBA Gold: Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -236,6 +248,12 @@
 },
 "Alestorm|Drink": {
 "album": "Captain Morgan's Revenge (10th Anniversary Edition)",
+"film_hint": "",
+"genre": "Metal"
+},
+"Alestorm|Keelhauled": {
+"album": "Black Sails at Midnight",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/99/ba/9a99babe-c011-116b-6266-3ea44cc60177/819224015024.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Metal"
 },
@@ -525,6 +543,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Ashra|Midnight On Mars": {
+"album": "Blackouts",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/fd/90/8ffd901a-25ff-bd44-ff32-25a1d079d3c2/05099968879952.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Ashra|Sunrain": {
 "album": "New Age of Earth",
 "film_hint": "",
@@ -711,6 +735,12 @@
 "film_hint": "",
 "genre": "Rock"
 },
+"Bee Gees|Night Fever (From \"Saturday Night Fever\" Soundtrack)": {
+"album": "Saturday Night Fever (The Original Movie Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/100x100bb.jpg",
+"film_hint": "Saturday Night Fever (The Original Movie Soundtrack)",
+"genre": "Pop"
+},
 "Beenie Man|Feel It Boy": {
 "album": "Tropical Storm",
 "film_hint": "",
@@ -753,6 +783,12 @@
 "album": "Leaves (feat. Young K) - Single",
 "film_hint": "",
 "genre": "Alternative Folk"
+},
+"Ben&Ben|Maybe The Night": {
+"album": "Nine",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/a3/a8/b7a3a8cf-0775-a779-7754-7fbdf1acd7e7/196874763414.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Benjamin Francis Leftwich|Ticket To Ride": {
 "album": "Home Covers (2010-2014)",
@@ -1346,6 +1382,12 @@
 "film_hint": "",
 "genre": "Afro-fusion"
 },
+"Bush|Everything Zen (Remastered)": {
+"album": "Sixteen Stone (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/10/83/ad1083d4-6a79-8f5e-aad5-665a58df2615/17UMGIM79375.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "Busta Rhymes|Gimme Some More": {
 "album": "Pa'lla Voy",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/a3/ad/02a3adde-d6fa-1c64-602b-78e5efcf0a7d/886449685578.jpg/100x100bb.jpg",
@@ -1883,6 +1925,7 @@
 },
 "D'Angelo|Untitled (How Does It Feel)": {
 "album": "Voodoo",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/be/cd/fdbecdf2-5bf5-09fc-8fab-6e93250ebda4/13ULAIM54464.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2026,6 +2069,12 @@
 "album": "Let's Dance (2018 Remaster)",
 "film_hint": "",
 "genre": "Pop"
+},
+"David Bowie|Dollar Days": {
+"album": "Blackstar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/c9/0d/cdc90daa-b426-916f-163a-1ff65a6f4108/5054197573972.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "David Bowie|Let's Dance  (2018 Remaster)": {
 "album": "Let's Dance (2018 Remaster)",
@@ -2237,6 +2286,12 @@
 },
 "Djivan Gasparyan|Take My Heart": {
 "album": "Black Rock",
+"film_hint": "",
+"genre": "Worldwide"
+},
+"Djivan Gasparyan|They Took My Love Away": {
+"album": "Moon Shines at Night",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/d1/7c/69d17c64-853f-b2a9-98cc-7c638229f2bf/0801061301309.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -2986,6 +3041,12 @@
 "album": "Queen Forever (Deluxe Edition)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Fredo Bang|Oouuh": {
+"album": "2 Face Bang",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/1a/c1/7d1ac139-7b51-d6b1-4e70-ca8a616cf7f5/193483151489_Cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
 },
 "Free|Wild Indian Woman": {
 "album": "Tons of Sobs (Bonus Track Version)",
@@ -3827,6 +3888,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"JAY1|Your Mrs": {
+"album": "Sorry I'm Late",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/1c/bb/9a1cbbbc-4a61-e06d-726c-083ab80ec24a/0.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Jack Johnson|Better Together": {
 "album": "In Between Dreams (Bonus Track Version)",
 "film_hint": "",
@@ -3947,6 +4014,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/01/d6/9901d634-9604-f97d-c33c-86d7fd72d249/886446781518.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
+},
+"Jerry Cantrell|Rooster (2022 Remaster)": {
+"album": "Dirt (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "Jerry Cantrell|Would? (2022 Remaster)": {
 "album": "Dirt (Remastered)",
@@ -4430,6 +4503,12 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
+"Kendrick Lamar|Not Like Us": {
+"album": "Not Like Us - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
 "Kenny G|Songbird": {
 "album": "Duotones",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/a4/b4/9c/a4b49ced-3972-51c9-6414-92d5601f9fab/dj.ppxnggbm.jpg/100x100bb.jpg",
@@ -4546,6 +4625,12 @@
 "film_hint": "",
 "genre": "Prog-Rock/Art Rock"
 },
+"King Crimson|In the Court of the Crimson King (Abridged)": {
+"album": "The Condensed 21st Century Guide to King Crimson (1969 - 2003)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/91/77/9f91779b-dfd0-a972-3bc0-70fbf6a512d8/633367884121.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "King Crimson|Matte Kudasai": {
 "album": "Discipline (Expanded Edition)",
 "film_hint": "",
@@ -4566,6 +4651,12 @@
 "album": "Peace Or Love",
 "film_hint": "",
 "genre": "Pop"
+},
+"Kiss|Rock And Roll All Nite": {
+"album": "Greatest Kiss",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/82/dc/5a82dc38-bbaf-0444-a928-5e851bd07d78/14UMGIM16164.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Korpiklaani|Vodka": {
 "album": "Karkelo",
@@ -4627,6 +4718,12 @@
 "album": "Lost On You",
 "film_hint": "",
 "genre": "Alternative"
+},
+"La Fenice|Le Chant des oiseaux": {
+"album": "Natura amorosa",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/08/8c/d3/088cd33e-b2d9-2c21-8660-6372d2f48901/3487549903462_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical"
 },
 "La Rappresentante di Lista|Ciao Ciao": {
 "album": "Ciao Ciao - Single",
@@ -5572,6 +5669,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Michael Jackson|Who Is It": {
+"album": "Dangerous",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/68/f9/cf68f9d4-e395-9ced-3e50-8cf7f1f9d3e0/884977307832.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Michael Jackson|You Are Not Alone": {
 "album": "HIStory - Past, Present and Future, Book I",
 "film_hint": "",
@@ -5754,6 +5857,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Mr.Kitty|After Dark": {
+"album": "Time",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/5d/c6/ce5dc65e-6dac-bb8a-daaf-72bf77d0ba75/616450974909.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Mree|Into the Well": {
 "album": "Winterwell",
 "film_hint": "",
@@ -5788,6 +5897,12 @@
 "album": "Doctor Who - Series 8 (Original Television Soundtrack)",
 "film_hint": "Doctor Who - Series 8 (Original Television Soundtrack)",
 "genre": "Soundtrack"
+},
+"Murray Head|One Night In Bangkok (From “Chess” / Remastered 2016)": {
+"album": "One Night in Bangkok (Radio Edit / From “Chess” / Remastered 2016) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c8/ae/ffc8ae6b-8b94-b6f1-eb61-e16d8951b472/00602547835215.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Musicals"
 },
 "Muse|Feeling Good": {
 "album": "Origin of Symmetry",
@@ -5841,6 +5956,12 @@
 "album": "'Round Midnight with Nelson Riddle and His Orchestra",
 "film_hint": "",
 "genre": "Pop"
+},
+"Nat King Cole|Autumn Leaves": {
+"album": "The World of Nat King Cole",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/66/cf/3066cf5e-d0ad-d373-842e-29197c0902c8/13UABIM74014.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Nat King Cole|L-O-V-E": {
 "album": "L-O-V-E",
@@ -5925,6 +6046,12 @@
 "album": "Sticks and Stones",
 "film_hint": "",
 "genre": "Punk"
+},
+"New Order|Blue Monday  (2016 Remaster)": {
+"album": "iTunes Originals: New Order",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/2e/2d/312e2da7-6277-3f91-221a-bc0739a8183b/mzi.kjsrfisp.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
 },
 "New Order|True Faith": {
 "album": "Total",
@@ -6212,6 +6339,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"P!nk|Please Don't Leave Me": {
+"album": "Funhouse (Deluxe Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/0b/56/180b566d-09b1-0510-cbc7-b35440b93f73/196874514603.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "P!nk|So What": {
 "album": "Funhouse (Deluxe Version)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/0b/56/180b566d-09b1-0510-cbc7-b35440b93f73/196874514603.jpg/100x100bb.jpg",
@@ -6386,6 +6519,12 @@
 "album": "Peeping Tom",
 "film_hint": "",
 "genre": "Rock"
+},
+"Peggy Gou|Starry Night": {
+"album": "Moment - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/49/7b/23497b16-d816-d167-66b1-82c3f97885f3/5060670882394.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Dance"
 },
 "Pellek|Bohemian Rhapsody": {
 "album": "The Platinum Collection",
@@ -6562,6 +6701,12 @@
 },
 "Pink Floyd|Have a Cigar": {
 "album": "Wish You Were Here",
+"film_hint": "",
+"genre": "Rock"
+},
+"Pink Floyd|Money": {
+"album": "Echoes: The Best of Pink Floyd",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/6e/ba/be6ebade-739e-fc43-e430-e20162645c65/886445613940.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7298,6 +7443,12 @@
 "film_hint": "",
 "genre": "Video Game"
 },
+"Sea Power|Whirling-In-Rags, 8 AM": {
+"album": "Disco Elysium",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/05/30/ce053024-6253-93a3-12a6-492e36c95cbc/5060079269147.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Video Game"
+},
 "Seatbelts|Space Lion": {
 "album": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/df/5abbdf28-bf0e-0530-e5f8-0f0ca3150e0a/195081633657.jpg/100x100bb.jpg",
@@ -7334,6 +7485,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/88/da/7688da1f-220a-c26f-ec35-dd3bbd3091bd/197342663274_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Dance"
+},
+"Shakatak|Night Birds": {
+"album": "Night Birds",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/5d/8d/b05d8d2f-95a9-b5c5-bfff-4e8cf7527640/mzi.wrrzbuau.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Shakespears Sister|Stay": {
 "album": "Hormonally Yours",
@@ -7574,6 +7731,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Solarstone|Evensong": {
+"album": "Evensong - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/9a/70/ed9a7032-bd73-ff5b-208f-cb8f2d8d739c/8718525330152.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Dance"
+},
 "Solisti e Orchestre del Cinema Italiano|L'uomo dell'armonica": {
 "album": "Ennio Morricone - Once Upon a Time - Critic's Choice",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/6c/50/9f6c50d9-e163-30ed-312f-d92c031418ca/76119005618.jpg/100x100bb.jpg",
@@ -7737,6 +7900,12 @@
 "film_hint": "",
 "genre": "Motown"
 },
+"Stevie Wonder|Happy Birthday": {
+"album": "Hotter Than July",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/71/7e/10717e68-72d1-e3ce-6173-a920506bf797/00602537779482.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Stevie Wonder|Higher Ground (Album Version)": {
 "album": "Innervisions",
 "film_hint": "",
@@ -7765,6 +7934,12 @@
 },
 "Stevie Wonder|Sir Duke": {
 "album": "Songs in the Key of Life",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Stevie Wonder|Summer Soft": {
+"album": "Songs in the Key of Life",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -7905,6 +8080,12 @@
 "film_hint": "",
 "genre": "Worldwide"
 },
+"Supernova|Chewbaca": {
+"album": "Pop As a Weapon",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/43/6a/5d436af6-9f8a-16a8-5878-77454b7f9dc7/881034453488.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Supertramp|Even In The Quietest Moments": {
 "album": "Retrospectacle: The Supertramp Anthology",
 "film_hint": "",
@@ -8004,6 +8185,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Taeko Onuki|4:00 A.M.": {
+"album": "Mignonne (Mastered by Bernie Grundman)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/9c/45/839c451c-4a4c-45f1-2bc8-1f5e41800434/4560427466828.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "J-Pop"
+},
 "Takako Mamiya|LOVE TRIP": {
 "album": "",
 "film_hint": "",
@@ -8091,6 +8278,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Taylor Swift|Cruel Summer": {
+"album": "Lover",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Tears For Fears|Everybody Wants To Rule The World": {
 "album": "Songs from the Big Chair",
 "film_hint": "",
@@ -8144,6 +8337,12 @@
 "album": "When You Go (That's When You'll Know) - Single",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"The Animals|The House of the Rising Sun": {
+"album": "Retrospective",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/3d/40/833d4083-c018-f1bf-5b30-707aa7c2557c/06PNDIM00281.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "British Invasion"
 },
 "The Avett Brothers|The Ballad of Love and Hate": {
 "album": "Emotionalism (Bonus Track Version)",
@@ -8344,7 +8543,8 @@
 "genre": "Alternative"
 },
 "The Dave Brubeck Quartet|Take Five": {
-"album": "Time Out",
+"album": "Time Out (50th Anniversary Legacy Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -8378,6 +8578,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b9/67/98/b967986a-5dbc-fbd3-d150-7fbc2bcca7c5/825646290963.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
+},
+"The Green|Love I": {
+"album": "The Green",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/b3/dc/cdb3dc95-bb12-c1e9-8534-c2e11c6c115a/195039168385_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Reggae"
 },
 "The Head And The Heart|Down in the Valley": {
 "album": "The Head And The Heart",
@@ -8418,6 +8624,12 @@
 "album": "The Complete Jetzons",
 "film_hint": "",
 "genre": "New Age"
+},
+"The Jetzons|When the Sun Goes Down": {
+"album": "When the Sun Goes Down",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/28/f5/27/28f5277d-5c64-ec46-8de1-582dc7e002f9/dj.sxriubhh.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Country"
 },
 "The Jetzons|You": {
 "album": "The Complete Jetzons",
@@ -8781,6 +8993,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"The Weeknd|Secrets": {
+"album": "Starboy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "The Weeknd|Starboy": {
 "album": "Starboy",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/100x100bb.jpg",
@@ -8811,6 +9029,12 @@
 "album": "Got a Story to Tell",
 "film_hint": "",
 "genre": "R&B/Soul"
+},
+"Thelonious Monk|'Round Midnight (Remastered 2013)": {
+"album": "The Best of Thelonious Monk (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/3d/1b/773d1bf4-29e0-f5ed-a0e8-c3772671f325/00025218350624.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Jazz"
 },
 "Thievery Corporation|Facing East": {
 "album": "The Richest Man In Babylon",
@@ -8974,6 +9198,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/a8/4a/b5a84a95-8d92-fd12-ac5a-04e4ced02c5f/823000201631.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
+},
+"Tom Lehrer|Poisoning Pigeons in the Park": {
+"album": "More of Tom Lehrer",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/1e/4a/421e4a3e-97e7-5b58-a151-10a4411cd11b/655466786731.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
 },
 "Tom Misch|Disco Yes": {
 "album": "Geography",
@@ -9157,6 +9387,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"U2|New Year's Day (Remastered 2008)": {
+"album": "War",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/0a/0d/6b0a0d5b-2831-06e9-3471-3befad197c1d/17UMGIM87714.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
 "U2|The Fly (Remastered 2011)": {
 "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
 "film_hint": "",
@@ -9333,6 +9569,12 @@
 "album": "Gemini",
 "film_hint": "",
 "genre": "Alternative"
+},
+"William Fitzsimmons|I Don't Feel It Anymore (Song of the Sparrow) (Remastered)": {
+"album": "The Sparrow and the Crow",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/5d/79/9d5d7950-5da9-9a7a-2d2e-db829fff5e62/859780750823_cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Traditional Folk"
 },
 "William Fitzsimmons|Passion Play (Live in Paris)": {
 "album": "Until When We Are Ghosts",

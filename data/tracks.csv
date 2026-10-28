@@ -1,4 +1,7 @@
 artist,title,plays,last_played_utc,shows,genre,album,film_hint,apple_url,source,artwork
+D'Angelo,Untitled (How Does It Feel),130,2026-10-28T16:13:23Z,Jazzable Cities,Pop,Voodoo,,https://music.apple.com/us/album/untitled-how-does-it-feel/1440841365?i=1440841917,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/be/cd/fdbecdf2-5bf5-09fc-8fab-6e93250ebda4/13ULAIM54464.rgb.jpg/100x100bb.jpg
+The Dave Brubeck Quartet,Take Five,53,2026-10-28T16:07:47Z,Jazzable Cities,Jazz,Time Out (50th Anniversary Legacy Edition),,https://music.apple.com/us/album/take-five/316475425?i=316475543,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/100x100bb.jpg
+Charles Lloyd & The Marvels,You Are So Beautiful,4,2026-10-28T16:01:36Z,Jazzable Cities,Jazz,I Long to See You,,https://music.apple.com/us/search?term=Charles+Lloyd+%26+The+Marvels+You+Are+So+Beautiful,Regal + Kurt,
 Chet Baker,Almost Blue,50,2026-10-28T15:58:04Z,Open Channel,Jazz,Chet Baker in Tokyo (The Complete Concert),,https://music.apple.com/us/album/almost-blue/1468200318?i=1468200423,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/53/28/ab5328ba-0f62-53a6-4f78-c93138e7cc73/859730742748.png/100x100bb.jpg
 Chic,Good Times  (2018 Remaster),78,2026-10-28T15:49:51Z,Open Channel,Dance,C'est Chic (2018 Remaster),,https://music.apple.com/us/search?term=Chic+Good+Times++%282018+Remaster%29,Regal + Kurt,
 Grimes,Oblivion,6,2026-10-28T15:45:34Z,Open Channel,Electronic,Visions,,https://music.apple.com/us/album/oblivion/503959961?i=499875050,Regal + Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/07/53/5e0753c1-f3fb-e464-908f-8efc0a249b9b/652637320886.png/100x100bb.jpg
@@ -390,7 +393,6 @@ Tlahoun Gessesse,Tchuheten Betsemu,36,2026-10-27T10:08:46Z,,Worldwide,"Éthiopiq
 Donna De Lory,Praying For Love,9,2026-10-27T10:04:16Z,,Pop,The Unchanging,,,Kurt,
 TV Girl,Hate Yourself,9,2026-10-27T10:00:16Z,,Pop,French Exit,,,Kurt,
 Foster The People,Sit Next to Me,14,2026-10-27T09:56:16Z,,Alternative,Sacred Hearts Club,,,Kurt,
-Charles Lloyd,You Are So Beautiful,4,2026-10-27T09:52:16Z,,Jazz,I Long to See You,,,Kurt,
 Cocteau Twins,Whales Tails,30,2026-10-27T09:48:46Z,,Alternative,Victorialand,,,Kurt,
 Mark Hollis,The Colour Of Spring,24,2026-10-27T09:44:46Z,,Rock,Mark Hollis,,,Kurt,
 Duran Duran,Notorious  (2010 Remaster),7,2026-10-27T09:40:16Z,,Pop,Notorious - EP,,,Kurt,
@@ -1041,7 +1043,6 @@ USA for Africa,We Are The World,45,2026-10-24T15:48:46Z,,Rock,We Are the World -
 RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),26,2026-10-24T15:22:42Z,,Electronic,Live from Joshua Tree,,,Kurt,
 The Orb,Blue Room  (Live),17,2026-10-24T15:14:42Z,,Electronic,U.F.OFF: The Best of the Orb,,,Kurt,
 Billy Joel,Scenes from an Italian Restaurant (Album Version),17,2026-10-24T15:07:13Z,,Rock,The Stranger,,,Kurt,
-D'Angelo,Untitled (How Does It Feel),130,2026-10-24T14:59:42Z,,Pop,Voodoo,,,Kurt,
 Leonard Bernstein,Candide: Overture,2,2026-10-24T14:49:12Z,,Classical,Bernstein: Candide,,,Kurt,
 Johnny Cash,Folsom Prison Blues,15,2026-10-24T14:46:12Z,,Country,All Aboard the Blue Train (Definitive Expanded Remastered Edition),,,Kurt,
 Leonard Cohen,Avalanche,20,2026-10-24T14:40:42Z,,Pop,Songs of Love and Hate,,,Kurt,
@@ -1333,7 +1334,6 @@ Roy Orbison,"Oh, Pretty Woman",23,2026-10-22T19:08:51Z,,Rock,Oh! Pretty Woman,,,
 Etta James,At Last,13,2026-10-22T19:01:51Z,,Blues,At Last!,,,Kurt,
 Nat King Cole,Nature Boy,46,2026-10-22T18:58:21Z,,Pop,The Nat King Cole Story,,,Kurt,
 The Carpenters,(They Long To Be) Close To You,17,2026-10-22T18:54:21Z,,Pop,Close To You,,,Kurt,
-The Dave Brubeck Quartet,Take Five,53,2026-10-22T18:48:21Z,,Jazz,Time Out,,,Kurt,
 Bruce Springsteen,Streets of Philadelphia  (Single Edit),23,2026-10-22T18:40:21Z,,Rock,Greatest Hits,,,Kurt,
 Patti Smith,Wing,1,2026-10-22T18:35:21Z,,Rock,Land (1975-2002),,,Kurt,
 Patti Smith Group,Dancing Barefoot,1,2026-10-22T18:30:22Z,,Rock,Wave (1996 Remaster),,,Kurt,
@@ -1821,46 +1821,46 @@ Database,Vice II,2,2026-10-09T11:05:01Z,,Electronic,Kitsuné: New Disco - Single
 Euology,Logic,5,2026-10-09T09:21:31Z,,Downtempo,Logic - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/fa/f2/8ffaf22a-cfe5-b87f-86a7-be27cb7435b8/artwork.jpg/100x100bb.jpg
 Khruangbin,Friday Morning,91,2026-10-09T08:35:32Z,,Indie Rock,Con Todo El Mundo,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/67/2e/17672e3b-9d01-2d5e-9b43-38f44b40f654/656605145365.jpg/100x100bb.jpg
 Petit Biscuit,Sunset Lover,156,2026-10-09T07:19:00Z,,Electronic,Petit Biscuit - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/1c/93/781c934a-c233-cfce-39db-31f7284969b4/cover.jpg/100x100bb.jpg
-Solarstone,Evensong,11,2026-10-09T04:49:29Z,,,,,,Kurt,
-Djivan Gasparyan,They Took My Love Away,2,2026-10-09T03:21:57Z,,,,,,Kurt,
-P!nk,Please Don't Leave Me,2,2026-10-09T03:01:57Z,,,,,,Kurt,
-Bush,Everything Zen (Remastered),4,2026-10-09T02:29:27Z,,,,,,Kurt,
-The Green,Love I,5,2026-10-09T01:40:26Z,,,,,,Kurt,
-Ben&Ben,Maybe The Night,30,2026-10-08T16:41:53Z,,,,,,Kurt,
-Taeko Onuki,4:00 A.M.,18,2026-10-08T15:07:53Z,,,,,,Kurt,
-Murray Head,One Night In Bangkok (From “Chess” / Remastered 2016),19,2026-10-08T13:06:23Z,,,,,,Kurt,
-Shakatak,Night Birds,24,2026-10-08T04:45:20Z,,,,,,Kurt,
-King Crimson,In the Court of the Crimson King (Abridged),19,2026-10-07T22:28:45Z,,,,,,Kurt,
-ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),42,2026-10-07T15:38:42Z,,,,,,Kurt,
-Peggy Gou,Starry Night,164,2026-10-07T15:13:12Z,,,,,,Kurt,
-Taylor Swift,Cruel Summer,134,2026-10-07T00:48:36Z,,,,,,Kurt,
-Kendrick Lamar,Not Like Us,82,2026-10-06T23:17:05Z,,,,,,Kurt,
-Bee Gees,"Night Fever (From ""Saturday Night Fever"" Soundtrack)",19,2026-10-06T16:28:32Z,,,,,,Kurt,
-Supernova,Chewbaca,2,2026-10-06T14:30:03Z,,,,,,Kurt,
-U2,New Year's Day (Remastered 2008),3,2026-10-06T13:34:32Z,,,,,,Kurt,
-Michael Jackson,Who Is It,4,2026-10-06T12:08:01Z,,,,,,Kurt,
-Mr.Kitty,After Dark,10,2026-10-06T08:49:59Z,,,,,,Kurt,
-Ashra,Midnight On Mars,16,2026-10-06T06:08:56Z,,,,,,Kurt,
-Sea Power,"Whirling-In-Rags, 8 AM",30,2026-10-06T05:11:56Z,,,,,,Kurt,
-Jerry Cantrell,Rooster (2022 Remaster),12,2026-10-05T22:21:48Z,,,,,,Kurt,
-Pink Floyd,Money,9,2026-10-05T20:11:47Z,,,,,,Kurt,
-New Order,Blue Monday  (2016 Remaster),15,2026-10-05T16:46:14Z,,,,,,Kurt,
-Fredo Bang,Oouuh,3,2026-10-04T23:20:05Z,,,,,,Kurt,
-JAY1,Your Mrs,3,2026-10-04T23:17:04Z,,,,,,Kurt,
-Kiss,Rock And Roll All Nite,4,2026-10-04T14:54:34Z,,,,,,Kurt,
-Stevie Wonder,Summer Soft,31,2026-10-04T13:50:03Z,,,,,,Kurt,
-Alestorm,Keelhauled,9,2026-10-03T06:59:54Z,,,,,,Kurt,
-8-Bit Arcade,"The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation)",4,2026-10-03T04:35:23Z,,,,,,Kurt,
-La Fenice,Le Chant des oiseaux,1,2026-10-02T15:12:53Z,,,,,,Kurt,
-William Fitzsimmons,I Don't Feel It Anymore (Song of the Sparrow) (Remastered),12,2026-10-02T11:37:53Z,,,,,,Kurt,
-The Jetzons,When the Sun Goes Down,14,2026-10-02T05:22:52Z,,,,,,Kurt,
-The Weeknd,Secrets,7,2026-10-02T04:10:50Z,,,,,,Kurt,
-Thelonious Monk,'Round Midnight (Remastered 2013),94,2026-10-01T19:01:43Z,,,,,,Kurt,
-Nat King Cole,Autumn Leaves,6,2026-10-01T04:02:40Z,,,,,,Kurt,
-David Bowie,Dollar Days,18,2026-09-30T17:09:04Z,,,,,,Kurt,
-Stevie Wonder,Happy Birthday,8,2026-09-29T18:47:57Z,,,,,,Kurt,
-The Animals,The House of the Rising Sun,4,2026-09-29T16:09:27Z,,,,,,Kurt,
-Tom Lehrer,Poisoning Pigeons in the Park,11,2026-09-29T16:02:27Z,,,,,,Kurt,
+Solarstone,Evensong,11,2026-10-09T04:49:29Z,,Dance,Evensong - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/9a/70/ed9a7032-bd73-ff5b-208f-cb8f2d8d739c/8718525330152.png/100x100bb.jpg
+Djivan Gasparyan,They Took My Love Away,2,2026-10-09T03:21:57Z,,Worldwide,Moon Shines at Night,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/d1/7c/69d17c64-853f-b2a9-98cc-7c638229f2bf/0801061301309.png/100x100bb.jpg
+P!nk,Please Don't Leave Me,2,2026-10-09T03:01:57Z,,Pop,Funhouse (Deluxe Version),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/0b/56/180b566d-09b1-0510-cbc7-b35440b93f73/196874514603.jpg/100x100bb.jpg
+Bush,Everything Zen (Remastered),4,2026-10-09T02:29:27Z,,Rock,Sixteen Stone (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/10/83/ad1083d4-6a79-8f5e-aad5-665a58df2615/17UMGIM79375.rgb.jpg/100x100bb.jpg
+The Green,Love I,5,2026-10-09T01:40:26Z,,Reggae,The Green,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/b3/dc/cdb3dc95-bb12-c1e9-8534-c2e11c6c115a/195039168385_cover.jpg/100x100bb.jpg
+Ben&Ben,Maybe The Night,30,2026-10-08T16:41:53Z,,Pop,Nine,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/a3/a8/b7a3a8cf-0775-a779-7754-7fbdf1acd7e7/196874763414.jpg/100x100bb.jpg
+Taeko Onuki,4:00 A.M.,18,2026-10-08T15:07:53Z,,J-Pop,Mignonne (Mastered by Bernie Grundman),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/9c/45/839c451c-4a4c-45f1-2bc8-1f5e41800434/4560427466828.jpg/100x100bb.jpg
+Murray Head,One Night In Bangkok (From “Chess” / Remastered 2016),19,2026-10-08T13:06:23Z,,Musicals,One Night in Bangkok (Radio Edit / From “Chess” / Remastered 2016) - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c8/ae/ffc8ae6b-8b94-b6f1-eb61-e16d8951b472/00602547835215.rgb.jpg/100x100bb.jpg
+Shakatak,Night Birds,24,2026-10-08T04:45:20Z,,Pop,Night Birds,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/5d/8d/b05d8d2f-95a9-b5c5-bfff-4e8cf7527640/mzi.wrrzbuau.jpg/100x100bb.jpg
+King Crimson,In the Court of the Crimson King (Abridged),19,2026-10-07T22:28:45Z,,Rock,The Condensed 21st Century Guide to King Crimson (1969 - 2003),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/91/77/9f91779b-dfd0-a972-3bc0-70fbf6a512d8/633367884121.png/100x100bb.jpg
+ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),42,2026-10-07T15:38:42Z,,Pop,ABBA Gold: Greatest Hits,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/100x100bb.jpg
+Peggy Gou,Starry Night,164,2026-10-07T15:13:12Z,,Dance,Moment - EP,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/49/7b/23497b16-d816-d167-66b1-82c3f97885f3/5060670882394.jpg/100x100bb.jpg
+Taylor Swift,Cruel Summer,134,2026-10-07T00:48:36Z,,Pop,Lover,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg
+Kendrick Lamar,Not Like Us,82,2026-10-06T23:17:05Z,,Hip-Hop/Rap,Not Like Us - Single,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/100x100bb.jpg
+Bee Gees,"Night Fever (From ""Saturday Night Fever"" Soundtrack)",19,2026-10-06T16:28:32Z,,Pop,Saturday Night Fever (The Original Movie Soundtrack),Saturday Night Fever (The Original Movie Soundtrack),,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/100x100bb.jpg
+Supernova,Chewbaca,2,2026-10-06T14:30:03Z,,Alternative,Pop As a Weapon,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/43/6a/5d436af6-9f8a-16a8-5878-77454b7f9dc7/881034453488.jpg/100x100bb.jpg
+U2,New Year's Day (Remastered 2008),3,2026-10-06T13:34:32Z,,Rock,War,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/0a/0d/6b0a0d5b-2831-06e9-3471-3befad197c1d/17UMGIM87714.rgb.jpg/100x100bb.jpg
+Michael Jackson,Who Is It,4,2026-10-06T12:08:01Z,,Pop,Dangerous,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/68/f9/cf68f9d4-e395-9ced-3e50-8cf7f1f9d3e0/884977307832.jpg/100x100bb.jpg
+Mr.Kitty,After Dark,10,2026-10-06T08:49:59Z,,Alternative,Time,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/5d/c6/ce5dc65e-6dac-bb8a-daaf-72bf77d0ba75/616450974909.png/100x100bb.jpg
+Ashra,Midnight On Mars,16,2026-10-06T06:08:56Z,,Rock,Blackouts,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/fd/90/8ffd901a-25ff-bd44-ff32-25a1d079d3c2/05099968879952.jpg/100x100bb.jpg
+Sea Power,"Whirling-In-Rags, 8 AM",30,2026-10-06T05:11:56Z,,Video Game,Disco Elysium,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/05/30/ce053024-6253-93a3-12a6-492e36c95cbc/5060079269147.jpg/100x100bb.jpg
+Jerry Cantrell,Rooster (2022 Remaster),12,2026-10-05T22:21:48Z,,Alternative,Dirt (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/100x100bb.jpg
+Pink Floyd,Money,9,2026-10-05T20:11:47Z,,Rock,Echoes: The Best of Pink Floyd,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/6e/ba/be6ebade-739e-fc43-e430-e20162645c65/886445613940.jpg/100x100bb.jpg
+New Order,Blue Monday  (2016 Remaster),15,2026-10-05T16:46:14Z,,Alternative,iTunes Originals: New Order,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/2e/2d/312e2da7-6277-3f91-221a-bc0739a8183b/mzi.kjsrfisp.jpg/100x100bb.jpg
+Fredo Bang,Oouuh,3,2026-10-04T23:20:05Z,,Hip-Hop/Rap,2 Face Bang,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/1a/c1/7d1ac139-7b51-d6b1-4e70-ca8a616cf7f5/193483151489_Cover.jpg/100x100bb.jpg
+JAY1,Your Mrs,3,2026-10-04T23:17:04Z,,Hip-Hop/Rap,Sorry I'm Late,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/1c/bb/9a1cbbbc-4a61-e06d-726c-083ab80ec24a/0.jpg/100x100bb.jpg
+Kiss,Rock And Roll All Nite,4,2026-10-04T14:54:34Z,,Hard Rock,Greatest Kiss,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/82/dc/5a82dc38-bbaf-0444-a928-5e851bd07d78/14UMGIM16164.rgb.jpg/100x100bb.jpg
+Stevie Wonder,Summer Soft,31,2026-10-04T13:50:03Z,,R&B/Soul,Songs in the Key of Life,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg
+Alestorm,Keelhauled,9,2026-10-03T06:59:54Z,,Metal,Black Sails at Midnight,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/99/ba/9a99babe-c011-116b-6266-3ea44cc60177/819224015024.jpg/100x100bb.jpg
+8-Bit Arcade,"The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation)",4,2026-10-03T04:35:23Z,,Alternative,The Mountain,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/100x100bb.jpg
+La Fenice,Le Chant des oiseaux,1,2026-10-02T15:12:53Z,,Classical,Natura amorosa,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/08/8c/d3/088cd33e-b2d9-2c21-8660-6372d2f48901/3487549903462_cover.jpg/100x100bb.jpg
+William Fitzsimmons,I Don't Feel It Anymore (Song of the Sparrow) (Remastered),12,2026-10-02T11:37:53Z,,Traditional Folk,The Sparrow and the Crow,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/5d/79/9d5d7950-5da9-9a7a-2d2e-db829fff5e62/859780750823_cover.jpg/100x100bb.jpg
+The Jetzons,When the Sun Goes Down,14,2026-10-02T05:22:52Z,,Country,When the Sun Goes Down,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/28/f5/27/28f5277d-5c64-ec46-8de1-582dc7e002f9/dj.sxriubhh.jpg/100x100bb.jpg
+The Weeknd,Secrets,7,2026-10-02T04:10:50Z,,R&B/Soul,Starboy,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/100x100bb.jpg
+Thelonious Monk,'Round Midnight (Remastered 2013),94,2026-10-01T19:01:43Z,,Jazz,The Best of Thelonious Monk (Remastered),,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/3d/1b/773d1bf4-29e0-f5ed-a0e8-c3772671f325/00025218350624.rgb.jpg/100x100bb.jpg
+Nat King Cole,Autumn Leaves,6,2026-10-01T04:02:40Z,,Jazz,The World of Nat King Cole,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/66/cf/3066cf5e-d0ad-d373-842e-29197c0902c8/13UABIM74014.rgb.jpg/100x100bb.jpg
+David Bowie,Dollar Days,18,2026-09-30T17:09:04Z,,Rock,Blackstar,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/c9/0d/cdc90daa-b426-916f-163a-1ff65a6f4108/5054197573972.jpg/100x100bb.jpg
+Stevie Wonder,Happy Birthday,8,2026-09-29T18:47:57Z,,R&B/Soul,Hotter Than July,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/71/7e/10717e68-72d1-e3ce-6173-a920506bf797/00602537779482.rgb.jpg/100x100bb.jpg
+The Animals,The House of the Rising Sun,4,2026-09-29T16:09:27Z,,British Invasion,Retrospective,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/3d/40/833d4083-c018-f1bf-5b30-707aa7c2557c/06PNDIM00281.rgb.jpg/100x100bb.jpg
+Tom Lehrer,Poisoning Pigeons in the Park,11,2026-09-29T16:02:27Z,,Rock,More of Tom Lehrer,,,Kurt,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/1e/4a/421e4a3e-97e7-5b58-a151-10a4411cd11b/655466786731.jpg/100x100bb.jpg
 Various Interprets,At Last,5,2026-09-27T15:48:14Z,,,,,,Kurt,
 Baby Face Willette,At Last,9,2026-09-26T09:07:56Z,,,,,,Kurt,
 Knocked Loose,Mistakes Like Fractures,8,2026-09-25T20:23:49Z,,,,,,Kurt,
