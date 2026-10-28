@@ -9,8 +9,28 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Aphex Twin|Xtal": {
+"album": "Selected Ambient Works 85-92",
+"film_hint": "",
+"genre": "Electronic"
+},
 "Auringon Lapset|Etäpäivä": {
 "album": "Hittibiisien Kaatopaikka - EP",
+"film_hint": "",
+"genre": "Pop"
+},
+"Black Sabbath|Paranoid": {
+"album": "Paranoid",
+"film_hint": "",
+"genre": "Metal"
+},
+"Blondie|Call Me": {
+"album": "Call Me - EP",
+"film_hint": "",
+"genre": "Disco"
+},
+"Blur|Song 2": {
+"album": "Blur",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -54,6 +74,31 @@
 "film_hint": "",
 "genre": "Country"
 },
+"Daft Punk|Voyager": {
+"album": "Discovery",
+"film_hint": "",
+"genre": "Dance"
+},
+"De La Soul|Me Myself and I": {
+"album": "3 Feet High and Rising",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
+"Dennis Edwards|Don't Look Any Further (Single Version)": {
+"album": "20th Century Masters - The Millennium Collection: The Best of Motown '80s, Vol. 1",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Eagles|I Can't Tell You Why  (2013 Remaster)": {
+"album": "To the Limit: The Essential Collection",
+"film_hint": "",
+"genre": "Rock"
+},
+"Earth, Wind & Fire|September": {
+"album": "The Best Of Earth, Wind & Fire Vol. 1",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
 "Ed Maverick|lagunas": {
 "album": "",
 "film_hint": "",
@@ -83,6 +128,31 @@
 "album": "Back On the Streets (Bonus Track Version)",
 "film_hint": "",
 "genre": "Rock"
+},
+"Grace Jones|I've Seen That Face Before (Libertango)": {
+"album": "Nightclubbing",
+"film_hint": "",
+"genre": "Dance"
+},
+"Grand Corps Malade|Mais je t'aime": {
+"album": "Mesdames",
+"film_hint": "",
+"genre": "French Pop"
+},
+"Gregory Alan Isakov|Big Black Car": {
+"album": "This Empty Northern Hemisphere",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Grethe & Jørgen Ingmann|Dansevise": {
+"album": "Grethe & Jørgen Ingmann - De Bedste",
+"film_hint": "",
+"genre": "Pop"
+},
+"Groove Armada|At the River": {
+"album": "Vertigo",
+"film_hint": "",
+"genre": "Dance"
 },
 "Gustavo Cerati|Puente": {
 "album": "Bocanada",
@@ -123,6 +193,11 @@
 "album": "In a Decade (Live at Elbphilharmonie)",
 "film_hint": "",
 "genre": "Pop"
+},
+"INXS|Never Tear Us Apart": {
+"album": "The Best of INXS",
+"film_hint": "",
+"genre": "Rock"
 },
 "Iron & Wine|Naked as We Came": {
 "album": "Our Endless Numbered Days",
@@ -199,6 +274,26 @@
 "film_hint": "",
 "genre": "J-Pop"
 },
+"Montaigne|Technicolour": {
+"album": "Technicolour - Single",
+"film_hint": "",
+"genre": "Pop"
+},
+"Mort Garson|Plantasia": {
+"album": "Mother Earth's Plantasia",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Niko B|Who's That What's That": {
+"album": "dog eat dog food world",
+"film_hint": "",
+"genre": "Hip-Hop/Rap"
+},
+"Nine Inch Nails|Hurt": {
+"album": "The Downward Spiral",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Orchestral Manoeuvres in the dark (OMD)|If You Leave (From \"Pretty In Pink\" Soundtrack)": {
 "album": "Pretty In Pink (Original Motion Picture Soundtrack)",
 "film_hint": "Pretty In Pink (Original Motion Picture Soundtrack)",
@@ -234,6 +329,31 @@
 "film_hint": "This War of Mine (Original Game Soundtrack)",
 "genre": "Video Game"
 },
+"Portishead|Glory Box (Album Version)": {
+"album": "The Wanderings of the Avener",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Queensrÿche|Silent Lucidity (Remastered 2003)": {
+"album": "Empire (Remastered) [Expanded Edition]",
+"film_hint": "",
+"genre": "Hard Rock"
+},
+"Queen|Somebody To Love": {
+"album": "A Day At The Races (Deluxe Edition)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Reba McEntire|Fancy": {
+"album": "Reba McEntire: Greatest Hits, Vol. 2",
+"film_hint": "",
+"genre": "Pop"
+},
+"Red Hot Chili Peppers|Californication": {
+"album": "Californication (Remastered)",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Rodrigo Leão|Pasión (Album Version)": {
 "album": "Alma Mater",
 "film_hint": "",
@@ -244,6 +364,11 @@
 "film_hint": "",
 "genre": "Guitar"
 },
+"Sabaton|The Last Stand": {
+"album": "The Last Stand",
+"film_hint": "",
+"genre": "Metal"
+},
 "Santana|Black Magic Woman": {
 "album": "Ultimate Santana",
 "film_hint": "",
@@ -253,6 +378,11 @@
 "album": "Apropa't",
 "film_hint": "",
 "genre": "Alternative"
+},
+"Scorpions|Still Loving You (2011 Version)": {
+"album": "Bad for Good: The Very Best of Scorpions",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Sergio Mendes|Berimbau/Consolacao (Album Version)": {
 "album": "Timeless",
@@ -274,15 +404,50 @@
 "film_hint": "",
 "genre": "Classical"
 },
+"Slowdive|Alison": {
+"album": "Souvlaki",
+"film_hint": "",
+"genre": "Alternative"
+},
+"St Germain|Rose rouge": {
+"album": "Tourist (Remastered) [Deluxe Version]",
+"film_hint": "",
+"genre": "Dance"
+},
 "Stars of the Lid|Requiem for Dying Mothers, Pt. 1": {
 "album": "The Tired Sounds of Stars of the Lid",
 "film_hint": "",
 "genre": "Alternative"
 },
+"Stealers Wheel|Stuck In The Middle With You": {
+"album": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+"film_hint": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+"genre": "Pop"
+},
 "Steve Roach|Living the Dream": {
 "album": "Life Sequence (Deluxe Edition)",
 "film_hint": "",
 "genre": "Electronic"
+},
+"Sufjan Stevens|Casimir Pulaski Day": {
+"album": "Illinois",
+"film_hint": "",
+"genre": "Alternative"
+},
+"Sun Ra|Images": {
+"album": "Space Is the Place",
+"film_hint": "",
+"genre": "Jazz"
+},
+"THE TEARDROP EXPLODES|Reward": {
+"album": "Culture Bunker 1978 - 82",
+"film_hint": "",
+"genre": "Alternative"
+},
+"TOOL|Lateralus": {
+"album": "Lateralus",
+"film_hint": "",
+"genre": "Metal"
 },
 "Tangerine Dream|Love On A Real Train": {
 "album": "Hyperborea",
@@ -294,20 +459,80 @@
 "film_hint": "",
 "genre": "Electronic"
 },
+"Tears For Fears|Mad World": {
+"album": "The Hurting (Remastered)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Teresa Teng|月亮代表我的心": {
+"album": "天國的情人 - 鄧麗君逝世十周年紀念聲影存集  (10th Anniversary)",
+"film_hint": "",
+"genre": "Mandopop"
+},
 "The Korgis|Everybody's Got To Learn Sometime": {
 "album": "",
 "film_hint": "",
 "genre": ""
+},
+"The Velvet Underground|Sweet Jane   (Full Length Version; 2015 Remaster)": {
+"album": "New York (Deluxe Edition)",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The War On Drugs|Under The Pressure": {
+"album": "Lost In the Dream",
+"film_hint": "",
+"genre": "Alternative"
+},
+"The White Stripes|Seven Nation Army": {
+"album": "Elephant",
+"film_hint": "",
+"genre": "Rock"
+},
+"Tim Cappello|I Still Believe": {
+"album": "The Lost Boys (Original Motion Picture Soundtrack)",
+"film_hint": "The Lost Boys (Original Motion Picture Soundtrack)",
+"genre": "Soundtrack"
+},
+"Tim Hecker|In the Fog I": {
+"album": "Ravedeath, 1972",
+"film_hint": "",
+"genre": "Electronic"
+},
+"Tina Turner|The Best": {
+"album": "All the Best: The Hits",
+"film_hint": "",
+"genre": "R&B/Soul"
+},
+"Tom Petty|I Won't Back Down": {
+"album": "Full Moon Fever",
+"film_hint": "",
+"genre": "Rock"
 },
 "Wax Tailor|Seize The Day": {
 "album": "Seize the Day (feat. Charlotte Savary) - Single",
 "film_hint": "",
 "genre": "Dance"
 },
+"Whitesnake|Still Of The Night (2018 Remaster)": {
+"album": "Whitesnake (2018 Remaster)",
+"film_hint": "",
+"genre": "Rock"
+},
+"Yes|Mood for a Day  (2008 Remaster)": {
+"album": "Fragile (Super Deluxe)",
+"film_hint": "",
+"genre": "Rock"
+},
 "Zeynep Bastık|Her Yerde Sen (Akustik)": {
 "album": "Akustikler - EP",
 "film_hint": "",
 "genre": "Turkish Pop"
+},
+"toe|Goodbye (Live)": {
+"album": "The Radio in My Head: Live at 54 Below",
+"film_hint": "",
+"genre": "Pop"
 },
 "Ólafur Arnalds|saman": {
 "album": "Olafur Arnalds: saman - Single",
