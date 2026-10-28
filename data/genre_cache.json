@@ -65,6 +65,7 @@
 },
 "ABBA|Don't Shut Me Down": {
 "album": "Voyage",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/59/c9/d959c92f-045d-44e4-7a20-f1e36fa46135/21UMGIM85473.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -155,6 +156,7 @@
 },
 "Adriano Celentano|Prisencolinensinainciusol": {
 "album": "Nostalrock",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/cd/00/95cd009a-4956-cdec-ac73-080de0d80863/3259130004878.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -403,6 +405,7 @@
 },
 "Andrew W.K.|Party Hard (Album Version)": {
 "album": "I Get Wet",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/02/ff/1f02ff4f-0207-28b9-f8f9-0b1ec05e7ba0/06UMGIM08255.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -605,6 +608,7 @@
 },
 "Ashra|Sunrain": {
 "album": "New Age of Earth",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/cb/80/82cb8026-99cb-540b-033a-58b7bb1c87ee/00077778708056.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1031,6 +1035,7 @@
 },
 "Billy Joel|Vienna (Album Version)": {
 "album": "The Stranger",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -1125,6 +1130,7 @@
 },
 "Blue Öyster Cult|(Don't Fear) The Reaper": {
 "album": "Larry the Cable Guy: Health Inspector (Music from the Motion Picture)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/9f/0a/11/mzi.niymnxev.jpg/100x100bb.jpg",
 "film_hint": "Larry the Cable Guy: Health Inspector (Music from the Motion Picture)",
 "genre": "Soundtrack"
 },
@@ -1198,6 +1204,7 @@
 },
 "Bobby Hutcherson|Stardust": {
 "album": "Stardust (Remastered) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d6/6d/d1/d66dd141-4e73-328d-e158-b8145f99adaa/Bobby_Hackett_-_Stardust.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Vocal"
 },
@@ -1355,6 +1362,7 @@
 },
 "Breakestra|Back At The Boathouse": {
 "album": "Dusk Till Dawn",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/7c/53/ea7c53d8-b283-a5bc-0d2f-7bdb599720ce/0730003304842.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Funk"
 },
@@ -1861,6 +1869,7 @@
 },
 "Christopher Cross|I Really Don't Know Anymore  (2019 Remaster)": {
 "album": "Christopher Cross (2019 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/67/7c/68677c9f-8c6c-2c8c-e5a2-4cc4d20dddb7/8721093378327_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Adult Contemporary"
 },
@@ -2198,6 +2207,7 @@
 },
 "Daikaiju|Magic Wanda": {
 "album": "Phase 3",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/1d/64/0f1d64a8-1f84-572d-be58-6aa67c48e43c/859770369578_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2468,6 +2478,7 @@
 },
 "Dire Straits|Sultans of Swing": {
 "album": "Dire Straits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/47/c3/21/mzi.ciyzkqao.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2515,6 +2526,7 @@
 },
 "Djo|End of Beginning": {
 "album": "DECIDE",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/58/bb/9d58bb3a-c6b5-4c3d-fbba-50872d2712f4/5056494917336.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -2629,6 +2641,7 @@
 },
 "Dua Lipa|Houdini": {
 "album": "Houdini - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/af/ea/ddafeab5-797a-5b6f-7735-f96c537b45e0/5054197894091.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2738,6 +2751,7 @@
 },
 "Echo And The Bunnymen|The Killing Moon": {
 "album": "Songs to Learn and Sing",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d24/h19/s06.lvrsdyzz.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3197,6 +3211,7 @@
 },
 "Fleetwood Mac|Go Your Own Way  (2004 Remaster)": {
 "album": "Rumours (Super Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3340,6 +3355,7 @@
 },
 "Free|Wild Indian Woman": {
 "album": "Tons of Sobs (Bonus Track Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/98/f3/e698f309-65dd-1e3b-6fd1-de168a3135e1/00602547053862.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3771,6 +3787,7 @@
 },
 "Grover Washington Jr.|Mister Magic": {
 "album": "Mister Magic",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/b5/34/afb534ed-9620-1e0e-75da-af5f6c675ad4/06UMGIM07597.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -4032,6 +4049,7 @@
 },
 "Herbert Grönemeyer|Mensch": {
 "album": "I Walk",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/45/f3/ee45f319-b2df-a3f6-c700-a72e48c2b009/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -4059,6 +4077,7 @@
 },
 "Hiatus Kaiyote|By Fire": {
 "album": "Choose Your Weapon",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/04/1a/ac041a3a-ac40-3820-01f0-982615c30c37/dj.fnoymdtg.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4155,6 +4174,7 @@
 },
 "Huey Lewis And The News|Hip To Be Square": {
 "album": "Greatest Hits (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/da/b3/00dab3f6-5b8a-de2b-9399-0d40984807ea/13UABIM54788.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -5009,6 +5029,7 @@
 },
 "Khalid|please don't call (333)": {
 "album": "after the sun goes down",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/60/02/d060028d-d39c-2ea4-5af3-cc8b18fb14f8/196873591797.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -5143,6 +5164,7 @@
 },
 "Kraftwerk|Trans-Europe Express  (2009 Remaster)": {
 "album": "Trans-Europe Express (2009 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/80/bc/e280bcf9-4048-8c42-2b6b-d8b9c9bbed52/5099996602058_1500x1500_300dpi.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -5180,6 +5202,7 @@
 },
 "LP|Lost on You": {
 "album": "Lost On You",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/c7/5e/0ac75e45-0fbc-1648-cce0-65650163e4d7/4050538291827.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -5476,6 +5499,7 @@
 },
 "Lita Ford & Ozzy Osborne|Close My Eyes Forever": {
 "album": "Lita",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/a4/e6/10a4e6cb-9f42-354c-48dd-a66debf502a3/mzi.jfutyayf.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hard Rock"
 },
@@ -6148,6 +6172,7 @@
 },
 "Men At Work|Down Under": {
 "album": "Business As Usual",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/80/07/23/80072391-3543-cdb9-e298-08d5f0595f41/dj.uyepaoyc.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6617,6 +6642,7 @@
 },
 "Neil Diamond|Sweet Caroline": {
 "album": "50th Anniversary Collection",
+"artwork": "",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -6686,6 +6712,7 @@
 },
 "New Found Glory|My Friends Over You": {
 "album": "Sticks and Stones",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/3f/e5/c93fe578-bb2a-b169-62be-30764ed2e3f2/19UMGIM66997.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Punk"
 },
@@ -6868,6 +6895,7 @@
 },
 "Nusantara Beat|Sifat Manusia": {
 "album": "Sifat Manusia / Mang Becak - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/55/ee/fd55eed7-2516-122f-0814-2272f4ae4ea6/4062548110777.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -6895,6 +6923,7 @@
 },
 "Oasis|Live Forever": {
 "album": "Definitely Maybe",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/e7/ea/9fe7eac2-87dc-c1df-3333-dc30b82bdd74/5051961006100.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Indie Rock"
 },
@@ -7240,6 +7269,7 @@
 },
 "Pellek|Bohemian Rhapsody": {
 "album": "The Platinum Collection",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c7/55/15c755bc-7603-3ce3-e243-e59f1f9863ea/602527724171.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7377,6 +7407,7 @@
 },
 "Phoenix|Lisztomania": {
 "album": "Wolfgang Amadeus Phoenix",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/8d/ab/288dabdd-f8de-80f6-1aab-40a24cb1b33f/00892038002190_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7935,6 +7966,7 @@
 },
 "Roseanna Vitro|If I Didn't Have You (If I Didn't Have You)": {
 "album": "The Music of Randy Newman",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/45/09/d8/4509d816-8ce4-d218-4b83-eeeacdd6b21b/886446438474.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -8088,6 +8120,7 @@
 },
 "Sade|By Your Side  (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -8344,11 +8377,13 @@
 },
 "Side-A|Only You (There Will Never Be Another)": {
 "album": "18 Greatest Hits: Side A",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/44/45/36444595-0e56-923f-274f-8bda34b36935/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
 "Sigur Rós|Hoppípolla": {
 "album": "Takk...",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -8578,6 +8613,7 @@
 },
 "Sophie Hunger|Le vent nous portera": {
 "album": "1983",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/ae/d7/4a/dj.jmpyocqs.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9705,6 +9741,7 @@
 },
 "The Rah Band|Clouds Across the Moon": {
 "album": "The Very Best Of...",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/e2/cc/12/mzi.czxafjmh.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -9879,6 +9916,7 @@
 },
 "The Vampire Lestat|La Fontaine De Sang": {
 "album": "The Failures",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/8b/cb/908bcbdd-d5ab-22f8-019c-dec4cc6c5a69/780163695021.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -10264,6 +10302,7 @@
 },
 "Tori Amos|Winter": {
 "album": "A Tori Amos Collection - Tales of a Librarian",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/4a/1b/924a1b3a-7fb3-2681-7fd1-01ecbf7e8204/s02.xckeknns.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -10460,6 +10499,7 @@
 },
 "Various Interprets|Come Tomorrow (Duet With Barry Gibb (Album Version))": {
 "album": "",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -10767,6 +10807,7 @@
 },
 "gesunokiwamiotome|watashi igai watashi ja naino": {
 "album": "Sukinaratowanai",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fd/d5/20/fdd5202f-fe38-d4e8-e555-0e8f19fd567b/190295608965.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "J-Pop"
 },
