@@ -1,6 +1,6 @@
 Artist,Title,Type,Play Count Total,Play Count 30D,Play Count 24H,Last Played (UTC),Last Played (Vienna),Source
 ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),Shared,42,3,0,2026-10-07 15:38:42Z,2026-10-07 17:38:42 MESZ,Shared Library
-Alfa Mist,Organic Rust,Shared,110,5,0,2026-10-27 06:30:15Z,2026-10-27 07:30:15 MEZ,Shared Library
+Alfa Mist,Organic Rust,Shared,111,6,1,2026-10-29 13:06:52Z,2026-10-29 14:06:52 MEZ,Shared Library
 Amy Winehouse,Rehab,Shared,56,6,1,2026-10-29 08:37:22Z,2026-10-29 09:37:22 MEZ,Shared Library
 Aphex Twin,Windowlicker,Shared,25,1,0,2026-10-26 00:27:16Z,2026-10-26 01:27:16 MEZ,Shared Library
 Arctic Monkeys,Do I Wanna Know?,Shared,182,6,1,2026-10-29 11:18:22Z,2026-10-29 12:18:22 MEZ,Shared Library
@@ -26,7 +26,7 @@ Bob Dylan,The Lonesome Death of Hattie Carroll,Shared,46,5,0,2026-10-23 03:23:56
 Bob Marley & The Wailers,"Get Up, Stand Up",Shared,260,12,1,2026-10-29 12:04:22Z,2026-10-29 13:04:22 MEZ,Shared Library
 Bon Iver,Holocene,Shared,233,10,1,2026-10-29 02:41:51Z,2026-10-29 03:41:51 MEZ,Shared Library
 Bon Iver,Skinny Love,Shared,366,8,0,2026-10-28 03:56:18Z,2026-10-28 04:56:18 MEZ,Shared Library
-Bon Jovi,Livin' On A Prayer,Shared,145,8,0,2026-10-26 15:27:45Z,2026-10-26 16:27:45 MEZ,Shared Library
+Bon Jovi,Livin' On A Prayer,Shared,145,7,0,2026-10-26 15:27:45Z,2026-10-26 16:27:45 MEZ,Shared Library
 Bon Jovi,You Give Love A Bad Name,Shared,14,3,1,2026-10-28 18:07:19Z,2026-10-28 19:07:19 MEZ,Shared Library
 Boney M.,Gotta Go Home,Shared,61,7,0,2026-10-23 08:43:31Z,2026-10-23 10:43:31 MESZ,Shared Library
 Bonobo,Cirrus,Shared,130,7,1,2026-10-29 02:35:51Z,2026-10-29 03:35:51 MEZ,Shared Library
@@ -47,14 +47,14 @@ Chris De Burgh,The Getaway,Shared,10,6,0,2026-10-26 20:16:17Z,2026-10-26 21:16:1
 Confetti,People Suck [Explicit],Shared,3,0,0,2026-09-06 09:09:23Z,2026-09-06 11:09:23 MESZ,Shared Library
 Cyndi Lauper,All Through the Night,Shared,61,3,0,2026-10-14 22:47:57Z,2026-10-15 00:47:57 MESZ,Shared Library
 Daft Punk,"Harder, Better, Faster, Stronger",Shared,50,4,0,2026-10-22 00:31:17Z,2026-10-22 02:31:17 MESZ,Shared Library
-Daft Punk,One More Time,Shared,146,6,0,2026-10-26 16:33:45Z,2026-10-26 17:33:45 MEZ,Shared Library
+Daft Punk,One More Time,Shared,147,7,1,2026-10-29 16:19:22Z,2026-10-29 17:19:22 MEZ,Shared Library
 Darude,Sandstorm,Shared,27,4,0,2026-10-24 22:57:42Z,2026-10-25 00:57:42 MESZ,Shared Library
 Dasha,Austin (Boots Stop Workin'),Shared,13,4,0,2026-10-25 15:29:43Z,2026-10-25 16:29:43 MEZ,Shared Library
 David Bowie,Space Oddity,Shared,117,1,0,2026-10-25 23:13:13Z,2026-10-26 00:13:13 MEZ,Shared Library
-David Bowie,Starman  (2012 Remaster),Shared,32,5,0,2026-10-22 21:36:21Z,2026-10-22 23:36:21 MESZ,Shared Library
+David Bowie,Starman  (2012 Remaster),Shared,32,4,0,2026-10-22 21:36:21Z,2026-10-22 23:36:21 MESZ,Shared Library
 Dire Straits,Brothers in Arms,Shared,22,6,1,2026-10-29 09:41:52Z,2026-10-29 10:41:52 MEZ,Shared Library
 Dire Straits,Money for Nothing,Shared,21,4,0,2026-10-24 13:06:42Z,2026-10-24 15:06:42 MESZ,Shared Library
-Dire Straits,Sultans of Swing,Shared,77,7,0,2026-10-26 02:10:14Z,2026-10-26 03:10:14 MEZ,Shared Library
+Dire Straits,Sultans of Swing,Shared,78,8,1,2026-10-29 14:32:22Z,2026-10-29 15:32:22 MEZ,Shared Library
 Djo,End of Beginning,Shared,17,6,0,2026-10-26 04:07:44Z,2026-10-26 05:07:44 MEZ,Shared Library
 Dolly Parton,9 to 5,Shared,52,5,0,2026-10-25 23:28:13Z,2026-10-26 00:28:13 MEZ,Shared Library
 Dua Lipa,Future Nostalgia,Shared,62,6,0,2026-10-19 10:42:05Z,2026-10-19 12:42:05 MESZ,Shared Library
@@ -70,7 +70,7 @@ Erykah Badu,Bag Lady (Album Version),Shared,116,6,0,2026-10-27 09:21:16Z,2026-10
 Erykah Badu,On & On,Shared,119,6,0,2026-10-22 17:52:21Z,2026-10-22 19:52:21 MESZ,Shared Library
 Ethel Cain,Punish,Shared,12,4,0,2026-10-24 00:15:35Z,2026-10-24 02:15:35 MESZ,Shared Library
 Europe,The Final Countdown (Album Version),Shared,20,5,0,2026-10-26 11:11:46Z,2026-10-26 12:11:46 MEZ,Shared Library
-"Eurythmics, Annie Lennox, Dave Stewart",Sweet Dreams (Are Made of This) [2018 Remastered],Shared,52,10,0,2026-10-23 20:55:33Z,2026-10-23 22:55:33 MESZ,Shared Library
+"Eurythmics, Annie Lennox, Dave Stewart",Sweet Dreams (Are Made of This) [2018 Remastered],Shared,52,9,0,2026-10-23 20:55:33Z,2026-10-23 22:55:33 MESZ,Shared Library
 Fleet Foxes,White Winter Hymnal,Shared,74,5,0,2026-10-16 12:06:36Z,2026-10-16 14:06:36 MESZ,Shared Library
 Fleetwood Mac,Dreams  (2004 Remaster),Shared,84,5,0,2026-10-17 23:07:49Z,2026-10-18 01:07:49 MESZ,Shared Library
 Fleetwood Mac,Go Your Own Way  (2004 Remaster),Shared,50,6,0,2026-10-26 02:16:45Z,2026-10-26 03:16:45 MEZ,Shared Library
@@ -95,8 +95,8 @@ John Lennon,Imagine (Remastered 2010),Shared,123,5,1,2026-10-28 18:13:49Z,2026-1
 John Mayer,New Light,Shared,188,5,0,2026-10-27 17:52:47Z,2026-10-27 18:52:47 MEZ,Shared Library
 Johnny Cash,Redemption Day (Album Version),Shared,107,4,0,2026-10-22 14:09:20Z,2026-10-22 16:09:20 MESZ,Shared Library
 Journey,Lights (Album Version),Shared,16,8,1,2026-10-28 18:04:19Z,2026-10-28 19:04:19 MEZ,Shared Library
-Justice,D.A.N.C.E.,Shared,34,9,0,2026-10-28 10:01:49Z,2026-10-28 11:01:49 MEZ,Shared Library
-Katy Perry,Roar,Shared,110,3,0,2026-10-23 19:38:04Z,2026-10-23 21:38:04 MESZ,Shared Library
+Justice,D.A.N.C.E.,Shared,34,8,0,2026-10-28 10:01:49Z,2026-10-28 11:01:49 MEZ,Shared Library
+Katy Perry,Roar,Shared,110,2,0,2026-10-23 19:38:04Z,2026-10-23 21:38:04 MESZ,Shared Library
 Kendrick Lamar,Alright,Shared,173,4,0,2026-10-24 03:20:38Z,2026-10-24 05:20:38 MESZ,Shared Library
 Kendrick Lamar,Not Like Us,Shared,82,3,0,2026-10-06 23:17:05Z,2026-10-07 01:17:05 MESZ,Shared Library
 Kenny G,Songbird,Shared,147,1,0,2026-10-11 11:23:11Z,2026-10-11 13:23:11 MESZ,Shared Library
@@ -108,7 +108,7 @@ Kraftwerk,Trans-Europe Express  (2009 Remaster),Shared,32,5,0,2026-10-26 02:04:1
 Lana Del Rey,Diet Mountain Dew,Shared,34,7,0,2026-10-26 18:16:15Z,2026-10-26 19:16:15 MEZ,Shared Library
 Led Zeppelin,Over the Hills and Far Away  (Remaster),Shared,27,6,1,2026-10-29 11:27:22Z,2026-10-29 12:27:22 MEZ,Shared Library
 Led Zeppelin,Stairway to Heaven  (Remaster),Shared,115,3,1,2026-10-29 03:21:21Z,2026-10-29 04:21:21 MEZ,Shared Library
-Leon Bridges,Coming Home,Shared,108,10,1,2026-10-28 13:40:19Z,2026-10-28 14:40:19 MEZ,Shared Library
+Leon Bridges,Coming Home,Shared,108,10,0,2026-10-28 13:40:19Z,2026-10-28 14:40:19 MEZ,Shared Library
 Lianne La Havas,Unstoppable,Shared,86,8,1,2026-10-28 23:06:20Z,2026-10-29 00:06:20 MEZ,Shared Library
 Lil Jon,Get Low [Explicit],Shared,81,4,0,2026-10-21 16:43:16Z,2026-10-21 18:43:16 MESZ,Shared Library
 Lucy Dacus,Night Shift,Shared,163,2,0,2026-10-09 12:55:31Z,2026-10-09 14:55:31 MESZ,Shared Library
@@ -118,7 +118,7 @@ Marconi Union,Weightless,Shared,92,6,1,2026-10-29 09:03:52Z,2026-10-29 10:03:52 
 Mariah Carey,All I Want for Christmas Is You,Shared,25,0,0,2026-04-20 09:48:00Z,2026-04-20 11:48:00 MESZ,Shared Library
 Mariah Carey,O Holy Night,Shared,228,0,0,2026-04-30 06:20:58Z,2026-04-30 08:20:58 MESZ,Shared Library
 Marvin Gaye,What's Going On,Shared,288,6,0,2026-10-22 14:51:50Z,2026-10-22 16:51:50 MESZ,Shared Library
-Masego,Tadow,Shared,69,8,0,2026-10-28 12:26:19Z,2026-10-28 13:26:19 MEZ,Shared Library
+Masego,Tadow,Shared,69,7,0,2026-10-28 12:26:19Z,2026-10-28 13:26:19 MEZ,Shared Library
 Megadeth,Tipping Point,Shared,8,1,0,2026-10-20 22:36:43Z,2026-10-21 00:36:43 MESZ,Shared Library
 Michael Jackson,You Are Not Alone,Shared,288,4,0,2026-10-26 10:10:15Z,2026-10-26 11:10:15 MEZ,Shared Library
 Miley Cyrus,Flowers,Shared,9,4,0,2026-10-23 19:34:32Z,2026-10-23 21:34:32 MESZ,Shared Library
@@ -140,10 +140,10 @@ Petit Biscuit,Sunset Lover,Shared,156,4,0,2026-10-09 07:19:00Z,2026-10-09 09:19:
 Pink Floyd,"Another Brick in the Wall, Pt. 2",Shared,138,3,0,2026-10-18 12:35:26Z,2026-10-18 14:35:26 MESZ,Shared Library
 Pitbull,International Love,Shared,70,5,0,2026-10-22 20:41:51Z,2026-10-22 22:41:51 MESZ,Shared Library
 Pitbull,Timber,Shared,96,3,0,2026-10-09 11:28:01Z,2026-10-09 13:28:01 MESZ,Shared Library
-Queen,Bohemian Rhapsody (Remastered 2011),Shared,96,3,0,2026-10-21 00:22:44Z,2026-10-21 02:22:44 MESZ,Shared Library
+Queen,Bohemian Rhapsody (Remastered 2011),Shared,97,4,1,2026-10-29 14:52:53Z,2026-10-29 15:52:53 MEZ,Shared Library
 Queen,Don't Stop Me Now (Remastered 2011),Shared,76,3,0,2026-10-23 09:16:31Z,2026-10-23 11:16:31 MESZ,Shared Library
 Queen,Killer Queen (Remastered 2011),Shared,35,4,0,2026-10-22 15:05:20Z,2026-10-22 17:05:20 MESZ,Shared Library
-Queen,Under Pressure (Remastered 2011),Shared,30,6,0,2026-10-26 11:24:15Z,2026-10-26 12:24:15 MEZ,Shared Library
+Queen,Under Pressure (Remastered 2011),Shared,30,5,0,2026-10-26 11:24:15Z,2026-10-26 12:24:15 MEZ,Shared Library
 Radiohead,Weird Fishes / Arpeggi,Shared,316,9,0,2026-10-27 11:24:46Z,2026-10-27 12:24:46 MEZ,Shared Library
 RÜFÜS DU SOL,Innerbloom  (Live from Joshua Tree),Shared,26,2,0,2026-10-24 15:22:42Z,2026-10-24 17:22:42 MESZ,Shared Library
 Sabrina Carpenter,Espresso,Shared,112,3,0,2026-10-26 09:47:45Z,2026-10-26 10:47:45 MEZ,Shared Library
@@ -154,7 +154,7 @@ Side-A,Only You (There Will Never Be Another),Shared,8,3,0,2026-10-26 03:22:44Z,
 Simon & Garfunkel,The Sound of Silence  (Acoustic Version),Shared,117,4,0,2026-10-22 06:20:19Z,2026-10-22 08:20:19 MESZ,Shared Library
 Snarky Puppy,Lingus (Alternate Take),Shared,36,3,0,2026-10-23 17:14:02Z,2026-10-23 19:14:02 MESZ,Shared Library
 Soundgarden,Black Hole Sun,Shared,82,6,1,2026-10-29 11:44:52Z,2026-10-29 12:44:52 MEZ,Shared Library
-Sting,Fragile,Shared,33,4,0,2026-10-23 03:52:56Z,2026-10-23 05:52:56 MESZ,Shared Library
+Sting,Fragile,Shared,34,5,1,2026-10-29 13:42:22Z,2026-10-29 14:42:22 MEZ,Shared Library
 Supertramp,Even In The Quietest Moments,Shared,22,7,1,2026-10-29 05:43:51Z,2026-10-29 06:43:51 MEZ,Shared Library
 Survivor,Eye of the Tiger,Shared,24,7,0,2026-10-26 14:40:15Z,2026-10-26 15:40:15 MEZ,Shared Library
 SZA,Kill Bill,Shared,112,2,0,2026-10-16 13:26:06Z,2026-10-16 15:26:06 MESZ,Shared Library
@@ -165,14 +165,14 @@ Tate McRae,TIT FOR TAT,Shared,6,3,0,2026-10-25 19:53:13Z,2026-10-25 20:53:13 MEZ
 Taylor Swift,Cruel Summer,Shared,134,3,0,2026-10-07 00:48:36Z,2026-10-07 02:48:36 MESZ,Shared Library
 Teddy Swims,The Door,Shared,17,5,1,2026-10-29 00:27:50Z,2026-10-29 01:27:50 MEZ,Shared Library
 The Beach Boys,Good Vibrations (Stereo/Remastered 2012),Shared,29,5,0,2026-10-23 07:28:30Z,2026-10-23 09:28:30 MESZ,Shared Library
-The Beatles,Here Comes The Sun (2019 Mix),Shared,137,4,0,2026-10-14 00:19:40Z,2026-10-14 02:19:40 MESZ,Shared Library
+The Beatles,Here Comes The Sun (2019 Mix),Shared,137,3,0,2026-10-14 00:19:40Z,2026-10-14 02:19:40 MESZ,Shared Library
 The Beatles,Lucy In The Sky With Diamonds (Remastered 2009),Shared,32,3,0,2026-10-25 20:35:20Z,2026-10-25 21:35:20 MEZ,Shared Library
 The Beatles,Revolution 9 (Remastered 2009),Shared,6,0,0,2026-09-14 19:37:24Z,2026-09-14 21:37:24 MESZ,Shared Library
 The Beatles,Yesterday (Remastered),Shared,50,4,1,2026-10-29 04:58:51Z,2026-10-29 05:58:51 MEZ,Shared Library
 The Clash,London Calling,Shared,133,6,0,2026-10-22 23:29:52Z,2026-10-23 01:29:52 MESZ,Shared Library
 The Clash,Should I Stay or Should I Go (Remastered),Shared,50,6,0,2026-10-21 22:10:17Z,2026-10-22 00:10:17 MESZ,Shared Library
 The Cure,Pictures of You,Shared,38,7,0,2026-10-23 00:19:53Z,2026-10-23 02:19:53 MESZ,Shared Library
-The Dave Brubeck Quartet,Take Five,Shared,54,4,1,2026-10-28 16:08:20Z,2026-10-28 17:08:20 MEZ,Shared Library
+The Dave Brubeck Quartet,Take Five,Shared,54,4,0,2026-10-28 16:08:20Z,2026-10-28 17:08:20 MEZ,Shared Library
 The Killers,Mr. Brightside,Shared,156,7,0,2026-10-23 15:35:33Z,2026-10-23 17:35:33 MESZ,Shared Library
 The National,About Today (2021 Remaster),Shared,186,5,0,2026-10-23 21:22:32Z,2026-10-23 23:22:32 MESZ,Shared Library
 The Rolling Stones,"Paint It, Black",Shared,164,7,0,2026-10-24 17:56:43Z,2026-10-24 19:56:43 MESZ,Shared Library
@@ -180,7 +180,7 @@ The Rolling Stones,Street Fighting Man,Shared,25,3,0,2026-10-24 13:40:12Z,2026-1
 The Strokes,Last Nite,Shared,78,4,0,2026-10-12 15:38:49Z,2026-10-12 17:38:49 MESZ,Shared Library
 The Weeknd,Blinding Lights,Shared,158,3,0,2026-10-20 22:57:44Z,2026-10-21 00:57:44 MESZ,Shared Library
 The Weeknd,Gasoline,Shared,95,4,0,2026-10-24 12:16:42Z,2026-10-24 14:16:42 MESZ,Shared Library
-The Weeknd,Starboy,Shared,229,2,0,2026-10-21 02:09:44Z,2026-10-21 04:09:44 MESZ,Shared Library
+The Weeknd,Starboy,Shared,229,1,0,2026-10-21 02:09:44Z,2026-10-21 04:09:44 MESZ,Shared Library
 Tinashe,Nasty,Shared,130,3,0,2026-10-25 16:58:13Z,2026-10-25 17:58:13 MEZ,Shared Library
 Tove Lo,No One Dies From Love,Shared,184,4,0,2026-10-26 18:20:15Z,2026-10-26 19:20:15 MEZ,Shared Library
 Tracy Chapman,Fast Car  (2015 Remaster),Shared,244,8,0,2026-10-26 12:24:45Z,2026-10-26 13:24:45 MEZ,Shared Library
@@ -194,7 +194,7 @@ USA for Africa,We Are The World,Shared,45,4,0,2026-10-24 15:48:46Z,2026-10-24 17
 Wham!,Last Christmas (Single Version),Shared,3,0,0,2026-09-19 20:13:04Z,2026-09-19 22:13:04 MESZ,Shared Library
 Wilson Pickett,In the Midnight Hour,Shared,141,5,0,2026-10-27 21:02:47Z,2026-10-27 22:02:47 MEZ,Shared Library
 Wizkid,Essence,Shared,57,10,1,2026-10-29 10:04:22Z,2026-10-29 11:04:22 MEZ,Shared Library
-Yellow Magic Orchestra,RYDEEN  (2018 Bob Ludwig Remastering),Shared,25,6,0,2026-10-23 10:07:31Z,2026-10-23 12:07:31 MESZ,Shared Library
+Yellow Magic Orchestra,RYDEEN  (2018 Bob Ludwig Remastering),Shared,26,7,1,2026-10-29 16:34:52Z,2026-10-29 17:34:52 MEZ,Shared Library
 Yussef Kamaal,Strings of Light,Shared,109,2,0,2026-10-23 17:23:32Z,2026-10-23 19:23:32 MESZ,Shared Library
 Ólafur Arnalds,Near Light,Shared,199,9,0,2026-10-27 07:53:16Z,2026-10-27 08:53:16 MEZ,Shared Library
 -M-,La bonne étoile (Live 2020),Station-Specific,7,5,0,2026-10-25 19:04:13Z,2026-10-25 20:04:13 MEZ,Scraper Logs (TF Play History)
@@ -203,7 +203,7 @@ Yussef Kamaal,Strings of Light,Shared,109,2,0,2026-10-23 17:23:32Z,2026-10-23 19
 2CELLOS,Thunderstruck,Station-Specific,5,3,0,2026-10-20 12:59:13Z,2026-10-20 14:59:13 MESZ,Scraper Logs (TF Play History)
 8-Bit Arcade,"The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation)",Station-Specific,4,1,0,2026-10-03 04:35:23Z,2026-10-03 06:35:23 MESZ,Scraper Logs (TF Play History)
 9MUSES,Dolls,Station-Specific,17,7,0,2026-10-25 20:45:44Z,2026-10-25 21:45:44 MEZ,Scraper Logs (TF Play History)
-A Tribe Called Quest,Scenario (LP Mix),Station-Specific,7,7,0,2026-10-22 20:04:50Z,2026-10-22 22:04:50 MESZ,Scraper Logs (TF Play History)
+A Tribe Called Quest,Scenario (LP Mix),Station-Specific,7,6,0,2026-10-22 20:04:50Z,2026-10-22 22:04:50 MESZ,Scraper Logs (TF Play History)
 A Winged Victory For The Sullen,Minuet for a Cheap Piano Number Two,Station-Specific,12,3,0,2026-10-22 01:17:47Z,2026-10-22 03:17:47 MESZ,Scraper Logs (TF Play History)
 A Winged Victory For The Sullen,Steep Hills of Vicodin Tears,Station-Specific,117,5,0,2026-10-24 01:59:07Z,2026-10-24 03:59:07 MESZ,Scraper Logs (TF Play History)
 A-Ha,Summer Moved On  (2019 Remaster),Station-Specific,5,3,0,2026-10-11 16:02:12Z,2026-10-11 18:02:12 MESZ,Scraper Logs (TF Play History)
@@ -214,10 +214,10 @@ Aaliyah,Rock The Boat,Station-Specific,12,4,0,2026-10-18 20:50:27Z,2026-10-18 22
 ABBA,Dancing Queen,Station-Specific,40,8,0,2026-10-26 14:36:15Z,2026-10-26 15:36:15 MEZ,Scraper Logs (TF Play History)
 ABBA,Don't Shut Me Down,Station-Specific,13,5,0,2026-10-26 02:19:44Z,2026-10-26 03:19:44 MEZ,Scraper Logs (TF Play History)
 ABBA,I Wonder (Departure),Station-Specific,15,6,0,2026-10-27 09:27:16Z,2026-10-27 10:27:16 MEZ,Scraper Logs (TF Play History)
-ABBA,Waterloo (English Version),Station-Specific,18,6,0,2026-10-22 16:00:20Z,2026-10-22 18:00:20 MESZ,Scraper Logs (TF Play History)
+ABBA,Waterloo (English Version),Station-Specific,18,5,0,2026-10-22 16:00:20Z,2026-10-22 18:00:20 MESZ,Scraper Logs (TF Play History)
 Abdullah Ibrahim,Water From An Ancient Well,Station-Specific,10,6,0,2026-10-25 10:18:13Z,2026-10-25 11:18:13 MEZ,Scraper Logs (TF Play History)
 Abor & Tynna,Baller,Station-Specific,3,1,0,2026-10-16 02:11:04Z,2026-10-16 04:11:04 MESZ,Scraper Logs (TF Play History)
-AC/DC,Thunderstruck,Station-Specific,8,3,0,2026-10-13 16:30:32Z,2026-10-13 18:30:32 MESZ,Scraper Logs (TF Play History)
+AC/DC,Thunderstruck,Station-Specific,9,4,1,2026-10-29 15:32:22Z,2026-10-29 16:32:22 MEZ,Scraper Logs (TF Play History)
 Acker Bilk,Stranger On The Shore,Station-Specific,14,3,0,2026-10-24 05:47:10Z,2026-10-24 07:47:10 MESZ,Scraper Logs (TF Play History)
 Adamski,Killer,Station-Specific,16,5,0,2026-10-20 22:17:43Z,2026-10-21 00:17:43 MESZ,Scraper Logs (TF Play History)
 Adrianne Lenker,anything,Station-Specific,54,7,0,2026-10-25 05:24:42Z,2026-10-25 06:24:42 MEZ,Scraper Logs (TF Play History)
@@ -228,12 +228,12 @@ Air,La femme d'argent,Station-Specific,69,8,1,2026-10-29 07:03:51Z,2026-10-29 08
 Airiel,Bloom,Station-Specific,2,0,0,2026-09-15 08:41:56Z,2026-09-15 10:41:56 MESZ,Scraper Logs (TF Play History)
 Akiaura,Sleepwalker,Station-Specific,7,2,0,2026-10-21 04:05:14Z,2026-10-21 06:05:14 MESZ,Scraper Logs (TF Play History)
 Al Di Meola,Double Concerto,Station-Specific,15,2,0,2026-10-24 07:27:12Z,2026-10-24 09:27:12 MESZ,Scraper Logs (TF Play History)
-Al Di Meola,Libertango,Station-Specific,8,6,0,2026-10-26 09:27:15Z,2026-10-26 10:27:15 MEZ,Scraper Logs (TF Play History)
-Al Di Meola,"Passion, Grace & Fire (Album Version)",Station-Specific,11,4,0,2026-10-24 03:34:38Z,2026-10-24 05:34:38 MESZ,Scraper Logs (TF Play History)
-Al Di Meola,Red Moon,Station-Specific,12,2,0,2026-10-26 06:44:15Z,2026-10-26 07:44:15 MEZ,Scraper Logs (TF Play History)
-Al Green,Let's Stay Together,Station-Specific,127,8,0,2026-10-27 12:10:16Z,2026-10-27 13:10:16 MEZ,Scraper Logs (TF Play History)
-Al Green,Love and Happiness,Station-Specific,29,6,0,2026-10-26 13:22:15Z,2026-10-26 14:22:15 MEZ,Scraper Logs (TF Play History)
-Al Green,Simply Beautiful,Station-Specific,144,9,1,2026-10-28 13:11:19Z,2026-10-28 14:11:19 MEZ,Scraper Logs (TF Play History)
+Al Di Meola,Libertango,Station-Specific,9,7,1,2026-10-29 14:38:22Z,2026-10-29 15:38:22 MEZ,Scraper Logs (TF Play History)
+Al Di Meola,"Passion, Grace & Fire (Album Version)",Station-Specific,12,5,1,2026-10-29 15:47:22Z,2026-10-29 16:47:22 MEZ,Scraper Logs (TF Play History)
+Al Di Meola,Red Moon,Station-Specific,13,3,1,2026-10-29 14:43:22Z,2026-10-29 15:43:22 MEZ,Scraper Logs (TF Play History)
+Al Green,Let's Stay Together,Station-Specific,128,9,1,2026-10-29 14:13:52Z,2026-10-29 15:13:52 MEZ,Scraper Logs (TF Play History)
+Al Green,Love and Happiness,Station-Specific,30,7,1,2026-10-29 13:01:52Z,2026-10-29 14:01:52 MEZ,Scraper Logs (TF Play History)
+Al Green,Simply Beautiful,Station-Specific,144,8,0,2026-10-28 13:11:19Z,2026-10-28 14:11:19 MEZ,Scraper Logs (TF Play History)
 Al Green,The Lord Will Make a Way,Station-Specific,22,4,0,2026-10-22 17:12:20Z,2026-10-22 19:12:20 MESZ,Scraper Logs (TF Play History)
 Al Stewart,Year of the Cat,Station-Specific,26,5,0,2026-10-27 22:09:17Z,2026-10-27 23:09:17 MEZ,Scraper Logs (TF Play History)
 Alabama 3,Sad Eyed Lady Of The Low Life,Station-Specific,5,2,0,2026-10-25 00:38:42Z,2026-10-25 02:38:42 MESZ,Scraper Logs (TF Play History)
@@ -249,8 +249,8 @@ Alexander Malter,Pärt: Für Alina,Station-Specific,41,8,0,2026-10-25 18:33:43Z,
 Alexander Rybak,Fairytale,Station-Specific,12,7,0,2026-10-26 12:21:45Z,2026-10-26 13:21:45 MEZ,Scraper Logs (TF Play History)
 Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,Station-Specific,44,11,1,2026-10-29 04:16:51Z,2026-10-29 05:16:51 MEZ,Scraper Logs (TF Play History)
 Alexi Murdoch,Orange Sky,Station-Specific,2,2,1,2026-10-29 04:08:21Z,2026-10-29 05:08:21 MEZ,Scraper Logs (TF Play History)
-Ali Farka Touré,Soukora,Station-Specific,85,13,1,2026-10-28 13:22:19Z,2026-10-28 14:22:19 MEZ,Scraper Logs (TF Play History)
-Alice Coltrane,Journey In Satchidananda,Station-Specific,10,6,1,2026-10-28 13:15:19Z,2026-10-28 14:15:19 MEZ,Scraper Logs (TF Play History)
+Ali Farka Touré,Soukora,Station-Specific,85,13,0,2026-10-28 13:22:19Z,2026-10-28 14:22:19 MEZ,Scraper Logs (TF Play History)
+Alice Coltrane,Journey In Satchidananda,Station-Specific,10,6,0,2026-10-28 13:15:19Z,2026-10-28 14:15:19 MEZ,Scraper Logs (TF Play History)
 Alice In Chains,Man in the Box,Station-Specific,7,4,0,2026-10-22 23:45:22Z,2026-10-23 01:45:22 MESZ,Scraper Logs (TF Play History)
 Alicia Keys,Fallin' (Album Version),Station-Specific,21,6,0,2026-10-25 00:09:42Z,2026-10-25 02:09:42 MESZ,Scraper Logs (TF Play History)
 Alison Krauss,Down To The River To Pray (Live),Station-Specific,8,3,1,2026-10-29 04:14:51Z,2026-10-29 05:14:51 MEZ,Scraper Logs (TF Play History)
@@ -261,14 +261,14 @@ Alèmayèhu Eshèté,Tashamanaletch,Station-Specific,21,6,1,2026-10-29 04:40:51Z
 Amadou & Mariam,M' Bife,Station-Specific,9,9,0,2026-10-28 08:08:19Z,2026-10-28 09:08:19 MEZ,Scraper Logs (TF Play History)
 Ambrosia,Biggest Part of Me (Album Version),Station-Specific,50,9,1,2026-10-29 08:51:52Z,2026-10-29 09:51:52 MEZ,Scraper Logs (TF Play History)
 Amy Macdonald,This Is The Life,Station-Specific,19,10,1,2026-10-29 08:25:22Z,2026-10-29 09:25:22 MEZ,Scraper Logs (TF Play History)
-Amália Rodrigues,Barco negro,Station-Specific,34,10,0,2026-10-27 10:20:16Z,2026-10-27 11:20:16 MEZ,Scraper Logs (TF Play History)
+Amália Rodrigues,Barco negro,Station-Specific,35,11,1,2026-10-29 16:39:22Z,2026-10-29 17:39:22 MEZ,Scraper Logs (TF Play History)
 Ana Sofia Varela,Fado Vadio (Má Fama),Station-Specific,23,7,0,2026-10-28 08:10:19Z,2026-10-28 09:10:19 MEZ,Scraper Logs (TF Play History)
 Andrew W.K.,Party Hard (Album Version),Station-Specific,9,5,0,2026-10-26 02:48:44Z,2026-10-26 03:48:44 MEZ,Scraper Logs (TF Play History)
 Andrés Calamaro,Flaca,Station-Specific,29,8,0,2026-10-27 03:36:16Z,2026-10-27 04:36:16 MEZ,Scraper Logs (TF Play History)
 Angus & Julia Stone,You're The One That I Want,Station-Specific,27,9,1,2026-10-29 02:51:51Z,2026-10-29 03:51:51 MEZ,Scraper Logs (TF Play History)
 Angèle Dubeau,The Mission – Buona Fortuna Jack (Live),Station-Specific,6,4,0,2026-10-28 05:56:18Z,2026-10-28 06:56:18 MEZ,Scraper Logs (TF Play History)
 Angélique Kidjo,Agolo,Station-Specific,6,5,0,2026-10-22 08:33:20Z,2026-10-22 10:33:20 MESZ,Scraper Logs (TF Play History)
-Angélique Kidjo,Malaika,Station-Specific,1,1,1,2026-10-28 15:02:49Z,2026-10-28 16:02:49 MEZ,Scraper Logs (TF Play History)
+Angélique Kidjo,Malaika,Station-Specific,1,1,0,2026-10-28 15:02:49Z,2026-10-28 16:02:49 MEZ,Scraper Logs (TF Play History)
 Anita Baker,Angel (LP Version),Station-Specific,47,4,0,2026-10-23 01:52:25Z,2026-10-23 03:52:25 MESZ,Scraper Logs (TF Play History)
 Anita Baker,Caught Up in the Rapture (LP Version),Station-Specific,95,9,1,2026-10-28 16:43:50Z,2026-10-28 17:43:50 MEZ,Scraper Logs (TF Play History)
 Anita Baker,Sweet Love,Station-Specific,116,9,0,2026-10-28 05:51:48Z,2026-10-28 06:51:48 MEZ,Scraper Logs (TF Play History)
@@ -279,7 +279,7 @@ ANNIE,Heartbeat,Station-Specific,12,6,0,2026-10-23 14:19:02Z,2026-10-23 16:19:02
 ANORAQUE,Ivy,Station-Specific,12,6,0,2026-10-26 15:13:45Z,2026-10-26 16:13:45 MEZ,Scraper Logs (TF Play History)
 Antonio Campo,I Need You More and More  (Remastered),Station-Specific,11,5,1,2026-10-29 03:02:21Z,2026-10-29 04:02:21 MEZ,Scraper Logs (TF Play History)
 Antonio Carlos Jobim,The Girl From Ipanema,Station-Specific,49,7,0,2026-10-27 17:26:16Z,2026-10-27 18:26:16 MEZ,Scraper Logs (TF Play History)
-Antonio Carlos Jobim,Wave,Station-Specific,94,7,1,2026-10-28 16:40:20Z,2026-10-28 17:40:20 MEZ,Scraper Logs (TF Play History)
+Antonio Carlos Jobim,Wave,Station-Specific,94,7,0,2026-10-28 16:40:20Z,2026-10-28 17:40:20 MEZ,Scraper Logs (TF Play History)
 Aphex Twin,Avril 14th,Station-Specific,89,4,0,2026-10-22 02:58:47Z,2026-10-22 04:58:47 MESZ,Scraper Logs (TF Play History)
 Aphex Twin,Flim,Station-Specific,9,3,0,2026-10-22 07:50:20Z,2026-10-22 09:50:20 MESZ,Scraper Logs (TF Play History)
 Aphex Twin,Rhubarb Orc. 19.53 Rev,Station-Specific,68,4,0,2026-10-27 06:57:16Z,2026-10-27 07:57:16 MEZ,Scraper Logs (TF Play History)
@@ -290,7 +290,7 @@ Archivio Storico Fondazione Isabella Scelsi,Anahit Concerto per due ondiole,Stat
 Arctic Monkeys,505,Station-Specific,35,9,1,2026-10-29 11:32:22Z,2026-10-29 12:32:22 MEZ,Scraper Logs (TF Play History)
 Arctic Monkeys,Fake Tales Of San Francisco,Station-Specific,19,6,0,2026-10-22 11:02:20Z,2026-10-22 13:02:20 MESZ,Scraper Logs (TF Play History)
 Arctic Monkeys,No. 1 Party Anthem,Station-Specific,21,8,0,2026-10-27 17:45:17Z,2026-10-27 18:45:17 MEZ,Scraper Logs (TF Play History)
-Aretha Franklin,Day Dreaming (Album Version),Station-Specific,130,8,0,2026-10-26 13:08:45Z,2026-10-26 14:08:45 MEZ,Scraper Logs (TF Play History)
+Aretha Franklin,Day Dreaming (Album Version),Station-Specific,130,7,0,2026-10-26 13:08:45Z,2026-10-26 14:08:45 MEZ,Scraper Logs (TF Play History)
 Aretha Franklin,I Say a Little Prayer,Station-Specific,50,6,0,2026-10-21 15:49:16Z,2026-10-21 17:49:16 MESZ,Scraper Logs (TF Play History)
 Aretha Franklin,Precious Lord (Take My Hand) (Part One),Station-Specific,18,2,0,2026-10-18 22:20:27Z,2026-10-19 00:20:27 MESZ,Scraper Logs (TF Play History)
 Aretha Franklin,Rock Steady (Album Version),Station-Specific,63,8,0,2026-10-22 22:04:21Z,2026-10-23 00:04:21 MESZ,Scraper Logs (TF Play History)
@@ -303,7 +303,7 @@ Ashra,Midnight On Mars,Station-Specific,16,1,0,2026-10-06 06:08:56Z,2026-10-06 0
 Ashra,Sunrain,Station-Specific,32,2,0,2026-10-26 04:18:14Z,2026-10-26 05:18:14 MEZ,Scraper Logs (TF Play History)
 Aster Aweke,Tizita,Station-Specific,36,6,0,2026-10-25 16:27:14Z,2026-10-25 17:27:14 MEZ,Scraper Logs (TF Play History)
 Astor Piazzolla,Adiós Nonino,Station-Specific,10,4,0,2026-10-23 07:47:30Z,2026-10-23 09:47:30 MESZ,Scraper Logs (TF Play History)
-Astor Piazzolla,Milonga Del Angel,Station-Specific,30,11,1,2026-10-28 14:35:19Z,2026-10-28 15:35:19 MEZ,Scraper Logs (TF Play History)
+Astor Piazzolla,Milonga Del Angel,Station-Specific,30,11,0,2026-10-28 14:35:19Z,2026-10-28 15:35:19 MEZ,Scraper Logs (TF Play History)
 AUN J-Classic Orchestra,Kimi Wo Nosete (Castle in the Sky),Station-Specific,12,4,0,2026-10-15 17:04:01Z,2026-10-15 19:04:01 MESZ,Scraper Logs (TF Play History)
 Auringon Lapset,Etäpäivä,Station-Specific,16,5,0,2026-10-28 06:38:48Z,2026-10-28 07:38:48 MEZ,Scraper Logs (TF Play History)
 Autechre,Gantz Graf,Station-Specific,3,1,0,2026-10-16 00:24:02Z,2026-10-16 02:24:02 MESZ,Scraper Logs (TF Play History)
@@ -349,11 +349,11 @@ Big Bad Voodoo Daddy,Why Me?,Station-Specific,1,1,0,2026-10-27 16:23:16Z,2026-10
 Big Data,Put Me to Work,Station-Specific,17,4,0,2026-10-24 23:01:42Z,2026-10-25 01:01:42 MESZ,Scraper Logs (TF Play History)
 Big Thief,Mary,Station-Specific,94,8,1,2026-10-29 06:38:22Z,2026-10-29 07:38:22 MEZ,Scraper Logs (TF Play History)
 Bikini Kill,Rebel Girl,Station-Specific,10,3,0,2026-10-21 15:00:16Z,2026-10-21 17:00:16 MESZ,Scraper Logs (TF Play History)
-Bill Callahan,Riding For The Feeling,Station-Specific,40,8,1,2026-10-28 12:51:49Z,2026-10-28 13:51:49 MEZ,Scraper Logs (TF Play History)
-Bill Evans,Peace Piece (Album Version),Station-Specific,171,5,0,2026-10-23 14:37:31Z,2026-10-23 16:37:31 MESZ,Scraper Logs (TF Play History)
+Bill Callahan,Riding For The Feeling,Station-Specific,40,8,0,2026-10-28 12:51:49Z,2026-10-28 13:51:49 MEZ,Scraper Logs (TF Play History)
+Bill Evans,Peace Piece (Album Version),Station-Specific,172,6,1,2026-10-29 13:46:22Z,2026-10-29 14:46:22 MEZ,Scraper Logs (TF Play History)
 Bill Monroe & His Blue Grass Boys,Blue Moon Of Kentucky,Station-Specific,11,3,0,2026-10-28 12:09:19Z,2026-10-28 13:09:19 MEZ,Scraper Logs (TF Play History)
-Bill Withers,Ain't No Sunshine (Album Version),Station-Specific,103,10,0,2026-10-26 13:19:45Z,2026-10-26 14:19:45 MEZ,Scraper Logs (TF Play History)
-Bill Withers,Lovely Day,Station-Specific,149,10,1,2026-10-28 13:07:19Z,2026-10-28 14:07:19 MEZ,Scraper Logs (TF Play History)
+Bill Withers,Ain't No Sunshine (Album Version),Station-Specific,104,11,1,2026-10-29 13:11:52Z,2026-10-29 14:11:52 MEZ,Scraper Logs (TF Play History)
+Bill Withers,Lovely Day,Station-Specific,149,9,0,2026-10-28 13:07:19Z,2026-10-28 14:07:19 MEZ,Scraper Logs (TF Play History)
 Billie Eilish,Lo Vas A Olvidar,Station-Specific,9,7,0,2026-10-27 17:37:17Z,2026-10-27 18:37:17 MEZ,Scraper Logs (TF Play History)
 Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",Station-Specific,14,6,0,2026-10-22 15:52:20Z,2026-10-22 17:52:20 MESZ,Scraper Logs (TF Play History)
 Billie Eilish,when the party's over,Station-Specific,13,4,1,2026-10-29 06:34:52Z,2026-10-29 07:34:52 MEZ,Scraper Logs (TF Play History)
@@ -433,13 +433,13 @@ Burial,Archangel,Station-Specific,82,4,0,2026-10-22 07:19:49Z,2026-10-22 09:19:4
 Burial,Etched Headplate,Station-Specific,17,3,0,2026-10-24 06:35:41Z,2026-10-24 08:35:41 MESZ,Scraper Logs (TF Play History)
 Burial,Ghost Hardware,Station-Specific,17,3,0,2026-10-22 01:51:17Z,2026-10-22 03:51:17 MESZ,Scraper Logs (TF Play History)
 Burial,Near Dark,Station-Specific,16,3,0,2026-10-27 02:08:15Z,2026-10-27 03:08:15 MEZ,Scraper Logs (TF Play History)
-Burna Boy,Last Last,Station-Specific,44,8,0,2026-10-26 16:11:46Z,2026-10-26 17:11:46 MEZ,Scraper Logs (TF Play History)
+Burna Boy,Last Last,Station-Specific,45,9,1,2026-10-29 16:16:23Z,2026-10-29 17:16:23 MEZ,Scraper Logs (TF Play History)
 Bush,Everything Zen (Remastered),Station-Specific,4,3,0,2026-10-09 02:29:27Z,2026-10-09 04:29:27 MESZ,Scraper Logs (TF Play History)
 Busta Rhymes,Gimme Some More,Station-Specific,4,3,0,2026-10-20 22:21:43Z,2026-10-21 00:21:43 MESZ,Scraper Logs (TF Play History)
 ByeAlex,Kedvesem  (Original),Station-Specific,15,4,0,2026-10-24 21:44:12Z,2026-10-24 23:44:12 MESZ,Scraper Logs (TF Play History)
 Béla Fleck,My Home's Across The Blue Ridge Mountains,Station-Specific,1,1,0,2026-10-21 01:51:14Z,2026-10-21 03:51:14 MESZ,Scraper Logs (TF Play History)
 Caetano Veloso,O Leãozinho (Ao Vivo),Station-Specific,77,8,0,2026-10-28 10:34:49Z,2026-10-28 11:34:49 MEZ,Scraper Logs (TF Play History)
-Caetano Veloso,Tropicália (Remastered 2006),Station-Specific,67,9,0,2026-10-27 14:31:16Z,2026-10-27 15:31:16 MEZ,Scraper Logs (TF Play History)
+Caetano Veloso,Tropicália (Remastered 2006),Station-Specific,67,8,0,2026-10-27 14:31:16Z,2026-10-27 15:31:16 MEZ,Scraper Logs (TF Play History)
 Café Tacvba,Eres (Album Version),Station-Specific,33,10,1,2026-10-29 08:32:51Z,2026-10-29 09:32:51 MEZ,Scraper Logs (TF Play History)
 Cage The Elephant,What I'm Becoming,Station-Specific,11,7,1,2026-10-29 01:29:50Z,2026-10-29 02:29:50 MEZ,Scraper Logs (TF Play History)
 Caifanes,Afuera,Station-Specific,9,7,0,2026-10-28 10:26:49Z,2026-10-28 11:26:49 MEZ,Scraper Logs (TF Play History)
@@ -447,7 +447,7 @@ Caifanes,La Negra Tomasa (Bilongo - Version Tropical),Station-Specific,13,6,0,20
 Camille,Ta douleur,Station-Specific,6,3,0,2026-10-17 07:19:11Z,2026-10-17 09:19:11 MESZ,Scraper Logs (TF Play History)
 Camille Thomas,"Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra )",Station-Specific,4,4,0,2026-10-28 04:52:48Z,2026-10-28 05:52:48 MEZ,Scraper Logs (TF Play History)
 Canned Heat,On The Road Again,Station-Specific,6,6,1,2026-10-28 22:45:20Z,2026-10-28 23:45:20 MEZ,Scraper Logs (TF Play History)
-Cardiacs,Big Ship,Station-Specific,15,5,1,2026-10-28 12:57:49Z,2026-10-28 13:57:49 MEZ,Scraper Logs (TF Play History)
+Cardiacs,Big Ship,Station-Specific,15,5,0,2026-10-28 12:57:49Z,2026-10-28 13:57:49 MEZ,Scraper Logs (TF Play History)
 Carlos Gardel,Por una Cabeza,Station-Specific,28,9,0,2026-10-28 03:42:48Z,2026-10-28 04:42:48 MEZ,Scraper Logs (TF Play History)
 Carole King,It's Too Late,Station-Specific,82,9,0,2026-10-27 17:41:17Z,2026-10-27 18:41:17 MEZ,Scraper Logs (TF Play History)
 Carole King,So Far Away,Station-Specific,36,10,1,2026-10-29 08:28:52Z,2026-10-29 09:28:52 MEZ,Scraper Logs (TF Play History)
@@ -463,7 +463,7 @@ Cesária Evora,Petit pays,Station-Specific,15,10,0,2026-10-28 10:37:49Z,2026-10-
 Cesária Evora,Sodade,Station-Specific,44,10,0,2026-10-27 08:07:46Z,2026-10-27 09:07:46 MEZ,Scraper Logs (TF Play History)
 Chaka Khan,What Cha' Gonna Do for Me,Station-Specific,43,8,0,2026-10-26 23:06:15Z,2026-10-27 00:06:15 MEZ,Scraper Logs (TF Play History)
 Charles Lloyd,You Are So Beautiful,Station-Specific,5,5,1,2026-10-29 07:44:22Z,2026-10-29 08:44:22 MEZ,Scraper Logs (TF Play History)
-Charles Lloyd & The Marvels,You Are So Beautiful,Station-Specific,5,5,1,2026-10-28 16:02:20Z,2026-10-28 17:02:20 MEZ,Scraper Logs (TF Play History)
+Charles Lloyd & The Marvels,You Are So Beautiful,Station-Specific,5,5,0,2026-10-28 16:02:20Z,2026-10-28 17:02:20 MEZ,Scraper Logs (TF Play History)
 Charles Mingus,Goodbye Pork Pie Hat (Album Version),Station-Specific,30,4,0,2026-10-23 17:36:32Z,2026-10-23 19:36:32 MESZ,Scraper Logs (TF Play History)
 Charles Mingus,Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version),Station-Specific,22,1,0,2026-10-26 06:18:15Z,2026-10-26 07:18:15 MEZ,Scraper Logs (TF Play History)
 Charles Mingus,"Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version)",Station-Specific,18,3,0,2026-10-25 06:28:13Z,2026-10-25 07:28:13 MEZ,Scraper Logs (TF Play History)
@@ -471,12 +471,12 @@ Charles Wright & The Watts 103rd Street Rhythm Band,Express Yourself (Album Vers
 Charly García,Demoliendo Hoteles (Live),Station-Specific,21,6,0,2026-10-24 11:11:12Z,2026-10-24 13:11:12 MESZ,Scraper Logs (TF Play History)
 Chavela Vargas,La llorona,Station-Specific,27,6,0,2026-10-22 13:50:20Z,2026-10-22 15:50:20 MESZ,Scraper Logs (TF Play History)
 Chet Atkins,Why Worry (Album Version),Station-Specific,15,6,0,2026-10-28 05:15:18Z,2026-10-28 06:15:18 MEZ,Scraper Logs (TF Play History)
-Chet Baker,Almost Blue,Station-Specific,51,8,1,2026-10-28 15:58:49Z,2026-10-28 16:58:49 MEZ,Scraper Logs (TF Play History)
+Chet Baker,Almost Blue,Station-Specific,51,8,0,2026-10-28 15:58:49Z,2026-10-28 16:58:49 MEZ,Scraper Logs (TF Play History)
 Chet Baker,My Funny Valentine,Station-Specific,112,6,0,2026-10-22 06:38:49Z,2026-10-22 08:38:49 MESZ,Scraper Logs (TF Play History)
 Chet Baker,You Don't Know What Love Is,Station-Specific,24,5,0,2026-10-27 16:07:47Z,2026-10-27 17:07:47 MEZ,Scraper Logs (TF Play History)
-Chic,Good Times  (2018 Remaster),Station-Specific,79,8,1,2026-10-28 15:50:19Z,2026-10-28 16:50:19 MEZ,Scraper Logs (TF Play History)
+Chic,Good Times  (2018 Remaster),Station-Specific,79,8,0,2026-10-28 15:50:19Z,2026-10-28 16:50:19 MEZ,Scraper Logs (TF Play History)
 Chicago,Hard to Say I'M Sorry / Get Away,Station-Specific,37,5,0,2026-10-24 20:27:44Z,2026-10-24 22:27:44 MESZ,Scraper Logs (TF Play History)
-Chico Buarque,Construção,Station-Specific,45,9,0,2026-10-25 16:36:43Z,2026-10-25 17:36:43 MEZ,Scraper Logs (TF Play History)
+Chico Buarque,Construção,Station-Specific,45,8,0,2026-10-25 16:36:43Z,2026-10-25 17:36:43 MEZ,Scraper Logs (TF Play History)
 Child Seat,Heart To Heart,Station-Specific,9,5,0,2026-10-20 14:09:13Z,2026-10-20 16:09:13 MESZ,Scraper Logs (TF Play History)
 Child Seat,Hyperphantasia,Station-Specific,7,4,0,2026-10-26 19:10:46Z,2026-10-26 20:10:46 MEZ,Scraper Logs (TF Play History)
 Chris Christodoulou,The Rain Formerly Known as Purple,Station-Specific,11,2,0,2026-10-26 05:48:14Z,2026-10-26 06:48:14 MEZ,Scraper Logs (TF Play History)
@@ -532,7 +532,7 @@ Cyndi Lauper,Girls Just Want to Have Fun,Station-Specific,26,6,0,2026-10-23 09:1
 Cyndi Lauper,Time After Time,Station-Specific,10,6,0,2026-10-23 19:07:32Z,2026-10-23 21:07:32 MESZ,Scraper Logs (TF Play History)
 Cynthia Harrell,SNAKE EATER Δ,Station-Specific,12,2,0,2026-10-18 05:04:55Z,2026-10-18 07:04:55 MESZ,Scraper Logs (TF Play History)
 Czech Philharmonic,The Moldau Má Vlast: II. Vltava Moldau,Station-Specific,16,3,0,2026-10-24 10:52:42Z,2026-10-24 12:52:42 MESZ,Scraper Logs (TF Play History)
-D'Angelo,Untitled (How Does It Feel),Station-Specific,131,6,1,2026-10-28 16:14:19Z,2026-10-28 17:14:19 MEZ,Scraper Logs (TF Play History)
+D'Angelo,Untitled (How Does It Feel),Station-Specific,131,6,0,2026-10-28 16:14:19Z,2026-10-28 17:14:19 MEZ,Scraper Logs (TF Play History)
 Daft Punk,Around the World,Station-Specific,38,6,0,2026-10-21 17:19:46Z,2026-10-21 19:19:46 MESZ,Scraper Logs (TF Play History)
 Daft Punk,Face to Face,Station-Specific,15,4,0,2026-10-22 20:54:21Z,2026-10-22 22:54:21 MESZ,Scraper Logs (TF Play History)
 Daft Punk,Something About Us,Station-Specific,54,6,0,2026-10-25 08:32:13Z,2026-10-25 09:32:13 MEZ,Scraper Logs (TF Play History)
@@ -556,7 +556,7 @@ David Bowie,Let's Dance  (2018 Remaster),Station-Specific,25,2,0,2026-10-21 16:2
 David Bowie,Moonage Daydream (2012 Remaster),Station-Specific,16,3,0,2026-10-21 03:38:44Z,2026-10-21 05:38:44 MESZ,Scraper Logs (TF Play History)
 David Bowie,Rebel Rebel,Station-Specific,23,3,0,2026-10-20 13:33:43Z,2026-10-20 15:33:43 MESZ,Scraper Logs (TF Play History)
 David Bowie,Slip Away,Station-Specific,17,2,0,2026-10-17 01:45:39Z,2026-10-17 03:45:39 MESZ,Scraper Logs (TF Play History)
-David Bowie,Slow Burn,Station-Specific,6,4,0,2026-10-22 12:15:20Z,2026-10-22 14:15:20 MESZ,Scraper Logs (TF Play History)
+David Bowie,Slow Burn,Station-Specific,6,3,0,2026-10-22 12:15:20Z,2026-10-22 14:15:20 MESZ,Scraper Logs (TF Play History)
 David Bowie,Sound and Vision  (2017 Remaster),Station-Specific,1,1,0,2026-10-23 15:48:03Z,2026-10-23 17:48:03 MESZ,Scraper Logs (TF Play History)
 David Bowie,Subterraneans  (2017 Remaster),Station-Specific,36,6,0,2026-10-25 07:09:42Z,2026-10-25 08:09:42 MEZ,Scraper Logs (TF Play History)
 David Bowie,Warszawa  (2017 Remaster),Station-Specific,3,2,0,2026-10-22 02:08:47Z,2026-10-22 04:08:47 MESZ,Scraper Logs (TF Play History)
@@ -578,22 +578,22 @@ Delia Derbyshire,"Doctor Who Opening Titles (“In Colour” Mix, Daleks Version
 Dennis Edwards,Don't Look Any Further (Single Version),Station-Specific,50,6,0,2026-10-27 23:10:17Z,2026-10-28 00:10:17 MEZ,Scraper Logs (TF Play History)
 Depeche Mode,Enjoy the Silence,Station-Specific,18,7,0,2026-10-26 08:48:15Z,2026-10-26 09:48:15 MEZ,Scraper Logs (TF Play History)
 Depeche Mode,Just Can't Get Enough,Station-Specific,14,9,1,2026-10-28 23:35:50Z,2026-10-29 00:35:50 MEZ,Scraper Logs (TF Play History)
-Depeche Mode,Policy of Truth,Station-Specific,12,6,0,2026-10-26 15:03:45Z,2026-10-26 16:03:45 MEZ,Scraper Logs (TF Play History)
+Depeche Mode,Policy of Truth,Station-Specific,12,5,0,2026-10-26 15:03:45Z,2026-10-26 16:03:45 MEZ,Scraper Logs (TF Play History)
 Depeche Mode,Precious,Station-Specific,7,2,0,2026-10-24 20:17:43Z,2026-10-24 22:17:43 MESZ,Scraper Logs (TF Play History)
 Derek & The Dominos,Layla,Station-Specific,1,1,1,2026-10-29 09:21:52Z,2026-10-29 10:21:52 MEZ,Scraper Logs (TF Play History)
-Diana Krall,How Deep Is The Ocean,Station-Specific,8,6,0,2026-10-26 21:05:15Z,2026-10-26 22:05:15 MEZ,Scraper Logs (TF Play History)
+Diana Krall,How Deep Is The Ocean,Station-Specific,9,7,1,2026-10-29 13:13:52Z,2026-10-29 14:13:52 MEZ,Scraper Logs (TF Play History)
 Diana Ross,I'm Coming Out,Station-Specific,55,4,0,2026-10-23 19:55:32Z,2026-10-23 21:55:32 MESZ,Scraper Logs (TF Play History)
 Diana Ross,Muscles,Station-Specific,27,7,0,2026-10-25 14:43:43Z,2026-10-25 15:43:43 MEZ,Scraper Logs (TF Play History)
 Die Fantastischen Vier,MfG - Mit freundlichen Grüßen  (2022),Station-Specific,9,5,0,2026-10-22 20:20:21Z,2026-10-22 22:20:21 MESZ,Scraper Logs (TF Play History)
 DIIV,Doused,Station-Specific,29,9,0,2026-10-28 11:07:19Z,2026-10-28 12:07:19 MEZ,Scraper Logs (TF Play History)
 Dire Straits,Sultans Of Swing,Station-Specific,1,0,0,2026-06-11 20:23:55Z,2026-06-11 22:23:55 MESZ,Scraper Logs (TF Play History)
-Dire Straits,Your Latest Trick,Station-Specific,19,4,0,2026-10-20 16:43:43Z,2026-10-20 18:43:43 MESZ,Scraper Logs (TF Play History)
+Dire Straits,Your Latest Trick,Station-Specific,20,5,1,2026-10-29 15:03:22Z,2026-10-29 16:03:22 MEZ,Scraper Logs (TF Play History)
 Disclosure,Help Me Lose My Mind,Station-Specific,34,6,0,2026-10-28 12:39:49Z,2026-10-28 13:39:49 MEZ,Scraper Logs (TF Play History)
 Disturbed,Won't Back Down,Station-Specific,7,2,0,2026-10-26 14:26:15Z,2026-10-26 15:26:15 MEZ,Scraper Logs (TF Play History)
 DJ Benjii,Aykedashem Lebe,Station-Specific,15,5,1,2026-10-29 11:19:22Z,2026-10-29 12:19:22 MEZ,Scraper Logs (TF Play History)
 DJ Cam Quartet,Boss Guitar,Station-Specific,22,6,0,2026-10-27 13:00:16Z,2026-10-27 14:00:16 MEZ,Scraper Logs (TF Play History)
 DJ Cam Quartet,Everybody Loves the Sunshine,Station-Specific,30,4,0,2026-10-25 06:12:12Z,2026-10-25 07:12:12 MEZ,Scraper Logs (TF Play History)
-Djivan Gasparyan,Fallen Star,Station-Specific,31,9,1,2026-10-28 14:30:19Z,2026-10-28 15:30:19 MEZ,Scraper Logs (TF Play History)
+Djivan Gasparyan,Fallen Star,Station-Specific,31,9,0,2026-10-28 14:30:19Z,2026-10-28 15:30:19 MEZ,Scraper Logs (TF Play History)
 Djivan Gasparyan,Take My Heart,Station-Specific,28,9,0,2026-10-27 10:38:46Z,2026-10-27 11:38:46 MEZ,Scraper Logs (TF Play History)
 Djivan Gasparyan,They Took My Love Away,Station-Specific,2,1,0,2026-10-09 03:21:57Z,2026-10-09 05:21:57 MESZ,Scraper Logs (TF Play History)
 Djivan Gasparyan,Together Forever,Station-Specific,59,7,0,2026-10-27 02:23:15Z,2026-10-27 03:23:15 MEZ,Scraper Logs (TF Play History)
@@ -614,18 +614,18 @@ Dorian Electra,Hella Good,Station-Specific,7,3,0,2026-10-25 13:14:43Z,2026-10-25
 Dot Allison,Bleached By The Sun,Station-Specific,11,3,0,2026-10-24 01:53:37Z,2026-10-24 03:53:37 MESZ,Scraper Logs (TF Play History)
 Dragonforce,Through The Fire And Flames,Station-Specific,7,2,0,2026-10-22 11:49:20Z,2026-10-22 13:49:20 MESZ,Scraper Logs (TF Play History)
 Dream Theater,Panic Attack (Album Version),Station-Specific,2,1,0,2026-10-15 15:09:30Z,2026-10-15 17:09:30 MESZ,Scraper Logs (TF Play History)
-Dua Lipa,Don't Start Now,Station-Specific,19,8,0,2026-10-23 09:49:01Z,2026-10-23 11:49:01 MESZ,Scraper Logs (TF Play History)
+Dua Lipa,Don't Start Now,Station-Specific,19,7,0,2026-10-23 09:49:01Z,2026-10-23 11:49:01 MESZ,Scraper Logs (TF Play History)
 Duke Ellington,In A Sentimental Mood,Station-Specific,112,5,0,2026-10-26 13:48:45Z,2026-10-26 14:48:45 MEZ,Scraper Logs (TF Play History)
 Duncan Laurence,Arcade (feat. FLETCHER),Station-Specific,12,5,0,2026-10-26 19:49:45Z,2026-10-26 20:49:45 MEZ,Scraper Logs (TF Play History)
 Duncan Sheik,Barely Breathing,Station-Specific,1,0,0,2026-09-19 22:14:04Z,2026-09-20 00:14:04 MESZ,Scraper Logs (TF Play History)
 Duran Duran,Notorious  (2010 Remaster),Station-Specific,7,4,0,2026-10-27 09:40:16Z,2026-10-27 10:40:16 MEZ,Scraper Logs (TF Play History)
-Duran Duran,Ordinary World,Station-Specific,11,7,1,2026-10-28 15:07:19Z,2026-10-28 16:07:19 MEZ,Scraper Logs (TF Play History)
+Duran Duran,Ordinary World,Station-Specific,11,7,0,2026-10-28 15:07:19Z,2026-10-28 16:07:19 MEZ,Scraper Logs (TF Play History)
 Duran Duran,PSYCHO KILLER (feat. Victoria De Angelis) (Cover),Station-Specific,11,4,0,2026-10-26 22:07:45Z,2026-10-26 23:07:45 MEZ,Scraper Logs (TF Play History)
-Durand Jones & The Indications,Witchoo,Station-Specific,54,7,0,2026-10-27 05:16:15Z,2026-10-27 06:16:15 MEZ,Scraper Logs (TF Play History)
+Durand Jones & The Indications,Witchoo,Station-Specific,54,6,0,2026-10-27 05:16:15Z,2026-10-27 06:16:15 MEZ,Scraper Logs (TF Play History)
 Dutyyaknow,Close in the Distance (FFXIV Endwalker) [Synthwave],Station-Specific,4,1,0,2026-10-26 00:36:44Z,2026-10-26 01:36:44 MEZ,Scraper Logs (TF Play History)
 Dúné,Hardcore Vibes,Station-Specific,6,3,0,2026-10-24 19:37:42Z,2026-10-24 21:37:42 MESZ,Scraper Logs (TF Play History)
 Eagles,I Can't Tell You Why  (2013 Remaster),Station-Specific,6,3,0,2026-10-27 22:58:17Z,2026-10-27 23:58:17 MEZ,Scraper Logs (TF Play History)
-Eagles,Take It Easy,Station-Specific,22,5,0,2026-10-27 01:43:15Z,2026-10-27 02:43:15 MEZ,Scraper Logs (TF Play History)
+Eagles,Take It Easy,Station-Specific,23,6,1,2026-10-29 14:58:52Z,2026-10-29 15:58:52 MEZ,Scraper Logs (TF Play History)
 "Earth, Wind & Fire",Let's Groove (Album Version),Station-Specific,33,8,0,2026-10-23 09:03:31Z,2026-10-23 11:03:31 MESZ,Scraper Logs (TF Play History)
 "Earth, Wind & Fire",September,Station-Specific,87,7,0,2026-10-27 22:54:17Z,2026-10-27 23:54:17 MEZ,Scraper Logs (TF Play History)
 "Earth, Wind & Fire",Shining Star,Station-Specific,65,8,0,2026-10-25 15:14:44Z,2026-10-25 16:14:44 MEZ,Scraper Logs (TF Play History)
@@ -636,11 +636,11 @@ Edie Brickell & New Bohemians,Circle (Album Version),Station-Specific,16,7,0,202
 Edith Piaf,La Vie en rose,Station-Specific,36,9,0,2026-10-28 12:06:19Z,2026-10-28 13:06:19 MEZ,Scraper Logs (TF Play History)
 Ednaswap,Torn,Station-Specific,16,6,0,2026-10-27 04:50:15Z,2026-10-27 05:50:15 MEZ,Scraper Logs (TF Play History)
 Edwin Rosen,Vertigo,Station-Specific,18,4,0,2026-10-25 13:25:43Z,2026-10-25 14:25:43 MEZ,Scraper Logs (TF Play History)
-Edwin Starr,War,Station-Specific,18,6,0,2026-10-24 21:18:12Z,2026-10-24 23:18:12 MESZ,Scraper Logs (TF Play History)
+Edwin Starr,War,Station-Specific,18,5,0,2026-10-24 21:18:12Z,2026-10-24 23:18:12 MESZ,Scraper Logs (TF Play History)
 Eiffel 65,Blue (Flume Remix),Station-Specific,10,3,0,2026-10-22 21:13:51Z,2026-10-22 23:13:51 MESZ,Scraper Logs (TF Play History)
 Electric Light Orchestra,Evil Woman,Station-Specific,21,6,1,2026-10-28 17:07:50Z,2026-10-28 18:07:50 MEZ,Scraper Logs (TF Play History)
 Electric Light Orchestra,"Yours Truly, 2095",Station-Specific,16,4,0,2026-10-25 20:11:13Z,2026-10-25 21:11:13 MEZ,Scraper Logs (TF Play History)
-Elis Regina,Águas De Marco,Station-Specific,59,10,1,2026-10-28 16:56:50Z,2026-10-28 17:56:50 MEZ,Scraper Logs (TF Play History)
+Elis Regina,Águas De Marco,Station-Specific,59,9,1,2026-10-28 16:56:50Z,2026-10-28 17:56:50 MEZ,Scraper Logs (TF Play History)
 Ella Fitzgerald,"Bewitched, Bothered And Bewildered",Station-Specific,30,4,0,2026-10-27 03:44:15Z,2026-10-27 04:44:15 MEZ,Scraper Logs (TF Play History)
 Ella Fitzgerald,"Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered)",Station-Specific,19,5,0,2026-10-27 16:13:16Z,2026-10-27 17:13:16 MEZ,Scraper Logs (TF Play History)
 Ella Fitzgerald,Summertime,Station-Specific,93,3,0,2026-10-26 07:02:45Z,2026-10-26 08:02:45 MEZ,Scraper Logs (TF Play History)
@@ -664,7 +664,7 @@ Eric Clapton,Change the World,Station-Specific,14,8,0,2026-10-22 23:50:23Z,2026-
 Erik Grönwall,House of the Rising Sun,Station-Specific,5,4,0,2026-10-24 20:50:13Z,2026-10-24 22:50:13 MESZ,Scraper Logs (TF Play History)
 Erik Wøllo,Computerlove,Station-Specific,12,3,0,2026-10-25 23:41:43Z,2026-10-26 00:41:43 MEZ,Scraper Logs (TF Play History)
 Erykah Badu,Tyrone (Live Version),Station-Specific,4,0,0,2026-08-19 19:59:19Z,2026-08-19 21:59:19 MESZ,Scraper Logs (TF Play History)
-Erykah Badu,Window Seat,Station-Specific,78,7,0,2026-10-26 12:46:45Z,2026-10-26 13:46:45 MEZ,Scraper Logs (TF Play History)
+Erykah Badu,Window Seat,Station-Specific,78,6,0,2026-10-26 12:46:45Z,2026-10-26 13:46:45 MEZ,Scraper Logs (TF Play History)
 Eskimo Joe,"Black Fingernails, Red Wine",Station-Specific,14,6,0,2026-10-26 11:33:45Z,2026-10-26 12:33:45 MEZ,Scraper Logs (TF Play History)
 Etta James,At Last,Station-Specific,13,4,0,2026-10-22 19:01:51Z,2026-10-22 21:01:51 MESZ,Scraper Logs (TF Play History)
 Etta James,I'd Rather Go Blind,Station-Specific,54,7,0,2026-10-26 17:39:16Z,2026-10-26 18:39:16 MEZ,Scraper Logs (TF Play History)
@@ -703,11 +703,11 @@ Fleet Foxes,Mykonos,Station-Specific,112,10,0,2026-10-27 21:10:17Z,2026-10-27 22
 Fleetwood Mac,Albatross,Station-Specific,33,3,0,2026-10-27 21:14:47Z,2026-10-27 22:14:47 MEZ,Scraper Logs (TF Play History)
 Fleetwood Mac,Dreams  (2001 Remaster),Station-Specific,103,5,0,2026-10-21 04:36:44Z,2026-10-21 06:36:44 MESZ,Scraper Logs (TF Play History)
 Fleetwood Mac,I Know I'm Not Wrong,Station-Specific,17,6,0,2026-10-22 04:27:17Z,2026-10-22 06:27:17 MESZ,Scraper Logs (TF Play History)
-Fleetwood Mac,Sara,Station-Specific,22,7,1,2026-10-28 15:13:19Z,2026-10-28 16:13:19 MEZ,Scraper Logs (TF Play History)
+Fleetwood Mac,Sara,Station-Specific,22,7,0,2026-10-28 15:13:19Z,2026-10-28 16:13:19 MEZ,Scraper Logs (TF Play History)
 Fleetwood Mac,That's All for Everyone,Station-Specific,17,6,0,2026-10-26 19:26:15Z,2026-10-26 20:26:15 MEZ,Scraper Logs (TF Play History)
 Fleetwood Mac,The Ledge,Station-Specific,17,5,0,2026-10-23 22:55:34Z,2026-10-24 00:55:34 MESZ,Scraper Logs (TF Play History)
-Fleetwood Mac,Tusk,Station-Specific,20,6,0,2026-10-26 11:20:15Z,2026-10-26 12:20:15 MEZ,Scraper Logs (TF Play History)
-Floating Points,Birth4000,Station-Specific,65,6,1,2026-10-28 15:19:49Z,2026-10-28 16:19:49 MEZ,Scraper Logs (TF Play History)
+Fleetwood Mac,Tusk,Station-Specific,20,5,0,2026-10-26 11:20:15Z,2026-10-26 12:20:15 MEZ,Scraper Logs (TF Play History)
+Floating Points,Birth4000,Station-Specific,65,6,0,2026-10-28 15:19:49Z,2026-10-28 16:19:49 MEZ,Scraper Logs (TF Play History)
 Floating Points,Last Bloom,Station-Specific,92,6,1,2026-10-29 00:45:50Z,2026-10-29 01:45:50 MEZ,Scraper Logs (TF Play History)
 Foo Fighters,Everlong,Station-Specific,31,9,1,2026-10-29 11:13:52Z,2026-10-29 12:13:52 MEZ,Scraper Logs (TF Play History)
 Foster The People,Sit Next to Me,Station-Specific,14,8,0,2026-10-27 09:56:16Z,2026-10-27 10:56:16 MEZ,Scraper Logs (TF Play History)
@@ -752,8 +752,8 @@ gesunokiwamiotome,watashi igai watashi ja naino,Station-Specific,9,4,0,2026-10-2
 Getatchèw Mèkurya,Shellela,Station-Specific,37,9,1,2026-10-29 10:28:22Z,2026-10-29 11:28:22 MEZ,Scraper Logs (TF Play History)
 Gilbert Bécaud,Le Pianiste de Varsovie,Station-Specific,9,6,0,2026-10-24 07:02:41Z,2026-10-24 09:02:41 MESZ,Scraper Logs (TF Play History)
 Gilbert Bécaud,Nathalie,Station-Specific,13,8,0,2026-10-25 08:09:13Z,2026-10-25 09:09:13 MEZ,Scraper Logs (TF Play History)
-Gilberto Gil,Aquele Abraço,Station-Specific,65,9,0,2026-10-27 15:02:46Z,2026-10-27 16:02:46 MEZ,Scraper Logs (TF Play History)
-Gipsy Kings,Bamboleo,Station-Specific,23,6,0,2026-10-27 14:18:46Z,2026-10-27 15:18:46 MEZ,Scraper Logs (TF Play History)
+Gilberto Gil,Aquele Abraço,Station-Specific,66,10,1,2026-10-29 15:57:22Z,2026-10-29 16:57:22 MEZ,Scraper Logs (TF Play History)
+Gipsy Kings,Bamboleo,Station-Specific,24,7,1,2026-10-29 16:30:22Z,2026-10-29 17:30:22 MEZ,Scraper Logs (TF Play History)
 Girls' Generation,Gee,Station-Specific,16,7,0,2026-10-21 16:10:16Z,2026-10-21 18:10:16 MESZ,Scraper Logs (TF Play History)
 Glasperlenspiel,Nie vergessen,Station-Specific,12,6,0,2026-10-27 17:49:17Z,2026-10-27 18:49:17 MEZ,Scraper Logs (TF Play History)
 Glass Animals,Heat Waves (Stripped Back),Station-Specific,13,8,0,2026-10-27 11:21:46Z,2026-10-27 12:21:46 MEZ,Scraper Logs (TF Play History)
@@ -765,7 +765,7 @@ Glenn Gould,"3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental)",St
 Glenn Miller & His Orchestra,(I've Got A Gal In) Kalamazoo,Station-Specific,20,4,0,2026-10-27 16:04:47Z,2026-10-27 17:04:47 MEZ,Scraper Logs (TF Play History)
 Glenn Miller & His Orchestra,At Last,Station-Specific,6,2,0,2026-10-18 02:00:22Z,2026-10-18 04:00:22 MESZ,Scraper Logs (TF Play History)
 Glenn Miller & His Orchestra,In the Mood,Station-Specific,1,1,0,2026-10-27 16:31:16Z,2026-10-27 17:31:16 MEZ,Scraper Logs (TF Play History)
-Gloria Estefan,Rhythm Is Gonna Get You,Station-Specific,15,10,1,2026-10-28 17:33:20Z,2026-10-28 18:33:20 MEZ,Scraper Logs (TF Play History)
+Gloria Estefan,Rhythm Is Gonna Get You,Station-Specific,15,9,1,2026-10-28 17:33:20Z,2026-10-28 18:33:20 MEZ,Scraper Logs (TF Play History)
 Gloria Gaynor,I Will Survive,Station-Specific,4,4,0,2026-10-19 22:02:06Z,2026-10-20 00:02:06 MESZ,Scraper Logs (TF Play History)
 Go_A,SHUM,Station-Specific,16,4,1,2026-10-29 01:02:50Z,2026-10-29 02:02:50 MEZ,Scraper Logs (TF Play History)
 Golden Earring,Radar Love,Station-Specific,3,3,1,2026-10-29 00:56:20Z,2026-10-29 01:56:20 MEZ,Scraper Logs (TF Play History)
@@ -779,23 +779,23 @@ Gorillaz,"Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",Sta
 Gorillaz,Pac-Man (feat. ScHoolboy Q),Station-Specific,6,5,0,2026-10-22 00:14:47Z,2026-10-22 02:14:47 MESZ,Scraper Logs (TF Play History)
 Gorillaz,Rock the House,Station-Specific,9,5,0,2026-10-23 11:41:32Z,2026-10-23 13:41:32 MESZ,Scraper Logs (TF Play History)
 Gorillaz,Souk Eye,Station-Specific,15,4,0,2026-10-20 17:39:43Z,2026-10-20 19:39:43 MESZ,Scraper Logs (TF Play History)
-Gorillaz,"The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",Station-Specific,13,4,0,2026-10-20 06:32:12Z,2026-10-20 08:32:12 MESZ,Scraper Logs (TF Play History)
-Gotan Project,Santa María (del Buen Ayre),Station-Specific,18,14,1,2026-10-28 14:18:19Z,2026-10-28 15:18:19 MEZ,Scraper Logs (TF Play History)
+Gorillaz,"The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",Station-Specific,14,5,1,2026-10-29 14:22:22Z,2026-10-29 15:22:22 MEZ,Scraper Logs (TF Play History)
+Gotan Project,Santa María (del Buen Ayre),Station-Specific,18,14,0,2026-10-28 14:18:19Z,2026-10-28 15:18:19 MEZ,Scraper Logs (TF Play History)
 Grace Jones,I've Seen That Face Before (Libertango),Station-Specific,23,8,0,2026-10-27 22:31:47Z,2026-10-27 23:31:47 MEZ,Scraper Logs (TF Play History)
-Grace Jones,Slave To The Rhythm (Hot Blooded Version),Station-Specific,14,5,1,2026-10-28 15:29:49Z,2026-10-28 16:29:49 MEZ,Scraper Logs (TF Play History)
+Grace Jones,Slave To The Rhythm (Hot Blooded Version),Station-Specific,14,5,0,2026-10-28 15:29:49Z,2026-10-28 16:29:49 MEZ,Scraper Logs (TF Play History)
 Grand Corps Malade,Mais je t'aime,Station-Specific,5,5,0,2026-10-27 22:46:47Z,2026-10-27 23:46:47 MEZ,Scraper Logs (TF Play History)
 Grateful Dead,Eyes of the World,Station-Specific,26,9,1,2026-10-29 05:02:51Z,2026-10-29 06:02:51 MEZ,Scraper Logs (TF Play History)
 Green Day,American Idiot (Album Version),Station-Specific,12,5,1,2026-10-28 21:57:20Z,2026-10-28 22:57:20 MEZ,Scraper Logs (TF Play History)
 Greg Shilling,Shampoo,Station-Specific,5,3,0,2026-10-25 04:45:42Z,2026-10-25 05:45:42 MEZ,Scraper Logs (TF Play History)
 Gregory Alan Isakov,Big Black Car,Station-Specific,2,2,0,2026-10-27 22:42:47Z,2026-10-27 23:42:47 MEZ,Scraper Logs (TF Play History)
 Grethe & Jørgen Ingmann,Dansevise,Station-Specific,14,4,0,2026-10-27 22:51:17Z,2026-10-27 23:51:17 MEZ,Scraper Logs (TF Play History)
-Grimes,Oblivion,Station-Specific,7,7,1,2026-10-28 15:46:19Z,2026-10-28 16:46:19 MEZ,Scraper Logs (TF Play History)
+Grimes,Oblivion,Station-Specific,7,7,0,2026-10-28 15:46:19Z,2026-10-28 16:46:19 MEZ,Scraper Logs (TF Play History)
 Groove Armada,At the River,Station-Specific,31,6,0,2026-10-27 22:36:17Z,2026-10-27 23:36:17 MEZ,Scraper Logs (TF Play History)
 Groove Armada,Madder,Station-Specific,13,6,0,2026-10-27 03:10:15Z,2026-10-27 04:10:15 MEZ,Scraper Logs (TF Play History)
 Groove Armada,My Friend (Album Version),Station-Specific,12,3,1,2026-10-28 23:24:20Z,2026-10-29 00:24:20 MEZ,Scraper Logs (TF Play History)
 Grossstadtgeflüster,Fickt-Euch-Allee,Station-Specific,8,0,0,2026-09-18 10:29:54Z,2026-09-18 12:29:54 MESZ,Scraper Logs (TF Play History)
 Grouper,Alien Observer,Station-Specific,130,8,0,2026-10-22 07:41:20Z,2026-10-22 09:41:20 MESZ,Scraper Logs (TF Play History)
-Grouper,Holding,Station-Specific,112,6,1,2026-10-28 15:38:19Z,2026-10-28 16:38:19 MEZ,Scraper Logs (TF Play History)
+Grouper,Holding,Station-Specific,112,6,0,2026-10-28 15:38:19Z,2026-10-28 16:38:19 MEZ,Scraper Logs (TF Play History)
 Grover Washington Jr.,Mister Magic,Station-Specific,44,5,1,2026-10-28 20:28:50Z,2026-10-28 21:28:50 MEZ,Scraper Logs (TF Play History)
 Guitar Tribute Players,Angel of Small Death and the Codeine Scene,Station-Specific,1,0,0,2026-08-12 16:17:23Z,2026-08-12 18:17:23 MESZ,Scraper Logs (TF Play History)
 Gus Dapperton,Ditch,Station-Specific,21,7,0,2026-10-27 14:42:16Z,2026-10-27 15:42:16 MEZ,Scraper Logs (TF Play History)
@@ -826,7 +826,7 @@ Haute & Freddy,Dance The Pain Away,Station-Specific,8,5,0,2026-10-26 19:46:16Z,2
 Haute & Freddy,Shy Girl,Station-Specific,5,2,0,2026-10-16 18:08:07Z,2026-10-16 20:08:07 MESZ,Scraper Logs (TF Play History)
 Hayley Williams,Simmer  (Acoustic),Station-Specific,4,4,1,2026-10-29 09:11:52Z,2026-10-29 10:11:52 MEZ,Scraper Logs (TF Play History)
 Heathered Pearls,Pacific Summits (Pulse Version),Station-Specific,60,3,0,2026-10-24 06:16:11Z,2026-10-24 08:16:11 MESZ,Scraper Logs (TF Play History)
-Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),Station-Specific,22,7,1,2026-10-28 23:29:20Z,2026-10-29 00:29:20 MEZ,Scraper Logs (TF Play History)
+Hector Villalobos,Bachianas Brasileiras No. 5: I Aria (Cantilena),Station-Specific,22,6,1,2026-10-28 23:29:20Z,2026-10-29 00:29:20 MEZ,Scraper Logs (TF Play History)
 Heejin,Algorithm,Station-Specific,20,8,1,2026-10-29 10:25:22Z,2026-10-29 11:25:22 MEZ,Scraper Logs (TF Play History)
 Helado Negro,Brown Fluorescence,Station-Specific,23,4,0,2026-10-27 22:04:17Z,2026-10-27 23:04:17 MEZ,Scraper Logs (TF Play History)
 Helen Forrest,"It's Been A Long, Long Time",Station-Specific,12,2,0,2026-10-21 04:51:14Z,2026-10-21 06:51:14 MESZ,Scraper Logs (TF Play History)
@@ -837,13 +837,13 @@ Hem,Half Acre (Remastered 2025),Station-Specific,46,5,0,2026-10-27 22:00:17Z,202
 Henry Cow,Beautiful as the Moon; Terrible as an Army with Banners,Station-Specific,16,2,0,2026-10-10 19:17:03Z,2026-10-10 21:17:03 MESZ,Scraper Logs (TF Play History)
 Henry Mancini,Moon River (Remastered),Station-Specific,27,4,0,2026-10-27 21:57:47Z,2026-10-27 22:57:47 MEZ,Scraper Logs (TF Play History)
 Her's,Blue Lips,Station-Specific,29,9,1,2026-10-29 06:47:51Z,2026-10-29 07:47:51 MEZ,Scraper Logs (TF Play History)
-Herb Alpert's Tijuana Brass,A Taste of Honey,Station-Specific,24,4,1,2026-10-28 16:37:49Z,2026-10-28 17:37:49 MEZ,Scraper Logs (TF Play History)
+Herb Alpert's Tijuana Brass,A Taste of Honey,Station-Specific,24,4,0,2026-10-28 16:37:49Z,2026-10-28 17:37:49 MEZ,Scraper Logs (TF Play History)
 Herbert Grönemeyer,Mensch,Station-Specific,5,3,0,2026-10-26 04:10:14Z,2026-10-26 05:10:14 MEZ,Scraper Logs (TF Play History)
 Herbert Grönemeyer,Mensch (Remastered 2016),Station-Specific,6,2,0,2026-10-21 14:10:15Z,2026-10-21 16:10:15 MESZ,Scraper Logs (TF Play History)
 Herbert Grönemeyer,Männer (Remastered 2016),Station-Specific,5,2,0,2026-10-21 04:44:15Z,2026-10-21 06:44:15 MESZ,Scraper Logs (TF Play History)
 Herbert Grönemeyer,Was soll das (Remastered 2016),Station-Specific,23,4,0,2026-10-23 12:16:31Z,2026-10-23 14:16:31 MESZ,Scraper Logs (TF Play History)
 Herbert Waltl,"Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro",Station-Specific,13,5,0,2026-10-25 05:19:42Z,2026-10-25 06:19:42 MEZ,Scraper Logs (TF Play History)
-Herbie Hancock,Chameleon,Station-Specific,28,4,1,2026-10-28 16:21:19Z,2026-10-28 17:21:19 MEZ,Scraper Logs (TF Play History)
+Herbie Hancock,Chameleon,Station-Specific,28,4,0,2026-10-28 16:21:19Z,2026-10-28 17:21:19 MEZ,Scraper Logs (TF Play History)
 Hikaru Utada,First Love,Station-Specific,31,11,1,2026-10-29 08:21:22Z,2026-10-29 09:21:22 MEZ,Scraper Logs (TF Play History)
 Hindi Zahra,Beautiful Tango (Remastered Version),Station-Specific,26,8,0,2026-10-28 03:22:18Z,2026-10-28 04:22:18 MEZ,Scraper Logs (TF Play History)
 Hiroshi Yoshimura,Feel,Station-Specific,33,8,1,2026-10-29 07:36:22Z,2026-10-29 08:36:22 MEZ,Scraper Logs (TF Play History)
@@ -874,8 +874,8 @@ indigo la End,Haru No Iutoori,Station-Specific,18,7,0,2026-10-27 09:12:16Z,2026-
 Insane Clown Posse,Cemetary Girl,Station-Specific,3,1,0,2026-10-18 03:04:23Z,2026-10-18 05:04:23 MESZ,Scraper Logs (TF Play History)
 INXS,Don't Change,Station-Specific,19,9,1,2026-10-28 23:39:50Z,2026-10-29 00:39:50 MEZ,Scraper Logs (TF Play History)
 INXS,Never Tear Us Apart,Station-Specific,18,8,0,2026-10-27 23:18:17Z,2026-10-28 00:18:17 MEZ,Scraper Logs (TF Play History)
-Iration,Fly with Me,Station-Specific,20,10,0,2026-10-27 10:47:16Z,2026-10-27 11:47:16 MEZ,Scraper Logs (TF Play History)
-Irene Cara,Flashdance...What a Feeling (Radio Edit),Station-Specific,16,9,0,2026-10-24 08:18:42Z,2026-10-24 10:18:42 MESZ,Scraper Logs (TF Play History)
+Iration,Fly with Me,Station-Specific,20,9,0,2026-10-27 10:47:16Z,2026-10-27 11:47:16 MEZ,Scraper Logs (TF Play History)
+Irene Cara,Flashdance...What a Feeling (Radio Edit),Station-Specific,16,8,0,2026-10-24 08:18:42Z,2026-10-24 10:18:42 MESZ,Scraper Logs (TF Play History)
 Iron & Wine,Naked as We Came,Station-Specific,130,8,0,2026-10-28 04:05:18Z,2026-10-28 05:05:18 MEZ,Scraper Logs (TF Play History)
 Iron & Wine,Such Great Heights,Station-Specific,11,8,0,2026-10-25 11:50:13Z,2026-10-25 12:50:13 MEZ,Scraper Logs (TF Play History)
 Iron Maiden,Still Life (2015 Remaster),Station-Specific,1,1,0,2026-10-25 16:43:13Z,2026-10-25 17:43:13 MEZ,Scraper Logs (TF Play History)
@@ -884,17 +884,17 @@ Jack Johnson,Upside Down,Station-Specific,6,5,1,2026-10-29 03:05:51Z,2026-10-29 
 Jacquees,Won't Turn It Down,Station-Specific,3,1,0,2026-10-19 23:00:37Z,2026-10-20 01:00:37 MESZ,Scraper Logs (TF Play History)
 James Blake,Retrograde,Station-Specific,66,9,1,2026-10-29 03:14:21Z,2026-10-29 04:14:21 MEZ,Scraper Logs (TF Play History)
 James Brown,I Got You (I Feel Good),Station-Specific,28,8,0,2026-10-27 19:04:47Z,2026-10-27 20:04:47 MEZ,Scraper Logs (TF Play History)
-James Brown,Sunny,Station-Specific,6,5,1,2026-10-28 13:28:49Z,2026-10-28 14:28:49 MEZ,Scraper Logs (TF Play History)
+James Brown,Sunny,Station-Specific,6,5,0,2026-10-28 13:28:49Z,2026-10-28 14:28:49 MEZ,Scraper Logs (TF Play History)
 James Taylor,Fire and Rain  (2019 Remaster),Station-Specific,87,8,0,2026-10-27 18:30:17Z,2026-10-27 19:30:17 MEZ,Scraper Logs (TF Play History)
 Jamie xx,Gosh,Station-Specific,45,8,1,2026-10-29 03:09:21Z,2026-10-29 04:09:21 MEZ,Scraper Logs (TF Play History)
-Jamiroquai,Cosmic Girl (Remastered 2013),Station-Specific,76,10,0,2026-10-27 18:34:17Z,2026-10-27 19:34:17 MEZ,Scraper Logs (TF Play History)
-Jan Hammer,Crockett's Theme,Station-Specific,20,6,1,2026-10-28 13:36:49Z,2026-10-28 14:36:49 MEZ,Scraper Logs (TF Play History)
+Jamiroquai,Cosmic Girl (Remastered 2013),Station-Specific,76,9,0,2026-10-27 18:34:17Z,2026-10-27 19:34:17 MEZ,Scraper Logs (TF Play History)
+Jan Hammer,Crockett's Theme,Station-Specific,20,5,0,2026-10-28 13:36:49Z,2026-10-28 14:36:49 MEZ,Scraper Logs (TF Play History)
 Janet Jackson,"Any Time, Any Place",Station-Specific,22,5,0,2026-10-27 18:23:47Z,2026-10-27 19:23:47 MEZ,Scraper Logs (TF Play History)
 Janis Joplin,Me and Bobby McGee,Station-Specific,24,5,0,2026-10-27 18:55:17Z,2026-10-27 19:55:17 MEZ,Scraper Logs (TF Play History)
 Jars Of Clay,Flood,Station-Specific,10,7,0,2026-10-26 21:35:16Z,2026-10-26 22:35:16 MEZ,Scraper Logs (TF Play History)
 JAWNY,true,Station-Specific,3,1,0,2026-10-13 19:10:04Z,2026-10-13 21:10:04 MESZ,Scraper Logs (TF Play History)
 JAY1,Your Mrs,Station-Specific,3,2,0,2026-10-04 23:17:04Z,2026-10-05 01:17:04 MESZ,Scraper Logs (TF Play History)
-Jazz Liberatorz,Always something,Station-Specific,16,7,1,2026-10-28 13:31:49Z,2026-10-28 14:31:49 MEZ,Scraper Logs (TF Play History)
+Jazz Liberatorz,Always something,Station-Specific,16,7,0,2026-10-28 13:31:49Z,2026-10-28 14:31:49 MEZ,Scraper Logs (TF Play History)
 Jazzy,No Bad Vibes,Station-Specific,4,3,0,2026-10-25 15:42:43Z,2026-10-25 16:42:43 MEZ,Scraper Logs (TF Play History)
 Jean-Luc Ponty,Computer Incantations for World Peace,Station-Specific,31,6,0,2026-10-28 08:54:49Z,2026-10-28 09:54:49 MEZ,Scraper Logs (TF Play History)
 Jeff Beck,Where Were You (Live),Station-Specific,14,3,0,2026-10-28 09:00:19Z,2026-10-28 10:00:19 MEZ,Scraper Logs (TF Play History)
@@ -905,9 +905,10 @@ Jeff Buckley,So Real,Station-Specific,3,3,0,2026-10-28 11:10:49Z,2026-10-28 12:1
 Jeff Lynne,At Last,Station-Specific,4,2,0,2026-10-18 05:13:25Z,2026-10-18 07:13:25 MESZ,Scraper Logs (TF Play History)
 Jerry Cantrell,Rooster (2022 Remaster),Station-Specific,12,1,0,2026-10-05 22:21:48Z,2026-10-06 00:21:48 MESZ,Scraper Logs (TF Play History)
 Jerry Cantrell,Would? (2022 Remaster),Station-Specific,10,5,0,2026-10-21 22:28:46Z,2026-10-22 00:28:46 MESZ,Scraper Logs (TF Play History)
-Jesse Cook,Breathing Below Surface (Rerecorded),Station-Specific,11,9,1,2026-10-28 14:24:19Z,2026-10-28 15:24:19 MEZ,Scraper Logs (TF Play History)
+Jesse Cook,Breathing Below Surface (Rerecorded),Station-Specific,11,9,0,2026-10-28 14:24:19Z,2026-10-28 15:24:19 MEZ,Scraper Logs (TF Play History)
 Jim James,St. James Infirmary,Station-Specific,28,6,0,2026-10-24 12:25:12Z,2026-10-24 14:25:12 MESZ,Scraper Logs (TF Play History)
 Jim White,Static on the Radio,Station-Specific,16,4,0,2026-10-25 22:41:13Z,2026-10-25 23:41:13 MEZ,Scraper Logs (TF Play History)
+Jimi Hendrix,"Hey Joe (Live At Winterland, San Francisco, CA)",Station-Specific,1,1,1,2026-10-29 15:16:22Z,2026-10-29 16:16:22 MEZ,Scraper Logs (TF Play History)
 Jimi Hendrix,Voodoo Child (Slight Return),Station-Specific,8,5,1,2026-10-29 09:48:52Z,2026-10-29 10:48:52 MEZ,Scraper Logs (TF Play History)
 Jimmy Eat World,The Middle,Station-Specific,12,7,0,2026-10-23 16:25:32Z,2026-10-23 18:25:32 MESZ,Scraper Logs (TF Play History)
 Joan Jett & The Blackhearts,I Love Rock 'N Roll,Station-Specific,14,9,0,2026-10-27 19:07:17Z,2026-10-27 20:07:17 MEZ,Scraper Logs (TF Play History)
@@ -953,14 +954,14 @@ Jonathan Parecki,Senbonzakura (Hatsune Miku),Station-Specific,4,0,0,2026-09-02 1
 Joni Mitchell,A Case of You,Station-Specific,40,7,0,2026-10-23 18:09:32Z,2026-10-23 20:09:32 MESZ,Scraper Logs (TF Play History)
 Joni Mitchell,At Last (LP Version),Station-Specific,6,1,0,2026-10-20 11:54:43Z,2026-10-20 13:54:43 MESZ,Scraper Logs (TF Play History)
 Joni Mitchell,River,Station-Specific,20,4,0,2026-10-13 12:16:29Z,2026-10-13 14:16:29 MESZ,Scraper Logs (TF Play History)
-Jorge Ben Jor,"Mas, Que Nada!",Station-Specific,50,11,0,2026-10-25 10:53:42Z,2026-10-25 11:53:42 MEZ,Scraper Logs (TF Play History)
+Jorge Ben Jor,"Mas, Que Nada!",Station-Specific,51,11,1,2026-10-29 16:02:52Z,2026-10-29 17:02:52 MEZ,Scraper Logs (TF Play History)
 Josh Rouse,1972,Station-Specific,23,6,0,2026-10-26 22:17:45Z,2026-10-26 23:17:45 MEZ,Scraper Logs (TF Play History)
 Josh Rouse,Street Lights,Station-Specific,13,5,0,2026-10-27 17:56:46Z,2026-10-27 18:56:46 MEZ,Scraper Logs (TF Play History)
 José González,Heartbeats,Station-Specific,119,10,1,2026-10-29 02:25:21Z,2026-10-29 03:25:21 MEZ,Scraper Logs (TF Play History)
 Journey,Don't Stop Believin' (Album Version),Station-Specific,24,7,0,2026-10-27 18:01:17Z,2026-10-27 19:01:17 MEZ,Scraper Logs (TF Play History)
 Joywave,In Clover,Station-Specific,18,7,0,2026-10-27 11:03:46Z,2026-10-27 12:03:46 MEZ,Scraper Logs (TF Play History)
 Joywave,Rumors,Station-Specific,18,7,0,2026-10-26 15:36:45Z,2026-10-26 16:36:45 MEZ,Scraper Logs (TF Play History)
-João Gilberto,Chega de Saudade,Station-Specific,50,7,0,2026-10-23 12:37:31Z,2026-10-23 14:37:31 MESZ,Scraper Logs (TF Play History)
+João Gilberto,Chega de Saudade,Station-Specific,50,6,0,2026-10-23 12:37:31Z,2026-10-23 14:37:31 MESZ,Scraper Logs (TF Play History)
 João Gilberto,Garota de Ipanema (Live),Station-Specific,61,5,0,2026-10-27 16:58:46Z,2026-10-27 17:58:46 MEZ,Scraper Logs (TF Play History)
 Judas Priest,Breaking the Law,Station-Specific,9,1,0,2026-10-17 04:45:39Z,2026-10-17 06:45:39 MESZ,Scraper Logs (TF Play History)
 Judy Collins,Bread and Roses,Station-Specific,23,7,1,2026-10-29 07:41:22Z,2026-10-29 08:41:22 MEZ,Scraper Logs (TF Play History)
@@ -971,7 +972,7 @@ Julien Baker,Hardline,Station-Specific,29,8,0,2026-10-27 13:13:46Z,2026-10-27 14
 Julio Iglesias,Quiero,Station-Specific,24,9,0,2026-10-28 08:19:49Z,2026-10-28 09:19:49 MEZ,Scraper Logs (TF Play History)
 Jungle,Busy Earnin',Station-Specific,35,9,0,2026-10-28 09:58:49Z,2026-10-28 10:58:49 MEZ,Scraper Logs (TF Play History)
 Jungle,Keep Moving,Station-Specific,52,11,0,2026-10-27 02:35:15Z,2026-10-27 03:35:15 MEZ,Scraper Logs (TF Play History)
-Junior H,Ella,Station-Specific,9,7,0,2026-10-25 14:19:44Z,2026-10-25 15:19:44 MEZ,Scraper Logs (TF Play History)
+Junior H,Ella,Station-Specific,9,6,0,2026-10-25 14:19:44Z,2026-10-25 15:19:44 MEZ,Scraper Logs (TF Play History)
 Junkie XL,Brothers In Arms,Station-Specific,29,4,0,2026-10-28 10:19:19Z,2026-10-28 11:19:19 MEZ,Scraper Logs (TF Play History)
 Jvke,golden hour,Station-Specific,13,4,0,2026-10-09 19:51:02Z,2026-10-09 21:51:02 MESZ,Scraper Logs (TF Play History)
 Kacey Musgraves,Deeper Well,Station-Specific,29,6,1,2026-10-28 20:42:50Z,2026-10-28 21:42:50 MEZ,Scraper Logs (TF Play History)
@@ -1016,14 +1017,14 @@ Kings Of Convenience,Rocky Trail,Station-Specific,26,10,0,2026-10-27 05:52:45Z,2
 Kiss,Rock And Roll All Nite,Station-Specific,4,2,0,2026-10-04 14:54:34Z,2026-10-04 16:54:34 MESZ,Scraper Logs (TF Play History)
 Knocked Loose,Mistakes Like Fractures,Station-Specific,8,0,0,2026-09-25 20:23:49Z,2026-09-25 22:23:49 MESZ,Scraper Logs (TF Play History)
 KOHTO,princess mononoke theme,Station-Specific,8,1,0,2026-10-16 03:35:03Z,2026-10-16 05:35:03 MESZ,Scraper Logs (TF Play History)
-Korpiklaani,Vodka,Station-Specific,11,2,1,2026-10-28 12:48:49Z,2026-10-28 13:48:49 MEZ,Scraper Logs (TF Play History)
+Korpiklaani,Vodka,Station-Specific,11,2,0,2026-10-28 12:48:49Z,2026-10-28 13:48:49 MEZ,Scraper Logs (TF Play History)
 Kraftwerk,Autobahn  (2024 Single Edit),Station-Specific,24,7,0,2026-10-23 09:55:01Z,2026-10-23 11:55:01 MESZ,Scraper Logs (TF Play History)
-Kraftwerk,Computer Love  (2009 Remaster),Station-Specific,42,6,1,2026-10-28 14:06:19Z,2026-10-28 15:06:19 MEZ,Scraper Logs (TF Play History)
+Kraftwerk,Computer Love  (2009 Remaster),Station-Specific,42,6,0,2026-10-28 14:06:19Z,2026-10-28 15:06:19 MEZ,Scraper Logs (TF Play History)
 Kraftwerk,Das Model,Station-Specific,25,4,0,2026-10-26 16:14:46Z,2026-10-26 17:14:46 MEZ,Scraper Logs (TF Play History)
 Kris Kristofferson,Me and Bobby McGee,Station-Specific,32,7,0,2026-10-23 04:50:27Z,2026-10-23 06:50:27 MESZ,Scraper Logs (TF Play History)
 Kygo,Heaven On Your Mind,Station-Specific,11,6,0,2026-10-26 16:47:16Z,2026-10-26 17:47:16 MEZ,Scraper Logs (TF Play History)
 Kylie Minogue,Spinning Around,Station-Specific,20,9,0,2026-10-26 20:36:16Z,2026-10-26 21:36:16 MEZ,Scraper Logs (TF Play History)
-Käärijä,Cha Cha Cha,Station-Specific,20,8,0,2026-10-25 20:24:44Z,2026-10-25 21:24:44 MEZ,Scraper Logs (TF Play History)
+Käärijä,Cha Cha Cha,Station-Specific,21,9,1,2026-10-29 16:13:22Z,2026-10-29 17:13:22 MEZ,Scraper Logs (TF Play History)
 L'Impératrice,Sonate Pacifique,Station-Specific,31,5,0,2026-10-25 06:22:13Z,2026-10-25 07:22:13 MEZ,Scraper Logs (TF Play History)
 L.T.D.,(Every Time I Turn Around) Back In Love Again (Album Version),Station-Specific,19,5,0,2026-10-24 08:22:42Z,2026-10-24 10:22:42 MESZ,Scraper Logs (TF Play History)
 La Fenice,Le Chant des oiseaux,Station-Specific,1,1,0,2026-10-02 15:12:53Z,2026-10-02 17:12:53 MESZ,Scraper Logs (TF Play History)
@@ -1095,9 +1096,9 @@ Louis Jordan & His Tympany Five,Choo Choo Ch'Boogie,Station-Specific,1,1,0,2026-
 Louis Prima,"Jump, Jive, An' Wail (Remastered)",Station-Specific,1,1,0,2026-10-27 16:42:16Z,2026-10-27 17:42:16 MEZ,Scraper Logs (TF Play History)
 Lovage,Anger Management (Instrumental),Station-Specific,1,0,0,2026-09-25 16:39:49Z,2026-09-25 18:39:49 MESZ,Scraper Logs (TF Play History)
 Love and Rockets,Haunted When the Minutes Drag,Station-Specific,5,2,0,2026-10-23 11:33:31Z,2026-10-23 13:33:31 MESZ,Scraper Logs (TF Play History)
-Love and Rockets,Saudade,Station-Specific,20,5,0,2026-10-23 16:38:32Z,2026-10-23 18:38:32 MESZ,Scraper Logs (TF Play History)
+Love and Rockets,Saudade,Station-Specific,21,6,1,2026-10-29 14:08:52Z,2026-10-29 15:08:52 MEZ,Scraper Logs (TF Play History)
 Love and Rockets,So Alive,Station-Specific,8,3,1,2026-10-29 12:34:52Z,2026-10-29 13:34:52 MEZ,Scraper Logs (TF Play History)
-Loverboy,Lovin' Every Minute of It,Station-Specific,5,4,0,2026-10-24 12:57:12Z,2026-10-24 14:57:12 MESZ,Scraper Logs (TF Play History)
+Loverboy,Lovin' Every Minute of It,Station-Specific,6,5,1,2026-10-29 12:50:22Z,2026-10-29 13:50:22 MEZ,Scraper Logs (TF Play History)
 LP,Lost on You,Station-Specific,17,6,0,2026-10-26 02:35:14Z,2026-10-26 03:35:14 MEZ,Scraper Logs (TF Play History)
 Lubomyr Melnyk,The Six Day Moment,Station-Specific,68,5,0,2026-10-28 04:28:48Z,2026-10-28 05:28:48 MEZ,Scraper Logs (TF Play History)
 Luca Di Sabatino,Switched-on Wendy,Station-Specific,6,4,0,2026-10-28 04:57:48Z,2026-10-28 05:57:48 MEZ,Scraper Logs (TF Play History)
@@ -1130,7 +1131,7 @@ Marija Šerifović,Molitva,Station-Specific,14,5,0,2026-10-28 08:16:49Z,2026-10-
 Marilyn Manson,The Love Song,Station-Specific,5,1,0,2026-10-25 20:53:19Z,2026-10-25 21:53:19 MEZ,Scraper Logs (TF Play History)
 Marisa Monte,Beija Eu,Station-Specific,53,10,0,2026-10-28 06:41:18Z,2026-10-28 07:41:18 MEZ,Scraper Logs (TF Play History)
 Mariya Takeuchi,Plastic Love,Station-Specific,24,8,0,2026-10-28 10:41:19Z,2026-10-28 11:41:19 MEZ,Scraper Logs (TF Play History)
-Mariza,Ó gente da minha terra,Station-Specific,32,9,0,2026-10-27 08:03:46Z,2026-10-27 09:03:46 MEZ,Scraper Logs (TF Play History)
+Mariza,Ó gente da minha terra,Station-Specific,33,10,1,2026-10-29 16:05:22Z,2026-10-29 17:05:22 MEZ,Scraper Logs (TF Play History)
 Mark Hollis,A Life (1895 - 1915),Station-Specific,19,3,0,2026-10-28 12:31:19Z,2026-10-28 13:31:19 MEZ,Scraper Logs (TF Play History)
 Mark Hollis,The Colour Of Spring,Station-Specific,24,5,0,2026-10-27 09:44:46Z,2026-10-27 10:44:46 MEZ,Scraper Logs (TF Play History)
 Mark Knopfler,The Long Road,Station-Specific,14,5,0,2026-10-28 06:04:48Z,2026-10-28 07:04:48 MEZ,Scraper Logs (TF Play History)
@@ -1140,12 +1141,12 @@ Martin Ditcham,Maureen,Station-Specific,7,0,0,2026-08-18 22:36:45Z,2026-08-19 00
 Martin Garrix,Carry You,Station-Specific,8,5,1,2026-10-28 22:09:50Z,2026-10-28 23:09:50 MEZ,Scraper Logs (TF Play History)
 Martina McBride,Independence Day,Station-Specific,10,4,1,2026-10-28 23:11:50Z,2026-10-29 00:11:50 MEZ,Scraper Logs (TF Play History)
 Marty Friedman,Senbonzakura,Station-Specific,16,4,1,2026-10-29 00:08:21Z,2026-10-29 01:08:21 MEZ,Scraper Logs (TF Play History)
-Marvin Gaye,Distant Lover,Station-Specific,39,5,0,2026-10-19 23:45:08Z,2026-10-20 01:45:08 MESZ,Scraper Logs (TF Play History)
+Marvin Gaye,Distant Lover,Station-Specific,40,6,1,2026-10-29 14:00:22Z,2026-10-29 15:00:22 MEZ,Scraper Logs (TF Play History)
 Marvin Gaye,I Heard It Through The Grapevine (SACD Stereo),Station-Specific,47,4,0,2026-10-26 12:56:15Z,2026-10-26 13:56:15 MEZ,Scraper Logs (TF Play History)
 Marvin Gaye,Inner City Blues (Make Me Wanna Holler),Station-Specific,130,4,0,2026-10-15 10:53:30Z,2026-10-15 12:53:30 MESZ,Scraper Logs (TF Play History)
-Marvin Gaye,Let's Get It On,Station-Specific,7,1,0,2026-10-10 00:27:00Z,2026-10-10 02:27:00 MESZ,Scraper Logs (TF Play History)
+Marvin Gaye,Let's Get It On,Station-Specific,8,2,1,2026-10-29 12:45:22Z,2026-10-29 13:45:22 MEZ,Scraper Logs (TF Play History)
 Marvin Gaye,Mercy Mercy Me (The Ecology),Station-Specific,23,5,0,2026-10-26 09:44:15Z,2026-10-26 10:44:15 MEZ,Scraper Logs (TF Play History)
-Marvin Gaye,Save The Children,Station-Specific,24,5,0,2026-10-25 00:21:42Z,2026-10-25 02:21:42 MESZ,Scraper Logs (TF Play History)
+Marvin Gaye,Save The Children,Station-Specific,24,4,0,2026-10-25 00:21:42Z,2026-10-25 02:21:42 MESZ,Scraper Logs (TF Play History)
 Marvin Gaye,Sexual Healing (Album Version),Station-Specific,46,3,0,2026-10-21 20:31:16Z,2026-10-21 22:31:16 MESZ,Scraper Logs (TF Play History)
 Marvin Gaye,Wholy Holy,Station-Specific,18,3,0,2026-10-22 17:02:50Z,2026-10-22 19:02:50 MESZ,Scraper Logs (TF Play History)
 Mary Halvorson,About Ghosts,Station-Specific,16,4,0,2026-10-27 15:08:46Z,2026-10-27 16:08:46 MEZ,Scraper Logs (TF Play History)
@@ -1179,7 +1180,7 @@ Melody Gardot,Perhaps You'll Wonder Why (The Paris Sessions),Station-Specific,5,
 Melody Gardot,This Foolish Heart Could Love You,Station-Specific,4,4,0,2026-10-27 14:54:16Z,2026-10-27 15:54:16 MEZ,Scraper Logs (TF Play History)
 Melody Gardot,Worrisome Heart (Album Version),Station-Specific,22,5,0,2026-10-26 20:56:18Z,2026-10-26 21:56:18 MEZ,Scraper Logs (TF Play History)
 Men At Work,Down Under,Station-Specific,6,2,0,2026-10-26 04:53:44Z,2026-10-26 05:53:44 MEZ,Scraper Logs (TF Play History)
-Men At Work,Overkill,Station-Specific,15,7,1,2026-10-28 14:02:19Z,2026-10-28 15:02:19 MEZ,Scraper Logs (TF Play History)
+Men At Work,Overkill,Station-Specific,15,7,0,2026-10-28 14:02:19Z,2026-10-28 15:02:19 MEZ,Scraper Logs (TF Play History)
 Men I Trust,Show Me How,Station-Specific,58,8,1,2026-10-29 08:59:52Z,2026-10-29 09:59:52 MEZ,Scraper Logs (TF Play History)
 Mercedes Sosa,Gracias a la Vida (En Vivo NY),Station-Specific,59,12,1,2026-10-29 08:08:52Z,2026-10-29 09:08:52 MEZ,Scraper Logs (TF Play History)
 Mercury Rev,Little Rhymes,Station-Specific,8,7,1,2026-10-29 07:26:51Z,2026-10-29 08:26:51 MEZ,Scraper Logs (TF Play History)
@@ -1192,12 +1193,12 @@ MGMT,Time to Pretend (Album Version),Station-Specific,25,8,0,2026-10-26 18:46:45
 Mica Levi,Love,Station-Specific,16,5,0,2026-10-28 02:44:48Z,2026-10-28 03:44:48 MEZ,Scraper Logs (TF Play History)
 Michael Brook,Ultramarine,Station-Specific,19,5,0,2026-10-28 05:01:48Z,2026-10-28 06:01:48 MEZ,Scraper Logs (TF Play History)
 Michael Bublé,Crazy (with Jon Batiste & Stay Human)  (Live),Station-Specific,11,4,0,2026-10-21 19:42:48Z,2026-10-21 21:42:48 MESZ,Scraper Logs (TF Play History)
-Michael Damian,Rock On,Station-Specific,5,2,0,2026-10-18 16:00:26Z,2026-10-18 18:00:26 MESZ,Scraper Logs (TF Play History)
+Michael Damian,Rock On,Station-Specific,6,3,1,2026-10-29 12:53:52Z,2026-10-29 13:53:52 MEZ,Scraper Logs (TF Play History)
 Michael Hedges,Aerial Boundaries,Station-Specific,37,8,0,2026-10-28 02:39:48Z,2026-10-28 03:39:48 MEZ,Scraper Logs (TF Play History)
 Michael Hutchence,Slide Away,Station-Specific,14,6,0,2026-10-28 10:49:19Z,2026-10-28 11:49:19 MEZ,Scraper Logs (TF Play History)
 Michael Jackson,Jam,Station-Specific,6,3,0,2026-10-23 19:44:03Z,2026-10-23 21:44:03 MESZ,Scraper Logs (TF Play History)
 Michael Jackson,Morphine (Album Version),Station-Specific,4,1,0,2026-10-13 15:32:01Z,2026-10-13 17:32:01 MESZ,Scraper Logs (TF Play History)
-Michael Jackson,Rock with You (Single Version),Station-Specific,50,4,0,2026-10-23 09:29:31Z,2026-10-23 11:29:31 MESZ,Scraper Logs (TF Play History)
+Michael Jackson,Rock with You (Single Version),Station-Specific,51,5,1,2026-10-29 14:04:52Z,2026-10-29 15:04:52 MEZ,Scraper Logs (TF Play History)
 Michael Jackson,Stranger in Moscow,Station-Specific,15,2,1,2026-10-29 12:39:22Z,2026-10-29 13:39:22 MEZ,Scraper Logs (TF Play History)
 Michael Jackson,Thriller,Station-Specific,5,3,0,2026-10-19 15:45:35Z,2026-10-19 17:45:35 MESZ,Scraper Logs (TF Play History)
 Michael Jackson,Who Is It,Station-Specific,4,1,0,2026-10-06 12:08:01Z,2026-10-06 14:08:01 MESZ,Scraper Logs (TF Play History)
@@ -1238,14 +1239,14 @@ Mree,Into the Well,Station-Specific,5,4,0,2026-10-25 11:01:43Z,2026-10-25 12:01:
 Mstislav Rostropovich,"Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene ""Swan Theme"". Moderato",Station-Specific,1,1,0,2026-10-25 21:59:43Z,2026-10-25 22:59:43 MEZ,Scraper Logs (TF Play History)
 Muddy Waters,Mannish Boy,Station-Specific,23,5,1,2026-10-28 21:13:20Z,2026-10-28 22:13:20 MEZ,Scraper Logs (TF Play History)
 Mulatu Astatke,Yègellé Tezeta,Station-Specific,55,10,0,2026-10-27 10:43:46Z,2026-10-27 11:43:46 MEZ,Scraper Logs (TF Play History)
-Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),Station-Specific,80,8,1,2026-10-28 14:13:49Z,2026-10-28 15:13:49 MEZ,Scraper Logs (TF Play History)
+Mulatu Astatqe,Yèkèrmo Sèw (A Man of Experience and Wisdom),Station-Specific,80,8,0,2026-10-28 14:13:49Z,2026-10-28 15:13:49 MEZ,Scraper Logs (TF Play History)
 Murray Gold,A Good Man? (Twelve's Theme),Station-Specific,4,3,0,2026-10-25 07:47:13Z,2026-10-25 08:47:13 MEZ,Scraper Logs (TF Play History)
-Murray Head,One Night In Bangkok (From “Chess” / Remastered 2016),Station-Specific,19,6,0,2026-10-08 13:06:23Z,2026-10-08 15:06:23 MESZ,Scraper Logs (TF Play History)
+Murray Head,One Night In Bangkok (From “Chess” / Remastered 2016),Station-Specific,19,5,0,2026-10-08 13:06:23Z,2026-10-08 15:06:23 MESZ,Scraper Logs (TF Play History)
 Muse,Feeling Good,Station-Specific,22,6,0,2026-10-26 22:37:15Z,2026-10-26 23:37:15 MEZ,Scraper Logs (TF Play History)
 Muse,Won’t Stand Down,Station-Specific,15,5,1,2026-10-28 21:17:20Z,2026-10-28 22:17:20 MEZ,Scraper Logs (TF Play History)
 My Chemical Romance,I'm Not Okay (I Promise),Station-Specific,10,3,1,2026-10-29 11:41:22Z,2026-10-29 12:41:22 MEZ,Scraper Logs (TF Play History)
 Måneskin,Torna a casa,Station-Specific,18,8,0,2026-10-28 08:42:19Z,2026-10-28 09:42:19 MEZ,Scraper Logs (TF Play History)
-Måneskin,ZITTI E BUONI,Station-Specific,20,6,0,2026-10-26 20:43:46Z,2026-10-26 21:43:46 MEZ,Scraper Logs (TF Play History)
+Måneskin,ZITTI E BUONI,Station-Specific,21,7,1,2026-10-29 16:09:52Z,2026-10-29 17:09:52 MEZ,Scraper Logs (TF Play History)
 Nancy Wilson,Guess Who I Saw Today,Station-Specific,22,4,0,2026-10-25 21:01:13Z,2026-10-25 22:01:13 MEZ,Scraper Logs (TF Play History)
 Nanowar of Steel,Norwegian Reggaeton (feat. Charly Glamour & Gigatron),Station-Specific,9,2,0,2026-10-15 15:32:01Z,2026-10-15 17:32:01 MESZ,Scraper Logs (TF Play History)
 Nanowar of Steel,Valhalleluja,Station-Specific,7,1,0,2026-10-18 02:41:53Z,2026-10-18 04:41:53 MESZ,Scraper Logs (TF Play History)
@@ -1262,10 +1263,10 @@ Neil Diamond,Be (Introduction Of Jonathan),Station-Specific,12,5,0,2026-10-27 21
 Neil Diamond,Sweet Caroline,Station-Specific,5,5,1,2026-10-28 20:25:20Z,2026-10-28 21:25:20 MEZ,Scraper Logs (TF Play History)
 Neil Young,Harvest Moon (Album Version),Station-Specific,11,9,1,2026-10-28 21:45:20Z,2026-10-28 22:45:20 MEZ,Scraper Logs (TF Play History)
 Neil Young,Heart of Gold,Station-Specific,55,7,0,2026-10-27 21:18:17Z,2026-10-27 22:18:17 MEZ,Scraper Logs (TF Play History)
-Nek,Fatti avanti amore (feat. Jovanotti)  (5030 version),Station-Specific,16,7,0,2026-10-25 03:04:42Z,2026-10-25 04:04:42 MEZ,Scraper Logs (TF Play History)
+Nek,Fatti avanti amore (feat. Jovanotti)  (5030 version),Station-Specific,16,6,0,2026-10-25 03:04:42Z,2026-10-25 04:04:42 MEZ,Scraper Logs (TF Play History)
 Nekrogoblikon,No One Survives,Station-Specific,8,2,0,2026-10-20 23:00:44Z,2026-10-21 01:00:44 MESZ,Scraper Logs (TF Play History)
 Nekrogoblikon,Powercore,Station-Specific,6,1,0,2026-10-13 10:55:58Z,2026-10-13 12:55:58 MESZ,Scraper Logs (TF Play History)
-Nelson Freire,"Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento",Station-Specific,17,8,0,2026-10-24 02:29:07Z,2026-10-24 04:29:07 MESZ,Scraper Logs (TF Play History)
+Nelson Freire,"Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento",Station-Specific,17,7,0,2026-10-24 02:29:07Z,2026-10-24 04:29:07 MESZ,Scraper Logs (TF Play History)
 Neuro-sama,Colorful Array,Station-Specific,6,3,0,2026-10-18 01:42:52Z,2026-10-18 03:42:52 MESZ,Scraper Logs (TF Play History)
 Neuro-sama,LIFE,Station-Specific,3,0,0,2026-08-30 14:26:13Z,2026-08-30 16:26:13 MESZ,Scraper Logs (TF Play History)
 Neuro-sama,NEVER,Station-Specific,4,0,0,2026-08-30 14:42:13Z,2026-08-30 16:42:13 MESZ,Scraper Logs (TF Play History)
@@ -1318,7 +1319,7 @@ Oneohtrix Point Never,Nothing’s Special,Station-Specific,8,2,0,2026-10-24 23:0
 Oneohtrix Point Never,Sleep Dealer,Station-Specific,9,6,0,2026-10-27 00:24:45Z,2026-10-27 01:24:45 MEZ,Scraper Logs (TF Play History)
 Orchestral Manoeuvres in the dark (OMD),Enola Gay (Remastered 2003),Station-Specific,11,7,1,2026-10-28 16:53:21Z,2026-10-28 17:53:21 MEZ,Scraper Logs (TF Play History)
 Orchestral Manoeuvres in the dark (OMD),"If You Leave (From ""Pretty In Pink"" Soundtrack)",Station-Specific,11,6,0,2026-10-28 03:09:48Z,2026-10-28 04:09:48 MEZ,Scraper Logs (TF Play History)
-Os Mutantes,A Minha Menina,Station-Specific,43,11,0,2026-10-26 01:24:14Z,2026-10-26 02:24:14 MEZ,Scraper Logs (TF Play History)
+Os Mutantes,A Minha Menina,Station-Specific,43,10,0,2026-10-26 01:24:14Z,2026-10-26 02:24:14 MEZ,Scraper Logs (TF Play History)
 P!nk,Eventually,Station-Specific,3,2,0,2026-10-19 22:46:37Z,2026-10-20 00:46:37 MESZ,Scraper Logs (TF Play History)
 P!nk,Family Portrait,Station-Specific,2,1,0,2026-10-14 13:43:46Z,2026-10-14 15:43:46 MESZ,Scraper Logs (TF Play History)
 P!nk,Get the Party Started,Station-Specific,6,4,0,2026-10-18 09:39:26Z,2026-10-18 11:39:26 MESZ,Scraper Logs (TF Play History)
@@ -1356,12 +1357,12 @@ Paul Mauriat,Love Is Blue (Album Version),Station-Specific,13,3,0,2026-10-24 09:
 Paul McCartney,Maybe I’m Amazed (2011 Remaster),Station-Specific,21,7,0,2026-10-21 18:53:47Z,2026-10-21 20:53:47 MESZ,Scraper Logs (TF Play History)
 Paul McCartney,Monkberry Moon Delight (2012 Remaster),Station-Specific,10,2,0,2026-10-24 18:17:42Z,2026-10-24 20:17:42 MESZ,Scraper Logs (TF Play History)
 Paul Rodgers,Muddy Water Blues,Station-Specific,4,2,0,2026-10-25 03:36:12Z,2026-10-25 04:36:12 MEZ,Scraper Logs (TF Play History)
-Paul Simon,Further to Fly,Station-Specific,41,8,0,2026-10-27 08:40:16Z,2026-10-27 09:40:16 MEZ,Scraper Logs (TF Play History)
+Paul Simon,Further to Fly,Station-Specific,42,9,1,2026-10-29 16:24:52Z,2026-10-29 17:24:52 MEZ,Scraper Logs (TF Play History)
 Paul Simon,You Can Call Me Al,Station-Specific,78,8,0,2026-10-26 19:53:17Z,2026-10-26 20:53:17 MEZ,Scraper Logs (TF Play History)
 Paula Abdul,Straight Up (Single Version),Station-Specific,11,5,0,2026-10-24 16:25:12Z,2026-10-24 18:25:12 MESZ,Scraper Logs (TF Play History)
-Pearl Jam,Yellow Ledbetter,Station-Specific,27,8,1,2026-10-28 15:24:49Z,2026-10-28 16:24:49 MEZ,Scraper Logs (TF Play History)
+Pearl Jam,Yellow Ledbetter,Station-Specific,27,8,0,2026-10-28 15:24:49Z,2026-10-28 16:24:49 MEZ,Scraper Logs (TF Play History)
 Pebe Sebert,City's Burning,Station-Specific,19,5,1,2026-10-29 04:00:21Z,2026-10-29 05:00:21 MEZ,Scraper Logs (TF Play History)
-Pedro Infante,Amorcito corazón,Station-Specific,18,12,1,2026-10-28 14:49:49Z,2026-10-28 15:49:49 MEZ,Scraper Logs (TF Play History)
+Pedro Infante,Amorcito corazón,Station-Specific,18,12,0,2026-10-28 14:49:49Z,2026-10-28 15:49:49 MEZ,Scraper Logs (TF Play History)
 Peeping Tom,Your Neighborhood Spaceman,Station-Specific,3,2,1,2026-10-29 03:54:51Z,2026-10-29 04:54:51 MEZ,Scraper Logs (TF Play History)
 Pellek,Bohemian Rhapsody,Station-Specific,8,2,0,2026-10-26 04:48:14Z,2026-10-26 05:48:14 MEZ,Scraper Logs (TF Play History)
 Pent Up Pup,ORDER:SCORE,Station-Specific,3,1,0,2026-10-18 03:50:54Z,2026-10-18 05:50:54 MESZ,Scraper Logs (TF Play History)
@@ -1381,19 +1382,19 @@ Petra,This Means War,Station-Specific,5,2,0,2026-10-24 13:22:12Z,2026-10-24 15:2
 Petra Haden,Moon River,Station-Specific,14,5,1,2026-10-29 05:18:21Z,2026-10-29 06:18:21 MEZ,Scraper Logs (TF Play History)
 Phil Collins,In the Air Tonight  (2015 Remaster),Station-Specific,7,5,0,2026-10-26 15:22:15Z,2026-10-26 16:22:15 MEZ,Scraper Logs (TF Play History)
 Phoebe Bridgers,Kyoto,Station-Specific,19,10,0,2026-10-26 21:32:15Z,2026-10-26 22:32:15 MEZ,Scraper Logs (TF Play History)
-Phoebe Bridgers,Moon Song,Station-Specific,75,7,1,2026-10-28 12:43:49Z,2026-10-28 13:43:49 MEZ,Scraper Logs (TF Play History)
+Phoebe Bridgers,Moon Song,Station-Specific,75,7,0,2026-10-28 12:43:49Z,2026-10-28 13:43:49 MEZ,Scraper Logs (TF Play History)
 Phoebe Bridgers,Smoke Signals,Station-Specific,58,6,0,2026-10-28 06:18:18Z,2026-10-28 07:18:18 MEZ,Scraper Logs (TF Play History)
 Phoenix,Lisztomania,Station-Specific,41,11,0,2026-10-26 01:50:14Z,2026-10-26 02:50:14 MEZ,Scraper Logs (TF Play History)
 Phosphorescent,Song for Zula,Station-Specific,15,8,0,2026-10-28 06:32:49Z,2026-10-28 07:32:49 MEZ,Scraper Logs (TF Play History)
 Pierre Monteux,The Fire Bird: IV. Infernal Dance of King Kastchei,Station-Specific,12,1,0,2026-10-13 10:34:28Z,2026-10-13 12:34:28 MESZ,Scraper Logs (TF Play History)
 Pink Floyd,Breathe (In the Air),Station-Specific,8,3,0,2026-10-21 18:32:18Z,2026-10-21 20:32:18 MESZ,Scraper Logs (TF Play History)
-Pink Floyd,Comfortably Numb,Station-Specific,10,2,0,2026-10-18 09:32:57Z,2026-10-18 11:32:57 MESZ,Scraper Logs (TF Play History)
+Pink Floyd,Comfortably Numb,Station-Specific,11,3,1,2026-10-29 15:09:53Z,2026-10-29 16:09:53 MEZ,Scraper Logs (TF Play History)
 Pink Floyd,Coming Back to Life,Station-Specific,8,5,0,2026-10-25 09:20:13Z,2026-10-25 10:20:13 MEZ,Scraper Logs (TF Play History)
 Pink Floyd,Fearless,Station-Specific,20,6,0,2026-10-26 10:17:15Z,2026-10-26 11:17:15 MEZ,Scraper Logs (TF Play History)
 Pink Floyd,Have a Cigar,Station-Specific,16,5,0,2026-10-26 01:08:44Z,2026-10-26 02:08:44 MEZ,Scraper Logs (TF Play History)
 Pink Floyd,Money,Station-Specific,9,1,0,2026-10-05 20:11:47Z,2026-10-05 22:11:47 MESZ,Scraper Logs (TF Play History)
 Pink Floyd,The Great Gig in the Sky (2023 Remaster),Station-Specific,9,2,0,2026-10-20 12:08:13Z,2026-10-20 14:08:13 MESZ,Scraper Logs (TF Play History)
-Pink Floyd,Wish You Were Here,Station-Specific,14,4,0,2026-10-23 03:43:26Z,2026-10-23 05:43:26 MESZ,Scraper Logs (TF Play History)
+Pink Floyd,Wish You Were Here,Station-Specific,15,5,1,2026-10-29 15:37:22Z,2026-10-29 16:37:22 MEZ,Scraper Logs (TF Play History)
 Piotr Musial,Some Place We Called Home,Station-Specific,11,5,0,2026-10-28 05:32:48Z,2026-10-28 06:32:48 MEZ,Scraper Logs (TF Play History)
 Pixies,Ana,Station-Specific,26,9,0,2026-10-28 11:27:19Z,2026-10-28 12:27:19 MEZ,Scraper Logs (TF Play History)
 Player,Baby Come Back,Station-Specific,43,5,0,2026-10-26 15:12:15Z,2026-10-26 16:12:15 MEZ,Scraper Logs (TF Play History)
@@ -1404,7 +1405,7 @@ Pornophonique,Sad Robot,Station-Specific,13,3,0,2026-10-26 22:12:16Z,2026-10-26 
 Portishead,Glory Box (Album Version),Station-Specific,82,8,0,2026-10-28 00:26:17Z,2026-10-28 01:26:17 MEZ,Scraper Logs (TF Play History)
 Portishead,It Could Be Sweet,Station-Specific,15,5,0,2026-10-22 02:30:17Z,2026-10-22 04:30:17 MESZ,Scraper Logs (TF Play History)
 Portishead,Roads,Station-Specific,57,5,1,2026-10-29 11:54:22Z,2026-10-29 12:54:22 MEZ,Scraper Logs (TF Play History)
-Portishead,Sour Times,Station-Specific,18,4,0,2026-10-22 07:10:19Z,2026-10-22 09:10:19 MESZ,Scraper Logs (TF Play History)
+Portishead,Sour Times,Station-Specific,19,5,1,2026-10-29 12:57:22Z,2026-10-29 13:57:22 MEZ,Scraper Logs (TF Play History)
 Portishead,Wandering Star,Station-Specific,21,6,0,2026-10-27 00:42:45Z,2026-10-27 01:42:45 MEZ,Scraper Logs (TF Play History)
 Post Malone,Chemical,Station-Specific,16,3,0,2026-10-25 20:42:46Z,2026-10-25 21:42:46 MEZ,Scraper Logs (TF Play History)
 Powerwolf,Demons Are a Girl's Best Friend,Station-Specific,10,2,0,2026-10-25 20:21:13Z,2026-10-25 21:21:13 MEZ,Scraper Logs (TF Play History)
@@ -1413,7 +1414,7 @@ Prince,Adore  (2020 Remaster),Station-Specific,46,4,1,2026-10-28 21:01:50Z,2026-
 Prince,Kiss (LP Version),Station-Specific,23,8,0,2026-10-27 01:00:15Z,2026-10-27 02:00:15 MEZ,Scraper Logs (TF Play History)
 Prince,Moonbeam Levels  (2019 Remaster),Station-Specific,23,6,0,2026-10-23 09:44:31Z,2026-10-23 11:44:31 MESZ,Scraper Logs (TF Play History)
 Prince,Nothing Compares 2 U,Station-Specific,19,5,0,2026-10-25 12:54:13Z,2026-10-25 13:54:13 MEZ,Scraper Logs (TF Play History)
-Prince,Purple Rain  (2015 Paisley Park Remaster),Station-Specific,18,3,0,2026-10-23 20:07:02Z,2026-10-23 22:07:02 MESZ,Scraper Logs (TF Play History)
+Prince,Purple Rain  (2015 Paisley Park Remaster),Station-Specific,19,4,1,2026-10-29 15:23:22Z,2026-10-29 16:23:22 MEZ,Scraper Logs (TF Play History)
 Prince,Sometimes It Snows in April (LP Version),Station-Specific,40,3,0,2026-10-14 19:53:28Z,2026-10-14 21:53:28 MESZ,Scraper Logs (TF Play History)
 Prince,Uptown (LP Version),Station-Specific,25,6,0,2026-10-27 22:20:17Z,2026-10-27 23:20:17 MEZ,Scraper Logs (TF Play History)
 Procol Harum,A Whiter Shade of Pale (Original Single Version (2007 Remaster)),Station-Specific,24,6,0,2026-10-27 22:15:17Z,2026-10-27 23:15:17 MEZ,Scraper Logs (TF Play History)
@@ -1421,7 +1422,7 @@ Pulp,Common People (Full Length Version; Album Version),Station-Specific,8,5,0,2
 Pussy Riot,Straight Outta Vagina (feat. Desi Mo & Leikeli47),Station-Specific,3,0,0,2026-09-15 09:55:56Z,2026-09-15 11:55:56 MESZ,Scraper Logs (TF Play History)
 Q Lazzarus,Goodbye Horses - Single,Station-Specific,23,3,0,2026-10-25 12:37:43Z,2026-10-25 13:37:43 MEZ,Scraper Logs (TF Play History)
 Quad City DJ's,Space Jam,Station-Specific,8,3,0,2026-10-26 10:40:15Z,2026-10-26 11:40:15 MEZ,Scraper Logs (TF Play History)
-Queen,Another One Bites The Dust,Station-Specific,21,5,1,2026-10-29 01:15:20Z,2026-10-29 02:15:20 MEZ,Scraper Logs (TF Play History)
+Queen,Another One Bites The Dust,Station-Specific,21,4,1,2026-10-29 01:15:20Z,2026-10-29 02:15:20 MEZ,Scraper Logs (TF Play History)
 Queen,Flash (Remastered 2011),Station-Specific,19,5,0,2026-10-24 11:46:12Z,2026-10-24 13:46:12 MESZ,Scraper Logs (TF Play History)
 Queen,Somebody To Love,Station-Specific,10,4,0,2026-10-27 23:56:47Z,2026-10-28 00:56:47 MEZ,Scraper Logs (TF Play History)
 Queen,The Fairy Feller's Master-Stroke (2026 Mix),Station-Specific,10,3,0,2026-10-20 19:17:43Z,2026-10-20 21:17:43 MESZ,Scraper Logs (TF Play History)
@@ -1434,7 +1435,7 @@ R.E.M.,Orange Crush (Remastered),Station-Specific,12,7,1,2026-10-28 23:44:20Z,20
 Radiohead,Paranoid Android,Station-Specific,18,7,1,2026-10-28 19:58:50Z,2026-10-28 20:58:50 MEZ,Scraper Logs (TF Play History)
 Rammstein,Deutschland,Station-Specific,15,4,1,2026-10-29 01:05:20Z,2026-10-29 02:05:20 MEZ,Scraper Logs (TF Play History)
 Ramones,Blitzkrieg Bop,Station-Specific,6,4,0,2026-10-22 15:00:20Z,2026-10-22 17:00:20 MESZ,Scraper Logs (TF Play History)
-Randy Crawford,One Day I'll Fly Away,Station-Specific,28,10,1,2026-10-28 13:44:19Z,2026-10-28 14:44:19 MEZ,Scraper Logs (TF Play History)
+Randy Crawford,One Day I'll Fly Away,Station-Specific,28,10,0,2026-10-28 13:44:19Z,2026-10-28 14:44:19 MEZ,Scraper Logs (TF Play History)
 Randy Travis,"Forever and Ever, Amen",Station-Specific,16,6,1,2026-10-28 21:25:20Z,2026-10-28 22:25:20 MEZ,Scraper Logs (TF Play History)
 Raquel Tavares,Como É Grande o Meu Amor por Você,Station-Specific,21,9,0,2026-10-27 19:37:47Z,2026-10-27 20:37:47 MEZ,Scraper Logs (TF Play History)
 Ray Anthony,The Hokey Pokey,Station-Specific,5,3,0,2026-10-27 19:52:47Z,2026-10-27 20:52:47 MEZ,Scraper Logs (TF Play History)
@@ -1459,7 +1460,7 @@ Ride,Vapour Trail,Station-Specific,26,8,0,2026-10-28 11:15:19Z,2026-10-28 12:15:
 Rihanna,Umbrella (Album Version),Station-Specific,11,6,0,2026-10-23 19:30:03Z,2026-10-23 21:30:03 MESZ,Scraper Logs (TF Play History)
 Rio Reiser,Für immer und dich (Album Version),Station-Specific,2,2,0,2026-10-26 11:06:15Z,2026-10-26 12:06:15 MEZ,Scraper Logs (TF Play History)
 Rival Consoles,Untravel,Station-Specific,49,6,0,2026-10-27 02:44:15Z,2026-10-27 03:44:15 MEZ,Scraper Logs (TF Play History)
-Robbie Dupree,Steal Away,Station-Specific,13,6,1,2026-10-28 19:07:50Z,2026-10-28 20:07:50 MEZ,Scraper Logs (TF Play History)
+Robbie Dupree,Steal Away,Station-Specific,13,5,1,2026-10-28 19:07:50Z,2026-10-28 20:07:50 MEZ,Scraper Logs (TF Play History)
 Robbie Robertson,Coyote Dance,Station-Specific,23,8,1,2026-10-28 19:13:50Z,2026-10-28 20:13:50 MEZ,Scraper Logs (TF Play History)
 Robert Fripp,Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix),Station-Specific,5,3,1,2026-10-28 21:20:50Z,2026-10-28 22:20:50 MEZ,Scraper Logs (TF Play History)
 Robert Johnson,Cross Road Blues,Station-Specific,25,6,1,2026-10-28 19:11:20Z,2026-10-28 20:11:20 MEZ,Scraper Logs (TF Play History)
@@ -1473,7 +1474,7 @@ Roland Dyens,Fuoco (Libra Sonatine),Station-Specific,23,9,0,2026-10-28 05:40:18Z
 ROSALÍA,Berghain,Station-Specific,2,2,0,2026-10-22 21:52:51Z,2026-10-22 23:52:51 MESZ,Scraper Logs (TF Play History)
 ROSALÍA,MALAMENTE (Cap.1: Augurio),Station-Specific,20,10,0,2026-10-26 16:55:15Z,2026-10-26 17:55:15 MEZ,Scraper Logs (TF Play History)
 Roseanna Vitro,If I Didn't Have You (If I Didn't Have You),Station-Specific,14,4,1,2026-10-29 03:36:21Z,2026-10-29 04:36:21 MEZ,Scraper Logs (TF Play History)
-Roxette,The Look,Station-Specific,13,7,1,2026-10-28 14:45:19Z,2026-10-28 15:45:19 MEZ,Scraper Logs (TF Play History)
+Roxette,The Look,Station-Specific,13,6,0,2026-10-28 14:45:19Z,2026-10-28 15:45:19 MEZ,Scraper Logs (TF Play History)
 Roxy Music,Bitter Sweet (Remastered 1999),Station-Specific,7,5,1,2026-10-28 22:19:20Z,2026-10-28 23:19:20 MEZ,Scraper Logs (TF Play History)
 Roy Ayers Ubiquity,Everybody Loves The Sunshine,Station-Specific,122,7,0,2026-10-28 09:32:19Z,2026-10-28 10:32:19 MEZ,Scraper Logs (TF Play History)
 Roy Orbison,"Oh, Pretty Woman",Station-Specific,24,6,1,2026-10-28 19:04:50Z,2026-10-28 20:04:50 MEZ,Scraper Logs (TF Play History)
@@ -1482,7 +1483,7 @@ Rozen,Voice of NO Return,Station-Specific,3,0,0,2026-09-05 17:43:18Z,2026-09-05 
 Rufus,Ain't Nobody (Album Version),Station-Specific,88,6,0,2026-10-26 12:59:45Z,2026-10-26 13:59:45 MEZ,Scraper Logs (TF Play History)
 Rufus Wainwright,Dinner At Eight,Station-Specific,26,5,0,2026-10-25 11:40:13Z,2026-10-25 12:40:13 MEZ,Scraper Logs (TF Play History)
 Rumahoy,Forest Party,Station-Specific,7,1,0,2026-10-13 03:28:53Z,2026-10-13 05:28:53 MESZ,Scraper Logs (TF Play History)
-Rush,Tom Sawyer,Station-Specific,23,7,0,2026-10-26 16:39:15Z,2026-10-26 17:39:15 MEZ,Scraper Logs (TF Play History)
+Rush,Tom Sawyer,Station-Specific,24,8,1,2026-10-29 14:47:52Z,2026-10-29 15:47:52 MEZ,Scraper Logs (TF Play History)
 Russian State Symphony Orchestra,Jazz Suite No. 2 - VI. Waltz 2,Station-Specific,5,3,0,2026-10-27 06:16:15Z,2026-10-27 07:16:15 MEZ,Scraper Logs (TF Play History)
 RY X,Let You Go,Station-Specific,16,6,0,2026-10-27 11:17:46Z,2026-10-27 12:17:46 MEZ,Scraper Logs (TF Play History)
 Ryuichi Sakamoto,andata,Station-Specific,86,8,0,2026-10-25 18:05:43Z,2026-10-25 19:05:43 MEZ,Scraper Logs (TF Play History)
@@ -1497,18 +1498,18 @@ Sade,By Your Side  (Remastered Version),Station-Specific,52,5,0,2026-10-26 05:04
 Sade,Cherish the Day  (Remastered Version),Station-Specific,86,3,0,2026-10-22 05:18:18Z,2026-10-22 07:18:18 MESZ,Scraper Logs (TF Play History)
 Sade,Is It a Crime (Remastered Version),Station-Specific,43,3,0,2026-10-22 17:26:50Z,2026-10-22 19:26:50 MESZ,Scraper Logs (TF Play History)
 Sade,Kiss of Life (Remastered Version),Station-Specific,86,4,0,2026-10-22 19:33:51Z,2026-10-22 21:33:51 MESZ,Scraper Logs (TF Play History)
-Sade,No Ordinary Love  (Remastered Version),Station-Specific,99,5,0,2026-10-25 17:09:43Z,2026-10-25 18:09:43 MEZ,Scraper Logs (TF Play History)
+Sade,No Ordinary Love  (Remastered Version),Station-Specific,100,6,1,2026-10-29 13:52:52Z,2026-10-29 14:52:52 MEZ,Scraper Logs (TF Play History)
 Sade,Smooth Operator (2011 Remastered) (Remastered Version),Station-Specific,98,5,0,2026-10-23 04:41:58Z,2026-10-23 06:41:58 MESZ,Scraper Logs (TF Play History)
 Sade,The Sweetest Taboo  (Remastered Version),Station-Specific,64,4,0,2026-10-21 21:17:17Z,2026-10-21 23:17:17 MESZ,Scraper Logs (TF Play History)
 Sadie Jean,WYD Now?,Station-Specific,5,1,0,2026-10-15 15:56:30Z,2026-10-15 17:56:30 MESZ,Scraper Logs (TF Play History)
-Saindra,Mil Besos,Station-Specific,15,5,1,2026-10-28 14:42:19Z,2026-10-28 15:42:19 MEZ,Scraper Logs (TF Play History)
+Saindra,Mil Besos,Station-Specific,15,5,0,2026-10-28 14:42:19Z,2026-10-28 15:42:19 MEZ,Scraper Logs (TF Play History)
 Saint Etienne,Only Love Can Break Your Heart,Station-Specific,23,10,0,2026-10-26 21:51:45Z,2026-10-26 22:51:45 MEZ,Scraper Logs (TF Play History)
 Salvador Sobral,Amar pelos Dois,Station-Specific,17,7,0,2026-10-28 08:46:19Z,2026-10-28 09:46:19 MEZ,Scraper Logs (TF Play History)
-Sam Cooke,A Change Is Gonna Come,Station-Specific,91,8,0,2026-10-27 18:15:17Z,2026-10-27 19:15:17 MEZ,Scraper Logs (TF Play History)
+Sam Cooke,A Change Is Gonna Come,Station-Specific,91,7,0,2026-10-27 18:15:17Z,2026-10-27 19:15:17 MEZ,Scraper Logs (TF Play History)
 Sampha,(No One Knows Me) Like the Piano,Station-Specific,59,8,0,2026-10-28 10:53:49Z,2026-10-28 11:53:49 MEZ,Scraper Logs (TF Play History)
 Santana,Black Magic Woman,Station-Specific,24,8,0,2026-10-28 02:54:48Z,2026-10-28 03:54:48 MEZ,Scraper Logs (TF Play History)
-Santana,Maria Maria,Station-Specific,11,5,0,2026-10-21 18:44:46Z,2026-10-21 20:44:46 MESZ,Scraper Logs (TF Play History)
-Santana,Oye Como Va,Station-Specific,12,9,0,2026-10-26 18:55:15Z,2026-10-26 19:55:15 MEZ,Scraper Logs (TF Play History)
+Santana,Maria Maria,Station-Specific,12,6,1,2026-10-29 15:42:52Z,2026-10-29 16:42:52 MEZ,Scraper Logs (TF Play History)
+Santana,Oye Como Va,Station-Specific,13,10,1,2026-10-29 14:27:52Z,2026-10-29 15:27:52 MEZ,Scraper Logs (TF Play History)
 Santana,Samba Pa Ti,Station-Specific,16,8,0,2026-10-28 08:32:49Z,2026-10-28 09:32:49 MEZ,Scraper Logs (TF Play History)
 Sarah McLachlan,Building a Mystery,Station-Specific,13,5,0,2026-10-27 13:17:46Z,2026-10-27 14:17:46 MEZ,Scraper Logs (TF Play History)
 Sarah McLachlan,Fallen (Album Mix),Station-Specific,8,4,0,2026-10-24 01:49:37Z,2026-10-24 03:49:37 MESZ,Scraper Logs (TF Play History)
@@ -1548,7 +1549,7 @@ Simon & Garfunkel,"Scarborough Fair (Live at Central Park, New York, NY - Septem
 Simon & Garfunkel,The Boxer,Station-Specific,95,9,1,2026-10-28 20:14:50Z,2026-10-28 21:14:50 MEZ,Scraper Logs (TF Play History)
 Simon Trpčeski,"Suite bergamasque, CD 82, L. 75: III. Clair de lune",Station-Specific,80,10,1,2026-10-29 06:59:22Z,2026-10-29 07:59:22 MEZ,Scraper Logs (TF Play History)
 Simple Minds,Alive And Kicking (Remastered 2002),Station-Specific,21,4,0,2026-10-27 21:52:17Z,2026-10-27 22:52:17 MEZ,Scraper Logs (TF Play History)
-Simple Minds,Don't You (Forget About Me),Station-Specific,23,10,1,2026-10-29 00:23:20Z,2026-10-29 01:23:20 MEZ,Scraper Logs (TF Play History)
+Simple Minds,Don't You (Forget About Me),Station-Specific,23,9,1,2026-10-29 00:23:20Z,2026-10-29 01:23:20 MEZ,Scraper Logs (TF Play History)
 Simple Minds,Someone Somewhere (In Summertime),Station-Specific,14,3,0,2026-10-11 16:53:12Z,2026-10-11 18:53:12 MESZ,Scraper Logs (TF Play History)
 Sinéad O'Connor,Nothing Compares 2 U (2009 Remaster),Station-Specific,27,6,0,2026-10-21 21:32:46Z,2026-10-21 23:32:46 MESZ,Scraper Logs (TF Play History)
 Siouxsie & The Banshees,Cities In Dust (Single Version),Station-Specific,9,3,0,2026-10-27 04:38:15Z,2026-10-27 05:38:15 MEZ,Scraper Logs (TF Play History)
@@ -1585,7 +1586,7 @@ Soundgarden,Holy Water (Album Version),Station-Specific,11,4,0,2026-10-27 01:19:
 Spandau Ballet,Gold (2003 Remaster),Station-Specific,7,7,1,2026-10-28 20:37:50Z,2026-10-28 21:37:50 MEZ,Scraper Logs (TF Play History)
 Split Enz,I Got You,Station-Specific,7,6,0,2026-10-27 21:27:47Z,2026-10-27 22:27:47 MEZ,Scraper Logs (TF Play History)
 Squirrel Nut Zippers,Hell,Station-Specific,1,1,0,2026-10-27 16:51:17Z,2026-10-27 17:51:17 MEZ,Scraper Logs (TF Play History)
-St Germain,Rose rouge,Station-Specific,38,4,0,2026-10-28 00:56:17Z,2026-10-28 01:56:17 MEZ,Scraper Logs (TF Play History)
+St Germain,Rose rouge,Station-Specific,39,5,1,2026-10-29 13:34:52Z,2026-10-29 14:34:52 MEZ,Scraper Logs (TF Play History)
 Stan Bush,The Touch,Station-Specific,7,5,0,2026-10-23 16:43:32Z,2026-10-23 18:43:32 MESZ,Scraper Logs (TF Play History)
 Stan Getz,Corcovado (Quiet Nights Of Quiet Stars),Station-Specific,134,9,0,2026-10-27 14:49:46Z,2026-10-27 15:49:46 MEZ,Scraper Logs (TF Play History)
 Stardust,Music Sounds Better With You,Station-Specific,6,5,0,2026-10-25 13:29:13Z,2026-10-25 14:29:13 MEZ,Scraper Logs (TF Play History)
@@ -1593,31 +1594,31 @@ Stars of the Lid,"Requiem for Dying Mothers, Pt. 1",Station-Specific,177,7,0,202
 Stars of the Lid,"Requiem for Dying Mothers, Pt. 2",Station-Specific,114,8,0,2026-10-28 07:32:49Z,2026-10-28 08:32:49 MEZ,Scraper Logs (TF Play History)
 Stealers Wheel,Stuck In The Middle With You,Station-Specific,16,5,0,2026-10-28 00:52:47Z,2026-10-28 01:52:47 MEZ,Scraper Logs (TF Play History)
 Steely Dan,Almost Gothic (Album Version),Station-Specific,20,2,0,2026-10-16 20:51:06Z,2026-10-16 22:51:06 MESZ,Scraper Logs (TF Play History)
-Steely Dan,Babylon Sisters,Station-Specific,52,2,0,2026-10-24 04:49:40Z,2026-10-24 06:49:40 MESZ,Scraper Logs (TF Play History)
+Steely Dan,Babylon Sisters,Station-Specific,53,3,1,2026-10-29 13:29:22Z,2026-10-29 14:29:22 MEZ,Scraper Logs (TF Play History)
 Steely Dan,Home At Last,Station-Specific,27,3,0,2026-10-25 09:39:43Z,2026-10-25 10:39:43 MEZ,Scraper Logs (TF Play History)
 Steely Dan,Jack of Speed (Album Version),Station-Specific,9,1,0,2026-10-12 20:39:50Z,2026-10-12 22:39:50 MESZ,Scraper Logs (TF Play History)
-Steely Dan,Kid Charlemagne,Station-Specific,22,3,0,2026-10-26 14:21:15Z,2026-10-26 15:21:15 MEZ,Scraper Logs (TF Play History)
+Steely Dan,Kid Charlemagne,Station-Specific,22,2,0,2026-10-26 14:21:15Z,2026-10-26 15:21:15 MEZ,Scraper Logs (TF Play History)
 Steely Dan,Peg,Station-Specific,103,2,0,2026-10-22 09:52:50Z,2026-10-22 11:52:50 MESZ,Scraper Logs (TF Play History)
 Steely Dan,Time Out Of Mind,Station-Specific,31,2,0,2026-10-18 07:04:57Z,2026-10-18 09:04:57 MESZ,Scraper Logs (TF Play History)
 Steve Miller Band,The Joker,Station-Specific,8,3,0,2026-10-26 09:22:45Z,2026-10-26 10:22:45 MEZ,Scraper Logs (TF Play History)
 Steve Roach,Living the Dream,Station-Specific,46,3,0,2026-10-28 07:15:48Z,2026-10-28 08:15:48 MEZ,Scraper Logs (TF Play History)
-Stevie Ray Vaughan & Double Trouble,Pride and Joy,Station-Specific,22,9,0,2026-10-26 17:35:15Z,2026-10-26 18:35:15 MEZ,Scraper Logs (TF Play History)
+Stevie Ray Vaughan & Double Trouble,Pride and Joy,Station-Specific,23,9,1,2026-10-29 15:53:22Z,2026-10-29 16:53:22 MEZ,Scraper Logs (TF Play History)
 Stevie Ray Vaughan & Double Trouble,Riviera Paradise,Station-Specific,27,5,1,2026-10-29 04:31:51Z,2026-10-29 05:31:51 MEZ,Scraper Logs (TF Play History)
 Stevie Wonder,As,Station-Specific,21,3,1,2026-10-29 05:24:51Z,2026-10-29 06:24:51 MEZ,Scraper Logs (TF Play History)
 Stevie Wonder,Go Home,Station-Specific,23,5,0,2026-10-25 09:30:13Z,2026-10-25 10:30:13 MEZ,Scraper Logs (TF Play History)
-Stevie Wonder,Golden Lady,Station-Specific,133,4,0,2026-10-22 04:19:17Z,2026-10-22 06:19:17 MESZ,Scraper Logs (TF Play History)
+Stevie Wonder,Golden Lady,Station-Specific,134,5,1,2026-10-29 13:19:22Z,2026-10-29 14:19:22 MEZ,Scraper Logs (TF Play History)
 Stevie Wonder,Happy Birthday,Station-Specific,8,1,0,2026-09-29 18:47:57Z,2026-09-29 20:47:57 MESZ,Scraper Logs (TF Play History)
-Stevie Wonder,Higher Ground (Album Version),Station-Specific,66,7,0,2026-10-26 09:18:44Z,2026-10-26 10:18:44 MEZ,Scraper Logs (TF Play History)
+Stevie Wonder,Higher Ground (Album Version),Station-Specific,66,6,0,2026-10-26 09:18:44Z,2026-10-26 10:18:44 MEZ,Scraper Logs (TF Play History)
 Stevie Wonder,I Wish,Station-Specific,23,5,0,2026-10-21 20:17:46Z,2026-10-21 22:17:46 MESZ,Scraper Logs (TF Play History)
 Stevie Wonder,Isn't She Lovely,Station-Specific,21,5,0,2026-10-21 14:00:17Z,2026-10-21 16:00:17 MESZ,Scraper Logs (TF Play History)
 Stevie Wonder,Living For The City (Album Version),Station-Specific,21,3,0,2026-10-24 12:36:43Z,2026-10-24 14:36:43 MESZ,Scraper Logs (TF Play History)
 Stevie Wonder,Master Blaster (Jammin'),Station-Specific,22,5,0,2026-10-19 19:32:06Z,2026-10-19 21:32:06 MESZ,Scraper Logs (TF Play History)
 Stevie Wonder,Sir Duke,Station-Specific,30,5,0,2026-10-27 13:21:46Z,2026-10-27 14:21:46 MEZ,Scraper Logs (TF Play History)
 Stevie Wonder,Summer Soft,Station-Specific,31,2,0,2026-10-04 13:50:03Z,2026-10-04 15:50:03 MESZ,Scraper Logs (TF Play History)
-Stevie Wonder,Superstition (Album Version),Station-Specific,98,6,0,2026-10-22 21:40:21Z,2026-10-22 23:40:21 MESZ,Scraper Logs (TF Play History)
+Stevie Wonder,Superstition (Album Version),Station-Specific,98,5,0,2026-10-22 21:40:21Z,2026-10-22 23:40:21 MESZ,Scraper Logs (TF Play History)
 Stevie Wonder,You Haven't Done Nothin',Station-Specific,26,8,0,2026-10-26 12:43:15Z,2026-10-26 13:43:15 MEZ,Scraper Logs (TF Play History)
 Still Woozy,Get Down,Station-Specific,6,6,1,2026-10-29 09:34:21Z,2026-10-29 10:34:21 MEZ,Scraper Logs (TF Play History)
-Sting,Desert Rose (Album Version),Station-Specific,4,4,0,2026-10-26 09:09:44Z,2026-10-26 10:09:44 MEZ,Scraper Logs (TF Play History)
+Sting,Desert Rose (Album Version),Station-Specific,5,5,1,2026-10-29 14:17:22Z,2026-10-29 15:17:22 MEZ,Scraper Logs (TF Play History)
 Sting,Fields Of Gold (My Songs Version),Station-Specific,3,3,0,2026-10-24 16:43:14Z,2026-10-24 18:43:14 MESZ,Scraper Logs (TF Play History)
 Sting,If You Love Somebody Set Them Free (Single Edit),Station-Specific,4,4,0,2026-10-21 18:49:19Z,2026-10-21 20:49:19 MESZ,Scraper Logs (TF Play History)
 Sting,Shape Of My Heart (My Songs Version),Station-Specific,2,2,0,2026-10-17 15:21:47Z,2026-10-17 17:21:47 MESZ,Scraper Logs (TF Play History)
@@ -1639,7 +1640,7 @@ Sun Ra,Images,Station-Specific,28,4,0,2026-10-27 23:38:17Z,2026-10-28 00:38:17 M
 Sun Ra Arkestra,It's After The End Of The World,Station-Specific,22,6,0,2026-10-26 23:10:15Z,2026-10-27 00:10:15 MEZ,Scraper Logs (TF Play History)
 Sun's Signature,Golden Air,Station-Specific,19,5,0,2026-10-27 11:59:46Z,2026-10-27 12:59:46 MEZ,Scraper Logs (TF Play History)
 Sun's Signature,Underwater,Station-Specific,20,5,0,2026-10-27 07:56:46Z,2026-10-27 08:56:46 MEZ,Scraper Logs (TF Play History)
-Supercell,Melt (feat. Hatsune Miku),Station-Specific,17,4,0,2026-10-15 04:11:57Z,2026-10-15 06:11:57 MESZ,Scraper Logs (TF Play History)
+Supercell,Melt (feat. Hatsune Miku),Station-Specific,17,3,0,2026-10-15 04:11:57Z,2026-10-15 06:11:57 MESZ,Scraper Logs (TF Play History)
 Supercell,The World Is Mine (feat. Hatsune Miku),Station-Specific,20,3,0,2026-10-15 22:23:31Z,2026-10-16 00:23:31 MESZ,Scraper Logs (TF Play History)
 Supernova,Chewbaca,Station-Specific,2,2,0,2026-10-06 14:30:03Z,2026-10-06 16:30:03 MESZ,Scraper Logs (TF Play History)
 Susumu Yokota,Saku,Station-Specific,70,7,1,2026-10-29 05:55:21Z,2026-10-29 06:55:21 MEZ,Scraper Logs (TF Play History)
@@ -1649,7 +1650,7 @@ Swan Dive,Circle,Station-Specific,20,5,0,2026-10-27 09:08:16Z,2026-10-27 10:08:1
 Swan Dive,Soundtrack to Me and You,Station-Specific,18,4,0,2026-10-26 18:30:15Z,2026-10-26 19:30:15 MEZ,Scraper Logs (TF Play History)
 Swan Dive,Tender Love,Station-Specific,8,3,0,2026-10-24 00:54:36Z,2026-10-24 02:54:36 MESZ,Scraper Logs (TF Play History)
 Swan Dive,Until,Station-Specific,9,2,0,2026-10-19 07:19:34Z,2026-10-19 09:19:34 MESZ,Scraper Logs (TF Play History)
-SWV,Weak,Station-Specific,20,4,0,2026-10-24 14:31:42Z,2026-10-24 16:31:42 MESZ,Scraper Logs (TF Play History)
+SWV,Weak,Station-Specific,20,3,0,2026-10-24 14:31:42Z,2026-10-24 16:31:42 MESZ,Scraper Logs (TF Play History)
 Synergy,Chateau,Station-Specific,30,6,0,2026-10-27 02:50:15Z,2026-10-27 03:50:15 MEZ,Scraper Logs (TF Play History)
 T. Rex,Children Of The Revolution,Station-Specific,15,5,0,2026-10-20 19:20:14Z,2026-10-20 21:20:14 MESZ,Scraper Logs (TF Play History)
 Tabu,Dobra Vila,Station-Specific,1,1,0,2026-10-22 16:58:51Z,2026-10-22 18:58:51 MESZ,Scraper Logs (TF Play History)
@@ -1682,7 +1683,7 @@ The Avett Brothers,The Ballad of Love and Hate,Station-Specific,9,3,0,2026-10-23
 The Band,The Weight (Remastered 2000),Station-Specific,9,5,0,2026-10-23 15:05:33Z,2026-10-23 17:05:33 MESZ,Scraper Logs (TF Play History)
 The Beach Boys,God Only Knows (Stereo),Station-Specific,38,6,1,2026-10-29 03:42:51Z,2026-10-29 04:42:51 MEZ,Scraper Logs (TF Play History)
 The Beatles,A Day In The Life (2017 Mix),Station-Specific,6,2,0,2026-10-09 17:05:03Z,2026-10-09 19:05:03 MESZ,Scraper Logs (TF Play History)
-The Beatles,Get Back (2021 Mix),Station-Specific,11,4,0,2026-10-21 00:41:44Z,2026-10-21 02:41:44 MESZ,Scraper Logs (TF Play History)
+The Beatles,Get Back (2021 Mix),Station-Specific,11,3,0,2026-10-21 00:41:44Z,2026-10-21 02:41:44 MESZ,Scraper Logs (TF Play History)
 The Beatles,Girl (Remastered),Station-Specific,12,5,0,2026-10-22 15:02:20Z,2026-10-22 17:02:20 MESZ,Scraper Logs (TF Play History)
 The Beatles,Golden Slumbers (Remastered),Station-Specific,7,3,0,2026-10-25 23:34:43Z,2026-10-26 00:34:43 MEZ,Scraper Logs (TF Play History)
 The Beatles,Octopus's Garden (Remastered),Station-Specific,11,7,1,2026-10-29 08:57:22Z,2026-10-29 09:57:22 MEZ,Scraper Logs (TF Play History)
@@ -1716,7 +1717,7 @@ The Doors,Riders on the Storm,Station-Specific,4,3,0,2026-10-21 13:52:15Z,2026-1
 The Doors,Spanish Caravan,Station-Specific,7,5,0,2026-10-24 03:40:08Z,2026-10-24 05:40:08 MESZ,Scraper Logs (TF Play History)
 The Edwin Hawkins Singers,Oh Happy Day,Station-Specific,18,5,0,2026-10-26 07:55:15Z,2026-10-26 08:55:15 MEZ,Scraper Logs (TF Play History)
 THE FATBACK BAND,At Last,Station-Specific,9,3,0,2026-10-21 00:45:14Z,2026-10-21 02:45:14 MESZ,Scraper Logs (TF Play History)
-"The Good, The Bad & The Queen",History Song,Station-Specific,7,5,1,2026-10-28 13:03:49Z,2026-10-28 14:03:49 MEZ,Scraper Logs (TF Play History)
+"The Good, The Bad & The Queen",History Song,Station-Specific,7,5,0,2026-10-28 13:03:49Z,2026-10-28 14:03:49 MEZ,Scraper Logs (TF Play History)
 The Green,Love I,Station-Specific,5,2,0,2026-10-09 01:40:26Z,2026-10-09 03:40:26 MESZ,Scraper Logs (TF Play History)
 The Head And The Heart,Down in the Valley,Station-Specific,23,5,1,2026-10-29 06:51:22Z,2026-10-29 07:51:22 MEZ,Scraper Logs (TF Play History)
 The Hollyridge Strings,Yesterday,Station-Specific,16,3,0,2026-10-21 15:19:46Z,2026-10-21 17:19:46 MESZ,Scraper Logs (TF Play History)
@@ -1744,7 +1745,7 @@ The National,Bloodbuzz Ohio (Live in Rome),Station-Specific,44,4,0,2026-10-23 15
 The O'Jays,Back Stabbers,Station-Specific,24,7,0,2026-10-25 00:43:12Z,2026-10-25 02:43:12 MESZ,Scraper Logs (TF Play History)
 The Opium Cartel,Beach House,Station-Specific,23,6,0,2026-10-25 00:40:42Z,2026-10-25 02:40:42 MESZ,Scraper Logs (TF Play History)
 The Orb,Blue Room  (Live),Station-Specific,17,4,0,2026-10-24 15:14:42Z,2026-10-24 17:14:42 MESZ,Scraper Logs (TF Play History)
-The Orb,Earth (Gaia),Station-Specific,28,5,1,2026-10-28 14:52:49Z,2026-10-28 15:52:49 MEZ,Scraper Logs (TF Play History)
+The Orb,Earth (Gaia),Station-Specific,28,5,0,2026-10-28 14:52:49Z,2026-10-28 15:52:49 MEZ,Scraper Logs (TF Play History)
 The Orb,Spanish Castles In Space,Station-Specific,18,3,0,2026-10-24 06:20:11Z,2026-10-24 08:20:11 MESZ,Scraper Logs (TF Play History)
 The Original Movies Orchestra,"A Clockwork Orange Title Music (From ""A Clockwork Orange"")",Station-Specific,11,2,0,2026-10-20 20:06:13Z,2026-10-20 22:06:13 MESZ,Scraper Logs (TF Play History)
 The Platters,The Great Pretender (Single Version),Station-Specific,35,6,0,2026-10-24 12:13:42Z,2026-10-24 14:13:42 MESZ,Scraper Logs (TF Play History)
@@ -1767,7 +1768,7 @@ The Smashing Pumpkins,1979,Station-Specific,30,8,0,2026-10-28 11:38:49Z,2026-10-
 The Smile,The Smoke,Station-Specific,6,4,0,2026-10-24 11:35:12Z,2026-10-24 13:35:12 MESZ,Scraper Logs (TF Play History)
 The Smiths,I Know It's Over,Station-Specific,6,3,0,2026-10-20 09:08:13Z,2026-10-20 11:08:13 MESZ,Scraper Logs (TF Play History)
 The Soul Stirrers,Touch The Hem Of His Garment,Station-Specific,25,6,1,2026-10-29 05:00:51Z,2026-10-29 06:00:51 MEZ,Scraper Logs (TF Play History)
-The Staple Singers,I'll Take You There,Station-Specific,46,7,0,2026-10-26 23:35:15Z,2026-10-27 00:35:15 MEZ,Scraper Logs (TF Play History)
+The Staple Singers,I'll Take You There,Station-Specific,47,8,1,2026-10-29 13:24:22Z,2026-10-29 14:24:22 MEZ,Scraper Logs (TF Play History)
 The Strokes,Lonely in the Future,Station-Specific,15,6,0,2026-10-22 03:04:47Z,2026-10-22 05:04:47 MESZ,Scraper Logs (TF Play History)
 The Strokes,Ode To The Mets,Station-Specific,22,5,0,2026-10-22 22:39:21Z,2026-10-23 00:39:21 MESZ,Scraper Logs (TF Play History)
 The Style Council,Iwasadoledadstoyboy,Station-Specific,16,3,1,2026-10-29 04:45:21Z,2026-10-29 05:45:21 MEZ,Scraper Logs (TF Play History)
@@ -1796,7 +1797,7 @@ The Weepies,Gotta Have You,Station-Specific,36,6,0,2026-10-22 15:28:50Z,2026-10-
 The White Stripes,Seven Nation Army,Station-Specific,33,8,0,2026-10-28 01:16:47Z,2026-10-28 02:16:47 MEZ,Scraper Logs (TF Play History)
 The Winstons,Amen Brother,Station-Specific,23,6,0,2026-10-27 21:00:17Z,2026-10-27 22:00:17 MEZ,Scraper Logs (TF Play History)
 The xx,Intro,Station-Specific,3,2,0,2026-10-25 22:54:43Z,2026-10-25 23:54:43 MEZ,Scraper Logs (TF Play History)
-Thee Sacred Souls,Live For You,Station-Specific,31,5,0,2026-10-27 12:56:46Z,2026-10-27 13:56:46 MEZ,Scraper Logs (TF Play History)
+Thee Sacred Souls,Live For You,Station-Specific,31,4,0,2026-10-27 12:56:46Z,2026-10-27 13:56:46 MEZ,Scraper Logs (TF Play History)
 Thelonious Monk,'Round Midnight (Remastered 2013),Station-Specific,94,1,0,2026-10-01 19:01:43Z,2026-10-01 21:01:43 MESZ,Scraper Logs (TF Play History)
 Thievery Corporation,Facing East,Station-Specific,51,7,0,2026-10-27 07:49:16Z,2026-10-27 08:49:16 MEZ,Scraper Logs (TF Play History)
 Thievery Corporation,Le Coeur,Station-Specific,56,6,0,2026-10-26 19:38:16Z,2026-10-26 20:38:16 MEZ,Scraper Logs (TF Play History)
@@ -1836,9 +1837,9 @@ Tom Konkle,One Last Time,Station-Specific,5,0,0,2026-09-17 07:17:42Z,2026-09-17 
 Tom Konkle,When Did Love Become A Test,Station-Specific,3,1,0,2026-10-16 13:58:06Z,2026-10-16 15:58:06 MESZ,Scraper Logs (TF Play History)
 Tom Lehrer,Poisoning Pigeons in the Park,Station-Specific,11,1,0,2026-09-29 16:02:27Z,2026-09-29 18:02:27 MESZ,Scraper Logs (TF Play History)
 Tom Misch,Disco Yes,Station-Specific,47,9,0,2026-10-27 00:51:45Z,2026-10-27 01:51:45 MEZ,Scraper Logs (TF Play History)
-Tom Misch,It Runs Through Me (feat. De La Soul),Station-Specific,48,7,1,2026-10-28 13:57:49Z,2026-10-28 14:57:49 MEZ,Scraper Logs (TF Play History)
+Tom Misch,It Runs Through Me (feat. De La Soul),Station-Specific,48,7,0,2026-10-28 13:57:49Z,2026-10-28 14:57:49 MEZ,Scraper Logs (TF Play History)
 Tom Novy,Superstar  (The Jason Nevins' Live Peep Show Mix),Station-Specific,2,1,0,2026-10-21 03:32:44Z,2026-10-21 05:32:44 MESZ,Scraper Logs (TF Play History)
-Tom Petty,I Won't Back Down,Station-Specific,19,7,0,2026-10-28 01:47:48Z,2026-10-28 02:47:48 MEZ,Scraper Logs (TF Play History)
+Tom Petty,I Won't Back Down,Station-Specific,19,6,0,2026-10-28 01:47:48Z,2026-10-28 02:47:48 MEZ,Scraper Logs (TF Play History)
 Tom Petty,Runnin' Down A Dream,Station-Specific,23,6,0,2026-10-23 15:15:32Z,2026-10-23 17:15:32 MESZ,Scraper Logs (TF Play History)
 Tom Petty & The Heartbreakers,American Girl,Station-Specific,32,4,0,2026-10-21 22:17:46Z,2026-10-22 00:17:46 MESZ,Scraper Logs (TF Play History)
 Tom Robinson,The Saturday Disco,Station-Specific,1,1,0,2026-10-24 21:03:42Z,2026-10-24 23:03:42 MESZ,Scraper Logs (TF Play History)
@@ -1852,7 +1853,7 @@ TOOL,Lateralus,Station-Specific,19,3,0,2026-10-28 01:50:18Z,2026-10-28 02:50:18 
 Tori Amos,A Sorta Fairytale (2023 Remaster),Station-Specific,10,5,0,2026-10-27 05:29:15Z,2026-10-27 06:29:15 MEZ,Scraper Logs (TF Play History)
 Tori Amos,Rattlesnakes,Station-Specific,8,4,0,2026-10-19 16:15:05Z,2026-10-19 18:15:05 MESZ,Scraper Logs (TF Play History)
 Tori Amos,Winter,Station-Specific,13,3,0,2026-10-26 03:47:14Z,2026-10-26 04:47:14 MEZ,Scraper Logs (TF Play History)
-Toto,Africa,Station-Specific,91,7,1,2026-10-28 13:52:49Z,2026-10-28 14:52:49 MEZ,Scraper Logs (TF Play History)
+Toto,Africa,Station-Specific,91,7,0,2026-10-28 13:52:49Z,2026-10-28 14:52:49 MEZ,Scraper Logs (TF Play History)
 Toto,Georgy Porgy (album version),Station-Specific,49,4,0,2026-10-26 19:14:15Z,2026-10-26 20:14:15 MEZ,Scraper Logs (TF Play History)
 Toto,Rosanna (Album Version),Station-Specific,77,7,0,2026-10-22 09:56:50Z,2026-10-22 11:56:50 MESZ,Scraper Logs (TF Play History)
 Tracy Chapman,Fast Car (LP Version),Station-Specific,26,7,0,2026-10-27 08:46:46Z,2026-10-27 09:46:46 MEZ,Scraper Logs (TF Play History)
@@ -1901,14 +1902,14 @@ Weird Al Yankovic,"Ode to a Superhero (Parody of ""Piano Man"" by Billy Joel)",S
 Weird Al Yankovic,"Perform This Way (Parody of ""Born This Way"" by Lady Gaga)",Station-Specific,2,1,0,2026-10-13 10:00:58Z,2026-10-13 12:00:58 MESZ,Scraper Logs (TF Play History)
 Whitesnake,Still Of The Night (2018 Remaster),Station-Specific,4,2,0,2026-10-28 01:10:17Z,2026-10-28 02:10:17 MEZ,Scraper Logs (TF Play History)
 Whitney Houston,I Have Nothing,Station-Specific,14,4,0,2026-10-22 19:38:21Z,2026-10-22 21:38:21 MESZ,Scraper Logs (TF Play History)
-Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),Station-Specific,39,5,0,2026-10-23 18:33:32Z,2026-10-23 20:33:32 MESZ,Scraper Logs (TF Play History)
+Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),Station-Specific,39,4,0,2026-10-23 18:33:32Z,2026-10-23 20:33:32 MESZ,Scraper Logs (TF Play History)
 Whitney Houston,Saving All My Love for You,Station-Specific,36,5,0,2026-10-22 14:55:20Z,2026-10-22 16:55:20 MESZ,Scraper Logs (TF Play History)
-Wild Nothing,Chinatown,Station-Specific,29,11,0,2026-10-27 11:49:16Z,2026-10-27 12:49:16 MEZ,Scraper Logs (TF Play History)
+Wild Nothing,Chinatown,Station-Specific,29,10,0,2026-10-27 11:49:16Z,2026-10-27 12:49:16 MEZ,Scraper Logs (TF Play History)
 William Fitzsimmons,I Don't Feel It Anymore (Song of the Sparrow) (Remastered),Station-Specific,12,1,0,2026-10-02 11:37:53Z,2026-10-02 13:37:53 MESZ,Scraper Logs (TF Play History)
 William Fitzsimmons,Passion Play (Live in Paris),Station-Specific,20,6,0,2026-10-27 20:51:47Z,2026-10-27 21:51:47 MEZ,Scraper Logs (TF Play History)
 Willie Nelson,On the Road Again,Station-Specific,23,4,0,2026-10-27 20:44:47Z,2026-10-27 21:44:47 MEZ,Scraper Logs (TF Play History)
 Willy DeVille,Heaven Stood Still,Station-Specific,9,6,0,2026-10-27 20:47:47Z,2026-10-27 21:47:47 MEZ,Scraper Logs (TF Play History)
-Wings,Goodnight Tonight (Single Version),Station-Specific,10,4,0,2026-10-27 21:05:17Z,2026-10-27 22:05:17 MEZ,Scraper Logs (TF Play History)
+Wings,Goodnight Tonight (Single Version),Station-Specific,10,3,0,2026-10-27 21:05:17Z,2026-10-27 22:05:17 MEZ,Scraper Logs (TF Play History)
 Wir Sind Helden,Denkmal,Station-Specific,19,8,1,2026-10-28 19:38:50Z,2026-10-28 20:38:50 MEZ,Scraper Logs (TF Play History)
 Wolf Alice,Don't Delete The Kisses,Station-Specific,35,10,1,2026-10-29 11:09:22Z,2026-10-29 12:09:22 MEZ,Scraper Logs (TF Play History)
 Wolfsheim,Künstliche Welten,Station-Specific,7,3,0,2026-10-23 10:15:31Z,2026-10-23 12:15:31 MESZ,Scraper Logs (TF Play History)
@@ -1924,7 +1925,7 @@ Yo La Tengo,You Can Have It All,Station-Specific,15,7,0,2026-10-28 10:57:49Z,202
 Yo-Yo Ma,"Carnival of the Animals, R. 125: XIII. The Swan",Station-Specific,2,2,0,2026-10-25 21:56:13Z,2026-10-25 22:56:13 MEZ,Scraper Logs (TF Play History)
 Yo-Yo Ma,Libertango,Station-Specific,14,8,0,2026-10-28 10:31:19Z,2026-10-28 11:31:19 MEZ,Scraper Logs (TF Play History)
 Youssou N'Dour featuring Neneh Cherry,7 Seconds (Album Version),Station-Specific,56,12,1,2026-10-28 23:15:20Z,2026-10-29 00:15:20 MEZ,Scraper Logs (TF Play History)
-Zaz,Sous le ciel de Paris,Station-Specific,3,3,1,2026-10-28 13:49:19Z,2026-10-28 14:49:19 MEZ,Scraper Logs (TF Play History)
+Zaz,Sous le ciel de Paris,Station-Specific,3,3,0,2026-10-28 13:49:19Z,2026-10-28 14:49:19 MEZ,Scraper Logs (TF Play History)
 Zero 7,In The Waiting Line,Station-Specific,69,8,0,2026-10-27 07:39:16Z,2026-10-27 08:39:16 MEZ,Scraper Logs (TF Play History)
 Zeynep Bastık,Her Yerde Sen (Akustik),Station-Specific,18,9,0,2026-10-28 06:44:48Z,2026-10-28 07:44:48 MEZ,Scraper Logs (TF Play History)
 Zoé,Labios Rotos (Live 8.11.14),Station-Specific,18,6,1,2026-10-29 08:12:51Z,2026-10-29 09:12:51 MEZ,Scraper Logs (TF Play History)
