@@ -453,6 +453,7 @@
 },
 "Angélique Kidjo|Agolo": {
 "album": "Aye",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/49/32/f6/4932f64d-168b-116b-ac3c-93ca236fb8ff/00731451843228.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Worldwide"
 },
@@ -518,11 +519,13 @@
 },
 "Aphex Twin|Avril 14th": {
 "album": "Drukqs",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/75/2f/98752fcb-0c8f-1e6e-cca3-2553ac9d46ab/0801061009236.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
 "Aphex Twin|Flim": {
 "album": "Come to Daddy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0b/a5/bf0ba54c-1c9b-d812-2ccf-54d137dc81ae/ticket.qknfmwov.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -570,6 +573,7 @@
 },
 "Arctic Monkeys|Do I Wanna Know?": {
 "album": "AM",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -837,6 +841,7 @@
 },
 "Becky Levi and the Nightjars|Wake Me Up": {
 "album": "Wake Me Up - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/40/0d/a0/400da04f-1acd-45a5-4d15-6c17ba66d963/194660674388.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative Folk"
 },
@@ -1222,6 +1227,7 @@
 },
 "Boards of Canada|Dayvan Cowboy": {
 "album": "The Campfire Headphase",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/fe/5d/d0/fe5dd0ed-79cf-e694-c454-26a585d3f548/dj.vfvsmugd.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1595,6 +1601,7 @@
 },
 "Burial|Archangel": {
 "album": "Untrue",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/0f/1c/9d0f1c2b-2fae-d8ac-3920-ce9ec5bc85b5/7982.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1606,6 +1613,7 @@
 },
 "Burial|Ghost Hardware": {
 "album": "Untrue",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/0f/1c/9d0f1c2b-2fae-d8ac-3920-ce9ec5bc85b5/7982.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1886,6 +1894,7 @@
 },
 "Chet Baker|My Funny Valentine": {
 "album": "Chet Baker Sings",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/99/e5/2f99e569-3920-07ab-b29e-c2da9b50468d/16UMGIM49055.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -1945,6 +1954,7 @@
 },
 "Chris Isaak|Blue Hotel  (Remastered Album Version)": {
 "album": "Forever Blue (Remastered 2025)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/25/9f/da259f9d-6b26-8584-8e6e-dc339f02a889/00792755803257_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2478,6 +2488,7 @@
 },
 "David Bowie|Warszawa  (2017 Remaster)": {
 "album": "Low (2017 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -2705,11 +2716,13 @@
 },
 "Dolly Parton|I Will Always Love You": {
 "album": "Ultimate Dolly Parton",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
 "Dolly Parton|Jolene": {
 "album": "Jolene",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/f8/1e/0bf81e88-de6e-aba3-9fd4-e7407bfbcc31/886445438048.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
@@ -3337,6 +3350,7 @@
 },
 "Filippo Beck Peccoz|Main Theme": {
 "album": "Shadow Tactics - Blades of the Shogun (Original Game Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/92/28/f292286d-b35a-b162-c6c8-9cea4ba4f578/artwork.jpg/100x100bb.jpg",
 "film_hint": "Shadow Tactics - Blades of the Shogun (Original Game Soundtrack)",
 "genre": "Soundtrack"
 },
@@ -3408,6 +3422,7 @@
 },
 "Fleetwood Mac|I Know I'm Not Wrong": {
 "album": "Tusk (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/80/b2/0c80b2a3-9409-d7ea-9044-c0c0c6eb00e3/mzm.ezalkqov.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -3448,6 +3463,7 @@
 },
 "Floating Points|LesAlpx": {
 "album": "Crush",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/17/99/a61799d7-ac93-031d-e58c-44d4674576cb/5054429138481.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3869,6 +3885,7 @@
 },
 "Gorillaz|Hong Kong": {
 "album": "D-Sides",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/fc/fc/81fcfc0b-e48d-b1d0-e3a7-2d9f97b0b9c5/825646284337.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3986,6 +4003,7 @@
 },
 "Grouper|Alien Observer": {
 "album": "A I A: Alien Observer",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/b4/57/c1b45775-4552-c8dd-83bc-c1207f623170/mzi.josqdrrl.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4081,6 +4099,7 @@
 },
 "Hammock|Maybe They Will Sing for Us Tomorrow": {
 "album": "Maybe They Will Sing for Us Tomorrow",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/8c/47/878c47fc-de68-4f30-1182-979ce685ee5c/24229.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4385,6 +4404,7 @@
 },
 "Hozier|From Eden": {
 "album": "Hozier (Expanded Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4396,6 +4416,7 @@
 },
 "Hozier|Wasteland, Baby!": {
 "album": "Wasteland, Baby!",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/73/03/fc73032d-d67d-ade3-8b9a-6f403fd9491b/886447495391.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -4734,6 +4755,7 @@
 },
 "Joe Hisaishi|A Town with an Ocean View (from 'Kiki's Delivery Service')": {
 "album": "Kiki's Delivery Service (Original Sountrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/03/9f/2e039f17-8c87-2783-f4a7-2718e1a7c6a9/TKCA-72742.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Original Score"
 },
@@ -4919,6 +4941,7 @@
 },
 "Johnny Cash|Hurt (Album Version)": {
 "album": "Unearthed (Box Set)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/b0/3c/9fb03c5a-28f5-9609-a5fa-8471b6b32fc1/00602498613351.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Country"
 },
@@ -5320,6 +5343,7 @@
 },
 "Khruangbin|August 10": {
 "album": "Con Todo El Mundo",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/67/2e/17672e3b-9d01-2d5e-9b43-38f44b40f654/656605145365.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Indie Rock"
 },
@@ -5701,6 +5725,7 @@
 },
 "Leonard Cohen|So Long, Marianne": {
 "album": "Live In London",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/d4/a0/8bd4a0c4-a87a-3045-0aaf-3d5a419f54a2/mzi.saafxovb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -6345,6 +6370,7 @@
 },
 "Massive Attack|Unfinished Sympathy (2012 Mix/Master)": {
 "album": "Blue Lines (2012 Mix/Master)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/f7/c0/e5f7c07d-2182-e732-8ad6-be03814fe93c/13UABIM04453.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -6648,6 +6674,7 @@
 },
 "Miles Davis|Blue in Green": {
 "album": "Kind of Blue",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Jazz"
 },
@@ -7108,6 +7135,7 @@
 },
 "Nick Drake|Pink Moon": {
 "album": "A Treasury",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/0a/de/090adef8-d0f6-6681-a8b4-f33aa52c2c5c/00602537415816.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative Folk"
 },
@@ -7921,6 +7949,7 @@
 },
 "Portishead|It Could Be Sweet": {
 "album": "Dummy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -7931,6 +7960,7 @@
 },
 "Portishead|Sour Times": {
 "album": "Dummy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -8463,6 +8493,7 @@
 },
 "Ryuichi Sakamoto|energy flow": {
 "album": "Playing the Piano 12122020",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/0e/13/ee0e13d0-0759-e76f-a242-7df4ebe76d8f/4988064774791_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical Crossover"
 },
@@ -8540,6 +8571,7 @@
 },
 "Sade|Cherish the Day  (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -8853,6 +8885,7 @@
 },
 "Simon & Garfunkel|The Sound of Silence  (Acoustic Version)": {
 "album": "Sounds of Silence",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/8c/fa/f98cfa9e-282b-8a4f-33bd-ff3de9269963/074640926921.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Folk-Rock"
 },
@@ -9221,6 +9254,7 @@
 },
 "Stevie Wonder|Golden Lady": {
 "album": "Innervisions",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Motown"
 },
@@ -9755,6 +9789,7 @@
 },
 "The Beach Boys|God Only Knows (Stereo)": {
 "album": "The Pet Sounds Sessions (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/b1/01/efb101e2-4781-ade9-4c21-731de0e4a787/26UMGIM24796.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9802,6 +9837,7 @@
 },
 "The Beatles|Octopus's Garden (Remastered)": {
 "album": "Abbey Road (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/db/61/dfdb615d-47f8-06e9-9533-b96daccc029f/18UMGIM31076.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9891,6 +9927,7 @@
 },
 "The Civil Wars|Poison & Wine": {
 "album": "Barton Hollow",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/b7/7f/60b77fb8-18ae-ce5a-fc19-c70f2d3d6235/859749486114_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -9943,6 +9980,7 @@
 },
 "The Cure|Just Like Heaven (Album Version)": {
 "album": "Kiss Me, Kiss Me, Kiss Me",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d24/h19/s06.lkkhqoax.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -10353,6 +10391,7 @@
 },
 "The Strokes|Lonely in the Future": {
 "album": "Don't Say No (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/80/46/bc8046a2-3994-6566-c290-6f8fa6a23324/14UMGIM11047.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -10562,6 +10601,7 @@
 },
 "Thievery Corporation|Omid": {
 "album": "The Richest Man In Babylon",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/68/55/da6855a7-4db5-11fc-10c2-47a335c5b146/00792755854150_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
