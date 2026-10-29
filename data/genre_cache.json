@@ -59,6 +59,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"A-Ha|Take On Me (MTV Unplugged)": {
+"album": "MTV Unplugged - Summer Solstice",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/b2/4b/cab24b5b-e15f-62ba-d4c7-ddc19ee17e7a/00602557961836.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "A-Ha|Take on Me (2015 Remaster)": {
 "album": "Greatest Hits - Japanese Singles Collection",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/6d/5d/226d5d15-e9cb-e6f2-2264-6cda2046a760/603497847761.jpg/100x100bb.jpg",
@@ -3053,6 +3059,12 @@
 "film_hint": "",
 "genre": "Jazz"
 },
+"Ella Fitzgerald|Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered)": {
+"album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/6b/e1/1f6be152-443c-edb4-d172-aa1882ee35e9/12UMGIM11051.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Jazz"
+},
 "Ella Fitzgerald|Summertime": {
 "album": "Pure Ella",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/6e/fb/656efb76-ba63-3091-d458-7539948e45e4/14UMGIM51556.rgb.jpg/100x100bb.jpg",
@@ -3434,6 +3446,12 @@
 "Fleetwood Mac|Albatross": {
 "album": "The Pious Bird of Good Omen",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/87/b3/01/87b301e4-2bcb-61ff-37cf-70577f09f887/184719000367.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Fleetwood Mac|Dreams  (2001 Remaster)": {
+"album": "Greatest Hits",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -4108,6 +4126,12 @@
 "artwork": "",
 "film_hint": "",
 "genre": ""
+},
+"Haddaway|What Is Love (Lynx & Pico Remix)": {
+"album": "What Is Love - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/ec/43/88ec43e7-3321-6664-835b-73243625f668/4250282801123.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
 },
 "Hailu Mergia|Tezeta": {
 "album": "Tezeta",
@@ -5322,6 +5346,12 @@
 "genre": "Rock"
 },
 "Kenny Loggins|Footloose (Album Version)": {
+"album": "Footloose (Original Motion Picture Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/100x100bb.jpg",
+"film_hint": "Footloose (Original Motion Picture Soundtrack)",
+"genre": "Rock"
+},
+"Kenny Loggins|Footloose (From \"Footloose\" Soundtrack)": {
 "album": "Footloose (Original Motion Picture Soundtrack)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/100x100bb.jpg",
 "film_hint": "Footloose (Original Motion Picture Soundtrack)",
@@ -10988,6 +11018,12 @@
 "Tracy Chapman|Fast Car  (2015 Remaster)": {
 "album": "Greatest Hits",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/1b/3b/b01b3b19-e9dc-ce05-8d77-e185ee623227/mzm.eevdirwa.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Singer/Songwriter"
+},
+"Tracy Chapman|Fast Car (LP Version)": {
+"album": "New Beginning",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/38/fe/e5/38fee58f-6ba6-c51b-2718-7cf0a38007bf/mzi.dtywsjpm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
