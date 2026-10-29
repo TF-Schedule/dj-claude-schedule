@@ -367,6 +367,7 @@
 },
 "Alison Krauss|Down To The River To Pray (Live)": {
 "album": "O Brother, Where Art Thou? (Music from the Motion Picture)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/9b/66/6c9b6682-cdbd-7454-4f3b-69a9fcc74b5b/06UMGIM06980.rgb.jpg/100x100bb.jpg",
 "film_hint": "O Brother, Where Art Thou? (Music from the Motion Picture)",
 "genre": "Country"
 },
@@ -378,6 +379,7 @@
 },
 "Alvin Lucier|I Am Sitting in a Room": {
 "album": "I am sitting in a room",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/7f/85/b17f85f8-9fdb-957a-fe0b-b62c7d70502d/LCD1013DI.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -599,6 +601,7 @@
 },
 "Aretha Franklin|I Say a Little Prayer": {
 "album": "Aretha Now",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/f9/f4/7cf9f44b-f47e-224b-1b40-bcdf1f9bcbbb/603497896653.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -705,9 +708,10 @@
 "genre": "Worldwide"
 },
 "Azawi|Make a Wish": {
-"album": "make a wish (sped-up & slowed + reverb) [feat. Ayesha Erotica] - Single",
+"album": "make a wish - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/b3/53/6eb353e4-4201-6de5-85a6-da3bd9d868a8/1963624051287_cover.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": "Pop"
+"genre": "Hip-Hop/Rap"
 },
 "B.B. King|The Thrill Is Gone": {
 "album": "Completely Well",
@@ -1017,6 +1021,7 @@
 },
 "Bikini Kill|Rebel Girl": {
 "album": "The Punk Singer (Original Motion Picture Soundtrack)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/e6/a6/b6e6a6e3-8a03-aef3-2046-6d7e5fd1b9c6/851647004155_cover.jpg/100x100bb.jpg",
 "film_hint": "The Punk Singer (Original Motion Picture Soundtrack)",
 "genre": "Alternative"
 },
@@ -1484,6 +1489,7 @@
 },
 "Brian Eno|Deep Blue Day (Remastered 2019)": {
 "album": "Eno: A Rather Deep Level - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d5/48/fdd54887-1b74-0774-8c19-6bddc4c72778/24UMGIM47859.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -1501,6 +1507,7 @@
 },
 "Brian Eno|The Big Ship (2004 Remaster)": {
 "album": "Here Come the Warm Jets",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/1d/1f/751d1fcf-a66e-94f5-4d65-b7f636709235/00724357729352.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -2099,6 +2106,7 @@
 },
 "Cognitron|Low Frequency Thunderstorm Shield": {
 "album": "Seperation Anxiety Relief for Dogs (Calming Frequencies) - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/02/07/1502073e-6583-c270-f07e-534c52ee73b7/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "New Age"
 },
@@ -2446,6 +2454,7 @@
 },
 "David Bowie|Let's Dance  (2018 Remaster)": {
 "album": "Let's Dance (2018 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/df/9d/bddf9d26-d45a-278f-26c1-e5274094cb27/190295671600.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -3075,6 +3084,7 @@
 },
 "Eluvium|Taken": {
 "album": "Talk Amongst the Trees",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/fd/0f/71fd0f56-e45a-09e7-7747-d7bf187bd4e0/mzi.zkrjhwjz.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3470,6 +3480,7 @@
 },
 "Floating Points|Last Bloom": {
 "album": "Crush",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/17/99/a61799d7-ac93-031d-e58c-44d4674576cb/5054429138481.png/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -3769,6 +3780,7 @@
 },
 "Girls' Generation|Gee": {
 "album": "Gee - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/6e/c6/186ec634-8a11-959d-12f5-47ac99f551ce/asset.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "K-Pop"
 },
@@ -4506,6 +4518,7 @@
 },
 "Igor Levit|Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto": {
 "album": "Beethoven: Complete Piano Sonatas",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dd/88/15/dd881550-f52a-5075-9231-05dd4e374473/886447741030.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Classical"
 },
@@ -5735,6 +5748,7 @@
 },
 "Leonard Cohen|Famous Blue Raincoat": {
 "album": "Songs of Love and Hate",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/d4/cc/38d4cc8b-ad0a-d168-0cf6-355606a31759/196873437873.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Folk"
 },
@@ -5752,6 +5766,7 @@
 },
 "Leonard Cohen|Suzanne": {
 "album": "The Essential Leonard Cohen",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/d8/5d/b6d85d2e-537e-5a8f-793f-78763de08dab/mzi.ppysthnn.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -5793,6 +5808,7 @@
 },
 "Lil Jon|Get Low [Explicit]": {
 "album": "Kings of Crunk",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/a4/4d/29a44d02-ce1b-601d-095f-aa9ea083f1d9/mzi.jjkpiqil.tif/100x100bb.jpg",
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
@@ -6410,6 +6426,7 @@
 },
 "Matt Nathanson|Faster": {
 "album": "Modern Love",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/59/2c/a2592c3f-4e72-e5d4-1dde-bd0061c0d2cd/00015707990554.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Singer/Songwriter"
 },
@@ -6943,6 +6960,7 @@
 },
 "My Chemical Romance|I'm Not Okay (I Promise)": {
 "album": "May Death Never Stop You",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6c/e2/ff/6ce2ff5c-fc2e-e00c-b5f5-91a976d0205b/093624938347.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -7200,6 +7218,7 @@
 },
 "Nils Frahm|Familiar": {
 "album": "Felt",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/8b/63/1a8b63a7-1ca6-c4a6-d982-750de6e64ee7/4050486051450_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Ambient"
 },
@@ -7373,6 +7392,7 @@
 },
 "Olivia Rodrigo|the cure": {
 "album": "you seem pretty sad for a girl so in love",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7690,6 +7710,7 @@
 },
 "Peeping Tom|Your Neighborhood Spaceman": {
 "album": "Peeping Tom",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/2f/87/532f876c-1bcd-b3eb-0ff8-c4781134dbf0/64702.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -7731,6 +7752,7 @@
 },
 "Perrie|Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)": {
 "album": "BBC Radio 1 Live Lounge Session - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/fe/68/b8fe68cc-f13f-0492-1e8a-d68396e21f66/196872767902.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -7982,6 +8004,7 @@
 },
 "Portishead|Roads": {
 "album": "Dummy",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
@@ -8779,6 +8802,7 @@
 },
 "Serge Clivio|Your Love Is King": {
 "album": "SERGE AND FRIENDS (Vol. 1-3): The Recording Sessions",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/a6/92/08a692ef-0218-e782-d25c-24aa001780a0/artwork.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9312,6 +9336,7 @@
 },
 "Stevie Wonder|Isn't She Lovely": {
 "album": "Songs in the Key of Life",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -9665,6 +9690,7 @@
 },
 "Talk Talk|New Grass": {
 "album": "Laughing Stock",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4e/d3/44/4ed34448-31df-5d76-5043-77c1dc257575/00042284771726.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -10072,6 +10098,7 @@
 },
 "The Doors|Riders on the Storm": {
 "album": "The Very Best of the Doors",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -10107,6 +10134,7 @@
 },
 "The Hollyridge Strings|Yesterday": {
 "album": "The Best Of The Beatles Songbook",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/91/6c/52916cfe-fdcc-d1bd-2e1a-0fec92785d4c/22UMGIM03808.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Easy Listening"
 },
@@ -10190,6 +10218,7 @@
 },
 "The Magnetic Fields|Absolutely Cuckoo": {
 "album": "69 Love Songs",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/58/a5/c358a5e7-f4de-b068-e831-fb2ac7de53d2/57123.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -11023,6 +11052,7 @@
 },
 "U2|All Along The Watchtower (Live - Rattle & Hum Version)": {
 "album": "Rattle and Hum",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/95/5e/b8955e8b-6993-2404-4ea5-442119be149c/17UMGIM95505.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
