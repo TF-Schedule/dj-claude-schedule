@@ -3793,6 +3793,12 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
+"Giant Squid|Versus the Siren (2023 Remaster)": {
+"album": "Metridium Fields (2023 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/3c/ee/bf3cee3f-4a08-efba-bb26-dfc477ba8c4f/197190586985.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Metal"
+},
 "Gigi Perez|Sailor Song": {
 "album": "Sailor Song - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/100x100bb.jpg",
@@ -5296,6 +5302,12 @@
 "Kate Bush|Coffee Homeground": {
 "album": "Lionheart (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/81/ce/6b81ceac-2982-f89c-d848-12d5700899cc/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
+"Kate Bush|Delius  (2018 Remaster)": {
+"album": "Never for Ever (2018 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/5b/0e/455b0e59-f112-76ee-57c9-9e53b2702142/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
