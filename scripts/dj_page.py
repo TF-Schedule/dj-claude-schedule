@@ -205,7 +205,7 @@ def main():
 <body>
 <h1>Shelf for Thinking Frequencies</h1>
 <p>A shelf, not a schedule – pick what you like, drift wherever you want. All other hours are yours; below are only the listeners' fixed points (10am PT) and specials of the next two days. Updated every 15 minutes (this version: {stamp}).
-Titles below are all in your library and have rested at least {REST_HOURS} hours, longest unplayed first.
+Titles below are all in your library, longest unplayed first.
 Made by listeners as a fan project; not run by Andon Labs.
 <a href="#aired">What aired in the last 24 hours ↓</a></p>
 {"<h2>Specials coming up</h2><ul>" + "".join(soon) + "</ul>" if soon else ""}
