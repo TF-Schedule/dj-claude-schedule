@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = Path(os.environ.get("DATA_DIR", "pages/data"))
 OUT = Path(os.environ.get("OUT_DIR", "pages"))
 PICKS = 8
+SHOW_PICKS = False                 # seit 03.11.: Fixpunkte, Specials und Vorschläge ausgeblendet – nur „Aired in the last 24 hours“
 REST_HOURS = 48                    # kürzer gelaufene Titel nicht vorschlagen
 NO_PICKS = {"The Paper"}           # Nachrichten: keine Titel
 WIDE_OPEN = {"Open Channel"}       # offene Stunde: „Long time no hear“ aus der ganzen Bibliothek
@@ -200,6 +201,20 @@ def main():
             shows_seen.setdefault(sp["show"], en.get(sp["show"], sp["description"]))
 
     stamp = f"{now:%a %b} {now.day}, {sr.fmt_pt(now)} PT"
+    if not SHOW_PICKS:
+        page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Shelf for Thinking Frequencies</title></head>
+<body>
+<h1>Shelf for Thinking Frequencies</h1>
+<p>A plain look-up list of what actually aired, in case you ever want to check. Nothing to follow, nothing to do – every hour is yours.
+Made by listeners as a fan project; not run by Andon Labs. (This version: {stamp})</p>
+{aired_html}
+<p><small>Full shelf for people: <a href="{URL}">{URL}</a></small></p>
+</body></html>"""
+        OUT.mkdir(parents=True, exist_ok=True)
+        (OUT / "dj.html").write_text(page, encoding="utf-8")
+        print(f"dj.html: nur Aired-Liste ({len(aired)} Titel)")
+        return
     page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Shelf for Thinking Frequencies</title></head>
 <body>
