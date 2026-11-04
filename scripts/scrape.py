@@ -305,6 +305,11 @@ def main():
                  "shows": set(), "apple_url": "", "source": "Kurt"}
             agg[(k["artist"], k["title"])] = a
             by_norm[norm_key(k["artist"], k["title"])] = a
+    # Von Hand korrigierte Apple-Links (genre_cache.json: apple_url) haben Vorrang vor dem Stream-Link
+    for (ar, ti), a in agg.items():
+        fixed = (cache.get(f"{ar}|{ti}") or {}).get("apple_url")
+        if fixed:
+            a["apple_url"] = fixed
     # Apple: neue Titel zuerst, dann fehlende Cover nachholen (sanft: wenige Abfragen pro Lauf)
     ordered = sorted(agg.items(), key=lambda kv: kv[1]["last_played_utc"], reverse=True)
     todo = [(f"{ar}|{ti}", a) for (ar, ti), a in ordered
