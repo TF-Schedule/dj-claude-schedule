@@ -91,7 +91,6 @@
       <label>Suche<input id="q" placeholder="Künstler, Titel, Notiz …"></label>
       <label>Genre<select id="fGenre"><option value="">alle</option></select></label>
       <label>Gelaufen in Sendung<select id="fShow"><option value="">alle</option></select></label>
-      <label>Passt zu (deine Notiz)<select id="fFit"><option value="">alle</option></select></label>
       <label>Frei seit mindestens<select id="fFree">
         <option value="0" selected>egal</option><option value="20">20 Std.</option><option value="24">24 Std.</option>
         <option value="36">36 Std.</option><option value="48">48 Std.</option><option value="72">72 Std.</option>
@@ -99,7 +98,7 @@
         <input id="fFreeCustom" type="number" min="1" step="1" placeholder="Stunden" style="display:none;margin-top:4px"></label>
       <label>Nur mit Film<select id="fFilm"><option value="">egal</option><option value="1">ja</option></select></label>
       <label>Land<select id="fLand"><option value="">alle</option></select></label>
-      <label>Playlist<select id="fList"><option value="">alle</option></select></label>
+      <label>Playlist / Passt zu<select id="fList"><option value="">alle</option></select></label>
       <label>Status<select id="fStatus"><option value="">alle</option><option value="played">schon gelaufen</option><option value="new">noch nicht gelaufen</option><option value="mine">meine offenen Änderungen</option></select></label>
     </div>
     <div class="pending" id="pending">
@@ -120,7 +119,7 @@
     <div class="tablewrap"><table>
       <thead><tr>
         <th data-k="title">Titel</th><th data-k="genre">Genre</th>
-        <th data-k="film">Film</th><th data-k="note">Notiz</th><th data-k="fits_show">Passt zu</th>
+        <th data-k="film">Film</th><th data-k="note">Notiz</th>
         <th data-k="plays">Plays</th><th data-k="last_played_utc">Zuletzt</th><th></th>
       </tr></thead>
       <tbody id="tbody"></tbody>
@@ -145,7 +144,7 @@
 <dialog id="dlg">
   <div class="t" id="dlgTitle"></div>
   <div class="a" id="dlgArtist"></div>
-  <label>Passt zu Sendung(en)</label>
+  <label>Playlists (inkl. Sendungen)</label>
   <div id="fitChips" class="fitchips"></div>
   <select id="fitAdd" aria-label="Sendung hinzufügen"></select>
   <div class="row" style="gap:8px">
@@ -244,6 +243,9 @@ const isLive = s => LIVE_FITS.has(s) || (/^(Roots|Europe Express): /.test(s) && 
 // Apple-„Classical“ → Classic nur, wenn der Titel keine eigene Playlist hat UND sein Hauptgenre Klassik ist (z. B. nicht Luciers Klangkunst)
 function fitsOf(t) { const n = noteFor(t), f = split(n.fits_show); const a = split(n.lists).length || mainOf(t) !== "Classical / Neo-Classical" ? null : AUTO[genreOf(t)]; if (a && !f.includes(a)) f.push(a); return f; }
 function listsOf(t) { const n = noteFor(t), l = split(n.lists); const a = l.length || mainOf(t) !== "Classical / Neo-Classical" ? null : AUTO[genreOf(t)]; if (a && !l.includes(a)) l.push(a); return l; }
+// Playlists = „Passt zu“: eine gemeinsame Liste. Lebende Sendungen stehen in fits_show, alles andere in lists.
+function tagsOf(t) { const f = fitsOf(t).filter(isLive); return [...f, ...listsOf(t).filter(x => !f.includes(x))]; }
+const short = s => s.replace(/^Europe Express: /, "EE: ");
 const EMPTY = { fits_show: "", film: "", note: "", lists: "", style: "", genre: "", country: "" };
 
 function loadPending() { try { pending = JSON.parse(localStorage.getItem(LS) || "{}"); } catch (e) { pending = {}; } }
@@ -306,22 +308,20 @@ function fillSelects() {
   opts("fGenre", MAIN.filter(g => present.has(g)));
   opts("fLand", uniq(rows.flatMap(t => split(countryOf(t).replace(/\//g, ",")).map(x => x.replace(/\s*\(.*\)$/, "")))));
   opts("fShow", shows); opts("fShow2", uniq(plays.map(p => p.show)));
-  const fits = uniq(rows.flatMap(t => fitsOf(t)).filter(isLive));
-  opts("fFit", fits);
-  opts("fList", uniq(rows.flatMap(t => listsOf(t))));
-  showNames = fits;                                          // Auswahl im Bearbeiten-Fenster
+  const tags = uniq(rows.flatMap(t => tagsOf(t)));
+  opts("fList", tags);
+  showNames = tags;                                          // Auswahl im Bearbeiten-Fenster
 }
 
 function filtered() {
   const q = document.getElementById("q").value.toLowerCase().trim();
-  const la = fLand.value, g = fGenre.value, sh = fShow.value, fit = fFit.value, free = freeHours(), film = fFilm.value, li = fList.value, st = fStatus.value;
+  const la = fLand.value, g = fGenre.value, sh = fShow.value, free = freeHours(), film = fFilm.value, li = fList.value, st = fStatus.value;
   return rows.filter(t => {
     const n = noteFor(t);
     if (g && mainOf(t) !== g) return false;
     if (la && !split(countryOf(t).replace(/\//g, ",")).map(x => x.replace(/\s*\(.*\)$/, "")).includes(la)) return false;
     if (sh && !split(t.shows).includes(sh)) return false;
-    if (fit && !fitsOf(t).includes(fit)) return false;
-    if (li && !listsOf(t).includes(li)) return false;
+    if (li && !tagsOf(t).includes(li)) return false;
     if (st === "played" && t.unplayed) return false;
     if (st === "new" && !t.unplayed) return false;
     if (st === "mine" && !pending[key(t.artist, t.title)]) return false;
@@ -341,7 +341,7 @@ function render() {
   const list = filtered();
   document.getElementById("count").textContent = `${list.length} Titel`;
   const tb = document.getElementById("tbody");
-  if (!list.length) { tb.innerHTML = `<tr><td colspan="8" class="empty">Keine Titel für diese Auswahl.</td></tr>`; }
+  if (!list.length) { tb.innerHTML = `<tr><td colspan="7" class="empty">Keine Titel für diese Auswahl.</td></tr>`; }
   else tb.innerHTML = list.slice(0, 2000).map(t => {
     const n = noteFor(t), h = hoursSince(t.last_played_utc), k = key(t.artist, t.title);
     const film = n.film || t.film_hint, mine = playsBy.get(k) || [];
@@ -352,12 +352,11 @@ function render() {
     const open = openRows.has(k);
     return `<tr>
       <td><div class="tt">${cover(t.artwork)}<div><div class="t">${esc(t.title)}</div><div class="a">${esc(shownArtist(t))}${countryOf(t) ? ` · ${esc(countryOf(t))}` : ""}</div>${pending[k] ? `<span class="chip mine">✎ deine Änderung, noch nicht gespeichert</span>` : ""}
-        ${listsOf(t).map(s => `<span class="chip list">${esc(s)}</span>`).join("")}
+        <div>${tagsOf(t).map(s => `<span class="chip fit" title="${esc(s)}">${esc(short(s))}</span>`).join("")}</div>
         <div><button class="more" data-k="${esc(k)}" aria-expanded="${open}">${open ? "▾ weniger" : "▸ Details"}</button></div></div></div></td>
       <td>${esc(mainOf(t) || "–")}${n.genre && !MAIN.includes(n.genre) ? `<div class="style">${esc(n.genre)}</div>` : ""}${t.genre && mainFrom(t.genre) !== mainOf(t) ? `<div class="new">Apple: ${esc(t.genre)}</div>` : ""}${n.style ? `<div class="style">${esc(n.style)}</div>` : ""}</td>
       <td class="note">${esc(film)}</td>
       <td class="note">${esc(n.note)}</td>
-      <td>${fitsOf(t).filter(isLive).map(s => `<span class="chip fit">${esc(s)}</span>`).join("")}</td>
       <td>${t.plays}</td>
       <td>${when}</td>
       <td><button class="edit" data-i="${esc(t.artist)}" data-t="${esc(t.title)}" title="Notiz bearbeiten">✎</button></td>
@@ -368,7 +367,7 @@ function render() {
   document.getElementById("pendingN").textContent = np === 1 ? "1 Notiz geändert" : `${np} Notizen geändert`;
   document.getElementById("pendingList").innerHTML = Object.entries(pending).map(([k, m]) => {   // welche Titel, und was auf GitHub steht
     const s = notes.get(k) || EMPTY, d = [];
-    for (const [f, n] of [["fits_show", "Passt zu"], ["genre", "Genre"], ["style", "Stil"], ["country", "Land"], ["film", "Film"], ["note", "Notiz"]])
+    for (const [f, n] of [["fits_show", "Passt zu"], ["lists", "Playlists"], ["genre", "Genre"], ["style", "Stil"], ["country", "Land"], ["film", "Film"], ["note", "Notiz"]])
       if ((m[f] || "") !== (s[f] || "")) d.push(`${n}: <i>${esc(m[f] || "–")}</i> (GitHub: ${esc(s[f] || "–")})`);
     return `• <b>${esc(m.artist || "")} – ${esc(m.title || "")}</b>${d.length ? "<br>&nbsp;&nbsp;" + d.join("<br>&nbsp;&nbsp;") : ""}`;
   }).join("<br>");
@@ -381,8 +380,10 @@ function detailRow(t, n, mine, film) {
   const kurt = t.source !== "Regal" && !t.unplayed ? `<div class="new" style="margin-top:4px">Insgesamt ${t.plays} Plays (inkl. Kurts Liste, die weiter zurückreicht).</div>` : "";
   const src = /allmusic\.com/.test(t.apple_url || "") ? "Bei AllMusic ansehen" : /music\.apple\.com/.test(t.apple_url || "") ? "Bei Apple Music ansehen" : "Quelle ansehen";
   const apple = t.apple_url ? `<div style="margin-top:6px"><a href="${esc(t.apple_url)}" target="_blank" rel="noopener">${src}</a></div>` : "";
-  return `<tr class="detail"><td colspan="8"><div class="cols">
+  return `<tr class="detail"><td colspan="7"><div class="cols">
     <div><h4>Verlauf</h4>${hist}${kurt}</div>
+    <div><h4>Playlists</h4>${tagsOf(t).length ? `<ul style="margin:0;padding-left:18px">${tagsOf(t).map(s => `<li>${esc(s)}</li>`).join("")}</ul>` : `<span class="new">–</span>`}
+      ${tagsOf(t).some(s => s.startsWith("Europe Express: ")) ? `<div class="new" style="margin-top:4px">In der Liste abgekürzt: EE = Europe Express</div>` : ""}</div>
     <div><h4>Notiz</h4>${n.note ? esc(n.note) : `<span class="new">–</span>`}
       ${film ? `<div style="margin-top:6px"><b>Film:</b> ${esc(film)}</div>` : ""}
       ${n.style ? `<div style="margin-top:6px"><b>Stil:</b> ${esc(n.style)}</div>` : ""}
@@ -410,14 +411,14 @@ let editing = null, fitSel = [], fitHidden = [], showNames = [];
 function drawFits() {
   fitChips.innerHTML = fitSel.length
     ? fitSel.map((s, i) => `<span class="chip fit">${esc(s)} <button type="button" class="x" data-i="${i}" aria-label="${esc(s)} entfernen">×</button></span>`).join("")
-    : `<span class="new">noch keine Sendung</span>`;
-  fitAdd.innerHTML = `<option value="">+ Sendung hinzufügen …</option>` +
+    : `<span class="new">noch keine Playlist</span>`;
+  fitAdd.innerHTML = `<option value="">+ Playlist hinzufügen …</option>` +
     showNames.filter(s => !fitSel.includes(s)).map(s => `<option>${esc(s)}</option>`).join("") +
     `<option value="__other">✎ anderer Name …</option>`;
 }
 fitAdd.onchange = () => {
   let v = fitAdd.value;
-  if (v === "__other") v = (prompt("Name der Sendung:") || "").trim();
+  if (v === "__other") v = (prompt("Name der Playlist:") || "").trim();
   if (v && !fitSel.includes(v)) fitSel.push(v);
   drawFits();
 };
@@ -434,7 +435,7 @@ document.addEventListener("click", e => {
   editing = { artist: b.dataset.i, title: b.dataset.t };
   const n = noteFor(editing);
   dlgTitle.textContent = editing.title; dlgArtist.textContent = editing.artist;
-  fitSel = split(n.fits_show).filter(isLive); fitHidden = split(n.fits_show).filter(s => !isLive(s)); drawFits(); eFilm.value = n.film; eNote.value = n.note; eStyle.value = n.style || ""; eCountry.value = n.country || ""; eCountry.placeholder = lands.get(normA(editing.artist)) || "z. B. Mongolei";
+  fitSel = [...split(n.fits_show).filter(isLive), ...split(n.lists).filter(x => !split(n.fits_show).includes(x))]; fitHidden = split(n.fits_show).filter(s => !isLive(s)); drawFits(); eFilm.value = n.film; eNote.value = n.note; eStyle.value = n.style || ""; eCountry.value = n.country || ""; eCountry.placeholder = lands.get(normA(editing.artist)) || "z. B. Mongolei";
   const apple = (tracks.find(t => key(t.artist, t.title) === key(editing.artist, editing.title)) || {}).genre || "";
   const t0 = rows.find(t => key(t.artist, t.title) === key(editing.artist, editing.title)) || { genre: apple };
   drawGenre(n.genre || "", apple, autoMain(t0));
@@ -444,9 +445,10 @@ dlgCancel.onclick = () => dlg.close();
 dlgSave.onclick = () => {
   const old = noteFor(editing);
   const k = key(editing.artist, editing.title);
-  const base = pending[k]?._base || { fits_show: old.fits_show || "", film: old.film || "", note: old.note || "", genre: old.genre || "", style: old.style || "", country: old.country || "" };   // Stand vor deiner Änderung
+  const base = pending[k]?._base || { fits_show: old.fits_show || "", lists: old.lists || "", film: old.film || "", note: old.note || "", genre: old.genre || "", style: old.style || "", country: old.country || "" };   // Stand vor deiner Änderung
   pending[k] = { ...EMPTY, ...old, artist: old.artist || editing.artist, title: old.title || editing.title,
-    fits_show: (o => [...o.filter(x => !isLive(x) || fitSel.includes(x)), ...fitSel.filter(x => !o.includes(x))])(split(old.fits_show)).join(", "), film: eFilm.value.trim(), note: eNote.value.trim().replace(/\s*\n\s*/g, " "),
+    fits_show: (o => [...o.filter(x => !isLive(x) || fitSel.includes(x)), ...fitSel.filter(x => isLive(x) && !o.includes(x))])(split(old.fits_show)).join(", "),
+    lists: (o => [...o.filter(x => fitSel.includes(x) && !isLive(x)), ...fitSel.filter(x => !isLive(x) && !o.includes(x))])(split(old.lists)).join(", "), film: eFilm.value.trim(), note: eNote.value.trim().replace(/\s*\n\s*/g, " "),
     genre: eGenre.value, style: eStyle.value.trim(), country: eCountry.value.trim(), _base: base };
   savePending(); dlg.close(); buildRows(); fillSelects(); render();
 };
@@ -469,7 +471,7 @@ saveNotes.onclick = async () => {
     const cur = all.get(k), base = v._base;
     if (!cur) { const { _base, ...clean } = v; all.set(k, clean); continue; }
     const merged = { ...cur };
-    for (const f of ["fits_show", "film", "note", "genre", "style", "country"])   // nur was du geändert hast; Listen bleiben wie auf GitHub
+    for (const f of ["fits_show", "lists", "film", "note", "genre", "style", "country"])   // nur was du geändert hast
       if (!base || (f in base && (v[f] || "") !== (base[f] || ""))) merged[f] = v[f] || "";
     all.set(k, merged);
   }
@@ -495,14 +497,14 @@ dlCsv.onclick = () => {
     lines.push([t.artist, countryOf(t), t.title, mainOf(t), n.style, fitsOf(t).filter(isLive).join(", "), listsOf(t).join(", "), n.film || t.film_hint, n.note, String(t.plays), fmt(t.last_played_utc), status]
       .map(v => csvCell(String(v ?? ""))).join(","));
   }
-  const parts = [fList.value, fFit.value, fShow.value, fGenre.value].filter(Boolean).join("_") || "Plattenregal";
+  const parts = [fList.value, fShow.value, fGenre.value].filter(Boolean).join("_") || "Plattenregal";
   const name = parts.replace(/[^A-Za-z0-9ÄÖÜäöüß&+ -]+/g, "").replace(/\s+/g, "_") + ".csv";
   const blob = new Blob(["﻿" + lines.join("\n") + "\n"], { type: "text/csv;charset=utf-8" });
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name;
   document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
 };
 fFree.addEventListener("input", () => { fFreeCustom.style.display = fFree.value === "custom" ? "block" : "none"; });
-for (const id of ["q", "fLand", "fGenre", "fShow", "fFit", "fFree", "fFreeCustom", "fFilm", "fList", "fStatus"]) document.getElementById(id).addEventListener("input", render);
+for (const id of ["q", "fLand", "fGenre", "fShow", "fFree", "fFreeCustom", "fFilm", "fList", "fStatus"]) document.getElementById(id).addEventListener("input", render);
 for (const id of ["q2", "fShow2"]) document.getElementById(id).addEventListener("input", renderPlays);
 document.querySelectorAll("th[data-k]").forEach(th => th.onclick = () => {
   const k = th.dataset.k; sortDir = sortK === k ? -sortDir : (k === "plays" || k === "last_played_utc" ? -1 : 1); sortK = k; render(); });
