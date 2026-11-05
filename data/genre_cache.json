@@ -59,6 +59,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"A-Ha|Summer Moved On (2019 Remaster)": {
+"album": "Minor Earth, Major Sky (Deluxe Edition)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/85/bb/9e85bb44-1a7b-f57c-8eb1-d77cc4b55017/190295391881.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "A-Ha|Take On Me (MTV Unplugged)": {
 "album": "MTV Unplugged - Summer Solstice",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/b2/4b/cab24b5b-e15f-62ba-d4c7-ddc19ee17e7a/00602557961836.rgb.jpg/100x100bb.jpg",
@@ -510,7 +516,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Antonio Campo|I Need You More and More  (Remastered)": {
+"Antonio Campo|I Need You More and More (Remastered)": {
 "album": "Flying Dreams - Antonio Campo (2024 Remastered Version)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/e8/3f/bce83fbb-1d07-92cd-62f3-a52562a5ab17/cover.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -565,6 +571,12 @@
 "genre": "Pop"
 },
 "Arcadia|The Promise  (2010 Remaster)": {
+"album": "Notorious - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/df/cf/28dfcf2e-63ff-51f7-e472-6bf0d40f1746/5021732432773.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
+"Arcadia|The Promise (2010 Remaster)": {
 "album": "Notorious - EP",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/df/cf/28dfcf2e-63ff-51f7-e472-6bf0d40f1746/5021732432773.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -1188,6 +1200,12 @@
 "film_hint": "",
 "genre": "Ambient"
 },
+"Blank & Jones|Get Down (Rediscovered)": {
+"album": "Rediscovered Works",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/f5/6c/86f56c10-3a42-7aac-6518-cc15a3ad92fb/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Ambient"
+},
 "Bleachers|I Wanna Get Better": {
 "album": "Strange Desire",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/2a/74/4c2a7400-42b9-9986-058c-aa8293d7838c/886444565134.jpg/100x100bb.jpg",
@@ -1404,7 +1422,7 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"Booker T. & The M.G.'s|Time Is Tight  (Live)": {
+"Booker T. & The M.G.'s|Time Is Tight (Live)": {
 "album": "The Best of Booker T. & the MGs (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/17/e5/3f17e51f-c31a-dfc5-8e78-f75dc39bc333/00025218300421.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -1560,7 +1578,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Bruce Springsteen|Streets of Philadelphia  (Single Edit)": {
+"Bruce Springsteen|Streets of Philadelphia (Single Edit)": {
 "album": "Greatest Hits",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/fd/8e/b2fd8ec2-3494-fd9a-b7ad-aacaacea8cde/886447315088.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -1669,6 +1687,12 @@
 "genre": "Música tropical"
 },
 "ByeAlex|Kedvesem  (Original)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
+"ByeAlex|Kedvesem (Original)": {
 "album": "",
 "artwork": "",
 "film_hint": "",
@@ -1944,7 +1968,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Chic|Good Times  (2018 Remaster)": {
+"Chic|Good Times (2018 Remaster)": {
 "album": "C'est Chic (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/23/5b/b2/235bb2c3-abaa-22e2-753d-afa8b1806dfe/603497853588.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -1980,13 +2004,13 @@
 "film_hint": "Giana Sisters: Twisted Dreams (Original Soundtrack)",
 "genre": "Soundtrack"
 },
-"Chris Isaak|Blue Hotel  (Remastered Album Version)": {
+"Chris Isaak|Blue Hotel (Remastered Album Version)": {
 "album": "Forever Blue (Remastered 2025)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/25/9f/da259f9d-6b26-8584-8e6e-dc339f02a889/00792755803257_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Chris Isaak|Wicked Game  (Remastered Album Version)": {
+"Chris Isaak|Wicked Game (Remastered Album Version)": {
 "album": "Greatest Lovesongs Vol. 666 (Deluxe Versions) [Remastered]",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/a2/44/e5a24461-3167-932b-021e-4282a2ad6ce9/0654436035107.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2016,7 +2040,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Christopher Cross|I Really Don't Know Anymore  (2019 Remaster)": {
+"Christopher Cross|I Really Don't Know Anymore (2019 Remaster)": {
 "album": "Christopher Cross (2019 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/67/7c/68677c9f-8c6c-2c8c-e5a2-4cc4d20dddb7/8721093378327_Cover.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2455,6 +2479,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"David Bowie|Breaking Glass (2017 Remaster)": {
+"album": "Low (2017 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Dancing in the Street (2002 Remaster)": {
 "album": "Let's Dance (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/df/9d/bddf9d26-d45a-278f-26c1-e5274094cb27/190295671600.jpg/100x100bb.jpg",
@@ -2467,7 +2497,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"David Bowie|Let's Dance  (2018 Remaster)": {
+"David Bowie|Let's Dance (2018 Remaster)": {
 "album": "Let's Dance (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/df/9d/bddf9d26-d45a-278f-26c1-e5274094cb27/190295671600.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2503,31 +2533,37 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"David Bowie|Sound and Vision (2017 Remaster)": {
+"album": "Low (2017 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "David Bowie|Space Oddity": {
 "album": "Legacy (The Very Best of David Bowie) [Deluxe Edition]",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/ae/8b/93ae8bda-3b31-0745-221c-39e73794f31c/190295919870.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"David Bowie|Starman  (2012 Remaster)": {
+"David Bowie|Starman (2012 Remaster)": {
 "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/fa/56/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d/825646124206.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
-"David Bowie|Subterraneans  (2017 Remaster)": {
+"David Bowie|Subterraneans (2017 Remaster)": {
 "album": "Low (2017 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
-"David Bowie|Warszawa  (2017 Remaster)": {
+"David Bowie|Warszawa (2017 Remaster)": {
 "album": "Low (2017 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
-"David Bowie|Wild Is the Wind  (2016 Remaster)": {
+"David Bowie|Wild Is the Wind (2016 Remaster)": {
 "album": "Station to Station (2016 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/d8/47/91d847ac-8e39-85b0-36a6-ab3b8db46803/190295990268.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2665,7 +2701,7 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"Die Fantastischen Vier|MfG - Mit freundlichen Grüßen  (2022)": {
+"Die Fantastischen Vier|MfG - Mit freundlichen Grüßen (2022)": {
 "album": "The Liechtenstein Tapes",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/e2/59/47e259d7-b619-1d13-ab9c-d0f72fa7b783/4056813465174_3000.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2797,7 +2833,7 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"Donny Hathaway|Jealous Guy  (Live)": {
+"Donny Hathaway|Jealous Guy (Live)": {
 "album": "Live",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/56/27/d8/5627d82f-b54c-60d6-5140-ed049ef44ada/075678027222.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -2899,6 +2935,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Duran Duran|Notorious (2010 Remaster)": {
+"album": "Notorious - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/df/cf/28dfcf2e-63ff-51f7-e472-6bf0d40f1746/5021732432773.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Duran Duran|Ordinary World": {
 "album": "Duran Duran (The Wedding Album)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/43/cb/e943cba9-b641-14a9-c5cb-52e67cef101c/077779887651.jpg/100x100bb.jpg",
@@ -2941,13 +2983,13 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Eagles|Hotel California  (2013 Remaster)": {
+"Eagles|Hotel California (2013 Remaster)": {
 "album": "Hotel California",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Eagles|I Can't Tell You Why  (2013 Remaster)": {
+"Eagles|I Can't Tell You Why (2013 Remaster)": {
 "album": "To the Limit: The Essential Collection",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/47/c7/ac47c7ca-10fa-7cf9-9d66-f5d6c7261241/603497827404.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -3068,12 +3110,6 @@
 "genre": "Pop"
 },
 "Ella Fitzgerald|Bewitched, Bothered And Bewildered": {
-"album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/6b/e1/1f6be152-443c-edb4-d172-aa1882ee35e9/12UMGIM11051.rgb.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "Jazz"
-},
-"Ella Fitzgerald|Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered)": {
 "album": "Ella Fitzgerald Sings the Rodgers & Hart Songbook",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/6b/e1/1f6be152-443c-edb4-d172-aa1882ee35e9/12UMGIM11051.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -3481,19 +3517,19 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Fleetwood Mac|Dreams  (2001 Remaster)": {
+"Fleetwood Mac|Dreams (2001 Remaster)": {
 "album": "Greatest Hits",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Fleetwood Mac|Dreams  (2004 Remaster)": {
+"Fleetwood Mac|Dreams (2004 Remaster)": {
 "album": "Greatest Hits",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Fleetwood Mac|Go Your Own Way  (2004 Remaster)": {
+"Fleetwood Mac|Go Your Own Way (2004 Remaster)": {
 "album": "Rumours (Super Deluxe Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -3602,6 +3638,12 @@
 "genre": "Christmas: Classic"
 },
 "Franko Mladen|Jamboree  (Remastered)": {
+"album": "Just Beautiful - Mladen Franko (2024 Remastered Version)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/e5/bd/78e5bdc0-1a29-1be6-045c-d3f3a2f8dfff/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Easy Listening"
+},
+"Franko Mladen|Jamboree (Remastered)": {
 "album": "Just Beautiful - Mladen Franko (2024 Remastered Version)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/e5/bd/78e5bdc0-1a29-1be6-045c-d3f3a2f8dfff/cover.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -4309,7 +4351,7 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"Hayley Williams|Simmer  (Acoustic)": {
+"Hayley Williams|Simmer (Acoustic)": {
 "album": "Riot!",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -4507,7 +4549,7 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"Hozier|Cherry Wine  (Live)": {
+"Hozier|Cherry Wine (Live)": {
 "album": "Hozier (Expanded Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -4549,7 +4591,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Hundreds|Black Sea  (Live at Elbphilharmonie)": {
+"Hundreds|Black Sea (Live at Elbphilharmonie)": {
 "album": "In a Decade (Live at Elbphilharmonie)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/4b/81/994b8130-e9bd-b28a-7a03-73ff27546f6d/4251888718396_3000.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -4699,7 +4741,7 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"James Taylor|Fire and Rain  (2019 Remaster)": {
+"James Taylor|Fire and Rain (2019 Remaster)": {
 "album": "Emotional Rescue (2009 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/12/aa/6c12aab8-9306-691a-8eee-2e762ae3e445/08UMGIM17006.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -5053,6 +5095,12 @@
 "film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
 "genre": "Soundtrack"
 },
+"John Williams|Theme From Superman (Concert Version)": {
+"album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m03/d14/h21/s06.dvzlmtvq.jpg/100x100bb.jpg",
+"film_hint": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+"genre": "Soundtrack"
+},
 "Johnny Cash|Folsom Prison Blues": {
 "album": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/4b/b6/d74bb621-7319-d6a7-6f69-b43249253c60/LM00177737.jpg/100x100bb.jpg",
@@ -5323,7 +5371,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Kate Bush|Delius  (2018 Remaster)": {
+"Kate Bush|Delius (2018 Remaster)": {
 "album": "Never for Ever (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/5b/0e/455b0e59-f112-76ee-57c9-9e53b2702142/cover.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -5335,13 +5383,19 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Kate Bush|Get Out Of My House (2018 Remaster)": {
+"album": "The Dreaming (2018 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/4b/5d/254b5db1-d013-f761-6315-c9d6e85b8c06/cover.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Kate Bush|L'Amour Looks Something Like You (2018 Remaster)": {
 "album": "The Kick Inside (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/64/67/c46467fc-099e-a2f0-d165-f684c12d7cf8/cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
-"Kate Bush|Suspended In Gaffa  (2018 Remaster)": {
+"Kate Bush|Suspended In Gaffa (2018 Remaster)": {
 "album": "The Dreaming (2018 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/4b/5d/254b5db1-d013-f761-6315-c9d6e85b8c06/cover.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -5581,13 +5635,13 @@
 "film_hint": "",
 "genre": "Metal"
 },
-"Kraftwerk|Autobahn  (2024 Single Edit)": {
+"Kraftwerk|Autobahn (2024 Single Edit)": {
 "album": "Autobahn (2024 Single Edit) - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/3f/2d/fb3f2d55-dc7a-8f17-09f8-28191d34bc53/5021732496591.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronic"
 },
-"Kraftwerk|Computer Love  (2009 Remaster)": {
+"Kraftwerk|Computer Love (2009 Remaster)": {
 "album": "",
 "artwork": "",
 "film_hint": "",
@@ -5599,7 +5653,7 @@
 "film_hint": "",
 "genre": "Electronic"
 },
-"Kraftwerk|Trans-Europe Express  (2009 Remaster)": {
+"Kraftwerk|Trans-Europe Express (2009 Remaster)": {
 "album": "Trans-Europe Express (2009 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/80/bc/e280bcf9-4048-8c42-2b6b-d8b9c9bbed52/5099996602058_1500x1500_300dpi.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -5761,25 +5815,25 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"Led Zeppelin|Going to California  (Remaster)": {
+"Led Zeppelin|Going to California (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Led Zeppelin|Over the Hills and Far Away  (Remaster)": {
+"Led Zeppelin|Over the Hills and Far Away (Remaster)": {
 "album": "Houses of the Holy (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Led Zeppelin|Stairway to Heaven  (Remaster)": {
+"Led Zeppelin|Stairway to Heaven (Remaster)": {
 "album": "Led Zeppelin IV (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
-"Ledward Kaapana|Salomila  (Live)": {
+"Ledward Kaapana|Salomila (Live)": {
 "album": "Led Live - Solo",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/58/24/555824af-8250-1ac9-7903-4efed067be63/Ledward_Kaapana_-_Led_Live_-_Solo.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -5995,6 +6049,12 @@
 "film_hint": "",
 "genre": ""
 },
+"Lofi Lia|Tell Your World (From \"Hatsune Miku\") (Lofi Remix)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
 "London Symphony Orchestra|Duel of the Fates": {
 "album": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/f6/57/faf657aa-5796-f34e-5ce7-3a85051038d1/00050087389147.rgb.jpg/100x100bb.jpg",
@@ -6020,6 +6080,12 @@
 "genre": "Soundtrack"
 },
 "Loreena McKennitt|The Holly and the Ivy  (Live)": {
+"album": "Under A Winter's Moon (Live At Knox Church, Stratford, Ontario 2021)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/2a/18/842a1811-effe-9a0e-0b7c-37cd6879b5ec/22UM1IM28374.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
+"Loreena McKennitt|The Holly and the Ivy (Live)": {
 "album": "Under A Winter's Moon (Live At Knox Church, Stratford, Ontario 2021)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/2a/18/842a1811-effe-9a0e-0b7c-37cd6879b5ec/22UM1IM28374.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -6703,6 +6769,12 @@
 "film_hint": "",
 "genre": ""
 },
+"Metallica|Master of Puppets (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)": {
+"album": "",
+"artwork": "",
+"film_hint": "",
+"genre": ""
+},
 "Metallica|Spit Out The Bone": {
 "album": "Hardwired…To Self-Destruct (Deluxe Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/c1/52/01c15233-6950-93f5-2501-8f61de465c5c/858978005240.png/100x100bb.jpg",
@@ -6722,6 +6794,12 @@
 "genre": "Alternative"
 },
 "Michael Bublé|Crazy (with Jon Batiste & Stay Human)  (Live)": {
+"album": "Crazy (with Jon Batiste & Stay Human) [Live] - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/f7/40/6af74033-561c-9650-ee32-8c54a480aa8c/054391885395.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
+"Michael Bublé|Crazy (with Jon Batiste & Stay Human) (Live)": {
 "album": "Crazy (with Jon Batiste & Stay Human) [Live] - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/f7/40/6af74033-561c-9650-ee32-8c54a480aa8c/054391885395.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -6805,7 +6883,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Mikis Theodorakis|Zorba the Greek:  Zorba's Dance": {
+"Mikis Theodorakis|Zorba the Greek: Zorba's Dance": {
 "album": "Zorba The Greek - Original Soundtrack",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/2f/d3/f12fd3c7-822b-99bf-b9e6-52b31d301396/5206999013587.jpg/100x100bb.jpg",
 "film_hint": "Zorba The Greek - Original Soundtrack",
@@ -7195,6 +7273,12 @@
 "film_hint": "",
 "genre": "Pop"
 },
+"Nek|Fatti avanti amore (feat. Jovanotti) (5030 version)": {
+"album": "5030",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b4/63/af/b463af28-4e71-0c97-749a-269ea4677837/5054197438547.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
 "Nelson Freire|Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento": {
 "album": "Memories – The Unreleased Recordings 1970-2019",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fd/93/80/fd938011-2cc5-88b8-1d93-c50c84a33d50/22UMGIM37550.rgb.jpg/100x100bb.jpg",
@@ -7237,7 +7321,7 @@
 "film_hint": "",
 "genre": "Punk"
 },
-"New Order|Blue Monday  (2016 Remaster)": {
+"New Order|Blue Monday (2016 Remaster)": {
 "album": "iTunes Originals: New Order",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/2e/2d/312e2da7-6277-3f91-221a-bc0739a8183b/mzi.kjsrfisp.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -7874,7 +7958,13 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Pet Shop Boys|West End Girls  (2001 Remaster)": {
+"Perrie|Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)": {
+"album": "BBC Radio 1 Live Lounge Session - Single",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/fe/68/b8fe68cc-f13f-0492-1e8a-d68396e21f66/196872767902.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Pop"
+},
+"Pet Shop Boys|West End Girls (2001 Remaster)": {
 "album": "Please: Further Listening 1984-1986 (Deluxe Edition) [2018 Remaster]",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/00/04/3a0004fb-5532-fa36-f7cd-01a2b3da8efd/190295758547.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -7910,7 +8000,7 @@
 "film_hint": "",
 "genre": "Hip-Hop/Rap"
 },
-"Peter Gabriel|Don't Give Up  (2012 Remaster)": {
+"Peter Gabriel|Don't Give Up (2012 Remaster)": {
 "album": "Idlewild (Deluxe Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/ad/13/47ad13f9-78a4-67cf-7a5a-a07512a2732d/0810098500760.png/100x100bb.jpg",
 "film_hint": "",
@@ -7959,6 +8049,12 @@
 "genre": "Christian"
 },
 "Phil Collins|In the Air Tonight  (2015 Remaster)": {
+"album": "Face Value (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/d8/d6/d2d8d6ad-85d4-7024-9726-e1f312beb522/603497889754.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Phil Collins|In the Air Tonight (2015 Remaster)": {
 "album": "Face Value (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/d8/d6/d2d8d6ad-85d4-7024-9726-e1f312beb522/603497889754.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8162,7 +8258,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Prince|Adore  (2020 Remaster)": {
+"Prince|Adore (2020 Remaster)": {
 "album": "Sign O' The Times",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/52/38/a95238ab-10f9-e407-4bc8-755148d32d65/886448874546.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8174,7 +8270,7 @@
 "film_hint": "",
 "genre": "Hard Rock"
 },
-"Prince|Moonbeam Levels  (2019 Remaster)": {
+"Prince|Moonbeam Levels (2019 Remaster)": {
 "album": "1999 (Super Deluxe Edition) [2019 Remaster]",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/dd/09/7fdd0995-aef8-64af-ee5d-be49326fc7a8/886448921325.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8186,7 +8282,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Prince|Purple Rain  (2015 Paisley Park Remaster)": {
+"Prince|Purple Rain (2015 Paisley Park Remaster)": {
 "album": "Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/b6/79/c1b679f5-d59d-1b3e-62ab-514de20f06c6/093624912002.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8672,7 +8768,7 @@
 "film_hint": "",
 "genre": "Classical Crossover"
 },
-"RÜFÜS DU SOL|Innerbloom  (Live from Joshua Tree)": {
+"RÜFÜS DU SOL|Innerbloom (Live from Joshua Tree)": {
 "album": "Live from Joshua Tree",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/22/cb/1422cb8d-0909-d000-74e6-f04629a4c7d7/093624893905.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8738,19 +8834,13 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Sade|By Your Side  (Remastered Version)": {
-"album": "The Ultimate Collection (Remastered)",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "R&B/Soul"
-},
 "Sade|By Your Side (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"Sade|Cherish the Day  (Remastered Version)": {
+"Sade|Cherish the Day (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8768,12 +8858,6 @@
 "film_hint": "",
 "genre": "R&B/Soul"
 },
-"Sade|No Ordinary Love  (Remastered Version)": {
-"album": "The Ultimate Collection (Remastered)",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "R&B/Soul"
-},
 "Sade|No Ordinary Love (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
@@ -8783,12 +8867,6 @@
 "Sade|Smooth Operator (2011 Remastered) (Remastered Version)": {
 "album": "The Ultimate Collection (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "R&B/Soul"
-},
-"Sade|The Sweetest Taboo  (Remastered Version)": {
-"album": "Promise",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8b/22/0b/8b220bf9-7a5f-d266-3d39-c17d0070f3fa/dj.ylfbscrn.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "R&B/Soul"
 },
@@ -8876,7 +8954,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Savath &  Savalas|Te Quiero Pero Por Otro Lado.": {
+"Savath & Savalas|Te Quiero Pero Por Otro Lado.": {
 "album": "Apropa't",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/76/fe/mzi.usbupdme.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -8937,6 +9015,12 @@
 "genre": "TV Soundtrack"
 },
 "Sepultura|Roots Bloody Roots  (2017 Remaster)": {
+"album": "Live in São Paulo (2022 Remaster)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/82/b0/0d82b088-3d79-c494-13d4-19e0f9b5524d/4050538796841.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Sepultura|Roots Bloody Roots (2017 Remaster)": {
 "album": "Live in São Paulo (2022 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/82/b0/0d82b088-3d79-c494-13d4-19e0f9b5524d/4050538796841.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -9050,12 +9134,6 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"Sigur Rós|Untitled #3  (Samskeyti)": {
-"album": "( )",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/be/7a/64be7a82-8d5a-d9a2-91b9-fc8ca608be5c/190296913341.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "Alternative"
-},
 "Sigur Rós|Untitled #3 (Samskeyti)": {
 "album": "( )",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/be/7a/64be7a82-8d5a-d9a2-91b9-fc8ca608be5c/190296913341.jpg/100x100bb.jpg",
@@ -9085,12 +9163,6 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
-},
-"Simon & Garfunkel|The Sound of Silence  (Acoustic Version)": {
-"album": "Sounds of Silence",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/8c/fa/f98cfa9e-282b-8a4f-33bd-ff3de9269963/074640926921.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "Folk-Rock"
 },
 "Simon & Garfunkel|The Sound of Silence (Acoustic Version)": {
 "album": "Sounds of Silence",
@@ -9830,15 +9902,9 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Talk Talk|I Believe in You  (1997 Remaster)": {
+"Talk Talk|I Believe in You (1997 Remaster)": {
 "album": "I Believe in You - EP",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/8c/3b/268c3b0e-6cb1-cfd7-f8c2-ee32e396bb97/5021732947413.jpg/100x100bb.jpg",
-"film_hint": "",
-"genre": "Rock"
-},
-"Talk Talk|Life's What You Make It  (1997 Remaster)": {
-"album": "The Colour of Spring",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/0f/9b/980f9bcc-f049-f0e9-a762-46578ad0adf0/dj.ahsuktom.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
 },
@@ -9854,7 +9920,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Talk Talk|Such a Shame  (1997 Remaster)": {
+"Talk Talk|Such a Shame (1997 Remaster)": {
 "album": "It's My Life (Remastered 1997)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/66/f0/7d66f06c-63ce-c0fc-97ac-0971c14542c8/724385679759.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -9866,7 +9932,7 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"Talking Heads|This Must Be the Place (Naive Melody)  (2005 Remastered LP Version)": {
+"Talking Heads|This Must Be the Place (Naive Melody) (2005 Remastered LP Version)": {
 "album": "The Best of Talking Heads (Remastered)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -10214,7 +10280,7 @@
 "film_hint": "",
 "genre": "Alternative"
 },
-"The Cure|Lovesong  (2010 Remaster)": {
+"The Cure|Lovesong (2010 Remaster)": {
 "album": "Disintegration (2010 Remaster)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/93/3c/2c/mzi.ujtdsknz.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -10256,7 +10322,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"The Doobie Brothers|You Belong to Me  (2016 Remaster)": {
+"The Doobie Brothers|You Belong to Me (2016 Remaster)": {
 "album": "This Year's Model (2021 Remaster / Deluxe)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/40/80/3b40808e-986c-7b03-d337-1c9ee850b45e/21UMGIM48777.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -10455,6 +10521,12 @@
 "genre": "Pop"
 },
 "The Orb|Blue Room  (Live)": {
+"album": "U.F.OFF: The Best of the Orb",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a2/f5/0d/a2f50d90-bb44-6028-4100-37cdf84f24cc/00731452459923.rgb.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Electronic"
+},
+"The Orb|Blue Room (Live)": {
 "album": "U.F.OFF: The Best of the Orb",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a2/f5/0d/a2f50d90-bb44-6028-4100-37cdf84f24cc/00731452459923.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -10718,13 +10790,13 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"The Velvet Underground|Sweet Jane   (Full Length Versio": {
+"The Velvet Underground|Sweet Jane (Full Length Versio": {
 "album": "",
 "artwork": "",
 "film_hint": "",
 "genre": ""
 },
-"The Velvet Underground|Sweet Jane   (Full Length Version; 2015 Remaster)": {
+"The Velvet Underground|Sweet Jane (Full Length Version; 2015 Remaster)": {
 "album": "New York (Deluxe Edition)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/ad/db/caaddb73-66ff-b3bf-46a1-bc3e57d05573/603497847167.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -11042,6 +11114,12 @@
 "film_hint": "",
 "genre": "Dance"
 },
+"Tom Novy|Superstar (The Jason Nevins' Live Peep Show Mix)": {
+"album": "Superstar",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/28/06/cd/2806cdc7-2308-7250-1365-caba53f06f9d/196589597830.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Dance"
+},
 "Tom Petty & The Heartbreakers|American Girl": {
 "album": "Tom Petty And The Heartbreakers",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/41/85/b54185e8-e1b3-6d19-d081-fe9f15f9ab60/24UMGIM71412.rgb.jpg/100x100bb.jpg",
@@ -11144,7 +11222,7 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Tracy Chapman|Fast Car  (2015 Remaster)": {
+"Tracy Chapman|Fast Car (2015 Remaster)": {
 "album": "Greatest Hits",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/1b/3b/b01b3b19-e9dc-ce05-8d77-e185ee623227/mzm.eevdirwa.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -11306,7 +11384,7 @@
 "film_hint": "",
 "genre": "Rock"
 },
-"Van Halen|Jump  (2015 Remaster)": {
+"Van Halen|Jump (2015 Remaster)": {
 "album": "1984",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/100x100bb.jpg",
 "film_hint": "",
@@ -11355,6 +11433,12 @@
 "genre": "Música Mexicana"
 },
 "Victor Babin|Vocalise: Lentamente, Molto cantabile - 14 Romances Op. 34, No. 14 (arr. Babin - Sergei Rachmaninoff)  (Remastered 2023, Hollywood 1939)": {
+"album": "Sandro Nebieridze - Prokofiev & Rachmaninov - harmonia nova #9",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/db/e1/d2dbe116-9d83-f3ab-ce04-ea8de5a14e00/3149020938874.png/100x100bb.jpg",
+"film_hint": "",
+"genre": "Classical"
+},
+"Victor Babin|Vocalise: Lentamente, Molto cantabile - 14 Romances Op. 34, No. 14 (arr. Babin - Sergei Rachmaninoff) (Remastered 2023, Hollywood 1939)": {
 "album": "Sandro Nebieridze - Prokofiev & Rachmaninov - harmonia nova #9",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/db/e1/d2dbe116-9d83-f3ab-ce04-ea8de5a14e00/3149020938874.png/100x100bb.jpg",
 "film_hint": "",
@@ -11546,6 +11630,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"YEBBA|Louie Bag (Live at Electric Lady)": {
+"album": "Live at Electric Lady - EP",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/a2/1f/aca21f9a-b069-4b3c-6a50-b34ad430165b/886449833566.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Yann Tiersen|Comptine d'un autre été, l'après-midi": {
 "album": "Yann Tiersen: Comptine d’un autre été, l’après-midi - Single",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/9b/fe/ea9bfea2-d484-8878-34e2-85f884182dfe/5054197162909.jpg/100x100bb.jpg",
@@ -11564,19 +11654,25 @@
 "film_hint": "",
 "genre": "Pop"
 },
-"Yellow Magic Orchestra|Behind the Mask  (2018 Bob Ludwig Remastering)": {
+"Yellow Magic Orchestra|Behind the Mask (2018 Bob Ludwig Remastering)": {
 "album": "Solid State Survivor",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7b/a4/1a/7ba41a51-f5e0-042d-5d10-8fd10b629bab/886447666654.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronica"
 },
-"Yellow Magic Orchestra|RYDEEN  (2018 Bob Ludwig Remastering)": {
+"Yellow Magic Orchestra|RYDEEN (2018 Bob Ludwig Remastering)": {
 "album": "Solid State Survivor",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7b/a4/1a/7ba41a51-f5e0-042d-5d10-8fd10b629bab/886447666654.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Electronica"
 },
 "Yes|Mood for a Day  (2008 Remaster)": {
+"album": "Fragile (Super Deluxe)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d7/f4/79d7f4e7-306c-4f59-f3a9-d6dd1c79e9fb/603497820825.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock"
+},
+"Yes|Mood for a Day (2008 Remaster)": {
 "album": "Fragile (Super Deluxe)",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d7/f4/79d7f4e7-306c-4f59-f3a9-d6dd1c79e9fb/603497820825.jpg/100x100bb.jpg",
 "film_hint": "",
