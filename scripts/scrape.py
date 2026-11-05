@@ -96,6 +96,11 @@ def andon_blocks():
             for m in pat.finditer(part[j:] if j >= 0 else part)]
 
 
+def ws(s):
+    """Leerzeichen vereinheitlichen: Live365 schrieb bis 05.11.2026 zwei Leerzeichen vor Klammern („Let's Dance  (2018 Remaster)“), seitdem eins."""
+    return re.sub(r"\s+", " ", s or "").strip()
+
+
 def live365_plays():
     d = json.loads(get(LIVE365))
     items = list(d.get("last-played") or [])
@@ -108,8 +113,8 @@ def live365_plays():
             continue
         plays.append({
             "start_utc": iso(t["start"]),
-            "artist": (t.get("artist") or "").strip(),
-            "title": (t.get("title") or "").strip(),
+            "artist": ws(t.get("artist")),
+            "title": ws(t.get("title")),
             "duration_s": str(round(float(t.get("duration") or 0))),
             "show": "",
             "apple_url": t.get("apple_music_url") or "",
@@ -252,6 +257,8 @@ def main():
 
     # 2) Titel
     plays = read_csv(PLAYS, PLAY_COLS)
+    for p in plays:                      # alte Einträge mit doppeltem Leerzeichen angleichen (einmalig wirksam)
+        p["artist"], p["title"] = ws(p["artist"]), ws(p["title"])
     known = {(p["start_utc"], p["artist"], p["title"]) for p in plays}
     new = 0
     for p in live365_plays():
@@ -271,6 +278,10 @@ def main():
 
     # 3) Pro Titel zusammenfassen + Genre
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
+    for k in [k for k in cache if "  " in k]:   # Apple-Infos (Cover, eigene Links) unter der neuen Schreibweise behalten
+        nk = ws(k)
+        old, new = cache.pop(k), cache.get(nk, {})
+        cache[nk] = {f: new.get(f) or old.get(f) or "" for f in {*old, *new}}
     agg = {}
     for p in plays:
         k = (p["artist"], p["title"])
