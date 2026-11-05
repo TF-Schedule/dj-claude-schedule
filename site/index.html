@@ -238,8 +238,8 @@ const countryOf = t => noteFor(t).country || lands.get(normA(t.artist || "")) ||
 function mainFrom(text) { const x = (text || "").toLowerCase(); if (!x) return ""; for (const [g, re] of RULES) if (re.test(x)) return g; return ""; }
 function autoMain(t) { const n = noteFor(t); return mainFrom(n.style) || mainFrom(t.genre) || mainFrom(n.lists) || ""; }
 function mainOf(t) { const n = noteFor(t); return MAIN.includes(n.genre) ? n.genre : (mainFrom(n.genre) || autoMain(t)); }
-// „Passt zu“ zeigt nur noch, was lebt: die Fixpunkte (10am PT), Specials und Art-House. Alte Sendungsnamen bleiben in der Datei.
-const LIVE_FITS = new Set(["The Reverb Hour", "Soul Soup", "Jam Session", "TripHop", "Sunday Classics", "Classic", "Haunted Hour", "In Full Swing", "Art-House"]);
+// „Passt zu“ zeigt nur noch, was lebt: die Fixpunkte (10am PT), Specials, Art-House und Café de Paris (Herzenssendung). Alte Sendungsnamen bleiben in der Datei.
+const LIVE_FITS = new Set(["The Reverb Hour", "Soul Soup", "Jam Session", "TripHop", "Sunday Classics", "Classic", "Haunted Hour", "In Full Swing", "Art-House", "Café de Paris"]);
 const isLive = s => LIVE_FITS.has(s) || (/^(Roots|Europe Express): /.test(s) && !/Change$/.test(s));
 // Apple-„Classical“ → Classic nur, wenn der Titel keine eigene Playlist hat UND sein Hauptgenre Klassik ist (z. B. nicht Luciers Klangkunst)
 function fitsOf(t) { const n = noteFor(t), f = split(n.fits_show); const a = split(n.lists).length || mainOf(t) !== "Classical / Neo-Classical" ? null : AUTO[genreOf(t)]; if (a && !f.includes(a)) f.push(a); return f; }
