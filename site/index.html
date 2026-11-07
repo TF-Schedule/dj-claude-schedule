@@ -190,7 +190,8 @@ function normA(a) {
 function normT(t) {
   return t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/\s*[\(\[][^\)\]]*([\)\]]|$)/g, "").replace(/\s+-\s+.*(remaster|version|live|mix|edit|mono|stereo).*$/, "")
-    .replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+(i|ii|iii|iv|v|vi|vii|viii|ix|x)$/, "");
+    .replace(/\s*[:.,–-]\s*(i|ii|iii|iv|v|vi|vii|viii|ix|x)\.?$/, "")   // Satznummer nur nach Doppelpunkt o. Ä. („: I“) – „In the Fog I/II“ bleiben getrennt
+    .replace(/[^a-z0-9]+/g, " ").trim();
 }
 // Sortieren wie in Bibliotheken: führende Klammern, Anführungszeichen und Satzzeichen ignorieren
 // – „(Sittin' On) The Dock of the Bay“ steht unter S; angezeigt wird weiter der volle Titel
