@@ -8337,7 +8337,11 @@
 "genre": "Alternative"
 },
 "ROSALÍA|Berghain": {
-"apple_url": "https://music.apple.com/de/album/berghain/1848167516?i=1848167528"
+"album": "LUX",
+"apple_url": "https://music.apple.com/de/album/berghain/1848167516?i=1848167528",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ae/80/95ae8046-a6b9-e493-0def-5ae33d63f43a/196873722672.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Rock y Alternativo"
 },
 "ROSALÍA|MALAMENTE (Cap.1: Augurio)": {
 "album": "MALAMENTE (Cap.1: Augurio) - Single",
