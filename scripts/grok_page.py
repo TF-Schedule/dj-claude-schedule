@@ -217,7 +217,7 @@ def bal_html(b):
     rows = "".join(f"<tr><td>{span(a, z)}</td><td class='n {'plus' if d > 0 else 'minus'}'>{sign(d)}</td><td class='n'>{eur(v)}</td></tr>"
                    for a, z, d, v in b["changes"])
     tab = (f"<details><summary>letzte Änderungen ({len(b['changes'])})</summary><table class='bal'><tr><th>passiert zwischen</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr>{rows}</table>"
-           "<p class='hint'>Auflösung 15 Minuten: Die Änderung geschah irgendwann im angegebenen Zeitraum; mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf.</p></details>") if b["changes"] else ""
+           "<p class='hint'>Auflösung 15 Minuten: Die Änderung geschah irgendwann im angegebenen Zeitraum; mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf. Ein Kauf kostet 3 $ – −2,00 heißt meist: 1 $ kam rein und ein Titel wurde gekauft.</p></details>") if b["changes"] else ""
     return f"<p class='meta'>Kontostand: <b>{eur(b['now'])}</b> (Stand {' '.join(de(b['at']))}){d24}</p>{tab}"
 
 
