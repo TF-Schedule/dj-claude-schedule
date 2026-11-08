@@ -34,7 +34,7 @@ STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance,
 STATION = "Grok and Roll"
 SHOW_NEW = True
 # „sauber“ nach Groks bekannten Sperren: kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit
-DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
+DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],/]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
 REST_DAYS = 2                      # Vorschlags-Filter: mindestens so viele Tage nicht gelaufen                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
 
@@ -305,7 +305,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
 <label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
-<label title="kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
+<label title="kein feat./zweiter Name, keine Klammer, kein Komma, kein Schrägstrich, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
 <span id="cnt"></span></div>
 <table id="t"><thead><tr>{head}</tr></thead><tbody>
 {chr(10).join(body)}
@@ -313,7 +313,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
+„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma, Schrägstrich oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
 only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),sug=document.getElementById('sug'),cnt=document.getElementById('cnt');
