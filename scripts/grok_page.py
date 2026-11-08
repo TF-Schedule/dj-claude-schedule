@@ -32,7 +32,10 @@ SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt =
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
 STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance, seit 08.11.2026)
 STATION = "Grok and Roll"
-SHOW_NEW = True                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
+SHOW_NEW = True
+# „sauber“ nach Groks bekannten Sperren: kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit
+DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
+REST_DAYS = 2                      # Vorschlags-Filter: mindestens so viele Tage nicht gelaufen                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
 
 def utc(s):
@@ -272,7 +275,10 @@ def page(rows, full24=False, since=None, bal=None):
                  f"<td class='n' data-v='{r['h24']}'>{r['h24'] or ''}</td><td class='n' data-v='{r['total']}'>{r['total']}</td>")
         if SHOW_NEW:
             cells += f"<td>{e(r['new'])}</td>"
-        body.append(f"<tr{cls}>{cells}</tr>")
+        clean = not DIRTY.search(r["artist"] + " " + r["title"])
+        rest = r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=REST_DAYS)
+        sug = " data-s='1'" if clean and rest else ""
+        body.append(f"<tr{cls}{sug}>{cells}</tr>")
     return f"""<!DOCTYPE html>
 <html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>DJ Grok – Titelübersicht</title>
@@ -298,6 +304,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
 <label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
+<label title="kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
 <span id="cnt"></span></div>
 <table id="t"><thead><tr>{head}</tr></thead><tbody>
 {chr(10).join(body)}
@@ -305,15 +312,17 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
+„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
-only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),cnt=document.getElementById('cnt');
+only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),sug=document.getElementById('sug'),cnt=document.getElementById('cnt');
 function f(){{const s=q.value.toLowerCase();let n=0;for(const r of rows){{const h=+r.cells[4].textContent||0;
-const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[6]&&r.cells[6].textContent.trim()));
+const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[6]&&r.cells[6].textContent.trim()))&&(!sug.checked||r.dataset.s);
 r.style.display=ok?'':'none';if(ok)n++;}}cnt.textContent=n+' angezeigt';}}
 const a0=i=>rows[0].cells[i].dataset;
 [q,only,multi,neu].forEach(x=>x.addEventListener('input',f));
+sug.addEventListener('input',()=>{{if(sug.checked){{rows.sort((a,b)=>a.cells[2].textContent.localeCompare(b.cells[2].textContent));rows.forEach(r=>tb.appendChild(r));
+document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));document.querySelectorAll('th')[2].classList.add('asc');}}f();}});
 document.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{{
 const d=th.classList.contains('asc')?-1:1;document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));
 th.classList.add(d>0?'asc':'desc');const num='v' in a0(i);
