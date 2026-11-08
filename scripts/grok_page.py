@@ -263,7 +263,7 @@ def page(rows, full24=False, since=None, bal=None):
     body = []
     for r in rows:
         l, z = de(r["last"])
-        cls = " class='twice'" if r["h24"] > 1 else (" class='recent'" if r["h24"] else "")
+        cls = " class='hot'" if r["h24"] >= 3 else " class='twice'" if r["h24"] > 1 else (" class='recent'" if r["h24"] else "")
         gap = r.get("gap")
         tip = f" title='vorletzter Lauf: {' '.join(de(r['prev']))}'" if r.get("prev") else ""
         gv = int(gap.total_seconds()) if gap else 10**9
@@ -286,7 +286,7 @@ th,td{{padding:.3rem .5rem;border-bottom:1px solid #e5e5e5;text-align:left;verti
 th{{position:sticky;top:0;background:#eee;cursor:pointer;user-select:none;white-space:nowrap}}
 th.asc::after{{content:" ▲"}} th.desc::after{{content:" ▼"}}
 .n{{text-align:right;font-variant-numeric:tabular-nums}} td:nth-child(3){{white-space:nowrap}}
-tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}}
+tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
 details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
 </style></head><body>
@@ -305,7 +305,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, orange = mehrfach.</footer>
+„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
 only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),cnt=document.getElementById('cnt');
