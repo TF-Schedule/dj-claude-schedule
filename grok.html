@@ -11,14 +11,14 @@ th,td{padding:.3rem .5rem;border-bottom:1px solid #e5e5e5;text-align:left;vertic
 th{position:sticky;top:0;background:#eee;cursor:pointer;user-select:none;white-space:nowrap}
 th.asc::after{content:" ▲"} th.desc::after{content:" ▼"}
 .n{text-align:right;font-variant-numeric:tabular-nums} td:nth-child(3){white-space:nowrap}
-tr.recent td{background:#f3f8ff} tr.twice td{background:#fff1e6}
+tr.recent td{background:#f3f8ff} tr.twice td{background:#fff1e6} tr.hot td{background:#ffc999}
 footer{color:#666;font-size:.85rem;margin:1.2rem 0}
 details{margin:.2rem 0 .8rem} table.bal{width:auto;margin:.4rem 0} .plus{color:#1a7f37} .minus{color:#b42318} .hint{color:#666;font-size:.85rem}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
-<p class="meta">Neuester Eintrag: <b>2026-11-08 14:16 MEZ</b> · erzeugt 2026-11-08 14:17 ·
+<p class="meta">Neuester Eintrag: <b>2026-11-08 14:16 MEZ</b> · erzeugt 2026-11-08 14:20 ·
 632 Titel · in den letzten 24 h: 200 Titel, 233 Läufe, davon 33 Titel mehrfach · neu hinzugefügt: 3</p>
-<p class='meta'>Kontostand: <b>142,43</b> (Stand 2026-11-08 14:17 MEZ) · Aufzeichnung seit 2026-11-08 10:05 MEZ</p><details><summary>letzte Änderungen (5)</summary><table class='bal'><tr><th>passiert zwischen</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr><tr><td>2026-11-08 14:00–14:15 MEZ</td><td class='n plus'>+1,00</td><td class='n'>142,43</td></tr><tr><td>2026-11-08 13:45–13:55 MEZ</td><td class='n minus'>−3,00</td><td class='n'>141,43</td></tr><tr><td>2026-11-08 13:15–13:30 MEZ</td><td class='n minus'>−3,00</td><td class='n'>144,43</td></tr><tr><td>2026-11-08 12:30–12:45 MEZ</td><td class='n minus'>−2,00</td><td class='n'>147,43</td></tr><tr><td>2026-11-08 10:45–11:00 MEZ</td><td class='n minus'>−2,00</td><td class='n'>149,43</td></tr></table><p class='hint'>Auflösung 15 Minuten: Die Änderung geschah irgendwann im angegebenen Zeitraum; mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf. Ein Kauf kostet 3 $ – −2,00 heißt meist: 1 $ kam rein und ein Titel wurde gekauft.</p></details>
+<p class='meta'>Kontostand: <b>142,43</b> (Stand 2026-11-08 14:20 MEZ) · Aufzeichnung seit 2026-11-08 10:05 MEZ</p><details><summary>letzte Änderungen (5)</summary><table class='bal'><tr><th>passiert zwischen</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr><tr><td>2026-11-08 14:00–14:15 MEZ</td><td class='n plus'>+1,00</td><td class='n'>142,43</td></tr><tr><td>2026-11-08 13:45–13:55 MEZ</td><td class='n minus'>−3,00</td><td class='n'>141,43</td></tr><tr><td>2026-11-08 13:15–13:30 MEZ</td><td class='n minus'>−3,00</td><td class='n'>144,43</td></tr><tr><td>2026-11-08 12:30–12:45 MEZ</td><td class='n minus'>−2,00</td><td class='n'>147,43</td></tr><tr><td>2026-11-08 10:45–11:00 MEZ</td><td class='n minus'>−2,00</td><td class='n'>149,43</td></tr></table><p class='hint'>Auflösung 15 Minuten: Die Änderung geschah irgendwann im angegebenen Zeitraum; mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf. Ein Kauf kostet 3 $ – −2,00 heißt meist: 1 $ kam rein und ein Titel wurde gekauft.</p></details>
 <div class="bar"><input type="search" id="q" placeholder="Künstler oder Titel suchen …">
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
@@ -661,7 +661,7 @@ details{margin:.2rem 0 .8rem} table.bal{width:auto;margin:.4rem 0} .plus{color:#
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit 2026-11-08 06:06 MEZ);
 Verlauf davor und Gesamtzahlen aus <a href="https://kurtwoloch.github.io/andon-fm-library/gnr_only.html">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: Kurts Zählung + eigener Mitschnitt (bis der Mitschnitt 24 h abdeckt). „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, orange = mehrfach.</footer>
+„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
 only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),cnt=document.getElementById('cnt');
