@@ -1,13 +1,19 @@
-"""Einfache Übersicht für DJ Grok (Station GNR) – grok.html im Zweig gh-pages.
+"""Einfache Übersicht für DJ Grok (Grok'n Roll) – grok.html im Zweig gh-pages.
 
-Spalten: Künstler, Titel, zuletzt gelaufen (deutsche Zeit), Anzahl in den letzten 24 h, Gesamtanzahl.
-Spalte „Neu hinzugefügt“ ist vorbereitet, aber AUS (SHOW_NEW = False): Kurts Liste kennt nur Titel,
-die schon gelaufen sind, ein Kaufdatum gibt es dort nicht. Einschalten erst mit eigenen Daten.
+Spalten: Künstler, Titel, zuletzt gelaufen (deutsche Zeit), Anzahl in den letzten 24 h, Gesamtanzahl, neu hinzugefügt.
 
-Datenquelle vorerst: Kurt Woloch, gnr_only.csv (mit Dank). Bei Fehler wird die letzte Kopie genommen.
-Env: DATA_DIR (Datenordner, Kopie von Kurts Liste), OUT_DIR (Ausgabeordner = Webseite)
+Quellen:
+  - eigener Mitschnitt (seit 08.11.2026): Live365 api.live365.com/station/a15419 (aktueller + letzte Titel),
+    alle 15 Min. → data/grok_plays.csv (wird nur ergänzt)
+  - Kurt Woloch, gnr_only.csv (mit Dank): Verlauf vor unserem Start, Gesamtzahlen. Kopie data/kurt_gnr_only.csv.
+Zusammenführung je Titel: Kurts Zahlen + unsere Läufe, die nach Kurts letztem Lauf kamen (die kennt er noch nicht).
+24 h: sobald unser Mitschnitt 24 h abdeckt, nur noch aus dem Mitschnitt.
+„Neu hinzugefügt“: nur Titel, die WIR zum ersten Mal laufen sehen und die Kurts Liste bis dahin nicht kannte
+(data/grok_seen.csv merkt sich, was schon bekannt war).
+Env: DATA_DIR (Datenordner), OUT_DIR (Ausgabeordner = Webseite)
 """
-import csv, html, os, urllib.request
+import csv, html, json, os, re, urllib.request
+from datetime import timedelta
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -18,8 +24,13 @@ OUT = Path(os.environ.get("OUT_DIR", "pages"))
 KURT_URL = "https://kurtwoloch.github.io/andon-fm-library/gnr_only.csv"
 KURT_PAGE = "https://kurtwoloch.github.io/andon-fm-library/gnr_only.html"
 KURT = DATA / "kurt_gnr_only.csv"
+LIVE365 = "https://api.live365.com/station/a15419"
+PLAYS = DATA / "grok_plays.csv"
+SEEN = DATA / "grok_seen.csv"
+PLAY_COLS = ["start_utc", "artist", "title"]
+SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt = schon vorher bekannt, eigen = von uns zuerst gesehen
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
-SHOW_NEW = False                   # „Neu hinzugefügt“ – erst mit eigenen (Nicht-Kurt-)Daten einschalten
+SHOW_NEW = True                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
 
 def utc(s):
@@ -35,6 +46,59 @@ def num(s):
         return int(float(s or 0))
     except ValueError:
         return 0
+
+
+def ws(s):
+    return re.sub(r"\s+", " ", s or "").strip()
+
+
+def key(artist, title):
+    return ws(artist).casefold() + "|" + ws(title).casefold()
+
+
+def fmt(t):
+    return t.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def read_csv(path, cols):
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8", newline="") as f:
+        return [{c: r.get(c, "") for c in cols} for r in csv.DictReader(f)]
+
+
+def write_csv(path, cols, rows):
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
+
+
+def record():
+    """Eigener Mitschnitt: neue Titel aus Live365 an grok_plays.csv anhängen."""
+    plays = read_csv(PLAYS, PLAY_COLS)
+    known = {(p["start_utc"], p["artist"], p["title"]) for p in plays}
+    try:
+        req = urllib.request.Request(LIVE365, headers=UA)
+        with urllib.request.urlopen(req, timeout=20) as r:
+            d = json.loads(r.read().decode("utf-8", "replace"))
+        items = list(d.get("last-played") or [])
+        if (d.get("current-track") or {}).get("title"):
+            items.append(d["current-track"])
+        for t in items:
+            st = utc(t.get("start"))
+            if not t.get("title") or not st:
+                continue
+            p = {"start_utc": fmt(st), "artist": ws(t.get("artist")), "title": ws(t.get("title"))}
+            if (p["start_utc"], p["artist"], p["title"]) not in known:
+                plays.append(p)
+                known.add((p["start_utc"], p["artist"], p["title"]))
+    except Exception as e:
+        print("Live365 (Grok) nicht lesbar:", e)
+    plays.sort(key=lambda p: p["start_utc"])
+    DATA.mkdir(parents=True, exist_ok=True)
+    write_csv(PLAYS, PLAY_COLS, plays)
+    return plays
 
 
 def load():
@@ -65,6 +129,57 @@ def load():
     return rows
 
 
+def merge(kurt, plays):
+    now = datetime.now(timezone.utc)
+    by = {}
+    for r in kurt:
+        k = key(r["artist"], r["title"])
+        if k in by:                                   # Doppelungen bei Kurt zusammenzählen
+            o = by[k]
+            o["total"] += r["total"]; o["h24"] += r["h24"]
+            o["last"] = max(x for x in (o["last"], r["last"]) if x) if (o["last"] or r["last"]) else None
+        else:
+            by[k] = dict(r, kurt_last=r["last"])
+    for r in by.values():
+        r["kurt_last"] = r["last"]
+    own = [(utc(p["start_utc"]), p) for p in plays]
+    own = [(t, p) for t, p in own if t]
+    full24 = bool(own) and own[0][0] <= now - timedelta(hours=24)   # Mitschnitt deckt schon 24 h ab?
+    for r in by.values():
+        if full24:
+            r["h24"] = 0
+    for t, p in own:
+        k = key(p["artist"], p["title"])
+        r = by.get(k)
+        if r is None:
+            r = by[k] = {"artist": p["artist"], "title": p["title"], "last": None, "kurt_last": None, "h24": 0, "total": 0, "new": ""}
+        unseen_by_kurt = not r["kurt_last"] or t > r["kurt_last"] + timedelta(seconds=30)
+        if unseen_by_kurt:
+            r["total"] += 1
+        if t >= now - timedelta(hours=24) and (full24 or unseen_by_kurt):
+            r["h24"] += 1
+        if not r["last"] or t > r["last"]:
+            r["last"] = t
+    # „neu hinzugefügt“: Kurts Titel gelten als bekannt; was wir zuerst sehen, bekommt ein Datum
+    seen = {s["key"]: s for s in read_csv(SEEN, SEEN_COLS)}
+    first_run = not seen
+    for t, p in own:
+        k = key(p["artist"], p["title"])
+        if k not in seen:
+            known_before = first_run and by[k]["kurt_last"] is not None
+            seen[k] = {"key": k, "artist": p["artist"], "title": p["title"],
+                       "first_utc": "" if known_before else fmt(t), "source": "kurt" if known_before else "eigen"}
+    for r in kurt:
+        k = key(r["artist"], r["title"])
+        if k not in seen:
+            seen[k] = {"key": k, "artist": r["artist"], "title": r["title"], "first_utc": "", "source": "kurt"}
+    write_csv(SEEN, SEEN_COLS, sorted(seen.values(), key=lambda s: s["key"]))
+    for k, r in by.items():
+        sv = seen.get(k)
+        r["new"] = de(utc(sv["first_utc"]))[0] if sv and sv["source"] == "eigen" else ""
+    return list(by.values()), full24, (own[0][0] if own else None)
+
+
 def de(t):
     if not t:
         return "", ""
@@ -72,9 +187,12 @@ def de(t):
     return d.strftime("%Y-%m-%d %H:%M"), {"CET": "MEZ", "CEST": "MESZ"}.get(d.tzname(), d.tzname())
 
 
-def page(rows):
+def page(rows, full24=False, since=None):
     rows.sort(key=lambda r: r["last"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     newest = rows[0]["last"] if rows else None
+    since_txt = " ".join(de(since)) if since else "–"
+    src24 = "eigener Mitschnitt" if full24 else "Kurts Zählung + eigener Mitschnitt (bis der Mitschnitt 24 h abdeckt)"
+    n_new = sum(1 for r in rows if r["new"])
     stand, tz = de(newest)
     now, _ = de(datetime.now(timezone.utc))
     played24 = sum(1 for r in rows if r["h24"])
@@ -112,24 +230,26 @@ footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
 <p class="meta">Neuester Eintrag: <b>{stand} {tz}</b> · erzeugt {now} ·
-{len(rows)} Titel · in den letzten 24 h: {played24} Titel, {plays24} Läufe, davon {twice} Titel mehrfach</p>
+{len(rows)} Titel · in den letzten 24 h: {played24} Titel, {plays24} Läufe, davon {twice} Titel mehrfach · neu hinzugefügt: {n_new}</p>
 <div class="bar"><input type="search" id="q" placeholder="Künstler oder Titel suchen …">
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
+<label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
 <span id="cnt"></span></div>
 <table id="t"><thead><tr>{head}</tr></thead><tbody>
 {chr(10).join(body)}
 </tbody></table>
-<footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Daten vorerst aus
-<a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> (Verzug bis zu einigen Stunden) – mit Dank.
-„24 h“ = Kurts Zählung der letzten 24 Stunden. Blau = 1× in 24 h, orange = mehrfach.</footer>
+<footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
+Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
+„24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
+Blau = 1× in 24 h, orange = mehrfach.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
-only=document.getElementById('only'),multi=document.getElementById('multi'),cnt=document.getElementById('cnt');
+only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),cnt=document.getElementById('cnt');
 function f(){{const s=q.value.toLowerCase();let n=0;for(const r of rows){{const h=+r.cells[3].textContent||0;
-const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1);
+const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[5]&&r.cells[5].textContent.trim()));
 r.style.display=ok?'':'none';if(ok)n++;}}cnt.textContent=n+' angezeigt';}}
-[q,only,multi].forEach(x=>x.addEventListener('input',f));
+[q,only,multi,neu].forEach(x=>x.addEventListener('input',f));
 document.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{{
 const d=th.classList.contains('asc')?-1:1;document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));
 th.classList.add(d>0?'asc':'desc');const num=i>=3&&i<=4;
@@ -142,12 +262,13 @@ f();
 
 
 def main():
-    rows = load()
+    plays = record()
+    rows, full24, since = merge(load(), plays)
     if not rows:
         print("Keine Grok-Daten – Seite nicht erzeugt.")
         return
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "grok.html").write_text(page(rows), encoding="utf-8")
+    (OUT / "grok.html").write_text(page(rows, full24, since), encoding="utf-8")
     print(f"grok.html: {len(rows)} Titel")
 
 
