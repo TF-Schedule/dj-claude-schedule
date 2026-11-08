@@ -151,7 +151,8 @@ def merge(kurt, plays):
     own = [(t, p) for t, p in own if t]
     full24 = bool(own) and own[0][0] <= now - timedelta(hours=24)   # Mitschnitt deckt schon 24 h ab?
     for r in by.values():
-        if full24:
+        # Kurts 24-h-Zahl ist veraltet, sobald sein letzter Lauf aus dem Fenster gefallen ist
+        if full24 or not r["kurt_last"] or r["kurt_last"] < now - timedelta(hours=24):
             r["h24"] = 0
     for t, p in own:
         k = key(p["artist"], p["title"])
