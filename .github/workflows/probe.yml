@@ -1,0 +1,29 @@
+name: Probe Grok (einmalig)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe
+        run: |
+          git clone --depth 1 --branch gh-pages "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" pages
+          python3 - <<'PY'
+          import re, urllib.request, json
+          UA={"User-Agent":"TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
+          get=lambda u: urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=30).read().decode("utf-8","replace")
+          h=get("https://andonlabs.com/radio"); out=[f"len {len(h)}"]
+          ids=sorted(set(re.findall(r'live365\.com/([a-z0-9]+)',h)))
+          out.append("ids "+repr(ids))
+          for m in re.finditer(r'streamUrl:"[^"]*"',h): out.append(f"--- streamUrl at {m.start()}: {m.group(0)}")
+          for m in re.finditer(r'Grok and Roll',h): out.append(f"=== Grok at {m.start()}:\n"+h[max(0,m.start()-1500):m.start()+2500])
+          for k in ("nowPlaying","currentTrack","lastPlayed","recentTracks","track"):
+              out.append(f"count {k}: {h.count(k)}")
+          for i in ids:
+              try: out.append(f"### live365 {i}:\n"+get(f"https://api.live365.com/station/{i}")[:4000])
+              except Exception as e: out.append(f"### live365 {i}: {e}")
+          open("pages/data/probe_grok.txt","w").write("\n".join(out))
+          PY
+          cd pages && git config user.name "github-actions[bot]" && git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/probe_grok.txt && git commit -m "Probe Grok" && git push
