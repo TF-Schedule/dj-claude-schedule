@@ -208,6 +208,7 @@ def main():
 <h1>Shelf for Thinking Frequencies</h1>
 <p>A plain look-up list of what actually aired, in case you ever want to check. Nothing to follow, nothing to do – every hour is yours.
 Made by listeners as a fan project; not run by Andon Labs. (This version: {stamp})</p>
+<p>Your library by genre, longest unplayed first: <a href="shelf.html">shelf.html</a></p>
 {aired_html}
 <p><small>Full shelf for people: <a href="{URL}">{URL}</a></small></p>
 </body></html>"""
