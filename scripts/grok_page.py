@@ -162,6 +162,16 @@ def merge(kurt, plays):
             r["h24"] += 1
         if not r["last"] or t > r["last"]:
             r["last"] = t
+        r.setdefault("times", []).append(t)
+    # Abstand zwischen letztem und vorletztem Lauf: eigene Läufe + Kurts letzter Lauf davor (falls nicht derselbe)
+    for r in by.values():
+        ts = list(r.get("times", []))
+        kl = r.get("kurt_last")
+        if kl and all(abs((kl - t).total_seconds()) > 60 for t in ts):
+            ts.append(kl)
+        ts.sort()
+        r["prev"] = ts[-2] if len(ts) > 1 else None
+        r["gap"] = (ts[-1] - ts[-2]) if len(ts) > 1 else None
     # „neu hinzugefügt“: Kurts Titel gelten als bekannt; was wir zuerst sehen, bekommt ein Datum
     seen = {s["key"]: s for s in read_csv(SEEN, SEEN_COLS)}
     first_run = not seen
@@ -221,6 +231,19 @@ def bal_html(b):
     return f"<p class='meta'>Kontostand: <b>{eur(b['now'])}</b> (Stand {' '.join(de(b['at']))}){d24}</p>{tab}"
 
 
+def dur(td):
+    if td is None:
+        return ""
+    m = int(td.total_seconds() // 60)
+    if m < 60:
+        return f"{m} Min."
+    h, m = divmod(m, 60)
+    if h < 24:
+        return f"{h} h {m:02d} Min."
+    d, h = divmod(h, 24)
+    return f"{d} T {h} h"
+
+
 def page(rows, full24=False, since=None, bal=None):
     rows.sort(key=lambda r: r["last"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     newest = rows[0]["last"] if rows else None
@@ -234,15 +257,19 @@ def page(rows, full24=False, since=None, bal=None):
     twice = sum(1 for r in rows if r["h24"] > 1)
     e = html.escape
     head = "<th data-k='a'>Künstler</th><th data-k='t'>Titel</th><th data-k='l'>Zuletzt gelaufen</th>" \
-           "<th data-k='h' class='n'>24 h</th><th data-k='g' class='n'>Gesamt</th>"
+           "<th data-k='d' class='n'>Abstand zum vorletzten</th><th data-k='h' class='n'>24 h</th><th data-k='g' class='n'>Gesamt</th>"
     if SHOW_NEW:
         head += "<th data-k='x'>Neu hinzugefügt</th>"
     body = []
     for r in rows:
         l, z = de(r["last"])
         cls = " class='twice'" if r["h24"] > 1 else (" class='recent'" if r["h24"] else "")
+        gap = r.get("gap")
+        tip = f" title='vorletzter Lauf: {' '.join(de(r['prev']))}'" if r.get("prev") else ""
+        gv = int(gap.total_seconds()) if gap else 10**9
         cells = (f"<td>{e(r['artist'])}</td><td>{e(r['title'])}</td><td>{l} {z}</td>"
-                 f"<td class='n'>{r['h24'] or ''}</td><td class='n'>{r['total']}</td>")
+                 f"<td class='n' data-v='{gv}'{tip}>{dur(gap)}</td>"
+                 f"<td class='n' data-v='{r['h24']}'>{r['h24'] or ''}</td><td class='n' data-v='{r['total']}'>{r['total']}</td>")
         if SHOW_NEW:
             cells += f"<td>{e(r['new'])}</td>"
         body.append(f"<tr{cls}>{cells}</tr>")
@@ -278,19 +305,20 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-Blau = 1× in 24 h, orange = mehrfach.</footer>
+„Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, orange = mehrfach.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
 only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),cnt=document.getElementById('cnt');
-function f(){{const s=q.value.toLowerCase();let n=0;for(const r of rows){{const h=+r.cells[3].textContent||0;
-const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[5]&&r.cells[5].textContent.trim()));
+function f(){{const s=q.value.toLowerCase();let n=0;for(const r of rows){{const h=+r.cells[4].textContent||0;
+const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[6]&&r.cells[6].textContent.trim()));
 r.style.display=ok?'':'none';if(ok)n++;}}cnt.textContent=n+' angezeigt';}}
+const a0=i=>rows[0].cells[i].dataset;
 [q,only,multi,neu].forEach(x=>x.addEventListener('input',f));
 document.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{{
 const d=th.classList.contains('asc')?-1:1;document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));
-th.classList.add(d>0?'asc':'desc');const num=i>=3&&i<=4;
-rows.sort((a,b)=>{{let x=a.cells[i].textContent,y=b.cells[i].textContent;
-return (num?((+x||0)-(+y||0)):x.localeCompare(y,'de'))*d;}});rows.forEach(r=>tb.appendChild(r));}}));
+th.classList.add(d>0?'asc':'desc');const num='v' in a0(i);
+rows.sort((a,b)=>{{let x=num?+a.cells[i].dataset.v:a.cells[i].textContent,y=num?+b.cells[i].dataset.v:b.cells[i].textContent;
+return (num?(x-y):x.localeCompare(y,'de'))*d;}});rows.forEach(r=>tb.appendChild(r));}}));
 f();
 </script>
 </body></html>
