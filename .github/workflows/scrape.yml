@@ -28,6 +28,7 @@ jobs:
           touch pages/.nojekyll
           python3 scripts/scrape.py
           DATA_DIR=pages/data OUT_DIR=pages python3 scripts/dj_page.py || echo "DJ-Seite übersprungen"
+          DATA_DIR=pages/data OUT_DIR=pages python3 scripts/grok_page.py || echo "Grok-Seite übersprungen"
       - name: Save
         run: |
           cd pages
