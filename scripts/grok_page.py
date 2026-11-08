@@ -194,7 +194,7 @@ def balance():
     changes = []
     for (t0, b0), (t1, b1) in zip(pts, pts[1:]):
         if abs(b1 - b0) >= 0.005:
-            changes.append((t1, b1 - b0, b1))
+            changes.append((t0, t1, b1 - b0, b1))
     return {"now": now_b, "at": now_t, "d24": (now_b - day[-1]) if day else None, "since": pts[0][0],
             "changes": changes[-30:][::-1]}
 
@@ -213,10 +213,11 @@ def bal_html(b):
     eur = lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
     sign = lambda x: ("+" if x > 0 else "−" if x < 0 else "±") + eur(abs(x))
     d24 = f" · 24 h: <b>{sign(b['d24'])}</b>" if b["d24"] is not None else f" · Aufzeichnung seit {' '.join(de(b['since']))}"
-    rows = "".join(f"<tr><td>{' '.join(de(t))}</td><td class='n {'plus' if d > 0 else 'minus'}'>{sign(d)}</td><td class='n'>{eur(v)}</td></tr>"
-                   for t, d, v in b["changes"])
-    tab = (f"<details><summary>letzte Änderungen ({len(b['changes'])})</summary><table class='bal'><tr><th>bemerkt um</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr>{rows}</table>"
-           "<p class='hint'>Auflösung 15 Minuten: mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf.</p></details>") if b["changes"] else ""
+    span = lambda a, z: f"{de(a)[0]}–{de(z)[0][11:]} {de(z)[1]}" if de(a)[0][:10] == de(z)[0][:10] else f"{' '.join(de(a))} – {' '.join(de(z))}"
+    rows = "".join(f"<tr><td>{span(a, z)}</td><td class='n {'plus' if d > 0 else 'minus'}'>{sign(d)}</td><td class='n'>{eur(v)}</td></tr>"
+                   for a, z, d, v in b["changes"])
+    tab = (f"<details><summary>letzte Änderungen ({len(b['changes'])})</summary><table class='bal'><tr><th>passiert zwischen</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr>{rows}</table>"
+           "<p class='hint'>Auflösung 15 Minuten: Die Änderung geschah irgendwann im angegebenen Zeitraum; mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf.</p></details>") if b["changes"] else ""
     return f"<p class='meta'>Kontostand: <b>{eur(b['now'])}</b> (Stand {' '.join(de(b['at']))}){d24}</p>{tab}"
 
 
