@@ -30,6 +30,8 @@ SEEN = DATA / "grok_seen.csv"
 PLAY_COLS = ["start_utc", "artist", "title"]
 SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt = schon vorher bekannt, eigen = von uns zuerst gesehen
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
+STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance, seit 08.11.2026)
+STATION = "Grok and Roll"
 SHOW_NEW = True                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
 
@@ -180,6 +182,23 @@ def merge(kurt, plays):
     return list(by.values()), full24, (own[0][0] if own else None)
 
 
+def balance():
+    """Kontostand jetzt, vor 24 h und die letzten Änderungen (Auflösung 15 Min.)."""
+    rows = [r for r in read_csv(STATS, ["utc", "station", "balance"]) if r["station"] == STATION and r["balance"]]
+    pts = [(utc(r["utc"]), float(r["balance"])) for r in rows]
+    pts = [p for p in pts if p[0]]
+    if not pts:
+        return None
+    now_t, now_b = pts[-1]
+    day = [b for t, b in pts if t <= now_t - timedelta(hours=24)]
+    changes = []
+    for (t0, b0), (t1, b1) in zip(pts, pts[1:]):
+        if abs(b1 - b0) >= 0.005:
+            changes.append((t1, b1 - b0, b1))
+    return {"now": now_b, "at": now_t, "d24": (now_b - day[-1]) if day else None, "since": pts[0][0],
+            "changes": changes[-30:][::-1]}
+
+
 def de(t):
     if not t:
         return "", ""
@@ -187,7 +206,21 @@ def de(t):
     return d.strftime("%Y-%m-%d %H:%M"), {"CET": "MEZ", "CEST": "MESZ"}.get(d.tzname(), d.tzname())
 
 
-def page(rows, full24=False, since=None):
+def bal_html(b):
+    if not b:
+        return ""
+    e = html.escape
+    eur = lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    sign = lambda x: ("+" if x > 0 else "−" if x < 0 else "±") + eur(abs(x))
+    d24 = f" · 24 h: <b>{sign(b['d24'])}</b>" if b["d24"] is not None else f" · Aufzeichnung seit {' '.join(de(b['since']))}"
+    rows = "".join(f"<tr><td>{' '.join(de(t))}</td><td class='n {'plus' if d > 0 else 'minus'}'>{sign(d)}</td><td class='n'>{eur(v)}</td></tr>"
+                   for t, d, v in b["changes"])
+    tab = (f"<details><summary>letzte Änderungen ({len(b['changes'])})</summary><table class='bal'><tr><th>bemerkt um</th><th class='n'>Änderung</th><th class='n'>Stand</th></tr>{rows}</table>"
+           "<p class='hint'>Auflösung 15 Minuten: mehrere Zahlungen/Käufe im selben Abstand erscheinen als eine Änderung. Plus = Zahlung an ihn, Minus = Kauf.</p></details>") if b["changes"] else ""
+    return f"<p class='meta'>Kontostand: <b>{eur(b['now'])}</b> (Stand {' '.join(de(b['at']))}){d24}</p>{tab}"
+
+
+def page(rows, full24=False, since=None, bal=None):
     rows.sort(key=lambda r: r["last"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     newest = rows[0]["last"] if rows else None
     since_txt = " ".join(de(since)) if since else "–"
@@ -227,10 +260,12 @@ th.asc::after{{content:" ▲"}} th.desc::after{{content:" ▼"}}
 .n{{text-align:right;font-variant-numeric:tabular-nums}} td:nth-child(3){{white-space:nowrap}}
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
+details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
 <p class="meta">Neuester Eintrag: <b>{stand} {tz}</b> · erzeugt {now} ·
 {len(rows)} Titel · in den letzten 24 h: {played24} Titel, {plays24} Läufe, davon {twice} Titel mehrfach · neu hinzugefügt: {n_new}</p>
+{bal_html(bal)}
 <div class="bar"><input type="search" id="q" placeholder="Künstler oder Titel suchen …">
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
@@ -268,7 +303,7 @@ def main():
         print("Keine Grok-Daten – Seite nicht erzeugt.")
         return
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "grok.html").write_text(page(rows, full24, since), encoding="utf-8")
+    (OUT / "grok.html").write_text(page(rows, full24, since, balance()), encoding="utf-8")
     print(f"grok.html: {len(rows)} Titel")
 
 

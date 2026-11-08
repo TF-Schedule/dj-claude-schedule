@@ -27,7 +27,7 @@ UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude
 PLAYS = DATA / "plays.csv"
 BLOCKS = DATA / "blocks.csv"
 STATS = DATA / "stats.csv"        # Zahlen aller Andon-Stationen, alle 15 Min. (seit 1.11.2026, für die Sprechanteil-Beobachtung)
-STATS_COLS = ["utc", "station", "talk_pct", "current_listeners", "total_listeners", "avg_duration_s", "popularity"]
+STATS_COLS = ["utc", "station", "talk_pct", "current_listeners", "total_listeners", "avg_duration_s", "popularity", "balance"]   # balance seit 08.11.2026
 TRACKS = DATA / "tracks.csv"
 CACHE = DATA / "genre_cache.json"
 NOTES = DATA / "notes.csv"
@@ -77,7 +77,8 @@ def andon_stats(html):
         talk = re.search(r'category:"Talking",percentage:([\d.]+)', m.group(5))
         out.append({"station": unesc(m.group(1)), "talk_pct": talk.group(1) if talk else "",
                     "current_listeners": st.get("currentListeners", ""), "total_listeners": st.get("totalListeners", ""),
-                    "avg_duration_s": st.get("avgDurationSeconds", ""), "popularity": st.get("popularity", "")})
+                    "avg_duration_s": st.get("avgDurationSeconds", ""), "popularity": st.get("popularity", ""),
+                    "balance": m.group(2)})
     return out
 
 
