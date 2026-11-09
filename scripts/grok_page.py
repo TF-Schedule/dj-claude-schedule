@@ -329,7 +329,8 @@ const a0=i=>rows[0].cells[i].dataset;
 sug.addEventListener('input',()=>{{if(sug.checked){{rows.sort((a,b)=>a.cells[2].textContent.localeCompare(b.cells[2].textContent));rows.forEach(r=>tb.appendChild(r));
 document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));document.querySelectorAll('th')[2].classList.add('asc');}}f();}});
 document.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{{
-const d=th.classList.contains('asc')?-1:1;document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));
+const big=['h','g'].includes(th.dataset.k);   // 24 h und Gesamt: erst die größten
+const d=th.classList.contains('asc')?-1:th.classList.contains('desc')?1:(big?-1:1);document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));
 th.classList.add(d>0?'asc':'desc');const num='v' in a0(i);
 rows.sort((a,b)=>{{let x=num?+a.cells[i].dataset.v:a.cells[i].textContent,y=num?+b.cells[i].dataset.v:b.cells[i].textContent;
 return (num?(x-y):x.localeCompare(y,'de'))*d;}});rows.forEach(r=>tb.appendChild(r));}}));
