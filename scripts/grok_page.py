@@ -294,6 +294,8 @@ th,td{{padding:.3rem .5rem;border-bottom:1px solid #e5e5e5;text-align:left;verti
 th{{position:sticky;top:0;background:#eee;cursor:pointer;user-select:none;white-space:nowrap}}
 th.asc::after{{content:" ▲"}} th.desc::after{{content:" ▼"}}
 .n{{text-align:right;font-variant-numeric:tabular-nums}} td:nth-child(3){{white-space:nowrap}}
+td{{-webkit-user-select:text;user-select:text}} td:nth-child(2){{cursor:copy}}
+td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);background:#1a7f37;color:#fff;padding:.4rem .8rem;border-radius:.4rem;display:none}}
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
 details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
@@ -308,6 +310,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
 <label title="kein feat./zweiter Name, keine Klammer, kein Komma, kein Schrägstrich, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
 <span id="cnt"></span></div>
+<p class="hint">Tipp: Auf einen <b>Titel</b> tippen kopiert „Künstler – Titel“ zum Einfügen (z. B. auf X).</p>
 <table id="t"><thead><tr>{head}</tr></thead><tbody>
 {chr(10).join(body)}
 </tbody></table>
@@ -331,6 +334,15 @@ th.classList.add(d>0?'asc':'desc');const num='v' in a0(i);
 rows.sort((a,b)=>{{let x=num?+a.cells[i].dataset.v:a.cells[i].textContent,y=num?+b.cells[i].dataset.v:b.cells[i].textContent;
 return (num?(x-y):x.localeCompare(y,'de'))*d;}});rows.forEach(r=>tb.appendChild(r));}}));
 f();
+const toast=document.createElement('div');toast.id='toast';document.body.appendChild(toast);
+function copy(txt){{if(navigator.clipboard&&window.isSecureContext)return navigator.clipboard.writeText(txt);
+const t=document.createElement('textarea');t.value=txt;t.setAttribute('readonly','');t.style.position='fixed';t.style.opacity='0';
+document.body.appendChild(t);t.select();t.setSelectionRange(0,txt.length);const ok=document.execCommand('copy');t.remove();
+return ok?Promise.resolve():Promise.reject();}}
+tb.addEventListener('click',ev=>{{const td=ev.target.closest('td');if(!td||td.cellIndex!==1)return;
+const r=td.parentElement,txt=r.cells[0].textContent+' – '+r.cells[1].textContent;
+copy(txt).then(()=>{{toast.textContent='kopiert: '+txt;}},()=>{{toast.textContent='Kopieren ging nicht';}}).finally(()=>{{
+td.classList.add('ok');toast.style.display='block';setTimeout(()=>{{td.classList.remove('ok');toast.style.display='none';}},1500);}});}});
 </script>
 </body></html>
 """
