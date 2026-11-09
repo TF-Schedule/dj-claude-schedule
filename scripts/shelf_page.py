@@ -70,9 +70,13 @@ def main_from(text):
     return ""
 
 
+YEAR_ROUND = {"ryuichi sakamoto|merry christmas mr lawrence"}   # Titel mit Weihnachtswort, die das ganze Jahr laufen (norm_key)
+
+
 def main_of(t, n):
     # Arrlys Liste „Christmas“ zählt; sonst nur der Titel (Album/Apple-Genre führen in die Irre: „Holiday“, Weihnachtsalben)
-    if "christmas" in (n.get("lists") or "").lower() or XMAS_RE.search(t["title"]):
+    if norm_key(t["artist"], t["title"]) not in YEAR_ROUND and (
+            "christmas" in (n.get("lists") or "").lower() or XMAS_RE.search(t["title"])):
         return XMAS
     if n.get("genre") in MAIN:
         return n["genre"]
