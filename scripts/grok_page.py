@@ -35,6 +35,7 @@ STATION = "Grok and Roll"
 SHOW_NEW = True
 # „sauber“ nach Groks bekannten Sperren: kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit
 DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],/]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
+GONE_MIN, GONE_DAYS = 50, 7         # „verschwundene Lieblinge“: mind. 50 Läufe, seit 7 Tagen nicht gelaufen
 REST_DAYS = 2                      # Vorschlags-Filter: mindestens so viele Tage nicht gelaufen                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
 
@@ -280,6 +281,8 @@ def page(rows, full24=False, since=None, bal=None):
         clean = not DIRTY.search(r["artist"] + " " + r["title"])
         rest = r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=REST_DAYS)
         sug = " data-s='1'" if clean and rest else ""
+        if r["total"] >= GONE_MIN and (r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=GONE_DAYS)):
+            sug += " data-g='c'" if clean else " data-g='d'"     # c = ohne erkennbaren Grund, d = vermutlich Filter
         body.append(f"<tr{cls}{sug}>{cells}</tr>")
     return f"""<!DOCTYPE html>
 <html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -295,6 +298,7 @@ th{{position:sticky;top:0;background:#eee;cursor:pointer;user-select:none;white-
 th.asc::after{{content:" ▲"}} th.desc::after{{content:" ▼"}}
 .n{{text-align:right;font-variant-numeric:tabular-nums}} td:nth-child(3){{white-space:nowrap}}
 td{{-webkit-user-select:text;user-select:text}} td:nth-child(2){{cursor:copy}}
+table.gone tr[data-g='c'] td:first-child::after{{content:" ●";color:#b42318}}
 td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);background:#1a7f37;color:#fff;padding:.4rem .8rem;border-radius:.4rem;display:none}}
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
@@ -309,6 +313,7 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
 <label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
 <label title="kein feat./zweiter Name, keine Klammer, kein Komma, kein Schrägstrich, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
+<label title="mindestens 50× gespielt, aber seit 7 Tagen nicht mehr; ● = ohne erkennbaren Grund (kein feat., keine Klammer …)"><input type="checkbox" id="gone"> verschwundene Lieblinge</label>
 <span id="cnt"></span></div>
 <p class="hint">Tipp: Auf einen <b>Titel</b> tippen kopiert „Künstler – Titel“ zum Einfügen (z. B. auf X).</p>
 <table id="t"><thead><tr>{head}</tr></thead><tbody>
@@ -317,15 +322,18 @@ details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{co
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma, Schrägstrich oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
+„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma, Schrägstrich oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Verschwundene Lieblinge“: mindestens 50× gespielt, aber seit 7 Tagen nicht mehr; ● = kein Filter-Grund erkennbar (vielleicht aus seiner Spielbar-Liste gefallen). „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
-only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),sug=document.getElementById('sug'),cnt=document.getElementById('cnt');
+only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),sug=document.getElementById('sug'),gone=document.getElementById('gone'),cnt=document.getElementById('cnt');
 function f(){{const s=q.value.toLowerCase();let n=0;for(const r of rows){{const h=+r.cells[4].textContent||0;
-const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[6]&&r.cells[6].textContent.trim()))&&(!sug.checked||r.dataset.s);
+const ok=(!s||(r.cells[0].textContent+' '+r.cells[1].textContent).toLowerCase().includes(s))&&(!only.checked||h>0)&&(!multi.checked||h>1)&&(!neu.checked||(r.cells[6]&&r.cells[6].textContent.trim()))&&(!sug.checked||r.dataset.s)&&(!gone.checked||r.dataset.g);
 r.style.display=ok?'':'none';if(ok)n++;}}cnt.textContent=n+' angezeigt';}}
 const a0=i=>rows[0].cells[i].dataset;
 [q,only,multi,neu].forEach(x=>x.addEventListener('input',f));
+gone.addEventListener('input',()=>{{document.getElementById('t').classList.toggle('gone',gone.checked);
+if(gone.checked){{rows.sort((a,b)=>(+b.cells[5].dataset.v)-(+a.cells[5].dataset.v));rows.forEach(r=>tb.appendChild(r));
+document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));document.querySelectorAll('th')[5].classList.add('desc');}}f();}});
 sug.addEventListener('input',()=>{{if(sug.checked){{rows.sort((a,b)=>a.cells[2].textContent.localeCompare(b.cells[2].textContent));rows.forEach(r=>tb.appendChild(r));
 document.querySelectorAll('th').forEach(x=>x.classList.remove('asc','desc'));document.querySelectorAll('th')[2].classList.add('asc');}}f();}});
 document.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{{
