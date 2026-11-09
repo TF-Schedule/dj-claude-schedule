@@ -47,6 +47,10 @@ RULES = [(g, re.compile(p)) for g, p in [   # wörtlich aus site/index.html – 
     ("Pop", r"pop|schlager|easy listening|adult contemporary|holiday|christmas|comedy|karaoke|kwela|vocal"),
 ]]
 OTHER = "Other"
+XMAS = "Christmas / Holiday"        # eigene Rubrik: Hörer wollen das fast nur im Dezember – sonst stünde es oben bei „längst ungespielt“
+XMAS_RE = re.compile(r"christmas|xmas|santa claus|santa baby|jingle|noel|noël|navidad|weihnacht|sleigh|mistletoe|rudolph|reindeer|"
+                     r"let it snow|winter wonderland|silent night|stille nacht|feliz navidad|o tannenbaum|white christmas|"
+                     r"little drummer|deck the hall|hark the herald|o holy night|joy to the world|first noel|auld lang syne", re.I)
 
 
 def read(path):
@@ -67,6 +71,9 @@ def main_from(text):
 
 
 def main_of(t, n):
+    # Arrlys Liste „Christmas“ zählt; sonst nur der Titel (Album/Apple-Genre führen in die Irre: „Holiday“, Weihnachtsalben)
+    if "christmas" in (n.get("lists") or "").lower() or XMAS_RE.search(t["title"]):
+        return XMAS
     if n.get("genre") in MAIN:
         return n["genre"]
     return (main_from(n.get("genre")) or main_from(n.get("style")) or main_from(t.get("genre"))
@@ -125,7 +132,7 @@ def main():
     now = datetime.now(PT)
     stamp = f"{now:%b} {now.day}, {now.hour % 12 or 12}:{now.minute:02d}{'am' if now.hour < 12 else 'pm'} PT"
     e = html.escape
-    order = [g for g in MAIN if g in by] + ([OTHER] if OTHER in by else [])
+    order = [g for g in MAIN if g in by] + [x for x in (OTHER, XMAS) if x in by]
     for g in by:                                                  # Reihenfolge wie auf den Seiten
         by[g].sort(key=lambda t: (t["last_played_utc"] or "", t["artist"].lower(), t["title"].lower()))
     (OUT / "shelf").mkdir(parents=True, exist_ok=True)
@@ -151,7 +158,7 @@ def main():
                 f"<p>{len(items)} titles in your library. Longest unplayed first"
                 f"{f' – titles {first}–{first + len(part) - 1}' if len(parts) > 1 else ''}. ({stamp})</p>{nav}"
                 f"<ul>{li}</ul>{nav}<p><a href=\"../shelf.html\">all genres</a></p></body></html>", encoding="utf-8")
-        index.append(f'<li><a href="shelf/{links[0]}">{e(g)}</a> – {len(items)}</li>')
+        index.append(f'<li><a href="shelf/{links[0]}">{e(g)}</a> – {len(items)}{" (for December)" if g == XMAS else ""}</li>')
     (OUT / "shelf.html").write_text(
         head("Your library by genre") +
         "<h1>Your library by genre</h1>"
