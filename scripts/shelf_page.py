@@ -6,8 +6,12 @@ shelf/<genre>.html    – alle Titel des Genres, am längsten nicht gelaufen zue
 Bewusst OHNE Arrlys Notizen, ohne Playlists und ohne Sendungsnamen (nur das Genre).
 Genre-Zuordnung wie im Regal (site/index.html, MAIN/RULES): zuerst Arrlys Genre, dann Stil, dann Apple, dann Playlists.
 Env: DATA_DIR (Daten des Plattenregals), OUT_DIR (Ausgabeordner = Webseite)
+
+Regal-Zähler (seit 09.11.): data/shelf_rank.json merkt sich bei jedem Lauf, an welcher Stelle jeder Titel
+auf seiner Genre-Seite stand. Beim nächsten Lauf bekommen alle neuen Läufe aus plays.csv den Platz, den der Titel
+VOR dem Spielen hatte → data/shelf_hits.csv (start_utc,artist,title,genre,rank,genre_size). Auswertung: claude_metrics.py.
 """
-import csv, html, os, re, sys
+import csv, html, json, os, re, sys
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -85,6 +89,29 @@ def head(title):
             f'<meta name="viewport" content="width=device-width, initial-scale=1"><title>{html.escape(title)}</title></head><body>')
 
 
+def count_hits(by):
+    """Neue Läufe mit ihrem Regalplatz aus dem vorigen Lauf versehen, dann neuen Stand merken."""
+    snap_path, hits_path = DATA / "shelf_rank.json", DATA / "shelf_hits.csv"
+    plays = read(DATA / "plays.csv")
+    snap = json.loads(snap_path.read_text(encoding="utf-8")) if snap_path.exists() else None
+    if snap and len(plays) > snap["plays_seen"]:
+        new = not hits_path.exists()
+        with open(hits_path, "a", encoding="utf-8", newline="") as f:
+            w = csv.writer(f)
+            if new:
+                w.writerow(["start_utc", "artist", "title", "genre", "rank", "genre_size"])
+            for p in plays[snap["plays_seen"]:]:
+                g, r = snap["rank"].get(norm_key(p["artist"], p["title"]), ["", ""])
+                w.writerow([p["start_utc"], p["artist"], p["title"], g, r, snap["sizes"].get(g, "")])
+    rank, sizes = {}, {}
+    for g, items in by.items():
+        sizes[g] = len(items)
+        for i, t in enumerate(items, 1):
+            rank.setdefault(norm_key(t["artist"], t["title"]), [g, i])
+    snap_path.write_text(json.dumps({"plays_seen": len(plays), "sizes": sizes, "rank": rank},
+                                    ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
 def main():
     tracks = read(DATA / "tracks.csv")
     if not tracks:
@@ -99,10 +126,12 @@ def main():
     stamp = f"{now:%b} {now.day}, {now.hour % 12 or 12}:{now.minute:02d}{'am' if now.hour < 12 else 'pm'} PT"
     e = html.escape
     order = [g for g in MAIN if g in by] + ([OTHER] if OTHER in by else [])
+    for g in by:                                                  # Reihenfolge wie auf den Seiten
+        by[g].sort(key=lambda t: (t["last_played_utc"] or "", t["artist"].lower(), t["title"].lower()))
     (OUT / "shelf").mkdir(parents=True, exist_ok=True)
     index = []
     for g in order:
-        items = sorted(by[g], key=lambda t: (t["last_played_utc"] or "", t["artist"].lower(), t["title"].lower()))
+        items = by[g]
         parts = [items[i:i + PAGE_SIZE] for i in range(0, len(items), PAGE_SIZE)]
         links = []
         for no, part in enumerate(parts, 1):
@@ -131,6 +160,10 @@ def main():
         f"Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes ({stamp}).</p>"
         f"<ul>{''.join(index)}</ul>"
         '<p><small>What aired in the last 24 hours: <a href="dj.html">dj.html</a></small></p></body></html>', encoding="utf-8")
+    try:
+        count_hits(by)
+    except Exception as ex:                                       # Zähler darf das Regal nie stören
+        print("Regal-Zähler übersprungen:", ex)
     print("shelf.html: " + ", ".join(f"{g} {len(by[g])}" for g in order))
 
 
