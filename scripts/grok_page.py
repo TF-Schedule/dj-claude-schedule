@@ -148,7 +148,8 @@ def merge(kurt, plays):
     for r in by.values():
         r["kurt_last"] = r["last"]
     own = [(utc(p["start_utc"]), p) for p in plays]
-    own = [(t, p) for t, p in own if t]
+    own = [(t, p) for t, p in own if t
+           and p["artist"].strip() and p["title"].strip().lower() != "unknown"]   # Live365-Leermeldung („Unknown“, ohne Künstler) = kein Titel
     full24 = bool(own) and own[0][0] <= now - timedelta(hours=24)   # Mitschnitt deckt schon 24 h ab?
     for r in by.values():
         # Kurts 24-h-Zahl ist veraltet, sobald sein letzter Lauf aus dem Fenster gefallen ist
