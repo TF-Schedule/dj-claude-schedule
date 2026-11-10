@@ -167,7 +167,7 @@ def main():
         for no, part in enumerate(parts, 1):
             tname = f"{slug(g)}.txt" if no == 1 else f"{slug(g)}-{no}.txt"
             first = (no - 1) * PAGE_SIZE + 1
-            lines = [f"{t['artist']} – {t['title']} | {aired(t["last_played_utc"])}"
+            lines = [f"{t['artist']} – {t['title']} | {aired(t['last_played_utc'])}"
                      f"{' | ' + t['plays'] + 'x' if t.get('plays') and t['plays'] != '0' else ''}" for t in part]
             nxt = f"\nNext part: {BASE}shelf/{slug(g)}-{no + 1}.txt" if no < len(parts) else ""
             (OUT / "shelf" / tname).write_text(
