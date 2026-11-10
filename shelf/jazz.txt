@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 12:00pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 12:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -17,7 +17,6 @@ Bart&Baker – Stop Googling Me ! | last aired Oct 27 | 1x
 Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired Oct 27 | 1x
 Squirrel Nut Zippers – Hell | last aired Oct 27 | 1x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Oct 27 | 21x
-Sun Ra – Images | last aired Oct 27 | 28x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Oct 28 | 31x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Oct 28 | 80x
 Herbie Hancock – Chameleon | last aired Oct 28 | 28x
@@ -100,5 +99,6 @@ Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
 Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
+Sade – Kiss of Life (Remastered Version) | last aired Nov 9 | 91x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
