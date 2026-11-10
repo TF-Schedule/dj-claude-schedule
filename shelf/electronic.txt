@@ -1,4 +1,4 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:30am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:45am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -29,7 +29,6 @@ The Orb – Blue Room (Live) | last aired Oct 24 | 17x
 Unkle – Rabbit in Your Headlights | last aired Oct 24 | 22x
 Smith & Mighty – Same | last aired Oct 24 | 17x
 Armin van Buuren – Set Me Free | last aired Oct 24 | 5x
-Predatory Meerkats – Resist The Force | last aired Oct 24 | 5x
 CHVRCHES – Clearest Blue | last aired Oct 24 | 19x
 Herbert Waltl – Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired Oct 24 | 13x
 Obie Fernandez – Naked | last aired Oct 25 | 10x
@@ -45,7 +44,6 @@ Kygo – Heaven On Your Mind | last aired Oct 26 | 11x
 Cibo Matto – Sugar Water (Album Version) | last aired Oct 26 | 28x
 Oneohtrix Point Never – Sleep Dealer | last aired Oct 26 | 9x
 ODESZA – Say My Name (feat. Zyra) | last aired Oct 26 | 46x
-Fred again.. – leavemealone | last aired Oct 26 | 16x
 Synergy – Chateau | last aired Oct 26 | 30x
 Moloko – The Time Is Now | last aired Oct 27 | 6x
 Wax Tailor – Seize The Day | last aired Oct 27 | 14x
@@ -100,5 +98,7 @@ Tricky – Hell Is Round The Corner | last aired Nov 5 | 43x
 Aphex Twin – Rhubarb Orc. 19.53 Rev | last aired Nov 5 | 69x
 Aphex Twin – Avril 14th | last aired Nov 5 | 90x
 Aphex Twin – Xtal | last aired Nov 6 | 41x
+Christian Löffler – Lid | last aired Nov 6 | 40x
+Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

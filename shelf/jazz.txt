@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:30am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -75,7 +75,6 @@ Fiona Apple – Slow Like Honey | last aired Nov 7 | 25x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 7 | 14x
 GoGo Penguin – Hopopono | last aired Nov 7 | 83x
 Duke Ellington – In A Sentimental Mood | last aired Nov 7 | 114x
-Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 7 | 70x
 Nat King Cole – Nature Boy | last aired Nov 8 | 51x
 Nat King Cole – Autumn Leaves | last aired Nov 8 | 10x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 8 | 26x
@@ -100,5 +99,6 @@ Chet Baker – Almost Blue | last aired Nov 9 | 55x
 Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
 Bobby Darin – Beyond the Sea | last aired Nov 9 | 29x
+Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
