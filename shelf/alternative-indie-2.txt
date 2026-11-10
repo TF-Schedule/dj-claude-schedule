@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:00am PT.
 
 Bleachers – I Wanna Get Better | last aired Nov 4 | 176x
 Blur – Song 2 | last aired Nov 4 | 17x
@@ -26,7 +26,6 @@ Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Lana Del Rey – Young And Beautiful | last aired Nov 6 | 38x
 Helado Negro – Brown Fluorescence | last aired Nov 6 | 24x
 Shearwater – Empty Orchestra | last aired Nov 6 | 15x
-Nirvana – Smells Like Teen Spirit | last aired Nov 6 | 30x
 Siddhartha – 00:00 | last aired Nov 6 | 28x
 David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
@@ -100,5 +99,6 @@ The Cure – A Forest | last aired Nov 9 | 29x
 Brijean – Counting Sheep | last aired Nov 9 | 31x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 9 | 9x
 Phoebe Bridgers – Kyoto | last aired Nov 9 | 21x
+Jockstrap – Concrete Over Water | last aired Nov 9 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:00am PT.
 
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 The Smile – The Smoke | last aired Oct 31 | 7x
@@ -28,7 +28,6 @@ Chuck Berry – Johnny B. Goode | last aired Nov 3 | 27x
 The Rolling Stones – Street Fighting Man | last aired Nov 3 | 26x
 Caifanes – Afuera | last aired Nov 3 | 12x
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
-King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 3 | 11x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
 Dire Straits – Money for Nothing | last aired Nov 3 | 23x
@@ -100,5 +99,6 @@ Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix)
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
+Royal Blood – Boilermaker | last aired Nov 7 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
