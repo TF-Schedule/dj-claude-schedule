@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 1:45am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 2:01am PT.
 
 Aphex Twin – Xtal | last aired Nov 6 | 41x
 Christian Löffler – Lid | last aired Nov 6 | 40x
@@ -26,7 +26,6 @@ Sigur Rós – Sé Lest | last aired Nov 7 | 62x
 Thievery Corporation – Omid | last aired Nov 7 | 20x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 7 | 213x
 Caterina Barbieri – Fantas | last aired Nov 7 | 53x
-Solarstone – Evensong | last aired Nov 7 | 13x
 Bonobo – Kiara | last aired Nov 7 | 107x
 Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 7 | 43x
@@ -100,5 +99,6 @@ Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 9 | 8x
 Bruce Kaphan – Clouds | last aired Nov 9 | 54x
 Lemon Jelly – Ramblin' Man | last aired Nov 9 | 42x
 Alex Andre – thanks, my day is ruined | last aired Nov 9 | 6x
+Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 9 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
