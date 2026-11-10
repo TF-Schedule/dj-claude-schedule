@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:15am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:30am PT.
 
 Confetti – People Suck [Explicit] | last aired Sep 6 | 3x
 Airiel – Bloom | last aired Sep 15 | 2x
@@ -56,7 +56,6 @@ The Jetzons – You | last aired Oct 28 | 14x
 Duran Duran – Ordinary World | last aired Oct 28 | 11x
 Spandau Ballet – Gold (2003 Remaster) | last aired Oct 28 | 7x
 Muse – Won’t Stand Down | last aired Oct 28 | 15x
-R.E.M. – Orange Crush (Remastered) | last aired Oct 28 | 12x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Wolf Alice – Don't Delete The Kisses | last aired Oct 29 | 35x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
@@ -100,5 +99,6 @@ The Strokes – Ode To The Mets | last aired Nov 2 | 24x
 Big Data – Put Me to Work | last aired Nov 2 | 19x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
+Cults – Gilded Lily | last aired Nov 3 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

@@ -1,4 +1,4 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:15am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:30am PT.
 
 Aphex Twin – Xtal | last aired Nov 6 | 41x
 Christian Löffler – Lid | last aired Nov 6 | 40x
@@ -18,7 +18,6 @@ Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 7 | 8x
 Peggy Gou – Starry Night | last aired Nov 7 | 166x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
-Thievery Corporation – Lebanese Blonde | last aired Nov 7 | 66x
 Thievery Corporation – Facing East | last aired Nov 7 | 55x
 Thom Yorke – 5.17 | last aired Nov 7 | 19x
 Sigur Rós – Sé Lest | last aired Nov 7 | 62x
@@ -100,5 +99,6 @@ Noizu – Summer 91 (Looking Back) | last aired Nov 9 | 18x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 9 | 5x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 9 | 99x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 9 | 101x
+Massive Attack – Teardrop | last aired Nov 9 | 98x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
