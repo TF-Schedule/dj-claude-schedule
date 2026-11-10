@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:15am PT.
 
 Aphex Twin – Xtal | last aired Nov 6 | 41x
 Christian Löffler – Lid | last aired Nov 6 | 40x
@@ -33,7 +33,6 @@ Lamb – Gorecki | last aired Nov 7 | 29x
 Michael Brook – Ultramarine | last aired Nov 7 | 23x
 Mort Garson – Plantasia | last aired Nov 7 | 48x
 Moloko – Being Is Bewildering | last aired Nov 8 | 7x
-Camille – Ta douleur | last aired Nov 8 | 12x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
 Moby – One of These Mornings | last aired Nov 8 | 4x
 Kavinsky – Nightcall | last aired Nov 8 | 21x
@@ -100,5 +99,6 @@ Lemon Jelly – Ramblin' Man | last aired Nov 9 | 42x
 Alex Andre – thanks, my day is ruined | last aired Nov 9 | 6x
 Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 9 | 3x
 Noizu – Summer 91 (Looking Back) | last aired Nov 9 | 18x
+Anne Clark – Hope Road (A-Z Route) | last aired Nov 9 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
