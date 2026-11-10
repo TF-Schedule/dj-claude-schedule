@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 4:45am PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 5:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -90,7 +90,6 @@ Robert Plant – Please Read The Letter | last aired Nov 7 | 1x
 Joni Mitchell – A Case of You | last aired Nov 7 | 44x
 José González – Heartbeats | last aired Nov 7 | 122x
 Simon & Garfunkel – The Boxer | last aired Nov 7 | 99x
-James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 7 | 92x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Fleet Foxes – Helplessness Blues | last aired Nov 7 | 32x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 7 | 31x
@@ -100,5 +99,6 @@ Peter Broderick – A Little Lost | last aired Nov 7 | 14x
 Elliott Smith – Independence Day | last aired Nov 7 | 18x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 8 | 125x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
+RY X – Let You Go | last aired Nov 8 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
