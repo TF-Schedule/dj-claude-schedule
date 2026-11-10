@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 3:00pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 3:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -88,7 +88,6 @@ José González – Heartbeats | last aired Nov 7 | 122x
 Simon & Garfunkel – The Boxer | last aired Nov 7 | 99x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Fleet Foxes – Helplessness Blues | last aired Nov 7 | 32x
-Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 7 | 31x
 Bon Iver – Holocene | last aired Nov 7 | 237x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 7 | 13x
 Peter Broderick – A Little Lost | last aired Nov 7 | 14x
@@ -100,5 +99,6 @@ Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 8 | 19x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
 The Weepies – Gotta Have You | last aired Nov 8 | 39x
+Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
