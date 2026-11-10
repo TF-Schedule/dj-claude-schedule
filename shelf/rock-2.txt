@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:46am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:00am PT.
 
 The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
@@ -99,6 +99,6 @@ Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
-Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 7 | 22x
+Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 7 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
