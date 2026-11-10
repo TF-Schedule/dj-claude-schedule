@@ -1,4 +1,4 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:45am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:00am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -60,7 +60,6 @@ Mr.Kitty – After Dark | last aired Oct 29 | 11x
 Björk – Hyperballad | last aired Oct 29 | 26x
 Akiaura – Sleepwalker | last aired Oct 30 | 8x
 Euology – Logic | last aired Oct 30 | 6x
-René Aubry – Steppe | last aired Oct 30 | 5x
 The 1975 – Somebody Else | last aired Oct 30 | 20x
 Susumu Yokota – Saku | last aired Oct 30 | 71x
 The Postal Service – Such Great Heights (Remastered) | last aired Oct 30 | 14x
@@ -100,5 +99,6 @@ Jungle – Keep Moving | last aired Nov 5 | 54x
 Tricky – Hell Is Round The Corner | last aired Nov 5 | 43x
 Aphex Twin – Rhubarb Orc. 19.53 Rev | last aired Nov 5 | 69x
 Aphex Twin – Avril 14th | last aired Nov 5 | 90x
+Aphex Twin – Xtal | last aired Nov 6 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

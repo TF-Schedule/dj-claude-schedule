@@ -1,6 +1,5 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:45am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:00am PT.
 
-Aphex Twin – Xtal | last aired Nov 6 | 41x
 Christian Löffler – Lid | last aired Nov 6 | 40x
 Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 Röyksopp – Eple | last aired Nov 6 | 38x
@@ -100,5 +99,6 @@ Anne Clark – Hope Road (A-Z Route) | last aired Nov 9 | 5x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 9 | 99x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 9 | 101x
 Massive Attack – Teardrop | last aired Nov 9 | 98x
+Tim Hecker – Harmony in Blue I | last aired Nov 9 | 65x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
