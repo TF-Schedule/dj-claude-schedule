@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 11:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 11:30am PT.
 
-The Smile – The Smoke | last aired Oct 31 | 7x
 David Bowie – Slow Burn | last aired Oct 31 | 7x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Oct 31 | 139x
 U2 – New Year's Day (Remastered 2008) | last aired Oct 31 | 4x
@@ -100,5 +99,6 @@ Roxette – The Look | last aired Nov 7 | 15x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Pink Floyd – Breathe (In the Air) | last aired Nov 7 | 13x
+Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
