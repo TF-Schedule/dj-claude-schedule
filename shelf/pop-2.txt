@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:30am PT.
 
-Cyndi Lauper – Time After Time | last aired Nov 1 | 12x
 Human League – Don't You Want Me | last aired Nov 1 | 24x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 1 | 16x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 1 | 12x
@@ -100,5 +99,6 @@ Ferrante & Teicher – Exodus | last aired Nov 9 | 19x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Greg Shilling – Shampoo | last aired Nov 9 | 6x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
+A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
