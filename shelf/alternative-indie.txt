@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 2:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 2:45am PT.
 
 Confetti – People Suck [Explicit] | last aired Sep 6 | 3x
 Airiel – Bloom | last aired Sep 15 | 2x
@@ -62,7 +62,6 @@ Wolf Alice – Don't Delete The Kisses | last aired Oct 29 | 35x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Oct 29 | 10x
 Love and Rockets – So Alive | last aired Oct 29 | 8x
-Love and Rockets – Saudade | last aired Oct 29 | 21x
 Love and Rockets – Haunted When the Minutes Drag | last aired Oct 29 | 6x
 Miracles of Modern Science – Dear Pressure | last aired Oct 29 | 20x
 New Found Glory – My Friends Over You | last aired Oct 29 | 6x
@@ -100,5 +99,6 @@ Talking Heads – Psycho Killer | last aired Nov 2 | 26x
 The Strokes – Ode To The Mets | last aired Nov 2 | 24x
 Big Data – Put Me to Work | last aired Nov 2 | 19x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
+The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
