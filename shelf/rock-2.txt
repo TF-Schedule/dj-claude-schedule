@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:30am PT.
 
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 The Smile – The Smoke | last aired Oct 31 | 7x
@@ -73,7 +73,6 @@ The Rolling Stones – Paint It, Black | last aired Nov 6 | 166x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 6 | 12x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 6 | 25x
 Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
-Nine Inch Nails – Less Than | last aired Nov 6 | 6x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 6 | 2x
 Talk Talk – New Grass | last aired Nov 6 | 28x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 6 | 51x
@@ -100,5 +99,6 @@ Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
+The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
