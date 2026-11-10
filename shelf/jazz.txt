@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:45am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -51,7 +51,6 @@ DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 6 | 10x
 Bonobo – Kong | last aired Nov 6 | 82x
-Melody Gardot – Over The Rainbow (Live) | last aired Nov 6 | 13x
 Melody Gardot – If You Love Me | last aired Nov 6 | 6x
 Natalie Cole – At Last | last aired Nov 6 | 11x
 Charles Mingus – Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired Nov 6 | 19x
@@ -100,5 +99,6 @@ Miles Davis – So What | last aired Nov 9 | 25x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
 Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
+Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
