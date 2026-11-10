@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:45am PT.
 
 Confetti – People Suck [Explicit] | last aired Sep 6 | 3x
 Airiel – Bloom | last aired Sep 15 | 2x
@@ -48,7 +48,6 @@ Ultravox – Vienna (2008 Remaster) | last aired Oct 27 | 28x
 Joywave – In Clover | last aired Oct 27 | 18x
 Arctic Monkeys – No. 1 Party Anthem | last aired Oct 27 | 21x
 Split Enz – I Got You | last aired Oct 27 | 7x
-Red Hot Chili Peppers – Californication | last aired Oct 27 | 21x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 Jeff Buckley – So Real | last aired Oct 28 | 3x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
@@ -100,5 +99,6 @@ Big Data – Put Me to Work | last aired Nov 2 | 19x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
 Cults – Gilded Lily | last aired Nov 3 | 21x
+Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
