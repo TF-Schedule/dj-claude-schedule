@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:45am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 9:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -77,7 +77,6 @@ Duke Ellington – In A Sentimental Mood | last aired Nov 7 | 114x
 Nat King Cole – Nature Boy | last aired Nov 8 | 51x
 Nat King Cole – Autumn Leaves | last aired Nov 8 | 10x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 8 | 26x
-Grethe & Jørgen Ingmann – Dansevise | last aired Nov 8 | 15x
 John Coltrane – Lush Life | last aired Nov 8 | 34x
 St Germain – Rose rouge | last aired Nov 8 | 43x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 8 | 24x
@@ -100,5 +99,6 @@ Bobby Darin – Beyond the Sea | last aired Nov 9 | 29x
 Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
 Miles Davis – So What | last aired Nov 9 | 25x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
+Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

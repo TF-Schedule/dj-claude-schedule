@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 9:00am PT.
 
 Tate McRae – Miss possessive | last aired Aug 13 | 1x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -67,7 +67,6 @@ Tove Lo – No One Dies From Love | last aired Oct 26 | 184x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
 Zoé – Vía Láctea | last aired Oct 26 | 26x
 Revolverheld – Ich lass für dich das Licht an | last aired Oct 26 | 17x
-Franko Mladen – Jamboree (Remastered) | last aired Oct 26 | 8x
 Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Gus Dapperton – Ditch | last aired Oct 27 | 21x
@@ -100,5 +99,6 @@ Glasperlenspiel – Nie vergessen | last aired Oct 31 | 13x
 Lawrence – 23 | last aired Oct 31 | 20x
 Still Woozy – Get Down | last aired Nov 1 | 7x
 Cyndi Lauper – Time After Time | last aired Nov 1 | 12x
+Human League – Don't You Want Me | last aired Nov 1 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
