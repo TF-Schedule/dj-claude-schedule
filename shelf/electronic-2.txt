@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:30am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:45am PT.
 
 Aphex Twin – Xtal | last aired Nov 6 | 41x
 Christian Löffler – Lid | last aired Nov 6 | 40x
@@ -9,7 +9,6 @@ Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 6 | 34x
 Tycho – Dive | last aired Nov 6 | 103x
 Hooverphonic – 2 Wicky | last aired Nov 6 | 33x
 Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
-Fennesz – Endless Summer | last aired Nov 6 | 84x
 Steve Roach – Living the Dream | last aired Nov 6 | 49x
 Tycho – Awake | last aired Nov 6 | 107x
 Home – We're Finally Landing | last aired Nov 7 | 13x
@@ -100,5 +99,6 @@ Alex Andre – thanks, my day is ruined | last aired Nov 9 | 6x
 Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 9 | 3x
 Noizu – Summer 91 (Looking Back) | last aired Nov 9 | 18x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 9 | 5x
+Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 9 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
