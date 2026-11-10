@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:00am PT.
 
 Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
@@ -46,7 +46,6 @@ Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Sigur Rós – Hoppípolla | last aired Nov 7 | 86x
 Sun's Signature – Underwater | last aired Nov 7 | 22x
 Sun's Signature – Golden Air | last aired Nov 7 | 22x
-This Mortal Coil – Song To The Siren | last aired Nov 7 | 32x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
@@ -100,5 +99,6 @@ DIIV – Doused | last aired Nov 9 | 31x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Garbage – Only Happy When It Rains | last aired Nov 9 | 20x
 Gary Numan – Cars | last aired Nov 9 | 13x
+The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 9 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

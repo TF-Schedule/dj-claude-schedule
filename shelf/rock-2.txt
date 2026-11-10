@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:00am PT.
 
-The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 The Smile – The Smoke | last aired Oct 31 | 7x
@@ -100,5 +99,6 @@ Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 7 | 17x
 Amy Macdonald – This Is The Life | last aired Nov 7 | 20x
 Leonard Cohen – Bird on the Wire | last aired Nov 7 | 35x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 7 | 7x
+Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

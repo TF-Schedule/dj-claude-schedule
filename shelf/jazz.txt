@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:45am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ Laufey – Madwoman | last aired Nov 6 | 46x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 6 | 34x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Baby Face Willette – At Last | last aired Nov 7 | 11x
-Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 7 | 97x
 Steely Dan – Peg | last aired Nov 7 | 106x
 Bobby Hutcherson – Stardust | last aired Nov 7 | 14x
 Fiona Apple – Slow Like Honey | last aired Nov 7 | 25x
@@ -100,5 +99,6 @@ Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
 Bobby Darin – Beyond the Sea | last aired Nov 9 | 29x
 Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
+Miles Davis – So What | last aired Nov 9 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
