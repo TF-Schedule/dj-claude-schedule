@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 12:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -85,7 +85,6 @@ The Beatles – Get Back (2021 Mix) | last aired Oct 30 | 12x
 Golden Earring – Radar Love | last aired Oct 30 | 4x
 David Bowie – "Heroes" (2017 Remaster) | last aired Oct 30 | 55x
 10,000 Maniacs – Like the Weather | last aired Oct 30 | 7x
-Supertramp – Even In The Quietest Moments | last aired Oct 30 | 23x
 Christopher Cross – I Really Don't Know Anymore (2019 Remaster) | last aired Oct 30 | 12x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Oct 30 | 30x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Oct 31 | 35x
@@ -100,5 +99,6 @@ Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 The Smile – The Smoke | last aired Oct 31 | 7x
 David Bowie – Slow Burn | last aired Oct 31 | 7x
+Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Oct 31 | 139x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
