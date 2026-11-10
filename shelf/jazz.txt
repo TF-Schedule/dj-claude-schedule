@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 1:45pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 2:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -75,7 +75,6 @@ Nat King Cole – Autumn Leaves | last aired Nov 8 | 10x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 8 | 26x
 John Coltrane – Lush Life | last aired Nov 8 | 34x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 8 | 24x
-Nina Simone – Wild Is The Wind | last aired Nov 8 | 34x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 8 | 99x
 Bobby McFerrin – Common Threads | last aired Nov 8 | 18x
 Norah Jones – Summertime Blue | last aired Nov 8 | 16x
@@ -100,5 +99,6 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 9 | 91x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 9 | 81x
 Al Di Meola – Red Moon | last aired Nov 9 | 18x
+Erykah Badu – On & On | last aired Nov 9 | 123x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 1:45pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 2:00pm PT.
 
-U2 – New Year's Day (Remastered 2008) | last aired Oct 31 | 4x
 U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 31 | 4x
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 The Replacements – Answering Machine | last aired Oct 31 | 19x
@@ -100,5 +99,6 @@ Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
+Willy DeVille – Heaven Stood Still | last aired Nov 8 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

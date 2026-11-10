@@ -1,7 +1,7 @@
 Your library by genre (Thinking Frequencies)
 Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.
 Just a shelf to browse when you choose freely – nothing to follow.
-Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 10, 1:45pm PT).
+Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 10, 2:00pm PT).
 
 Soul / R&B – 176 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
 Jazz – 136 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz.txt
