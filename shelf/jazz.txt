@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 12:15pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 12:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -35,7 +35,6 @@ THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The K
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
 Petra Haden – Moon River | last aired Nov 2 | 15x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
-Steely Dan – Babylon Sisters | last aired Nov 3 | 55x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Chet Baker – You Don't Know What Love Is | last aired Nov 3 | 26x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
@@ -75,7 +74,6 @@ Nat King Cole – Nature Boy | last aired Nov 8 | 51x
 Nat King Cole – Autumn Leaves | last aired Nov 8 | 10x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 8 | 26x
 John Coltrane – Lush Life | last aired Nov 8 | 34x
-St Germain – Rose rouge | last aired Nov 8 | 43x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 8 | 24x
 Nina Simone – Wild Is The Wind | last aired Nov 8 | 34x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 8 | 99x
@@ -100,5 +98,7 @@ Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 9 | 91x
+Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 9 | 81x
+Al Di Meola – Red Moon | last aired Nov 9 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
