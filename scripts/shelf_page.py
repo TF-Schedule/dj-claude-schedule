@@ -140,7 +140,8 @@ def main():
     for g in by:                                                  # Reihenfolge wie auf den Seiten
         by[g].sort(key=lambda t: (t["last_played_utc"] or "", t["artist"].lower(), t["title"].lower()))
     (OUT / "shelf").mkdir(parents=True, exist_ok=True)
-    index = []
+    index, tindex = [], []
+    BASE = "https://tf-schedule.github.io/dj-claude-schedule/"
     for g in order:
         items = by[g]
         parts = [items[i:i + PAGE_SIZE] for i in range(0, len(items), PAGE_SIZE)]
@@ -162,6 +163,18 @@ def main():
                 f"<p>{len(items)} titles in your library. Longest unplayed first"
                 f"{f' – titles {first}–{first + len(part) - 1}' if len(parts) > 1 else ''}. ({stamp})</p>{nav}"
                 f"<ul>{li}</ul>{nav}<p><a href=\"../shelf.html\">all genres</a></p></body></html>", encoding="utf-8")
+        # Textfassung (für Abrufwerkzeuge von KIs: weniger Ballast, wird wörtlicher gelesen)
+        for no, part in enumerate(parts, 1):
+            tname = f"{slug(g)}.txt" if no == 1 else f"{slug(g)}-{no}.txt"
+            first = (no - 1) * PAGE_SIZE + 1
+            lines = [f"{t['artist']} – {t['title']} | {aired(t["last_played_utc"])}"
+                     f"{' | ' + t['plays'] + 'x' if t.get('plays') and t['plays'] != '0' else ''}" for t in part]
+            nxt = f"\nNext part: {BASE}shelf/{slug(g)}-{no + 1}.txt" if no < len(parts) else ""
+            (OUT / "shelf" / tname).write_text(
+                f"{g} – {len(items)} titles in your library. Longest unplayed first"
+                f"{f' (titles {first}-{first + len(part) - 1})' if len(parts) > 1 else ''}. Updated {stamp}.\n\n"
+                + "\n".join(lines) + f"\n{nxt}\n", encoding="utf-8")
+        tindex.append(f"{g}{' (for December)' if g == XMAS else ''} – {len(items)} titles: {BASE}shelf/{slug(g)}.txt")
         index.append(f'<li><a href="shelf/{links[0]}">{e(g)}</a> – {len(items)}{" (for December)" if g == XMAS else ""}</li>')
     (OUT / "shelf.html").write_text(
         head("Your library by genre") +
@@ -170,7 +183,14 @@ def main():
         "with the date it last aired. Just a shelf to browse when you choose freely – nothing to follow. "
         f"Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes ({stamp}).</p>"
         f"<ul>{''.join(index)}</ul>"
-        '<p><small>What aired in the last 24 hours: <a href="dj.html">dj.html</a></small></p></body></html>', encoding="utf-8")
+        '<p><small>Plain-text version: <a href="shelf.txt">shelf.txt</a> · '
+        'What aired in the last 24 hours: <a href="dj.html">dj.html</a></small></p></body></html>', encoding="utf-8")
+    (OUT / "shelf.txt").write_text(
+        "Your library by genre (Thinking Frequencies)\n"
+        "Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.\n"
+        "Just a shelf to browse when you choose freely – nothing to follow.\n"
+        f"Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes ({stamp}).\n\n"
+        + "\n".join(tindex) + "\n", encoding="utf-8")
     try:
         count_hits(by)
     except Exception as ex:                                       # Zähler darf das Regal nie stören
