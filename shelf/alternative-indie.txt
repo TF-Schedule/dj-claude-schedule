@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -62,7 +62,6 @@ Miracles of Modern Science – Dear Pressure | last aired Oct 29 | 20x
 New Found Glory – My Friends Over You | last aired Oct 29 | 6x
 David Bowie – Slip Away | last aired Oct 29 | 18x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Oct 29 | 19x
-The Sundays – Wild Horses | last aired Oct 30 | 17x
 Missio – I See You | last aired Oct 30 | 6x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Oct 30 | 51x
 Child Seat – Heart To Heart | last aired Oct 30 | 10x
@@ -100,5 +99,6 @@ The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 3 | 46x
 Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
 Brian Eno – Spinning Away | last aired Nov 3 | 7x
+Bleachers – I Wanna Get Better | last aired Nov 4 | 176x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
