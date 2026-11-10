@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:15am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:30am PT.
 
 Confetti – People Suck [Explicit] | last aired Sep 6 | 3x
 Airiel – Bloom | last aired Sep 15 | 2x
@@ -43,7 +43,6 @@ Avril Lavigne – Sk8er Boi | last aired Oct 26 | 13x
 Muse – Feeling Good | last aired Oct 26 | 22x
 David Byrne – Everybody's Coming to My House (Live) | last aired Oct 26 | 5x
 M83 – Midnight City | last aired Oct 26 | 112x
-R.E.M. – Endgame | last aired Oct 26 | 10x
 Ultravox – Vienna (2008 Remaster) | last aired Oct 27 | 28x
 Joywave – In Clover | last aired Oct 27 | 18x
 Arctic Monkeys – No. 1 Party Anthem | last aired Oct 27 | 21x
@@ -100,5 +99,6 @@ The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
 Cults – Gilded Lily | last aired Nov 3 | 21x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 3 | 46x
+Pixies – Ana | last aired Nov 3 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
