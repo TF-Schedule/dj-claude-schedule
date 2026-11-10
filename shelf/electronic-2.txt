@@ -1,4 +1,4 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:15am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:30am PT.
 
 Christian Löffler – Lid | last aired Nov 6 | 40x
 Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
@@ -27,7 +27,6 @@ Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 7 | 43x
 Eluvium – Surrounded by Illusion | last aired Nov 7 | 33x
 Lamb – Gorecki | last aired Nov 7 | 29x
-Michael Brook – Ultramarine | last aired Nov 7 | 23x
 Mort Garson – Plantasia | last aired Nov 7 | 48x
 Moloko – Being Is Bewildering | last aired Nov 8 | 7x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired N
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 9 | 101x
 Massive Attack – Teardrop | last aired Nov 9 | 98x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 65x
+Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

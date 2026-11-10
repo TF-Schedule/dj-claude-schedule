@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:30am PT.
 
 The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
@@ -66,7 +66,6 @@ Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 6 | 7x
 Sheryl Crow – All I Wanna Do | last aired Nov 6 | 21x
-Michael Damian – Rock On | last aired Nov 6 | 7x
 Shakespears Sister – Stay | last aired Nov 6 | 5x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 6 | 10x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 6 | 13x
@@ -100,5 +99,6 @@ Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 7 | 17x
 Amy Macdonald – This Is The Life | last aired Nov 7 | 20x
 Leonard Cohen – Bird on the Wire | last aired Nov 7 | 35x
+Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 7 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
