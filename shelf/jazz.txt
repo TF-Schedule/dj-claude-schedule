@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:15am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -31,7 +31,6 @@ Acker Bilk – Stranger On The Shore | last aired Oct 31 | 15x
 Hiatus Kaiyote – By Fire | last aired Oct 31 | 129x
 Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
-Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 2 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 2 | 12x
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
@@ -100,5 +99,6 @@ Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
 Miles Davis – So What | last aired Nov 9 | 25x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
 Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
+Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

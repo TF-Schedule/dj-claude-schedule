@@ -1,8 +1,7 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
-Buckcherry – Crazy Bitch | last aired Sep 15 | 1x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 Sons Of Apollo – Desolate July | last aired Sep 25 | 1x
@@ -100,5 +99,6 @@ John Mayer – New Light | last aired Oct 31 | 189x
 Little River Band – Reminiscing (2002 Digital Remaster) | last aired Oct 31 | 27x
 The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
+Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
