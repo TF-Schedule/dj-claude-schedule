@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 2:45pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:00pm PT.
 
 Hooverphonic – 2 Wicky | last aired Nov 6 | 33x
 Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
@@ -26,7 +26,6 @@ Daft Punk – Something About Us | last aired Nov 8 | 59x
 Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 8 | 110x
 Daft Punk – Around the World | last aired Nov 8 | 42x
 Floating Points – Last Bloom | last aired Nov 8 | 96x
-Boards of Canada – Dayvan Cowboy | last aired Nov 8 | 55x
 Bonobo – Cirrus | last aired Nov 8 | 134x
 Lamb – Bonfire | last aired Nov 8 | 33x
 James Blake – Retrograde | last aired Nov 8 | 70x
@@ -100,5 +99,6 @@ Michael Brook – Ultramarine | last aired Nov 10 | 24x
 Predatory Meerkats – Resist The Force | last aired Nov 10 | 6x
 Fred again.. – leavemealone | last aired Nov 10 | 17x
 Thievery Corporation – Facing East | last aired Nov 10 | 56x
+Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 10 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
