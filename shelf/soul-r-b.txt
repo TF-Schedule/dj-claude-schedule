@@ -1,4 +1,4 @@
-Soul / R&B – 175 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:00am PT.
+Soul / R&B – 175 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -28,7 +28,6 @@ The Isley Brothers – Between the Sheets | last aired Oct 28 | 113x
 Lionel Richie – You Are | last aired Oct 29 | 22x
 Lianne La Havas – Sour Flower | last aired Oct 29 | 67x
 Michael Jackson – Who Is It | last aired Oct 29 | 5x
-Michael Jackson – Morphine (Album Version) | last aired Oct 29 | 5x
 Petra – This Means War | last aired Oct 29 | 6x
 Maxwell – Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired Oct 29 | 10x
 Jill Scott – Golden | last aired Oct 29 | 97x
@@ -100,5 +99,6 @@ Roberta Flack – The First Time Ever I Saw Your Face (2020 Remaster) | last air
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
 Bobby Caldwell – What You Won't Do for Love | last aired Nov 7 | 28x
 Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
+Marvin Gaye – Distant Lover | last aired Nov 8 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

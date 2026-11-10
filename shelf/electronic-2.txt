@@ -1,4 +1,4 @@
-Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:00am PT.
+Electronic – 211 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:15am PT.
 
 Röyksopp – Eple | last aired Nov 6 | 38x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 6 | 12x
@@ -12,7 +12,6 @@ Home – We're Finally Landing | last aired Nov 7 | 13x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
 Tycho – A Walk | last aired Nov 7 | 108x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
-Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 7 | 8x
 Peggy Gou – Starry Night | last aired Nov 7 | 166x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
 Thom Yorke – 5.17 | last aired Nov 7 | 19x
@@ -100,5 +99,6 @@ Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 Bicep – Apricots | last aired Nov 10 | 67x
 ANNIE – Heartbeat | last aired Nov 10 | 15x
 Solarstone – Evensong | last aired Nov 10 | 14x
+Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
