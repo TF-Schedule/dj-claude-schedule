@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 5:00am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 5:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -49,7 +49,6 @@ Zaz – Champs-Elysées | last aired Nov 5 | 1x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 5 | 23x
 Burna Boy – Last Last | last aired Nov 5 | 47x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
-Melody Gardot – This Foolish Heart Could Love You | last aired Nov 5 | 6x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 6 | 10x
 Bonobo – Kong | last aired Nov 6 | 82x
@@ -100,5 +99,6 @@ Julie London – Cry Me A River | last aired Nov 8 | 81x
 GoGo Penguin – Raven | last aired Nov 8 | 83x
 John Coltrane – My Favorite Things | last aired Nov 9 | 54x
 Chet Baker – Almost Blue | last aired Nov 9 | 55x
+Steely Dan – Home At Last | last aired Nov 9 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
