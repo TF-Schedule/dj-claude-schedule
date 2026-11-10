@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 2:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:00am PT.
 
 The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Bruce Springsteen – Born in the U.S.A. | last aired Oct 31 | 22x
@@ -9,7 +9,6 @@ Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Oct 31 | 139x
 U2 – New Year's Day (Remastered 2008) | last aired Oct 31 | 4x
 U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 31 | 4x
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
-Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Oct 31 | 10x
 The Replacements – Answering Machine | last aired Oct 31 | 19x
 The Doobie Brothers – What a Fool Believes | last aired Oct 31 | 83x
 BETWEEN FRIENDS – affection | last aired Nov 1 | 10x
@@ -100,5 +99,6 @@ Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
+Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 7 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
