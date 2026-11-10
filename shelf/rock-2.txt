@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:30pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 3:45pm PT.
 
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 The Replacements – Answering Machine | last aired Oct 31 | 19x
@@ -71,7 +71,6 @@ Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 6 | 51x
 Mike Oldfield – Moonlight Shadow | last aired Nov 6 | 6x
 The Beatles – Strawberry Fields Forever | last aired Nov 7 | 25x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
-Fleetwood Mac – The Ledge | last aired Nov 7 | 20x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 7 | 10x
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 7 | 21x
@@ -100,5 +99,6 @@ Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 8 | 24x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 8 | 177x
 Van Halen – Jump (2015 Remaster) | last aired Nov 8 | 6x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
+VAST – Thrown Away | last aired Nov 8 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
