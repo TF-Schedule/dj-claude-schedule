@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:15am PT.
 
 Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
@@ -57,7 +57,6 @@ Wild Nothing – Chinatown | last aired Nov 8 | 31x
 Patrick Watson – Sit Down Beside Me | last aired Nov 8 | 12x
 Arctic Monkeys – 505 | last aired Nov 8 | 37x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 8 | 5x
-Green Day – American Idiot (Album Version) | last aired Nov 8 | 14x
 Bikini Kill – Rebel Girl | last aired Nov 8 | 14x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
 Visage – Fade To Grey | last aired Nov 8 | 22x
@@ -100,5 +99,6 @@ Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Garbage – Only Happy When It Rains | last aired Nov 9 | 20x
 Gary Numan – Cars | last aired Nov 9 | 13x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 9 | 14x
+The Cure – A Forest | last aired Nov 9 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
