@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:30am PT.
 
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
@@ -45,7 +45,6 @@ Vangelis – La petite fille de la mer | last aired Nov 7 | 32x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Fugees – Killing Me Softly | last aired Nov 7 | 18x
 Dean Martin – Everybody Loves Somebody | last aired Nov 8 | 29x
-Mac DeMarco – Chamber Of Reflection | last aired Nov 8 | 71x
 Haute & Freddy – Dance The Pain Away | last aired Nov 8 | 9x
 Katy Perry – Roar | last aired Nov 8 | 111x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 8 | 6x
@@ -100,5 +99,6 @@ Takako Mamiya – Nagisade Dance | last aired Nov 10 | 16x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
 Men I Trust – Show Me How | last aired Nov 10 | 60x
 Jan Hammer – Crockett's Theme | last aired Nov 10 | 26x
+Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
