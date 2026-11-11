@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:45am PT.
 
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -26,7 +26,6 @@ David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
 Foo Fighters – Everlong | last aired Nov 6 | 33x
 MGMT – Little Dark Age | last aired Nov 6 | 3x
-Phoenix – Lisztomania | last aired Nov 7 | 42x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Kate Bush – Under The Ivy | last aired Nov 7 | 30x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
@@ -100,5 +99,6 @@ Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Pale Saints – Kinky Love | last aired Nov 10 | 22x
 Paramore – Thick Skull | last aired Nov 10 | 18x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 10 | 13x
+Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
