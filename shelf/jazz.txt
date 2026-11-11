@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 7:45pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -73,7 +73,6 @@ Duke Ellington – In A Sentimental Mood | last aired Nov 7 | 114x
 Nat King Cole – Nature Boy | last aired Nov 8 | 51x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 8 | 24x
 Bobby McFerrin – Common Threads | last aired Nov 8 | 18x
-Norah Jones – Summertime Blue | last aired Nov 8 | 16x
 Bonobo – Terrapin | last aired Nov 8 | 139x
 Alfa Mist – Organic Rust | last aired Nov 8 | 115x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 8 | 5x
@@ -100,5 +99,6 @@ Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov
 Masego – Tadow | last aired Nov 9 | 72x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 9 | 13x
 Diana Krall – How Deep Is The Ocean | last aired Nov 9 | 11x
+Ella Fitzgerald – Summertime | last aired Nov 9 | 98x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
