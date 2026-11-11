@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:15am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -11,7 +11,6 @@ Yussef Kamaal – Strings of Light | last aired Oct 23 | 109x
 Ken Thomson And Slow/Fast – We Are Not All in This Together | last aired Oct 25 | 14x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Oct 25 | 22x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Oct 26 | 37x
-Mulatu Astatke – Yègellé Tezeta | last aired Oct 27 | 55x
 Glenn Miller & His Orchestra – In the Mood | last aired Oct 27 | 1x
 Bart&Baker – Stop Googling Me ! | last aired Oct 27 | 1x
 Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired Oct 27 | 1x
@@ -100,5 +99,6 @@ Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 9 | 70x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 9 | 177x
 Miles Davis – Blue in Green | last aired Nov 9 | 105x
+Miles Davis – Flamenco Sketches | last aired Nov 9 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
