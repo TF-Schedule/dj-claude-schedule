@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 4:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 4:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -71,7 +71,6 @@ Bauhaus – Ziggy Stardust | last aired Oct 30 | 19x
 Cigarettes After Sex – Apocalypse | last aired Oct 30 | 105x
 Björk – Pagan Poetry | last aired Oct 31 | 15x
 The Clash – London Calling | last aired Oct 31 | 134x
-The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Oct 31 | 23x
 Jimmy Eat World – The Middle | last aired Oct 31 | 13x
 Ethel Cain – Punish | last aired Oct 31 | 13x
 The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
@@ -100,5 +99,6 @@ Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
 Brian Eno – Spinning Away | last aired Nov 3 | 7x
 Bleachers – I Wanna Get Better | last aired Nov 4 | 176x
+Blur – Song 2 | last aired Nov 4 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

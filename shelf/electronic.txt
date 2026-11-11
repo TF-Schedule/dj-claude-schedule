@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 4:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 4:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -16,7 +16,6 @@ Autechre – Clipper | last aired Oct 20 | 18x
 Tom Novy – Superstar (The Jason Nevins' Live Peep Show Mix) | last aired Oct 20 | 2x
 Aphex Twin – Flim | last aired Oct 22 | 9x
 Guts – Laisser Lucie faire | last aired Oct 22 | 8x
-Charli XCX – 360 | last aired Oct 23 | 145x
 Jon Hopkins – Small Memory | last aired Oct 23 | 22x
 M83 – Wait | last aired Oct 23 | 17x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Oct 23 | 44x
@@ -100,5 +99,6 @@ Röyksopp – Eple | last aired Nov 6 | 38x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 6 | 34x
 Tycho – Dive | last aired Nov 6 | 103x
 Hooverphonic – 2 Wicky | last aired Nov 6 | 33x
+Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
