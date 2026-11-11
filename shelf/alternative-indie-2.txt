@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:30pm PT.
 
 Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
@@ -68,7 +68,6 @@ Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
 Beach House – Bluebird | last aired Nov 8 | 51x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 8 | 17x
-ANORAQUE – Ivy | last aired Nov 8 | 15x
 Montaigne – I Am Not an End | last aired Nov 8 | 5x
 Julien Baker – Hardline | last aired Nov 8 | 33x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
@@ -100,5 +99,6 @@ Radiohead – Weird Fishes / Arpeggi | last aired Nov 9 | 321x
 Banners – Shine A Light | last aired Nov 9 | 22x
 Beach House – Space Song | last aired Nov 9 | 119x
 Beck – Devils Haircut | last aired Nov 9 | 24x
+Beck – The New Pollution | last aired Nov 9 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
