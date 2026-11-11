@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:30am PT.
 
-Rufus Wainwright – Dinner At Eight | last aired Nov 1 | 27x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 1 | 25x
 Stratovarius – Black Diamond | last aired Nov 1 | 8x
 Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 1 | 38x
@@ -100,5 +99,6 @@ Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 9 | 56x
 Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 9 | 79x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
+Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
