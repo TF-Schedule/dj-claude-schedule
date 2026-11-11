@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:45am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -54,7 +54,6 @@ Marvin Gaye – I Heard It Through The Grapevine (SACD Stereo) | last aired Nov 
 Stevie Wonder – Summer Soft | last aired Nov 2 | 33x
 The Brothers Johnson – Strawberry Letter 23 (Album Version) | last aired Nov 2 | 56x
 Khruangbin – White Gloves | last aired Nov 2 | 86x
-Tame Impala – Is It True | last aired Nov 2 | 17x
 David Bowie – Dancing in the Street (2002 Remaster) | last aired Nov 3 | 8x
 The Supremes – Automatically Sunshine | last aired Nov 3 | 26x
 Whitney Houston – I Have Nothing | last aired Nov 3 | 15x
@@ -100,5 +99,6 @@ Aretha Franklin – I Say a Little Prayer | last aired Nov 8 | 53x
 Patti LaBelle – If Only You Knew | last aired Nov 8 | 19x
 The Weeknd – Blinding Lights | last aired Nov 8 | 159x
 D'Angelo – Untitled (How Does It Feel) | last aired Nov 8 | 135x
+Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 8 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
