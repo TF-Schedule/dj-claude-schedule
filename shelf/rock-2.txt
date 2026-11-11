@@ -1,8 +1,7 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:15pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:30pm PT.
 
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 The Doobie Brothers – What a Fool Believes | last aired Oct 31 | 83x
-BETWEEN FRIENDS – affection | last aired Nov 1 | 10x
 Underscores – Do It | last aired Nov 1 | 7x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 1 | 18x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
@@ -100,5 +99,6 @@ VAST – Thrown Away | last aired Nov 8 | 7x
 Big Foot Mama – Led s severa | last aired Nov 8 | 1x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 8 | 30x
+Fleetwood Mac – Sara | last aired Nov 8 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

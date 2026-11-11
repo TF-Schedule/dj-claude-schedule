@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:30pm PT.
 
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
@@ -65,7 +65,6 @@ Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
-Beach House – Bluebird | last aired Nov 8 | 51x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 8 | 17x
 Montaigne – I Am Not an End | last aired Nov 8 | 5x
 Julien Baker – Hardline | last aired Nov 8 | 33x
@@ -100,5 +99,6 @@ Beach House – Space Song | last aired Nov 9 | 119x
 Beck – Devils Haircut | last aired Nov 9 | 24x
 Beck – The New Pollution | last aired Nov 9 | 28x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
+Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 9 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
