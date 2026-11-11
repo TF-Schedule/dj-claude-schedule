@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:15pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 1:00pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -68,7 +68,6 @@ Don McLean – Vincent | last aired Nov 6 | 18x
 Hem – Half Acre (Remastered 2025) | last aired Nov 6 | 47x
 Gigi Perez – Sailor Song | last aired Nov 6 | 237x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 6 | 6x
-Amália Rodrigues – Barco negro | last aired Nov 6 | 36x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
@@ -100,5 +99,6 @@ Dalida – Paroles paroles (Album Version) | last aired Nov 9 | 17x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 Carole King – It's Too Late | last aired Nov 9 | 87x
+Conchita Wurst – Rise Like a Phoenix | last aired Nov 9 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
