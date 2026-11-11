@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:30pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:45pm PT.
 
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
@@ -47,7 +47,6 @@ Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Vangelis – La petite fille de la mer | last aired Nov 7 | 32x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
-Leon Larregui – Brillas | last aired Nov 7 | 8x
 Fugees – Killing Me Softly | last aired Nov 7 | 18x
 Mazzy Star – Fade Into You | last aired Nov 8 | 98x
 Dean Martin – Everybody Loves Somebody | last aired Nov 8 | 29x
@@ -100,5 +99,6 @@ Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sabrina Carpenter – Espresso | last aired Nov 9 | 117x
+Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:30pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:45pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -83,7 +83,6 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 7 | 22x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
 Robert Plant – Please Read The Letter | last aired Nov 7 | 1x
-Joni Mitchell – A Case of You | last aired Nov 7 | 44x
 José González – Heartbeats | last aired Nov 7 | 122x
 Simon & Garfunkel – The Boxer | last aired Nov 7 | 99x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
@@ -100,5 +99,6 @@ Ed Maverick – lagunas | last aired Nov 8 | 6x
 The Weepies – Gotta Have You | last aired Nov 8 | 39x
 Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 8 | 121x
+Bon Iver – Skinny Love | last aired Nov 8 | 370x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
