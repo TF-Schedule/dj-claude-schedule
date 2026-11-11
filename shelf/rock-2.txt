@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:00pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:15pm PT.
 
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 The Doobie Brothers – What a Fool Believes | last aired Oct 31 | 83x
@@ -35,7 +35,6 @@ The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 4 | 139x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
-The Beatles – Rain (Remastered) | last aired Nov 5 | 20x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 5 | 32x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 5 | 24x
@@ -100,5 +99,6 @@ Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 VAST – Thrown Away | last aired Nov 8 | 7x
 Big Foot Mama – Led s severa | last aired Nov 8 | 1x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
+Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 8 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
