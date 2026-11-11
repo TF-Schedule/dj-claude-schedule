@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:00pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -15,7 +15,6 @@ Bart&Baker – Stop Googling Me ! | last aired Oct 27 | 1x
 Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired Oct 27 | 1x
 Squirrel Nut Zippers – Hell | last aired Oct 27 | 1x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Oct 28 | 31x
-Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Oct 28 | 80x
 Herbie Hancock – Chameleon | last aired Oct 28 | 28x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Oct 28 | 24x
 Lianne La Havas – Unstoppable | last aired Oct 28 | 86x
@@ -100,5 +99,6 @@ Alice Coltrane – Journey In Satchidananda | last aired Nov 9 | 16x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 10 | 5x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
+Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
