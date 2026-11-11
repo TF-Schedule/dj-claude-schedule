@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:30pm PT.
 
 Home – We're Finally Landing | last aired Nov 7 | 13x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
@@ -22,7 +22,6 @@ Daft Punk – Something About Us | last aired Nov 8 | 59x
 Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 8 | 110x
 Daft Punk – Around the World | last aired Nov 8 | 42x
 Bonobo – Cirrus | last aired Nov 8 | 134x
-Lamb – Bonfire | last aired Nov 8 | 33x
 James Blake – Retrograde | last aired Nov 8 | 70x
 Marie Vaunt – That Acid | last aired Nov 8 | 7x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
@@ -100,5 +99,6 @@ Fraunhofer Diffraction – Kvrt in Space | last aired Nov 10 | 12x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 10 | 184x
 Thievery Corporation – Omid | last aired Nov 10 | 21x
 Susumu Yokota – Saku | last aired Nov 10 | 72x
+Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
