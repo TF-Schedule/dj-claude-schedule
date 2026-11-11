@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -29,11 +29,9 @@ Echo And The Bunnymen – The Killing Moon | last aired Oct 25 | 14x
 The Cure – Burn (Live) | last aired Oct 25 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Oct 26 | 14x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Oct 26 | 19x
-twenty one pilots – Stressed Out | last aired Oct 26 | 23x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Oct 26 | 14x
 Playroom – Patient | last aired Oct 26 | 10x
 Joywave – Rumors | last aired Oct 26 | 18x
-AWOLNATION – Burn It Down | last aired Oct 26 | 6x
 Child Seat – Hyperphantasia | last aired Oct 26 | 7x
 Geowulf – Saltwater | last aired Oct 26 | 17x
 Joker Out – Novi Val | last aired Oct 26 | 21x
@@ -100,5 +98,7 @@ MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
+Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 5 | 18x
+Foster The People – Sit Next to Me | last aired Nov 5 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
