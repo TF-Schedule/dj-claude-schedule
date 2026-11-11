@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:15am PT.
 
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
@@ -51,7 +51,6 @@ The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
 Dorian Electra – Bizarre Love Triangle | last aired Nov 9 | 5x
 Floating Points – Birth4000 | last aired Nov 9 | 69x
 Marconi Union – Weightless | last aired Nov 9 | 97x
-Jazzy – No Bad Vibes | last aired Nov 9 | 7x
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 9 | 8x
 Bruce Kaphan – Clouds | last aired Nov 9 | 54x
 Lemon Jelly – Ramblin' Man | last aired Nov 9 | 42x
@@ -100,5 +99,6 @@ Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 10 | 111x
 Lamb – Gorecki | last aired Nov 10 | 30x
 Sigur Rós – Sé Lest | last aired Nov 10 | 63x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
+Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 10 | 84x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

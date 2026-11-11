@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:15am PT.
 
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -72,7 +72,6 @@ Gary Numan – Cars | last aired Nov 9 | 13x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 9 | 14x
 The Cure – A Forest | last aired Nov 9 | 29x
 Brijean – Counting Sheep | last aired Nov 9 | 31x
-Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 9 | 9x
 Jockstrap – Concrete Over Water | last aired Nov 9 | 19x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 9 | 321x
@@ -100,5 +99,6 @@ Paramore – Thick Skull | last aired Nov 10 | 18x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 10 | 13x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
+Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
