@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:30pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:45pm PT.
 
-The Doobie Brothers – What a Fool Believes | last aired Oct 31 | 83x
 Underscores – Do It | last aired Nov 1 | 7x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 1 | 18x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
@@ -63,7 +62,6 @@ Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 6 | 2x
 Talk Talk – New Grass | last aired Nov 6 | 28x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 6 | 51x
-Mike Oldfield – Moonlight Shadow | last aired Nov 6 | 6x
 The Beatles – Strawberry Fields Forever | last aired Nov 7 | 25x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 7 | 10x
@@ -100,5 +98,7 @@ Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last air
 Fleetwood Mac – Sara | last aired Nov 8 | 27x
 Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 2x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
+Grateful Dead – Eyes of the World | last aired Nov 8 | 29x
+Mazzy Star – Halah | last aired Nov 8 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
