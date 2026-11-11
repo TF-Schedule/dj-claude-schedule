@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 11:10pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -82,7 +82,6 @@ Fugazi – Waiting Room | last aired Oct 31 | 12x
 Ednaswap – Torn | last aired Oct 31 | 17x
 Men At Work – Down Under | last aired Nov 1 | 8x
 Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
-Lana Del Rey – Heroin | last aired Nov 1 | 23x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 2 | 17x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 2 | 15x
 Talking Heads – Psycho Killer | last aired Nov 2 | 26x
@@ -100,5 +99,6 @@ Bleachers – I Wanna Get Better | last aired Nov 4 | 176x
 Blur – Song 2 | last aired Nov 4 | 17x
 Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
+blink-182 – All The Small Things | last aired Nov 4 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
