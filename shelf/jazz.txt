@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 1:30pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 1:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -40,7 +40,6 @@ Burna Boy – Last Last | last aired Nov 5 | 47x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 6 | 10x
-Bonobo – Kong | last aired Nov 6 | 82x
 Melody Gardot – If You Love Me | last aired Nov 6 | 6x
 Natalie Cole – At Last | last aired Nov 6 | 11x
 Charles Mingus – Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired Nov 6 | 19x
@@ -69,7 +68,6 @@ John Coltrane – My Favorite Things | last aired Nov 9 | 54x
 Chet Baker – Almost Blue | last aired Nov 9 | 55x
 Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
-Bobby Darin – Beyond the Sea | last aired Nov 9 | 29x
 Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
 Miles Davis – So What | last aired Nov 9 | 25x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
@@ -100,5 +98,7 @@ Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Melody Gardot – Moon River | last aired Nov 10 | 10x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 10 | 7x
+Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
+Paolo Conte – Via Con Me | last aired Nov 10 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
