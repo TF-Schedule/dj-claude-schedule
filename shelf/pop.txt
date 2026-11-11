@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 8:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:00am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -16,7 +16,6 @@ The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
 P!nk – Glitter In the Air | last aired Oct 12 | 2x
 P!nk – Family Portrait | last aired Oct 14 | 2x
 Abor & Tynna – Baller | last aired Oct 15 | 3x
-Tom Konkle – When Did Love Become A Test | last aired Oct 16 | 3x
 Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired Oct 17 | 5x
 Neuro-sama – Colorful Array | last aired Oct 17 | 6x
 Tate McRae – greedy | last aired Oct 17 | 6x
@@ -100,5 +99,6 @@ S Club – I Really Miss You | last aired Nov 1 | 7x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
+Cuco – One and Only | last aired Nov 3 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
