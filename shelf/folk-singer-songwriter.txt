@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:30am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:45am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -90,7 +90,6 @@ The Weepies – Gotta Have You | last aired Nov 8 | 39x
 Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
 Bon Iver – Skinny Love | last aired Nov 8 | 370x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
-Carole King – So Far Away | last aired Nov 8 | 42x
 Noah Kahan – Stick Season | last aired Nov 8 | 22x
 Phoebe Bridgers – Smoke Signals | last aired Nov 8 | 59x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 8 | 43x
@@ -100,5 +99,6 @@ Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 8 | 8x
 Judy Collins – Bread and Roses | last aired Nov 8 | 26x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 8 | 76x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 9 | 6x
+Lord Huron – Life Is Strange | last aired Nov 9 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

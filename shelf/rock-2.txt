@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:30am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:45am PT.
 
-Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
 The Strokes – Lonely in the Future | last aired Nov 1 | 17x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109x
 Rufus Wainwright – Dinner At Eight | last aired Nov 1 | 27x
@@ -100,5 +99,6 @@ Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 9 | 56x
+Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
