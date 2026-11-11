@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 5:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -73,7 +73,6 @@ Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
 The Korgis – Everybody's Got To Learn Sometime | last aired Oct 27 | 19x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Oct 28 | 11x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
-Mike Marshall – Big Country (Instrumental) | last aired Oct 28 | 12x
 Her's – Blue Lips | last aired Oct 28 | 29x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) | last aired Oct 29 | 16x
 Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
@@ -100,5 +99,6 @@ Human League – Don't You Want Me | last aired Nov 1 | 24x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 1 | 16x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 1 | 12x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 1 | 6x
+S Club – I Really Miss You | last aired Nov 1 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

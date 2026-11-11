@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 5:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:00pm PT.
 
-S Club – I Really Miss You | last aired Nov 1 | 7x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
@@ -30,7 +29,6 @@ The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivag
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 6 | 42x
 The Chills – Pink Frost | last aired Nov 6 | 9x
 Shakatak – Night Birds | last aired Nov 6 | 25x
-MIKA – Grace Kelly | last aired Nov 6 | 24x
 Miley Cyrus – Flowers | last aired Nov 6 | 10x
 Billy Joel – Vienna (Album Version) | last aired Nov 6 | 35x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
@@ -100,5 +98,7 @@ Leon Larregui – Locos | last aired Nov 9 | 19x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
+Benson Boone – Beautiful Things | last aired Nov 9 | 14x
+Sabrina Carpenter – Espresso | last aired Nov 9 | 117x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
