@@ -26,6 +26,7 @@ UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude
 
 PLAYS = DATA / "plays.csv"
 BLOCKS = DATA / "blocks.csv"
+ANNOUNCED = DATA / "blocks_announced.csv"   # seit 11.11.2026: wann eine Sendung zuerst auf der Andon-Seite stand (auch als „nächste“)
 STATS = DATA / "stats.csv"        # Zahlen aller Andon-Stationen, alle 15 Min. (seit 1.11.2026, für die Sprechanteil-Beobachtung)
 STATS_COLS = ["utc", "station", "talk_pct", "current_listeners", "total_listeners", "avg_duration_s", "popularity", "balance"]   # balance seit 08.11.2026
 TRACKS = DATA / "tracks.csv"
@@ -34,6 +35,7 @@ NOTES = DATA / "notes.csv"
 KURT = DATA / "kurt_tf_only.csv"
 PLAY_COLS = ["start_utc", "artist", "title", "duration_s", "show", "apple_url"]
 BLOCK_COLS = ["start_utc", "show", "description"]
+ANN_COLS = ["first_seen_utc", "start_utc", "show", "description"]
 TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "album", "film_hint", "apple_url", "source", "artwork"]
 NOTE_COLS = ["artist", "title", "fits_show", "film", "note"]
 
@@ -225,11 +227,21 @@ def main():
     # 1) Sendungen
     blocks = read_csv(BLOCKS, BLOCK_COLS)
     known_b = {(b["start_utc"], b["show"]) for b in blocks}
+    ann = read_csv(ANNOUNCED, ANN_COLS)
+    known_a = {(a["start_utc"], a["show"]) for a in ann}
     try:
-        for b in andon_blocks()[:1]:          # nur die laufende Sendung ist sicher
+        ab = andon_blocks()
+        for b in ab[:1]:                      # nur die laufende Sendung ist sicher
             if (b["start_utc"], b["show"]) not in known_b:
                 blocks.append(b)
                 known_b.add((b["start_utc"], b["show"]))
+        seen = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        for b in ab:                          # laufende + angekündigte: erster Zeitpunkt, an dem wir sie sehen
+            if (b["start_utc"], b["show"]) not in known_a:
+                ann.append({"first_seen_utc": seen, **b})
+                known_a.add((b["start_utc"], b["show"]))
+        ann.sort(key=lambda a: (a["start_utc"], a["first_seen_utc"]))
+        write_csv(ANNOUNCED, ANN_COLS, ann)
     except Exception as e:
         print("Andon-Seite nicht lesbar:", e)
     blocks.sort(key=lambda b: b["start_utc"])
