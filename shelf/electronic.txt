@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:15am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -90,7 +90,6 @@ Tricky – Hell Is Round The Corner | last aired Nov 5 | 43x
 Aphex Twin – Rhubarb Orc. 19.53 Rev | last aired Nov 5 | 69x
 Aphex Twin – Avril 14th | last aired Nov 5 | 90x
 Aphex Twin – Xtal | last aired Nov 6 | 41x
-Christian Löffler – Lid | last aired Nov 6 | 40x
 Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 Röyksopp – Eple | last aired Nov 6 | 38x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 6 | 34x
@@ -100,5 +99,6 @@ Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
 Tycho – Awake | last aired Nov 6 | 107x
 Home – We're Finally Landing | last aired Nov 7 | 13x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
+Tycho – A Walk | last aired Nov 7 | 108x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

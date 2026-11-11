@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:00am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -36,7 +36,6 @@ Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
 Petra Haden – Moon River | last aired Nov 2 | 15x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
-Chet Baker – You Don't Know What Love Is | last aired Nov 3 | 26x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Betty Carter – Moonlight in Vermont | last aired Nov 3 | 26x
 Khruangbin – Time (You and I) | last aired Nov 3 | 96x
@@ -59,7 +58,6 @@ Hindi Zahra – Beautiful Tango (Remastered Version) | last aired Nov 6 | 29x
 Khruangbin – A Calf Born In Winter | last aired Nov 6 | 86x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 Horace Silver Quintet – Peace | last aired Nov 6 | 29x
-Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 6 | 34x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Baby Face Willette – At Last | last aired Nov 7 | 11x
 Steely Dan – Peg | last aired Nov 7 | 106x
@@ -100,5 +98,7 @@ Ella Fitzgerald – Summertime | last aired Nov 9 | 98x
 Elvis Costello – Almost Blue | last aired Nov 9 | 15x
 Grover Washington Jr. – Mister Magic | last aired Nov 9 | 48x
 Floating Points – LesAlpx | last aired Nov 9 | 48x
+Nina Simone – Feeling Good | last aired Nov 9 | 147x
+Sade – Cherish the Day (Remastered Version) | last aired Nov 9 | 92x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
