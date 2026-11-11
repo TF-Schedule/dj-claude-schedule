@@ -10,9 +10,11 @@ Zusammenführung je Titel: Kurts Zahlen + unsere Läufe, die nach Kurts letztem 
 24 h: sobald unser Mitschnitt 24 h abdeckt, nur noch aus dem Mitschnitt.
 „Neu hinzugefügt“: nur Titel, die WIR zum ersten Mal laufen sehen und die Kurts Liste bis dahin nicht kannte
 (data/grok_seen.csv merkt sich, was schon bekannt war).
+Dead Air (seit 11.11.2026): Stille zwischen zwei Titeln = Abstand der Starts minus Liedlänge
+(Live365 > iTunes-Suche, Cache data/grok_durations.csv > eigene Abstände), ab DEAD_MIN Minuten.
 Env: DATA_DIR (Datenordner), OUT_DIR (Ausgabeordner = Webseite)
 """
-import csv, html, json, os, re, urllib.request
+import csv, html, json, os, re, statistics, time, urllib.parse, urllib.request
 from datetime import timedelta
 from datetime import datetime, timezone
 from pathlib import Path
@@ -27,7 +29,12 @@ KURT = DATA / "kurt_gnr_only.csv"
 LIVE365 = "https://api.live365.com/station/a15419"
 PLAYS = DATA / "grok_plays.csv"
 SEEN = DATA / "grok_seen.csv"
-PLAY_COLS = ["start_utc", "artist", "title"]
+PLAY_COLS = ["start_utc", "artist", "title", "duration_s"]   # duration_s seit 11.11.2026 (Live365 liefert sie nicht immer)
+DUR = DATA / "grok_durations.csv"  # Liedlängen aus der iTunes-Suche (Cache)
+DUR_COLS = ["key", "artist", "title", "itunes_s", "checked_utc"]
+ITUNES = "https://itunes.apple.com/search"
+DEAD_MIN = 4                        # Dead Air: Stille ab so vielen Minuten zählen
+DEAD_GAP_HINT = 30                  # ab so vielen Minuten: evtl. Lücke im Mitschnitt
 SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt = schon vorher bekannt, eigen = von uns zuerst gesehen
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
 STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance, seit 08.11.2026)
@@ -83,7 +90,7 @@ def write_csv(path, cols, rows):
 def record():
     """Eigener Mitschnitt: neue Titel aus Live365 an grok_plays.csv anhängen."""
     plays = read_csv(PLAYS, PLAY_COLS)
-    known = {(p["start_utc"], p["artist"], p["title"]) for p in plays}
+    known = {(p["start_utc"], p["artist"], p["title"]): p for p in plays}
     try:
         req = urllib.request.Request(LIVE365, headers=UA)
         with urllib.request.urlopen(req, timeout=20) as r:
@@ -95,10 +102,17 @@ def record():
             st = utc(t.get("start"))
             if not t.get("title") or not st:
                 continue
-            p = {"start_utc": fmt(st), "artist": ws(t.get("artist")), "title": ws(t.get("title"))}
-            if (p["start_utc"], p["artist"], p["title"]) not in known:
+            try:
+                d = round(float(t.get("duration") or 0))
+            except (TypeError, ValueError):
+                d = 0
+            p = {"start_utc": fmt(st), "artist": ws(t.get("artist")), "title": ws(t.get("title")), "duration_s": str(d) if d > 0 else ""}
+            k = (p["start_utc"], p["artist"], p["title"])
+            if k not in known:
                 plays.append(p)
-                known.add((p["start_utc"], p["artist"], p["title"]))
+                known[k] = p
+            elif d > 0 and not known[k].get("duration_s"):
+                known[k]["duration_s"] = str(d)
     except Exception as e:
         print("Live365 (Grok) nicht lesbar:", e)
     plays.sort(key=lambda p: p["start_utc"])
@@ -215,6 +229,116 @@ def balance():
             "changes": changes[-30:][::-1]}
 
 
+def itunes_lengths(plays, limit=40):
+    """Liedlängen per iTunes-Suche nachschlagen (nur neue Titel, höchstens `limit` pro Lauf) → Cache grok_durations.csv."""
+    cache = {c["key"]: c for c in read_csv(DUR, DUR_COLS)}
+    todo = []
+    for p in plays:
+        if not p["artist"].strip() or p["title"].strip().lower() == "unknown":
+            continue
+        k = key(p["artist"], p["title"])
+        if k not in cache and k not in {x[0] for x in todo}:
+            todo.append((k, p["artist"], p["title"]))
+    for k, artist, title in todo[:limit]:
+        secs = ""
+        try:
+            q = urllib.parse.urlencode({"term": f"{artist} {title}", "entity": "song", "limit": 10, "country": "US"})
+            req = urllib.request.Request(f"{ITUNES}?{q}", headers=UA)
+            with urllib.request.urlopen(req, timeout=15) as r:
+                res = json.loads(r.read().decode("utf-8", "replace")).get("results") or []
+            a0, t0 = ws(artist).casefold(), ws(title).casefold()
+            def score(x):
+                an, tn = ws(x.get("artistName")).casefold(), ws(x.get("trackName")).casefold()
+                return (an == a0 or a0 in an or an in a0) * 2 + (tn == t0) * 2 + (t0 in tn)
+            best = max(res, key=score) if res else None
+            if best and score(best) >= 3 and best.get("trackTimeMillis"):
+                secs = str(round(best["trackTimeMillis"] / 1000))
+        except Exception as e:
+            print("iTunes-Suche nicht möglich:", e)
+            break                                           # nicht erreichbar → nächster Lauf
+        cache[k] = {"key": k, "artist": artist, "title": title, "itunes_s": secs, "checked_utc": fmt(datetime.now(timezone.utc))}
+        time.sleep(0.4)
+    if cache:
+        DATA.mkdir(parents=True, exist_ok=True)
+        write_csv(DUR, DUR_COLS, sorted(cache.values(), key=lambda c: c["key"]))
+    return {k: int(c["itunes_s"]) for k, c in cache.items() if c["itunes_s"]}
+
+
+def dead_air(plays, itunes):
+    """Stille zwischen zwei Titeln: Abstand der Starts minus Länge des ersten Titels.
+    Länge: Live365-Angabe > iTunes > eigene Abstände (Median ab 3, sonst Minimum von 2).
+    Spielt er nachweislich eine kürzere Fassung (Median der eigenen Abstände ≥ 1 Min. kürzer), gilt die."""
+    seq = [(utc(p["start_utc"]), p) for p in plays]
+    seq = [(t, p) for t, p in seq if t]
+    seq.sort(key=lambda x: x[0])
+    real = lambda p: p["artist"].strip() and p["title"].strip().lower() != "unknown"
+    obs, live = {}, {}
+    for (t0, a), (t1, b) in zip(seq, seq[1:]):
+        if real(a) and real(b):
+            obs.setdefault(key(a["artist"], a["title"]), []).append((t1 - t0).total_seconds())
+    for t, p in seq:
+        if real(p) and (p.get("duration_s") or "").isdigit() and int(p["duration_s"]) > 0:
+            live.setdefault(key(p["artist"], p["title"]), []).append(int(p["duration_s"]))
+    def length(k):
+        o = obs.get(k, [])
+        if k in live:
+            d, src = statistics.median(live[k]), "Live365"
+        elif k in itunes:
+            d, src = itunes[k], "iTunes"
+        elif len(o) >= 3:
+            return statistics.median(o), "eigene Läufe"
+        elif len(o) == 2:
+            return min(o), "eigene Läufe"
+        else:
+            return None, ""
+        if len(o) >= 3 and statistics.median(o) < d - 60:
+            return statistics.median(o), "eigene Läufe"
+        return d, src
+    reals = [(t, p) for t, p in seq if real(p)]
+    out = []
+    for (t0, a), (t1, b) in zip(reals, reals[1:]):
+        d, src = length(key(a["artist"], a["title"]))
+        if d is None:
+            continue
+        silent = (t1 - t0).total_seconds() - d
+        if silent >= DEAD_MIN * 60:
+            out.append({"from": t0 + timedelta(seconds=d), "to": t1, "secs": silent, "after": a, "next": b, "src": src})
+    return out
+
+
+def dead_html(ev, since):
+    if not ev and not since:
+        return ""
+    e = html.escape
+    now = datetime.now(timezone.utc)
+    last24 = [x for x in ev if x["to"] >= now - timedelta(hours=24)]
+    days = {}
+    for x in ev:
+        d = x["from"].astimezone(DE).strftime("%d.%m.")
+        n, s, m = days.get(d, (0, 0, 0))
+        days[d] = (n + 1, s + x["secs"], max(m, x["secs"]))
+    mins = lambda s: f"{round(s / 60)} Min."
+    drows = "".join(f"<tr><td>{d}</td><td class='n'>{n}</td><td class='n'>{mins(s)}</td><td class='n'>{mins(m)}</td></tr>"
+                    for d, (n, s, m) in sorted(days.items(), key=lambda kv: kv[0][3:5] + kv[0][:2], reverse=True))
+    rows = []
+    for x in sorted(ev, key=lambda x: x["from"], reverse=True):
+        f = x["from"].astimezone(DE)
+        note = "evtl. Lücke im Mitschnitt" if x["secs"] >= DEAD_GAP_HINT * 60 else ""
+        cls = " class='hot'" if x["secs"] >= 15 * 60 else ""
+        rows.append(f"<tr{cls}><td>{f:%d.%m.}</td><td>{f:%H:%M}</td><td class='n' data-v='{int(x['secs'])}'>{mins(x['secs'])}</td>"
+                    f"<td>{e(x['after']['artist'])} – {e(x['after']['title'])}</td><td>{x['to'].astimezone(DE):%H:%M} "
+                    f"{e(x['next']['artist'])} – {e(x['next']['title'])}</td><td>{e(x['src'])}</td><td>{note}</td></tr>")
+    since_txt = " ".join(de(since)) if since else "–"
+    return (f"<details class='dead'><summary><b>Dead Air</b> – letzte 24 h: <b>{len(last24)}×</b>, zusammen ca. {mins(sum(x['secs'] for x in last24))}"
+            f" · seit Aufzeichnungsbeginn {len(ev)}×</summary>"
+            f"<table class='bal'><tr><th>Tag (MEZ)</th><th class='n'>Pausen</th><th class='n'>Stille gesamt</th><th class='n'>längste</th></tr>{drows}</table>"
+            f"<table class='bal'><tr><th>Datum</th><th>Stille ab ca.</th><th class='n'>Dauer ca.</th><th>nach dem Stück</th><th>weiter mit</th><th>Liedlänge laut</th><th></th></tr>{''.join(rows)}</table>"
+            f"<p class='hint'>Erkannt wird Stille ab ca. {DEAD_MIN} Minuten: Abstand bis zum nächsten Start minus Länge des Stücks. "
+            f"Die Länge kommt von Live365, sonst aus der iTunes-Suche, sonst aus seinen eigenen früheren Läufen; spielt er nachweislich eine kürzere Fassung, gilt die. "
+            f"Kürzere Pausen und Pausen nach Stücken ohne bekannte Länge fehlen. Ab {DEAD_GAP_HINT} Min. kann auch unser Mitschnitt eine Lücke haben. "
+            f"Dunkelorange = 15 Min. oder länger. Mitschnitt seit {since_txt}.</p></details>")
+
+
 def de(t):
     if not t:
         return "", ""
@@ -250,7 +374,7 @@ def dur(td):
     return f"{d} T {h} h"
 
 
-def page(rows, full24=False, since=None, bal=None):
+def page(rows, full24=False, since=None, bal=None, dead=""):
     rows.sort(key=lambda r: r["last"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     newest = rows[0]["last"] if rows else None
     since_txt = " ".join(de(since)) if since else "–"
@@ -302,12 +426,13 @@ table.gone tr[data-g='c'] td:first-child::after{{content:" ●";color:#b42318}}
 td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);background:#1a7f37;color:#fff;padding:.4rem .8rem;border-radius:.4rem;display:none}}
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
-details{{margin:.2rem 0 .8rem}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
+details{{margin:.2rem 0 .8rem}} details.dead table td{{white-space:normal}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
 <p class="meta">Neuester Eintrag: <b>{stand} {tz}</b> · erzeugt {now} ·
 {len(rows)} Titel · in den letzten 24 h: {played24} Titel, {plays24} Läufe, davon {twice} Titel mehrfach · neu hinzugefügt: {n_new}</p>
 {bal_html(bal)}
+{dead}
 <div class="bar"><input type="search" id="q" placeholder="Künstler oder Titel suchen …">
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
@@ -364,7 +489,12 @@ def main():
         print("Keine Grok-Daten – Seite nicht erzeugt.")
         return
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "grok.html").write_text(page(rows, full24, since, balance()), encoding="utf-8")
+    try:
+        dead = dead_html(dead_air(plays, itunes_lengths(plays)), since)
+    except Exception as e:                                  # Dead Air darf die Seite nie verhindern
+        print("Dead Air nicht berechnet:", e)
+        dead = ""
+    (OUT / "grok.html").write_text(page(rows, full24, since, balance(), dead), encoding="utf-8")
     print(f"grok.html: {len(rows)} Titel")
 
 
