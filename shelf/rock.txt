@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:30am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 12:45am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -49,7 +49,6 @@ Kenny Loggins – This Is It | last aired Oct 26 | 38x
 Toto – Georgy Porgy (album version) | last aired Oct 26 | 49x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
 Aerosmith – Dream On | last aired Oct 26 | 10x
-Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Oct 27 | 22x
 Sheryl Crow – The First Cut Is The Deepest | last aired Oct 27 | 14x
 Journey – Don't Stop Believin' (Album Version) | last aired Oct 27 | 24x
 Yes – Mood for a Day (2008 Remaster) | last aired Oct 27 | 18x
@@ -100,5 +99,6 @@ U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 3
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 The Doobie Brothers – What a Fool Believes | last aired Oct 31 | 83x
 Underscores – Do It | last aired Nov 1 | 7x
+Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 1 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
