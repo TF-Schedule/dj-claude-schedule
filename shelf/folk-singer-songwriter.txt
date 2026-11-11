@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:00pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -54,7 +54,6 @@ The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 5 | 19x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 5 | 12x
-Go_A – SHUM | last aired Nov 5 | 17x
 Pornophonique – Sad Robot | last aired Nov 5 | 16x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 5 | 4x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 5 | 275x
@@ -100,5 +99,6 @@ Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 8 | 121x
 Bon Iver – Skinny Love | last aired Nov 8 | 370x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
+Carole King – So Far Away | last aired Nov 8 | 42x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
