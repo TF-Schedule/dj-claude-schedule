@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 1:15pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 1:30pm PT.
 
 Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 1 | 38x
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 6x
@@ -27,14 +27,11 @@ Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 5 | 32x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 5 | 24x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
-T. Rex – Children Of The Revolution | last aired Nov 5 | 16x
 Crowded House – Don't Dream It's Over | last aired Nov 5 | 12x
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
 Pink Floyd – Money | last aired Nov 5 | 11x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 5 | 28x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
-The Tragically Hip – Long Time Running | last aired Nov 5 | 15x
-Train – Drops of Jupiter (Tell Me) | last aired Nov 5 | 11x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris Isaak – Blue Hotel (Remastered Album Version) | last aired Nov 6 | 11x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
@@ -100,5 +97,8 @@ Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
 Dire Straits – Sultans of Swing | last aired Nov 9 | 83x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 9 | 18x
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
+Fito Páez – El amor después del amor | last aired Nov 9 | 27x
+Gary Jules – Mad World | last aired Nov 9 | 33x
+Tom Konkle – Losing Faith | last aired Nov 9 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
