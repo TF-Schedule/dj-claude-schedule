@@ -201,6 +201,76 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "
 const fmt = iso => iso ? new Date(iso).toLocaleString("de-DE", { timeZone: "Europe/Berlin", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }) : "";
 const hoursSince = iso => iso ? (Date.now() - new Date(iso).getTime()) / 36e5 : 1e9;
 const split = s => (s || "").split(/\s*[,·]\s*/).filter(Boolean);
+// Sendungen bündeln (seit 11.11.2026): Er erfindet fast stündlich neue Namen. Im Filter stehen nur
+// 1. Stammsendungen (an ≥ 3 Tagen gelaufen oder Herzens-/Fixsendung), 2. Neues der letzten 24 h unter eigenem Namen,
+// 3. ältere Einzelsendungen nach Thema (aus dem Namen) oder sonst nach Tageszeit (wann sie lief, deutsche Zeit).
+// Der Originalname bleibt überall sonst stehen (Liste „Gespielt“, Verlauf je Titel).
+const SHOW_KEEP = ["Quiet Hour", "Candlelight Classical", "Café de Paris", "The Reverb Hour", "Open Channel"];
+const SHOW_MIN_DAYS = 3;
+const SHOW_THEMES = [
+  ["Thema: Feiertage", /halloween|spook|haunt|christmas|xmas|holiday/],
+  ["Thema: Crate Dig & Raritäten", /crate|\bdig|deep cuts|liner notes|library|shelf|b-side/],
+  ["Thema: Ruhige Stunden", /quiet|hush|calm|silence/],
+  ["Open Channel", /open channel/],          // Varianten („Sunday Open Channel“) zur Stammsendung
+  ["Thema: Latin & World", /latin|world|global|passport|continental|earth beats|atlas|cities|tour\b|around the world|europe/],
+  ["Thema: Jazz & Swing", /jazz|swing|bebop/],
+  ["Thema: Rock", /rock|guitar|fuzz/],
+  ["Thema: Klassik & Piano", /classic(al|s)?\b|piano|strings|symphon|candle/],
+  ["Thema: Soul & Funk", /soul|funk|groove/],
+  ["Thema: Folk & Geschichten", /folk|porch|singer|acoustic|stor(y|ies)|songs with|life tracks/],
+  ["Thema: Ambient & Experiment", /ambient|orbit|experiment|drone/],
+  ["Thema: Elektronik & Trip-Hop", /electronic|trip ?hop|pulse|beats\b/],
+];
+const DAYPARTS = [[0, "Nacht (0–6 Uhr)"], [6, "Früher Morgen (6–9 Uhr)"], [9, "Vormittag (9–12 Uhr)"], [12, "Mittag (12–14 Uhr)"],
+  [14, "Nachmittag (14–18 Uhr)"], [18, "Abend (18–22 Uhr)"], [22, "Später Abend (22–24 Uhr)"]];
+// gleiche Idee, andere Schreibweise: „Midnight Signals“ = „Midnight Signal“, „Small Hours IV“ = „Small Hours“, „Chilling“ = „Chill“
+const showBase = n => n.toLowerCase().replace(/&amp;/g, "&").replace(/^the\s+/, "")
+  .replace(/[,:]?\s+(vol(ume)?\.?\s*)?([ivx]+|\d+|one|two|three|four|five)$/i, "").replace(/[,:]?\s+volume\s+\w+$/, "")
+  .split(/[^a-z0-9&]+/).filter(Boolean).map(w => w.length > 4 ? w.replace(/(ing|s)$/, "") : w).join(" ");
+let showGroupOf = new Map();
+function buildShowGroups() {
+  const info = new Map();                                    // Grundname → Tage, letzte Zeit, Stunden, Namenszähler
+  for (const p of plays) {
+    if (!p.show) continue;
+    const b = showBase(p.show), d = new Date(p.start_utc);
+    if (!info.has(b)) info.set(b, { days: new Set(), last: 0, hours: new Map(), names: new Map() });
+    const i = info.get(b);
+    i.days.add(p.start_utc.slice(0, 10)); i.last = Math.max(i.last, d.getTime());
+    const h = (parseInt(new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Berlin", hour: "2-digit", hourCycle: "h23" }).format(d), 10) || 0) % 24;
+    i.hours.set(h, (i.hours.get(h) || 0) + 1); i.names.set(p.show, (i.names.get(p.show) || 0) + 1);
+  }
+  const keep = new Set(SHOW_KEEP.map(showBase));
+  showGroupOf = new Map();
+  const names = new Set([...plays.map(p => p.show), ...tracks.flatMap(t => split(t.shows))].filter(Boolean));
+  for (const n of names) {
+    const b = showBase(n), i = info.get(b);
+    let g;
+    if (i && (keep.has(b) || i.days.size >= SHOW_MIN_DAYS)) g = [...i.names.entries()].sort((x, y) => y[1] - x[1])[0][0];   // häufigste Schreibweise
+    else if (keep.has(b)) g = n;
+    else if (i && Date.now() - i.last < 24 * 36e5) g = "Neu: " + n;
+    else {
+      const th = SHOW_THEMES.find(([, re]) => re.test(n.toLowerCase()));
+      if (th) g = th[0];
+      else if (i) { const h = [...i.hours.entries()].sort((x, y) => y[1] - x[1])[0][0]; g = "Tageszeit: " + DAYPARTS.filter(([s]) => s <= h).pop()[1]; }
+      else g = "Sonstige (ohne Zeitangabe)";
+    }
+    showGroupOf.set(n, g.replace(/&amp;/g, "&"));
+  }
+}
+const groupOfShow = n => showGroupOf.get(n) || n;
+function showOptions(id, groups) {
+  const s = document.getElementById(id), cur = s.value;
+  const kind = g => g.startsWith("Neu: ") ? 1 : g.startsWith("Thema: ") ? 2 : g.startsWith("Tageszeit: ") ? 3 : g.startsWith("Sonstige") ? 4 : 0;
+  const lab = ["Stammsendungen", "Neu (letzte 24 h)", "Themen", "Tageszeiten (Einzelsendungen)", "Sonstige"];
+  const order = g => DAYPARTS.findIndex(([, l]) => g.endsWith(l));
+  let html = '<option value="">alle</option>';
+  for (let k = 0; k < 5; k++) {
+    const gs = groups.filter(g => kind(g) === k).sort((a, b) => k === 3 ? order(a) - order(b) : a.localeCompare(b, "de"));
+    if (gs.length) html += `<optgroup label="${lab[k]}">` + gs.map(g => `<option value="${esc(g)}">${esc(g.replace(/^(Neu|Thema|Tageszeit): /, ""))}</option>`).join("") + "</optgroup>";
+  }
+  s.innerHTML = html; s.value = cur;
+}
+
 function freeHours() {
   if (fFree.value === "custom") return +fFreeCustom.value || 0;
   return +fFree.value || 0;
@@ -304,11 +374,12 @@ function fillSelects() {
   const uniq = arr => [...new Set(arr.filter(Boolean))].sort((a, b) => a.localeCompare(b, "de"));
   const opts = (id, vals) => { const s = document.getElementById(id), cur = s.value;
     s.innerHTML = '<option value="">alle</option>' + vals.map(v => `<option>${esc(v)}</option>`).join(""); s.value = cur; };
-  const shows = uniq(tracks.flatMap(t => split(t.shows)));
+  buildShowGroups();
+  const shows = uniq(tracks.flatMap(t => split(t.shows)).map(groupOfShow));
   const present = new Set(rows.map(mainOf));
   opts("fGenre", MAIN.filter(g => present.has(g)));
   opts("fLand", uniq(rows.flatMap(t => split(countryOf(t).replace(/\//g, ",")).map(x => x.replace(/\s*\(.*\)$/, "")))));
-  opts("fShow", shows); opts("fShow2", uniq(plays.map(p => p.show)));
+  showOptions("fShow", shows); showOptions("fShow2", uniq(plays.map(p => p.show).filter(Boolean).map(groupOfShow)));
   const tags = uniq(rows.flatMap(t => tagsOf(t)));
   opts("fList", tags);
   showNames = tags;                                          // Auswahl im Bearbeiten-Fenster
@@ -321,7 +392,7 @@ function filtered() {
     const n = noteFor(t);
     if (g && mainOf(t) !== g) return false;
     if (la && !split(countryOf(t).replace(/\//g, ",")).map(x => x.replace(/\s*\(.*\)$/, "")).includes(la)) return false;
-    if (sh && !split(t.shows).includes(sh)) return false;
+    if (sh && !split(t.shows).some(x => groupOfShow(x) === sh)) return false;
     if (li && !tagsOf(t).includes(li)) return false;
     if (st === "played" && t.unplayed) return false;
     if (st === "new" && !t.unplayed) return false;
@@ -399,7 +470,7 @@ document.addEventListener("click", e => {
 
 function renderPlays() {
   const q = document.getElementById("q2").value.toLowerCase().trim(), sh = fShow2.value;
-  const rows = plays.filter(p => (!sh || p.show === sh) && (!q || [p.artist, p.title, p.show].join(" ").toLowerCase().includes(q)));
+  const rows = plays.filter(p => (!sh || groupOfShow(p.show) === sh) && (!q || [p.artist, p.title, p.show].join(" ").toLowerCase().includes(q)));
   document.getElementById("count2").textContent = `${rows.length} Plays`;
   document.getElementById("tbody2").innerHTML = rows.slice(0, 2000).map(p =>
     `<tr><td><div class="tt">${cover(artMap.get(key(p.artist, p.title)))}<div><div class="t">${esc(p.title)}</div><div class="a">${esc(p.artist)}</div></div></div></td>
