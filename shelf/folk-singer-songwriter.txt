@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 7:00am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 7:15am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -28,7 +28,6 @@ Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired
 Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
 The Cure – Lovesong (2010 Remaster) | last aired Oct 30 | 13x
 The Civil Wars – Poison & Wine | last aired Oct 31 | 45x
-Josh Rouse – 1972 | last aired Oct 31 | 24x
 Ed Sheeran – Perfect | last aired Oct 31 | 9x
 City – Am Fenster | last aired Oct 31 | 5x
 Tori Amos – Rattlesnakes | last aired Oct 31 | 9x
@@ -90,7 +89,6 @@ The Weepies – Gotta Have You | last aired Nov 8 | 39x
 Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
 Bon Iver – Skinny Love | last aired Nov 8 | 370x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
-Noah Kahan – Stick Season | last aired Nov 8 | 22x
 Phoebe Bridgers – Smoke Signals | last aired Nov 8 | 59x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 8 | 43x
 Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
@@ -100,5 +98,7 @@ Judy Collins – Bread and Roses | last aired Nov 8 | 26x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 8 | 76x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 9 | 6x
 Lord Huron – Life Is Strange | last aired Nov 9 | 50x
+Fleet Foxes – Mykonos | last aired Nov 9 | 117x
+Jack Johnson – Better Together | last aired Nov 9 | 148x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
