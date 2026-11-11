@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -69,7 +69,6 @@ Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
 Don McLean – Vincent | last aired Nov 6 | 18x
 Hem – Half Acre (Remastered 2025) | last aired Nov 6 | 47x
 Gigi Perez – Sailor Song | last aired Nov 6 | 237x
-Father John Misty – Just Dumb Enough to Try | last aired Nov 6 | 10x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 6 | 6x
 Amália Rodrigues – Barco negro | last aired Nov 6 | 36x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
@@ -89,7 +88,6 @@ Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 8 | 19
 Ed Maverick – lagunas | last aired Nov 8 | 6x
 The Weepies – Gotta Have You | last aired Nov 8 | 39x
 Grand Corps Malade – Mais je t'aime | last aired Nov 8 | 8x
-Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 8 | 121x
 Bon Iver – Skinny Love | last aired Nov 8 | 370x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
 Carole King – So Far Away | last aired Nov 8 | 42x
@@ -100,5 +98,7 @@ Elliott Smith – Angeles | last aired Nov 8 | 27x
 Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
 Iron & Wine – Naked as We Came | last aired Nov 8 | 134x
 Sufjan Stevens – Mystery of Love | last aired Nov 8 | 104x
+Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 8 | 8x
+Judy Collins – Bread and Roses | last aired Nov 8 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
