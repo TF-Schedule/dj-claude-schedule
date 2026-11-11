@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 1:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:00am PT.
 
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -32,7 +32,6 @@ ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Kate Bush – Under The Ivy | last aired Nov 7 | 30x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
-Sigur Rós – Hoppípolla | last aired Nov 7 | 86x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
@@ -100,5 +99,6 @@ No Vacation – Waltzing Back | last aired Nov 10 | 21x
 Love and Rockets – Saudade | last aired Nov 10 | 22x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
+Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 10 | 136x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
