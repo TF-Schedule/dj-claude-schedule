@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 12:15am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 12:30am PT.
 
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 1 | 18x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
@@ -45,7 +45,6 @@ The Tragically Hip – Long Time Running | last aired Nov 5 | 15x
 Train – Drops of Jupiter (Tell Me) | last aired Nov 5 | 11x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris Isaak – Blue Hotel (Remastered Album Version) | last aired Nov 6 | 11x
-Christopher Cross – Sailing | last aired Nov 6 | 55x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 Sheryl Crow – All I Wanna Do | last aired Nov 6 | 21x
@@ -100,5 +99,6 @@ Grateful Dead – Eyes of the World | last aired Nov 8 | 29x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 8 | 2x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
+King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
