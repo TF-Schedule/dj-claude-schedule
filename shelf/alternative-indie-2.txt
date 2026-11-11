@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 7:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 8:00am PT.
 
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
 Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 5 | 18x
@@ -26,7 +26,6 @@ David Bowie – Dollar Days | last aired Nov 6 | 20x
 Foo Fighters – Everlong | last aired Nov 6 | 33x
 MGMT – Little Dark Age | last aired Nov 6 | 3x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
-Kate Bush – Under The Ivy | last aired Nov 7 | 30x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
@@ -100,5 +99,6 @@ Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 Michael Hutchence – Slide Away | last aired Nov 10 | 18x
 This Mortal Coil – Song To The Siren | last aired Nov 10 | 33x
+Green Day – American Idiot (Album Version) | last aired Nov 10 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

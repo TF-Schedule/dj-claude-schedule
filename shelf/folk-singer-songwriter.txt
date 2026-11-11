@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 7:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 8:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -74,11 +74,9 @@ Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
 Robert Plant – Please Read The Letter | last aired Nov 7 | 1x
 Simon & Garfunkel – The Boxer | last aired Nov 7 | 99x
-Vaya Con Dios – Nah Neh Nah | last aired Nov 7 | 14x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 7 | 13x
 Peter Broderick – A Little Lost | last aired Nov 7 | 14x
-Elliott Smith – Independence Day | last aired Nov 7 | 18x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
 Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
@@ -100,5 +98,7 @@ Lord Huron – Life Is Strange | last aired Nov 9 | 50x
 Jack Johnson – Better Together | last aired Nov 9 | 148x
 Dalida – Paroles paroles (Album Version) | last aired Nov 9 | 17x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
+Matt Nathanson – Faster | last aired Nov 9 | 6x
+Carole King – It's Too Late | last aired Nov 9 | 87x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
