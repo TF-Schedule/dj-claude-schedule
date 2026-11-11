@@ -303,7 +303,33 @@ def dead_air(plays, itunes):
         silent = (t1 - t0).total_seconds() - d
         if silent >= DEAD_MIN * 60:
             out.append({"from": t0 + timedelta(seconds=d), "to": t1, "secs": silent, "after": a, "next": b, "src": src})
-    return out
+    # jetzt: läuft der letzte Titel noch, oder ist es seit seinem Ende still?
+    cur = None
+    if reals:
+        t0, a = reals[-1]
+        d, src = length(key(a["artist"], a["title"]))
+        cur = {"start": t0, "play": a, "end": t0 + timedelta(seconds=d) if d is not None else None}
+    return out, cur
+
+
+def now_html(cur):
+    """Zeile oben: läuft gerade etwas laut Mitschnitt, oder ist es still? Hilft bei der Frage „Browser oder DJ?“."""
+    if not cur:
+        return ""
+    e = html.escape
+    now = datetime.now(timezone.utc)
+    hm = lambda t: t.astimezone(DE).strftime("%H:%M")
+    what = f"{e(cur['play']['artist'])} – {e(cur['play']['title'])}"
+    stand = f"<span class='hint'>(Stand {hm(now)}, wird alle 15 Min. erneuert)</span>"
+    if cur["end"] is None:
+        if now - cur["start"] > timedelta(minutes=12):
+            return f"<p class='now quiet'>■ Seit {hm(cur['start'])} kein neuer Titel (zuletzt {what}, Länge unbekannt) – vermutlich Stille {stand}</p>"
+        return f"<p class='now'>▶ Läuft: {what} (seit {hm(cur['start'])}) {stand}</p>"
+    if now - cur["end"] >= timedelta(minutes=2):
+        mins = int((now - cur["end"]).total_seconds() // 60)
+        return (f"<p class='now quiet'>■ <b>Stille</b> seit ca. {hm(cur['end'])} (gut {mins} Min.) – der DJ pausiert, nicht dein Browser. "
+                f"Zuletzt: {what} {stand}</p>")
+    return f"<p class='now'>▶ Läuft: {what} (seit {hm(cur['start'])}, bis ca. {hm(cur['end'])}) {stand}</p>"
 
 
 def dead_html(ev, since):
@@ -426,6 +452,7 @@ table.gone tr[data-g='c'] td:first-child::after{{content:" ●";color:#b42318}}
 td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);background:#1a7f37;color:#fff;padding:.4rem .8rem;border-radius:.4rem;display:none}}
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
+p.now{{margin:.3rem 0;padding:.35rem .6rem;background:#eef6ee;border-left:4px solid #1a7f37}} p.now.quiet{{background:#fff1e6;border-left-color:#b42318}}
 details{{margin:.2rem 0 .8rem}} details.dead table td{{white-space:normal}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
@@ -490,7 +517,8 @@ def main():
         return
     OUT.mkdir(parents=True, exist_ok=True)
     try:
-        dead = dead_html(dead_air(plays, itunes_lengths(plays)), since)
+        ev, cur = dead_air(plays, itunes_lengths(plays))
+        dead = now_html(cur) + dead_html(ev, since)
     except Exception as e:                                  # Dead Air darf die Seite nie verhindern
         print("Dead Air nicht berechnet:", e)
         dead = ""
