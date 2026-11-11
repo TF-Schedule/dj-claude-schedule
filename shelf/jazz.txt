@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 1:00pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 1:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -78,7 +78,6 @@ Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Al Di Meola – Red Moon | last aired Nov 9 | 18x
 Erykah Badu – On & On | last aired Nov 9 | 123x
-Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 9 | 103x
 Masego – Tadow | last aired Nov 9 | 72x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 9 | 13x
 Diana Krall – How Deep Is The Ocean | last aired Nov 9 | 11x
@@ -100,5 +99,6 @@ Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 10 | 5x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Melody Gardot – Moon River | last aired Nov 10 | 10x
+Melody Gardot – This Foolish Heart Could Love You | last aired Nov 10 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
