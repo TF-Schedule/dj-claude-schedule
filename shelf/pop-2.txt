@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:00pm PT.
 
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
@@ -66,7 +66,6 @@ Takako Mamiya – LOVE TRIP | last aired Nov 9 | 15x
 JAWNY – true | last aired Nov 9 | 5x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
-Leon Larregui – Locos | last aired Nov 9 | 19x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
@@ -100,5 +99,6 @@ Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
+Mazzy Star – Fade Into You | last aired Nov 10 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
