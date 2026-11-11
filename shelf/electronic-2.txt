@@ -1,6 +1,5 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:15am PT.
 
-Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 7 | 43x
 Eluvium – Surrounded by Illusion | last aired Nov 7 | 33x
 Mort Garson – Plantasia | last aired Nov 7 | 48x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Christian Löffler – Lid | last aired Nov 11 | 41x
 James Blake – Retrograde | last aired Nov 11 | 71x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 11 | 119x
 Massive Attack – Protection | last aired Nov 11 | 41x
+Bonobo – Kiara | last aired Nov 11 | 108x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
