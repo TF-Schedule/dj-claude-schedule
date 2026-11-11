@@ -1,6 +1,5 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 1:30am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 1:45am PT.
 
-Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
 The Strokes – Lonely in the Future | last aired Nov 1 | 17x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109x
@@ -100,5 +99,6 @@ Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
 Kim Carnes – More Love | last aired Nov 9 | 18x
+Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
