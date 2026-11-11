@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:15pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:30pm PT.
 
-Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
@@ -100,5 +99,6 @@ Miley Cyrus – Flowers | last aired Nov 10 | 11x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
+Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
