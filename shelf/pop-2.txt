@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:30am PT.
 
 The La's – There She Goes | last aired Nov 2 | 14x
 Cuco – One and Only | last aired Nov 3 | 24x
@@ -38,7 +38,6 @@ ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 7 | 27x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
-Vangelis – La petite fille de la mer | last aired Nov 7 | 32x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Fugees – Killing Me Softly | last aired Nov 7 | 18x
 Dean Martin – Everybody Loves Somebody | last aired Nov 8 | 29x
@@ -100,5 +99,6 @@ Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Harry Styles – Watermelon Sugar | last aired Nov 10 | 16x
 Tate McRae – Miss possessive | last aired Nov 10 | 2x
 Cyndi Lauper – All Through the Night | last aired Nov 10 | 62x
+TV Girl – Loving Machine | last aired Nov 10 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

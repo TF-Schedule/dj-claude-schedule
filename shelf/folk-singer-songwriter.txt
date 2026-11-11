@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:15am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -73,7 +73,6 @@ Father John Misty – Just Dumb Enough to Try | last aired Nov 6 | 10x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 6 | 6x
 Amália Rodrigues – Barco negro | last aired Nov 6 | 36x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
-William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 7 | 22x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
 Robert Plant – Please Read The Letter | last aired Nov 7 | 1x
@@ -100,5 +99,6 @@ Leonard Cohen – Famous Blue Raincoat | last aired Nov 8 | 43x
 Elliott Smith – Angeles | last aired Nov 8 | 27x
 Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
 Iron & Wine – Naked as We Came | last aired Nov 8 | 134x
+Sufjan Stevens – Mystery of Love | last aired Nov 8 | 104x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
