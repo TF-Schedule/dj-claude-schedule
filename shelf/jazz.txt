@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 2:00pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 2:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ John Coltrane – My Favorite Things | last aired Nov 9 | 54x
 Chet Baker – Almost Blue | last aired Nov 9 | 55x
 Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
-Milt Jackson – Bag's New Groove | last aired Nov 9 | 18x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
 Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
@@ -100,5 +99,6 @@ Melody Gardot – This Foolish Heart Could Love You | last aired Nov 10 | 7x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
 Paolo Conte – Via Con Me | last aired Nov 10 | 24x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 10 | 71x
+Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 10 | 98x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

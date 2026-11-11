@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 2:00pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 2:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -53,7 +53,6 @@ Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - Sep
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 5 | 12x
 Pornophonique – Sad Robot | last aired Nov 5 | 16x
-Tracy Chapman – Fast Car (LP Version) | last aired Nov 5 | 275x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
@@ -100,5 +99,6 @@ Carole King – It's Too Late | last aired Nov 9 | 87x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 9 | 17x
 Damien Rice – The Blower's Daughter | last aired Nov 9 | 90x
 Dire Straits – Brothers in Arms | last aired Nov 9 | 24x
+Hem – Betting on Trains (Remastered 2025) | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
