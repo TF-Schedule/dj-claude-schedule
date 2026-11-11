@@ -1,7 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 9:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:00am PT.
 
-Peter Fox – Haus am See | last aired Nov 3 | 18x
-Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 Tears For Fears – Mad World | last aired Nov 3 | 31x
@@ -100,5 +98,7 @@ Sabrina Carpenter – Please Please Please | last aired Nov 10 | 62x
 Natalie Imbruglia – Torn | last aired Nov 10 | 18x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
 MIKA – Grace Kelly | last aired Nov 10 | 25x
+Leon Larregui – Brillas | last aired Nov 10 | 9x
+Lawrence – 23 | last aired Nov 10 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

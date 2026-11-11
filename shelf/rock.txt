@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:00am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -23,7 +23,6 @@ The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Genesis – Many Too Many (2007 Remaster) | last aired Oct 21 | 1x
 Dragonforce – Through The Fire And Flames | last aired Oct 22 | 7x
 U2 – Beautiful Day (Remastered 2020) | last aired Oct 23 | 7x
-Queen – We Will Rock You | last aired Oct 23 | 7x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Oct 23 | 23x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
 From Fall to Spring – DRAW THE LINE | last aired Oct 23 | 1x
@@ -100,5 +99,6 @@ Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired No
 Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
 The Strokes – Lonely in the Future | last aired Nov 1 | 17x
+U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
