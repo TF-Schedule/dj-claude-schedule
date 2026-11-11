@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:45am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:00am PT.
 
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
 The Strokes – Lonely in the Future | last aired Nov 1 | 17x
@@ -68,7 +68,6 @@ Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
-Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 7 | 17x
 Amy Macdonald – This Is The Life | last aired Nov 7 | 20x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 7 | 7x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
@@ -100,5 +99,6 @@ King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
 Kim Carnes – More Love | last aired Nov 9 | 18x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
+Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
