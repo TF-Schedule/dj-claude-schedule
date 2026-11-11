@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:30pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 8:45pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -26,7 +26,6 @@ The Crystal Method – Cherry Twist | last aired Oct 24 | 3x
 The Orb – Blue Room (Live) | last aired Oct 24 | 17x
 Unkle – Rabbit in Your Headlights | last aired Oct 24 | 22x
 Smith & Mighty – Same | last aired Oct 24 | 17x
-Armin van Buuren – Set Me Free | last aired Oct 24 | 5x
 CHVRCHES – Clearest Blue | last aired Oct 24 | 19x
 Herbert Waltl – Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired Oct 24 | 13x
 Obie Fernandez – Naked | last aired Oct 25 | 10x
@@ -100,5 +99,6 @@ Tycho – Dive | last aired Nov 6 | 103x
 Hooverphonic – 2 Wicky | last aired Nov 6 | 33x
 Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
 Tycho – Awake | last aired Nov 6 | 107x
+Home – We're Finally Landing | last aired Nov 7 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

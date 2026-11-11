@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:30pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:45pm PT.
 
-Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
@@ -100,5 +99,6 @@ Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired N
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sabrina Carpenter – Espresso | last aired Nov 9 | 117x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
+Neil Diamond – Sweet Caroline | last aired Nov 9 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
