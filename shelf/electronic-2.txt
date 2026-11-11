@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 11:41pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 11:45pm PT.
 
 Tycho – A Walk | last aired Nov 7 | 108x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
@@ -45,7 +45,6 @@ Sampha – (No One Knows Me) Like the Piano | last aired Nov 9 | 64x
 Boards of Canada – Olson | last aired Nov 9 | 60x
 Nightmares On Wax – Les Nuits | last aired Nov 9 | 64x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
-Erik Wøllo – Computerlove | last aired Nov 9 | 14x
 Daft Punk – One More Time | last aired Nov 9 | 150x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 9 | 22x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
@@ -100,5 +99,6 @@ Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 10 | 13x
 Floating Points – Last Bloom | last aired Nov 10 | 97x
 Charli XCX – 360 | last aired Nov 10 | 146x
 Moloko – Being Is Bewildering | last aired Nov 10 | 8x
+Moby – Natural Blues | last aired Nov 10 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
