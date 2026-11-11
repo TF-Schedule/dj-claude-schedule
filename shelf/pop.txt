@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:00am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -48,7 +48,6 @@ Miley Cyrus – Party In The U.S.A. | last aired Oct 24 | 8x
 Khalid – momentary lovers | last aired Oct 24 | 20x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Oct 25 | 72x
-Tate McRae – TIT FOR TAT | last aired Oct 25 | 6x
 Post Malone – Chemical | last aired Oct 25 | 16x
 Os Mutantes – A Minha Menina | last aired Oct 25 | 43x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
@@ -100,5 +99,6 @@ Peter Fox – Haus am See | last aired Nov 3 | 18x
 Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Pebe Sebert – City's Burning | last aired Nov 3 | 21x
+Tears For Fears – Mad World | last aired Nov 3 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -38,7 +38,6 @@ Joker Out – Novi Val | last aired Oct 26 | 21x
 Avril Lavigne – Sk8er Boi | last aired Oct 26 | 13x
 Muse – Feeling Good | last aired Oct 26 | 22x
 David Byrne – Everybody's Coming to My House (Live) | last aired Oct 26 | 5x
-M83 – Midnight City | last aired Oct 26 | 112x
 Ultravox – Vienna (2008 Remaster) | last aired Oct 27 | 28x
 Joywave – In Clover | last aired Oct 27 | 18x
 Arctic Monkeys – No. 1 Party Anthem | last aired Oct 27 | 21x
@@ -100,5 +99,6 @@ INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
 Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 5 | 18x
 Foster The People – Sit Next to Me | last aired Nov 5 | 15x
+Soundgarden – Black Hole Sun | last aired Nov 5 | 84x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
