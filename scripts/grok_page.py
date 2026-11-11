@@ -233,7 +233,7 @@ def itunes_lengths(plays, limit=40):
     """Liedlängen per iTunes-Suche nachschlagen (nur neue Titel, höchstens `limit` pro Lauf) → Cache grok_durations.csv."""
     cache = {c["key"]: c for c in read_csv(DUR, DUR_COLS)}
     todo = []
-    for p in plays:
+    for p in reversed(plays):                               # neueste zuerst (wichtig für „läuft gerade / Stille“)
         if not p["artist"].strip() or p["title"].strip().lower() == "unknown":
             continue
         k = key(p["artist"], p["title"])
