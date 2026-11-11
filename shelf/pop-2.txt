@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:00am PT.
 
-Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
 Cuco – One and Only | last aired Nov 3 | 24x
 Peter Fox – Haus am See | last aired Nov 3 | 18x
@@ -100,5 +99,6 @@ Jan Hammer – Crockett's Theme | last aired Nov 10 | 26x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Harry Styles – Watermelon Sugar | last aired Nov 10 | 16x
+Tate McRae – Miss possessive | last aired Nov 10 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
