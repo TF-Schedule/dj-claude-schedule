@@ -22,6 +22,7 @@ jobs:
           links = sorted(set(re.findall(r'["\'](/radio/[^"\'?#\s]+)', main)))
           apis = sorted(set(re.findall(r'["\'](https?://[^"\']*(?:api|tweet|twitter|x\.com)[^"\']*)["\']', main)))
           open("links.txt","w").write("\n".join(links+["---"]+apis))
+          open("radio.html","w").write(main)
           pages = {"radio": main}
           for l in links[:8]:
               pages[l.strip("/").replace("/","_")] = get("https://andonlabs.com"+l)
