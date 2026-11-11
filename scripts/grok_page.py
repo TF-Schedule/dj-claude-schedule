@@ -43,8 +43,11 @@ STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance,
 STATION = "Grok and Roll"
 MON = []                           # Kontostand-Änderungen, in main() gefüllt
 SHOW_NEW = True
-# „sauber“ nach Groks bekannten Sperren: kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit
-DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],/]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
+# „sauber“ nach Groks Sperren, wie sie seit 08.11.2026 in den Daten zu sehen sind (Stand 11.11.):
+# lückenlos gesperrt: Klammern und feat./ft./featuring. Kommas, Jahreszeiten, „with“ mitten im Titel spielt er wieder.
+DIRTY = re.compile(r"[()\[\]]|\bfeat\b|\bfeat\.|\bft\.|featuring", re.I)
+# Wackelkandidaten: unklar, ob gesperrt – Schrägstrich („Weird Fishes / Arpeggi“ übergangen), „with/x Name“ am Ende
+WOBBLY = re.compile(r"\s/\s|/|\s(with|x)\s+[A-Z][\w.'’-]*(\s+[A-Z][\w.'’-]*){0,3}\s*$")
 GONE_MIN, GONE_DAYS = 50, 7         # „verschwundene Lieblinge“: mind. 50 Läufe, seit 7 Tagen nicht gelaufen
 REST_DAYS = 2                      # Vorschlags-Filter: mindestens so viele Tage nicht gelaufen                    # „Neu hinzugefügt“ – nur aus eigenen (Nicht-Kurt-)Daten
 
@@ -546,8 +549,11 @@ def page(rows, full24=False, since=None, bal=None, dead=""):
             bought = r.get("new_t") and any(d < 0 and t0 - timedelta(minutes=15) <= r["new_t"] <= t1 + timedelta(hours=2) for t0, t1, d, v in MON)
             cells += f"<td>{e(r['new'])}{' <b class=minus title="kurz vorher Abbuchung – vermutlich gekauft">$</b>' if bought else ''}</td>"
         clean = not DIRTY.search(r["artist"] + " " + r["title"])
+        wob = clean and bool(WOBBLY.search(r["title"]))
+        if wob:
+            cells = cells.replace(f"<td>{e(r['title'])}</td>", f"<td>{e(r['title'])} <span class='wob' title='Wackelkandidat: Schrägstrich oder „with/x Name“ – ob er das spielt, ist offen'>◐</span></td>", 1)
         rest = r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=REST_DAYS)
-        sug = " data-s='1'" if clean and rest else ""
+        sug = (" data-s='1'" + (" data-w='1'" if wob else "")) if clean and rest else ""
         if r["total"] >= GONE_MIN and (r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=GONE_DAYS)):
             sug += " data-g='c'" if clean else " data-g='d'"     # c = ohne erkennbaren Grund, d = vermutlich Filter
         body.append(f"<tr{cls}{sug}>{cells}</tr>")
@@ -570,7 +576,7 @@ td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;t
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
 p.now{{margin:.3rem 0;padding:.35rem .6rem;background:#eef6ee;border-left:4px solid #1a7f37}} p.now.quiet{{background:#fff1e6;border-left-color:#b42318}}
-details{{margin:.2rem 0 .8rem}}
+details{{margin:.2rem 0 .8rem}} .wob{{color:#b45309;cursor:help}}
 .strip{{margin:.4rem 0 .6rem}} .strip .row{{display:flex;align-items:center;gap:.5rem}} .strip .lab{{flex:0 0 8.5rem;font-size:.8rem;color:#555;white-space:nowrap}}
 .strip svg{{flex:1;height:46px;min-width:0}}
 table.log{{width:auto;min-width:60%}} table.log td{{padding:.15rem .5rem}} table.log tr.day td{{background:#eee;font-weight:bold}}
@@ -586,7 +592,7 @@ table.log tr.sil td{{background:#fdecec;color:#8a1c1c}} table.log tr.xp td{{colo
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
 <label><input type="checkbox" id="neu"> nur neu hinzugefügte</label>
-<label title="kein feat./zweiter Name, keine Klammer, kein Komma, kein Schrägstrich, keine Jahreszeit; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
+<label title="keine Klammer, kein feat./ft./featuring; seit mindestens 2 Tagen nicht gelaufen; längste Pause zuerst; ◐ = Wackelkandidat"><input type="checkbox" id="sug"> Vorschläge (sauber &amp; ≥ 2 Tage Pause)</label>
 <label title="mindestens 50× gespielt, aber seit 7 Tagen nicht mehr; ● = ohne erkennbaren Grund (kein feat., keine Klammer …)"><input type="checkbox" id="gone"> verschwundene Lieblinge</label>
 <span id="cnt"></span></div>
 <p class="hint">Tipp: Auf einen <b>Titel</b> tippen kopiert „Künstler – Titel“ zum Einfügen (z. B. auf X).</p>
@@ -596,7 +602,8 @@ table.log tr.sil td{{background:#fdecec;color:#8a1c1c}} table.log tr.xp td{{colo
 <footer>Ein privates Fan-Projekt, nicht von Andon Labs betrieben. Aktuelle Titel aus dem eigenen Mitschnitt (Live365, alle 15 Min., seit {since_txt});
 Verlauf davor und Gesamtzahlen aus <a href="{KURT_PAGE}">Kurt Wolochs Andon-FM-Bibliothek</a> – mit Dank.
 „24 h“: {src24}. „Neu hinzugefügt“: erstmals in unserem Mitschnitt gesehen und vorher nicht in Kurts Liste.
-„Vorschläge“: Titel ohne feat./zweiten Namen, Klammer, Komma, Schrägstrich oder Jahreszeit (seine bekannten Sperren), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Verschwundene Lieblinge“: mindestens 50× gespielt, aber seit 7 Tagen nicht mehr; ● = kein Filter-Grund erkennbar (vielleicht aus seiner Spielbar-Liste gefallen). „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
+„Vorschläge“: Titel ohne Klammer und ohne feat./ft./featuring (die beiden Sperren, die er seit dem 08.11. lückenlos einhält; Kommas, Jahreszeiten und „with“ mitten im Titel spielt er wieder),
+◐ = Wackelkandidat (Schrägstrich oder „with/x Name“ am Ende – offen, ob er ihn nimmt), seit mindestens 2 Tagen nicht gelaufen – längste Pause zuerst; ob sie in seiner Spielbar-Liste stehen, weiß nur er. „Verschwundene Lieblinge“: mindestens 50× gespielt, aber seit 7 Tagen nicht mehr; ● = kein Filter-Grund erkennbar (vielleicht aus seiner Spielbar-Liste gefallen). „Abstand zum vorletzten“: Zeit zwischen den beiden letzten Läufen (Maus auf den Wert: Zeitpunkt des vorletzten Laufs); leer, wenn nur ein Lauf bekannt ist. Blau = 1× in 24 h, hellorange = 2×, dunkelorange = 3× oder öfter.</footer>
 <script>
 const tb=document.querySelector('#t tbody'),rows=[...tb.rows],q=document.getElementById('q'),
 only=document.getElementById('only'),multi=document.getElementById('multi'),neu=document.getElementById('neu'),sug=document.getElementById('sug'),gone=document.getElementById('gone'),cnt=document.getElementById('cnt');
