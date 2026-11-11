@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 8:15am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 8:30am PT.
 
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
 Thom Yorke – 5.17 | last aired Nov 7 | 19x
@@ -32,7 +32,6 @@ Tim Hecker – Black Refraction | last aired Nov 9 | 85x
 Massive Attack – Angel | last aired Nov 9 | 65x
 Portishead – It Could Be Sweet | last aired Nov 9 | 18x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 9 | 23x
-Sampha – (No One Knows Me) Like the Piano | last aired Nov 9 | 64x
 Boards of Canada – Olson | last aired Nov 9 | 60x
 Nightmares On Wax – Les Nuits | last aired Nov 9 | 64x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
@@ -100,5 +99,6 @@ Sigur Rós – Sé Lest | last aired Nov 10 | 63x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 10 | 84x
 Erik Wøllo – Computerlove | last aired Nov 10 | 15x
+Christian Löffler – Lid | last aired Nov 11 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
