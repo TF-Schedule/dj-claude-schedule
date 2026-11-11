@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:01pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 10:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -43,7 +43,6 @@ Khruangbin – Time (You and I) | last aired Nov 3 | 96x
 Zaz – Sous le ciel de Paris | last aired Nov 4 | 4x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
 Zaz – Champs-Elysées | last aired Nov 5 | 1x
-Sun Ra Arkestra – It's After The End Of The World | last aired Nov 5 | 23x
 Burna Boy – Last Last | last aired Nov 5 | 47x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
@@ -100,5 +99,6 @@ Diana Krall – How Deep Is The Ocean | last aired Nov 9 | 11x
 Ella Fitzgerald – Summertime | last aired Nov 9 | 98x
 Elvis Costello – Almost Blue | last aired Nov 9 | 15x
 Grover Washington Jr. – Mister Magic | last aired Nov 9 | 48x
+Floating Points – LesAlpx | last aired Nov 9 | 48x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

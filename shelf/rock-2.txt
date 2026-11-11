@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:01pm PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:15pm PT.
 
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 1 | 18x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 1 | 36x
@@ -85,7 +85,6 @@ Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
-Willy DeVille – Heaven Stood Still | last aired Nov 8 | 11x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 8 | 24x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 8 | 177x
 Van Halen – Jump (2015 Remaster) | last aired Nov 8 | 6x
@@ -100,5 +99,6 @@ John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov
 Grateful Dead – Eyes of the World | last aired Nov 8 | 29x
 Mazzy Star – Halah | last aired Nov 8 | 34x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 8 | 2x
+Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

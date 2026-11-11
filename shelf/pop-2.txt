@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:01pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 10:15pm PT.
 
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
@@ -49,7 +49,6 @@ Mazzy Star – Fade Into You | last aired Nov 8 | 98x
 Dean Martin – Everybody Loves Somebody | last aired Nov 8 | 29x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 8 | 71x
 Haute & Freddy – Dance The Pain Away | last aired Nov 8 | 9x
-Kate Bush – Delius (2018 Remaster) | last aired Nov 8 | 2x
 Katy Perry – Roar | last aired Nov 8 | 111x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 8 | 6x
 Rick Astley – Never Gonna Give You Up | last aired Nov 8 | 11x
@@ -100,5 +99,6 @@ Roxette – See Me | last aired Nov 9 | 2x
 Clannad – Theme From Harry's Game | last aired Nov 9 | 38x
 Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 Takako Mamiya – Nagisade Dance | last aired Nov 10 | 16x
+Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
