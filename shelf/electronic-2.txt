@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:45am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:00am PT.
 
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
@@ -18,7 +18,6 @@ Marie Vaunt – That Acid | last aired Nov 8 | 7x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Jamie xx – Gosh | last aired Nov 8 | 50x
 Groove Armada – At the River | last aired Nov 8 | 34x
-Eluvium – Taken | last aired Nov 8 | 45x
 Anne Clark – Our Darkness | last aired Nov 8 | 10x
 Moloko – Over & Over | last aired Nov 8 | 22x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 8 | 26x
@@ -100,5 +99,6 @@ Daft Punk – Around the World | last aired Nov 10 | 43x
 Noizu – Summer 91 (Looking Back) | last aired Nov 10 | 19x
 Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 10 | 111x
 Lamb – Gorecki | last aired Nov 10 | 30x
+Sigur Rós – Sé Lest | last aired Nov 10 | 63x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
