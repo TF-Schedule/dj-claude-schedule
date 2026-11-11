@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:30pm PT.
 
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 INXS – Don't Change | last aired Nov 4 | 21x
@@ -35,7 +35,6 @@ Kate Bush – Under The Ivy | last aired Nov 7 | 30x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Sigur Rós – Hoppípolla | last aired Nov 7 | 86x
-Sun's Signature – Underwater | last aired Nov 7 | 22x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
@@ -43,7 +42,6 @@ Slowdive – Alison | last aired Nov 8 | 41x
 Hard Life – daydreams | last aired Nov 8 | 21x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 8 | 62x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
-Wild Nothing – Chinatown | last aired Nov 8 | 31x
 Patrick Watson – Sit Down Beside Me | last aired Nov 8 | 12x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 8 | 5x
 Bikini Kill – Rebel Girl | last aired Nov 8 | 14x
@@ -100,5 +98,7 @@ Hammock – Tape Recorder | last aired Nov 9 | 132x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
+Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
+No Vacation – Waltzing Back | last aired Nov 10 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
