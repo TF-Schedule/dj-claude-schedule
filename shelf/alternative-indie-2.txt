@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:15am PT.
 
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -26,7 +26,6 @@ David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
 Foo Fighters – Everlong | last aired Nov 6 | 33x
 MGMT – Little Dark Age | last aired Nov 6 | 3x
-The National – About Today (2021 Remaster) | last aired Nov 6 | 190x
 Phoenix – Lisztomania | last aired Nov 7 | 42x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Kate Bush – Under The Ivy | last aired Nov 7 | 30x
@@ -100,5 +99,6 @@ Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 10 | 136x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
 Coldplay – Yellow | last aired Nov 10 | 20x
+Cocteau Twins – Ivo | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
