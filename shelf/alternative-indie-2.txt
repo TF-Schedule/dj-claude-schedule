@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:45am PT.
 
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -64,7 +64,6 @@ Maria McKee – Life Is Sweet | last aired Nov 9 | 16x
 Martha And The Muffins – Echo Beach | last aired Nov 9 | 13x
 Alvvays – Belinda Says | last aired Nov 9 | 52x
 Sade – By Your Side (Remastered Version) | last aired Nov 9 | 58x
-The Magnetic Fields – The Book of Love | last aired Nov 9 | 12x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 9 | 28x
 The Marías – Cariño | last aired Nov 9 | 16x
 Papooz – You and I | last aired Nov 9 | 26x
@@ -100,5 +99,6 @@ Love and Rockets – Saudade | last aired Nov 10 | 22x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 10 | 136x
+Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
