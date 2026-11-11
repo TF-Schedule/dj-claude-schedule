@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:00pm PT.
 
-Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
 Cuco – One and Only | last aired Nov 3 | 24x
@@ -28,7 +27,6 @@ The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivag
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 6 | 42x
 The Chills – Pink Frost | last aired Nov 6 | 9x
 Shakatak – Night Birds | last aired Nov 6 | 25x
-Miley Cyrus – Flowers | last aired Nov 6 | 10x
 Billy Joel – Vienna (Album Version) | last aired Nov 6 | 35x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
@@ -61,7 +59,6 @@ Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Mariya Takeuchi – Plastic Love | last aired Nov 8 | 27x
 Victor Leksell – Skriker mitt namn | last aired Nov 8 | 10x
-Lady Gaga – Just Dance | last aired Nov 8 | 18x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 Harry Styles – As It Was | last aired Nov 8 | 68x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
@@ -100,5 +97,8 @@ Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sabrina Carpenter – Espresso | last aired Nov 9 | 117x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Neil Diamond – Sweet Caroline | last aired Nov 9 | 9x
+Roxette – See Me | last aired Nov 9 | 2x
+Clannad – Theme From Harry's Game | last aired Nov 9 | 38x
+Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

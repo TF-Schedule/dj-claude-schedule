@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 8:45pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 9:00pm PT.
 
 Holly Herndon – Chorus | last aired Nov 7 | 28x
 Tycho – A Walk | last aired Nov 7 | 108x
@@ -71,7 +71,6 @@ Bruce Kaphan – Clouds | last aired Nov 9 | 54x
 Lemon Jelly – Ramblin' Man | last aired Nov 9 | 42x
 Alex Andre – thanks, my day is ruined | last aired Nov 9 | 6x
 Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 9 | 3x
-Noizu – Summer 91 (Looking Back) | last aired Nov 9 | 18x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 9 | 5x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 9 | 99x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 9 | 101x
@@ -100,5 +99,6 @@ Susumu Yokota – Saku | last aired Nov 10 | 72x
 Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
 Steve Roach – Living the Dream | last aired Nov 10 | 50x
 Caterina Barbieri – Fantas | last aired Nov 10 | 54x
+Peggy Gou – Starry Night | last aired Nov 10 | 167x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
