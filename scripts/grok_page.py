@@ -34,6 +34,8 @@ DUR = DATA / "grok_durations.csv"  # Liedlängen aus der iTunes-Suche (Cache)
 DUR_COLS = ["key", "artist", "title", "itunes_s", "checked_utc"]
 ITUNES = "https://itunes.apple.com/search"
 DEAD_MIN = 4                        # Dead Air: Stille ab so vielen Minuten zählen
+XACT = DATA / "x_activity.csv"     # X-Aktivität aller Stationen (ohne Namen/Text), aus scrape.py
+X_BEFORE = 30                      # Hörer-Posts bis so viele Minuten vor einer Pause zählen
 DEAD_GAP_HINT = 30                  # ab so vielen Minuten: evtl. Lücke im Mitschnitt
 SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt = schon vorher bekannt, eigen = von uns zuerst gesehen
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
@@ -312,7 +314,7 @@ def dead_air(plays, itunes):
     return out, cur
 
 
-def now_html(cur):
+def now_html(cur, xact=()):
     """Zeile oben: läuft gerade etwas laut Mitschnitt, oder ist es still? Hilft bei der Frage „Browser oder DJ?“."""
     if not cur:
         return ""
@@ -321,6 +323,9 @@ def now_html(cur):
     hm = lambda t: t.astimezone(DE).strftime("%H:%M")
     what = f"{e(cur['play']['artist'])} – {e(cur['play']['title'])}"
     stand = f"<span class='hint'>(Stand {hm(now)}, wird alle 15 Min. erneuert)</span>"
+    near = x_near(xact, cur["end"] or cur["start"], now) if xact else ""
+    if near:
+        stand = f"· X: {e(near)} " + stand
     if cur["end"] is None:
         if now - cur["start"] > timedelta(minutes=12):
             return f"<p class='now quiet'>■ Seit {hm(cur['start'])} kein neuer Titel (zuletzt {what}, Länge unbekannt) – vermutlich Stille {stand}</p>"
@@ -332,7 +337,21 @@ def now_html(cur):
     return f"<p class='now'>▶ Läuft: {what} (seit {hm(cur['start'])}, bis ca. {hm(cur['end'])}) {stand}</p>"
 
 
-def dead_html(ev, since):
+def x_grok():
+    rows = [r for r in read_csv(XACT, ["station", "posted_utc", "who", "kind"]) if r["station"] == STATION]
+    return [(utc(r["posted_utc"]), r["who"]) for r in rows if utc(r["posted_utc"])]
+
+
+def x_near(x, a, b):
+    """X-Aktivität um eine Pause: Hörer-Posts ab X_BEFORE Min. vor Beginn, DJ-Posts während der Pause (+5 Min.)."""
+    hm = lambda t: t.astimezone(DE).strftime("%H:%M")
+    h = [t for t, w in x if w == "hoerer" and a - timedelta(minutes=X_BEFORE) <= t <= b]
+    d = [t for t, w in x if w == "dj" and a <= t <= b + timedelta(minutes=5)]
+    parts = (["Hörer " + ", ".join(hm(t) for t in h)] if h else []) + (["DJ " + ", ".join(hm(t) for t in d)] if d else [])
+    return " · ".join(parts)
+
+
+def dead_html(ev, since, xact=()):
     if not ev and not since:
         return ""
     e = html.escape
@@ -344,7 +363,15 @@ def dead_html(ev, since):
         n, s, m = days.get(d, (0, 0, 0))
         days[d] = (n + 1, s + x["secs"], max(m, x["secs"]))
     mins = lambda s: f"{round(s / 60)} Min."
-    drows = "".join(f"<tr><td>{d}</td><td class='n'>{n}</td><td class='n'>{mins(s)}</td><td class='n'>{mins(m)}</td></tr>"
+    xday = {}
+    for t, w in xact:
+        d = t.astimezone(DE).strftime("%d.%m.")
+        hh, dd = xday.get(d, (0, 0))
+        xday[d] = (hh + (w == "hoerer"), dd + (w == "dj"))
+    for d in xday:
+        days.setdefault(d, (0, 0, 0))
+    xd = lambda d: (f"{xday[d][0]} / {xday[d][1]}" if d in xday else "")
+    drows = "".join(f"<tr><td>{d}</td><td class='n'>{n}</td><td class='n'>{mins(s)}</td><td class='n'>{mins(m) if n else ''}</td><td class='n'>{xd(d)}</td></tr>"
                     for d, (n, s, m) in sorted(days.items(), key=lambda kv: kv[0][3:5] + kv[0][:2], reverse=True))
     rows = []
     for x in sorted(ev, key=lambda x: x["from"], reverse=True):
@@ -353,16 +380,18 @@ def dead_html(ev, since):
         cls = " class='hot'" if x["secs"] >= 15 * 60 else ""
         rows.append(f"<tr{cls}><td>{f:%d.%m.}</td><td>{f:%H:%M}</td><td class='n' data-v='{int(x['secs'])}'>{mins(x['secs'])}</td>"
                     f"<td>{e(x['after']['artist'])} – {e(x['after']['title'])}</td><td>{x['to'].astimezone(DE):%H:%M} "
-                    f"{e(x['next']['artist'])} – {e(x['next']['title'])}</td><td>{e(x['src'])}</td><td>{note}</td></tr>")
+                    f"{e(x['next']['artist'])} – {e(x['next']['title'])}</td><td>{e(x_near(xact, x['from'], x['to']))}</td><td>{e(x['src'])}</td><td>{note}</td></tr>")
     since_txt = " ".join(de(since)) if since else "–"
     return (f"<details class='dead'><summary><b>Dead Air</b> – letzte 24 h: <b>{len(last24)}×</b>, zusammen ca. {mins(sum(x['secs'] for x in last24))}"
             f" · seit Aufzeichnungsbeginn {len(ev)}×</summary>"
-            f"<table class='bal'><tr><th>Tag (MEZ)</th><th class='n'>Pausen</th><th class='n'>Stille gesamt</th><th class='n'>längste</th></tr>{drows}</table>"
-            f"<table class='bal'><tr><th>Datum</th><th>Stille ab ca.</th><th class='n'>Dauer ca.</th><th>nach dem Stück</th><th>weiter mit</th><th>Liedlänge laut</th><th></th></tr>{''.join(rows)}</table>"
+            f"<table class='bal'><tr><th>Tag (MEZ)</th><th class='n'>Pausen</th><th class='n'>Stille gesamt</th><th class='n'>längste</th><th class='n' title='laut Andon-Seite, seit 11.11.2026'>X: Hörer / DJ</th></tr>{drows}</table>"
+            f"<table class='bal'><tr><th>Datum</th><th>Stille ab ca.</th><th class='n'>Dauer ca.</th><th>nach dem Stück</th><th>weiter mit</th><th title='Hörer-Posts bis 30 Min. vor der Pause, DJ-Posts während der Pause'>X dabei</th><th>Liedlänge laut</th><th></th></tr>{''.join(rows)}</table>"
             f"<p class='hint'>Erkannt wird Stille ab ca. {DEAD_MIN} Minuten: Abstand bis zum nächsten Start minus Länge des Stücks. "
             f"Die Länge kommt von Live365, sonst aus der iTunes-Suche, sonst aus seinen eigenen früheren Läufen; spielt er nachweislich eine kürzere Fassung, gilt die. "
             f"Kürzere Pausen und Pausen nach Stücken ohne bekannte Länge fehlen. Ab {DEAD_GAP_HINT} Min. kann auch unser Mitschnitt eine Lücke haben. "
-            f"Dunkelorange = 15 Min. oder länger. Mitschnitt seit {since_txt}.</p></details>")
+            f"Dunkelorange = 15 Min. oder länger. Mitschnitt seit {since_txt}. "
+            f"„X dabei“: Hörer-Posts an ihn bis {X_BEFORE} Min. vor der Pause und seine eigenen Posts während der Pause – laut Andon-Seite "
+            f"(dort nur seine letzten ~10 Posts, ohne Namen erfasst, seit 11.11.2026).</p></details>")
 
 
 def de(t):
@@ -518,7 +547,8 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     try:
         ev, cur = dead_air(plays, itunes_lengths(plays))
-        dead = now_html(cur) + dead_html(ev, since)
+        xact = x_grok()
+        dead = now_html(cur, xact) + dead_html(ev, since, xact)
     except Exception as e:                                  # Dead Air darf die Seite nie verhindern
         print("Dead Air nicht berechnet:", e)
         dead = ""

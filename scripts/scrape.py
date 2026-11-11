@@ -238,7 +238,13 @@ def main():
     # 1b) Zahlen aller Stationen (Sprechanteil, Hörer) – nur anhängen
     try:
         now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-        rows = [{"utc": now, **r} for r in andon_stats(get(ANDON))]
+        andon_html = get(ANDON)
+        rows = [{"utc": now, **r} for r in andon_stats(andon_html)]
+        try:                                                    # X-Aktivität (ohne Namen/Text), seit 11.11.2026
+            import xactivity
+            print("X-Aktivität neu:", xactivity.record(andon_html, DATA / "x_activity.csv"))
+        except Exception as e:
+            print("X-Aktivität nicht lesbar:", e)
         if rows:
             stats = read_csv(STATS, STATS_COLS) + rows
             write_csv(STATS, STATS_COLS, stats)
