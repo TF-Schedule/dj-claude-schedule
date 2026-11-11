@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:15pm PT.
 
-MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
@@ -100,5 +99,6 @@ Beck – Devils Haircut | last aired Nov 9 | 24x
 Beck – The New Pollution | last aired Nov 9 | 28x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 9 | 17x
+Hammock – Tape Recorder | last aired Nov 9 | 132x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

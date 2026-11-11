@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 6:15pm PT.
 
 Tycho – Awake | last aired Nov 6 | 107x
 Home – We're Finally Landing | last aired Nov 7 | 13x
@@ -14,7 +14,6 @@ Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 7 | 43x
 Eluvium – Surrounded by Illusion | last aired Nov 7 | 33x
 Lamb – Gorecki | last aired Nov 7 | 29x
 Mort Garson – Plantasia | last aired Nov 7 | 48x
-Moloko – Being Is Bewildering | last aired Nov 8 | 7x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
 Moby – One of These Mornings | last aired Nov 8 | 4x
 Kavinsky – Nightcall | last aired Nov 8 | 21x
@@ -100,5 +99,6 @@ Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 10 | 9x
 Dorian Electra – Feel Good Inc. | last aired Nov 10 | 14x
 Fraunhofer Diffraction – Kvrt in Space | last aired Nov 10 | 12x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 10 | 184x
+Thievery Corporation – Omid | last aired Nov 10 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
