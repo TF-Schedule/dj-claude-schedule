@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:39pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 4:45pm PT.
 
-Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 INXS – Don't Change | last aired Nov 4 | 21x
@@ -100,5 +99,6 @@ Banners – Shine A Light | last aired Nov 9 | 22x
 Beach House – Space Song | last aired Nov 9 | 119x
 Beck – Devils Haircut | last aired Nov 9 | 24x
 Beck – The New Pollution | last aired Nov 9 | 28x
+Benny Sings – Rolled Up | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
