@@ -41,6 +41,7 @@ SEEN_COLS = ["key", "artist", "title", "first_utc", "source"]   # source: kurt =
 UA = {"User-Agent": "TF-Schedule listener tool (github.com/TF-Schedule/dj-claude-schedule)"}
 STATS = DATA / "stats.csv"         # Kontostand aller Stationen (Spalte balance, seit 08.11.2026)
 STATION = "Grok and Roll"
+MON = []                           # Kontostand-Änderungen, in main() gefüllt
 SHOW_NEW = True
 # „sauber“ nach Groks bekannten Sperren: kein feat./zweiter Name, keine Klammer, kein Komma, keine Jahreszeit
 DIRTY = re.compile(r"\bfeat\b|\bfeat\.|\bft\.|featuring|\bwith\b|[()\[\],/]|\bx\b|\b(spring|summer|autumn|winter)\b", re.I)
@@ -211,6 +212,7 @@ def merge(kurt, plays):
     for k, r in by.items():
         sv = seen.get(k)
         r["new"] = de(utc(sv["first_utc"]))[0] if sv and sv["source"] == "eigen" else ""
+        r["new_t"] = utc(sv["first_utc"]) if sv and sv["source"] == "eigen" else None
     return list(by.values()), full24, (own[0][0] if own else None)
 
 
@@ -325,7 +327,7 @@ def now_html(cur, xact=()):
     stand = f"<span class='hint'>(Stand {hm(now)}, wird alle 15 Min. erneuert)</span>"
     near = x_near(xact, cur["end"] or cur["start"], now) if xact else ""
     if near:
-        stand = f"· X: {e(near)} " + stand
+        stand = f"· 𝕏 {e(near)} " + stand
     if cur["end"] is None:
         if now - cur["start"] > timedelta(minutes=12):
             return f"<p class='now quiet'>■ Seit {hm(cur['start'])} kein neuer Titel (zuletzt {what}, Länge unbekannt) – vermutlich Stille {stand}</p>"
@@ -373,25 +375,110 @@ def dead_html(ev, since, xact=()):
     xd = lambda d: (f"{xday[d][0]} / {xday[d][1]}" if d in xday else "")
     drows = "".join(f"<tr><td>{d}</td><td class='n'>{n}</td><td class='n'>{mins(s)}</td><td class='n'>{mins(m) if n else ''}</td><td class='n'>{xd(d)}</td></tr>"
                     for d, (n, s, m) in sorted(days.items(), key=lambda kv: kv[0][3:5] + kv[0][:2], reverse=True))
-    rows = []
-    for x in sorted(ev, key=lambda x: x["from"], reverse=True):
-        f = x["from"].astimezone(DE)
-        note = "evtl. Lücke im Mitschnitt" if x["secs"] >= DEAD_GAP_HINT * 60 else ""
-        cls = " class='hot'" if x["secs"] >= 15 * 60 else ""
-        rows.append(f"<tr{cls}><td>{f:%d.%m.}</td><td>{f:%H:%M}</td><td class='n' data-v='{int(x['secs'])}'>{mins(x['secs'])}</td>"
-                    f"<td>{e(x['after']['artist'])} – {e(x['after']['title'])}</td><td>{x['to'].astimezone(DE):%H:%M} "
-                    f"{e(x['next']['artist'])} – {e(x['next']['title'])}</td><td>{e(x_near(xact, x['from'], x['to']))}</td><td>{e(x['src'])}</td><td>{note}</td></tr>")
     since_txt = " ".join(de(since)) if since else "–"
     return (f"<details class='dead'><summary><b>Dead Air</b> – letzte 24 h: <b>{len(last24)}×</b>, zusammen ca. {mins(sum(x['secs'] for x in last24))}"
-            f" · seit Aufzeichnungsbeginn {len(ev)}×</summary>"
-            f"<table class='bal'><tr><th>Tag (MEZ)</th><th class='n'>Pausen</th><th class='n'>Stille gesamt</th><th class='n'>längste</th><th class='n' title='laut Andon-Seite, seit 11.11.2026'>X: Hörer / DJ</th></tr>{drows}</table>"
-            f"<table class='bal'><tr><th>Datum</th><th>Stille ab ca.</th><th class='n'>Dauer ca.</th><th>nach dem Stück</th><th>weiter mit</th><th title='Hörer-Posts bis 30 Min. vor der Pause, DJ-Posts während der Pause'>X dabei</th><th>Liedlänge laut</th><th></th></tr>{''.join(rows)}</table>"
+            f" · seit Aufzeichnungsbeginn {len(ev)}× · Tagessummen</summary>"
+            f"<table class='bal'><tr><th>Tag (MEZ)</th><th class='n'>Pausen</th><th class='n'>Stille gesamt</th><th class='n'>längste</th><th class='n' title='laut Andon-Seite, seit 11.11.2026'>𝕏 Hörer / DJ</th></tr>{drows}</table>"
             f"<p class='hint'>Erkannt wird Stille ab ca. {DEAD_MIN} Minuten: Abstand bis zum nächsten Start minus Länge des Stücks. "
             f"Die Länge kommt von Live365, sonst aus der iTunes-Suche, sonst aus seinen eigenen früheren Läufen; spielt er nachweislich eine kürzere Fassung, gilt die. "
             f"Kürzere Pausen und Pausen nach Stücken ohne bekannte Länge fehlen. Ab {DEAD_GAP_HINT} Min. kann auch unser Mitschnitt eine Lücke haben. "
-            f"Dunkelorange = 15 Min. oder länger. Mitschnitt seit {since_txt}. "
-            f"„X dabei“: Hörer-Posts an ihn bis {X_BEFORE} Min. vor der Pause und seine eigenen Posts während der Pause – laut Andon-Seite "
-            f"(dort nur seine letzten ~10 Posts, ohne Namen erfasst, seit 11.11.2026).</p></details>")
+            f"Mitschnitt seit {since_txt}. 𝕏 laut Andon-Seite (dort nur seine letzten ~10 Posts; ohne Namen erfasst, seit 11.11.2026).</p></details>")
+
+
+def money():
+    """Alle Kontostand-Änderungen von Grok: (von, bis, Betrag, Stand) – Auflösung 15 Min."""
+    pts = [(utc(r["utc"]), float(r["balance"])) for r in read_csv(STATS, ["utc", "station", "balance"])
+           if r["station"] == STATION and r["balance"]]
+    pts = [p for p in pts if p[0]]
+    return [(t0, t1, b1 - b0, b1) for (t0, b0), (t1, b1) in zip(pts, pts[1:]) if abs(b1 - b0) >= 0.005]
+
+
+def eur(x, sign=True):
+    v = f"{abs(x):,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    return (("+" if x > 0 else "−" if x < 0 else "±") if sign else "") + v
+
+
+def strip_html(ev, cur, xact, mon, hours=24, rows=4):
+    """Tagesstreifen: letzte 24 h in 4 Zeilen à 6 h – grün Musik, rot Stille, 𝕏 Posts, $ Kontostand."""
+    now = datetime.now(timezone.utc)
+    span = hours // rows
+    end0 = now.astimezone(DE).replace(minute=0, second=0, microsecond=0) + timedelta(hours=1)
+    end0 = end0 + timedelta(hours=(-end0.hour) % span)            # Zeilen an 0/6/12/18 Uhr ausrichten
+    sil = [(x["from"], x["to"], x["secs"]) for x in ev]
+    if cur and cur["end"] and now - cur["end"] >= timedelta(minutes=2):
+        sil.append((cur["end"], now, (now - cur["end"]).total_seconds()))
+    first = min((x["from"] for x in ev), default=None)
+    W, H = 720, 46
+    out = []
+    for i in range(rows):
+        b = (end0 - timedelta(hours=span * i)).astimezone(timezone.utc)
+        a = b - timedelta(hours=span)
+        X = lambda t: max(0, min(W, (t - a).total_seconds() / (span * 3600) * W))
+        g = [f"<rect x='0' y='16' width='{X(min(now, b)):.1f}' height='14' fill='#9bd3a6'/>"]
+        for f, t, secs in sil:
+            if t > a and f < b:
+                w = max(2, X(t) - X(f))
+                g.append(f"<rect x='{X(f):.1f}' y='16' width='{w:.1f}' height='14' fill='#d64545'><title>Stille {f.astimezone(DE):%H:%M}–{t.astimezone(DE):%H:%M} ({round(secs / 60)} Min.)</title></rect>")
+        if now < b:
+            g.append(f"<rect x='{X(now):.1f}' y='16' width='{W - X(now):.1f}' height='14' fill='#eee'/>")
+        for h in range(span + 1):
+            t = a + timedelta(hours=h)
+            g.append(f"<line x1='{X(t):.1f}' x2='{X(t):.1f}' y1='30' y2='34' stroke='#999'/>"
+                     f"<text x='{min(W - 14, max(0, X(t) - 7)):.1f}' y='44' font-size='10' fill='#666'>{t.astimezone(DE):%H}</text>")
+        for t, w in xact:
+            if a <= t < b:
+                col = "#1d4ed8" if w == "hoerer" else "#7c3aed"
+                g.append(f"<text x='{X(t) - 4:.1f}' y='12' font-size='11' fill='{col}'>𝕏<title>{'Hörer' if w == 'hoerer' else 'DJ'} {t.astimezone(DE):%H:%M}</title></text>")
+        for t0, t1, d, v in mon:
+            if a <= t1 < b:
+                col = "#1a7f37" if d > 0 else "#b42318"
+                mid = t0 + (t1 - t0) / 2
+                g.append(f"<text x='{X(mid) - 3:.1f}' y='12' font-size='11' font-weight='bold' fill='{col}'>$<title>{eur(d)} zwischen {t0.astimezone(DE):%H:%M} und {t1.astimezone(DE):%H:%M} (Stand {eur(v, False)})</title></text>")
+        lab = f"{a.astimezone(DE):%d.%m. %H}–{b.astimezone(DE):%H} Uhr"
+        out.append(f"<div class='row'><span class='lab'>{lab}</span><svg viewBox='0 0 {W} {H}' preserveAspectRatio='none' role='img' aria-label='{lab}'>{''.join(g)}</svg></div>")
+    return ("<div class='strip'>" + "".join(out) +
+            "<p class='hint'><span style='color:#2e8b47'>■</span> Musik · <span style='color:#d64545'>■</span> Stille · "
+            "<span style='color:#1d4ed8'>𝕏</span> Hörer-Post · <span style='color:#7c3aed'>𝕏</span> DJ-Post · "
+            "<span style='color:#1a7f37'><b>$</b></span>/<span style='color:#b42318'><b>$</b></span> Geld rein/raus. "
+            "Maus/Finger auf ein Zeichen zeigt die Uhrzeit." + (f" Stille-Erkennung erst ab {first.astimezone(DE):%d.%m.}." if first and first > now - timedelta(hours=hours) else "") + "</p></div>")
+
+
+def log_html(plays, ev, xact, mon, hours=48):
+    """Verlauf in Zeitfolge (neueste oben): Läufe, Stille, 𝕏, Kontostand."""
+    now = datetime.now(timezone.utc)
+    lo = now - timedelta(hours=hours)
+    e = html.escape
+    items = []
+    for p in plays:
+        t = utc(p["start_utc"])
+        if t and t >= lo and p["artist"].strip() and p["title"].strip().lower() != "unknown":
+            items.append((t, 1, f"<tr><td>{t.astimezone(DE):%H:%M}</td><td>{e(p['artist'])} – {e(p['title'])}</td></tr>"))
+    for x in ev:
+        if x["to"] >= lo:
+            w = min(100, round(x["secs"] / 60 * 4))
+            items.append((x["from"], 0, f"<tr class='sil'><td>{x['from'].astimezone(DE):%H:%M}</td><td><span class='sbar' style='width:{w}px'></span> "
+                                        f"Stille ca. {round(x['secs'] / 60)} Min.{' (evtl. Lücke im Mitschnitt)' if x['secs'] >= DEAD_GAP_HINT * 60 else ''}</td></tr>"))
+    for t, w in xact:
+        if t >= lo:
+            items.append((t, 2, f"<tr class='{'xp' if w == 'hoerer' else 'xd'}'><td>{t.astimezone(DE):%H:%M}</td><td>𝕏 {'Hörer-Post an ihn' if w == 'hoerer' else 'DJ-Post'}</td></tr>"))
+    for t0, t1, d, v in mon:
+        if t1 >= lo:
+            items.append((t1, 3, f"<tr class='mo {'plus' if d > 0 else 'minus'}'><td>{t1.astimezone(DE):%H:%M}</td><td>$ {eur(d)} "
+                                 f"(zwischen {t0.astimezone(DE):%H:%M} und {t1.astimezone(DE):%H:%M}, Stand {eur(v, False)})</td></tr>"))
+    items.sort(key=lambda z: (z[0], z[1]), reverse=True)
+    body, day = [], None
+    for t, _, row in items:
+        d = t.astimezone(DE).strftime("%A, %d.%m.")
+        if d != day:
+            day = d
+            body.append(f"<tr class='day'><td colspan='2'>{DAYS_DE.get(d.split(',')[0], '')}{d[d.index(','):]}</td></tr>")
+        body.append(row)
+    return (f"<details class='log'><summary><b>Verlauf</b> – letzte {hours} h in Zeitfolge (Titel, Stille, 𝕏, $)</summary>"
+            f"<table class='log'>{''.join(body)}</table></details>")
+
+
+DAYS_DE = {"Monday": "Montag", "Tuesday": "Dienstag", "Wednesday": "Mittwoch", "Thursday": "Donnerstag",
+           "Friday": "Freitag", "Saturday": "Samstag", "Sunday": "Sonntag"}
 
 
 def de(t):
@@ -456,7 +543,8 @@ def page(rows, full24=False, since=None, bal=None, dead=""):
                  f"<td class='n' data-v='{gv}'{tip}>{dur(gap)}</td>"
                  f"<td class='n' data-v='{r['h24']}'>{r['h24'] or ''}</td><td class='n' data-v='{r['total']}'>{r['total']}</td>")
         if SHOW_NEW:
-            cells += f"<td>{e(r['new'])}</td>"
+            bought = r.get("new_t") and any(d < 0 and t0 - timedelta(minutes=15) <= r["new_t"] <= t1 + timedelta(hours=2) for t0, t1, d, v in MON)
+            cells += f"<td>{e(r['new'])}{' <b class=minus title="kurz vorher Abbuchung – vermutlich gekauft">$</b>' if bought else ''}</td>"
         clean = not DIRTY.search(r["artist"] + " " + r["title"])
         rest = r["last"] is None or r["last"] <= datetime.now(timezone.utc) - timedelta(days=REST_DAYS)
         sug = " data-s='1'" if clean and rest else ""
@@ -482,13 +570,18 @@ td.ok{{outline:2px solid #1a7f37}} #toast{{position:fixed;bottom:1rem;left:50%;t
 tr.recent td{{background:#f3f8ff}} tr.twice td{{background:#fff1e6}} tr.hot td{{background:#ffc999}}
 footer{{color:#666;font-size:.85rem;margin:1.2rem 0}}
 p.now{{margin:.3rem 0;padding:.35rem .6rem;background:#eef6ee;border-left:4px solid #1a7f37}} p.now.quiet{{background:#fff1e6;border-left-color:#b42318}}
-details{{margin:.2rem 0 .8rem}} details.dead table td{{white-space:normal}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
+details{{margin:.2rem 0 .8rem}}
+.strip{{margin:.4rem 0 .6rem}} .strip .row{{display:flex;align-items:center;gap:.5rem}} .strip .lab{{flex:0 0 8.5rem;font-size:.8rem;color:#555;white-space:nowrap}}
+.strip svg{{flex:1;height:46px;min-width:0}}
+table.log{{width:auto;min-width:60%}} table.log td{{padding:.15rem .5rem}} table.log tr.day td{{background:#eee;font-weight:bold}}
+table.log tr.sil td{{background:#fdecec;color:#8a1c1c}} table.log tr.xp td{{color:#1d4ed8}} table.log tr.xd td{{color:#7c3aed}} table.log tr.mo td{{font-weight:bold}}
+.sbar{{display:inline-block;height:.7rem;background:#d64545;vertical-align:middle;border-radius:2px}} details.dead table td{{white-space:normal}} table.bal{{width:auto;margin:.4rem 0}} .plus{{color:#1a7f37}} .minus{{color:#b42318}} .hint{{color:#666;font-size:.85rem}}
 </style></head><body>
 <h1>DJ Grok – Titelübersicht</h1>
 <p class="meta">Neuester Eintrag: <b>{stand} {tz}</b> · erzeugt {now} ·
 {len(rows)} Titel · in den letzten 24 h: {played24} Titel, {plays24} Läufe, davon {twice} Titel mehrfach · neu hinzugefügt: {n_new}</p>
-{bal_html(bal)}
 {dead}
+{bal_html(bal)}
 <div class="bar"><input type="search" id="q" placeholder="Künstler oder Titel suchen …">
 <label><input type="checkbox" id="only"> nur letzte 24 h</label>
 <label><input type="checkbox" id="multi"> nur mehrfach in 24 h</label>
@@ -539,6 +632,7 @@ td.classList.add('ok');toast.style.display='block';setTimeout(()=>{{td.classList
 
 
 def main():
+    MON.extend(money())
     plays = record()
     rows, full24, since = merge(load(), plays)
     if not rows:
@@ -548,7 +642,8 @@ def main():
     try:
         ev, cur = dead_air(plays, itunes_lengths(plays))
         xact = x_grok()
-        dead = now_html(cur, xact) + dead_html(ev, since, xact)
+        dead = (now_html(cur, xact) + strip_html(ev, cur, xact, MON) + dead_html(ev, since, xact)
+                + log_html(plays, ev, xact, MON))
     except Exception as e:                                  # Dead Air darf die Seite nie verhindern
         print("Dead Air nicht berechnet:", e)
         dead = ""
