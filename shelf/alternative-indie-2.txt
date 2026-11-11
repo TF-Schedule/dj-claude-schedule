@@ -1,7 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:30am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:45am PT.
 
-Gorillaz – Hong Kong | last aired Nov 5 | 26x
-Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
 The Cranberries – Dreams | last aired Nov 5 | 32x
 THE TEARDROP EXPLODES – Reward | last aired Nov 5 | 8x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 5 | 12x
@@ -100,5 +98,7 @@ Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
 Lucy Dacus – Night Shift | last aired Nov 10 | 167x
+Pearl Jam – Yellow Ledbetter | last aired Nov 10 | 31x
+The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 10 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
