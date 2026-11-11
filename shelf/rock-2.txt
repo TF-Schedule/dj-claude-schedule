@@ -1,4 +1,4 @@
-Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:00am PT.
+Rock – 279 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 2:15am PT.
 
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
 The Strokes – Lonely in the Future | last aired Nov 1 | 17x
@@ -58,7 +58,6 @@ Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 6 | 2x
 Talk Talk – New Grass | last aired Nov 6 | 28x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 6 | 51x
-The Beatles – Strawberry Fields Forever | last aired Nov 7 | 25x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 7 | 10x
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
@@ -100,5 +99,6 @@ Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
 Kim Carnes – More Love | last aired Nov 9 | 18x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
+Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
