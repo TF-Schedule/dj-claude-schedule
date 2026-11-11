@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 6:30pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -62,7 +62,6 @@ David Bowie – Subterraneans (2017 Remaster) | last aired Oct 31 | 37x
 Zero 7 – In The Waiting Line | last aired Oct 31 | 70x
 Morcheeba – Trigger Hippie | last aired Oct 31 | 60x
 Sneaker Pimps – How Do | last aired Oct 31 | 14x
-Moby – Natural Blues | last aired Oct 31 | 2x
 Adamski – Killer | last aired Oct 31 | 17x
 Kraftwerk – Das Model | last aired Nov 1 | 27x
 RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 1 | 27x
@@ -100,5 +99,6 @@ Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 6 | 34x
 Tycho – Dive | last aired Nov 6 | 103x
 Hooverphonic – 2 Wicky | last aired Nov 6 | 33x
 Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
+Tycho – Awake | last aired Nov 6 | 107x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
