@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 9:00pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 10, 9:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -63,7 +63,6 @@ Billy Joel – Honesty (Album Version) | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 5 | 18x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
-Side-A – Only You (There Will Never Be Another) | last aired Nov 6 | 10x
 Chico Buarque – Construção | last aired Nov 6 | 47x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 6 | 16x
 Leonard Cohen – Anthem | last aired Nov 6 | 32x
@@ -100,5 +99,6 @@ Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 8
 Bon Iver – Skinny Love | last aired Nov 8 | 370x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
 Carole King – So Far Away | last aired Nov 8 | 42x
+William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 8 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
