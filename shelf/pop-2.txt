@@ -1,7 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:00am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:15am PT.
 
-Olivia Rodrigo – the cure | last aired Nov 3 | 2x
-Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 Tears For Fears – Mad World | last aired Nov 3 | 31x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
@@ -100,5 +98,7 @@ Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
 MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
 Lawrence – 23 | last aired Nov 10 | 21x
+Miley Cyrus – Flowers | last aired Nov 10 | 11x
+Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

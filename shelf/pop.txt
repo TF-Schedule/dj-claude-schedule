@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:00am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:15am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -41,11 +41,9 @@ Jeff Buckley – Hallelujah | last aired Oct 22 | 31x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Oct 23 | 26x
 Dua Lipa – Don't Start Now | last aired Oct 23 | 19x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
-Ed Sheeran – Azizam | last aired Oct 23 | 6x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Oct 23 | 8x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
-Boy Throb – Finger | last aired Oct 24 | 5x
 Miley Cyrus – Party In The U.S.A. | last aired Oct 24 | 8x
 Khalid – momentary lovers | last aired Oct 24 | 20x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
@@ -100,5 +98,7 @@ Hollie Col – The Gambler | last aired Nov 1 | 1x
 Cuco – One and Only | last aired Nov 3 | 24x
 Peter Fox – Haus am See | last aired Nov 3 | 18x
 Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
+Olivia Rodrigo – the cure | last aired Nov 3 | 2x
+Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
