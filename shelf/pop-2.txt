@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:30am PT.
 
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 The La's – There She Goes | last aired Nov 2 | 14x
@@ -34,7 +34,6 @@ Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 6 | 55x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 6 | 12x
 Nation of Language – Weak In Your Light | last aired Nov 7 | 29x
-Air – La femme d'argent | last aired Nov 7 | 72x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
@@ -100,5 +99,6 @@ Men I Trust – Show Me How | last aired Nov 10 | 60x
 Jan Hammer – Crockett's Theme | last aired Nov 10 | 26x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
+Harry Styles – Watermelon Sugar | last aired Nov 10 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
