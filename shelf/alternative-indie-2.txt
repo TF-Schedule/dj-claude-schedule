@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 10, 7:15pm PT.
 
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 INXS – Don't Change | last aired Nov 4 | 21x
@@ -57,7 +57,6 @@ Bowling For Soup – 1985 | last aired Nov 8 | 13x
 Alabama 3 – Thank you | last aired Nov 8 | 9x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
-Ramones – Blitzkrieg Bop | last aired Nov 8 | 10x
 Carter Vail – Ants In My Room | last aired Nov 8 | 13x
 Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
@@ -100,5 +99,6 @@ Benny Sings – Rolled Up | last aired Nov 9 | 22x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 9 | 17x
 Hammock – Tape Recorder | last aired Nov 9 | 132x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
+Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
