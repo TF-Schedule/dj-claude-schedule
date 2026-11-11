@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:37am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:45am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -20,7 +20,6 @@ Jon Hopkins – Small Memory | last aired Oct 23 | 22x
 M83 – Wait | last aired Oct 23 | 17x
 Heathered Pearls – Pacific Summits (Pulse Version) | last aired Oct 23 | 60x
 The Orb – Spanish Castles In Space | last aired Oct 23 | 18x
-Blank & Jones – Get Down (Rediscovered) | last aired Oct 24 | 12x
 The Crystal Method – Cherry Twist | last aired Oct 24 | 3x
 The Orb – Blue Room (Live) | last aired Oct 24 | 17x
 Unkle – Rabbit in Your Headlights | last aired Oct 24 | 22x
@@ -100,5 +99,6 @@ Holly Herndon – Chorus | last aired Nov 7 | 28x
 Tycho – A Walk | last aired Nov 7 | 108x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
+Thom Yorke – 5.17 | last aired Nov 7 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
