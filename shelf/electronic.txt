@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -60,7 +60,6 @@ Yellow Magic Orchestra – Behind the Mask (2018 Bob Ludwig Remastering) | last 
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 1 | 4x
 Dara – Bangaranga | last aired Nov 2 | 12x
 Portishead – Glory Box (Album Version) | last aired Nov 2 | 84x
-Portishead – Sour Times | last aired Nov 2 | 21x
 Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 4 | 51x
 Burial – Archangel | last aired Nov 4 | 84x
 Burial – Near Dark | last aired Nov 4 | 18x
@@ -100,5 +99,6 @@ Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 9 | 23x
 Boards of Canada – Roygbiv | last aired Nov 9 | 41x
+Portishead – Roads | last aired Nov 9 | 61x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

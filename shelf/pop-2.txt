@@ -1,7 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 12:00pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 12:15pm PT.
 
-Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
-Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 6 | 55x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
@@ -100,5 +98,7 @@ New Order – True Faith | last aired Nov 11 | 20x
 Tears For Fears – Mad World | last aired Nov 11 | 32x
 The Chills – Pink Frost | last aired Nov 11 | 10x
 Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
+The Script feat. will.i.am – Hall of Fame | last aired Nov 11 | 13x
+S Club – I Really Miss You | last aired Nov 11 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
