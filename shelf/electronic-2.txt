@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:30am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:45am PT.
 
 Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
@@ -37,7 +37,6 @@ Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 Bicep – Apricots | last aired Nov 10 | 67x
 Solarstone – Evensong | last aired Nov 10 | 14x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
-Camille – Ta douleur | last aired Nov 10 | 13x
 Fennesz – Endless Summer | last aired Nov 10 | 85x
 Grimes – Oblivion | last aired Nov 10 | 10x
 Thievery Corporation – Lebanese Blonde | last aired Nov 10 | 67x
@@ -100,5 +99,6 @@ ANNIE – Heartbeat | last aired Nov 11 | 16x
 Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
 Database – Vice II | last aired Nov 11 | 3x
+Bruce Kaphan – Clouds | last aired Nov 11 | 55x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
