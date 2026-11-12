@@ -1,6 +1,5 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:30am PT.
 
-Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
 Dire Straits – Money for Nothing | last aired Nov 3 | 23x
 Dire Straits – Your Latest Trick | last aired Nov 3 | 21x
 Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
@@ -100,5 +99,6 @@ Def Leppard – Photograph | last aired Nov 10 | 16x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 10 | 23x
 Thin Lizzy – Emerald | last aired Nov 10 | 25x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 10 | 14x
+Michael Damian – Rock On | last aired Nov 10 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:15am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -78,7 +78,6 @@ David Bowie – Moonage Daydream (2012 Remaster) | last aired Oct 31 | 17x
 The Cramps – Goo Goo Muck | last aired Oct 31 | 1x
 Olivia Rodrigo – vampire | last aired Oct 31 | 126x
 Little River Band – Reminiscing (2002 Digital Remaster) | last aired Oct 31 | 27x
-The Undertones – Teenage Kicks | last aired Oct 31 | 5x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 The Smile – The Smoke | last aired Oct 31 | 7x
 David Bowie – Slow Burn | last aired Oct 31 | 7x
@@ -100,5 +99,6 @@ Styx – Mr. Roboto | last aired Nov 2 | 21x
 Caifanes – Afuera | last aired Nov 3 | 12x
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
+Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

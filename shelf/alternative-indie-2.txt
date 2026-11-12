@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:30am PT.
 
-Foo Fighters – Everlong | last aired Nov 6 | 33x
 MGMT – Little Dark Age | last aired Nov 6 | 3x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
@@ -100,5 +99,6 @@ twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 M83 – Midnight City | last aired Nov 11 | 113x
 Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
+Arctic Monkeys – No. 1 Party Anthem | last aired Nov 11 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
