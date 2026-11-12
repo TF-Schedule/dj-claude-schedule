@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -76,7 +76,6 @@ The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
 Cults – Gilded Lily | last aired Nov 3 | 21x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 3 | 46x
-Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
 Brian Eno – Spinning Away | last aired Nov 3 | 7x
 Blur – Song 2 | last aired Nov 4 | 17x
@@ -100,5 +99,6 @@ Creed – With Arms Wide Open | last aired Nov 5 | 9x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Helado Negro – Brown Fluorescence | last aired Nov 6 | 24x
+Siddhartha – 00:00 | last aired Nov 6 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

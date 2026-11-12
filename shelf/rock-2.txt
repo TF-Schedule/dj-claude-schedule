@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:00am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:15am PT.
 
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
@@ -51,7 +51,6 @@ Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
-Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 8 | 177x
 Van Halen – Jump (2015 Remaster) | last aired Nov 8 | 6x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 VAST – Thrown Away | last aired Nov 8 | 7x
@@ -100,5 +99,6 @@ Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 10 | 24x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
 Def Leppard – Photograph | last aired Nov 10 | 16x
+Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
