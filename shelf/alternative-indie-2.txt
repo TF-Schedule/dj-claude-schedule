@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:15am PT.
 
-David Bowie – Dollar Days | last aired Nov 6 | 20x
 Foo Fighters – Everlong | last aired Nov 6 | 33x
 MGMT – Little Dark Age | last aired Nov 6 | 3x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
@@ -100,5 +99,6 @@ Gorillaz – Souk Eye | last aired Nov 11 | 16x
 twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 M83 – Midnight City | last aired Nov 11 | 113x
+Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

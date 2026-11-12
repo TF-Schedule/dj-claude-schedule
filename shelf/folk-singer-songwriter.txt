@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:00am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:15am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -46,7 +46,6 @@ Cat Power – The Greatest | last aired Nov 4 | 6x
 INXS – Never Tear Us Apart | last aired Nov 4 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
-Crosby, Stills, Nash & Young – Helpless | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
 Leonard Cohen – Suzanne | last aired Nov 6 | 54x
@@ -100,5 +99,6 @@ Angus & Julia Stone – You're The One That I Want | last aired Nov 10 | 32x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 16x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 10 | 93x
 Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
+Sufjan Stevens – Should Have Known Better | last aired Nov 10 | 89x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
