@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -46,7 +46,6 @@ George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Steely Dan – Peg | last aired Nov 7 | 106x
 Duke Ellington – In A Sentimental Mood | last aired Nov 7 | 114x
-Alfa Mist – Organic Rust | last aired Nov 8 | 115x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 8 | 5x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 8 | 57x
 GoGo Penguin – Raven | last aired Nov 8 | 83x
@@ -100,5 +99,6 @@ Chet Baker – You Don't Know What Love Is | last aired Nov 11 | 27x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 11 | 35x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 11 | 25x
 Betty Carter – Moonlight in Vermont | last aired Nov 11 | 27x
+Bobby Hutcherson – Stardust | last aired Nov 11 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

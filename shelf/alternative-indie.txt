@@ -1,4 +1,4 @@
-Alternative / Indie – 235 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30am PT.
+Alternative / Indie – 235 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -91,7 +91,6 @@ Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
-Helado Negro – Brown Fluorescence | last aired Nov 6 | 24x
 Siddhartha – 00:00 | last aired Nov 6 | 28x
 David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
@@ -100,5 +99,6 @@ MGMT – Little Dark Age | last aired Nov 6 | 3x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
+Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
