@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 1:00pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 1:15pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -16,7 +16,6 @@ Blur – The Universal | last aired Oct 20 | 1x
 Sui Generis – Rasguña Las Piedras (Album Version) | last aired Oct 20 | 1x
 Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Oct 20 | 10x
 Faith No More – Stripsearch | last aired Oct 20 | 3x
-Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Oct 20 | 2x
 Crazy Town – Butterfly | last aired Oct 20 | 6x
 The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Genesis – Many Too Many (2007 Remaster) | last aired Oct 21 | 1x
@@ -100,5 +99,6 @@ Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
 Dire Straits – Money for Nothing | last aired Nov 3 | 23x
 Dire Straits – Your Latest Trick | last aired Nov 3 | 21x
+Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

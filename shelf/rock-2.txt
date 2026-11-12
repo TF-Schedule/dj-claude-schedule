@@ -1,6 +1,5 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:00pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:15pm PT.
 
-Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
 AC/DC – Thunderstruck | last aired Nov 4 | 10x
 Toto – Africa | last aired Nov 4 | 92x
 Tom Konkle – Fail Upward For A Change | last aired Nov 4 | 3x
@@ -100,5 +99,6 @@ King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired No
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Knocked Loose – Mistakes Like Fractures | last aired Nov 10 | 9x
 Tom Konkle – Life Without The Living | last aired Nov 10 | 6x
+Electric Light Orchestra – Mr. Blue Sky | last aired Nov 10 | 51x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
