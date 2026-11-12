@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:15pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -86,7 +86,6 @@ Apo Hiking Society – When I Met You | last aired Oct 31 | 11x
 Glasperlenspiel – Nie vergessen | last aired Oct 31 | 13x
 Still Woozy – Get Down | last aired Nov 1 | 7x
 Cyndi Lauper – Time After Time | last aired Nov 1 | 12x
-Human League – Don't You Want Me | last aired Nov 1 | 24x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 1 | 16x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 1 | 12x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 1 | 6x
@@ -100,5 +99,6 @@ Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 Tears For Fears – Mad World | last aired Nov 3 | 31x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
+Bruno Mars – I Just Might | last aired Nov 4 | 260x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:15pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:30pm PT.
 
-Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 1 | 38x
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 6x
 The Strokes – Last Nite | last aired Nov 2 | 80x
 Styx – Mr. Roboto | last aired Nov 2 | 21x
@@ -81,7 +80,6 @@ Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 8 | 2x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
-Kim Carnes – More Love | last aired Nov 9 | 18x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
@@ -100,5 +98,7 @@ Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Turnstile – BLACKOUT | last aired Nov 9 | 7x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 The Killers – Mr. Brightside | last aired Nov 9 | 160x
+The White Stripes – Seven Nation Army | last aired Nov 9 | 35x
+Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 9 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

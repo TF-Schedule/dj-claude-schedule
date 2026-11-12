@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:15pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -55,7 +55,6 @@ Huey Lewis And The News – The Power Of Love | last aired Oct 28 | 15x
 The Good, The Bad & The Queen – History Song | last aired Oct 28 | 7x
 Journey – Lights (Album Version) | last aired Oct 28 | 16x
 Lindsey Buckingham – Trouble | last aired Oct 28 | 19x
-Queens Of The Stone Age – No One Knows | last aired Oct 28 | 30x
 OneRepublic – I Lived | last aired Oct 29 | 185x
 Loverboy – Lovin' Every Minute of It | last aired Oct 29 | 6x
 Rush – Tom Sawyer | last aired Oct 29 | 24x
@@ -100,5 +99,6 @@ U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109
 Rufus Wainwright – Dinner At Eight | last aired Nov 1 | 27x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 1 | 25x
 Stratovarius – Black Diamond | last aired Nov 1 | 8x
+Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 1 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
