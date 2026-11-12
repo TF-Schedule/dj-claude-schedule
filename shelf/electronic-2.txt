@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 8:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 8:30pm PT.
 
 Shida Shahabi – Futō | last aired Nov 8 | 27x
 Daft Punk – Something About Us | last aired Nov 8 | 59x
@@ -48,7 +48,6 @@ Massive Attack – Teardrop | last aired Nov 9 | 98x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 65x
 Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 Bicep – Apricots | last aired Nov 10 | 67x
-ANNIE – Heartbeat | last aired Nov 10 | 15x
 Solarstone – Evensong | last aired Nov 10 | 14x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
 Camille – Ta douleur | last aired Nov 10 | 13x
@@ -100,5 +99,6 @@ Sampha – (No One Knows Me) Like the Piano | last aired Nov 11 | 65x
 Home – We're Finally Landing | last aired Nov 11 | 14x
 Blank & Jones – Get Down (Rediscovered) | last aired Nov 11 | 13x
 Dutyyaknow – Close in the Distance (FFXIV Endwalker) [Synthwave] | last aired Nov 11 | 5x
+Cibo Matto – Sugar Water (Album Version) | last aired Nov 11 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
