@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:30pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:45pm PT.
 
-Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
@@ -15,7 +14,6 @@ Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 6 | 42x
 The Chills – Pink Frost | last aired Nov 6 | 9x
-Shakatak – Night Birds | last aired Nov 6 | 25x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
 Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
@@ -100,5 +98,7 @@ Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Mazzy Star – Fade Into You | last aired Nov 10 | 99x
 Billy Joel – Vienna (Album Version) | last aired Nov 11 | 36x
+Mac DeMarco – Chamber Of Reflection | last aired Nov 11 | 72x
+Mariya Takeuchi – Plastic Love | last aired Nov 11 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

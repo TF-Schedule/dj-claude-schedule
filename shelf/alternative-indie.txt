@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -88,7 +88,6 @@ Blur – Song 2 | last aired Nov 4 | 17x
 Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
-INXS – Don't Change | last aired Nov 4 | 21x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
 Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 5 | 18x
 Foster The People – Sit Next to Me | last aired Nov 5 | 15x
@@ -100,5 +99,6 @@ Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
 The Cranberries – Dreams | last aired Nov 5 | 32x
 THE TEARDROP EXPLODES – Reward | last aired Nov 5 | 8x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 5 | 12x
+Lana Del Rey – Venice Bitch | last aired Nov 5 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

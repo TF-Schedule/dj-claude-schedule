@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:30pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -30,7 +30,6 @@ P!nk – Eventually | last aired Oct 19 | 3x
 Ashley Tisdale – Bop to the Top | last aired Oct 19 | 5x
 P!nk – So What | last aired Oct 20 | 8x
 P!nk – What About Us | last aired Oct 20 | 3x
-Weird Al Yankovic – Everything You Know Is Wrong | last aired Oct 20 | 3x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Oct 21 | 5x
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 The Hollyridge Strings – Yesterday | last aired Oct 21 | 16x
@@ -100,5 +99,6 @@ Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 Tears For Fears – Mad World | last aired Nov 3 | 31x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
+Bruno Mars – Gorilla | last aired Nov 4 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
