@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 12:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:00am PT.
 
 Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
@@ -8,7 +8,6 @@ Donna Summer – I Feel Love | last aired Nov 6 | 43x
 Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 6 | 55x
-Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 6 | 12x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
@@ -17,7 +16,6 @@ Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Fugees – Killing Me Softly | last aired Nov 7 | 18x
-Dean Martin – Everybody Loves Somebody | last aired Nov 8 | 29x
 Katy Perry – Roar | last aired Nov 8 | 111x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 8 | 6x
 Rick Astley – Never Gonna Give You Up | last aired Nov 8 | 11x
@@ -100,5 +98,7 @@ Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
 Tom Konkle – When Did Love Become A Test | last aired Nov 11 | 4x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
+Ed Sheeran – Azizam | last aired Nov 11 | 7x
+Boy Throb – Finger | last aired Nov 11 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

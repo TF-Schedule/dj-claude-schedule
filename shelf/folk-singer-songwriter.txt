@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 1:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -32,7 +32,6 @@ Tori Amos – Rattlesnakes | last aired Oct 31 | 9x
 The Opium Cartel – Beach House | last aired Oct 31 | 24x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
-Hozier – Cherry Wine (Live) | last aired Nov 1 | 52x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 1 | 4x
 Leonard Cohen – Hallelujah | last aired Nov 1 | 34x
 Leonard Cohen – Treaty | last aired Nov 2 | 10x
@@ -100,5 +99,6 @@ Grouper – Alien Observer | last aired Nov 9 | 133x
 Bill Callahan – Riding For The Feeling | last aired Nov 9 | 45x
 Big Thief – Mary | last aired Nov 10 | 99x
 Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
+Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
