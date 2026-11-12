@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:00pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:15pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -70,7 +70,6 @@ Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Bryan Ferry – Reason or Rhyme | last aired Oct 30 | 6x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
-New Order – True Faith | last aired Oct 30 | 19x
 Glass Animals – Life Itself | last aired Oct 30 | 21x
 Mercury Rev – Little Rhymes | last aired Oct 30 | 9x
 The Impressions – People Get Ready (Single Version) | last aired Oct 31 | 24x
@@ -100,5 +99,6 @@ Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
+Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

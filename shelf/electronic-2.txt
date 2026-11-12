@@ -1,6 +1,5 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:15pm PT.
 
-Mort Garson – Plantasia | last aired Nov 7 | 48x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
 Moby – One of These Mornings | last aired Nov 8 | 4x
 Kavinsky – Nightcall | last aired Nov 8 | 21x
@@ -100,5 +99,6 @@ Massive Attack – Protection | last aired Nov 11 | 41x
 Bonobo – Kiara | last aired Nov 11 | 108x
 Cocteau Twins – Whales Tails | last aired Nov 11 | 36x
 Eluvium – Taken | last aired Nov 11 | 46x
+Jamie xx – Gosh | last aired Nov 11 | 51x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
