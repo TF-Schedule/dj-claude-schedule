@@ -1,6 +1,5 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:15pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:30pm PT.
 
-Styx – Mr. Roboto | last aired Nov 2 | 21x
 Caifanes – Afuera | last aired Nov 3 | 12x
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
@@ -100,5 +99,6 @@ Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 9 | 21x
 Benny Sings – Sailing | last aired Nov 9 | 25x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
+Mark Hollis – The Colour Of Spring | last aired Nov 9 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

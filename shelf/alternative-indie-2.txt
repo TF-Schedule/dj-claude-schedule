@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:30pm PT.
 
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Lana Del Rey – Young And Beautiful | last aired Nov 6 | 38x
@@ -48,7 +48,6 @@ Jockstrap – Concrete Over Water | last aired Nov 9 | 19x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 9 | 321x
 Banners – Shine A Light | last aired Nov 9 | 22x
-Beach House – Space Song | last aired Nov 9 | 119x
 Beck – Devils Haircut | last aired Nov 9 | 24x
 Beck – The New Pollution | last aired Nov 9 | 28x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
@@ -66,7 +65,6 @@ Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 10 | 136x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
 Coldplay – Yellow | last aired Nov 10 | 20x
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
-Pale Saints – Kinky Love | last aired Nov 10 | 22x
 Paramore – Thick Skull | last aired Nov 10 | 18x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 10 | 13x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
@@ -100,5 +98,7 @@ The Magnetic Fields – The Book of Love | last aired Nov 11 | 13x
 Sade – By Your Side (Remastered Version) | last aired Nov 11 | 59x
 The National – About Today (2021 Remaster) | last aired Nov 11 | 191x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
+Papooz – You and I | last aired Nov 11 | 27x
+Hard Life – daydreams | last aired Nov 11 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
