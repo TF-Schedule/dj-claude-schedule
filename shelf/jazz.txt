@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:45pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -32,7 +32,6 @@ Petra Haden – Moon River | last aired Nov 2 | 15x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
-Zaz – Sous le ciel de Paris | last aired Nov 4 | 4x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
 Zaz – Champs-Elysées | last aired Nov 5 | 1x
 Burna Boy – Last Last | last aired Nov 5 | 47x
@@ -100,5 +99,6 @@ Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 10 | 25x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
 Sun Ra – Images | last aired Nov 10 | 29x
+St Germain – Rose rouge | last aired Nov 10 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
