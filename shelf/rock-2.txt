@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 10:45pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:00pm PT.
 
 Caifanes – Afuera | last aired Nov 3 | 12x
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
@@ -16,7 +16,6 @@ The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
-Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 5 | 32x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 Crowded House – Don't Dream It's Over | last aired Nov 5 | 12x
@@ -100,5 +99,6 @@ Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 9 | 21x
 Benny Sings – Sailing | last aired Nov 9 | 25x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
 Mark Hollis – The Colour Of Spring | last aired Nov 9 | 28x
+Andrés Calamaro – Flaca | last aired Nov 9 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
