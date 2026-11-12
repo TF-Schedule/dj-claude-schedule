@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:15am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:30am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -45,7 +45,6 @@ The Supremes – Automatically Sunshine | last aired Nov 3 | 26x
 Hozier – Angel Of Small Death & The Codeine Scene | last aired Nov 4 | 7x
 Jacquees – Won't Turn It Down | last aired Nov 4 | 4x
 Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 4 | 132x
-Curtis Mayfield – The Makings of You (2019 Remaster) (Remastered) | last aired Nov 4 | 158x
 Marvin Gaye – Let's Get It On | last aired Nov 4 | 10x
 Khruangbin – People Everywhere ii | last aired Nov 4 | 65x
 The Blind Boys Of Alabama – Amazing Grace | last aired Nov 5 | 18x
@@ -100,5 +99,6 @@ Earth, Wind & Fire – Shining Star | last aired Nov 9 | 69x
 Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 9 | 105x
+Al Green – Let's Stay Together | last aired Nov 9 | 132x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
