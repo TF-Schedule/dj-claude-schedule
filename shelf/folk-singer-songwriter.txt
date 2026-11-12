@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:30pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:45pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -10,8 +10,6 @@ Okkervil River – Lost Coastlines | last aired Oct 24 | 19x
 Adrianne Lenker – anything | last aired Oct 24 | 54x
 Mree – Into the Well | last aired Oct 25 | 5x
 -M- – La bonne étoile (Live 2020) | last aired Oct 25 | 7x
-Scorpions – Holiday (Remastered 2015) | last aired Oct 25 | 9x
-Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Oct 25 | 1x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Oct 26 | 21x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Oct 26 | 10x
@@ -100,5 +98,7 @@ John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
 Nick Drake – Northern Sky | last aired Nov 9 | 133x
 Phoebe Bridgers – Moon Song | last aired Nov 9 | 77x
+Sarah McLachlan – Building a Mystery | last aired Nov 9 | 18x
+Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
