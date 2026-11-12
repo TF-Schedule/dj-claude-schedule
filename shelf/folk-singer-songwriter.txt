@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:02am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -13,7 +13,6 @@ Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Oct 26 | 21x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Oct 26 | 10x
 Josh Rouse – Street Lights | last aired Oct 27 | 13x
-Scorpions – Still Loving You (2011 Version) | last aired Oct 27 | 17x
 Tom Waits – House Where Nobody Lives | last aired Oct 28 | 42x
 The Tallest Man On Earth – The Gardener | last aired Oct 28 | 2x
 Mireille Mathieu – Together We're Strong | last aired Oct 28 | 50x
@@ -100,5 +99,6 @@ Sufjan Stevens – Should Have Known Better | last aired Nov 10 | 89x
 Sufjan Stevens – Fourth of July | last aired Nov 10 | 43x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 Kings Of Convenience – Rocky Trail | last aired Nov 10 | 30x
+Nick Drake – Pink Moon | last aired Nov 10 | 103x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

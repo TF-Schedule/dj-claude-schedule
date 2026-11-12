@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 8:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:02am PT.
 
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
@@ -13,7 +13,6 @@ Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Fugees – Killing Me Softly | last aired Nov 7 | 18x
 Katy Perry – Roar | last aired Nov 8 | 111x
-Ricchi E Poveri – Sarà perché ti amo | last aired Nov 8 | 6x
 Rick Astley – Never Gonna Give You Up | last aired Nov 8 | 11x
 Rihanna – Umbrella (Album Version) | last aired Nov 8 | 12x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 18x
@@ -100,5 +99,6 @@ Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 Shakatak – Night Birds | last aired Nov 11 | 26x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 11 | 4x
+New Order – True Faith | last aired Nov 11 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
