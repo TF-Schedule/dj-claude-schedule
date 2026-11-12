@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -48,7 +48,6 @@ The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
-Leonard Cohen – Suzanne | last aired Nov 6 | 54x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 6 | 11x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
 Don McLean – Vincent | last aired Nov 6 | 18x
@@ -81,7 +80,6 @@ Dire Straits – Brothers in Arms | last aired Nov 9 | 24x
 Hem – Betting on Trains (Remastered 2025) | last aired Nov 9 | 22x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
-Phoebe Bridgers – Moon Song | last aired Nov 9 | 77x
 Sarah McLachlan – Building a Mystery | last aired Nov 9 | 18x
 Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
 Albert Hammond – When I'm Gone | last aired Nov 9 | 15x
@@ -100,5 +98,7 @@ Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 10 | 93x
 Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
 Sufjan Stevens – Should Have Known Better | last aired Nov 10 | 89x
+Sufjan Stevens – Fourth of July | last aired Nov 10 | 43x
+Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
