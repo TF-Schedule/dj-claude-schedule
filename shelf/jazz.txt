@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:02am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -33,7 +33,6 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
 Zaz – Champs-Elysées | last aired Nov 5 | 1x
-Burna Boy – Last Last | last aired Nov 5 | 47x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 6 | 10x
@@ -48,7 +47,6 @@ George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Baby Face Willette – At Last | last aired Nov 7 | 11x
 Steely Dan – Peg | last aired Nov 7 | 106x
-Fiona Apple – Slow Like Honey | last aired Nov 7 | 25x
 Duke Ellington – In A Sentimental Mood | last aired Nov 7 | 114x
 Alfa Mist – Organic Rust | last aired Nov 8 | 115x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 8 | 5x
@@ -100,5 +98,7 @@ John Coltrane – Lush Life | last aired Nov 10 | 35x
 Norah Jones – Summertime Blue | last aired Nov 10 | 17x
 GoGo Penguin – Hopopono | last aired Nov 10 | 84x
 Laufey – Madwoman | last aired Nov 10 | 47x
+Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
+Chet Baker – You Don't Know What Love Is | last aired Nov 11 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
