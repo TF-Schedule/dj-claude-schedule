@@ -1,10 +1,9 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 8:45pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:00pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
 8-Bit Arcade – The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation) | last aired Oct 2 | 4x
-Database – Vice II | last aired Oct 9 | 2x
 Autechre – Gantz Graf | last aired Oct 15 | 3x
 KAYA! – Turn It Up | last aired Oct 15 | 4x
 Obie Fernandez – Take Me Back (Extended Mix) | last aired Oct 17 | 5x
@@ -100,5 +99,6 @@ Chris Snelling – Le onde | last aired Nov 8 | 20x
 Kavinsky – Nightcall | last aired Nov 8 | 21x
 Stardust – Music Sounds Better With You | last aired Nov 8 | 11x
 Shida Shahabi – Futō | last aired Nov 8 | 27x
+Daft Punk – Something About Us | last aired Nov 8 | 59x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
