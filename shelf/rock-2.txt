@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 8:30am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 8:45am PT.
 
 Dire Straits – Your Latest Trick | last aired Nov 3 | 21x
 Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
@@ -47,7 +47,6 @@ Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
-Van Halen – Jump (2015 Remaster) | last aired Nov 8 | 6x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 VAST – Thrown Away | last aired Nov 8 | 7x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Michael Damian – Rock On | last aired Nov 10 | 8x
 Freddie Mercury – Love Kills | last aired Nov 10 | 8x
 Summon The Wolf – Ghost Story | last aired Nov 10 | 15x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 10 | 8x
+Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
