@@ -1,7 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:15pm PT.
 
-THE TEARDROP EXPLODES – Reward | last aired Nov 5 | 8x
-Silverchair – Ana's Song (Open Fire) | last aired Nov 5 | 12x
 Lana Del Rey – Venice Bitch | last aired Nov 5 | 20x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
@@ -100,5 +98,7 @@ Peeping Tom – Your Neighborhood Spaceman | last aired Nov 10 | 5x
 Beach House – Bluebird | last aired Nov 10 | 52x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Radiohead – Paranoid Android | last aired Nov 10 | 23x
+Ramones – Blitzkrieg Bop | last aired Nov 10 | 11x
+Arctic Monkeys – 505 | last aired Nov 10 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

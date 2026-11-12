@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -37,13 +37,11 @@ Geowulf – Saltwater | last aired Oct 26 | 17x
 Joker Out – Novi Val | last aired Oct 26 | 21x
 Muse – Feeling Good | last aired Oct 26 | 22x
 Joywave – In Clover | last aired Oct 27 | 18x
-Split Enz – I Got You | last aired Oct 27 | 7x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 Jeff Buckley – So Real | last aired Oct 28 | 3x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – You | last aired Oct 28 | 14x
 Duran Duran – Ordinary World | last aired Oct 28 | 11x
-Spandau Ballet – Gold (2003 Remaster) | last aired Oct 28 | 7x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Wolf Alice – Don't Delete The Kisses | last aired Oct 29 | 35x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
@@ -100,5 +98,7 @@ The Cure – Just Like Heaven (Album Version) | last aired Nov 5 | 11x
 Gorillaz – Hong Kong | last aired Nov 5 | 26x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
 The Cranberries – Dreams | last aired Nov 5 | 32x
+THE TEARDROP EXPLODES – Reward | last aired Nov 5 | 8x
+Silverchair – Ana's Song (Open Fire) | last aired Nov 5 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
