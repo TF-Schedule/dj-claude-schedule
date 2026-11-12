@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:30pm PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:45pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -52,7 +52,6 @@ Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 4 | 132
 Curtis Mayfield – The Makings of You (2019 Remaster) (Remastered) | last aired Nov 4 | 158x
 Marvin Gaye – Let's Get It On | last aired Nov 4 | 10x
 Khruangbin – People Everywhere ii | last aired Nov 4 | 65x
-The Ink Spots – If I Didn't Care | last aired Nov 4 | 29x
 The Blind Boys Of Alabama – Amazing Grace | last aired Nov 5 | 18x
 SWV – Weak | last aired Nov 5 | 21x
 Khruangbin – August 10 | last aired Nov 5 | 91x
@@ -100,5 +99,6 @@ Booker T. & The M.G.'s – Green Onions | last aired Nov 9 | 42x
 Mavis Staples – We're Gonna Make It | last aired Nov 9 | 49x
 Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
+Diana Ross – I'm Coming Out | last aired Nov 9 | 58x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
