@@ -1,11 +1,10 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 9:15pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 9:30pm PT.
 
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 | 17x
 Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
-Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 6 | 42x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
 Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
@@ -100,5 +99,6 @@ The La's – There She Goes | last aired Nov 11 | 15x
 Taylor Swift – Cruel Summer | last aired Nov 11 | 136x
 Taeko Onuki – 4:00 A.M. | last aired Nov 11 | 23x
 Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
+Tom Konkle – When Did Love Become A Test | last aired Nov 11 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
