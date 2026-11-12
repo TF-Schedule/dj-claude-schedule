@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:45am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:00am PT.
 
 Dire Straits – Your Latest Trick | last aired Nov 3 | 21x
 Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
@@ -34,7 +34,6 @@ Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
-Amy Macdonald – This Is The Life | last aired Nov 7 | 20x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 7 | 7x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
@@ -100,5 +99,6 @@ King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 10 | 8x
 Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 10 | 12x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
+Knocked Loose – Mistakes Like Fractures | last aired Nov 10 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
