@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:00pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:15pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -20,7 +20,6 @@ Neuro-sama – Colorful Array | last aired Oct 17 | 6x
 Tate McRae – greedy | last aired Oct 17 | 6x
 The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
-Moes Haven – Shut Up Your Monkey | last aired Oct 18 | 6x
 EMF – Unbelievable | last aired Oct 19 | 1x
 Dua Lipa – Future Nostalgia | last aired Oct 19 | 62x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
@@ -100,5 +99,6 @@ Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
+The Beatles – Octopus's Garden (Remastered) | last aired Nov 5 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
