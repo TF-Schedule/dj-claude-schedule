@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:45pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -46,7 +46,6 @@ Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 
 Hindi Zahra – Beautiful Tango (Remastered Version) | last aired Nov 6 | 29x
 Khruangbin – A Calf Born In Winter | last aired Nov 6 | 86x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
-Horace Silver Quintet – Peace | last aired Nov 6 | 29x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Baby Face Willette – At Last | last aired Nov 7 | 11x
 Steely Dan – Peg | last aired Nov 7 | 106x
@@ -100,5 +99,6 @@ Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
 Sun Ra – Images | last aired Nov 10 | 29x
 St Germain – Rose rouge | last aired Nov 10 | 44x
 Steely Dan – Babylon Sisters | last aired Nov 10 | 56x
+Nina Simone – Wild Is The Wind | last aired Nov 10 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
