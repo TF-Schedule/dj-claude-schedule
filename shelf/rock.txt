@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -43,7 +43,6 @@ Toto – Georgy Porgy (album version) | last aired Oct 26 | 49x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
 Journey – Don't Stop Believin' (Album Version) | last aired Oct 27 | 24x
 Yes – Mood for a Day (2008 Remaster) | last aired Oct 27 | 18x
-Whitesnake – Still Of The Night (2018 Remaster) | last aired Oct 27 | 4x
 Gustavo Cerati – Puente | last aired Oct 27 | 31x
 Little River Band – Cool Change | last aired Oct 28 | 15x
 Huey Lewis And The News – The Power Of Love | last aired Oct 28 | 15x
@@ -100,5 +99,6 @@ Dire Straits – Your Latest Trick | last aired Nov 3 | 21x
 Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
 AC/DC – Thunderstruck | last aired Nov 4 | 10x
 Toto – Africa | last aired Nov 4 | 92x
+Tom Konkle – Fail Upward For A Change | last aired Nov 4 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

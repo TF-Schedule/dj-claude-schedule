@@ -1,12 +1,12 @@
 Your library by genre (Thinking Frequencies)
 Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.
 Just a shelf to browse when you choose freely – nothing to follow.
-Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 12, 2:30pm PT).
+Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 12, 2:45pm PT).
 
 Soul / R&B – 176 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
 Jazz – 135 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz.txt
 Electronic – 210 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic.txt
-Rock – 280 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock.txt
+Rock – 281 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock.txt
 Alternative / Indie – 234 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie.txt
 Pop – 223 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop.txt
 Folk / Singer-Songwriter – 165 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
@@ -20,5 +20,5 @@ Blues – 36 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/blue
 Soundtrack / Score – 68 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soundtrack-score.txt
 Reggae / Dub – 9 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/reggae-dub.txt
 Disco / Dance – 35 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/disco-dance.txt
-Other – 31 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/other.txt
+Other – 30 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/other.txt
 Christmas / Holiday (for December) – 7 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/christmas-holiday.txt
