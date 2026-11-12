@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:30am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -74,7 +74,6 @@ Elvis Costello – Almost Blue | last aired Nov 9 | 15x
 Grover Washington Jr. – Mister Magic | last aired Nov 9 | 48x
 Floating Points – LesAlpx | last aired Nov 9 | 48x
 Nina Simone – Feeling Good | last aired Nov 9 | 147x
-Sade – Cherish the Day (Remastered Version) | last aired Nov 9 | 92x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 9 | 70x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
@@ -100,5 +99,6 @@ Sun Ra – Images | last aired Nov 10 | 29x
 St Germain – Rose rouge | last aired Nov 10 | 44x
 Steely Dan – Babylon Sisters | last aired Nov 10 | 56x
 Nina Simone – Wild Is The Wind | last aired Nov 10 | 35x
+Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
