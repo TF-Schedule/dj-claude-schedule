@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:45pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 3:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -21,7 +21,6 @@ Tate McRae – greedy | last aired Oct 17 | 6x
 The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
 EMF – Unbelievable | last aired Oct 19 | 1x
-Dua Lipa – Future Nostalgia | last aired Oct 19 | 62x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Oct 19 | 1x
 P!nk – Eventually | last aired Oct 19 | 3x
@@ -100,5 +99,6 @@ Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 6 | 55x
+Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

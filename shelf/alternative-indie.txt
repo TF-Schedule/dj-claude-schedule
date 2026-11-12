@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:45pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 3:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -40,7 +40,6 @@ The Jetzons – You | last aired Oct 28 | 14x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Wolf Alice – Don't Delete The Kisses | last aired Oct 29 | 35x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
-My Chemical Romance – I'm Not Okay (I Promise) | last aired Oct 29 | 10x
 Love and Rockets – So Alive | last aired Oct 29 | 8x
 Miracles of Modern Science – Dear Pressure | last aired Oct 29 | 20x
 New Found Glory – My Friends Over You | last aired Oct 29 | 6x
@@ -100,5 +99,6 @@ Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 8 | 62x
+Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
