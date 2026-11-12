@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:00am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:15am PT.
 
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
@@ -9,7 +9,6 @@ Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
-Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 7 | 27x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
@@ -100,5 +99,6 @@ Tate McRae – TIT FOR TAT | last aired Nov 11 | 7x
 Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
 Peter Fox – Haus am See | last aired Nov 11 | 19x
 Leon Larregui – Locos | last aired Nov 11 | 20x
+Human League – Don't You Want Me | last aired Nov 11 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

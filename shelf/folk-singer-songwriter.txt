@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:00am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:15am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -35,7 +35,6 @@ Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 1 | 4x
 Leonard Cohen – Hallelujah | last aired Nov 1 | 34x
 Leonard Cohen – Treaty | last aired Nov 2 | 10x
-Pete Seeger – Solidarity Forever | last aired Nov 2 | 86x
 Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
 The Cure – Pictures of You | last aired Nov 3 | 40x
@@ -100,5 +99,6 @@ Big Thief – Mary | last aired Nov 10 | 99x
 Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 10 | 32x
+Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
