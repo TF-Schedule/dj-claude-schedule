@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:30am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:45am PT.
 
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
@@ -24,7 +24,6 @@ The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
 Alexander Rybak – Fairytale | last aired Nov 8 | 16x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 8 | 24x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
-Minako Yoshida – I'll Teach You All About Love | last aired Nov 9 | 30x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
 ABBA – Dancing Queen | last aired Nov 9 | 43x
@@ -100,5 +99,6 @@ Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 Shakatak – Night Birds | last aired Nov 11 | 26x
+The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 11 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

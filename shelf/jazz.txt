@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:30am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -65,7 +65,6 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Al Di Meola – Red Moon | last aired Nov 9 | 18x
 Erykah Badu – On & On | last aired Nov 9 | 123x
 Masego – Tadow | last aired Nov 9 | 72x
-Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 9 | 13x
 Floating Points – LesAlpx | last aired Nov 9 | 48x
 Nina Simone – Feeling Good | last aired Nov 9 | 147x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
@@ -100,5 +99,6 @@ Nancy Wilson – Guess Who I Saw Today | last aired Nov 10 | 27x
 John Coltrane – Lush Life | last aired Nov 10 | 35x
 Norah Jones – Summertime Blue | last aired Nov 10 | 17x
 GoGo Penguin – Hopopono | last aired Nov 10 | 84x
+Laufey – Madwoman | last aired Nov 10 | 47x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
