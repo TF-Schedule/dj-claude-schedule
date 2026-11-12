@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 1:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:00am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -81,7 +81,6 @@ Cyndi Lauper – Time After Time | last aired Nov 1 | 12x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 1 | 16x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 1 | 6x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
-Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 Cuco – One and Only | last aired Nov 3 | 24x
 Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
@@ -100,5 +99,6 @@ Fountains Of Wayne – Stacy's Mom | last aired Nov 5 | 5x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 | 17x
 Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
+Depeche Mode – Precious | last aired Nov 5 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

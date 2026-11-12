@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:00am PT.
 
-Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Donna Summer – I Feel Love | last aired Nov 6 | 43x
@@ -100,5 +99,6 @@ Boy Throb – Finger | last aired Nov 11 | 6x
 Tate McRae – TIT FOR TAT | last aired Nov 11 | 7x
 Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
 Peter Fox – Haus am See | last aired Nov 11 | 19x
+Leon Larregui – Locos | last aired Nov 11 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
