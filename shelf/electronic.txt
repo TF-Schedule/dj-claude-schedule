@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -48,7 +48,6 @@ Akiaura – Sleepwalker | last aired Oct 30 | 8x
 Euology – Logic | last aired Oct 30 | 6x
 The 1975 – Somebody Else | last aired Oct 30 | 20x
 David Bowie – Subterraneans (2017 Remaster) | last aired Oct 31 | 37x
-Zero 7 – In The Waiting Line | last aired Oct 31 | 70x
 Sneaker Pimps – How Do | last aired Oct 31 | 14x
 Adamski – Killer | last aired Oct 31 | 17x
 Kraftwerk – Das Model | last aired Nov 1 | 27x
@@ -100,5 +99,6 @@ Moloko – Over & Over | last aired Nov 8 | 22x
 Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 9 | 23x
+Boards of Canada – Roygbiv | last aired Nov 9 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
