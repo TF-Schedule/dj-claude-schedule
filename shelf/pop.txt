@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 7:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -83,9 +83,7 @@ Glasperlenspiel – Nie vergessen | last aired Oct 31 | 13x
 Still Woozy – Get Down | last aired Nov 1 | 7x
 Cyndi Lauper – Time After Time | last aired Nov 1 | 12x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 1 | 16x
-The Script feat. will.i.am – Hall of Fame | last aired Nov 1 | 12x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 1 | 6x
-S Club – I Really Miss You | last aired Nov 1 | 7x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 1 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 1 | 41x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
@@ -100,5 +98,7 @@ Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 5 | 13x
+The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 5 | 16x
+Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
