@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:00am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:15am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -80,7 +80,6 @@ Judy Collins – Bread and Roses | last aired Nov 8 | 26x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 8 | 76x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 9 | 6x
 Lord Huron – Life Is Strange | last aired Nov 9 | 50x
-Jack Johnson – Better Together | last aired Nov 9 | 148x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 Carole King – It's Too Late | last aired Nov 9 | 87x
@@ -100,5 +99,6 @@ Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 9 | 29x
 Grouper – Alien Observer | last aired Nov 9 | 133x
 Bill Callahan – Riding For The Feeling | last aired Nov 9 | 45x
+Big Thief – Mary | last aired Nov 10 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
