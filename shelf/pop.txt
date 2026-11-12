@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:30am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:45am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -65,7 +65,6 @@ The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster)n; 201
 Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
-Glass Animals – Life Itself | last aired Oct 30 | 21x
 The Impressions – People Get Ready (Single Version) | last aired Oct 31 | 24x
 Depeche Mode – Just Can't Get Enough | last aired Oct 31 | 15x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Oct 31 | 11x
@@ -100,5 +99,6 @@ Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
+Donna Summer – I Feel Love | last aired Nov 6 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
