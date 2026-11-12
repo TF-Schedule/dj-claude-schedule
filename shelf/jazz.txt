@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:30pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -28,7 +28,6 @@ Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 2 | 12x
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
-Petra Haden – Moon River | last aired Nov 2 | 15x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
@@ -100,5 +99,6 @@ Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 10 | 25x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
 Sun Ra – Images | last aired Nov 10 | 29x
 St Germain – Rose rouge | last aired Nov 10 | 44x
+Steely Dan – Babylon Sisters | last aired Nov 10 | 56x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
