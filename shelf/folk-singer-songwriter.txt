@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:00pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 10:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -52,7 +52,6 @@ Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
-Fabrizio De Andrè – Bocca di rosa | last aired Nov 6 | 16x
 Leonard Cohen – Suzanne | last aired Nov 6 | 54x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 6 | 11x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
@@ -100,5 +99,6 @@ Barbara Pravi – Voilà | last aired Nov 9 | 27x
 Ben&Ben – Leaves | last aired Nov 9 | 52x
 The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
+Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 9 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
