@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 1:30am PT.
 
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
@@ -34,7 +34,6 @@ ABBA – Dancing Queen | last aired Nov 9 | 43x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 9 | 44x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 9 | 11x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 9 | 23x
-Depeche Mode – Enjoy the Silence | last aired Nov 9 | 21x
 Falco – Vienna Calling | last aired Nov 9 | 26x
 Ferrante & Teicher – Exodus | last aired Nov 9 | 19x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
@@ -58,7 +57,6 @@ Clannad – Theme From Harry's Game | last aired Nov 9 | 38x
 Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 Takako Mamiya – Nagisade Dance | last aired Nov 10 | 16x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
-Men I Trust – Show Me How | last aired Nov 10 | 60x
 Jan Hammer – Crockett's Theme | last aired Nov 10 | 26x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
@@ -100,5 +98,7 @@ Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Tate McRae – TIT FOR TAT | last aired Nov 11 | 7x
+Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
+Peter Fox – Haus am See | last aired Nov 11 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
