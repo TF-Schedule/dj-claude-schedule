@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -37,7 +37,6 @@ ODESZA – Say My Name (feat. Zyra) | last aired Oct 26 | 46x
 Synergy – Chateau | last aired Oct 26 | 30x
 Wax Tailor – Seize The Day | last aired Oct 27 | 14x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Oct 27 | 33x
-Smoke City – Underwater Love | last aired Oct 28 | 4x
 The Orb – Earth (Gaia) | last aired Oct 28 | 28x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Oct 28 | 76x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Oct 29 | 26x
@@ -100,5 +99,6 @@ Groove Armada – At the River | last aired Nov 8 | 34x
 Moloko – Over & Over | last aired Nov 8 | 22x
 Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
+Boards of Canada – Blood In The Labyrinth | last aired Nov 9 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
