@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:15am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:30am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -43,7 +43,6 @@ Stevie Wonder – Summer Soft | last aired Nov 2 | 33x
 The Brothers Johnson – Strawberry Letter 23 (Album Version) | last aired Nov 2 | 56x
 David Bowie – Dancing in the Street (2002 Remaster) | last aired Nov 3 | 8x
 The Supremes – Automatically Sunshine | last aired Nov 3 | 26x
-Whitney Houston – I Have Nothing | last aired Nov 3 | 15x
 Hozier – Angel Of Small Death & The Codeine Scene | last aired Nov 4 | 7x
 Jacquees – Won't Turn It Down | last aired Nov 4 | 4x
 Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 4 | 132x
@@ -100,5 +99,6 @@ Frank Ocean – Pink + White | last aired Nov 9 | 63x
 The Weeknd – After Hours | last aired Nov 9 | 18x
 Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 9 | 38x
 Earth, Wind & Fire – Shining Star | last aired Nov 9 | 69x
+Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
