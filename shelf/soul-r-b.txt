@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:00pm PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:15pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -54,7 +54,6 @@ Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 
 Aretha Franklin – Rock Steady (Album Version) | last aired Nov 5 | 64x
 Prince – Uptown (LP Version) | last aired Nov 5 | 28x
 The Temptations – Papa Was A Rollin' Stone (Full Version) | last aired Nov 5 | 57x
-Teddy Swims – The Door | last aired Nov 5 | 18x
 The Temptations – At Last (Album Version) | last aired Nov 5 | 7x
 Sister Rosetta Tharpe – Up Above My Head There's Music In The Air | last aired Nov 6 | 22x
 Donny Hathaway – A Song for You | last aired Nov 6 | 147x
@@ -100,5 +99,6 @@ Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 9 | 105x
 Al Green – Let's Stay Together | last aired Nov 9 | 132x
 Al Green – The Lord Will Make a Way | last aired Nov 9 | 27x
+Alison Krauss – Down To The River To Pray (Live) | last aired Nov 9 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -59,7 +59,6 @@ The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
 Montaigne – Technicolour | last aired Oct 31 | 5x
 Dot Allison – Bleached By The Sun | last aired Oct 31 | 12x
 TV Girl – Lovers Rock | last aired Oct 31 | 3x
-The Smiths – I Know It's Over | last aired Oct 31 | 7x
 Fugazi – Waiting Room | last aired Oct 31 | 12x
 Ednaswap – Torn | last aired Oct 31 | 17x
 Men At Work – Down Under | last aired Nov 1 | 8x
@@ -100,5 +99,6 @@ Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
+Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

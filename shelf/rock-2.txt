@@ -1,7 +1,6 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:00pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:15pm PT.
 
 Tom Konkle – Fail Upward For A Change | last aired Nov 4 | 3x
-Juli – Perfekte Welle | last aired Nov 4 | 11x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 4 | 139x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
@@ -100,5 +99,6 @@ Tom Konkle – Life Without The Living | last aired Nov 10 | 6x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 10 | 51x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
+Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
