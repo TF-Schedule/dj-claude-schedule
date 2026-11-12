@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 11:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -74,7 +74,6 @@ John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 9 | 6x
 Lord Huron – Life Is Strange | last aired Nov 9 | 50x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
-Dire Straits – Brothers in Arms | last aired Nov 9 | 24x
 Hem – Betting on Trains (Remastered 2025) | last aired Nov 9 | 22x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
@@ -100,5 +99,6 @@ Sufjan Stevens – Fourth of July | last aired Nov 10 | 43x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 Kings Of Convenience – Rocky Trail | last aired Nov 10 | 30x
 Nick Drake – Pink Moon | last aired Nov 10 | 103x
+Grouper – Holding | last aired Nov 10 | 116x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
