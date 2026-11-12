@@ -1,9 +1,8 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
 John T. Williams – Anything Goes | last aired Oct 15 | 9x
-Glenn Miller & His Orchestra – At Last | last aired Oct 17 | 6x
 John McLaughlin – You Know, You Know (Album Version) | last aired Oct 19 | 23x
 Helen Forrest – It's Been A Long, Long Time | last aired Oct 20 | 12x
 Snarky Puppy – Lingus (Alternate Take) | last aired Oct 23 | 36x
@@ -100,5 +99,6 @@ Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 10 | 71x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 10 | 98x
 Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
+Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 10 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

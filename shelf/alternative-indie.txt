@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -24,7 +24,6 @@ Jeff Buckley – Calling You (Live) | last aired Oct 25 | 22x
 The Police – Roxanne (Remastered 2003) | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 LP – Lost on You | last aired Oct 25 | 17x
-Oasis – Live Forever | last aired Oct 25 | 11x
 Echo And The Bunnymen – The Killing Moon | last aired Oct 25 | 14x
 The Cure – Burn (Live) | last aired Oct 25 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Oct 26 | 14x
@@ -83,7 +82,6 @@ The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 3 | 46x
 Pixies – Ana | last aired Nov 3 | 27x
 Men At Work – Overkill | last aired Nov 3 | 17x
 Brian Eno – Spinning Away | last aired Nov 3 | 7x
-Bleachers – I Wanna Get Better | last aired Nov 4 | 176x
 Blur – Song 2 | last aired Nov 4 | 17x
 Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
 MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
@@ -100,5 +98,7 @@ The Cranberries – Dreams | last aired Nov 5 | 32x
 THE TEARDROP EXPLODES – Reward | last aired Nov 5 | 8x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 5 | 12x
 Lana Del Rey – Venice Bitch | last aired Nov 5 | 20x
+Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
+Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

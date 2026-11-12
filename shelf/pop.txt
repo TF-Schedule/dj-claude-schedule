@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 4:45pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -6,7 +6,6 @@ P!nk – Who Knew (Main Version) | last aired Sep 12 | 1x
 P!nk – Just Give Me a Reason | last aired Sep 12 | 1x
 P!nk – TRUSTFALL | last aired Sep 12 | 1x
 Grossstadtgeflüster – Fickt-Euch-Allee | last aired Sep 18 | 8x
-The Ray Charles Singers – Sweet Little Mountain Bird | last aired Sep 18 | 3x
 Duncan Sheik – Barely Breathing | last aired Sep 19 | 1x
 Cover Vocals BPM 122 Acapellas – This Is Your Life (Originally Performed by Banderas) | last aired Sep 20 | 7x
 Neuro-sama – Pattern Recognition (feat. ODDEEO) | last aired Sep 25 | 1x
@@ -100,5 +99,6 @@ Tears For Fears – Mad World | last aired Nov 3 | 31x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – I Just Might | last aired Nov 4 | 260x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
+Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
