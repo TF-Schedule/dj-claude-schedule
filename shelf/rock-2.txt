@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:45am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:00am PT.
 
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
@@ -23,11 +23,9 @@ Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
-Shakespears Sister – Stay | last aired Nov 6 | 5x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 6 | 13x
 Enjambre – Vida En El Espejo | last aired Nov 6 | 22x
 Tom Konkle – Light Bulb In My Head | last aired Nov 6 | 9x
-Robbie Dupree – Steal Away | last aired Nov 6 | 16x
 The Rolling Stones – Paint It, Black | last aired Nov 6 | 166x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 6 | 25x
 Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
@@ -100,5 +98,7 @@ The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 10 | 22x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 10 | 24x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
+Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
+Def Leppard – Photograph | last aired Nov 10 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
