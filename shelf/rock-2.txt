@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:00am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:15am PT.
 
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
@@ -50,7 +50,6 @@ Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
-Pink Floyd – Breathe (In the Air) | last aired Nov 7 | 13x
 Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
@@ -100,5 +99,6 @@ The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
 Fleetwood Mac – That's All for Everyone | last aired Nov 10 | 21x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 10 | 22x
+Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 10 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

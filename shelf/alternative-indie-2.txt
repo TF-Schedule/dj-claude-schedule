@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:00am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:15am PT.
 
-Helado Negro – Brown Fluorescence | last aired Nov 6 | 24x
 Siddhartha – 00:00 | last aired Nov 6 | 28x
 David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
@@ -100,5 +99,6 @@ Maria McKee – Life Is Sweet | last aired Nov 11 | 17x
 Kate Bush – Under The Ivy | last aired Nov 11 | 31x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 11 | 29x
 Gorillaz – Souk Eye | last aired Nov 11 | 16x
+twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
