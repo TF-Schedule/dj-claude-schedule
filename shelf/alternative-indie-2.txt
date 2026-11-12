@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 11:30pm PT.
 
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Lana Del Rey – Young And Beautiful | last aired Nov 6 | 38x
@@ -43,7 +43,6 @@ Cate Le Bon – Are You with Me Now? | last aired Nov 9 | 23x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 9 | 14x
 The Cure – A Forest | last aired Nov 9 | 29x
-Brijean – Counting Sheep | last aired Nov 9 | 31x
 Jockstrap – Concrete Over Water | last aired Nov 9 | 19x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 9 | 321x
@@ -100,5 +99,6 @@ The National – About Today (2021 Remaster) | last aired Nov 11 | 191x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
+Phoenix – Lisztomania | last aired Nov 11 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
