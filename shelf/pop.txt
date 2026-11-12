@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:30am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:45am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -30,7 +30,6 @@ P!nk – So What | last aired Oct 20 | 8x
 P!nk – What About Us | last aired Oct 20 | 3x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Oct 21 | 5x
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
-The Hollyridge Strings – Yesterday | last aired Oct 21 | 16x
 P!nk – Try | last aired Oct 21 | 2x
 Tabu – Dobra Vila | last aired Oct 22 | 1x
 Pitbull – International Love | last aired Oct 22 | 70x
@@ -100,5 +99,6 @@ The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 5
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 5 | 5x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
+Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

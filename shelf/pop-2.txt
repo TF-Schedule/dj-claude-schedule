@@ -1,6 +1,5 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 12:30am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 12:45am PT.
 
-Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 | 17x
 Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
@@ -100,5 +99,6 @@ Taeko Onuki – 4:00 A.M. | last aired Nov 11 | 23x
 Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
 Tom Konkle – When Did Love Become A Test | last aired Nov 11 | 4x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
+Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
