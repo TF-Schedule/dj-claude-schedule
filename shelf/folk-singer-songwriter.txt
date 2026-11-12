@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:30am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:45am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -58,7 +58,6 @@ Gigi Perez – Sailor Song | last aired Nov 6 | 237x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
-Robert Plant – Please Read The Letter | last aired Nov 7 | 1x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 7 | 13x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
@@ -100,5 +99,6 @@ Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 10 | 32x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 16x
+James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 10 | 93x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

@@ -1,6 +1,5 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:30am PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:45am PT.
 
-Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
 Dire Straits – Money for Nothing | last aired Nov 3 | 23x
@@ -100,5 +99,6 @@ Fleetwood Mac – That's All for Everyone | last aired Nov 10 | 21x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 10 | 22x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 10 | 24x
+Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
