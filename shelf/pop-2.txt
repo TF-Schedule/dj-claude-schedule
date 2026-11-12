@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 2:45am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 3:00am PT.
 
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
@@ -40,7 +40,6 @@ A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
-Takako Mamiya – LOVE TRIP | last aired Nov 9 | 15x
 JAWNY – true | last aired Nov 9 | 5x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
 Peter Fox – Haus am See | last aired Nov 11 | 19x
 Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
+Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
