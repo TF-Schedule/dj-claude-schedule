@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:15am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ DJ Benjii – Aykedashem Lebe | last aired Oct 29 | 15x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Oct 29 | 21x
 Bert Kaempfert – A Swingin' Safari | last aired Oct 30 | 13x
 Acker Bilk – Stranger On The Shore | last aired Oct 31 | 15x
-Hiatus Kaiyote – By Fire | last aired Oct 31 | 129x
 Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
@@ -100,5 +99,6 @@ GoGo Penguin – Hopopono | last aired Nov 10 | 84x
 Laufey – Madwoman | last aired Nov 10 | 47x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
 Chet Baker – You Don't Know What Love Is | last aired Nov 11 | 27x
+Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 11 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

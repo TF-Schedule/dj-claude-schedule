@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:15am PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:30am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -58,7 +58,6 @@ Gus Dapperton – Ditch | last aired Oct 27 | 21x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Oct 27 | 11x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Oct 27 | 18x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
-The Korgis – Everybody's Got To Learn Sometime | last aired Oct 27 | 19x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Oct 28 | 11x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
 Her's – Blue Lips | last aired Oct 28 | 29x
@@ -100,5 +99,6 @@ Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 |
 Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
+Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
