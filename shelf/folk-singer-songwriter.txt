@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:30pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:45pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -49,7 +49,6 @@ INXS – Never Tear Us Apart | last aired Nov 4 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 5 | 19x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
-Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 5 | 12x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
 Pink Floyd – Fearless | last aired Nov 6 | 22x
@@ -60,7 +59,6 @@ Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
 Don McLean – Vincent | last aired Nov 6 | 18x
 Hem – Half Acre (Remastered 2025) | last aired Nov 6 | 47x
 Gigi Perez – Sailor Song | last aired Nov 6 | 237x
-The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 6 | 6x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
@@ -100,5 +98,7 @@ Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
 Albert Hammond – When I'm Gone | last aired Nov 9 | 15x
 Barbara Pravi – Voilà | last aired Nov 9 | 27x
 Ben&Ben – Leaves | last aired Nov 9 | 52x
+The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
+Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
