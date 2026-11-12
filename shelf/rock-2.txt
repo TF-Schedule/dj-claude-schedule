@@ -1,4 +1,4 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:15pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:30pm PT.
 
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 6x
 The Strokes – Last Nite | last aired Nov 2 | 80x
@@ -27,7 +27,6 @@ Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 Crowded House – Don't Dream It's Over | last aired Nov 5 | 12x
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
 Pink Floyd – Money | last aired Nov 5 | 11x
-Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 5 | 28x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris Isaak – Blue Hotel (Remastered Album Version) | last aired Nov 6 | 11x
@@ -100,5 +99,6 @@ Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 The Killers – Mr. Brightside | last aired Nov 9 | 160x
 The White Stripes – Seven Nation Army | last aired Nov 9 | 35x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 9 | 5x
+Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

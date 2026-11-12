@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:15pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -60,7 +60,6 @@ Alfa Mist – Organic Rust | last aired Nov 8 | 115x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 8 | 5x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 8 | 57x
 Julian Lage – Emily | last aired Nov 8 | 7x
-Julie London – Cry Me A River | last aired Nov 8 | 81x
 GoGo Penguin – Raven | last aired Nov 8 | 83x
 John Coltrane – My Favorite Things | last aired Nov 9 | 54x
 Chet Baker – Almost Blue | last aired Nov 9 | 55x
@@ -100,5 +99,6 @@ Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 10 | 98x
 Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 10 | 25x
+Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
