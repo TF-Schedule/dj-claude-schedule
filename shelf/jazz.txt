@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 5:45pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 6:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -62,7 +62,6 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her 
 Julian Lage – Emily | last aired Nov 8 | 7x
 GoGo Penguin – Raven | last aired Nov 8 | 83x
 John Coltrane – My Favorite Things | last aired Nov 9 | 54x
-Chet Baker – Almost Blue | last aired Nov 9 | 55x
 Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
@@ -100,5 +99,6 @@ Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 10 | 25x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
+Sun Ra – Images | last aired Nov 10 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

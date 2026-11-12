@@ -1,9 +1,8 @@
-Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 5:45pm PT.
+Rock – 280 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 6:00pm PT.
 
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 6x
 The Strokes – Last Nite | last aired Nov 2 | 80x
 Styx – Mr. Roboto | last aired Nov 2 | 21x
-Chuck Berry – Johnny B. Goode | last aired Nov 3 | 27x
 Caifanes – Afuera | last aired Nov 3 | 12x
 Pink Floyd – Have a Cigar | last aired Nov 3 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 3 | 12x
@@ -21,7 +20,6 @@ Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 5 | 32x
-Charly García – Demoliendo Hoteles (Live) | last aired Nov 5 | 24x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 Crowded House – Don't Dream It's Over | last aired Nov 5 | 12x
@@ -100,5 +98,7 @@ The White Stripes – Seven Nation Army | last aired Nov 9 | 35x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 9 | 5x
 Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 9 | 39x
+Al Stewart – Year of the Cat | last aired Nov 9 | 32x
+Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
