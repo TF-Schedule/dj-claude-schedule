@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:00pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 9:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -89,7 +89,6 @@ Jack Johnson – Better Together | last aired Nov 9 | 148x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 Carole King – It's Too Late | last aired Nov 9 | 87x
-Damien Rice – The Blower's Daughter | last aired Nov 9 | 90x
 Dire Straits – Brothers in Arms | last aired Nov 9 | 24x
 Hem – Betting on Trains (Remastered 2025) | last aired Nov 9 | 22x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
@@ -100,5 +99,6 @@ Sarah McLachlan – Building a Mystery | last aired Nov 9 | 18x
 Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
 Albert Hammond – When I'm Gone | last aired Nov 9 | 15x
 Barbara Pravi – Voilà | last aired Nov 9 | 27x
+Ben&Ben – Leaves | last aired Nov 9 | 52x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
