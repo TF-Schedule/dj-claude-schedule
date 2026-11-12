@@ -1,4 +1,4 @@
-Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 7:21pm PT.
+Pop – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 7:30pm PT.
 
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 5 | 17x
@@ -45,7 +45,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 9 | 21x
 Falco – Vienna Calling | last aired Nov 9 | 26x
 Ferrante & Teicher – Exodus | last aired Nov 9 | 19x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
-Greg Shilling – Shampoo | last aired Nov 9 | 6x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
@@ -100,5 +99,6 @@ Harry Styles – As It Was | last aired Nov 11 | 69x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 The La's – There She Goes | last aired Nov 11 | 15x
 Taylor Swift – Cruel Summer | last aired Nov 11 | 136x
+Taeko Onuki – 4:00 A.M. | last aired Nov 11 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
