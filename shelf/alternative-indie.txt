@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 2:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -79,7 +79,6 @@ MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 5 | 20x
 Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 5 | 18x
-Foster The People – Sit Next to Me | last aired Nov 5 | 15x
 Soundgarden – Black Hole Sun | last aired Nov 5 | 84x
 Shellac – The End of Radio | last aired Nov 5 | 15x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 5 | 11x
@@ -100,5 +99,6 @@ Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
+Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 8 | 62x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
