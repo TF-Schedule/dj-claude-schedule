@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 3:45pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 11, 4:00pm PT.
 
 Mort Garson – Plantasia | last aired Nov 7 | 48x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
@@ -33,7 +33,6 @@ Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
 Daft Punk – One More Time | last aired Nov 9 | 150x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 9 | 22x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
-Cornelius – Star Fruit Surf Rider (Damon Albarn Remix) | last aired Nov 9 | 36x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Federico Aubele – Postales | last aired Nov 9 | 88x
@@ -100,5 +99,6 @@ Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 11 | 119x
 Massive Attack – Protection | last aired Nov 11 | 41x
 Bonobo – Kiara | last aired Nov 11 | 108x
 Cocteau Twins – Whales Tails | last aired Nov 11 | 36x
+Eluvium – Taken | last aired Nov 11 | 46x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
