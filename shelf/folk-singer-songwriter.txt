@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:45am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -7,7 +7,6 @@ Patti Smith Group – Dancing Barefoot | last aired Oct 22 | 1x
 Eva Cassidy – At Last (Acoustic) | last aired Oct 22 | 9x
 The Civil Wars – The One That Got Away | last aired Oct 23 | 7x
 Okkervil River – Lost Coastlines | last aired Oct 24 | 19x
-Adrianne Lenker – anything | last aired Oct 24 | 54x
 Mree – Into the Well | last aired Oct 25 | 5x
 -M- – La bonne étoile (Live 2020) | last aired Oct 25 | 7x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Oct 26 | 21x
@@ -100,5 +99,6 @@ Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
 Sufjan Stevens – Should Have Known Better | last aired Nov 10 | 89x
 Sufjan Stevens – Fourth of July | last aired Nov 10 | 43x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
+Kings Of Convenience – Rocky Trail | last aired Nov 10 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
