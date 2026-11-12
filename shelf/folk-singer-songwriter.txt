@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:15am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 12:30am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -87,7 +87,6 @@ Dire Straits – Brothers in Arms | last aired Nov 9 | 24x
 Hem – Betting on Trains (Remastered 2025) | last aired Nov 9 | 22x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
-Nick Drake – Northern Sky | last aired Nov 9 | 133x
 Phoebe Bridgers – Moon Song | last aired Nov 9 | 77x
 Sarah McLachlan – Building a Mystery | last aired Nov 9 | 18x
 Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
@@ -100,5 +99,6 @@ Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 9 | 29x
 Grouper – Alien Observer | last aired Nov 9 | 133x
 Bill Callahan – Riding For The Feeling | last aired Nov 9 | 45x
 Big Thief – Mary | last aired Nov 10 | 99x
+Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
