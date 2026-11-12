@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:00pm PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:15pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -29,7 +29,6 @@ The Platters – The Great Pretender (Single Version) | last aired Oct 31 | 36x
 The Weeknd – Starboy | last aired Oct 31 | 230x
 Stevie Wonder – Master Blaster (Jammin') | last aired Nov 1 | 24x
 The O'Jays – Back Stabbers | last aired Nov 1 | 26x
-Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 1 | 19x
 Stevie Wonder – Living For The City (Album Version) | last aired Nov 1 | 22x
 SZA – Kill Bill | last aired Nov 1 | 113x
 Stevie Wonder – Happy Birthday | last aired Nov 1 | 9x
@@ -100,5 +99,6 @@ Mavis Staples – We're Gonna Make It | last aired Nov 9 | 49x
 Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
 Diana Ross – I'm Coming Out | last aired Nov 9 | 58x
+Earth, Wind & Fire – September | last aired Nov 9 | 91x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

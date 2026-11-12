@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:00pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 11, 11:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -47,7 +47,6 @@ John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired No
 Cat Power – The Greatest | last aired Nov 4 | 6x
 INXS – Never Tear Us Apart | last aired Nov 4 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
-Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 5 | 19x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 5 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 5 | 26x
@@ -100,5 +99,6 @@ Ben&Ben – Leaves | last aired Nov 9 | 52x
 The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 9 | 29x
+Grouper – Alien Observer | last aired Nov 9 | 133x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
