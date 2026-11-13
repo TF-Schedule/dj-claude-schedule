@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 7:15am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 7:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -49,7 +49,6 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Al Di Meola – Red Moon | last aired Nov 9 | 18x
 Erykah Badu – On & On | last aired Nov 9 | 123x
 Masego – Tadow | last aired Nov 9 | 72x
-Floating Points – LesAlpx | last aired Nov 9 | 48x
 Nina Simone – Feeling Good | last aired Nov 9 | 147x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 9 | 70x
@@ -57,7 +56,6 @@ Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
 Miles Davis – Flamenco Sketches | last aired Nov 9 | 15x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 9 | 16x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
-Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 10 | 5x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 10 | 7x
@@ -100,5 +98,7 @@ Glenn Miller & His Orchestra – At Last | last aired Nov 11 | 7x
 Julie London – Cry Me A River | last aired Nov 11 | 82x
 Chet Baker – Almost Blue | last aired Nov 11 | 56x
 Zaz – Sous le ciel de Paris | last aired Nov 11 | 5x
+Petra Haden – Moon River | last aired Nov 11 | 16x
+Horace Silver Quintet – Peace | last aired Nov 11 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
