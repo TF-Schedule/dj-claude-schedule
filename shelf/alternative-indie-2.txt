@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 11:45am PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 12:00pm PT.
 
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
 Martha And The Muffins – Echo Beach | last aired Nov 9 | 13x
@@ -10,7 +10,6 @@ The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | las
 The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
-Beck – The New Pollution | last aired Nov 9 | 28x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
 Hammock – Tape Recorder | last aired Nov 9 | 132x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
@@ -100,5 +99,6 @@ Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 
 Pixies – Ana | last aired Nov 12 | 28x
 The Cranberries – Dreams | last aired Nov 12 | 33x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
+Blur – Song 2 | last aired Nov 12 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

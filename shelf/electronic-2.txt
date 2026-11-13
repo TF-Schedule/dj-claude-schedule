@@ -1,6 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 11:45am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 12:00pm PT.
 
-Dorian Electra – Feel Good Inc. | last aired Nov 10 | 14x
 Fraunhofer Diffraction – Kvrt in Space | last aired Nov 10 | 12x
 Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
 Caterina Barbieri – Fantas | last aired Nov 10 | 54x
@@ -100,5 +99,6 @@ Tycho – Dive | last aired Nov 13 | 104x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 13 | 102x
 Boards of Canada – Olson | last aired Nov 13 | 61x
 The Cinematic Orchestra – To Build A Home | last aired Nov 13 | 81x
+Röyksopp – Eple | last aired Nov 13 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
