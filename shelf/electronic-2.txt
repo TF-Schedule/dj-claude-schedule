@@ -1,6 +1,5 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:30pm PT.
 
-Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
@@ -100,5 +99,6 @@ Smith & Mighty – Same | last aired Nov 12 | 18x
 Adamski – Killer | last aired Nov 12 | 18x
 Bicep – Apricots | last aired Nov 12 | 68x
 Björk – Hyperballad | last aired Nov 12 | 27x
+Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 12 | 46x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

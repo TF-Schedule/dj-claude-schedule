@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ Melody Gardot – This Foolish Heart Could Love You | last aired Nov 10 | 7x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
 Paolo Conte – Via Con Me | last aired Nov 10 | 24x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 10 | 71x
-Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 10 | 98x
 Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
@@ -100,5 +99,6 @@ Khruangbin – Time (You and I) | last aired Nov 11 | 97x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 11 | 104x
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
 Bonobo – Kong | last aired Nov 11 | 83x
+Miles Davis – So What | last aired Nov 11 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

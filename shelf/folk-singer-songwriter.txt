@@ -1,11 +1,10 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Becky Levi and the Nightjars – Wake Me Up | last aired Oct 21 | 4x
 Patti Smith Group – Dancing Barefoot | last aired Oct 22 | 1x
 The Civil Wars – The One That Got Away | last aired Oct 23 | 7x
-Okkervil River – Lost Coastlines | last aired Oct 24 | 19x
 Mree – Into the Well | last aired Oct 25 | 5x
 -M- – La bonne étoile (Live 2020) | last aired Oct 25 | 7x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Oct 26 | 21x
@@ -100,5 +99,6 @@ Joni Mitchell – A Case of You | last aired Nov 10 | 45x
 Mitski – My Love Mine All Mine | last aired Nov 10 | 19x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 10 | 17x
+Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

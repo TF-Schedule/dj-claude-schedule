@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -27,7 +27,6 @@ Deathbrain – the empty space is stuck in my head | last aired Oct 25 | 7x
 Rhye – Open | last aired Oct 25 | 43x
 Aphex Twin – Windowlicker | last aired Oct 25 | 25x
 HYD – Freak | last aired Oct 25 | 12x
-I Monster – Daydream In Blue | last aired Oct 25 | 22x
 Never Get Used To People – Life Letters (Slowed+Reverb) | last aired Oct 26 | 4x
 Delia Derbyshire – Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) | last aired Oct 26 | 10x
 Kygo – Heaven On Your Mind | last aired Oct 26 | 11x
@@ -100,5 +99,6 @@ Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 9 | 23x
 Boards of Canada – Olson | last aired Nov 9 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
 Daft Punk – One More Time | last aired Nov 9 | 150x
+Martin Garrix – Carry You | last aired Nov 9 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

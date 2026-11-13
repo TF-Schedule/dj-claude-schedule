@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:30pm PT.
 
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
@@ -32,7 +32,6 @@ Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 Michael Hutchence – Slide Away | last aired Nov 10 | 18x
-This Mortal Coil – Song To The Siren | last aired Nov 10 | 33x
 Green Day – American Idiot (Album Version) | last aired Nov 10 | 15x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 10 | 7x
@@ -100,5 +99,6 @@ Arctic Monkeys – Do I Wanna Know? | last aired Nov 12 | 185x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 12 | 18x
 Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
+Lana Del Rey – Young And Beautiful | last aired Nov 12 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
