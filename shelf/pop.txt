@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:45pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -46,7 +46,6 @@ Ed Sheeran – Beautiful People (feat. Khalid) | last aired Oct 25 | 72x
 Os Mutantes – A Minha Menina | last aired Oct 25 | 43x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
 Djo – End of Beginning | last aired Oct 25 | 17x
-The McCoys – Hang on Sloopy | last aired Oct 26 | 15x
 Tove Lo – No One Dies From Love | last aired Oct 26 | 184x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
 Revolverheld – Ich lass für dich das Licht an | last aired Oct 26 | 17x
@@ -92,7 +91,6 @@ The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivag
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
-Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 6 | 55x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
@@ -100,5 +98,7 @@ Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Katy Perry – Roar | last aired Nov 8 | 111x
+Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 18x
+toe – Goodbye (Live) | last aired Nov 8 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
