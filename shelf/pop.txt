@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:15pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -54,7 +54,6 @@ Revolverheld – Ich lass für dich das Licht an | last aired Oct 26 | 17x
 Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Oct 27 | 11x
-Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Oct 27 | 18x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Oct 28 | 11x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
@@ -100,5 +99,6 @@ ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
+Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
