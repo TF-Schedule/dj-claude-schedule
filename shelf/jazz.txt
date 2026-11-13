@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 8:00am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 8:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -85,7 +85,6 @@ Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last 
 Sade – Kiss of Life (Remastered Version) | last aired Nov 11 | 92x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 11 | 81x
-Khruangbin – Time (You and I) | last aired Nov 11 | 97x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 11 | 104x
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
 Bonobo – Kong | last aired Nov 11 | 83x
@@ -100,5 +99,6 @@ Zaz – Sous le ciel de Paris | last aired Nov 11 | 5x
 Petra Haden – Moon River | last aired Nov 11 | 16x
 Horace Silver Quintet – Peace | last aired Nov 11 | 30x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 12 | 93x
+Ella Fitzgerald – Summertime | last aired Nov 12 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
