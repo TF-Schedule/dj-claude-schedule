@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 8:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -33,7 +33,6 @@ Delia Derbyshire – Doctor Who Opening Titles (“In Colour” Mix, Daleks Vers
 Kygo – Heaven On Your Mind | last aired Oct 26 | 11x
 Oneohtrix Point Never – Sleep Dealer | last aired Oct 26 | 9x
 ODESZA – Say My Name (feat. Zyra) | last aired Oct 26 | 46x
-Synergy – Chateau | last aired Oct 26 | 30x
 Wax Tailor – Seize The Day | last aired Oct 27 | 14x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Oct 27 | 33x
 The Orb – Earth (Gaia) | last aired Oct 28 | 28x
@@ -100,5 +99,6 @@ Tim Hecker – Black Refraction | last aired Nov 9 | 85x
 Massive Attack – Angel | last aired Nov 9 | 65x
 Portishead – It Could Be Sweet | last aired Nov 9 | 18x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 9 | 23x
+Boards of Canada – Olson | last aired Nov 9 | 60x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
