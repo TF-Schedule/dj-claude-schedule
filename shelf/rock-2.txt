@@ -1,7 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 1:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 2:00pm PT.
 
-The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 6 | 13x
-Enjambre – Vida En El Espejo | last aired Nov 6 | 22x
 Tom Konkle – Light Bulb In My Head | last aired Nov 6 | 9x
 The Rolling Stones – Paint It, Black | last aired Nov 6 | 166x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 6 | 25x
@@ -100,5 +98,7 @@ Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 The Beatles – Strawberry Fields Forever | last aired Nov 11 | 26x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 11 | 18x
+Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 11 | 25x
+Fleetwood Mac – Tusk | last aired Nov 11 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

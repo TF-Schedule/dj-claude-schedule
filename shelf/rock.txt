@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -31,8 +31,6 @@ gesunokiwamiotome – watashi igai watashi ja naino | last aired Oct 25 | 9x
 Rio Reiser – Für immer und dich (Album Version) | last aired Oct 26 | 2x
 Survivor – Eye of the Tiger | last aired Oct 26 | 24x
 Player – Baby Come Back | last aired Oct 26 | 43x
-Kenny Loggins – This Is It | last aired Oct 26 | 38x
-Toto – Georgy Porgy (album version) | last aired Oct 26 | 49x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
 Journey – Don't Stop Believin' (Album Version) | last aired Oct 27 | 24x
 Little River Band – Cool Change | last aired Oct 28 | 15x
@@ -100,5 +98,7 @@ Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
+The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 6 | 13x
+Enjambre – Vida En El Espejo | last aired Nov 6 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
