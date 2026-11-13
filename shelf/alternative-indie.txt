@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:30pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -65,7 +65,6 @@ Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 2 | 17x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 2 | 15x
 The Strokes – Ode To The Mets | last aired Nov 2 | 24x
-Big Data – Put Me to Work | last aired Nov 2 | 19x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 The Cure – Plainsong (Remastered) | last aired Nov 3 | 23x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
@@ -100,5 +99,6 @@ Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 8 | 62x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 8 | 14x
+Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

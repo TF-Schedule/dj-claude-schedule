@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:30pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 4:45pm PT.
 
 Tim Hecker – Black Refraction | last aired Nov 9 | 85x
 Massive Attack – Angel | last aired Nov 9 | 65x
@@ -24,7 +24,6 @@ Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov
 Massive Attack – Teardrop | last aired Nov 9 | 98x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 65x
 Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
-Bicep – Apricots | last aired Nov 10 | 67x
 Solarstone – Evensong | last aired Nov 10 | 14x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
 Fennesz – Endless Summer | last aired Nov 10 | 85x
@@ -100,5 +99,6 @@ Kavinsky – Nightcall | last aired Nov 12 | 22x
 Camille – Ta douleur | last aired Nov 12 | 14x
 Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
+Loscil – Estuarine | last aired Nov 12 | 152x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
