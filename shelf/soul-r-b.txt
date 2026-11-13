@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 11:00am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 11:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -73,7 +73,6 @@ Mavis Staples – We're Gonna Make It | last aired Nov 9 | 49x
 Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
 The Weeknd – After Hours | last aired Nov 9 | 18x
-Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 9 | 38x
 Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 9 | 105x
@@ -82,7 +81,6 @@ Alison Krauss – Down To The River To Pray (Live) | last aired Nov 9 | 13x
 The Altons – When You Go (That's When You'll Know) | last aired Nov 9 | 34x
 Beyoncé – Crazy In Love | last aired Nov 9 | 42x
 Mahmoud Ahmed – Ere Mela Mela / Meche Neu | last aired Nov 9 | 42x
-Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 9 | 108x
 Erykah Badu – Window Seat | last aired Nov 10 | 82x
 Lou Rawls – At Last | last aired Nov 10 | 12x
 Moby – In My Heart | last aired Nov 10 | 1x
@@ -100,5 +98,7 @@ The Style Council – Iwasadoledadstoyboy | last aired Nov 10 | 18x
 Chaka Khan – What Cha' Gonna Do for Me | last aired Nov 10 | 46x
 Aretha Franklin – Wholy Holy | last aired Nov 10 | 25x
 Kali Uchis – For: You | last aired Nov 10 | 29x
+Mahalia Jackson – How I Got Over (Live) | last aired Nov 10 | 27x
+Maxwell – This Woman's Work (Uncut) | last aired Nov 10 | 97x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
