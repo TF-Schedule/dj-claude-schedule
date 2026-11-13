@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -45,7 +45,6 @@ Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Oct 25 | 72x
 Os Mutantes – A Minha Menina | last aired Oct 25 | 43x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
-Djo – End of Beginning | last aired Oct 25 | 17x
 Tove Lo – No One Dies From Love | last aired Oct 26 | 184x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
 Revolverheld – Ich lass für dich das Licht an | last aired Oct 26 | 17x
@@ -100,5 +99,6 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 1
 Katy Perry – Roar | last aired Nov 8 | 111x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 18x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
+Jack Johnson – Upside Down | last aired Nov 8 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

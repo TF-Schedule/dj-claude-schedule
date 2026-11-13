@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:00pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -28,7 +28,6 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
 Zaz – Champs-Elysées | last aired Nov 5 | 1x
-DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 5 | 32x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 5 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 6 | 10x
 Melody Gardot – If You Love Me | last aired Nov 6 | 6x
@@ -100,5 +99,6 @@ Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired 
 Khruangbin – Time (You and I) | last aired Nov 11 | 97x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 11 | 104x
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
+Bonobo – Kong | last aired Nov 11 | 83x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
