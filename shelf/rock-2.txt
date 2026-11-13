@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:17am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:30am PT.
 
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 6 | 13x
@@ -15,7 +15,6 @@ Steve Miller Band – The Joker | last aired Nov 7 | 12x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
-Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
@@ -65,7 +64,6 @@ The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
 Fleetwood Mac – That's All for Everyone | last aired Nov 10 | 21x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 10 | 22x
-Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 10 | 24x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
 Def Leppard – Photograph | last aired Nov 10 | 16x
@@ -100,5 +98,7 @@ Bruce Springsteen – Born in the U.S.A. | last aired Nov 10 | 23x
 Daikaiju – Magic Wanda | last aired Nov 10 | 11x
 Willy DeVille – Heaven Stood Still | last aired Nov 10 | 12x
 Mazzy Star – Halah | last aired Nov 10 | 35x
+Christopher Cross – Sailing | last aired Nov 11 | 56x
+Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
