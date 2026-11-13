@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:45pm PT.
 
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
 Pink Floyd – Money | last aired Nov 5 | 11x
@@ -21,7 +21,6 @@ Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 7 | 12x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 7 | 33x
-Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 7 | 7x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
@@ -100,5 +99,6 @@ BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 10 | 67x
 Monster Magnet – Nod Scene | last aired Nov 10 | 2x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
+Rammstein – Deutschland | last aired Nov 10 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
