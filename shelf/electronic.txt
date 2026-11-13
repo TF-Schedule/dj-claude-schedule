@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 4:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 4:15am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -32,7 +32,6 @@ ODESZA – Say My Name (feat. Zyra) | last aired Oct 26 | 46x
 Wax Tailor – Seize The Day | last aired Oct 27 | 14x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Oct 27 | 33x
 The Orb – Earth (Gaia) | last aired Oct 28 | 28x
-Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Oct 28 | 76x
 Little People – Start Shootin' | last aired Oct 29 | 17x
 Rival Consoles – Untravel | last aired Oct 29 | 50x
 Mr.Kitty – After Dark | last aired Oct 29 | 11x
@@ -73,7 +72,6 @@ Eluvium – Surrounded by Illusion | last aired Nov 7 | 33x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
 Stardust – Music Sounds Better With You | last aired Nov 8 | 11x
 Daft Punk – Something About Us | last aired Nov 8 | 59x
-Bonobo – Cirrus | last aired Nov 8 | 134x
 Marie Vaunt – That Acid | last aired Nov 8 | 7x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Groove Armada – At the River | last aired Nov 8 | 34x
@@ -100,5 +98,7 @@ Helios – First Dream Called Ocean | last aired Nov 9 | 109x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
 Dorian Electra – Bizarre Love Triangle | last aired Nov 9 | 5x
 Marconi Union – Weightless | last aired Nov 9 | 97x
+Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 9 | 8x
+Alex Andre – thanks, my day is ruined | last aired Nov 9 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
