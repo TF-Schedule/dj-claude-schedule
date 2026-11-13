@@ -1,6 +1,5 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15pm PT.
 
-Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 9 | 23x
 Boards of Canada – Olson | last aired Nov 9 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
 Daft Punk – One More Time | last aired Nov 9 | 150x
@@ -100,5 +99,6 @@ Loscil – Estuarine | last aired Nov 12 | 152x
 Smoke City – Underwater Love | last aired Nov 12 | 5x
 Zero 7 – In The Waiting Line | last aired Nov 12 | 71x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
+Susumu Yokota – Saku | last aired Nov 12 | 73x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

@@ -1,7 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15pm PT.
 
-Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
-Carter Vail – Ants In My Room | last aired Nov 8 | 13x
 Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
@@ -100,5 +98,7 @@ Talking Heads – Psycho Killer | last aired Nov 11 | 27x
 Pale Saints – Kinky Love | last aired Nov 11 | 23x
 Beach House – Space Song | last aired Nov 11 | 120x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
+Slowdive – Alison | last aired Nov 11 | 42x
+Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

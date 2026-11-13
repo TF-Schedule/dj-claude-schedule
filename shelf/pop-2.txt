@@ -1,8 +1,7 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15pm PT.
 
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 18x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
-Victor Leksell – Skriker mitt namn | last aired Nov 8 | 10x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
 Alexander Rybak – Fairytale | last aired Nov 8 | 16x
@@ -100,5 +99,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 12 | 22x
 Men I Trust – Show Me How | last aired Nov 12 | 61x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 12 | 42x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 12 | 28x
+Takako Mamiya – LOVE TRIP | last aired Nov 12 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
