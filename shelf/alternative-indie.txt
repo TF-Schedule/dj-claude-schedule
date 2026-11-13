@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:11pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -20,11 +20,9 @@ The Police – Roxanne (Remastered 2003) | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 LP – Lost on You | last aired Oct 25 | 17x
 The Cure – Burn (Live) | last aired Oct 25 | 15x
-Eskimo Joe – Black Fingernails, Red Wine | last aired Oct 26 | 14x
 Playroom – Patient | last aired Oct 26 | 10x
 Joywave – Rumors | last aired Oct 26 | 18x
 Child Seat – Hyperphantasia | last aired Oct 26 | 7x
-Geowulf – Saltwater | last aired Oct 26 | 17x
 Joywave – In Clover | last aired Oct 27 | 18x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 Jeff Buckley – So Real | last aired Oct 28 | 3x
@@ -100,5 +98,7 @@ Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
 Martha And The Muffins – Echo Beach | last aired Nov 9 | 13x
+The Marías – Cariño | last aired Nov 9 | 16x
+Cardiacs – Big Ship | last aired Nov 9 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
