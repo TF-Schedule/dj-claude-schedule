@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 12:15am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 12:30am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -32,7 +32,6 @@ Stevie Wonder – Go Home | last aired Nov 2 | 24x
 Daryl Hall & John Oates – I Can't Go For That (No Can Do) (Remastered 2003) | last aired Nov 2 | 99x
 Edwin Starr – War | last aired Nov 2 | 19x
 The Edwin Hawkins Singers – Oh Happy Day | last aired Nov 2 | 20x
-Prince – Nothing Compares 2 U | last aired Nov 2 | 21x
 Stevie Wonder – You Haven't Done Nothin' | last aired Nov 2 | 27x
 Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 2 | 48x
 Marvin Gaye – I Heard It Through The Grapevine (SACD Stereo) | last aired Nov 2 | 49x
@@ -100,5 +99,6 @@ The Altons – When You Go (That's When You'll Know) | last aired Nov 9 | 34x
 Beyoncé – Crazy In Love | last aired Nov 9 | 42x
 Mahmoud Ahmed – Ere Mela Mela / Meche Neu | last aired Nov 9 | 42x
 Marvin Gaye – What's Going On | last aired Nov 9 | 290x
+Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 9 | 108x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

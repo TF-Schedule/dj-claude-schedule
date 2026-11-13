@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 12:15am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 12:30am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -68,7 +68,6 @@ Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 Röyksopp – Eple | last aired Nov 6 | 38x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 6 | 34x
 Tycho – Dive | last aired Nov 6 | 103x
-Sneaker Pimps – 6 Underground | last aired Nov 6 | 26x
 Tycho – Awake | last aired Nov 6 | 107x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
 Tycho – A Walk | last aired Nov 7 | 108x
@@ -100,5 +99,6 @@ Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
 Daft Punk – One More Time | last aired Nov 9 | 150x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
+Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
