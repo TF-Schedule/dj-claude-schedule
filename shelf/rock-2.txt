@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:45pm PT.
 
-Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
@@ -100,5 +99,6 @@ Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
 Leonard Cohen – Bird on the Wire | last aired Nov 10 | 36x
 Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
 Fleetwood Mac – The Ledge | last aired Nov 10 | 21x
+The Replacements – Answering Machine | last aired Nov 10 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -28,7 +28,6 @@ Jim James – St. James Infirmary | last aired Oct 24 | 28x
 Tom Konkle – Name On A Screen | last aired Oct 24 | 8x
 Smash Mouth – All Star (Album Version) | last aired Oct 24 | 7x
 Kenny Loggins – Footloose (From "Footloose" Soundtrack) | last aired Oct 24 | 34x
-Smash Mouth – Walkin' On The Sun | last aired Oct 25 | 13x
 David Bowie – Space Oddity | last aired Oct 25 | 117x
 Laibach – The Whistleblowers | last aired Oct 25 | 20x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
@@ -100,5 +99,6 @@ Toto – Africa | last aired Nov 4 | 92x
 Tom Konkle – Fail Upward For A Change | last aired Nov 4 | 3x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 4 | 139x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
+Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
