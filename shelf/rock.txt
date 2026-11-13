@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -25,7 +25,6 @@ Iron Mountain – Enthralldom | last aired Oct 23 | 6x
 Jim James – St. James Infirmary | last aired Oct 24 | 28x
 Tom Konkle – Name On A Screen | last aired Oct 24 | 8x
 Kenny Loggins – Footloose (From "Footloose" Soundtrack) | last aired Oct 24 | 34x
-David Bowie – Space Oddity | last aired Oct 25 | 117x
 Laibach – The Whistleblowers | last aired Oct 25 | 20x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
 gesunokiwamiotome – watashi igai watashi ja naino | last aired Oct 25 | 9x
@@ -100,5 +99,6 @@ Pink Floyd – Money | last aired Nov 5 | 11x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
+indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
