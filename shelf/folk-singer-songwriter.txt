@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:30am PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:45am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -89,7 +89,6 @@ Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 Kings Of Convenience – Rocky Trail | last aired Nov 10 | 30x
 Grouper – Holding | last aired Nov 10 | 116x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 10 | 32x
-Fleet Foxes – Helplessness Blues | last aired Nov 10 | 33x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 10 | 23x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 10 | 14x
 Mariza – Ó gente da minha terra | last aired Nov 10 | 37x
@@ -100,5 +99,6 @@ Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 10 | 17x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 11 | 19x
+Ben Howard – Only Love | last aired Nov 11 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
