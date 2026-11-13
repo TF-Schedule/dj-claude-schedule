@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 7:00am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 7:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -65,7 +65,6 @@ Khruangbin – May Ninth | last aired Nov 8 | 38x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
 Aretha Franklin – I Say a Little Prayer | last aired Nov 8 | 53x
 Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 8 | 18x
-Al Green – Simply Beautiful | last aired Nov 8 | 149x
 The Winstons – Amen Brother | last aired Nov 8 | 25x
 Nothing More – SPIRITS | last aired Nov 8 | 4x
 Alicia Keys – Fallin' (Album Version) | last aired Nov 8 | 25x
@@ -80,7 +79,6 @@ Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
 The Weeknd – After Hours | last aired Nov 9 | 18x
 Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 9 | 38x
-Earth, Wind & Fire – Shining Star | last aired Nov 9 | 69x
 Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 9 | 105x
@@ -100,5 +98,7 @@ Prince – Kiss (LP Version) | last aired Nov 10 | 27x
 Frank Ocean – Pyramids | last aired Nov 10 | 57x
 Prince – Sometimes It Snows in April (LP Version) | last aired Nov 10 | 43x
 Prince – Adore (2020 Remaster) | last aired Nov 10 | 49x
+Michael Jackson – Morphine (Album Version) | last aired Nov 10 | 6x
+Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 10 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
