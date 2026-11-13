@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:30am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -34,7 +34,6 @@ Michael Jackson – Jam | last aired Nov 6 | 7x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Steely Dan – Peg | last aired Nov 7 | 106x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 8 | 5x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 8 | 57x
 GoGo Penguin – Raven | last aired Nov 8 | 83x
 John Coltrane – My Favorite Things | last aired Nov 9 | 54x
@@ -50,7 +49,6 @@ Masego – Tadow | last aired Nov 9 | 72x
 Nina Simone – Feeling Good | last aired Nov 9 | 147x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
-Miles Davis – Flamenco Sketches | last aired Nov 9 | 15x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
@@ -100,5 +98,7 @@ Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 
 Bonobo – Terrapin | last aired Nov 12 | 140x
 Bobby McFerrin – Common Threads | last aired Nov 12 | 19x
 Grover Washington Jr. – Mister Magic | last aired Nov 12 | 49x
+Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 12 | 14x
+Burna Boy – Last Last | last aired Nov 12 | 48x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
