@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:30am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -11,7 +11,6 @@ Hotel Ugly – Mice City | last aired Oct 26 | 12x
 The Weeknd – Call Out My Name | last aired Oct 26 | 7x
 Toni Braxton – Un-Break My Heart | last aired Oct 27 | 28x
 Queen – Somebody To Love | last aired Oct 27 | 10x
-Otis Redding – (Sittin' On) the Dock of the Bay | last aired Oct 27 | 120x
 Lionel Richie – You Are | last aired Oct 29 | 22x
 Michael Jackson – Who Is It | last aired Oct 29 | 5x
 Maxwell – Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired Oct 29 | 10x
@@ -64,7 +63,6 @@ Bobby Caldwell – What You Won't Do for Love | last aired Nov 7 | 28x
 Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
 Khruangbin – May Ninth | last aired Nov 8 | 38x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
-Aretha Franklin – Day Dreaming (Album Version) | last aired Nov 8 | 132x
 Aretha Franklin – I Say a Little Prayer | last aired Nov 8 | 53x
 Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 8 | 18x
 Al Green – Simply Beautiful | last aired Nov 8 | 149x
@@ -80,7 +78,6 @@ Booker T. & The M.G.'s – Green Onions | last aired Nov 9 | 42x
 Mavis Staples – We're Gonna Make It | last aired Nov 9 | 49x
 Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
-Earth, Wind & Fire – September | last aired Nov 9 | 91x
 The Weeknd – After Hours | last aired Nov 9 | 18x
 Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 9 | 38x
 Earth, Wind & Fire – Shining Star | last aired Nov 9 | 69x
@@ -100,5 +97,8 @@ Moby – In My Heart | last aired Nov 10 | 1x
 Ben E. King – Stand By Me | last aired Nov 10 | 39x
 Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 10 | 30x
 Remi Wolf – Disco Man | last aired Nov 10 | 10x
+Prince – Kiss (LP Version) | last aired Nov 10 | 27x
+Frank Ocean – Pyramids | last aired Nov 10 | 57x
+Prince – Sometimes It Snows in April (LP Version) | last aired Nov 10 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
