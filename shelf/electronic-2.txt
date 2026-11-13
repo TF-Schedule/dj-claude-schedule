@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:00am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:15am PT.
 
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
 René Aubry – Steppe | last aired Nov 10 | 6x
@@ -13,7 +13,6 @@ Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
 Caterina Barbieri – Fantas | last aired Nov 10 | 54x
 Boards of Canada – Dayvan Cowboy | last aired Nov 10 | 56x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 10 | 13x
-Floating Points – Last Bloom | last aired Nov 10 | 97x
 Charli XCX – 360 | last aired Nov 10 | 146x
 Moloko – Being Is Bewildering | last aired Nov 10 | 8x
 Moby – Natural Blues | last aired Nov 10 | 3x
@@ -100,5 +99,6 @@ Massive Attack – Teardrop | last aired Nov 13 | 99x
 Bonobo – Kiara | last aired Nov 13 | 109x
 Portishead – Glory Box (Album Version) | last aired Nov 13 | 85x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 13 | 100x
+Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 13 | 61x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
