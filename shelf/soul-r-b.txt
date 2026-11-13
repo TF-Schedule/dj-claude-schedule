@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:15am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:30am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -87,7 +87,6 @@ Earth, Wind & Fire – Shining Star | last aired Nov 9 | 69x
 Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 9 | 105x
-Al Green – Let's Stay Together | last aired Nov 9 | 132x
 Al Green – The Lord Will Make a Way | last aired Nov 9 | 27x
 Alison Krauss – Down To The River To Pray (Live) | last aired Nov 9 | 13x
 The Altons – When You Go (That's When You'll Know) | last aired Nov 9 | 34x
@@ -100,5 +99,6 @@ Lou Rawls – At Last | last aired Nov 10 | 12x
 Moby – In My Heart | last aired Nov 10 | 1x
 Ben E. King – Stand By Me | last aired Nov 10 | 39x
 Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 10 | 30x
+Remi Wolf – Disco Man | last aired Nov 10 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
