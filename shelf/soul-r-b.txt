@@ -1,10 +1,9 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
 The Weeknd – Secrets | last aired Oct 1 | 7x
-Ghostwriter – heart on my sleeve | last aired Oct 17 | 6x
 Aaliyah – Rock The Boat | last aired Oct 18 | 12x
 George Michael Duet with Mary J. Blige – As (Album Version) | last aired Oct 18 | 17x
 THE FATBACK BAND – At Last | last aired Oct 20 | 9x
@@ -100,5 +99,6 @@ Marvin Gaye – What's Going On | last aired Nov 9 | 290x
 Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 9 | 108x
 Erykah Badu – Window Seat | last aired Nov 10 | 82x
 Lou Rawls – At Last | last aired Nov 10 | 12x
+Moby – In My Heart | last aired Nov 10 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

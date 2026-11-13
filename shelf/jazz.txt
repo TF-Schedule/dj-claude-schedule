@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
-Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
@@ -100,5 +99,6 @@ Miles Davis – So What | last aired Nov 11 | 26x
 Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
 Diana Krall – How Deep Is The Ocean | last aired Nov 11 | 11x
+Glenn Miller & His Orchestra – At Last | last aired Nov 11 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,6 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 2:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 2:45am PT.
 
-Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
 ABBA – Dancing Queen | last aired Nov 9 | 43x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 9 | 44x
@@ -100,5 +99,6 @@ Glass Animals – Life Itself | last aired Nov 12 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 12 | 17x
 Donna Summer – I Feel Love | last aired Nov 12 | 44x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 12 | 6x
+Rick Astley – Never Gonna Give You Up | last aired Nov 12 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

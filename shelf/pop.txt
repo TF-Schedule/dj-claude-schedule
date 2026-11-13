@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:45am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -33,7 +33,6 @@ P!nk – Try | last aired Oct 21 | 2x
 Tabu – Dobra Vila | last aired Oct 22 | 1x
 Pitbull – International Love | last aired Oct 22 | 70x
 Jeff Buckley – Hallelujah | last aired Oct 22 | 31x
-Cyndi Lauper – Girls Just Want to Have Fun | last aired Oct 23 | 26x
 Dua Lipa – Don't Start Now | last aired Oct 23 | 19x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Oct 23 | 8x
@@ -100,5 +99,6 @@ Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
 Alexander Rybak – Fairytale | last aired Nov 8 | 16x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
+Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
