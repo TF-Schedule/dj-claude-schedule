@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 4:45am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -33,7 +33,6 @@ Natalie Cole – At Last | last aired Nov 6 | 11x
 Charles Mingus – Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired Nov 6 | 19x
 Chuck Mangione – Feels So Good | last aired Nov 6 | 28x
 Michael Jackson – Jam | last aired Nov 6 | 7x
-Khruangbin – A Calf Born In Winter | last aired Nov 6 | 86x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Steely Dan – Peg | last aired Nov 7 | 106x
@@ -100,5 +99,6 @@ Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
 Diana Krall – How Deep Is The Ocean | last aired Nov 11 | 11x
 Glenn Miller & His Orchestra – At Last | last aired Nov 11 | 7x
+Julie London – Cry Me A River | last aired Nov 11 | 82x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
