@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:00pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -8,7 +8,6 @@ Helen Forrest – It's Been A Long, Long Time | last aired Oct 20 | 12x
 Ken Thomson And Slow/Fast – We Are Not All in This Together | last aired Oct 25 | 14x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Oct 26 | 37x
 Glenn Miller & His Orchestra – In the Mood | last aired Oct 27 | 1x
-Bart&Baker – Stop Googling Me ! | last aired Oct 27 | 1x
 Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired Oct 27 | 1x
 Squirrel Nut Zippers – Hell | last aired Oct 27 | 1x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Oct 28 | 24x
@@ -100,5 +99,6 @@ Hindi Zahra – Beautiful Tango (Remastered Version) | last aired Nov 12 | 30x
 Sun Ra – Images | last aired Nov 12 | 30x
 Duke Ellington – In A Sentimental Mood | last aired Nov 12 | 115x
 Miles Davis – Blue in Green | last aired Nov 12 | 106x
+Bill Evans – Peace Piece (Album Version) | last aired Nov 12 | 178x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
