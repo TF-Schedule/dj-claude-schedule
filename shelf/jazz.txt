@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:15am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
-The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
 Zaz – Champs-Elysées | last aired Nov 5 | 1x
@@ -52,7 +51,6 @@ Nina Simone – Feeling Good | last aired Nov 9 | 147x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
 Miles Davis – Flamenco Sketches | last aired Nov 9 | 15x
-Alice Coltrane – Journey In Satchidananda | last aired Nov 9 | 16x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
@@ -67,7 +65,6 @@ Nina Simone – Wild Is The Wind | last aired Nov 10 | 35x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 Nat King Cole – Autumn Leaves | last aired Nov 10 | 11x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 10 | 27x
-John Coltrane – Lush Life | last aired Nov 10 | 35x
 GoGo Penguin – Hopopono | last aired Nov 10 | 84x
 Laufey – Madwoman | last aired Nov 10 | 47x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
@@ -100,5 +97,8 @@ Sade – Cherish the Day (Remastered Version) | last aired Nov 12 | 93x
 Ella Fitzgerald – Summertime | last aired Nov 12 | 99x
 Elvis Costello – Almost Blue | last aired Nov 12 | 16x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
+Bonobo – Terrapin | last aired Nov 12 | 140x
+Bobby McFerrin – Common Threads | last aired Nov 12 | 19x
+Grover Washington Jr. – Mister Magic | last aired Nov 12 | 49x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
