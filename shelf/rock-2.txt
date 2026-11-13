@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:45pm PT.
 
-Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
 Pink Floyd – Money | last aired Nov 5 | 11x
@@ -100,5 +99,6 @@ The Replacements – Answering Machine | last aired Nov 10 | 20x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
 BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
+Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 10 | 67x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

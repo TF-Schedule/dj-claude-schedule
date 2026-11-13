@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:30pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 6:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -37,7 +37,6 @@ Jeff Buckley – So Real | last aired Oct 28 | 3x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – You | last aired Oct 28 | 14x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
-Wolf Alice – Don't Delete The Kisses | last aired Oct 29 | 35x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
 Love and Rockets – So Alive | last aired Oct 29 | 8x
 Miracles of Modern Science – Dear Pressure | last aired Oct 29 | 20x
@@ -100,5 +99,6 @@ Virus – Imágenes Paganas | last aired Nov 8 | 15x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 8 | 21x
 Bowling For Soup – 1985 | last aired Nov 8 | 13x
 Alabama 3 – Thank you | last aired Nov 8 | 9x
+Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
