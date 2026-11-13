@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:15pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -62,7 +62,6 @@ Nina Simone – Feeling Good | last aired Nov 9 | 147x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 9 | 70x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 9 | 48x
-Bill Evans – Peace Piece (Album Version) | last aired Nov 9 | 177x
 Miles Davis – Flamenco Sketches | last aired Nov 9 | 15x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 9 | 16x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
@@ -100,5 +99,6 @@ Nat King Cole – Nature Boy | last aired Nov 11 | 52x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 11 | 56x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 11 | 82x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 11 | 22x
+Sade – Kiss of Life (Remastered Version) | last aired Nov 11 | 92x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:15pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:30pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -83,7 +83,6 @@ The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 9 | 29x
 Grouper – Alien Observer | last aired Nov 9 | 133x
-Bill Callahan – Riding For The Feeling | last aired Nov 9 | 45x
 Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 10 | 32x
@@ -100,5 +99,6 @@ Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 10 | 32
 Fleet Foxes – Helplessness Blues | last aired Nov 10 | 33x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 10 | 23x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 10 | 14x
+Mariza – Ó gente da minha terra | last aired Nov 10 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
