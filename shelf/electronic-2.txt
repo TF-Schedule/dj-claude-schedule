@@ -1,10 +1,9 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 8:45pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:00pm PT.
 
 Daft Punk – One More Time | last aired Nov 9 | 150x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
-Federico Aubele – Postales | last aired Nov 9 | 88x
 Groove Armada – Madder | last aired Nov 9 | 15x
 Helios – First Dream Called Ocean | last aired Nov 9 | 109x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
@@ -20,7 +19,6 @@ Tim Hecker – Harmony in Blue I | last aired Nov 9 | 65x
 Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 Solarstone – Evensong | last aired Nov 10 | 14x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 10 | 214x
-Fennesz – Endless Summer | last aired Nov 10 | 85x
 Thievery Corporation – Lebanese Blonde | last aired Nov 10 | 67x
 René Aubry – Steppe | last aired Nov 10 | 6x
 Michael Brook – Ultramarine | last aired Nov 10 | 24x
@@ -100,5 +98,7 @@ Portishead – Sour Times | last aired Nov 12 | 22x
 Lemon Jelly – Ramblin' Man | last aired Nov 12 | 43x
 Grimes – Oblivion | last aired Nov 12 | 11x
 Smith & Mighty – Same | last aired Nov 12 | 18x
+Adamski – Killer | last aired Nov 12 | 18x
+Bicep – Apricots | last aired Nov 12 | 68x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
