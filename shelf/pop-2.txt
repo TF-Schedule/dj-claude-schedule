@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:30pm PT.
 
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
@@ -11,7 +11,6 @@ ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 9 | 44x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 9 | 11x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 9 | 23x
 Falco – Vienna Calling | last aired Nov 9 | 26x
-Ferrante & Teicher – Exodus | last aired Nov 9 | 19x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
@@ -100,5 +99,6 @@ Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 12 | 28x
 Takako Mamiya – LOVE TRIP | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 12 | 31x
+Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

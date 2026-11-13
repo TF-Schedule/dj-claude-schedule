@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:15pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 9:30pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -55,7 +55,6 @@ Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
 Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
-Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 8 | 19x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
 The Weepies – Gotta Have You | last aired Nov 8 | 39x
 Laith Al-Deen – Dein Lied | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Michael Hedges – Aerial Boundaries | last aired Nov 10 | 42x
 Joni Mitchell – A Case of You | last aired Nov 10 | 45x
 Mitski – My Love Mine All Mine | last aired Nov 10 | 19x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
+William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 10 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
