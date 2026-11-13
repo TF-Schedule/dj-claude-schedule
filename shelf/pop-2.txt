@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 9:45pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 10:00pm PT.
 
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
@@ -34,7 +34,6 @@ Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Harry Styles – Watermelon Sugar | last aired Nov 10 | 16x
 Tate McRae – Miss possessive | last aired Nov 10 | 2x
-Cyndi Lauper – All Through the Night | last aired Nov 10 | 62x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 10 | 23x
 Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
@@ -100,5 +99,6 @@ Takako Mamiya – LOVE TRIP | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 12 | 31x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
+The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
