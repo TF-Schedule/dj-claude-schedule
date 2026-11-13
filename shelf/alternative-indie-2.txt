@@ -1,7 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:30pm PT.
 
-Bowling For Soup – 1985 | last aired Nov 8 | 13x
-Alabama 3 – Thank you | last aired Nov 8 | 9x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
 Carter Vail – Ants In My Room | last aired Nov 8 | 13x
@@ -100,5 +98,7 @@ Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
 R.E.M. – Endgame | last aired Nov 11 | 12x
 Talking Heads – Psycho Killer | last aired Nov 11 | 27x
+Pale Saints – Kinky Love | last aired Nov 11 | 23x
+Beach House – Space Song | last aired Nov 11 | 120x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

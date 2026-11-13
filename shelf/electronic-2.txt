@@ -1,6 +1,5 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:15pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:30pm PT.
 
-Tim Hecker – Black Refraction | last aired Nov 9 | 85x
 Massive Attack – Angel | last aired Nov 9 | 65x
 Portishead – It Could Be Sweet | last aired Nov 9 | 18x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 9 | 23x
@@ -100,5 +99,6 @@ Camille – Ta douleur | last aired Nov 12 | 14x
 Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
 Loscil – Estuarine | last aired Nov 12 | 152x
+Smoke City – Underwater Love | last aired Nov 12 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

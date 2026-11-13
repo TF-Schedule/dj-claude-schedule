@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 5:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -17,7 +17,6 @@ Tom Robinson – The Saturday Disco | last aired Oct 24 | 1x
 Björk – Army Of Me | last aired Oct 24 | 20x
 The 1975 – Robbers | last aired Oct 24 | 20x
 Sex Pistols – Anarchy In The UK | last aired Oct 24 | 12x
-Björk – Unravel | last aired Oct 25 | 26x
 The xx – Intro | last aired Oct 25 | 3x
 The Police – Roxanne (Remastered 2003) | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
@@ -57,7 +56,6 @@ The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
 Montaigne – Technicolour | last aired Oct 31 | 5x
 Dot Allison – Bleached By The Sun | last aired Oct 31 | 12x
 TV Girl – Lovers Rock | last aired Oct 31 | 3x
-Fugazi – Waiting Room | last aired Oct 31 | 12x
 Ednaswap – Torn | last aired Oct 31 | 17x
 Men At Work – Down Under | last aired Nov 1 | 8x
 Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
@@ -100,5 +98,7 @@ Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
 Virus – Imágenes Paganas | last aired Nov 8 | 15x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 8 | 21x
+Bowling For Soup – 1985 | last aired Nov 8 | 13x
+Alabama 3 – Thank you | last aired Nov 8 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
