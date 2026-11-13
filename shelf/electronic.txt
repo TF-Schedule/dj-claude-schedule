@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:45pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -75,7 +75,6 @@ Tycho – A Walk | last aired Nov 7 | 108x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 7 | 9x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
 Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
-Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 7 | 43x
 Eluvium – Surrounded by Illusion | last aired Nov 7 | 33x
 Chris Snelling – Le onde | last aired Nov 8 | 20x
 Stardust – Music Sounds Better With You | last aired Nov 8 | 11x
@@ -100,5 +99,6 @@ Boards of Canada – Olson | last aired Nov 9 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 9 | 54x
 Daft Punk – One More Time | last aired Nov 9 | 150x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
+Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

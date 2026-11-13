@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:30pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 10:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -6,7 +6,6 @@ John T. Williams – Anything Goes | last aired Oct 15 | 9x
 John McLaughlin – You Know, You Know (Album Version) | last aired Oct 19 | 23x
 Helen Forrest – It's Been A Long, Long Time | last aired Oct 20 | 12x
 Ken Thomson And Slow/Fast – We Are Not All in This Together | last aired Oct 25 | 14x
-Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Oct 25 | 22x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Oct 26 | 37x
 Glenn Miller & His Orchestra – In the Mood | last aired Oct 27 | 1x
 Bart&Baker – Stop Googling Me ! | last aired Oct 27 | 1x
@@ -100,5 +99,6 @@ Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
 Bonobo – Kong | last aired Nov 11 | 83x
 Miles Davis – So What | last aired Nov 11 | 26x
+Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
