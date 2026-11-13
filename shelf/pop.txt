@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 3:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 3:30pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -44,7 +44,6 @@ Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
 Tove Lo – No One Dies From Love | last aired Oct 26 | 184x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
-Revolverheld – Ich lass für dich das Licht an | last aired Oct 26 | 17x
 Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Oct 27 | 11x
@@ -100,5 +99,6 @@ Alexander Rybak – Fairytale | last aired Nov 8 | 16x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
+ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 9 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
