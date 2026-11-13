@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:00pm PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 4:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -48,7 +48,6 @@ Euology – Logic | last aired Oct 30 | 6x
 The 1975 – Somebody Else | last aired Oct 30 | 20x
 David Bowie – Subterraneans (2017 Remaster) | last aired Oct 31 | 37x
 Sneaker Pimps – How Do | last aired Oct 31 | 14x
-Adamski – Killer | last aired Oct 31 | 17x
 Kraftwerk – Das Model | last aired Nov 1 | 27x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 1 | 31x
 Ulrich Schnauss – I Take Comfort in Your Ignorance (2019 Version) | last aired Nov 1 | 37x
@@ -100,5 +99,6 @@ Boards of Canada – Blood In The Labyrinth | last aired Nov 9 | 23x
 Boards of Canada – Roygbiv | last aired Nov 9 | 41x
 Portishead – Roads | last aired Nov 9 | 61x
 Portishead – Wandering Star | last aired Nov 9 | 24x
+Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 9 | 398x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
