@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -81,7 +81,6 @@ Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Jeff Buckley – Last Goodbye | last aired Nov 7 | 38x
-Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 8 | 62x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
 Virus – Imágenes Paganas | last aired Nov 8 | 15x
@@ -100,5 +99,6 @@ Martha And The Muffins – Echo Beach | last aired Nov 9 | 13x
 The Marías – Cariño | last aired Nov 9 | 16x
 Cardiacs – Big Ship | last aired Nov 9 | 19x
 Cate Le Bon – Are You with Me Now? | last aired Nov 9 | 23x
+Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
