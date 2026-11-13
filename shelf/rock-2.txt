@@ -1,7 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 5:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 6:00pm PT.
 
-The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
-Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
@@ -62,7 +60,6 @@ Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Turnstile – BLACKOUT | last aired Nov 9 | 7x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 The Killers – Mr. Brightside | last aired Nov 9 | 160x
-The White Stripes – Seven Nation Army | last aired Nov 9 | 35x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 9 | 5x
 Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 9 | 39x
@@ -100,5 +97,8 @@ Leonard Cohen – Bird on the Wire | last aired Nov 10 | 36x
 Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
 Fleetwood Mac – The Ledge | last aired Nov 10 | 21x
 The Replacements – Answering Machine | last aired Nov 10 | 20x
+King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
+The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
+BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
