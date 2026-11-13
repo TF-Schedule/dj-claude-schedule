@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:45am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -44,7 +44,6 @@ Marvin Gaye – Let's Get It On | last aired Nov 4 | 10x
 Khruangbin – People Everywhere ii | last aired Nov 4 | 65x
 The Blind Boys Of Alabama – Amazing Grace | last aired Nov 5 | 18x
 SWV – Weak | last aired Nov 5 | 21x
-Khruangbin – August 10 | last aired Nov 5 | 91x
 Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 5 | 41x
 Aretha Franklin – Rock Steady (Album Version) | last aired Nov 5 | 64x
 Prince – Uptown (LP Version) | last aired Nov 5 | 28x
@@ -100,5 +99,6 @@ Erykah Badu – Window Seat | last aired Nov 10 | 82x
 Lou Rawls – At Last | last aired Nov 10 | 12x
 Moby – In My Heart | last aired Nov 10 | 1x
 Ben E. King – Stand By Me | last aired Nov 10 | 39x
+Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 10 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
