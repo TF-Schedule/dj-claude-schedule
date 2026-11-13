@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -6,7 +6,6 @@ Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Se
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 Sons Of Apollo – Desolate July | last aired Sep 25 | 1x
 The Animals – The House of the Rising Sun | last aired Sep 29 | 4x
-Ashra – Midnight On Mars | last aired Oct 5 | 16x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Oct 10 | 16x
 Extreme – More Than Words | last aired Oct 15 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -100,5 +99,6 @@ Billy Joel – The River of Dreams (Album Version) | last aired Nov 4 | 11x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
+Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

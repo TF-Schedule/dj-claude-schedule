@@ -1,10 +1,9 @@
-Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:30pm PT.
+Folk / Singer-Songwriter – 165 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:45pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Becky Levi and the Nightjars – Wake Me Up | last aired Oct 21 | 4x
 Patti Smith Group – Dancing Barefoot | last aired Oct 22 | 1x
-Eva Cassidy – At Last (Acoustic) | last aired Oct 22 | 9x
 The Civil Wars – The One That Got Away | last aired Oct 23 | 7x
 Okkervil River – Lost Coastlines | last aired Oct 24 | 19x
 Mree – Into the Well | last aired Oct 25 | 5x
@@ -100,5 +99,6 @@ Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 10 | 14x
 Mariza – Ó gente da minha terra | last aired Nov 10 | 37x
 Michael Hedges – Aerial Boundaries | last aired Nov 10 | 42x
 Joni Mitchell – A Case of You | last aired Nov 10 | 45x
+Mitski – My Love Mine All Mine | last aired Nov 10 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

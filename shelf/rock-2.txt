@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:45pm PT.
 
-Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 MGMT – Electric Feel (Album Version) | last aired Nov 5 | 29x
 Pink Floyd – Money | last aired Nov 5 | 11x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
@@ -56,7 +55,6 @@ Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Fito Páez – El amor después del amor | last aired Nov 9 | 27x
 Tom Konkle – Losing Faith | last aired Nov 9 | 7x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
-Turnstile – BLACKOUT | last aired Nov 9 | 7x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 The Killers – Mr. Brightside | last aired Nov 9 | 160x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 9 | 5x
@@ -100,5 +98,7 @@ King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
 BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 10 | 67x
+Monster Magnet – Nod Scene | last aired Nov 10 | 2x
+The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
