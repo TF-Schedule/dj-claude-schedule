@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -16,7 +16,6 @@ Tom Robinson – The Saturday Disco | last aired Oct 24 | 1x
 The 1975 – Robbers | last aired Oct 24 | 20x
 Sex Pistols – Anarchy In The UK | last aired Oct 24 | 12x
 The xx – Intro | last aired Oct 25 | 3x
-The Police – Roxanne (Remastered 2003) | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 LP – Lost on You | last aired Oct 25 | 17x
 The Cure – Burn (Live) | last aired Oct 25 | 15x
@@ -100,5 +99,6 @@ Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last a
 Martha And The Muffins – Echo Beach | last aired Nov 9 | 13x
 The Marías – Cariño | last aired Nov 9 | 16x
 Cardiacs – Big Ship | last aired Nov 9 | 19x
+Cate Le Bon – Are You with Me Now? | last aired Nov 9 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

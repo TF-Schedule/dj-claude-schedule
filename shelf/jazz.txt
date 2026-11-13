@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:15pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -30,7 +30,6 @@ Chuck Mangione – Feels So Good | last aired Nov 6 | 28x
 Michael Jackson – Jam | last aired Nov 6 | 7x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
-Steely Dan – Peg | last aired Nov 7 | 106x
 Steely Dan – Home At Last | last aired Nov 9 | 32x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
 Chet Baker – My Funny Valentine | last aired Nov 9 | 116x
@@ -100,5 +99,6 @@ Sun Ra – Images | last aired Nov 12 | 30x
 Duke Ellington – In A Sentimental Mood | last aired Nov 12 | 115x
 Miles Davis – Blue in Green | last aired Nov 12 | 106x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 12 | 178x
+Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 12 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
