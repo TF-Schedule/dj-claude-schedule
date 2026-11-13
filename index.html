@@ -196,7 +196,15 @@ function normT(t) {
 // Sortieren wie in Bibliotheken: führende Klammern, Anführungszeichen und Satzzeichen ignorieren
 // – „(Sittin' On) The Dock of the Bay“ steht unter S; angezeigt wird weiter der volle Titel
 const sortName = v => String(v).replace(/^[\s(\[{"'„“‚‘’¿¡.…-]+/, "").replace(/^\(?([^)]*)\)\s*/, "$1 ");
-const key = (a, t) => normA(a) + "|" + normT(t);
+// Zuordnungsschlüssel. Normalerweise wird alles ab „&“/„and“/„with“ im Künstlernamen ignoriert. Gibt es aber zwei
+// verschiedene Titel, die dadurch zusammenfallen würden (z. B. „Charles Lloyd“ und „Charles Lloyd & The Marvels“ –
+// You Are So Beautiful), bleibt der volle Name entscheidend (nur „feat. …“ wird dann noch ignoriert).  Seit 13.11.2026.
+function normA2(a) {
+  return a.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+    .replace(/\s+(feat\.?|featuring|ft\.)\s.*$/, "").replace(/^the\s+/, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+let SHARED = new Set();
+const key = (a, t) => { const b = normA(a) + "|" + normT(t); return SHARED.has(b) ? normA2(a) + "|" + normT(t) : b; };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const fmt = iso => iso ? new Date(iso).toLocaleString("de-DE", { timeZone: "Europe/Berlin", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }) : "";
 const hoursSince = iso => iso ? (Date.now() - new Date(iso).getTime()) / 36e5 : 1e9;
@@ -330,6 +338,8 @@ async function load() {
   const [t, n, p, c] = await Promise.all([get("tracks.csv"), get("notes.csv"), get("plays.csv"), get("countries.csv")]);
   lands = new Map(c.map(r => [normA(r.artist), r.country]));
   tracks = t.map(r => ({ ...r, plays: +r.plays || 0 }));
+  SHARED = new Set(); { const seenK = new Map(); for (const r of tracks) { const b = normA(r.artist) + "|" + normT(r.title), f = normA2(r.artist) + "|" + normT(r.title);
+    if (seenK.has(b) && seenK.get(b) !== f) SHARED.add(b); else seenK.set(b, f); } }
   plays = p.reverse();
   notes = new Map(n.map(r => [key(r.artist, r.title), { ...EMPTY, ...r }]));
   loadPending();
