@@ -1,4 +1,4 @@
-Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 12:30am PT.
+Electronic – 210 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 12:45am PT.
 
 Groove Armada – Madder | last aired Nov 9 | 15x
 Helios – First Dream Called Ocean | last aired Nov 9 | 109x
@@ -24,7 +24,6 @@ Dorian Electra – Feel Good Inc. | last aired Nov 10 | 14x
 Fraunhofer Diffraction – Kvrt in Space | last aired Nov 10 | 12x
 Thievery Corporation – Omid | last aired Nov 10 | 21x
 Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
-Steve Roach – Living the Dream | last aired Nov 10 | 50x
 Caterina Barbieri – Fantas | last aired Nov 10 | 54x
 Boards of Canada – Dayvan Cowboy | last aired Nov 10 | 56x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 10 | 13x
@@ -100,5 +99,6 @@ Thom Yorke – 5.17 | last aired Nov 12 | 20x
 Thievery Corporation – Facing East | last aired Nov 12 | 57x
 Peggy Gou – Starry Night | last aired Nov 12 | 168x
 Synergy – Chateau | last aired Nov 12 | 31x
+Sneaker Pimps – How Do | last aired Nov 12 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
