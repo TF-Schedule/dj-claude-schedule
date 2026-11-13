@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:15pm PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -24,7 +24,6 @@ Acker Bilk – Stranger On The Shore | last aired Oct 31 | 15x
 Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Kid Charlemagne | last aired Nov 1 | 24x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
-THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 2 | 12x
 Steely Dan – Time Out Of Mind | last aired Nov 2 | 33x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 3 | 2x
 The Dave Brubeck Quartet – Take Five | last aired Nov 3 | 55x
@@ -100,5 +99,6 @@ Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last 
 Sade – Kiss of Life (Remastered Version) | last aired Nov 11 | 92x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 11 | 81x
+Khruangbin – Time (You and I) | last aired Nov 11 | 97x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

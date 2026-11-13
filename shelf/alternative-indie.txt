@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 12, 7:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -23,7 +23,6 @@ Echo And The Bunnymen – The Killing Moon | last aired Oct 25 | 14x
 The Cure – Burn (Live) | last aired Oct 25 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Oct 26 | 14x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Oct 26 | 19x
-Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Oct 26 | 14x
 Playroom – Patient | last aired Oct 26 | 10x
 Joywave – Rumors | last aired Oct 26 | 18x
 Child Seat – Hyperphantasia | last aired Oct 26 | 7x
@@ -100,5 +99,6 @@ Alabama 3 – Thank you | last aired Nov 8 | 9x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
 Carter Vail – Ants In My Room | last aired Nov 8 | 13x
+Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

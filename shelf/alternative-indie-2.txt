@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 12, 7:30pm PT.
 
-Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
@@ -100,5 +99,6 @@ Beach House – Space Song | last aired Nov 11 | 120x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
+Arctic Monkeys – Do I Wanna Know? | last aired Nov 12 | 185x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
