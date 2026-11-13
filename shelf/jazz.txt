@@ -1,4 +1,4 @@
-Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:00am PT.
+Jazz – 135 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 1:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -70,7 +70,6 @@ Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 10 | 71x
 Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 10 | 14x
-Steely Dan – Babylon Sisters | last aired Nov 10 | 56x
 Nina Simone – Wild Is The Wind | last aired Nov 10 | 35x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 Charles Lloyd – You Are So Beautiful | last aired Nov 10 | 19x
@@ -100,5 +99,6 @@ Bonobo – Kong | last aired Nov 11 | 83x
 Miles Davis – So What | last aired Nov 11 | 26x
 Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
+Diana Krall – How Deep Is The Ocean | last aired Nov 11 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
