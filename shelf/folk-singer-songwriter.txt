@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 2:45pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 3:00pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -30,7 +30,6 @@ Leonard Cohen – Hallelujah | last aired Nov 1 | 34x
 Leonard Cohen – Treaty | last aired Nov 2 | 10x
 Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
-The Cure – Pictures of You | last aired Nov 3 | 40x
 Leonard Cohen – So Long, Marianne | last aired Nov 3 | 31x
 Hozier – From Eden | last aired Nov 4 | 50x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
@@ -100,5 +99,6 @@ Ben Howard – Only Love | last aired Nov 11 | 7x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
 Colbie Caillat – Try | last aired Nov 11 | 10x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
+Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

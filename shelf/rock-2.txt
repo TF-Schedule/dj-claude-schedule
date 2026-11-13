@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 2:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 3:00pm PT.
 
 Tom Konkle – Light Bulb In My Head | last aired Nov 6 | 9x
 The Rolling Stones – Paint It, Black | last aired Nov 6 | 166x
@@ -38,7 +38,6 @@ Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 9 | 79x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
-Dire Straits – Sultans of Swing | last aired Nov 9 | 83x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 9 | 18x
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Fito Páez – El amor después del amor | last aired Nov 9 | 27x
@@ -100,5 +99,6 @@ The Beatles – Strawberry Fields Forever | last aired Nov 11 | 26x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 11 | 18x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 11 | 25x
 Fleetwood Mac – Tusk | last aired Nov 11 | 25x
+The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 11 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
