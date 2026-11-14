@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:15pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:27pm PT.
 
 The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
@@ -67,7 +67,6 @@ Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Split Enz – I Got You | last aired Nov 11 | 8x
 INXS – Don't Change | last aired Nov 11 | 22x
-Oasis – Live Forever | last aired Nov 11 | 12x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
 Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
@@ -100,5 +99,6 @@ Helado Negro – Brown Fluorescence | last aired Nov 12 | 25x
 Julien Baker – Hardline | last aired Nov 12 | 34x
 Alvvays – Belinda Says | last aired Nov 12 | 53x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 12 | 322x
+Foo Fighters – Everlong | last aired Nov 12 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
