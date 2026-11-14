@@ -1,6 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 4:00am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 4:15am PT.
 
-Armin van Buuren – Set Me Free | last aired Nov 10 | 6x
 Daft Punk – Around the World | last aired Nov 10 | 43x
 Noizu – Summer 91 (Looking Back) | last aired Nov 10 | 19x
 Lamb – Gorecki | last aired Nov 10 | 30x
@@ -35,7 +34,6 @@ Database – Vice II | last aired Nov 11 | 3x
 Bruce Kaphan – Clouds | last aired Nov 11 | 55x
 Morcheeba – Trigger Hippie | last aired Nov 11 | 61x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 11 | 27x
-Brian Eno – Capsule | last aired Nov 11 | 22x
 Nightmares On Wax – Les Nuits | last aired Nov 12 | 65x
 RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 12 | 28x
 Mort Garson – Plantasia | last aired Nov 12 | 49x
@@ -100,5 +98,7 @@ Daft Punk – One More Time | last aired Nov 13 | 151x
 Rhye – Open | last aired Nov 13 | 44x
 Aphex Twin – Windowlicker | last aired Nov 13 | 26x
 Smoke City – Underwater Love | last aired Nov 13 | 6x
+Chris Snelling – Le onde | last aired Nov 13 | 21x
+Sigur Rós – Sé Lest | last aired Nov 13 | 64x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
