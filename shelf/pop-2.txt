@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:45am PT.
 
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
@@ -62,7 +62,6 @@ Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 11 | 43x
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 12 | 13x
-Dean Martin – Everybody Loves Somebody | last aired Nov 12 | 30x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 Men I Trust – Show Me How | last aired Nov 12 | 61x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 12 | 42x
@@ -100,5 +99,6 @@ The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 13 | 13x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
+Air – La femme d'argent | last aired Nov 13 | 74x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
