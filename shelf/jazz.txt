@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 11:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 11:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -66,7 +66,6 @@ Bobby McFerrin – Common Threads | last aired Nov 12 | 19x
 Grover Washington Jr. – Mister Magic | last aired Nov 12 | 49x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 12 | 14x
 Burna Boy – Last Last | last aired Nov 12 | 48x
-Hiatus Kaiyote – By Fire | last aired Nov 12 | 130x
 Baby Face Willette – At Last | last aired Nov 12 | 12x
 Alfa Mist – Organic Rust | last aired Nov 12 | 116x
 Hindi Zahra – Beautiful Tango (Remastered Version) | last aired Nov 12 | 30x
@@ -100,5 +99,6 @@ Alice Coltrane – Journey In Satchidananda | last aired Nov 13 | 17x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 13 | 58x
 Miles Davis – Flamenco Sketches | last aired Nov 13 | 16x
+Herbie Hancock – Chameleon | last aired Nov 13 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

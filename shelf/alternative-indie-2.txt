@@ -1,4 +1,4 @@
-Alternative / Indie – 236 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 11:30am PT.
+Alternative / Indie – 236 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 11:45am PT.
 
 Love and Rockets – Saudade | last aired Nov 10 | 22x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
@@ -21,7 +21,6 @@ ANORAQUE – Ivy | last aired Nov 10 | 16x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 10 | 5x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Ramones – Blitzkrieg Bop | last aired Nov 10 | 11x
-Arctic Monkeys – 505 | last aired Nov 10 | 38x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
 Wild Nothing – Chinatown | last aired Nov 10 | 32x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
@@ -100,5 +99,6 @@ This Mortal Coil – Song To The Siren | last aired Nov 12 | 34x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Sigur Rós – Hoppípolla | last aired Nov 13 | 88x
 Sade – By Your Side (Remastered Version) | last aired Nov 13 | 60x
+Beck – Devils Haircut | last aired Nov 13 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
