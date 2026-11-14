@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:27pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:30pm PT.
 
 The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
@@ -21,7 +21,6 @@ Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 Michael Hutchence – Slide Away | last aired Nov 10 | 18x
-Green Day – American Idiot (Album Version) | last aired Nov 10 | 15x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 10 | 7x
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
@@ -100,5 +99,6 @@ Julien Baker – Hardline | last aired Nov 12 | 34x
 Alvvays – Belinda Says | last aired Nov 12 | 53x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 12 | 322x
 Foo Fighters – Everlong | last aired Nov 12 | 34x
+The Smiths – I Know It's Over | last aired Nov 12 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
