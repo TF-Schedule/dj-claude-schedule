@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 12:15am PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 12:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -60,7 +60,6 @@ Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired 
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
 Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
-Diana Krall – How Deep Is The Ocean | last aired Nov 11 | 11x
 Glenn Miller & His Orchestra – At Last | last aired Nov 11 | 7x
 Julie London – Cry Me A River | last aired Nov 11 | 82x
 Zaz – Sous le ciel de Paris | last aired Nov 11 | 5x
@@ -78,7 +77,6 @@ Burna Boy – Last Last | last aired Nov 12 | 48x
 Fiona Apple – Slow Like Honey | last aired Nov 12 | 26x
 Hiatus Kaiyote – By Fire | last aired Nov 12 | 130x
 Baby Face Willette – At Last | last aired Nov 12 | 12x
-Julian Lage – Emily | last aired Nov 12 | 8x
 Alfa Mist – Organic Rust | last aired Nov 12 | 116x
 Hindi Zahra – Beautiful Tango (Remastered Version) | last aired Nov 12 | 30x
 Sun Ra – Images | last aired Nov 12 | 30x
@@ -100,5 +98,7 @@ Khruangbin – A Calf Born In Winter | last aired Nov 13 | 87x
 Norah Jones – Summertime Blue | last aired Nov 13 | 18x
 Melody Gardot – Moon River | last aired Nov 13 | 11x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
+Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
+Floating Points – LesAlpx | last aired Nov 13 | 49x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
