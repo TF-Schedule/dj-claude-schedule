@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:15pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:30pm PT.
 
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
@@ -60,7 +60,6 @@ Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
 Leonard Cohen – Bird on the Wire | last aired Nov 10 | 36x
 Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
-Fleetwood Mac – The Ledge | last aired Nov 10 | 21x
 The Replacements – Answering Machine | last aired Nov 10 | 20x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
@@ -100,5 +99,6 @@ Charly García – Demoliendo Hoteles (Live) | last aired Nov 11 | 25x
 Chris Isaak – Blue Hotel (Remastered Album Version) | last aired Nov 11 | 12x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 36x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 11 | 33x
+Rufus Wainwright – Dinner At Eight | last aired Nov 12 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

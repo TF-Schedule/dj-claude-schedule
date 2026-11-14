@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 8:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 8:30pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -76,7 +76,6 @@ The Beatles – Octopus's Garden (Remastered) | last aired Nov 5 | 13x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 5 | 16x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
-Depeche Mode – Policy of Truth | last aired Nov 5 | 14x
 Depeche Mode – Precious | last aired Nov 5 | 9x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
@@ -100,5 +99,6 @@ The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 
 Falco – Vienna Calling | last aired Nov 9 | 26x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
+A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

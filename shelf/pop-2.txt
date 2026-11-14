@@ -1,6 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 8:30pm PT.
 
-A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
@@ -100,5 +99,6 @@ Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 12 | 19x
 Jan Hammer – Crockett's Theme | last aired Nov 12 | 27x
 Zoé – Vía Láctea | last aired Nov 12 | 27x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
+Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 12 | 56x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
