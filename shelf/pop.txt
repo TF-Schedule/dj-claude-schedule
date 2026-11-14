@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:00am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:15am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -32,7 +32,6 @@ Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
 Tabu – Dobra Vila | last aired Oct 22 | 1x
 Pitbull – International Love | last aired Oct 22 | 70x
-Dua Lipa – Don't Start Now | last aired Oct 23 | 19x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Oct 23 | 8x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
@@ -100,5 +99,6 @@ Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
 JAWNY – true | last aired Nov 9 | 5x
+Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

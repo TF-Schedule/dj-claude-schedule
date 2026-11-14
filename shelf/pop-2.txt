@@ -1,6 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:00am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:15am PT.
 
-Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
@@ -100,5 +99,6 @@ Cyndi Lauper – Time After Time | last aired Nov 13 | 13x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
 Air – La femme d'argent | last aired Nov 13 | 74x
+Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 13 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
