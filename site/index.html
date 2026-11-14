@@ -73,6 +73,7 @@
   .muted { color: var(--muted); }
   .help { font-size: 13px; color: var(--muted); margin-top: 6px; }
   .empty { padding: 30px; text-align: center; color: var(--muted); }
+.chip.newbuy{background:#e6f4ea;color:#1a7f37;border-color:#b7dfc3}
 </style>
 </head>
 <body>
@@ -433,7 +434,7 @@ function render() {
       : `${fmt(t.last_played_utc)}${lastShow ? `<div class="lastshow"><span class="chip">${esc(lastShow)}</span>${others ? ` <span class="new">+${others}</span>` : ""}</div>` : ""}<span class="${h >= (freeHours() || 36) ? "free" : "blocked"}">${h >= (freeHours() || 36) ? "frei" : "vor " + Math.round(h) + " Std."}</span>${t.source === "Kurt" ? `<div class="new">laut Kurts Liste</div>` : ""}`;
     const open = openRows.has(k);
     return `<tr>
-      <td><div class="tt">${cover(t.artwork)}<div><div class="t">${esc(t.title)}</div><div class="a">${esc(shownArtist(t))}${countryOf(t) ? ` · ${esc(countryOf(t))}` : ""}</div>${pending[k] ? `<span class="chip mine">✎ deine Änderung, noch nicht gespeichert</span>` : ""}
+      <td><div class="tt">${cover(t.artwork)}<div><div class="t">${esc(t.title)}</div><div class="a">${esc(shownArtist(t))}${countryOf(t) ? ` · ${esc(countryOf(t))}` : ""}</div>${pending[k] ? `<span class="chip mine">✎ deine Änderung, noch nicht gespeichert</span>` : ""}${t.new_utc ? `<span class="chip newbuy" title="Erstmals gelaufen ${esc(fmt(t.new_utc))} Uhr, vorher nicht in seiner Bibliothek">🛒 neu gekauft ${esc(new Date(t.new_utc).toLocaleDateString("de-DE", { timeZone: "Europe/Berlin", day: "2-digit", month: "2-digit" }))}</span>` : ""}
         <div>${tagsOf(t).map(s => `<span class="chip fit" title="${esc(s)}">${esc(short(s))}</span>`).join("")}</div>
         <div><button class="more" data-k="${esc(k)}" aria-expanded="${open}">${open ? "▾ weniger" : "▸ Details"}</button></div></div></div></td>
       <td>${esc(mainOf(t) || "–")}${n.genre && !MAIN.includes(n.genre) ? `<div class="style">${esc(n.genre)}</div>` : ""}${t.genre && mainFrom(t.genre) !== mainOf(t) ? `<div class="new">Apple: ${esc(t.genre)}</div>` : ""}${n.style ? `<div class="style">${esc(n.style)}</div>` : ""}</td>

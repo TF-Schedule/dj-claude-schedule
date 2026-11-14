@@ -36,7 +36,9 @@ KURT = DATA / "kurt_tf_only.csv"
 PLAY_COLS = ["start_utc", "artist", "title", "duration_s", "show", "apple_url"]
 BLOCK_COLS = ["start_utc", "show", "description"]
 ANN_COLS = ["first_seen_utc", "start_utc", "show", "description"]
-TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "album", "film_hint", "apple_url", "source", "artwork"]
+TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "album", "film_hint", "apple_url", "source", "artwork", "new_utc"]
+SEEN = DATA / "claude_seen.csv"     # seit 14.11.2026: Gedächtnis, welche Titel wir schon kennen → neu gekaufte erkennen
+SEEN_COLS = ["artist", "title", "first_utc", "kind"]   # kind: bestand (beim Start schon da) | neu (danach erstmals gespielt)
 NOTE_COLS = ["artist", "title", "fits_show", "film", "note"]
 
 
@@ -335,6 +337,26 @@ def main():
                  "shows": set(), "apple_url": "", "source": "Kurt"}
             agg[(k["artist"], k["title"])] = a
             by_norm[norm_key(k["artist"], k["title"])] = a
+    # Neu gekaufte Titel: erstmals gesehen, nachdem das Gedächtnis angelegt wurde, und alle Läufe stammen aus unserem Mitschnitt
+    try:
+        seen = {(r["artist"], r["title"]): r for r in read_csv(SEEN, SEEN_COLS)}
+        first = {}
+        for pl in plays:
+            k = (pl["artist"], pl["title"])
+            if k not in first or pl["start_utc"] < first[k]:
+                first[k] = pl["start_utc"]
+        start = not seen
+        for k, a in agg.items():
+            if k in seen:
+                continue
+            is_new = (not start) and a["source"] == "Regal"          # nicht in Kurts Liste → wirklich neu im Katalog
+            seen[k] = {"artist": k[0], "title": k[1], "first_utc": first.get(k, a["last_played_utc"]), "kind": "neu" if is_new else "bestand"}
+        write_csv(SEEN, SEEN_COLS, sorted(seen.values(), key=lambda r: (r["first_utc"], r["artist"])))
+        for k, a in agg.items():
+            r = seen.get(k)
+            a["new_utc"] = r["first_utc"] if r and r["kind"] == "neu" else ""
+    except Exception as e:
+        print("Neu-gekauft-Erkennung übersprungen:", e)
     # Von Hand korrigierte Apple-Links (genre_cache.json: apple_url) haben Vorrang vor dem Stream-Link
     for (ar, ti), a in agg.items():
         fixed = (cache.get(f"{ar}|{ti}") or {}).get("apple_url")
