@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:15am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:30am PT.
 
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
@@ -42,7 +42,6 @@ Electric Light Orchestra – Mr. Blue Sky | last aired Nov 10 | 51x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
-Leonard Cohen – Bird on the Wire | last aired Nov 10 | 36x
 Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
 The Replacements – Answering Machine | last aired Nov 10 | 20x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
@@ -100,5 +99,6 @@ Jeff Lynne – At Last | last aired Nov 12 | 5x
 Thin Lizzy – Emerald | last aired Nov 12 | 26x
 Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
 Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 12 | 13x
+Van Halen – Jump (2015 Remaster) | last aired Nov 12 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
