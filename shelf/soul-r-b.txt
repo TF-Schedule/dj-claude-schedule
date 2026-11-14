@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 7:45am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -44,7 +44,6 @@ Prince – Uptown (LP Version) | last aired Nov 5 | 28x
 The Temptations – Papa Was A Rollin' Stone (Full Version) | last aired Nov 5 | 57x
 The Temptations – At Last (Album Version) | last aired Nov 5 | 7x
 Sister Rosetta Tharpe – Up Above My Head There's Music In The Air | last aired Nov 6 | 22x
-Donny Hathaway – A Song for You | last aired Nov 6 | 147x
 Luther Vandross – A House Is Not A Home | last aired Nov 6 | 89x
 Whitney Houston – Saving All My Love for You | last aired Nov 6 | 39x
 Tinashe – Nasty | last aired Nov 7 | 131x
@@ -77,7 +76,6 @@ Beyoncé – Crazy In Love | last aired Nov 9 | 42x
 Mahmoud Ahmed – Ere Mela Mela / Meche Neu | last aired Nov 9 | 42x
 Erykah Badu – Window Seat | last aired Nov 10 | 82x
 Moby – In My Heart | last aired Nov 10 | 1x
-Ben E. King – Stand By Me | last aired Nov 10 | 39x
 Remi Wolf – Disco Man | last aired Nov 10 | 10x
 Prince – Kiss (LP Version) | last aired Nov 10 | 27x
 Frank Ocean – Pyramids | last aired Nov 10 | 57x
@@ -100,5 +98,7 @@ Janelle Monáe – Make Me Feel | last aired Nov 11 | 63x
 Tame Impala – Is It True | last aired Nov 11 | 18x
 Lauryn Hill – Ex-Factor | last aired Nov 11 | 41x
 Marvin Gaye – Wholy Holy | last aired Nov 11 | 21x
+Roberta Flack – Killing Me Softly With His Song | last aired Nov 11 | 34x
+Wilson Pickett – In the Midnight Hour | last aired Nov 11 | 144x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
