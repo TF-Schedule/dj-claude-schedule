@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 7:30pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 7:45pm PT.
 
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
@@ -38,7 +38,6 @@ Sigur Rós – Starálfur | last aired Nov 10 | 23x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Sting – Fragile | last aired Nov 11 | 38x
 The Magnetic Fields – The Book of Love | last aired Nov 11 | 13x
-The National – About Today (2021 Remaster) | last aired Nov 11 | 191x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
@@ -100,5 +99,6 @@ Foo Fighters – Everlong | last aired Nov 12 | 34x
 The Smiths – I Know It's Over | last aired Nov 12 | 8x
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
+My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
