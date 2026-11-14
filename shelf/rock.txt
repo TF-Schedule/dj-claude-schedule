@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 5:15pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -31,7 +31,6 @@ Rio Reiser – Für immer und dich (Album Version) | last aired Oct 26 | 2x
 Survivor – Eye of the Tiger | last aired Oct 26 | 24x
 Player – Baby Come Back | last aired Oct 26 | 43x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
-Journey – Don't Stop Believin' (Album Version) | last aired Oct 27 | 24x
 Little River Band – Cool Change | last aired Oct 28 | 15x
 The Good, The Bad & The Queen – History Song | last aired Oct 28 | 7x
 Lindsey Buckingham – Trouble | last aired Oct 28 | 19x
@@ -100,5 +99,6 @@ Tom Konkle – Light Bulb In My Head | last aired Nov 6 | 9x
 The Rolling Stones – Paint It, Black | last aired Nov 6 | 166x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 6 | 25x
 Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
+Talk Talk – New Grass | last aired Nov 6 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

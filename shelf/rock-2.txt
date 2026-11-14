@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:15pm PT.
 
-Talk Talk – New Grass | last aired Nov 6 | 28x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 7 | 10x
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
@@ -100,5 +99,6 @@ Queen – Under Pressure (Remastered 2011) | last aired Nov 11 | 31x
 Aerosmith – Dream On | last aired Nov 11 | 11x
 Big Foot Mama – Led s severa | last aired Nov 11 | 2x
 Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
+The Tragically Hip – Long Time Running | last aired Nov 11 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

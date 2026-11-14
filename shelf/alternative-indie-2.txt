@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:15pm PT.
 
 The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
@@ -17,7 +17,6 @@ Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
 Coldplay – Yellow | last aired Nov 10 | 20x
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
-R.E.M. – Orange Crush (Remastered) | last aired Nov 10 | 13x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
@@ -100,5 +99,6 @@ Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 Helado Negro – Brown Fluorescence | last aired Nov 12 | 25x
 Julien Baker – Hardline | last aired Nov 12 | 34x
 Alvvays – Belinda Says | last aired Nov 12 | 53x
+Radiohead – Weird Fishes / Arpeggi | last aired Nov 12 | 322x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
