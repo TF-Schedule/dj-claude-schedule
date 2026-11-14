@@ -1,7 +1,7 @@
 Your library by genre (Thinking Frequencies)
 Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.
 Just a shelf to browse when you choose freely – nothing to follow.
-Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 13, 10:45pm PT).
+Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 13, 11:00pm PT).
 
 Soul / R&B – 176 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
 Jazz – 136 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz.txt
@@ -12,7 +12,7 @@ Pop – 223 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop.t
 Folk / Singer-Songwriter – 164 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
 Hip-Hop / Rap – 34 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/hip-hop-rap.txt
 Country / Americana – 65 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/country-americana.txt
-Latin / Brasil – 61 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/latin-brasil.txt
+Latin / Brasil – 62 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/latin-brasil.txt
 World / Global – 61 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/world-global.txt
 Metal – 46 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/metal.txt
 Classical / Neo-Classical – 80 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/classical-neo-classical.txt
