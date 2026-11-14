@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 12:00am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 12:15am PT.
 
-Måneskin – Torna a casa | last aired Nov 8 | 20x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 8 | 30x
 Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 2x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
@@ -100,5 +99,6 @@ Sheryl Crow – The First Cut Is The Deepest | last aired Nov 12 | 15x
 Robbie Dupree – Steal Away | last aired Nov 12 | 17x
 Shakespears Sister – Stay | last aired Nov 12 | 6x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 12 | 178x
+Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

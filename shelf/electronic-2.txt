@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 12:00am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 12:15am PT.
 
 Charli XCX – 360 | last aired Nov 10 | 146x
 Moloko – Being Is Bewildering | last aired Nov 10 | 8x
@@ -84,7 +84,6 @@ Massive Attack – Teardrop | last aired Nov 13 | 99x
 Bonobo – Kiara | last aired Nov 13 | 109x
 Portishead – Glory Box (Album Version) | last aired Nov 13 | 85x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 13 | 100x
-Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 13 | 61x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 13 | 77x
 Bonobo – Cirrus | last aired Nov 13 | 135x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 13 | 85x
@@ -100,5 +99,6 @@ Boards of Canada – Roygbiv | last aired Nov 13 | 42x
 Boards of Canada – Dayvan Cowboy | last aired Nov 13 | 57x
 Jon Hopkins – Small Memory | last aired Nov 13 | 23x
 Thievery Corporation – Omid | last aired Nov 13 | 22x
+Daft Punk – Something About Us | last aired Nov 13 | 60x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
