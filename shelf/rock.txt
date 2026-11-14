@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -66,7 +66,6 @@ U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 3
 Toto – Rosanna (Album Version) | last aired Oct 31 | 78x
 Underscores – Do It | last aired Nov 1 | 7x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 1 | 11x
-The Strokes – Lonely in the Future | last aired Nov 1 | 17x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 1 | 25x
 Stratovarius – Black Diamond | last aired Nov 1 | 8x
@@ -100,5 +99,6 @@ The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
 Steve Miller Band – The Joker | last aired Nov 7 | 12x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
+Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
