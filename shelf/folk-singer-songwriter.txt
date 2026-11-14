@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 1:24am PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 1:30am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -18,7 +18,6 @@ Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Oct 29 | 8x
 Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Oct 29 | 25x
 Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
-The Civil Wars – Poison & Wine | last aired Oct 31 | 45x
 Ed Sheeran – Perfect | last aired Oct 31 | 9x
 City – Am Fenster | last aired Oct 31 | 5x
 Tori Amos – Rattlesnakes | last aired Oct 31 | 9x
@@ -100,5 +99,6 @@ Josh Rouse – 1972 | last aired Nov 11 | 25x
 Fleet Foxes – Mykonos | last aired Nov 11 | 118x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Amália Rodrigues – Barco negro | last aired Nov 11 | 37x
+Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 11 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
