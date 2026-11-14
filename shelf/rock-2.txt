@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 7:00pm PT.
 
-Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
@@ -43,7 +42,6 @@ Andrés Calamaro – Flaca | last aired Nov 9 | 34x
 The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
 Fleetwood Mac – That's All for Everyone | last aired Nov 10 | 21x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
-Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 10 | 22x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
 Def Leppard – Photograph | last aired Nov 10 | 16x
@@ -100,5 +98,7 @@ Grateful Dead – Eyes of the World | last aired Nov 11 | 30x
 Kim Carnes – More Love | last aired Nov 11 | 19x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
 Sheryl Crow – All I Wanna Do | last aired Nov 11 | 22x
+Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
+Charly García – Demoliendo Hoteles (Live) | last aired Nov 11 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
