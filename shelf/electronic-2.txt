@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 10:30pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 10:45pm PT.
 
 Caterina Barbieri – Fantas | last aired Nov 10 | 54x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 10 | 13x
@@ -53,7 +53,6 @@ Camille – Ta douleur | last aired Nov 12 | 14x
 Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
 Loscil – Estuarine | last aired Nov 12 | 152x
-Smoke City – Underwater Love | last aired Nov 12 | 5x
 Zero 7 – In The Waiting Line | last aired Nov 12 | 71x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
 Susumu Yokota – Saku | last aired Nov 12 | 73x
@@ -100,5 +99,6 @@ The Cinematic Orchestra – To Build A Home | last aired Nov 13 | 81x
 Röyksopp – Eple | last aired Nov 13 | 39x
 Floating Points – Last Bloom | last aired Nov 13 | 98x
 Tycho – A Walk | last aired Nov 13 | 109x
+Boards of Canada – Roygbiv | last aired Nov 13 | 42x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
