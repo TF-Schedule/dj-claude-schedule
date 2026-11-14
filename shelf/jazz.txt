@@ -1,4 +1,4 @@
-Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:15pm PT.
+Jazz – 136 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 9:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -60,10 +60,8 @@ Bobby Hutcherson – Stardust | last aired Nov 11 | 15x
 Nat King Cole – Nature Boy | last aired Nov 11 | 52x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 11 | 56x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 11 | 22x
-Sade – Kiss of Life (Remastered Version) | last aired Nov 11 | 92x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 11 | 81x
-Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 11 | 104x
 Bobby Darin – Beyond the Sea | last aired Nov 11 | 30x
 Bonobo – Kong | last aired Nov 11 | 83x
 Milt Jackson – Bag's New Groove | last aired Nov 11 | 19x
@@ -100,5 +98,7 @@ THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The K
 Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 12 | 37x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
+Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 12 | 99x
+Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
