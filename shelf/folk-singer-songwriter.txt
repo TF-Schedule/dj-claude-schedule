@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 11:15pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 11:30pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -78,8 +78,6 @@ Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 10 | 32x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 16x
 Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
-Sufjan Stevens – Should Have Known Better | last aired Nov 10 | 89x
-Sufjan Stevens – Fourth of July | last aired Nov 10 | 43x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 Kings Of Convenience – Rocky Trail | last aired Nov 10 | 30x
 Grouper – Holding | last aired Nov 10 | 116x
@@ -100,5 +98,7 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Noah Kahan – Stick Season | last aired Nov 11 | 23x
 Josh Rouse – 1972 | last aired Nov 11 | 25x
+Fleet Foxes – Mykonos | last aired Nov 11 | 118x
+Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
