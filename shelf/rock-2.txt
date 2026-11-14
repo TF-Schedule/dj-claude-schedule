@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 4:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:00pm PT.
 
 Talk Talk – New Grass | last aired Nov 6 | 28x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
@@ -13,7 +13,6 @@ Roxette – The Look | last aired Nov 7 | 15x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 7 | 10x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
-Pink Floyd – Wish You Were Here | last aired Nov 8 | 18x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
@@ -93,12 +92,13 @@ Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 The Beatles – Strawberry Fields Forever | last aired Nov 11 | 26x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 11 | 18x
-Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 11 | 25x
 Fleetwood Mac – Tusk | last aired Nov 11 | 25x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 11 | 31x
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
 Queen – Under Pressure (Remastered 2011) | last aired Nov 11 | 31x
 Aerosmith – Dream On | last aired Nov 11 | 11x
+Big Foot Mama – Led s severa | last aired Nov 11 | 2x
+Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
