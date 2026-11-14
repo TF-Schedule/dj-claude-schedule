@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:45am PT.
 
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
 JAWNY – true | last aired Nov 9 | 5x
@@ -44,7 +44,6 @@ The La's – There She Goes | last aired Nov 11 | 15x
 Taylor Swift – Cruel Summer | last aired Nov 11 | 136x
 Taeko Onuki – 4:00 A.M. | last aired Nov 11 | 23x
 Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
-Tom Konkle – When Did Love Become A Test | last aired Nov 11 | 4x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
@@ -100,5 +99,6 @@ Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 12 | 56x
 The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
+Cyndi Lauper – All Through the Night | last aired Nov 12 | 63x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
