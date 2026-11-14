@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 2:30pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 2:45pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -23,7 +23,6 @@ Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 1 | 4x
 Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
-Leonard Cohen – So Long, Marianne | last aired Nov 3 | 31x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 4 | 25x
 INXS – Never Tear Us Apart | last aired Nov 4 | 20x
@@ -67,7 +66,6 @@ Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 
 Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 10 | 22x
 Grouper – Holding | last aired Nov 10 | 116x
-Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 10 | 32x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 10 | 14x
 Mariza – Ó gente da minha terra | last aired Nov 10 | 37x
 Michael Hedges – Aerial Boundaries | last aired Nov 10 | 42x
@@ -100,5 +98,7 @@ Carole King – It's Too Late | last aired Nov 12 | 88x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
 Phoebe Bridgers – Moon Song | last aired Nov 12 | 78x
 Adrianne Lenker – anything | last aired Nov 12 | 55x
+Scorpions – Still Loving You (2011 Version) | last aired Nov 12 | 18x
+Dire Straits – Brothers in Arms | last aired Nov 12 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
