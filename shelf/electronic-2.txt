@@ -1,6 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 11:00am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 11:15am PT.
 
-Daft Punk – Around the World | last aired Nov 10 | 43x
 Noizu – Summer 91 (Looking Back) | last aired Nov 10 | 19x
 Lamb – Gorecki | last aired Nov 10 | 30x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
@@ -100,5 +99,6 @@ Sigur Rós – Sé Lest | last aired Nov 13 | 64x
 Portishead – Roads | last aired Nov 13 | 62x
 Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 14 | 62x
 Bonobo – Kiara | last aired Nov 14 | 110x
+David Bowie – Subterraneans (2017 Remaster) | last aired Nov 14 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
