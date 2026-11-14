@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 11:15am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 11:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -29,7 +29,6 @@ Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Al Di Meola – Red Moon | last aired Nov 9 | 18x
-Erykah Badu – On & On | last aired Nov 9 | 123x
 Masego – Tadow | last aired Nov 9 | 72x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
@@ -100,5 +99,6 @@ John Coltrane – Lush Life | last aired Nov 13 | 36x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 13 | 17x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 13 | 58x
+Miles Davis – Flamenco Sketches | last aired Nov 13 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
