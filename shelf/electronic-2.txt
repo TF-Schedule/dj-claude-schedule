@@ -1,7 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:45am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 4:00am PT.
 
-Moby – Natural Blues | last aired Nov 10 | 3x
-Lamb – Bonfire | last aired Nov 10 | 34x
 Armin van Buuren – Set Me Free | last aired Nov 10 | 6x
 Daft Punk – Around the World | last aired Nov 10 | 43x
 Noizu – Summer 91 (Looking Back) | last aired Nov 10 | 19x
@@ -100,5 +98,7 @@ Daft Punk – Something About Us | last aired Nov 13 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
 Daft Punk – One More Time | last aired Nov 13 | 151x
 Rhye – Open | last aired Nov 13 | 44x
+Aphex Twin – Windowlicker | last aired Nov 13 | 26x
+Smoke City – Underwater Love | last aired Nov 13 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

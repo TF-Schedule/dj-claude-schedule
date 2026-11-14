@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 3:45am PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 4:00am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -9,7 +9,6 @@ Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Oct 26 | 10x
 Josh Rouse – Street Lights | last aired Oct 27 | 13x
-Tom Waits – House Where Nobody Lives | last aired Oct 28 | 42x
 The Tallest Man On Earth – The Gardener | last aired Oct 28 | 2x
 Mireille Mathieu – Together We're Strong | last aired Oct 28 | 50x
 The Head And The Heart – Down in the Valley | last aired Oct 28 | 23x
@@ -44,7 +43,6 @@ Gigi Perez – Sailor Song | last aired Nov 6 | 237x
 Billie Eilish – when the party's over | last aired Nov 6 | 17x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
-Leonard Cohen – Dance Me to the End of Love | last aired Nov 7 | 39x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
 Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
@@ -100,5 +98,7 @@ Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Amália Rodrigues – Barco negro | last aired Nov 11 | 37x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 11 | 5x
 Leonard Cohen – Anthem | last aired Nov 11 | 33x
+Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 11 | 119x
+Grand Corps Malade – Mais je t'aime | last aired Nov 11 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
