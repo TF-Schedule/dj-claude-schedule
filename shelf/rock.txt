@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 2:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 3:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -78,7 +78,6 @@ The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 Enjambre – Vida En El Espejo | last aired Nov 6 | 22x
-Electric Light Orchestra – Evil Woman | last aired Nov 6 | 23x
 Talk Talk – New Grass | last aired Nov 6 | 28x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
@@ -100,5 +99,6 @@ Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
+Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
