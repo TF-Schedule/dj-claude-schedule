@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:45am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -65,7 +65,6 @@ Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Pebe Sebert – City's Burning | last aired Nov 3 | 21x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
-Bruno Mars – I Just Might | last aired Nov 4 | 260x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
@@ -100,5 +99,6 @@ Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) 
 JAWNY – true | last aired Nov 9 | 5x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
+Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:30am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:45am PT.
 
-Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
@@ -100,5 +99,6 @@ Air – La femme d'argent | last aired Nov 13 | 74x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 13 | 24x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
+ABBA – Dancing Queen | last aired Nov 13 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
