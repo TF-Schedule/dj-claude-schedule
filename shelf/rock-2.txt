@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 10:15pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 10:30pm PT.
 
-Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 VAST – Thrown Away | last aired Nov 8 | 7x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 8 | 30x
@@ -100,5 +99,6 @@ Pages – If I Saw You Again (Album Version) | last aired Nov 12 | 22x
 Fleetwood Mac – Sara | last aired Nov 12 | 28x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 12 | 15x
 Robbie Dupree – Steal Away | last aired Nov 12 | 17x
+Shakespears Sister – Stay | last aired Nov 12 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

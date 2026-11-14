@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 10:15pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 10:30pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -43,7 +43,6 @@ Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Oct 29 | 6x
 David Soul – Silver Lady | last aired Oct 29 | 3x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Oct 30 | 6x
-David Bowie – Starman (2012 Remaster) | last aired Oct 30 | 33x
 Skid Row – I Remember You | last aired Oct 30 | 4x
 David Bowie – Rebel Rebel | last aired Oct 30 | 24x
 Queen – The March of the Black Queen (2026 Mix) | last aired Oct 30 | 20x
@@ -100,5 +99,6 @@ Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
+Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
