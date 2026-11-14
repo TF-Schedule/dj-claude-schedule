@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:00am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:15am PT.
 
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
@@ -14,7 +14,6 @@ Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 9 | 18x
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Fito Páez – El amor después del amor | last aired Nov 9 | 27x
-Tom Konkle – Losing Faith | last aired Nov 9 | 7x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
@@ -41,7 +40,6 @@ Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 10 | 12x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Knocked Loose – Mistakes Like Fractures | last aired Nov 10 | 9x
-Tom Konkle – Life Without The Living | last aired Nov 10 | 6x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 10 | 51x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
@@ -100,5 +98,7 @@ Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 The Doobie Brothers – What a Fool Believes | last aired Nov 12 | 84x
 The Undertones – Teenage Kicks | last aired Nov 12 | 6x
 Gary Jules – Mad World | last aired Nov 12 | 34x
+Jeff Lynne – At Last | last aired Nov 12 | 5x
+Thin Lizzy – Emerald | last aired Nov 12 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
