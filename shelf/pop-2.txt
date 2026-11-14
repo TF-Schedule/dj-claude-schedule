@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:15am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:30am PT.
 
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
 JAWNY – true | last aired Nov 9 | 5x
@@ -9,7 +9,6 @@ Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
-Neil Diamond – Sweet Caroline | last aired Nov 9 | 9x
 Roxette – See Me | last aired Nov 9 | 2x
 Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 Takako Mamiya – Nagisade Dance | last aired Nov 10 | 16x
@@ -100,5 +99,6 @@ The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
 Cyndi Lauper – All Through the Night | last aired Nov 12 | 63x
 Djo – End of Beginning | last aired Nov 12 | 18x
+The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
