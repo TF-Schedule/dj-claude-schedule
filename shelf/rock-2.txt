@@ -1,8 +1,6 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 12:45am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:00am PT.
 
-Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 2x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
-Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 8 | 2x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
@@ -100,5 +98,7 @@ Shakespears Sister – Stay | last aired Nov 12 | 6x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 12 | 178x
 Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 The Doobie Brothers – What a Fool Believes | last aired Nov 12 | 84x
+The Undertones – Teenage Kicks | last aired Nov 12 | 6x
+Gary Jules – Mad World | last aired Nov 12 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
