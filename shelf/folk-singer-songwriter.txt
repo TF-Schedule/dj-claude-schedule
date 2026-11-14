@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 6:30am PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 6:45am PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -27,7 +27,6 @@ Leonard Cohen – Treaty | last aired Nov 2 | 10x
 Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
 Leonard Cohen – So Long, Marianne | last aired Nov 3 | 31x
-Hozier – From Eden | last aired Nov 4 | 50x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 4 | 25x
 INXS – Never Tear Us Apart | last aired Nov 4 | 20x
@@ -85,10 +84,8 @@ William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastere
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 11 | 19x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
-Colbie Caillat – Try | last aired Nov 11 | 10x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
-Noah Kahan – Stick Season | last aired Nov 11 | 23x
 Josh Rouse – 1972 | last aired Nov 11 | 25x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Amália Rodrigues – Barco negro | last aired Nov 11 | 37x
@@ -100,5 +97,8 @@ Pornophonique – Sad Robot | last aired Nov 11 | 17x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 11 | 2x
 Scorpions – Holiday (Remastered 2015) | last aired Nov 11 | 10x
 Dalida – Paroles paroles (Album Version) | last aired Nov 11 | 18x
+Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 11 | 13x
+The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 11 | 7x
+Fabrizio De Andrè – Bocca di rosa | last aired Nov 11 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
