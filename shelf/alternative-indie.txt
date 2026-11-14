@@ -1,4 +1,4 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 10:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 10:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -32,7 +32,6 @@ Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Oct 29 | 27x
 Love and Rockets – So Alive | last aired Oct 29 | 8x
 Miracles of Modern Science – Dear Pressure | last aired Oct 29 | 20x
 New Found Glory – My Friends Over You | last aired Oct 29 | 6x
-David Bowie – Slip Away | last aired Oct 29 | 18x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Oct 29 | 19x
 Glass Animals – Heat Waves (Stripped Back) | last aired Oct 30 | 14x
 Siouxsie & The Banshees – Spellbound | last aired Oct 30 | 5x
@@ -100,5 +99,6 @@ The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | las
 The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
+Benny Sings – Rolled Up | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
