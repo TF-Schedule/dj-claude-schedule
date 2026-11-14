@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 5:30pm PT.
 
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
@@ -38,7 +38,6 @@ Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Mazzy Star – Fade Into You | last aired Nov 10 | 99x
-Billy Joel – Vienna (Album Version) | last aired Nov 11 | 36x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 11 | 72x
 Mariya Takeuchi – Plastic Love | last aired Nov 11 | 28x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
@@ -100,5 +99,6 @@ Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 12 
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 12 | 25x
 Clannad – Theme From Harry's Game | last aired Nov 12 | 39x
 Fugees – Killing Me Softly | last aired Nov 12 | 19x
+Gus Dapperton – Ditch | last aired Nov 12 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
