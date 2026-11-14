@@ -1,7 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:00am PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:15am PT.
 
-Charli XCX – 360 | last aired Nov 10 | 146x
-Moloko – Being Is Bewildering | last aired Nov 10 | 8x
 Moby – Natural Blues | last aired Nov 10 | 3x
 Lamb – Bonfire | last aired Nov 10 | 34x
 Armin van Buuren – Set Me Free | last aired Nov 10 | 6x
@@ -100,5 +98,7 @@ Jon Hopkins – Small Memory | last aired Nov 13 | 23x
 Thievery Corporation – Omid | last aired Nov 13 | 22x
 Daft Punk – Something About Us | last aired Nov 13 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
+Daft Punk – One More Time | last aired Nov 13 | 151x
+Rhye – Open | last aired Nov 13 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
