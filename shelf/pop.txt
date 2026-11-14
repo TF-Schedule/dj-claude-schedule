@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 6:45am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 7:00am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -76,7 +76,6 @@ Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
-Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
@@ -100,5 +99,6 @@ A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Mac DeMarco – My Kind of Woman | last aired Nov 9 | 28x
+JAWNY – true | last aired Nov 9 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

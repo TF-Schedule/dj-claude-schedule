@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 6:45am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 7:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -65,7 +65,6 @@ Zaz – Sous le ciel de Paris | last aired Nov 11 | 5x
 Petra Haden – Moon River | last aired Nov 11 | 16x
 Horace Silver Quintet – Peace | last aired Nov 11 | 30x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 12 | 93x
-Ella Fitzgerald – Summertime | last aired Nov 12 | 99x
 Elvis Costello – Almost Blue | last aired Nov 12 | 16x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Bonobo – Terrapin | last aired Nov 12 | 140x
@@ -100,5 +99,6 @@ Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 Melody Gardot – If You Love Me | last aired Nov 13 | 7x
 Khruangbin – Time (You and I) | last aired Nov 13 | 98x
+Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 13 | 71x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
