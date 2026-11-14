@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 1:15am PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 1:24am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -61,7 +61,6 @@ Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 Apo Hiking Society – When I Met You | last aired Oct 31 | 11x
 Still Woozy – Get Down | last aired Nov 1 | 7x
-Tom Konkle – Manipulation (The Dance) | last aired Nov 1 | 6x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
@@ -100,5 +99,6 @@ Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
+Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:15am PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:24am PT.
 
-John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 8 | 9x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 8 | 22x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
@@ -100,5 +99,6 @@ The Undertones – Teenage Kicks | last aired Nov 12 | 6x
 Gary Jules – Mad World | last aired Nov 12 | 34x
 Jeff Lynne – At Last | last aired Nov 12 | 5x
 Thin Lizzy – Emerald | last aired Nov 12 | 26x
+Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
