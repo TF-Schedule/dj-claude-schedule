@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 6:15pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -55,7 +55,6 @@ Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 Depeche Mode – Just Can't Get Enough | last aired Oct 31 | 15x
-The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Oct 31 | 11x
 10,000 Maniacs – Can't Ignore the Train (LP Version) | last aired Oct 31 | 12x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 1x
 Dope Lemon – Honey Bones | last aired Oct 31 | 22x
@@ -85,7 +84,6 @@ Nat King Cole – L-O-V-E | last aired Nov 6 | 30x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
-ABBA – Waterloo (English Version) | last aired Nov 7 | 20x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
@@ -100,5 +98,7 @@ Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 9 | 11x
 Falco – Vienna Calling | last aired Nov 9 | 26x
+Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
+Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

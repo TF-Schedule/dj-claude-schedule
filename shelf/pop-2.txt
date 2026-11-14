@@ -1,7 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 6:15pm PT.
 
-Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
-Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
@@ -100,5 +98,7 @@ Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 12 | 25x
 Clannad – Theme From Harry's Game | last aired Nov 12 | 39x
 Fugees – Killing Me Softly | last aired Nov 12 | 19x
 Gus Dapperton – Ditch | last aired Nov 12 | 22x
+Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 12 | 19x
+Jan Hammer – Crockett's Theme | last aired Nov 12 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
