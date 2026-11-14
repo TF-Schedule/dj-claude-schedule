@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:30pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:45pm PT.
 
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
 Erik Wøllo – Computerlove | last aired Nov 10 | 15x
@@ -40,7 +40,6 @@ Loscil – Estuarine | last aired Nov 12 | 152x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
 Susumu Yokota – Saku | last aired Nov 12 | 73x
 Portishead – Sour Times | last aired Nov 12 | 22x
-Lemon Jelly – Ramblin' Man | last aired Nov 12 | 43x
 Grimes – Oblivion | last aired Nov 12 | 11x
 Smith & Mighty – Same | last aired Nov 12 | 18x
 Adamski – Killer | last aired Nov 12 | 18x
@@ -100,5 +99,6 @@ Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 14 | 10x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 14 | 24x
 Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 14 | 399x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 14 | 24x
+Brian Eno – Capsule | last aired Nov 14 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
