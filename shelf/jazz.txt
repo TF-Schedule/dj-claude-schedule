@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:15am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -37,7 +37,6 @@ Anita Baker – Sweet Love | last aired Nov 10 | 121x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 10 | 2x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
-Paolo Conte – Via Con Me | last aired Nov 10 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
@@ -100,5 +99,6 @@ Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 13 | 71x
 The Dave Brubeck Quartet – Take Five | last aired Nov 13 | 56x
 John Coltrane – Lush Life | last aired Nov 13 | 36x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 13 | 17x
+Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
