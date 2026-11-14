@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 3:00pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 3:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -78,7 +78,6 @@ DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 12 | 99x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 St Germain – Rose rouge | last aired Nov 13 | 45x
-Steely Dan – Babylon Sisters | last aired Nov 13 | 57x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 13 | 3x
 Khruangbin – A Calf Born In Winter | last aired Nov 13 | 87x
 Norah Jones – Summertime Blue | last aired Nov 13 | 18x
@@ -100,5 +99,6 @@ Miles Davis – So What | last aired Nov 13 | 27x
 John Coltrane – My Favorite Things | last aired Nov 13 | 55x
 GoGo Penguin – Raven | last aired Nov 13 | 84x
 GoGo Penguin – Hopopono | last aired Nov 13 | 85x
+Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 13 | 83x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
