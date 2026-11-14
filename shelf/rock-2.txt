@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 1:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 2:00pm PT.
 
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
@@ -33,7 +33,6 @@ Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 10 | 12x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Knocked Loose – Mistakes Like Fractures | last aired Nov 10 | 9x
-Electric Light Orchestra – Mr. Blue Sky | last aired Nov 10 | 51x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
@@ -100,5 +99,6 @@ Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 12 | 5x
 The Smile – The Smoke | last aired Nov 12 | 8x
 Ashra – Kazoo | last aired Nov 12 | 28x
 Smash Mouth – Walkin' On The Sun | last aired Nov 12 | 14x
+The White Stripes – Seven Nation Army | last aired Nov 12 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
