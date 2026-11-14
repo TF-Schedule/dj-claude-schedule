@@ -1,4 +1,4 @@
-Alternative / Indie – 236 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 2:15am PT.
+Alternative / Indie – 236 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 2:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -36,7 +36,6 @@ Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) |
 Glass Animals – Heat Waves (Stripped Back) | last aired Oct 30 | 14x
 Siouxsie & The Banshees – Spellbound | last aired Oct 30 | 5x
 Bauhaus – Ziggy Stardust | last aired Oct 30 | 19x
-Cigarettes After Sex – Apocalypse | last aired Oct 30 | 105x
 Björk – Pagan Poetry | last aired Oct 31 | 15x
 Jimmy Eat World – The Middle | last aired Oct 31 | 13x
 Ethel Cain – Punish | last aired Oct 31 | 13x
@@ -100,5 +99,6 @@ The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
+Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
