@@ -1,6 +1,5 @@
-Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 9:00pm PT.
+Alternative / Indie – 234 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 9:15pm PT.
 
-Banners – Shine A Light | last aired Nov 9 | 22x
 Benny Sings – Rolled Up | last aired Nov 9 | 22x
 Hammock – Tape Recorder | last aired Nov 9 | 132x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
@@ -100,5 +99,6 @@ My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
 Cults – Gilded Lily | last aired Nov 12 | 22x
 Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
+The Clash – London Calling | last aired Nov 12 | 135x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

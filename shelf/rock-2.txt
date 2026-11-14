@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 9:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 13, 9:15pm PT.
 
 Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
@@ -36,7 +36,6 @@ Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
 Mark Hollis – The Colour Of Spring | last aired Nov 9 | 28x
 Andrés Calamaro – Flaca | last aired Nov 9 | 34x
 The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
-Fleetwood Mac – That's All for Everyone | last aired Nov 10 | 21x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
@@ -67,7 +66,6 @@ Monster Magnet – Nod Scene | last aired Nov 10 | 2x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 Rammstein – Deutschland | last aired Nov 10 | 18x
 Mike Oldfield – Moonlight Shadow | last aired Nov 10 | 7x
-Bruce Springsteen – Born in the U.S.A. | last aired Nov 10 | 23x
 Daikaiju – Magic Wanda | last aired Nov 10 | 11x
 Willy DeVille – Heaven Stood Still | last aired Nov 10 | 12x
 Mazzy Star – Halah | last aired Nov 10 | 35x
@@ -100,5 +98,7 @@ Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 11 | 33
 Rufus Wainwright – Dinner At Eight | last aired Nov 12 | 28x
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 12 | 32x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 12 | 3x
+Nine Inch Nails – Hurt | last aired Nov 12 | 29x
+Talk Talk – After The Flood | last aired Nov 12 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
