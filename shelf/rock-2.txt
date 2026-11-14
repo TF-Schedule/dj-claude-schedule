@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 2:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 2:15pm PT.
 
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
@@ -76,7 +76,6 @@ Talk Talk – After The Flood | last aired Nov 12 | 32x
 Pages – If I Saw You Again (Album Version) | last aired Nov 12 | 22x
 Robbie Dupree – Steal Away | last aired Nov 12 | 17x
 Shakespears Sister – Stay | last aired Nov 12 | 6x
-Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 12 | 178x
 Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 The Doobie Brothers – What a Fool Believes | last aired Nov 12 | 84x
 The Undertones – Teenage Kicks | last aired Nov 12 | 6x
@@ -100,5 +99,6 @@ The Smile – The Smoke | last aired Nov 12 | 8x
 Ashra – Kazoo | last aired Nov 12 | 28x
 Smash Mouth – Walkin' On The Sun | last aired Nov 12 | 14x
 The White Stripes – Seven Nation Army | last aired Nov 12 | 36x
+Gustavo Cerati – Crimen | last aired Nov 12 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
