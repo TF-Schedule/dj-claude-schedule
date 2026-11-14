@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 4:15pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 13, 4:30pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -18,7 +18,6 @@ Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Oct 29 | 8x
 Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Oct 29 | 25x
 Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
-The Cure – Lovesong (2010 Remaster) | last aired Oct 30 | 13x
 The Civil Wars – Poison & Wine | last aired Oct 31 | 45x
 Ed Sheeran – Perfect | last aired Oct 31 | 9x
 City – Am Fenster | last aired Oct 31 | 5x
@@ -100,5 +99,6 @@ Colbie Caillat – Try | last aired Nov 11 | 10x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Iron & Wine – Naked as We Came | last aired Nov 11 | 135x
+Elliott Smith – Angeles | last aired Nov 11 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
