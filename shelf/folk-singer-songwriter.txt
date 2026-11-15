@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:00pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 9:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Becky Levi and the Nightjars – Wake Me Up | last aired Oct 21 | 4x
@@ -54,7 +54,6 @@ Ben&Ben – Leaves | last aired Nov 9 | 52x
 The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 9 | 41x
 Grouper – Alien Observer | last aired Nov 9 | 133x
-Lou Reed – Goodnight Ladies | last aired Nov 10 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 10 | 26x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 10 | 16x
 Ben&Ben – Maybe The Night | last aired Nov 10 | 32x
@@ -100,5 +99,6 @@ Big Thief – Mary | last aired Nov 12 | 100x
 Bill Callahan – Riding For The Feeling | last aired Nov 12 | 46x
 The Opium Cartel – Beach House | last aired Nov 12 | 25x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 12 | 94x
+Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
