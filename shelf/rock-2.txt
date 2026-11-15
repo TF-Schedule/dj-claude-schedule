@@ -1,18 +1,12 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:00am PT.
+Rock – 272 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:15am PT.
 
-Andrés Calamaro – Flaca | last aired Nov 9 | 34x
-The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
-The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
-Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
-Def Leppard – Photograph | last aired Nov 10 | 16x
-Sum 41 – In Too Deep (Album Version) | last aired Nov 10 | 14x
-Michael Damian – Rock On | last aired Nov 10 | 8x
 Freddie Mercury – Love Kills | last aired Nov 10 | 8x
 Summon The Wolf – Ghost Story | last aired Nov 10 | 15x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 10 | 8x
 Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 10 | 12x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
+Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
 Knocked Loose – Mistakes Like Fractures | last aired Nov 10 | 9x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
@@ -65,8 +59,6 @@ Amy Macdonald – This Is The Life | last aired Nov 12 | 21x
 The Sundays – Folk Song | last aired Nov 12 | 26x
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
 Ideal – Blaue Augen | last aired Nov 12 | 11x
-Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 12 | 3x
-Faith No More – Stripsearch | last aired Nov 12 | 4x
 Juli – Perfekte Welle | last aired Nov 12 | 12x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 12 | 5x
 The Smile – The Smoke | last aired Nov 12 | 8x
@@ -76,7 +68,6 @@ The White Stripes – Seven Nation Army | last aired Nov 12 | 36x
 Gustavo Cerati – Crimen | last aired Nov 12 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 12 | 16x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 12 | 19x
-Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 12 | 8x
 Gustavo Cerati – Puente | last aired Nov 13 | 32x
@@ -100,5 +91,14 @@ Jim James – St. James Infirmary | last aired Nov 13 | 29x
 Dire Straits – Money for Nothing | last aired Nov 13 | 24x
 Pink Floyd – Wish You Were Here | last aired Nov 13 | 19x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
+Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
+Pink Floyd – Comfortably Numb | last aired Nov 13 | 13x
+Fleetwood Mac – Tusk | last aired Nov 13 | 26x
+Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
+Boz Scaggs – Simone (2023 Remaster) | last aired Nov 13 | 26x
+Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 13 | 11x
+Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 13 | 80x
+Journey – Lights (Album Version) | last aired Nov 13 | 18x
+The Killers – Mr. Brightside | last aired Nov 13 | 161x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
