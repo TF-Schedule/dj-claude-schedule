@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:00pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:15pm PT.
 
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
@@ -6,7 +6,6 @@ Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
-Tate McRae – Miss possessive | last aired Nov 10 | 2x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 Perpetuum Jazzile – Africa | last aired Nov 10 | 27x
@@ -100,5 +99,6 @@ New Order – True Faith | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
+Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
