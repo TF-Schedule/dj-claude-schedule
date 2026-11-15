@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -83,7 +83,6 @@ toe – Goodbye (Live) | last aired Nov 8 | 24x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
-Alexander Rybak – Fairytale | last aired Nov 8 | 16x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
@@ -100,5 +99,6 @@ Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
+Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

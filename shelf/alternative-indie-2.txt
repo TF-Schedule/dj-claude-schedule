@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:45am PT.
 
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
@@ -70,7 +70,6 @@ Duran Duran – Ordinary World | last aired Nov 12 | 12x
 Muse – Feeling Good | last aired Nov 12 | 23x
 THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
 Julien Baker – Hardline | last aired Nov 12 | 34x
-Alvvays – Belinda Says | last aired Nov 12 | 53x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 12 | 322x
 Foo Fighters – Everlong | last aired Nov 12 | 34x
 The Smiths – I Know It's Over | last aired Nov 12 | 8x
@@ -100,5 +99,6 @@ Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
 Sigur Rós – Hoppípolla | last aired Nov 13 | 88x
 Sade – By Your Side (Remastered Version) | last aired Nov 13 | 60x
 Beck – Devils Haircut | last aired Nov 13 | 25x
+Beck – The New Pollution | last aired Nov 13 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
