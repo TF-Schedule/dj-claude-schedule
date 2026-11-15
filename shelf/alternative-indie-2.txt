@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 12:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 1:00pm PT.
 
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
@@ -21,7 +21,6 @@ Peeping Tom – Your Neighborhood Spaceman | last aired Nov 10 | 5x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Ramones – Blitzkrieg Bop | last aired Nov 10 | 11x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
-Wild Nothing – Chinatown | last aired Nov 10 | 32x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 The Magnetic Fields – The Book of Love | last aired Nov 11 | 13x
@@ -100,5 +99,6 @@ Beck – Devils Haircut | last aired Nov 13 | 25x
 Beck – The New Pollution | last aired Nov 13 | 29x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 13 | 20x
 Joker Out – Novi Val | last aired Nov 13 | 22x
+Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
