@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:00pm PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:15pm PT.
 
 Tom Konkle – One Last Time | last aired Sep 17 | 5x
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
@@ -8,7 +8,6 @@ The Civil Wars – The One That Got Away | last aired Oct 23 | 7x
 Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Josh Rouse – Street Lights | last aired Oct 27 | 13x
-The Tallest Man On Earth – The Gardener | last aired Oct 28 | 2x
 Mireille Mathieu – Together We're Strong | last aired Oct 28 | 50x
 Lou Reed – Perfect Day | last aired Oct 29 | 3x
 Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
@@ -100,5 +99,6 @@ Scorpions – Still Loving You (2011 Version) | last aired Nov 12 | 18x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 12 | 77x
 Judy Collins – Bread and Roses | last aired Nov 12 | 27x
 Go_A – SHUM | last aired Nov 12 | 19x
+Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 12 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
