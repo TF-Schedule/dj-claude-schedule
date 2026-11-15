@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -91,7 +91,6 @@ Cyndi Lauper – Time After Time | last aired Nov 13 | 13x
 Bon Iver – Holocene | last aired Nov 13 | 239x
 José González – Heartbeats | last aired Nov 13 | 124x
 Nick Drake – Pink Moon | last aired Nov 13 | 104x
-Fleet Foxes – Helplessness Blues | last aired Nov 13 | 34x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 13 | 123x
 Joni Mitchell – A Case of You | last aired Nov 13 | 46x
 Chico Buarque – Construção | last aired Nov 13 | 49x
@@ -100,5 +99,6 @@ The Cure – Pictures of You | last aired Nov 13 | 41x
 Leonard Cohen – Hallelujah | last aired Nov 13 | 35x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Carole King – So Far Away | last aired Nov 13 | 44x
+Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 13 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

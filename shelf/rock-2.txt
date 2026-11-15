@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:00pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:15pm PT.
 
-Rammstein – Deutschland | last aired Nov 10 | 18x
 Daikaiju – Magic Wanda | last aired Nov 10 | 11x
 Christopher Cross – Sailing | last aired Nov 11 | 56x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
@@ -100,5 +99,6 @@ Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 Tom Konkle – Name On A Screen | last aired Nov 14 | 9x
 Tom Konkle – Losing Faith | last aired Nov 14 | 8x
+Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
