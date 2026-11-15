@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 170 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:00am PT.
+Folk / Singer-Songwriter – 170 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -16,7 +16,6 @@ Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
 City – Am Fenster | last aired Oct 31 | 5x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
-Sting – Shape Of My Heart (My Songs Version) | last aired Nov 1 | 4x
 Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
@@ -91,7 +90,6 @@ Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 12 | 14x
 Big Thief – Mary | last aired Nov 12 | 100x
 Bill Callahan – Riding For The Feeling | last aired Nov 12 | 46x
 The Opium Cartel – Beach House | last aired Nov 12 | 25x
-James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 12 | 94x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 12 | 20x
@@ -100,5 +98,7 @@ Cyndi Lauper – Time After Time | last aired Nov 13 | 13x
 Bon Iver – Holocene | last aired Nov 13 | 239x
 José González – Heartbeats | last aired Nov 13 | 124x
 Nick Drake – Pink Moon | last aired Nov 13 | 104x
+Fleet Foxes – Helplessness Blues | last aired Nov 13 | 34x
+Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 13 | 123x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
