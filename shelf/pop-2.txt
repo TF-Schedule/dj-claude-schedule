@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 5:00am PT.
 
-Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 Perpetuum Jazzile – Africa | last aired Nov 10 | 27x
 Sabrina Carpenter – Please Please Please | last aired Nov 10 | 62x
@@ -100,5 +99,6 @@ Tate McRae – greedy | last aired Nov 14 | 7x
 Takako Mamiya – Nagisade Dance | last aired Nov 14 | 17x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
+Tove Lo – No One Dies From Love | last aired Nov 14 | 185x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

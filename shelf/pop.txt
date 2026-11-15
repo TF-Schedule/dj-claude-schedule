@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:00am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -45,7 +45,6 @@ Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" 
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Oct 28 | 11x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
-Her's – Blue Lips | last aired Oct 28 | 29x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) | last aired Oct 29 | 16x
 Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
@@ -100,5 +99,6 @@ Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired N
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
+Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
