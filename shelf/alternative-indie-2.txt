@@ -1,5 +1,9 @@
-Alternative / Indie – 238 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:15am PT.
+Alternative / Indie – 245 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:30am PT.
 
+Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
+Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
+Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
+Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
@@ -59,6 +63,7 @@ Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 12 | 14x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
+The Undertones – Teenage Kicks | last aired Nov 12 | 6x
 Blur – Song 2 | last aired Nov 12 | 18x
 Jeff Buckley – Calling You (Live) | last aired Nov 12 | 23x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
@@ -95,10 +100,5 @@ Sade – By Your Side (Remastered Version) | last aired Nov 13 | 60x
 Beck – Devils Haircut | last aired Nov 13 | 25x
 Beck – The New Pollution | last aired Nov 13 | 29x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 13 | 20x
-Joker Out – Novi Val | last aired Nov 13 | 22x
-Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
-Geowulf – Saltwater | last aired Nov 13 | 18x
-The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
-Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 13 | 63x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

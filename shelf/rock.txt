@@ -1,19 +1,14 @@
-Rock – 272 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:15am PT.
+Rock – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
-Sons Of Apollo – Desolate July | last aired Sep 25 | 1x
 The Animals – The House of the Rising Sun | last aired Sep 29 | 4x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Oct 10 | 16x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Oct 18 | 10x
-Blur – The Universal | last aired Oct 20 | 1x
 Sui Generis – Rasguña Las Piedras (Album Version) | last aired Oct 20 | 1x
-Crazy Town – Butterfly | last aired Oct 20 | 6x
-The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Genesis – Many Too Many (2007 Remaster) | last aired Oct 21 | 1x
-Dragonforce – Through The Fire And Flames | last aired Oct 22 | 7x
 U2 – Beautiful Day (Remastered 2020) | last aired Oct 23 | 7x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Oct 23 | 23x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
@@ -35,7 +30,6 @@ Zoé – Labios Rotos (Live 8.11.14) | last aired Oct 29 | 19x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Oct 29 | 6x
 David Soul – Silver Lady | last aired Oct 29 | 3x
-Skid Row – I Remember You | last aired Oct 30 | 4x
 Queen – The March of the Black Queen (2026 Mix) | last aired Oct 30 | 20x
 The Beatles – Get Back (2021 Mix) | last aired Oct 30 | 12x
 Golden Earring – Radar Love | last aired Oct 30 | 4x
@@ -79,8 +73,6 @@ Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 VAST – Thrown Away | last aired Nov 8 | 7x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
-Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 8 | 30x
-Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 2x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
 King Crimson – The Sheltering Sky | last aired Nov 9 | 15x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
@@ -94,11 +86,19 @@ Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 9 | 21x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
 Mark Hollis – The Colour Of Spring | last aired Nov 9 | 28x
 Andrés Calamaro – Flaca | last aired Nov 9 | 34x
-The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
-The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
 Def Leppard – Photograph | last aired Nov 10 | 16x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 10 | 14x
 Michael Damian – Rock On | last aired Nov 10 | 8x
+Freddie Mercury – Love Kills | last aired Nov 10 | 8x
+Summon The Wolf – Ghost Story | last aired Nov 10 | 15x
+King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 10 | 8x
+Nine Inch Nails – Less Than | last aired Nov 10 | 7x
+King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 10 | 12x
+Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
+Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
+Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
+Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
+Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

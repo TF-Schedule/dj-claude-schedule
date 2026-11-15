@@ -1,4 +1,4 @@
-Alternative / Indie – 238 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:15am PT.
+Alternative / Indie – 245 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -7,6 +7,8 @@ Scott Carlin – Fragile | last aired Oct 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
 Evan Fong – pe$o$ | last aired Oct 17 | 2x
 The 1975 – Jesus Christ 2005 God Bless America | last aired Oct 20 | 13x
+Blur – The Universal | last aired Oct 20 | 1x
+The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
 Björk – Venus As A Boy (Live) | last aired Oct 22 | 13x
 Patti Smith – People Have the Power | last aired Oct 22 | 1x
@@ -93,12 +95,10 @@ Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
+The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
+The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
-Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
-Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
-Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
-Cocteau Twins – Ivo | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
