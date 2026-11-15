@@ -1,6 +1,5 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:15pm PT.
 
-Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 9 | 18x
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
@@ -100,5 +99,6 @@ Gustavo Cerati – Puente | last aired Nov 13 | 32x
 Ashra – Sunrain | last aired Nov 13 | 34x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
+AC/DC – Thunderstruck | last aired Nov 13 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
