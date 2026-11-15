@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 3:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 4:00pm PT.
 
 Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
@@ -20,7 +20,6 @@ The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 10 | 11x
 Café Tacvba – Eres (Album Version) | last aired Nov 10 | 38x
 Def Leppard – Photograph | last aired Nov 10 | 16x
-Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 10 | 23x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 10 | 14x
 Michael Damian – Rock On | last aired Nov 10 | 8x
 Freddie Mercury – Love Kills | last aired Nov 10 | 8x
@@ -100,5 +99,6 @@ Gustavo Cerati – Crimen | last aired Nov 12 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 12 | 16x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 12 | 19x
 Turnstile – BLACKOUT | last aired Nov 12 | 8x
+Ashra – Midnight On Mars | last aired Nov 12 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

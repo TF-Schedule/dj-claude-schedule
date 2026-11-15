@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 3:45pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 4:00pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -81,7 +81,6 @@ Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Katy Perry – Roar | last aired Nov 8 | 111x
-Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 8 | 18x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
@@ -100,5 +99,6 @@ JAWNY – true | last aired Nov 9 | 5x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
+Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
