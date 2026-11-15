@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -71,7 +71,6 @@ The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Deftones – Change (In the House of Flies) | last aired Nov 5 | 4x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
-Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 5 | 12x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
@@ -100,5 +99,6 @@ Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 9 | 24x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
 Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
+Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
