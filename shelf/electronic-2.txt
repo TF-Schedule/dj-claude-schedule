@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 8:45pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:00pm PT.
 
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 11 | 65x
 Home – We're Finally Landing | last aired Nov 11 | 14x
@@ -27,7 +27,6 @@ Kavinsky – Nightcall | last aired Nov 12 | 22x
 Camille – Ta douleur | last aired Nov 12 | 14x
 Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
-Loscil – Estuarine | last aired Nov 12 | 152x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
 Susumu Yokota – Saku | last aired Nov 12 | 73x
 Portishead – Sour Times | last aired Nov 12 | 22x
@@ -100,5 +99,6 @@ Lemon Jelly – Ramblin' Man | last aired Nov 14 | 44x
 Jungle – Busy Earnin' | last aired Nov 14 | 38x
 Massive Attack – Protection | last aired Nov 14 | 42x
 Massive Attack – Angel | last aired Nov 14 | 66x
+Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 14 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
