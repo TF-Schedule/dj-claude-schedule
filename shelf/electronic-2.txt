@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:15pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:30pm PT.
 
 Eluvium – Taken | last aired Nov 11 | 46x
 Jamie xx – Gosh | last aired Nov 11 | 51x
@@ -50,7 +50,6 @@ Federico Aubele – Postales | last aired Nov 12 | 89x
 Fennesz – Endless Summer | last aired Nov 12 | 86x
 Akiaura – Sleepwalker | last aired Nov 12 | 9x
 I Monster – Daydream In Blue | last aired Nov 12 | 23x
-Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 12 | 44x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 12 | 185x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 12 | 120x
 Thievery Corporation – Lebanese Blonde | last aired Nov 13 | 68x
@@ -100,5 +99,6 @@ Hooverphonic – 2 Wicky | last aired Nov 14 | 35x
 Jungle – Keep Moving | last aired Nov 14 | 55x
 Moloko – Over & Over | last aired Nov 14 | 23x
 Zero 7 – In The Waiting Line | last aired Nov 14 | 72x
+Nightmares On Wax – Les Nuits | last aired Nov 14 | 66x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

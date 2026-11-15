@@ -1,10 +1,9 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:15pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:30pm PT.
 
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
-Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 9 | 39x
 Al Stewart – Year of the Cat | last aired Nov 9 | 32x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 9 | 21x
@@ -100,5 +99,6 @@ Ashra – Sunrain | last aired Nov 13 | 34x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
 AC/DC – Thunderstruck | last aired Nov 13 | 11x
+Lyres – Help You Ann | last aired Nov 13 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
