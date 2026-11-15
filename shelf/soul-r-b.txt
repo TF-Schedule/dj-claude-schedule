@@ -1,4 +1,4 @@
-Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:45am PT.
+Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 7:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -74,7 +74,6 @@ Prince – Sometimes It Snows in April (LP Version) | last aired Nov 10 | 43x
 Michael Jackson – Morphine (Album Version) | last aired Nov 10 | 6x
 Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 10 | 34x
 Prince – Purple Rain (2015 Paisley Park Remaster) | last aired Nov 10 | 21x
-The Style Council – Iwasadoledadstoyboy | last aired Nov 10 | 18x
 Chaka Khan – What Cha' Gonna Do for Me | last aired Nov 10 | 46x
 Aretha Franklin – Wholy Holy | last aired Nov 10 | 25x
 Lawrence – 23 | last aired Nov 10 | 21x
@@ -100,5 +99,6 @@ Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album 
 Anita Baker – Angel (LP Version) | last aired Nov 11 | 53x
 Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 11 | 20x
 Roberta Flack – The First Time Ever I Saw Your Face (2020 Remaster) | last aired Nov 12 | 127x
+Whitney Houston – I Have Nothing | last aired Nov 12 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
