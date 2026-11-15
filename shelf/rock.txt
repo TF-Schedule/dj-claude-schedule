@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -58,7 +58,6 @@ Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 5 | 34x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 5 | 18x
 Chris De Burgh – The Getaway | last aired Nov 6 | 11x
-indigo la End – Haru No Iutoori | last aired Nov 6 | 19x
 Enjambre – Vida En El Espejo | last aired Nov 6 | 22x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Halestorm – Do Not Disturb | last aired Nov 7 | 5x
@@ -100,5 +99,6 @@ Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
 Kiss – Rock And Roll All Nite | last aired Nov 10 | 8x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 10 | 13x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 10 | 4x
+Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

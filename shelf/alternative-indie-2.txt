@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 5:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 5:15am PT.
 
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
@@ -25,7 +25,6 @@ Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
 Wild Nothing – Chinatown | last aired Nov 10 | 32x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
-Sting – Fragile | last aired Nov 11 | 38x
 The Magnetic Fields – The Book of Love | last aired Nov 11 | 13x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
@@ -100,5 +99,6 @@ The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
 Sigur Rós – Hoppípolla | last aired Nov 13 | 88x
 Sade – By Your Side (Remastered Version) | last aired Nov 13 | 60x
+Beck – Devils Haircut | last aired Nov 13 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
