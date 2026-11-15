@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:30am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -55,7 +55,6 @@ Marvin Gaye – Save The Children | last aired Nov 9 | 26x
 Michael Jackson – Stranger in Moscow | last aired Nov 9 | 16x
 Booker T. Jones – Everything Is Everything | last aired Nov 9 | 25x
 Boyz II Men – End Of The Road (Album Version) | last aired Nov 9 | 23x
-Booker T. & The M.G.'s – Green Onions | last aired Nov 9 | 42x
 Mavis Staples – We're Gonna Make It | last aired Nov 9 | 49x
 Patti LaBelle – On My Own | last aired Nov 9 | 26x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 9 | 52x
@@ -100,5 +99,6 @@ The Ink Spots – Maybe | last aired Nov 11 | 36x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
 Anita Baker – Angel (LP Version) | last aired Nov 11 | 53x
+The Ink Spots – If I Didn't Care | last aired Nov 11 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
