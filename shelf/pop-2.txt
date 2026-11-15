@@ -1,5 +1,6 @@
-Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:45am PT.
 
+Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 Perpetuum Jazzile – Africa | last aired Nov 10 | 27x
 Sabrina Carpenter – Please Please Please | last aired Nov 10 | 62x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
@@ -17,6 +18,7 @@ Harry Styles – As It Was | last aired Nov 11 | 69x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 The La's – There She Goes | last aired Nov 11 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 11 | 20x
+Kate Bush – Under The Ivy | last aired Nov 11 | 31x
 Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
@@ -72,6 +74,7 @@ Billy Joel – Vienna (Album Version) | last aired Nov 13 | 37x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 New Order – True Faith | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
+The Beach Boys – God Only Knows (Stereo) | last aired Nov 13 | 41x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
@@ -97,8 +100,5 @@ Takako Mamiya – Nagisade Dance | last aired Nov 14 | 17x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Tove Lo – No One Dies From Love | last aired Nov 14 | 185x
-Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
-Her's – Blue Lips | last aired Nov 15 | 30x
-Still Woozy – Get Down | last aired Nov 15 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
