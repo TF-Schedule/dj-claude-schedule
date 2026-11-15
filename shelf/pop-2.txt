@@ -1,10 +1,8 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:30pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 6:45pm PT.
 
-Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
 Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
-Takako Mamiya – Nagisade Dance | last aired Nov 10 | 16x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
@@ -100,5 +98,7 @@ ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 New Order – True Faith | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
+Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
+Depeche Mode – Precious | last aired Nov 13 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
