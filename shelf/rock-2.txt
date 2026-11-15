@@ -1,5 +1,6 @@
-Rock – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:30am PT.
 
+Bon Jovi – Livin' On A Prayer | last aired Nov 10 | 150x
 The Replacements – Answering Machine | last aired Nov 10 | 20x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
@@ -40,6 +41,7 @@ Jeff Lynne – At Last | last aired Nov 12 | 5x
 Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
 Van Halen – Jump (2015 Remaster) | last aired Nov 12 | 7x
 Tina Turner – The Best | last aired Nov 12 | 28x
+Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 Amy Macdonald – This Is The Life | last aired Nov 12 | 21x
 The Sundays – Folk Song | last aired Nov 12 | 26x
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
@@ -70,6 +72,7 @@ Dire Straits – Sultans of Swing | last aired Nov 13 | 84x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 13 | 37x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
 Dire Straits – Your Latest Trick | last aired Nov 13 | 22x
+The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
 Dire Straits – Money for Nothing | last aired Nov 13 | 24x
 Pink Floyd – Wish You Were Here | last aired Nov 13 | 19x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
@@ -81,6 +84,7 @@ Boz Scaggs – Simone (2023 Remaster) | last aired Nov 13 | 26x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 13 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 13 | 80x
 Journey – Lights (Album Version) | last aired Nov 13 | 18x
+The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 The Strokes – Last Nite | last aired Nov 13 | 81x
 The Strokes – Lonely in the Future | last aired Nov 13 | 18x
 Pink Floyd – Money | last aired Nov 13 | 12x
@@ -96,9 +100,5 @@ Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 13 | 24x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 13 | 27x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
-The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
-The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
-David Bowie – Starman (2012 Remaster) | last aired Nov 13 | 34x
-David Bowie – Rebel Rebel | last aired Nov 13 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

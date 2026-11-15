@@ -1,6 +1,5 @@
-Electronic – 212 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:15am PT.
+Electronic – 215 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:30am PT.
 
-Home – We're Finally Landing | last aired Nov 11 | 14x
 Blank & Jones – Get Down (Rediscovered) | last aired Nov 11 | 13x
 Dutyyaknow – Close in the Distance (FFXIV Endwalker) [Synthwave] | last aired Nov 11 | 5x
 Disclosure – Help Me Lose My Mind | last aired Nov 11 | 36x
@@ -18,6 +17,7 @@ M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
 Database – Vice II | last aired Nov 11 | 3x
 Bruce Kaphan – Clouds | last aired Nov 11 | 55x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 11 | 27x
+Slowdive – Erik's Song (Album Version) | last aired Nov 12 | 40x
 RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 12 | 28x
 Shida Shahabi – Futō | last aired Nov 12 | 28x
 Floating Points – Birth4000 | last aired Nov 12 | 70x
@@ -75,6 +75,8 @@ Sigur Rós – Sé Lest | last aired Nov 13 | 64x
 Portishead – Roads | last aired Nov 13 | 62x
 Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 14 | 62x
 Bonobo – Kiara | last aired Nov 14 | 110x
+Hammock – Tape Recorder | last aired Nov 14 | 133x
+Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 14 | 137x
 David Bowie – Subterraneans (2017 Remaster) | last aired Nov 14 | 38x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 14 | 10x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 14 | 24x
@@ -98,7 +100,5 @@ Never Get Used To People – Life Letters (Slowed+Reverb) | last aired Nov 14 | 
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 14 | 45x
 Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 14 | 4x
 Noizu – Summer 91 (Looking Back) | last aired Nov 14 | 21x
-Thom Yorke – 5.17 | last aired Nov 14 | 21x
-Thievery Corporation – Facing East | last aired Nov 14 | 58x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

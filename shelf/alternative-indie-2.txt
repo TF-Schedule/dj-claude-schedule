@@ -1,5 +1,6 @@
-Alternative / Indie – 245 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:30am PT.
 
+Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 10 | 34x
@@ -12,6 +13,7 @@ Michael Hutchence – Slide Away | last aired Nov 10 | 18x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
+TV Girl – Loving Machine | last aired Nov 10 | 20x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
 Lucy Dacus – Night Shift | last aired Nov 10 | 167x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 10 | 24x
@@ -19,9 +21,10 @@ ANORAQUE – Ivy | last aired Nov 10 | 16x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 10 | 5x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Ramones – Blitzkrieg Bop | last aired Nov 10 | 11x
+Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
 Wild Nothing – Chinatown | last aired Nov 10 | 32x
-Lana Del Rey – Heroin | last aired Nov 10 | 24x
+Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Sting – Fragile | last aired Nov 11 | 38x
 The Magnetic Fields – The Book of Love | last aired Nov 11 | 13x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
@@ -49,7 +52,6 @@ INXS – Don't Change | last aired Nov 11 | 22x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
 Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
-Gary Numan – Cars | last aired Nov 11 | 14x
 Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
 Pale Saints – Kinky Love | last aired Nov 11 | 23x
@@ -60,6 +62,7 @@ Arctic Monkeys – Do I Wanna Know? | last aired Nov 12 | 185x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 12 | 18x
 Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
+Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 12 | 14x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
 The Undertones – Teenage Kicks | last aired Nov 12 | 6x
@@ -68,7 +71,6 @@ Jeff Buckley – Calling You (Live) | last aired Nov 12 | 23x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 Muse – Feeling Good | last aired Nov 12 | 23x
 THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
-Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 Helado Negro – Brown Fluorescence | last aired Nov 12 | 25x
 Julien Baker – Hardline | last aired Nov 12 | 34x
 Alvvays – Belinda Says | last aired Nov 12 | 53x
@@ -78,6 +80,7 @@ The Smiths – I Know It's Over | last aired Nov 12 | 8x
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
+Ride – Vapour Trail | last aired Nov 12 | 28x
 Cults – Gilded Lily | last aired Nov 12 | 22x
 Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
@@ -92,13 +95,10 @@ Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
 Pearl Jam – Yellow Ledbetter | last aired Nov 12 | 32x
+ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
+Cyndi Lauper – All Through the Night | last aired Nov 12 | 63x
 This Mortal Coil – Song To The Siren | last aired Nov 12 | 34x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
-Sigur Rós – Hoppípolla | last aired Nov 13 | 88x
-Sade – By Your Side (Remastered Version) | last aired Nov 13 | 60x
-Beck – Devils Haircut | last aired Nov 13 | 25x
-Beck – The New Pollution | last aired Nov 13 | 29x
-Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 13 | 20x
-Joker Out – Novi Val | last aired Nov 13 | 22x
+Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:30am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -80,15 +80,14 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 1
 Katy Perry – Roar | last aired Nov 8 | 111x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
+Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 8 | 29x
 Alexander Rybak – Fairytale | last aired Nov 8 | 16x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
-The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 9 | 11x
 Falco – Vienna Calling | last aired Nov 9 | 26x
-Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
@@ -97,8 +96,9 @@ JAWNY – true | last aired Nov 9 | 5x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
-Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
+Sadie Jean – WYD Now? | last aired Nov 9 | 7x
+Roxette – See Me | last aired Nov 9 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

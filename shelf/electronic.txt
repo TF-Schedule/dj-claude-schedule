@@ -1,4 +1,4 @@
-Electronic – 212 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:15am PT.
+Electronic – 215 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:30am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -67,7 +67,6 @@ Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
-Helios – First Dream Called Ocean | last aired Nov 9 | 109x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
 Dorian Electra – Bizarre Love Triangle | last aired Nov 9 | 5x
 Marconi Union – Weightless | last aired Nov 9 | 97x
@@ -100,5 +99,6 @@ Cocteau Twins – Whales Tails | last aired Nov 11 | 36x
 Eluvium – Taken | last aired Nov 11 | 46x
 Jamie xx – Gosh | last aired Nov 11 | 51x
 Jazzy – No Bad Vibes | last aired Nov 11 | 8x
+Home – We're Finally Landing | last aired Nov 11 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
