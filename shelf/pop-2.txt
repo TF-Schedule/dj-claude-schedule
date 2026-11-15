@@ -1,7 +1,6 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 9:45pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 10:00pm PT.
 
 Roxette – See Me | last aired Nov 9 | 2x
-Lofi Fruits Music – Plastic Love | last aired Nov 10 | 5x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 10 | 14x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
@@ -100,5 +99,6 @@ Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 Tom Konkle – When Did Love Become A Test | last aired Nov 14 | 5x
 Mazzy Star – Fade Into You | last aired Nov 14 | 100x
+Neil Diamond – Sweet Caroline | last aired Nov 14 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
