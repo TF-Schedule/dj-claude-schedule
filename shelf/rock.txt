@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 6:45pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 7:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -36,7 +36,6 @@ Lindsey Buckingham – Trouble | last aired Oct 28 | 19x
 OneRepublic – I Lived | last aired Oct 29 | 185x
 Loverboy – Lovin' Every Minute of It | last aired Oct 29 | 6x
 Rush – Tom Sawyer | last aired Oct 29 | 24x
-Queen – Bohemian Rhapsody (Remastered 2011) | last aired Oct 29 | 97x
 Zoé – Labios Rotos (Live 8.11.14) | last aired Oct 29 | 19x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Oct 29 | 6x
@@ -83,7 +82,6 @@ Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix)
 Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
-Pink Floyd – Coming Back to Life | last aired Nov 7 | 11x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
 Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
@@ -100,5 +98,7 @@ Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
 Lordi – Hard Rock Hallelujah | last aired Nov 9 | 15x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
+Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
+Iggy Pop – Mass Production | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
