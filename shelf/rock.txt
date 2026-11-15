@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:30pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Skindred – You Got This | last aired Sep 15 | 1x
@@ -82,7 +82,6 @@ Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 8 | 29x
-Tom Konkle – Children of No Horizon | last aired Nov 8 | 4x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 VAST – Thrown Away | last aired Nov 8 | 7x
 Måneskin – Torna a casa | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Måneskin – ZITTI E BUONI | last aired Nov 9 | 22x
 Faith No More – Surprise! You're Dead! | last aired Nov 9 | 4x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
+Bring Me The Horizon – Blessed with a Curse | last aired Nov 9 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
