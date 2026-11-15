@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:15pm PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:30pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -8,7 +8,6 @@ Aaliyah – Rock The Boat | last aired Oct 18 | 12x
 THE FATBACK BAND – At Last | last aired Oct 20 | 9x
 Hotel Ugly – Mice City | last aired Oct 26 | 12x
 The Weeknd – Call Out My Name | last aired Oct 26 | 7x
-Toni Braxton – Un-Break My Heart | last aired Oct 27 | 28x
 Lionel Richie – You Are | last aired Oct 29 | 22x
 Michael Jackson – Who Is It | last aired Oct 29 | 5x
 Maxwell – Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired Oct 29 | 10x
@@ -100,5 +99,6 @@ Petra – This Means War | last aired Nov 11 | 7x
 Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 The Ink Spots – Maybe | last aired Nov 11 | 36x
+Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

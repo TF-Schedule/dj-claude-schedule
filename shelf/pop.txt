@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 8:30pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -38,7 +38,6 @@ Miley Cyrus – Party In The U.S.A. | last aired Oct 24 | 8x
 Khalid – momentary lovers | last aired Oct 24 | 20x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
-Tove Lo – No One Dies From Love | last aired Oct 26 | 184x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
 Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
@@ -100,5 +99,6 @@ Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
+Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
