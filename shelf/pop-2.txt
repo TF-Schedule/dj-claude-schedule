@@ -1,4 +1,4 @@
-Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 6:30am PT.
+Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 6:45am PT.
 
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
@@ -56,7 +56,6 @@ Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 12 | 25x
 Clannad – Theme From Harry's Game | last aired Nov 12 | 39x
 Gus Dapperton – Ditch | last aired Nov 12 | 22x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 12 | 19x
-Jan Hammer – Crockett's Theme | last aired Nov 12 | 27x
 Zoé – Vía Láctea | last aired Nov 12 | 27x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 12 | 56x
@@ -100,5 +99,6 @@ Tate McRae – greedy | last aired Nov 14 | 7x
 Takako Mamiya – Nagisade Dance | last aired Nov 14 | 17x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
+Tove Lo – No One Dies From Love | last aired Nov 14 | 185x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
