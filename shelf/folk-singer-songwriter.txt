@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 12:47am PT.
+Folk / Singer-Songwriter – 164 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Becky Levi and the Nightjars – Wake Me Up | last aired Oct 21 | 4x
@@ -30,7 +30,6 @@ Don McLean – Vincent | last aired Nov 6 | 18x
 Hem – Half Acre (Remastered 2025) | last aired Nov 6 | 47x
 Gigi Perez – Sailor Song | last aired Nov 6 | 237x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
-Bobby Vinton – Blue Velvet | last aired Nov 7 | 13x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
 Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
@@ -100,5 +99,6 @@ The Opium Cartel – Beach House | last aired Nov 12 | 25x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 12 | 94x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
+Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 12 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
