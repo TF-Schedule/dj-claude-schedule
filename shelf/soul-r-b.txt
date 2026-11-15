@@ -1,4 +1,4 @@
-Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 8:00am PT.
+Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 8:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -86,7 +86,6 @@ Marvin Gaye – Wholy Holy | last aired Nov 11 | 21x
 Roberta Flack – Killing Me Softly With His Song | last aired Nov 11 | 34x
 Wilson Pickett – In the Midnight Hour | last aired Nov 11 | 144x
 The Weeknd – Gasoline | last aired Nov 11 | 96x
-Khalid – please don't call (333) | last aired Nov 11 | 129x
 Duran Duran – Notorious (2010 Remaster) | last aired Nov 11 | 8x
 Durand Jones & The Indications – Witchoo | last aired Nov 11 | 55x
 Aaliyah – If Your Girl Only Knew | last aired Nov 11 | 28x
@@ -100,5 +99,6 @@ Anita Baker – Angel (LP Version) | last aired Nov 11 | 53x
 Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 11 | 20x
 Roberta Flack – The First Time Ever I Saw Your Face (2020 Remaster) | last aired Nov 12 | 127x
 Whitney Houston – I Have Nothing | last aired Nov 12 | 16x
+Randy Crawford – One Day I'll Fly Away | last aired Nov 12 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
