@@ -202,6 +202,14 @@ def apple_batch(items, cache):
         print("Apple-Sammelabfrage fehlgeschlagen:", e)
         return
     found = {str(r.get("trackId")): r for r in res if r.get("wrapperType") == "track"}
+    missing = [i for i in ids if i and i not in found]
+    if missing:   # nur im deutschen Store vorhandene Titel (z. B. von Hand gesetzte DE-Links)
+        try:
+            res = json.loads(get("https://itunes.apple.com/lookup?country=de&id=" + ",".join(missing), timeout=40))["results"]
+            time.sleep(2)
+            found.update({str(r.get("trackId")): r for r in res if r.get("wrapperType") == "track"})
+        except Exception as e:
+            print("Apple-Abfrage (DE) fehlgeschlagen:", e)
     for i, keys in ids.items():
         for key in keys:
             old = cache.get(key) or {}
