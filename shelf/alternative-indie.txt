@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 12:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 12:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -78,7 +78,6 @@ Bowling For Soup – 1985 | last aired Nov 8 | 13x
 Alabama 3 – Thank you | last aired Nov 8 | 9x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
 Carter Vail – Ants In My Room | last aired Nov 8 | 13x
-Alice In Chains – Man in the Box | last aired Nov 8 | 10x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
@@ -100,5 +99,6 @@ The Magnetic Fields – All My Little Words | last aired Nov 9 | 9x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
+Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
