@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:00am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -62,7 +62,6 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Josh Rouse – 1972 | last aired Nov 11 | 25x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
-Amália Rodrigues – Barco negro | last aired Nov 11 | 37x
 Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 11 | 119x
 Grand Corps Malade – Mais je t'aime | last aired Nov 11 | 9x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 11 | 18x
@@ -100,5 +99,6 @@ Nick Drake – Pink Moon | last aired Nov 13 | 104x
 Fleet Foxes – Helplessness Blues | last aired Nov 13 | 34x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 13 | 123x
 Joni Mitchell – A Case of You | last aired Nov 13 | 46x
+Chico Buarque – Construção | last aired Nov 13 | 49x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

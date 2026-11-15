@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:15am PT.
 
-King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
 BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
 Monster Magnet – Nod Scene | last aired Nov 10 | 2x
@@ -38,7 +37,6 @@ Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
 Van Halen – Jump (2015 Remaster) | last aired Nov 12 | 7x
 Tina Turner – The Best | last aired Nov 12 | 28x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
-Amy Macdonald – This Is The Life | last aired Nov 12 | 21x
 The Sundays – Folk Song | last aired Nov 12 | 26x
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
 Ideal – Blaue Augen | last aired Nov 12 | 11x
@@ -100,5 +98,7 @@ The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
 David Bowie – Starman (2012 Remaster) | last aired Nov 13 | 34x
 David Bowie – Rebel Rebel | last aired Nov 13 | 25x
+Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
+Tom Konkle – Light Bulb In My Head | last aired Nov 14 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
