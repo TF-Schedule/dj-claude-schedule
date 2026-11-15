@@ -1,4 +1,4 @@
-Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:45am PT.
+Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 12:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -77,7 +77,6 @@ Khruangbin – Time (You and I) | last aired Nov 13 | 98x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 13 | 71x
 The Dave Brubeck Quartet – Take Five | last aired Nov 13 | 56x
 John Coltrane – Lush Life | last aired Nov 13 | 36x
-Alice Coltrane – Journey In Satchidananda | last aired Nov 13 | 17x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 13 | 58x
 Miles Davis – So What | last aired Nov 13 | 27x
@@ -100,5 +99,6 @@ Chet Baker – My Funny Valentine | last aired Nov 13 | 117x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 13 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 13 | 11x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 13 | 15x
+Bonobo – Kong | last aired Nov 14 | 84x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
