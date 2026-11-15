@@ -1,7 +1,5 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:15pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:30pm PT.
 
-James Blake – Retrograde | last aired Nov 11 | 71x
-Cocteau Twins – Whales Tails | last aired Nov 11 | 36x
 Eluvium – Taken | last aired Nov 11 | 46x
 Jamie xx – Gosh | last aired Nov 11 | 51x
 Jazzy – No Bad Vibes | last aired Nov 11 | 8x
@@ -100,5 +98,7 @@ Mort Garson – Plantasia | last aired Nov 14 | 50x
 Morcheeba – Trigger Hippie | last aired Nov 14 | 62x
 Hooverphonic – 2 Wicky | last aired Nov 14 | 35x
 Jungle – Keep Moving | last aired Nov 14 | 55x
+Moloko – Over & Over | last aired Nov 14 | 23x
+Zero 7 – In The Waiting Line | last aired Nov 14 | 72x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

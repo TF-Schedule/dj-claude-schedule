@@ -1,6 +1,5 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 5:30pm PT.
 
-Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
@@ -31,7 +30,6 @@ Vangelis – La petite fille de la mer | last aired Nov 11 | 33x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 The La's – There She Goes | last aired Nov 11 | 15x
-Taylor Swift – Cruel Summer | last aired Nov 11 | 136x
 Wir Sind Helden – Denkmal | last aired Nov 11 | 21x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
@@ -100,5 +98,7 @@ ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 Billy Joel – Vienna (Album Version) | last aired Nov 13 | 37x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
+New Order – True Faith | last aired Nov 13 | 21x
+Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

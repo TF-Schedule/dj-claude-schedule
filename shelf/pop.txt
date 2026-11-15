@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 5:30pm PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -33,7 +33,6 @@ P!nk – Try | last aired Oct 21 | 2x
 Tabu – Dobra Vila | last aired Oct 22 | 1x
 Pitbull – International Love | last aired Oct 22 | 70x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
-Tamara Živković – Nova Zora (Eurovision 2026) | last aired Oct 23 | 8x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
 Miley Cyrus – Party In The U.S.A. | last aired Oct 24 | 8x
@@ -100,5 +99,6 @@ Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
+Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
