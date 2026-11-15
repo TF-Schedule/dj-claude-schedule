@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:45am PT.
 
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -55,7 +55,6 @@ A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 1x
 Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 Apo Hiking Society – When I Met You | last aired Oct 31 | 11x
-Still Woozy – Get Down | last aired Nov 1 | 7x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
@@ -100,5 +99,6 @@ Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
+Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
