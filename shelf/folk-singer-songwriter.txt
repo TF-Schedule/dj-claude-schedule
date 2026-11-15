@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -56,7 +56,6 @@ The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aire
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
-William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 11 | 23x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Josh Rouse – 1972 | last aired Nov 11 | 25x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
@@ -100,5 +99,6 @@ Joni Mitchell – A Case of You | last aired Nov 13 | 46x
 Chico Buarque – Construção | last aired Nov 13 | 49x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 13 | 22x
 The Cure – Pictures of You | last aired Nov 13 | 41x
+Leonard Cohen – Hallelujah | last aired Nov 13 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

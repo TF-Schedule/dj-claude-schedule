@@ -1,4 +1,4 @@
-Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:30pm PT.
+Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -26,7 +26,6 @@ Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 9 | 27x
 Mary Halvorson – About Ghosts | last aired Nov 9 | 19x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 9 | 120x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
-Al Di Meola – Red Moon | last aired Nov 9 | 18x
 Masego – Tadow | last aired Nov 9 | 72x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 9 | 19x
 Anita Baker – Sweet Love | last aired Nov 10 | 121x
@@ -100,5 +99,6 @@ Julian Lage – Emily | last aired Nov 14 | 9x
 Diana Krall – How Deep Is The Ocean | last aired Nov 14 | 12x
 Diana Krall – A Case Of You (Live) | last aired Nov 14 | 1x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 14 | 9x
+Fiona Apple – Slow Like Honey | last aired Nov 14 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
