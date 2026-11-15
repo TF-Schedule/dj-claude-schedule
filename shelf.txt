@@ -1,15 +1,15 @@
 Your library by genre (Thinking Frequencies)
 Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.
 Just a shelf to browse when you choose freely – nothing to follow.
-Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 15, 4:00am PT).
+Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 15, 4:15am PT).
 
 Soul / R&B – 177 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
 Jazz – 137 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz.txt
 Electronic – 212 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic.txt
 Rock – 252 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock.txt
 Alternative / Indie – 245 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie.txt
-Pop – 224 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop.txt
-Folk / Singer-Songwriter – 168 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
+Pop – 223 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop.txt
+Folk / Singer-Songwriter – 169 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
 Hip-Hop / Rap – 35 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/hip-hop-rap.txt
 Country / Americana – 66 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/country-americana.txt
 Latin / Brasil – 61 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/latin-brasil.txt

@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -71,7 +71,6 @@ DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 St Germain – Rose rouge | last aired Nov 13 | 45x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 13 | 3x
-Khruangbin – A Calf Born In Winter | last aired Nov 13 | 87x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
@@ -100,5 +99,6 @@ Steely Dan – Kid Charlemagne | last aired Nov 13 | 25x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
 Steely Dan – Time Out Of Mind | last aired Nov 13 | 34x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 13 | 105x
+Sade – Kiss of Life (Remastered Version) | last aired Nov 13 | 93x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
