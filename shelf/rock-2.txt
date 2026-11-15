@@ -1,4 +1,4 @@
-Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 10:00pm PT.
+Rock – 281 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 10:15pm PT.
 
 Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
 Mark Hollis – The Colour Of Spring | last aired Nov 9 | 28x
@@ -53,7 +53,6 @@ Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 3
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 11 | 33x
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 12 | 32x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 12 | 3x
-Nine Inch Nails – Hurt | last aired Nov 12 | 29x
 Pages – If I Saw You Again (Album Version) | last aired Nov 12 | 22x
 Robbie Dupree – Steal Away | last aired Nov 12 | 17x
 Shakespears Sister – Stay | last aired Nov 12 | 6x
@@ -100,5 +99,6 @@ Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Dire Straits – Sultans of Swing | last aired Nov 13 | 84x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 13 | 37x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
+Dire Straits – Your Latest Trick | last aired Nov 13 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
