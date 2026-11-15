@@ -1,4 +1,4 @@
-Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:00am PT.
+Soul / R&B – 176 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 1:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -45,7 +45,6 @@ Whitney Houston – Saving All My Love for You | last aired Nov 6 | 39x
 Tinashe – Nasty | last aired Nov 7 | 131x
 Michael Jackson – You Are Not Alone | last aired Nov 7 | 289x
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
-Bobby Caldwell – What You Won't Do for Love | last aired Nov 7 | 28x
 Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
 Aretha Franklin – I Say a Little Prayer | last aired Nov 8 | 53x
@@ -100,5 +99,6 @@ Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 The Ink Spots – Maybe | last aired Nov 11 | 36x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
+Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
