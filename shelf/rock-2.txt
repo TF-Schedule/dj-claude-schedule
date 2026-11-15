@@ -1,10 +1,9 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 12:35pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 12:45pm PT.
 
 BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
 Monster Magnet – Nod Scene | last aired Nov 10 | 2x
 Rammstein – Deutschland | last aired Nov 10 | 18x
 Daikaiju – Magic Wanda | last aired Nov 10 | 11x
-Willy DeVille – Heaven Stood Still | last aired Nov 10 | 12x
 Christopher Cross – Sailing | last aired Nov 11 | 56x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
@@ -100,5 +99,6 @@ David Bowie – Rebel Rebel | last aired Nov 13 | 25x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Light Bulb In My Head | last aired Nov 14 | 10x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
+Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
