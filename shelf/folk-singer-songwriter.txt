@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 2:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -38,7 +38,6 @@ Phoebe Bridgers – Smoke Signals | last aired Nov 8 | 59x
 Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 8 | 8x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 9 | 6x
-The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 9 | 11x
 Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
@@ -100,5 +99,6 @@ Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 13 | 22x
 The Cure – Pictures of You | last aired Nov 13 | 41x
 Leonard Cohen – Hallelujah | last aired Nov 13 | 35x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
+Carole King – So Far Away | last aired Nov 13 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

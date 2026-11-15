@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 2:45pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 3:00pm PT.
 
 Perpetuum Jazzile – Africa | last aired Nov 10 | 27x
 Sabrina Carpenter – Please Please Please | last aired Nov 10 | 62x
@@ -9,7 +9,6 @@ Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 10 | 4x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
-Mariya Takeuchi – Plastic Love | last aired Nov 11 | 28x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
@@ -100,5 +99,6 @@ Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Her's – Blue Lips | last aired Nov 15 | 30x
 Still Woozy – Get Down | last aired Nov 15 | 8x
 Jan Hammer – Crockett's Theme | last aired Nov 15 | 28x
+Khalid – momentary lovers | last aired Nov 15 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
