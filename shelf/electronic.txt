@@ -1,4 +1,4 @@
-Electronic – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 4:00pm PT.
+Electronic – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 14, 4:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -66,7 +66,6 @@ Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
 Portishead – Wandering Star | last aired Nov 9 | 24x
 Tim Hecker – Black Refraction | last aired Nov 9 | 85x
-Massive Attack – Angel | last aired Nov 9 | 65x
 Portishead – It Could Be Sweet | last aired Nov 9 | 18x
 Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
@@ -100,5 +99,6 @@ Daft Punk – Around the World | last aired Nov 10 | 43x
 Noizu – Summer 91 (Looking Back) | last aired Nov 10 | 19x
 Lamb – Gorecki | last aired Nov 10 | 30x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
+Erik Wøllo – Computerlove | last aired Nov 10 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
