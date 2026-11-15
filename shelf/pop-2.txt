@@ -1,4 +1,4 @@
-Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:15pm PT.
+Pop – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 14, 7:30pm PT.
 
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
@@ -32,7 +32,6 @@ Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
-Tate McRae – TIT FOR TAT | last aired Nov 11 | 7x
 Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
 Peter Fox – Haus am See | last aired Nov 11 | 19x
 Leon Larregui – Locos | last aired Nov 11 | 20x
@@ -100,5 +99,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
+Tom Konkle – When Did Love Become A Test | last aired Nov 14 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
