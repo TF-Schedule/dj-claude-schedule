@@ -1,5 +1,6 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 5:45am PT.
+Pop – 204 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:00am PT.
 
+Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
 P!nk – Who Knew (Main Version) | last aired Sep 12 | 1x
@@ -15,6 +16,7 @@ The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
 P!nk – Glitter In the Air | last aired Oct 12 | 2x
 P!nk – Family Portrait | last aired Oct 14 | 2x
 Abor & Tynna – Baller | last aired Oct 15 | 3x
+DEEN – Ride On Time | last aired Oct 15 | 9x
 Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired Oct 17 | 5x
 Neuro-sama – Colorful Array | last aired Oct 17 | 6x
 The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
@@ -98,7 +100,5 @@ Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired N
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
-Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
-Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
