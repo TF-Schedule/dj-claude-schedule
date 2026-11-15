@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 7:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 7:30am PT.
 
-The Replacements – Answering Machine | last aired Nov 10 | 20x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 10 | 22x
 The Beatles – Rain (Remastered) | last aired Nov 10 | 21x
 BETWEEN FRIENDS – affection | last aired Nov 10 | 11x
@@ -100,5 +99,6 @@ Bruce Springsteen – Born in the U.S.A. | last aired Nov 13 | 24x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 13 | 27x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
+The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
