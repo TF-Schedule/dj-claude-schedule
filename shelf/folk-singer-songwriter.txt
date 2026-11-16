@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -84,13 +84,10 @@ The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Carole King – So Far Away | last aired Nov 13 | 44x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 13 | 21x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
-Elliott Smith – Independence Day | last aired Nov 13 | 20x
 Sufjan Stevens – Fourth of July | last aired Nov 13 | 44x
-Sufjan Stevens – Should Have Known Better | last aired Nov 13 | 90x
 Nick Drake – Northern Sky | last aired Nov 14 | 135x
 The Civil Wars – Poison & Wine | last aired Nov 14 | 46x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 14 | 44x
-Leonard Cohen – Suzanne | last aired Nov 14 | 56x
 Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 14 | 40x
 Fleet Foxes – Mykonos | last aired Nov 14 | 119x
@@ -100,5 +97,8 @@ Jack Johnson – Better Together | last aired Nov 14 | 150x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 14 | 6x
 Gregory Alan Isakov – Big Black Car | last aired Nov 14 | 9x
 Simon & Garfunkel – The Boxer | last aired Nov 14 | 101x
+Colbie Caillat – Try | last aired Nov 14 | 11x
+Hozier – From Eden | last aired Nov 14 | 51x
+Noah Kahan – Stick Season | last aired Nov 14 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
