@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 1:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:00am PT.
 
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
@@ -57,7 +57,6 @@ Blur – Song 2 | last aired Nov 12 | 18x
 Jeff Buckley – Calling You (Live) | last aired Nov 12 | 23x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
-Julien Baker – Hardline | last aired Nov 12 | 34x
 Foo Fighters – Everlong | last aired Nov 12 | 34x
 The Smiths – I Know It's Over | last aired Nov 12 | 8x
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Pixies – Ana | last aired Nov 13 | 29x
 Coldplay – Talk | last aired Nov 13 | 27x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 David Bowie – Slip Away | last aired Nov 13 | 19x
+Daniel Quien – Otros Colores | last aired Nov 13 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
