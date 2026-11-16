@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 9:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 9:15am PT.
 
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -48,7 +48,6 @@ The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
 Dire Straits – Money for Nothing | last aired Nov 13 | 24x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
-Pink Floyd – Comfortably Numb | last aired Nov 13 | 13x
 Fleetwood Mac – Tusk | last aired Nov 13 | 26x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 13 | 26x
@@ -60,7 +59,6 @@ The Strokes – Last Nite | last aired Nov 13 | 81x
 The Strokes – Lonely in the Future | last aired Nov 13 | 18x
 Pink Floyd – Money | last aired Nov 13 | 12x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
-David Bowie – "Heroes" (2017 Remaster) | last aired Nov 13 | 56x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 13 | 14x
 Pink Floyd – Breathe (In the Air) | last aired Nov 13 | 15x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
@@ -100,5 +98,7 @@ Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 14 | 24x
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Thin Lizzy – Emerald | last aired Nov 14 | 27x
+Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 14 | 13x
+Queen – Under Pressure (Remastered 2011) | last aired Nov 14 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
