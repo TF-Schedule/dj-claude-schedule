@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 3:45pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:00pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -66,7 +66,6 @@ Bruno Mars – Gorilla | last aired Nov 4 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
-The Beatles – Octopus's Garden (Remastered) | last aired Nov 5 | 13x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
@@ -94,11 +93,12 @@ Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) 
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
-Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 9 | 22x
 Benson Boone – Beautiful Things | last aired Nov 9 | 14x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
 Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
+Perpetuum Jazzile – Africa | last aired Nov 10 | 27x
+Sabrina Carpenter – Please Please Please | last aired Nov 10 | 62x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
