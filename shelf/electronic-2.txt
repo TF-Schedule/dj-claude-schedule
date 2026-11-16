@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:00pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:15pm PT.
 
 Polar Sun – Caribou | last aired Nov 11 | 34x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 11 | 6x
@@ -28,7 +28,6 @@ Bicep – Apricots | last aired Nov 12 | 68x
 Björk – Hyperballad | last aired Nov 12 | 27x
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 12 | 46x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
-Peggy Gou – Starry Night | last aired Nov 12 | 168x
 Synergy – Chateau | last aired Nov 12 | 31x
 Sneaker Pimps – How Do | last aired Nov 12 | 15x
 Federico Aubele – Postales | last aired Nov 12 | 89x
@@ -100,5 +99,6 @@ Boards of Canada – Roygbiv | last aired Nov 15 | 43x
 The Cinematic Orchestra – To Build A Home | last aired Nov 15 | 82x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 15 | 66x
+Thievery Corporation – Lebanese Blonde | last aired Nov 15 | 69x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
