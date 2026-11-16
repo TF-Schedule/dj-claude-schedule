@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:15pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 4:22pm PT.
 
 Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
 MIKA – Grace Kelly | last aired Nov 10 | 25x
@@ -67,7 +67,6 @@ Billy Joel – Vienna (Album Version) | last aired Nov 13 | 37x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 New Order – True Faith | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
-The Beach Boys – God Only Knows (Stereo) | last aired Nov 13 | 41x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
@@ -100,5 +99,6 @@ Jan Hammer – Crockett's Theme | last aired Nov 15 | 28x
 Khalid – momentary lovers | last aired Nov 15 | 21x
 JAWNY – true | last aired Nov 15 | 6x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 15 | 32x
+Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
