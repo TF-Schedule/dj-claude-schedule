@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 1:30am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 1:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -66,7 +66,6 @@ Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
 Phoebe Bridgers – Moon Song | last aired Nov 12 | 78x
 Adrianne Lenker – anything | last aired Nov 12 | 55x
 Scorpions – Still Loving You (2011 Version) | last aired Nov 12 | 18x
-Sufjan Stevens – Casimir Pulaski Day | last aired Nov 12 | 77x
 Judy Collins – Bread and Roses | last aired Nov 12 | 27x
 Go_A – SHUM | last aired Nov 12 | 19x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 12 | 14x
@@ -88,7 +87,6 @@ The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Carole King – So Far Away | last aired Nov 13 | 44x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 13 | 21x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
-Elliott Smith – Angeles | last aired Nov 13 | 29x
 Elliott Smith – Independence Day | last aired Nov 13 | 20x
 Sufjan Stevens – Fourth of July | last aired Nov 13 | 44x
 Sufjan Stevens – Should Have Known Better | last aired Nov 13 | 90x
@@ -100,5 +98,7 @@ Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 14 | 40x
 Fleet Foxes – Mykonos | last aired Nov 14 | 119x
 Damien Rice – The Blower's Daughter | last aired Nov 14 | 92x
+Ben Howard – Only Love | last aired Nov 14 | 8x
+Jack Johnson – Better Together | last aired Nov 14 | 150x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

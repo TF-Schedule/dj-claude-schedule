@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 1:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 1:45am PT.
 
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
@@ -81,7 +81,6 @@ ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 Cyndi Lauper – All Through the Night | last aired Nov 12 | 63x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
-Sigur Rós – Hoppípolla | last aired Nov 13 | 88x
 Beck – The New Pollution | last aired Nov 13 | 29x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 13 | 20x
 Joker Out – Novi Val | last aired Nov 13 | 22x
@@ -100,5 +99,6 @@ Coldplay – Yellow | last aired Nov 13 | 21x
 Pixies – Ana | last aired Nov 13 | 29x
 Coldplay – Talk | last aired Nov 13 | 27x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
+David Bowie – Slip Away | last aired Nov 13 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
