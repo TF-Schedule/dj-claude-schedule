@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 5:00am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 5:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -36,7 +36,6 @@ The Blind Boys Of Alabama – Amazing Grace | last aired Nov 5 | 18x
 SWV – Weak | last aired Nov 5 | 21x
 Aretha Franklin – Rock Steady (Album Version) | last aired Nov 5 | 64x
 Prince – Uptown (LP Version) | last aired Nov 5 | 28x
-The Temptations – Papa Was A Rollin' Stone (Full Version) | last aired Nov 5 | 57x
 The Temptations – At Last (Album Version) | last aired Nov 5 | 7x
 Sister Rosetta Tharpe – Up Above My Head There's Music In The Air | last aired Nov 6 | 22x
 Whitney Houston – Saving All My Love for You | last aired Nov 6 | 39x
@@ -69,7 +68,6 @@ Chaka Khan – What Cha' Gonna Do for Me | last aired Nov 10 | 46x
 Lawrence – 23 | last aired Nov 10 | 21x
 Maxwell – This Woman's Work (Uncut) | last aired Nov 10 | 97x
 Marvin Gaye – Mercy Mercy Me (The Ecology) | last aired Nov 10 | 28x
-Marvin Gaye – Distant Lover | last aired Nov 11 | 45x
 Marvin Gaye – Wholy Holy | last aired Nov 11 | 21x
 The Weeknd – Gasoline | last aired Nov 11 | 96x
 Duran Duran – Notorious (2010 Remaster) | last aired Nov 11 | 8x
@@ -100,5 +98,7 @@ Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 13 | 13
 Khruangbin – People Everywhere ii | last aired Nov 13 | 66x
 Khruangbin – Time (You and I) | last aired Nov 13 | 98x
 Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 13 | 39x
+Al Green – Love and Happiness | last aired Nov 13 | 37x
+Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 13 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
