@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 8:15am PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 8:30am PT.
 
 Anne Clark – Our Darkness | last aired Nov 11 | 11x
 ANNIE – Heartbeat | last aired Nov 11 | 16x
@@ -50,7 +50,6 @@ Rhye – Open | last aired Nov 13 | 44x
 Aphex Twin – Windowlicker | last aired Nov 13 | 26x
 Smoke City – Underwater Love | last aired Nov 13 | 6x
 Portishead – Roads | last aired Nov 13 | 62x
-Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 14 | 62x
 Bonobo – Kiara | last aired Nov 14 | 110x
 Hammock – Tape Recorder | last aired Nov 14 | 133x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 14 | 137x
@@ -100,5 +99,6 @@ Shida Shahabi – Futō | last aired Nov 15 | 29x
 Alex Andre – thanks, my day is ruined | last aired Nov 15 | 7x
 Thievery Corporation – Omid | last aired Nov 15 | 23x
 Marconi Union – Weightless | last aired Nov 15 | 98x
+Floating Points – Last Bloom | last aired Nov 15 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
