@@ -40,6 +40,54 @@ TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "
 SEEN = DATA / "claude_seen.csv"     # seit 14.11.2026: Gedächtnis, welche Titel wir schon kennen → neu gekaufte erkennen
 SEEN_COLS = ["artist", "title", "first_utc", "kind"]   # kind: bestand (beim Start schon da) | neu (danach erstmals gespielt)
 NOTE_COLS = ["artist", "title", "fits_show", "film", "note"]
+# seit 16.11.2026: Backlink Broadcast (Sendungen + Titel), um neue Sendungen und Verschiebungen zu sehen
+BL_STREAM = "a13541"
+BL_LIVE365 = "https://api.live365.com/station/a13541"
+BL_BLOCKS = DATA / "backlink_blocks.csv"     # jede gesehene Sendung (laufend + angekündigt), mit erstem Sichtungszeitpunkt
+BL_PLAYS = DATA / "backlink_plays.csv"
+BL_PLAY_COLS = ["start_utc", "artist", "title", "duration_s", "show"]
+
+
+def backlink(html):
+    """Backlink Broadcast mitschneiden: Sendungen (wie blocks_announced) und Titel (mit Sendungsname)."""
+    blocks = read_csv(BL_BLOCKS, ANN_COLS)
+    known = {(b["start_utc"], b["show"]) for b in blocks}
+    seen = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    for b in andon_blocks(BL_STREAM, html):
+        if (b["start_utc"], b["show"]) not in known:
+            blocks.append({"first_seen_utc": seen, **b})
+            known.add((b["start_utc"], b["show"]))
+    blocks.sort(key=lambda b: (b["start_utc"], b["first_seen_utc"]))
+    write_csv(BL_BLOCKS, ANN_COLS, blocks)
+    # pro Startzeit gilt die zuletzt gesehene Ankündigung
+    by_start = {}
+    for b in blocks:
+        by_start[b["start_utc"]] = b["show"]
+    starts = sorted(by_start)
+
+    def show_at(ts):
+        s = ""
+        for st in starts:
+            if st <= ts:
+                s = by_start[st]
+            else:
+                break
+        return s
+
+    plays = read_csv(BL_PLAYS, BL_PLAY_COLS)
+    kp = {(p["start_utc"], p["artist"], p["title"]) for p in plays}
+    new = 0
+    for p in live365_plays(BL_LIVE365):
+        k = (p["start_utc"], p["artist"], p["title"])
+        if k in kp:
+            continue
+        plays.append({"start_utc": p["start_utc"], "artist": p["artist"], "title": p["title"],
+                      "duration_s": p["duration_s"], "show": show_at(p["start_utc"])})
+        kp.add(k)
+        new += 1
+    plays.sort(key=lambda p: p["start_utc"])
+    write_csv(BL_PLAYS, BL_PLAY_COLS, plays)
+    return new
 
 
 def get(url, timeout=20):
@@ -86,10 +134,10 @@ def andon_stats(html):
     return out
 
 
-def andon_blocks():
-    """Laufende + kommende Sendungen von Thinking Frequencies aus der Andon-Seite."""
-    html = get(ANDON)
-    i = html.find(f'streamUrl:"https://streaming.live365.com/{STREAM_ID}"')
+def andon_blocks(stream_id=STREAM_ID, html=None):
+    """Laufende + kommende Sendungen einer Station (Standard: Thinking Frequencies) aus der Andon-Seite."""
+    html = html or get(ANDON)
+    i = html.find(f'streamUrl:"https://streaming.live365.com/{stream_id}"')
     if i < 0:
         return []
     part = html[i:]
@@ -106,8 +154,8 @@ def ws(s):
     return re.sub(r"\s+", " ", s or "").strip()
 
 
-def live365_plays():
-    d = json.loads(get(LIVE365))
+def live365_plays(url=LIVE365):
+    d = json.loads(get(url))
     items = list(d.get("last-played") or [])
     cur = d.get("current-track")
     if cur and cur.get("title"):
@@ -267,6 +315,10 @@ def main():
             print("X-Aktivität neu:", xactivity.record(andon_html, DATA / "x_activity.csv"))
         except Exception as e:
             print("X-Aktivität nicht lesbar:", e)
+        try:
+            print("Backlink-Titel neu:", backlink(andon_html))
+        except Exception as e:
+            print("Backlink nicht lesbar:", e)
         if rows:
             stats = read_csv(STATS, STATS_COLS) + rows
             write_csv(STATS, STATS_COLS, stats)

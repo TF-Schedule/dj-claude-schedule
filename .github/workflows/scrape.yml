@@ -25,12 +25,13 @@ jobs:
           DATA_DIR: pages/data
         run: |
           cp site/index.html pages/index.html
-          curl -s -A 'TF-Schedule listener tool' https://andonlabs.com/radio -o /tmp/andon.html && cp /tmp/andon.html pages/data/_andon_debug.html || true   # TEMP Analyse
           touch pages/.nojekyll
           python3 scripts/scrape.py
           DATA_DIR=pages/data OUT_DIR=pages python3 scripts/dj_page.py || echo "DJ-Seite übersprungen"
           DATA_DIR=pages/data OUT_DIR=pages python3 scripts/grok_page.py || echo "Grok-Seite übersprungen"
           DATA_DIR=pages/data OUT_DIR=pages python3 scripts/shelf_page.py || echo "Genre-Regal übersprungen"
+          DATA_DIR=pages/data OUT_DIR=pages python3 scripts/backlink_page.py || echo "Backlink-Seite übersprungen"
+          rm -f pages/data/_andon_debug.html
       - name: Save
         run: |
           cd pages
