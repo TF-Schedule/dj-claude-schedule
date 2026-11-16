@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:00pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:15pm PT.
 
 Polar Sun – Caribou | last aired Nov 11 | 34x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 11 | 6x
@@ -91,7 +91,6 @@ Thievery Corporation – Facing East | last aired Nov 14 | 58x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 14 | 32x
 Tom Novy – Superstar (The Jason Nevins' Live Peep Show Mix) | last aired Nov 14 | 3x
 Loscil – Estuarine | last aired Nov 14 | 153x
-Chris Snelling – Le onde | last aired Nov 14 | 22x
 Tycho – Awake | last aired Nov 14 | 109x
 Tycho – Dive | last aired Nov 14 | 105x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 14 | 78x
@@ -100,5 +99,6 @@ The Cinematic Orchestra – To Build A Home | last aired Nov 15 | 82x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 15 | 66x
 Thievery Corporation – Lebanese Blonde | last aired Nov 15 | 69x
+Helios – First Dream Called Ocean | last aired Nov 15 | 110x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
