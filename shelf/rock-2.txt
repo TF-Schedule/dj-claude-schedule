@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 9:15pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 9:30pm PT.
 
-Christopher Cross – Sailing | last aired Nov 11 | 56x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 John Mayer – New Light | last aired Nov 11 | 190x
@@ -100,5 +99,6 @@ Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 14 | 57x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
 Sheryl Crow – All I Wanna Do | last aired Nov 14 | 23x
+Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
