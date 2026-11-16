@@ -1,4 +1,4 @@
-Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 11:45pm PT.
+Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 12:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -45,7 +45,6 @@ Michael Jackson – You Are Not Alone | last aired Nov 7 | 289x
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
 Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
-Aretha Franklin – I Say a Little Prayer | last aired Nov 8 | 53x
 Marc Rebillet – Late To Work | last aired Nov 8 | 7x
 Bootsy Collins – Psychoticbumpschool (LP Version) | last aired Nov 8 | 48x
 Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 8 | 2x
@@ -100,5 +99,6 @@ The Temprees – At Last | last aired Nov 13 | 8x
 The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 James Brown – I Got You (I Feel Good) | last aired Nov 13 | 34x
 Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
+Earth, Wind & Fire – September | last aired Nov 13 | 92x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
