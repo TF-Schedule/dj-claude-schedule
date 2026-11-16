@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:30am PT.
 
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 John Mayer – New Light | last aired Nov 11 | 190x
@@ -34,7 +34,6 @@ Gustavo Cerati – Crimen | last aired Nov 12 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 12 | 16x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 12 | 19x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 12 | 8x
-Gustavo Cerati – Puente | last aired Nov 13 | 32x
 Ashra – Sunrain | last aired Nov 13 | 34x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
@@ -100,5 +99,6 @@ MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 Fito Páez – El amor después del amor | last aired Nov 14 | 28x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 14 | 26x
 Fleetwood Mac – Sara | last aired Nov 14 | 29x
+Benny Sings – Sailing | last aired Nov 14 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
