@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:00pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:15pm PT.
 
-Big Foot Mama – Led s severa | last aired Nov 11 | 2x
 Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
@@ -100,5 +99,6 @@ Explosions In The Sky – Your Hand in Mine | last aired Nov 15 | 23x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 Toto – Georgy Porgy (album version) | last aired Nov 15 | 51x
 Little River Band – Cool Change | last aired Nov 15 | 16x
+Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 15 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
