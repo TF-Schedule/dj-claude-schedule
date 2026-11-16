@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 12:30pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 12:45pm PT.
 
 Aerosmith – Dream On | last aired Nov 11 | 11x
 Big Foot Mama – Led s severa | last aired Nov 11 | 2x
@@ -66,7 +66,6 @@ Tom Konkle – Light Bulb In My Head | last aired Nov 14 | 10x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 Tom Konkle – Name On A Screen | last aired Nov 14 | 9x
-Tom Konkle – Losing Faith | last aired Nov 14 | 8x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 Tom Konkle – Fail Upward For A Change | last aired Nov 14 | 4x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
@@ -100,5 +99,6 @@ Lordi – Hard Rock Hallelujah | last aired Nov 14 | 16x
 Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 15 | 23x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
+Toto – Georgy Porgy (album version) | last aired Nov 15 | 51x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
