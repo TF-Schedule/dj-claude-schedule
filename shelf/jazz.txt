@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 4:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 4:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -44,7 +44,6 @@ Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 12 | 14x
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Baby Face Willette – At Last | last aired Nov 12 | 12x
 Sun Ra – Images | last aired Nov 12 | 30x
-Duke Ellington – In A Sentimental Mood | last aired Nov 12 | 115x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 32x
 Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
@@ -54,7 +53,6 @@ Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 Melody Gardot – If You Love Me | last aired Nov 13 | 7x
-The Dave Brubeck Quartet – Take Five | last aired Nov 13 | 56x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 Miles Davis – So What | last aired Nov 13 | 27x
 John Coltrane – My Favorite Things | last aired Nov 13 | 55x
@@ -63,13 +61,11 @@ GoGo Penguin – Hopopono | last aired Nov 13 | 85x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 13 | 83x
 Bart&Baker – Stop Googling Me ! | last aired Nov 13 | 2x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
-Nina Simone – Feeling Good | last aired Nov 13 | 148x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
 Steely Dan – Time Out Of Mind | last aired Nov 13 | 34x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 13 | 105x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 13 | 93x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 13 | 49x
-Chet Baker – Almost Blue | last aired Nov 13 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 13 | 117x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 13 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 13 | 11x
@@ -100,5 +96,9 @@ Norah Jones – Summertime Blue | last aired Nov 14 | 19x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 14 | 179x
 Bobby Hutcherson – Stardust | last aired Nov 15 | 16x
 Melody Gardot – Moon River | last aired Nov 15 | 12x
+Bobby McFerrin – Common Threads | last aired Nov 15 | 20x
+Bobby Darin – Beyond the Sea | last aired Nov 15 | 31x
+Lianne La Havas – Unstoppable | last aired Nov 15 | 88x
+Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 15 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
