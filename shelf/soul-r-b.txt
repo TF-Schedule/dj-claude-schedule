@@ -1,4 +1,4 @@
-Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 12:30am PT.
+Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 12:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -82,7 +82,6 @@ Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
-Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 11 | 20x
 Roberta Flack – The First Time Ever I Saw Your Face (2020 Remaster) | last aired Nov 12 | 127x
 Whitney Houston – I Have Nothing | last aired Nov 12 | 16x
 The Isley Brothers – Between the Sheets | last aired Nov 12 | 114x
@@ -100,5 +99,6 @@ The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 James Brown – I Got You (I Feel Good) | last aired Nov 13 | 34x
 Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
 Earth, Wind & Fire – September | last aired Nov 13 | 92x
+Stevie Wonder – Golden Lady | last aired Nov 13 | 139x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
