@@ -1,4 +1,4 @@
-Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 10:30pm PT.
+Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 10:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -33,7 +33,6 @@ Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 Laufey – Madwoman | last aired Nov 10 | 47x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 11 | 35x
-Mulatu Astatke – Yègellé Tezeta | last aired Nov 11 | 56x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 11 | 22x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
@@ -59,7 +58,6 @@ Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 Melody Gardot – If You Love Me | last aired Nov 13 | 7x
 Khruangbin – Time (You and I) | last aired Nov 13 | 98x
-Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 13 | 71x
 The Dave Brubeck Quartet – Take Five | last aired Nov 13 | 56x
 John Coltrane – Lush Life | last aired Nov 13 | 36x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
@@ -100,5 +98,7 @@ Hiatus Kaiyote – By Fire | last aired Nov 14 | 131x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 14 | 94x
 Bonobo – Terrapin | last aired Nov 14 | 141x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
+Elvis Costello – Almost Blue | last aired Nov 14 | 17x
+Steely Dan – Babylon Sisters | last aired Nov 14 | 58x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
