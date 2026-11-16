@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 8:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 8:45pm PT.
 
 MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
@@ -15,7 +15,6 @@ Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
-Sabrina Carpenter – Espresso | last aired Nov 11 | 118x
 Peter Fox – Haus am See | last aired Nov 11 | 19x
 Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
@@ -100,5 +99,6 @@ Minako Yoshida – I'll Teach You All About Love | last aired Nov 15 | 32x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
+Mac DeMarco – Chamber Of Reflection | last aired Nov 15 | 73x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
