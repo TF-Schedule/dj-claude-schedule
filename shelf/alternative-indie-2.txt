@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:45am PT.
 
-Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
@@ -100,5 +99,6 @@ The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 David Bowie – Slip Away | last aired Nov 13 | 19x
 Daniel Quien – Otros Colores | last aired Nov 13 | 1x
 Lace – risk | last aired Nov 13 | 1x
+Sigur Rós – Starálfur | last aired Nov 14 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

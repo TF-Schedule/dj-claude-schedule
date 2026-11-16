@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -26,7 +26,6 @@ Joywave – Rumors | last aired Oct 26 | 18x
 Child Seat – Hyperphantasia | last aired Oct 26 | 7x
 Joywave – In Clover | last aired Oct 27 | 18x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
-Jeff Buckley – So Real | last aired Oct 28 | 3x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – You | last aired Oct 28 | 14x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
@@ -100,5 +99,6 @@ The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
+Cocteau Twins – Ivo | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
