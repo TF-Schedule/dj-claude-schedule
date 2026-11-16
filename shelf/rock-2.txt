@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 10:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 10:30am PT.
 
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -45,7 +45,6 @@ Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
 Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
-Dire Straits – Money for Nothing | last aired Nov 13 | 24x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
 Fleetwood Mac – Tusk | last aired Nov 13 | 26x
@@ -56,7 +55,6 @@ Journey – Lights (Album Version) | last aired Nov 13 | 18x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 The Strokes – Last Nite | last aired Nov 13 | 81x
 The Strokes – Lonely in the Future | last aired Nov 13 | 18x
-Pink Floyd – Money | last aired Nov 13 | 12x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 13 | 14x
 Pink Floyd – Breathe (In the Air) | last aired Nov 13 | 15x
@@ -100,5 +98,7 @@ Queen – Under Pressure (Remastered 2011) | last aired Nov 14 | 32x
 Toto – Rosanna (Album Version) | last aired Nov 14 | 79x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
+Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 14 | 98x
+Pink Floyd – Coming Back to Life | last aired Nov 14 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
