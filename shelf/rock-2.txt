@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:45pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:00pm PT.
 
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
@@ -7,7 +7,6 @@ Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
 Big Foot Mama – Led s severa | last aired Nov 11 | 2x
 Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
-Peter Gabriel – Sky Blue | last aired Nov 11 | 36x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
@@ -100,5 +99,6 @@ Sheryl Crow – All I Wanna Do | last aired Nov 14 | 23x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
+MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
