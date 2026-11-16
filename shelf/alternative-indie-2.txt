@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 9:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 9:45pm PT.
 
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
@@ -81,7 +81,6 @@ Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 1
 Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
-Pearl Jam – Yellow Ledbetter | last aired Nov 12 | 32x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 Cyndi Lauper – All Through the Night | last aired Nov 12 | 63x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
@@ -100,5 +99,6 @@ Radiohead – Paranoid Android | last aired Nov 13 | 24x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 13 | 14x
 The Killers – Mr. Brightside | last aired Nov 13 | 161x
 Oasis – Live Forever | last aired Nov 13 | 13x
+Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
