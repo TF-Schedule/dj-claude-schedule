@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:16pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 11:30pm PT.
 
 Polar Sun – Caribou | last aired Nov 11 | 34x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 11 | 6x
@@ -9,7 +9,6 @@ Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
 Database – Vice II | last aired Nov 11 | 3x
 Bruce Kaphan – Clouds | last aired Nov 11 | 55x
-Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 11 | 27x
 Slowdive – Erik's Song (Album Version) | last aired Nov 12 | 40x
 RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 12 | 28x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 12 | 108x
@@ -50,7 +49,6 @@ Boards of Canada – Olson | last aired Nov 13 | 61x
 Röyksopp – Eple | last aired Nov 13 | 39x
 Tycho – A Walk | last aired Nov 13 | 109x
 Boards of Canada – Dayvan Cowboy | last aired Nov 13 | 57x
-Jon Hopkins – Small Memory | last aired Nov 13 | 23x
 Daft Punk – Something About Us | last aired Nov 13 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
 Daft Punk – One More Time | last aired Nov 13 | 151x
@@ -100,5 +98,7 @@ Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 15 | 66x
 Thievery Corporation – Lebanese Blonde | last aired Nov 15 | 69x
 Helios – First Dream Called Ocean | last aired Nov 15 | 110x
+Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 15 | 121x
+Jamie xx – Gosh | last aired Nov 15 | 52x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
