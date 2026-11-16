@@ -1,4 +1,4 @@
-Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 7:00pm PT.
+Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 7:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -75,7 +75,6 @@ Chet Baker – You Don't Know What Love Is | last aired Nov 13 | 28x
 Bart&Baker – Stop Googling Me ! | last aired Nov 13 | 2x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
 Nina Simone – Feeling Good | last aired Nov 13 | 148x
-Nina Simone – Wild Is The Wind | last aired Nov 13 | 36x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
 Steely Dan – Time Out Of Mind | last aired Nov 13 | 34x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 13 | 105x
@@ -100,5 +99,6 @@ Paolo Conte – Via Con Me | last aired Nov 14 | 25x
 Zaz – Champs-Elysées | last aired Nov 14 | 2x
 Erykah Badu – On & On | last aired Nov 14 | 124x
 Hiatus Kaiyote – By Fire | last aired Nov 14 | 131x
+Sade – Cherish the Day (Remastered Version) | last aired Nov 14 | 94x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

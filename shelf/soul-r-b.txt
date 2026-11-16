@@ -1,4 +1,4 @@
-Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 7:00pm PT.
+Soul / R&B – 182 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 7:15pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -60,7 +60,6 @@ Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Al Green – The Lord Will Make a Way | last aired Nov 9 | 27x
 Mahmoud Ahmed – Ere Mela Mela / Meche Neu | last aired Nov 9 | 42x
-Erykah Badu – Window Seat | last aired Nov 10 | 82x
 Moby – In My Heart | last aired Nov 10 | 1x
 Remi Wolf – Disco Man | last aired Nov 10 | 10x
 Prince – Kiss (LP Version) | last aired Nov 10 | 27x
@@ -85,7 +84,6 @@ Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
-Anita Baker – Angel (LP Version) | last aired Nov 11 | 53x
 Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 11 | 20x
 Roberta Flack – The First Time Ever I Saw Your Face (2020 Remaster) | last aired Nov 12 | 127x
 Whitney Houston – I Have Nothing | last aired Nov 12 | 16x
@@ -100,5 +98,7 @@ YEBBA – Louie Bag (Live at Electric Lady) | last aired Nov 12 | 21x
 The Weeknd – Blinding Lights | last aired Nov 12 | 160x
 Prince – Nothing Compares 2 U | last aired Nov 13 | 22x
 The Staple Singers – I'll Take You There | last aired Nov 13 | 51x
+The Temprees – At Last | last aired Nov 13 | 8x
+The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
