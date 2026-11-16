@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:15am PT.
 
-Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -100,5 +99,6 @@ Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
 MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 Fito Páez – El amor después del amor | last aired Nov 14 | 28x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 14 | 26x
+Fleetwood Mac – Sara | last aired Nov 14 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
