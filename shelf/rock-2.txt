@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 1:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 1:30am PT.
 
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 11 | 23x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
@@ -90,7 +90,6 @@ Tom Konkle – Name On A Screen | last aired Nov 14 | 9x
 Tom Konkle – Losing Faith | last aired Nov 14 | 8x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 Tom Konkle – Fail Upward For A Change | last aired Nov 14 | 4x
-Leonard Cohen – Bird on the Wire | last aired Nov 14 | 37x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 14 | 57x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
@@ -100,5 +99,6 @@ Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
 MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 Fito Páez – El amor después del amor | last aired Nov 14 | 28x
+Charly García – Demoliendo Hoteles (Live) | last aired Nov 14 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
