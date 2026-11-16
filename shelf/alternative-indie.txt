@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -63,7 +63,6 @@ Siddhartha – 00:00 | last aired Nov 6 | 28x
 David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
-Kate Bush – Coffee Homeground | last aired Nov 7 | 21x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 7 | 2x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
@@ -100,5 +99,6 @@ Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 10 | 16x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
+Paramore – Thick Skull | last aired Nov 10 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

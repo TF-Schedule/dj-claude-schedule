@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:15am PT.
 
-Paramore – Thick Skull | last aired Nov 10 | 18x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
@@ -95,10 +94,11 @@ Coldplay – Yellow | last aired Nov 13 | 21x
 Pixies – Ana | last aired Nov 13 | 29x
 Coldplay – Talk | last aired Nov 13 | 27x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
-David Bowie – Slip Away | last aired Nov 13 | 19x
 Daniel Quien – Otros Colores | last aired Nov 13 | 1x
 Lace – risk | last aired Nov 13 | 1x
 Sigur Rós – Starálfur | last aired Nov 14 | 24x
 Beach House – Space Song | last aired Nov 14 | 121x
+Björk – Pagan Poetry | last aired Nov 14 | 16x
+The Cranberries – Dreams | last aired Nov 14 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
