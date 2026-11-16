@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 8:00am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 8:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -83,7 +83,6 @@ The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Carole King – So Far Away | last aired Nov 13 | 44x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 13 | 21x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
-Sufjan Stevens – Fourth of July | last aired Nov 13 | 44x
 Nick Drake – Northern Sky | last aired Nov 14 | 135x
 The Civil Wars – Poison & Wine | last aired Nov 14 | 46x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 14 | 44x
@@ -100,5 +99,6 @@ Hozier – From Eden | last aired Nov 14 | 51x
 Noah Kahan – Stick Season | last aired Nov 14 | 24x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 14 | 20x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
+Kings Of Convenience – Rocky Trail | last aired Nov 14 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
