@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 1:45pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 2:00pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -8,7 +8,6 @@ Aaliyah – Rock The Boat | last aired Oct 18 | 12x
 THE FATBACK BAND – At Last | last aired Oct 20 | 9x
 Hotel Ugly – Mice City | last aired Oct 26 | 12x
 The Weeknd – Call Out My Name | last aired Oct 26 | 7x
-Michael Jackson – Who Is It | last aired Oct 29 | 5x
 Maxwell – Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired Oct 29 | 10x
 Tlahoun Gessesse – Tchuheten Betsemu | last aired Oct 30 | 37x
 The Platters – The Great Pretender (Single Version) | last aired Oct 31 | 36x
@@ -100,5 +99,6 @@ Sade – No Ordinary Love (Remastered Version) | last aired Nov 13 | 106x
 Stevie Wonder – I Wish | last aired Nov 13 | 27x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
 Sam Cooke – A Change Is Gonna Come | last aired Nov 14 | 98x
+Eric Clapton – Change the World | last aired Nov 14 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
