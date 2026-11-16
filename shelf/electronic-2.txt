@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:30pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 2:45pm PT.
 
 Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
@@ -45,7 +45,6 @@ Daft Punk – Something About Us | last aired Nov 13 | 60x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
 Daft Punk – One More Time | last aired Nov 13 | 151x
 Aphex Twin – Windowlicker | last aired Nov 13 | 26x
-Smoke City – Underwater Love | last aired Nov 13 | 6x
 Portishead – Roads | last aired Nov 13 | 62x
 Bonobo – Kiara | last aired Nov 14 | 110x
 Hammock – Tape Recorder | last aired Nov 14 | 133x
@@ -100,5 +99,6 @@ Floating Points – Birth4000 | last aired Nov 15 | 71x
 Grimes – Oblivion | last aired Nov 15 | 12x
 Groove Armada – At the River | last aired Nov 15 | 35x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 15 | 28x
+Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
