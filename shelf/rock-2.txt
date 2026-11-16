@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 8:30am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 8:45am PT.
 
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -44,10 +44,8 @@ David Bowie – Space Oddity | last aired Nov 13 | 118x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
 Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
-Dire Straits – Your Latest Trick | last aired Nov 13 | 22x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
 Dire Straits – Money for Nothing | last aired Nov 13 | 24x
-Pink Floyd – Wish You Were Here | last aired Nov 13 | 19x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
 Pink Floyd – Comfortably Numb | last aired Nov 13 | 13x
@@ -100,5 +98,7 @@ Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last ai
 Electric Light Orchestra – Evil Woman | last aired Nov 14 | 24x
 Toto – Africa | last aired Nov 14 | 93x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
+Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 14 | 24x
+Talk Talk – New Grass | last aired Nov 14 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
