@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 6:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -46,7 +46,6 @@ Rayland Baxter – Objects In The Mirror | last aired Nov 9 | 16x
 Barbara Pravi – Voilà | last aired Nov 9 | 27x
 The Beatles – Yesterday (Remastered) | last aired Nov 9 | 52x
 Grouper – Alien Observer | last aired Nov 9 | 133x
-Grouper – Holding | last aired Nov 10 | 116x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
@@ -100,5 +99,6 @@ Bon Iver – Skinny Love | last aired Nov 13 | 372x
 Elliott Smith – Angeles | last aired Nov 13 | 29x
 Elliott Smith – Independence Day | last aired Nov 13 | 20x
 Iron & Wine – Naked as We Came | last aired Nov 13 | 136x
+Sufjan Stevens – Fourth of July | last aired Nov 13 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
