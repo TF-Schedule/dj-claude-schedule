@@ -1,4 +1,4 @@
-Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:00pm PT.
+Jazz – 140 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 4:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -13,7 +13,6 @@ Getatchèw Mèkurya – Shellela | last aired Oct 29 | 37x
 DJ Benjii – Aykedashem Lebe | last aired Oct 29 | 15x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Oct 29 | 21x
 Bert Kaempfert – A Swingin' Safari | last aired Oct 30 | 13x
-Bernard Purdie – Cool Down | last aired Oct 31 | 23x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 2 | 11x
 Joni Mitchell – At Last (LP Version) | last aired Nov 3 | 7x
 Blossom Dearie – It Amazes Me | last aired Nov 4 | 26x
@@ -30,7 +29,6 @@ Anita Baker – Sweet Love | last aired Nov 10 | 121x
 Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
-Ben Allison – D.A.V.E. | last aired Nov 10 | 23x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 Laufey – Madwoman | last aired Nov 10 | 47x
@@ -100,5 +98,7 @@ Fiona Apple – Slow Like Honey | last aired Nov 14 | 27x
 Ella Fitzgerald – Summertime | last aired Nov 14 | 100x
 Nat King Cole – Nature Boy | last aired Nov 14 | 53x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 14 | 72x
+Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 14 | 38x
+Paolo Conte – Via Con Me | last aired Nov 14 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
