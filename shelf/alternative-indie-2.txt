@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:45am PT.
 
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
@@ -47,7 +47,6 @@ Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 12 | 18x
 Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
-Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 12 | 14x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
 The Undertones – Teenage Kicks | last aired Nov 12 | 6x
 Blur – Song 2 | last aired Nov 12 | 18x
@@ -100,5 +99,6 @@ Sigur Rós – Starálfur | last aired Nov 14 | 24x
 Beach House – Space Song | last aired Nov 14 | 121x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
 The Cranberries – Dreams | last aired Nov 14 | 34x
+Phoenix – Lisztomania | last aired Nov 14 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
