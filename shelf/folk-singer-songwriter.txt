@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 1:00pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 1:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -11,8 +11,6 @@ Mireille Mathieu – Together We're Strong | last aired Oct 28 | 50x
 Lou Reed – Perfect Day | last aired Oct 29 | 3x
 Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Oct 29 | 8x
-Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Oct 29 | 25x
-Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
 City – Am Fenster | last aired Oct 31 | 5x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
@@ -100,5 +98,7 @@ Angus & Julia Stone – You're The One That I Want | last aired Nov 14 | 33x
 The Head And The Heart – Down in the Valley | last aired Nov 14 | 24x
 Rufus Wainwright – Dinner At Eight | last aired Nov 14 | 29x
 Mitski – My Love Mine All Mine | last aired Nov 14 | 20x
+Led Zeppelin – Going to California (Remaster) | last aired Nov 14 | 24x
+Leonard Cohen – Treaty | last aired Nov 14 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
