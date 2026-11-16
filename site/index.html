@@ -183,6 +183,8 @@ function parseCSV(text) {
   return out.filter(r => r.length > 1 || r[0]).map(r => Object.fromEntries(head.map((h, i) => [h, r[i] ?? ""])));
 }
 const csvCell = v => /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+// Suche: Akzente und Groß/klein ignorieren (Boléro = bolero, Živković = zivkovic, ß = ss)
+const fold = x => (x || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ß/g, "ss").replace(/đ/g, "d").replace(/ø/g, "o").replace(/æ/g, "ae").replace(/ł/g, "l");
 // tolerante Zuordnung: Groß/klein, Akzente, Zusätze wie (Remastered 2011), - Live, feat. ..., & His Orchestra werden ignoriert
 function normA(a) {
   return a.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
@@ -397,7 +399,7 @@ function fillSelects() {
 }
 
 function filtered() {
-  const q = document.getElementById("q").value.toLowerCase().trim();
+  const q = fold(document.getElementById("q").value).trim();
   const la = fLand.value, g = fGenre.value, sh = fShow.value, free = freeHours(), film = fFilm.value, li = fList.value, st = fStatus.value;
   return rows.filter(t => {
     const n = noteFor(t);
@@ -410,7 +412,7 @@ function filtered() {
     if (st === "mine" && !pending[key(t.artist, t.title)]) return false;
     if (free && hoursSince(t.last_played_utc) < free) return false;
     if (film && !(n.film || t.film_hint)) return false;
-    if (q && ![t.artist, t.title, mainOf(t), genreOf(t), t.genre, t.shows, t.album, n.fits_show, n.film, n.note, n.lists, n.style, countryOf(t)].join(" ").toLowerCase().includes(q)) return false;
+    if (q && !fold([t.artist, t.title, mainOf(t), genreOf(t), t.genre, t.shows, t.album, n.fits_show, n.film, n.note, n.lists, n.style, countryOf(t)].join(" ")).includes(q)) return false;
     return true;
   }).sort((a, b) => {
     const val = x => sortK === "genre" ? mainOf(x) : sortK in x ? x[sortK] : noteFor(x)[sortK] || "";
@@ -480,8 +482,8 @@ document.addEventListener("click", e => {
 });
 
 function renderPlays() {
-  const q = document.getElementById("q2").value.toLowerCase().trim(), sh = fShow2.value;
-  const rows = plays.filter(p => (!sh || groupOfShow(p.show) === sh) && (!q || [p.artist, p.title, p.show].join(" ").toLowerCase().includes(q)));
+  const q = fold(document.getElementById("q2").value).trim(), sh = fShow2.value;
+  const rows = plays.filter(p => (!sh || groupOfShow(p.show) === sh) && (!q || fold([p.artist, p.title, p.show].join(" ")).includes(q)));
   document.getElementById("count2").textContent = `${rows.length} Plays`;
   document.getElementById("tbody2").innerHTML = rows.slice(0, 2000).map(p =>
     `<tr><td><div class="tt">${cover(artMap.get(key(p.artist, p.title)))}<div><div class="t">${esc(p.title)}</div><div class="a">${esc(p.artist)}</div></div></div></td>
