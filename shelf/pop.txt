@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:00am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -89,7 +89,6 @@ A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Mac DeMarco – No Other Heart | last aired Nov 9 | 30x
-Ray Anthony – The Hokey Pokey | last aired Nov 9 | 7x
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Sadie Jean – WYD Now? | last aired Nov 9 | 7x
 Roxette – See Me | last aired Nov 9 | 2x
@@ -100,5 +99,6 @@ MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
+Kat Edmonson – All The Way | last aired Nov 10 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

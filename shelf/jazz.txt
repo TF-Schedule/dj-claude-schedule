@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ Sade – Kiss of Life (Remastered Version) | last aired Nov 13 | 93x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 13 | 49x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 13 | 8x
 Melody Gardot – La chanson des vieux amants | last aired Nov 13 | 11x
-Melody Gardot – Over The Rainbow (Live) | last aired Nov 13 | 15x
 Julian Lage – Emily | last aired Nov 14 | 9x
 Diana Krall – How Deep Is The Ocean | last aired Nov 14 | 12x
 Diana Krall – A Case Of You (Live) | last aired Nov 14 | 1x
@@ -100,5 +99,6 @@ Bobby Darin – Beyond the Sea | last aired Nov 15 | 31x
 Lianne La Havas – Unstoppable | last aired Nov 15 | 88x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 15 | 25x
 Steely Dan – Peg | last aired Nov 15 | 108x
+St Germain – Rose rouge | last aired Nov 15 | 47x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
