@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 5:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -63,7 +63,6 @@ Sleeping At Last – Saturn | last aired Nov 11 | 17x
 Hozier – Cherry Wine (Live) | last aired Nov 12 | 53x
 King Crimson – Matte Kudasai | last aired Nov 12 | 23x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
-Phoebe Bridgers – Moon Song | last aired Nov 12 | 78x
 Adrianne Lenker – anything | last aired Nov 12 | 55x
 Judy Collins – Bread and Roses | last aired Nov 12 | 27x
 Go_A – SHUM | last aired Nov 12 | 19x
@@ -100,5 +99,6 @@ Ben Howard – Only Love | last aired Nov 14 | 8x
 Jack Johnson – Better Together | last aired Nov 14 | 150x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 14 | 6x
 Gregory Alan Isakov – Big Black Car | last aired Nov 14 | 9x
+Simon & Garfunkel – The Boxer | last aired Nov 14 | 101x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
