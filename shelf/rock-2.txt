@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 9:45am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 10:00am PT.
 
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -51,7 +51,6 @@ Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
 Fleetwood Mac – Tusk | last aired Nov 13 | 26x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 13 | 26x
-Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 13 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 13 | 80x
 Journey – Lights (Album Version) | last aired Nov 13 | 18x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
@@ -66,7 +65,6 @@ David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 13 | 18x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
 Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 13 | 24x
-David Bowie – Let's Dance (2018 Remaster) | last aired Nov 13 | 27x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
@@ -100,5 +98,7 @@ Talk Talk – New Grass | last aired Nov 14 | 29x
 Thin Lizzy – Emerald | last aired Nov 14 | 27x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 14 | 13x
 Queen – Under Pressure (Remastered 2011) | last aired Nov 14 | 32x
+Toto – Rosanna (Album Version) | last aired Nov 14 | 79x
+Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
