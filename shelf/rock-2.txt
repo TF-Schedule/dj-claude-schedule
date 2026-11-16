@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 10:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 10:15am PT.
 
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
@@ -61,7 +61,6 @@ Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 13 | 14x
 Pink Floyd – Breathe (In the Air) | last aired Nov 13 | 15x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
-David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 13 | 18x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
 Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 13 | 24x
@@ -100,5 +99,6 @@ Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 14 | 13
 Queen – Under Pressure (Remastered 2011) | last aired Nov 14 | 32x
 Toto – Rosanna (Album Version) | last aired Nov 14 | 79x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
+Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
