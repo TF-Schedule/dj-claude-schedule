@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 11:30am PT.
 
-John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
 Big Foot Mama – Led s severa | last aired Nov 11 | 2x
@@ -50,7 +49,6 @@ Journey – Don't Stop Believin' (Album Version) | last aired Nov 13 | 25x
 Fleetwood Mac – Tusk | last aired Nov 13 | 26x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 13 | 26x
-Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 13 | 80x
 Journey – Lights (Album Version) | last aired Nov 13 | 18x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 The Strokes – Last Nite | last aired Nov 13 | 81x
@@ -92,13 +90,15 @@ Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 14 | 24x
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Thin Lizzy – Emerald | last aired Nov 14 | 27x
-Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 14 | 13x
-Queen – Under Pressure (Remastered 2011) | last aired Nov 14 | 32x
 Toto – Rosanna (Album Version) | last aired Nov 14 | 79x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 14 | 98x
 Pink Floyd – Coming Back to Life | last aired Nov 14 | 12x
 Talk Talk – After The Flood | last aired Nov 14 | 33x
+Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
+Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 14 | 14x
+Tom Konkle – Children of No Horizon | last aired Nov 14 | 5x
+Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 14 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
