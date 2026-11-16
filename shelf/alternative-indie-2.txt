@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 12:22am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 12:30am PT.
 
 Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
@@ -47,7 +47,6 @@ Pale Saints – Kinky Love | last aired Nov 11 | 23x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
-Arctic Monkeys – Do I Wanna Know? | last aired Nov 12 | 185x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 12 | 18x
 Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Oasis – Live Forever | last aired Nov 13 | 13x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 The Cure – Plainsong (Remastered) | last aired Nov 13 | 24x
 Coldplay – Yellow | last aired Nov 13 | 21x
+Pixies – Ana | last aired Nov 13 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
