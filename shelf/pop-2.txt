@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:00am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:15am PT.
 
-Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
@@ -100,5 +99,6 @@ Benson Boone – Beautiful Things | last aired Nov 15 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 15 | 21x
 Sabrina Carpenter – Espresso | last aired Nov 15 | 119x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 15 | 26x
+Peter Fox – Haus am See | last aired Nov 15 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
