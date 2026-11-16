@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 9:45pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 10:00pm PT.
 
 MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
@@ -31,7 +31,6 @@ Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 12 | 13x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
-Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 12 | 42x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 12 | 28x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
@@ -100,5 +99,6 @@ Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 15 | 73x
 Mariya Takeuchi – Plastic Love | last aired Nov 15 | 29x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
+Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 15 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

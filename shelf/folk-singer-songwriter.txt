@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 9:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 15, 10:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -16,7 +16,6 @@ Hozier – Wasteland, Baby! | last aired Oct 30 | 14x
 City – Am Fenster | last aired Oct 31 | 5x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
-Pete Seeger – Which Side are You On? | last aired Nov 2 | 15x
 The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 4 | 25x
@@ -61,7 +60,6 @@ Dalida – Paroles paroles (Album Version) | last aired Nov 11 | 18x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 11 | 13x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 11 | 7x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 11 | 17x
-Peter Broderick – A Little Lost | last aired Nov 11 | 15x
 Sleeping At Last – Saturn | last aired Nov 11 | 17x
 Hozier – Cherry Wine (Live) | last aired Nov 12 | 53x
 Pete Seeger – Solidarity Forever | last aired Nov 12 | 87x
@@ -100,5 +98,7 @@ Elliott Smith – Independence Day | last aired Nov 13 | 20x
 Iron & Wine – Naked as We Came | last aired Nov 13 | 136x
 Sufjan Stevens – Fourth of July | last aired Nov 13 | 44x
 Sufjan Stevens – Should Have Known Better | last aired Nov 13 | 90x
+Sufjan Stevens – Mystery of Love | last aired Nov 13 | 105x
+Nick Drake – Northern Sky | last aired Nov 14 | 135x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
