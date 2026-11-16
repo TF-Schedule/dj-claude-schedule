@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:15pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:30pm PT.
 
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
@@ -70,7 +70,6 @@ Sheryl Crow – All I Wanna Do | last aired Nov 14 | 23x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
-MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 Fito Páez – El amor después del amor | last aired Nov 14 | 28x
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 14 | 52x
@@ -100,5 +99,6 @@ Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 15 | 
 indigo la End – Haru No Iutoori | last aired Nov 15 | 20x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 15 | 68x
+Mike Oldfield – Moonlight Shadow | last aired Nov 15 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

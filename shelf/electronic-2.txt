@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:15pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:30pm PT.
 
 Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
@@ -32,8 +32,6 @@ Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pa
 Sneaker Pimps – 6 Underground | last aired Nov 13 | 27x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
 HYD – Freak | last aired Nov 13 | 13x
-Massive Attack – Teardrop | last aired Nov 13 | 99x
-Portishead – Glory Box (Album Version) | last aired Nov 13 | 85x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 13 | 100x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 13 | 85x
 Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 13 | 112x
@@ -100,5 +98,7 @@ Grimes – Oblivion | last aired Nov 15 | 12x
 Groove Armada – At the River | last aired Nov 15 | 35x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 15 | 28x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
+Tricky – Hell Is Round The Corner | last aired Nov 15 | 44x
+Peggy Gou – Starry Night | last aired Nov 15 | 169x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
