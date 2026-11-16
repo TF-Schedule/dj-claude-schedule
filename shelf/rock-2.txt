@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:30am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 3:40am PT.
 
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 John Mayer – New Light | last aired Nov 11 | 190x
@@ -97,8 +97,8 @@ Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
 MGMT – Electric Feel (Album Version) | last aired Nov 14 | 30x
 Fito Páez – El amor después del amor | last aired Nov 14 | 28x
-Charly García – Demoliendo Hoteles (Live) | last aired Nov 14 | 26x
 Fleetwood Mac – Sara | last aired Nov 14 | 29x
 Benny Sings – Sailing | last aired Nov 14 | 26x
+Electric Light Orchestra – Mr. Blue Sky | last aired Nov 14 | 52x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
