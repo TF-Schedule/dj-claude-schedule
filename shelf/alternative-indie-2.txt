@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:00am PT.
 
 Cocteau Twins – Ivo | last aired Nov 10 | 23x
 Paramore – Thick Skull | last aired Nov 10 | 18x
@@ -22,7 +22,6 @@ Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
 Phoebe Bridgers – Kyoto | last aired Nov 11 | 22x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
-Muse – Won’t Stand Down | last aired Nov 11 | 16x
 Gorillaz – Souk Eye | last aired Nov 11 | 16x
 twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
@@ -100,5 +99,6 @@ Coldplay – Talk | last aired Nov 13 | 27x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 David Bowie – Slip Away | last aired Nov 13 | 19x
 Daniel Quien – Otros Colores | last aired Nov 13 | 1x
+Lace – risk | last aired Nov 13 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

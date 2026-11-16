@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:00am PT.
 
-Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
@@ -25,7 +24,6 @@ Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
-Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 12 | 28x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 12 | 6x
@@ -100,5 +98,7 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 Sabrina Carpenter – Espresso | last aired Nov 15 | 119x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 15 | 26x
 Peter Fox – Haus am See | last aired Nov 15 | 20x
+Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 15 | 43x
+Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 15 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
