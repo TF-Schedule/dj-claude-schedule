@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 8:00pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 15, 8:15pm PT.
 
 MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
@@ -10,7 +10,6 @@ Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 The La's – There She Goes | last aired Nov 11 | 15x
-Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 11 | 20x
 Kate Bush – Under The Ivy | last aired Nov 11 | 31x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
@@ -100,5 +99,6 @@ JAWNY – true | last aired Nov 15 | 6x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 15 | 32x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
+Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
