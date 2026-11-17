@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:00pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 7:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -39,7 +39,6 @@ Barbara Pravi – Voilà | last aired Nov 9 | 27x
 Grouper – Alien Observer | last aired Nov 9 | 133x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
-Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 10 | 31x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Josh Rouse – 1972 | last aired Nov 11 | 25x
@@ -74,7 +73,6 @@ Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 13 | 22x
 The Cure – Pictures of You | last aired Nov 13 | 41x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
-Leonard Cohen – Famous Blue Raincoat | last aired Nov 14 | 44x
 Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
 Fleet Foxes – Mykonos | last aired Nov 14 | 119x
 Damien Rice – The Blower's Daughter | last aired Nov 14 | 92x
@@ -100,5 +98,7 @@ Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 14 | 11x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Leonard Cohen – Anthem | last aired Nov 14 | 34x
 Tori Amos – Rattlesnakes | last aired Nov 14 | 10x
+Lord Huron – Life Is Strange | last aired Nov 14 | 52x
+Tom Konkle – One Last Time | last aired Nov 14 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
