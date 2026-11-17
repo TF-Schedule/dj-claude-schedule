@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:45am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:00am PT.
 
-Robbie Dupree – Steal Away | last aired Nov 12 | 17x
 Shakespears Sister – Stay | last aired Nov 12 | 6x
 Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 Gary Jules – Mad World | last aired Nov 12 | 34x
@@ -100,5 +99,6 @@ Train – Drops of Jupiter (Tell Me) | last aired Nov 15 | 14x
 Rammstein – Deutschland | last aired Nov 15 | 19x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 15 | 5x
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 15 | 33x
+Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 15 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
