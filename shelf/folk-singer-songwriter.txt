@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 10:45pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -71,7 +71,6 @@ The Cure – Pictures of You | last aired Nov 13 | 41x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
 Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
-Ben Howard – Only Love | last aired Nov 14 | 8x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 14 | 6x
 Colbie Caillat – Try | last aired Nov 14 | 11x
 Hozier – From Eden | last aired Nov 14 | 51x
@@ -100,5 +99,6 @@ Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 15 | 27x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 15 | 15x
 Sarah McLachlan – Building a Mystery | last aired Nov 15 | 19x
 Hem – Half Acre (Remastered 2025) | last aired Nov 15 | 48x
+Hem – Betting on Trains (Remastered 2025) | last aired Nov 15 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

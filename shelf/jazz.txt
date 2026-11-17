@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 10:45pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -67,7 +67,6 @@ Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired No
 Fiona Apple – Slow Like Honey | last aired Nov 14 | 27x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 14 | 38x
 Paolo Conte – Via Con Me | last aired Nov 14 | 25x
-Sade – Cherish the Day (Remastered Version) | last aired Nov 14 | 94x
 Bonobo – Terrapin | last aired Nov 14 | 141x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
 Elvis Costello – Almost Blue | last aired Nov 14 | 17x
@@ -100,5 +99,6 @@ Betty Carter – Moonlight in Vermont | last aired Nov 15 | 28x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Bernard Purdie – Cool Down | last aired Nov 15 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 15 | 24x
+Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
