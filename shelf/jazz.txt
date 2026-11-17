@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 11:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 11:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -27,7 +27,6 @@ Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
-Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 10 | 100x
 Laufey – Madwoman | last aired Nov 10 | 47x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 11 | 35x
@@ -100,5 +99,6 @@ Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 Bonobo – Kong | last aired Nov 16 | 85x
 Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 16 | 27x
 Chet Baker – You Don't Know What Love Is | last aired Nov 16 | 29x
+John Coltrane – Lush Life | last aired Nov 16 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
