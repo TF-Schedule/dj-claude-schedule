@@ -1,6 +1,5 @@
-Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:30pm PT.
+Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:45pm PT.
 
-Van Halen – Jump (2015 Remaster) | last aired Nov 12 | 7x
 Tina Turner – The Best | last aired Nov 12 | 28x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 The Sundays – Folk Song | last aired Nov 12 | 26x
@@ -100,5 +99,6 @@ Gustavo Cerati – Crimen | last aired Nov 16 | 28x
 Dire Straits – Sultans of Swing | last aired Nov 16 | 85x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
+David Bowie – Rebel Rebel | last aired Nov 16 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
