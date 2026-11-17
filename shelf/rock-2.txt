@@ -1,4 +1,4 @@
-Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:30pm PT.
+Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:45pm PT.
 
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 The Sundays – Folk Song | last aired Nov 12 | 26x
@@ -76,7 +76,6 @@ Willy DeVille – Heaven Stood Still | last aired Nov 15 | 13x
 Mark Hollis – The Colour Of Spring | last aired Nov 15 | 29x
 Måneskin – Torna a casa | last aired Nov 15 | 21x
 Lindsey Buckingham – Trouble | last aired Nov 15 | 20x
-Fleetwood Mac – Dreams (2001 Remaster) | last aired Nov 15 | 198x
 The Beatles – Strawberry Fields Forever | last aired Nov 15 | 28x
 Grateful Dead – Eyes of the World | last aired Nov 15 | 31x
 The Tragically Hip – Long Time Running | last aired Nov 15 | 17x
@@ -100,5 +99,6 @@ Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
 David Bowie – Rebel Rebel | last aired Nov 16 | 26x
 Pink Floyd – Comfortably Numb | last aired Nov 16 | 14x
 David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
+Pink Floyd – Have a Cigar | last aired Nov 16 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
