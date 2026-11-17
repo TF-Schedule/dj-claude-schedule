@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -36,7 +36,6 @@ Pitbull – International Love | last aired Oct 22 | 70x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
-Miley Cyrus – Party In The U.S.A. | last aired Oct 24 | 8x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
 TilaR – More Than A Friend | last aired Oct 26 | 4x
@@ -100,5 +99,6 @@ Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
+Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 8:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 9:00am PT.
 
-Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Leon Larregui – Locos | last aired Nov 11 | 20x
@@ -100,5 +99,6 @@ New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
+Lana Del Rey – Diet Mountain Dew | last aired Nov 17 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
