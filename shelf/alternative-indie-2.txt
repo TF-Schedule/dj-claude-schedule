@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:00am PT.
 
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
@@ -69,7 +69,6 @@ Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
-Beck – The New Pollution | last aired Nov 13 | 29x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
 The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
@@ -100,5 +99,6 @@ Love and Rockets – So Alive | last aired Nov 14 | 9x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
+INXS – Don't Change | last aired Nov 15 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
