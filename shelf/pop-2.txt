@@ -1,4 +1,4 @@
-Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:45pm PT.
+Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 8:00pm PT.
 
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
@@ -46,7 +46,6 @@ ABBA – Dancing Queen | last aired Nov 13 | 44x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 13 | 18x
 Jeff Buckley – Hallelujah | last aired Nov 13 | 32x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
-Billy Joel – Vienna (Album Version) | last aired Nov 13 | 37x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 New Order – True Faith | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
@@ -100,5 +99,6 @@ Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 15 
 Perpetuum Jazzile – Africa | last aired Nov 15 | 28x
 Pebe Sebert – City's Burning | last aired Nov 15 | 22x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 15 | 5x
+Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
