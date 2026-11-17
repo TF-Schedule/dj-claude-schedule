@@ -378,6 +378,11 @@ def main():
     by_norm = {norm_key(a["artist"], a["title"]): a for a in agg.values()}
     kurt = {}   # Kurts Doppelungen (z. B. abgeschnittene Titel) zuerst zusammenfassen: Plays addieren, neuester Name gewinnt
     for k in kurt_rows():
+        # verstümmelte Titel aus Kurts Liste reparieren, z. B. "… 2015 Remaster)n; 2015 Remaster)":
+        # hinter der ersten schließenden Klammer steht noch einmal ein Stück, das schon davor vorkam
+        m = re.match(r"^(.*?\))(.+\))$", k["title"])
+        if m and m.group(2).strip() in m.group(1):
+            k = {**k, "title": m.group(1)}
         nk = norm_key(k["artist"], k["title"])
         if nk in kurt:
             old_k = kurt[nk]
