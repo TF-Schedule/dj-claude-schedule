@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 8:00am PT.
 
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
@@ -66,7 +66,6 @@ Still Woozy – Get Down | last aired Nov 15 | 8x
 Jan Hammer – Crockett's Theme | last aired Nov 15 | 28x
 Khalid – momentary lovers | last aired Nov 15 | 21x
 JAWNY – true | last aired Nov 15 | 6x
-Minako Yoshida – I'll Teach You All About Love | last aired Nov 15 | 32x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
@@ -100,5 +99,6 @@ Mazzy Star – Fade Into You | last aired Nov 16 | 101x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
+Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
