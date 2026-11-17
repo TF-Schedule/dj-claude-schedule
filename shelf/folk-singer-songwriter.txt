@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 4:30pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 4:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -82,7 +82,6 @@ Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
 Fleet Foxes – Mykonos | last aired Nov 14 | 119x
 Damien Rice – The Blower's Daughter | last aired Nov 14 | 92x
 Ben Howard – Only Love | last aired Nov 14 | 8x
-Jack Johnson – Better Together | last aired Nov 14 | 150x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 14 | 6x
 Gregory Alan Isakov – Big Black Car | last aired Nov 14 | 9x
 Colbie Caillat – Try | last aired Nov 14 | 11x
@@ -100,5 +99,6 @@ Led Zeppelin – Going to California (Remaster) | last aired Nov 14 | 24x
 Leonard Cohen – Treaty | last aired Nov 14 | 11x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 14 | 33x
 Leonard Cohen – So Long, Marianne | last aired Nov 14 | 32x
+Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 14 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
