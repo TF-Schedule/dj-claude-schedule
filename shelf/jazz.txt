@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -65,7 +65,6 @@ Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired No
 Fiona Apple – Slow Like Honey | last aired Nov 14 | 27x
 Paolo Conte – Via Con Me | last aired Nov 14 | 25x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
-Elvis Costello – Almost Blue | last aired Nov 14 | 17x
 Steely Dan – Babylon Sisters | last aired Nov 14 | 58x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 14 | 100x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 14 | 14x
@@ -100,5 +99,6 @@ Anita Baker – Sweet Love | last aired Nov 15 | 122x
 Petra Haden – Moon River | last aired Nov 15 | 17x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 15 | 57x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 15 | 72x
+Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
