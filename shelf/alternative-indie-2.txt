@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:45pm PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:00pm PT.
 
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
@@ -65,7 +65,6 @@ The Killers – Mr. Brightside | last aired Nov 13 | 161x
 Oasis – Live Forever | last aired Nov 13 | 13x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 The Cure – Plainsong (Remastered) | last aired Nov 13 | 24x
-Pixies – Ana | last aired Nov 13 | 29x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 Lace – risk | last aired Nov 13 | 1x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
@@ -100,5 +99,6 @@ Radiohead – Weird Fishes / Arpeggi | last aired Nov 15 | 323x
 Ramones – Blitzkrieg Bop | last aired Nov 15 | 12x
 Pearl Jam – Yellow Ledbetter | last aired Nov 15 | 33x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 15 | 6x
+Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
