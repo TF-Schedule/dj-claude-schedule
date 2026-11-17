@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:45pm PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:00pm PT.
 
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
@@ -60,7 +60,6 @@ Geowulf – Saltwater | last aired Nov 13 | 18x
 The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 13 | 63x
 Talking Heads – Psycho Killer | last aired Nov 13 | 28x
-R.E.M. – Orange Crush (Remastered) | last aired Nov 13 | 14x
 The Killers – Mr. Brightside | last aired Nov 13 | 161x
 Oasis – Live Forever | last aired Nov 13 | 13x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
@@ -68,7 +67,6 @@ The Cure – Plainsong (Remastered) | last aired Nov 13 | 24x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 Lace – risk | last aired Nov 13 | 1x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
-The Cranberries – Dreams | last aired Nov 14 | 34x
 Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Arctic Monkeys – 505 | last aired Nov 14 | 39x
@@ -100,5 +98,7 @@ Ramones – Blitzkrieg Bop | last aired Nov 15 | 12x
 Pearl Jam – Yellow Ledbetter | last aired Nov 15 | 33x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 15 | 6x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
+Arctic Monkeys – Do I Wanna Know? | last aired Nov 16 | 186x
+Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
