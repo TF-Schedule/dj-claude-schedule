@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 8:30pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 8:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -73,7 +73,6 @@ The Cure – Pictures of You | last aired Nov 13 | 41x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
 Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
 Tom Waits – House Where Nobody Lives | last aired Nov 14 | 43x
-Fleet Foxes – Mykonos | last aired Nov 14 | 119x
 Damien Rice – The Blower's Daughter | last aired Nov 14 | 92x
 Ben Howard – Only Love | last aired Nov 14 | 8x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 14 | 6x
@@ -100,5 +99,6 @@ Tori Amos – Rattlesnakes | last aired Nov 14 | 10x
 Lord Huron – Life Is Strange | last aired Nov 14 | 52x
 Tom Konkle – One Last Time | last aired Nov 14 | 6x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 14 | 30x
+Lou Reed – Goodnight Ladies | last aired Nov 14 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
