@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -78,7 +78,6 @@ toe – Goodbye (Live) | last aired Nov 8 | 24x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
-Tears For Fears – Everybody Wants To Rule The World | last aired Nov 9 | 36x
 Falco – Vienna Calling | last aired Nov 9 | 26x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 9 | 6x
@@ -100,5 +99,6 @@ Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
+Ed Sheeran – Azizam | last aired Nov 11 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

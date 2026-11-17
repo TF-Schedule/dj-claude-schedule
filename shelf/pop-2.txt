@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:45pm PT.
 
-Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
@@ -39,7 +38,6 @@ The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 13 | 18x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
-Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
@@ -100,5 +98,7 @@ Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 |
 Lana Del Rey – Diet Mountain Dew | last aired Nov 17 | 37x
 Neil Diamond – Sweet Caroline | last aired Nov 17 | 11x
 Tove Lo – No One Dies From Love | last aired Nov 17 | 186x
+David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
+Tom Konkle – When Did Love Become A Test | last aired Nov 17 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
