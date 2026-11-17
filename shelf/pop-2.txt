@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 6:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:00am PT.
 
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
@@ -46,7 +46,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
 Depeche Mode – Policy of Truth | last aired Nov 13 | 15x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
-Tom Konkle – When Did Love Become A Test | last aired Nov 14 | 5x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
 Dean Martin – Everybody Loves Somebody | last aired Nov 14 | 31x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
@@ -100,5 +99,6 @@ Billy Joel – Vienna (Album Version) | last aired Nov 16 | 38x
 ABBA – Dancing Queen | last aired Nov 16 | 45x
 Mazzy Star – Fade Into You | last aired Nov 16 | 101x
 New Order – True Faith | last aired Nov 16 | 22x
+New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
