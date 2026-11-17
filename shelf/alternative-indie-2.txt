@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:00am PT.
 
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
@@ -82,7 +82,6 @@ Oasis – Live Forever | last aired Nov 13 | 13x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 The Cure – Plainsong (Remastered) | last aired Nov 13 | 24x
 Pixies – Ana | last aired Nov 13 | 29x
-Coldplay – Talk | last aired Nov 13 | 27x
 The Strokes – Ode To The Mets | last aired Nov 13 | 25x
 Daniel Quien – Otros Colores | last aired Nov 13 | 1x
 Lace – risk | last aired Nov 13 | 1x
@@ -100,5 +99,6 @@ Love and Rockets – Haunted When the Minutes Drag | last aired Nov 14 | 8x
 Love and Rockets – Saudade | last aired Nov 14 | 23x
 Love and Rockets – So Alive | last aired Nov 14 | 9x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
+Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
