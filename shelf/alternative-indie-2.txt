@@ -1,6 +1,5 @@
-Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 6:15am PT.
+Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 6:30am PT.
 
-Modest Mouse – Float On | last aired Nov 10 | 8x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
@@ -100,5 +99,6 @@ Wild Nothing – Chinatown | last aired Nov 15 | 33x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Martha And The Muffins – Echo Beach | last aired Nov 15 | 14x
 The Magnetic Fields – The Book of Love | last aired Nov 15 | 14x
+Maria McKee – Life Is Sweet | last aired Nov 15 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
