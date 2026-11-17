@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 4:45pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 5:00pm PT.
 
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
@@ -60,7 +60,6 @@ David Bowie – Starman (2012 Remaster) | last aired Nov 13 | 34x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
-Tom Konkle – Name On A Screen | last aired Nov 14 | 9x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 Tom Konkle – Fail Upward For A Change | last aired Nov 14 | 4x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
@@ -100,5 +99,6 @@ Styx – Mr. Roboto | last aired Nov 15 | 22x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 15 | 68x
 Mike Oldfield – Moonlight Shadow | last aired Nov 15 | 8x
 Amy Macdonald – This Is The Life | last aired Nov 15 | 22x
+Al Stewart – Year of the Cat | last aired Nov 15 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
