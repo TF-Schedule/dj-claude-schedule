@@ -1,7 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:15am PT.
 
-Shakespears Sister – Stay | last aired Nov 12 | 6x
-Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
 Gary Jules – Mad World | last aired Nov 12 | 34x
 Jeff Lynne – At Last | last aired Nov 12 | 5x
 Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
@@ -100,5 +98,7 @@ Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 15 | 4x
 Peter Gabriel – Sky Blue | last aired Nov 15 | 37x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 15 | 34x
 Leonard Cohen – Bird on the Wire | last aired Nov 16 | 38x
+Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 16 | 24x
+Gustavo Cerati – Puente | last aired Nov 16 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
