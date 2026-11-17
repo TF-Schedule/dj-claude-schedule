@@ -1,4 +1,4 @@
-Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:00am PT.
+Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -43,7 +43,6 @@ Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 Men At Work – Overkill | last aired Nov 3 | 17x
 Soundgarden – Holy Water (Album Version) | last aired Nov 4 | 12x
-MGMT – Time to Pretend (Album Version) | last aired Nov 4 | 26x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Soundgarden – Black Hole Sun | last aired Nov 5 | 84x
 Shellac – The End of Radio | last aired Nov 5 | 15x
@@ -100,5 +99,6 @@ The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 10 | 24x
+ANORAQUE – Ivy | last aired Nov 10 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
