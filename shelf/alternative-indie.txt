@@ -1,9 +1,8 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:00am PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
 Supernova – Chewbaca | last aired Oct 6 | 2x
-Scott Carlin – Fragile | last aired Oct 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
 Evan Fong – pe$o$ | last aired Oct 17 | 2x
 The 1975 – Jesus Christ 2005 God Bless America | last aired Oct 20 | 13x
@@ -100,5 +99,6 @@ Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 Michael Hutchence – Slide Away | last aired Nov 10 | 18x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
+Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

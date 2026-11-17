@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -59,7 +59,6 @@ Bart&Baker – Stop Googling Me ! | last aired Nov 13 | 2x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
 Steely Dan – Time Out Of Mind | last aired Nov 13 | 34x
-Sade – Is It a Crime (Remastered Version) | last aired Nov 13 | 49x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 13 | 8x
 Diana Krall – A Case Of You (Live) | last aired Nov 14 | 1x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 14 | 9x
@@ -100,5 +99,6 @@ Bernard Purdie – Cool Down | last aired Nov 15 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 15 | 24x
 Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 15 | 82x
+Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

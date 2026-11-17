@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:00am PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:15am PT.
 
-Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
@@ -100,5 +99,6 @@ Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 INXS – Don't Change | last aired Nov 15 | 23x
+Sting – Fragile | last aired Nov 15 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
