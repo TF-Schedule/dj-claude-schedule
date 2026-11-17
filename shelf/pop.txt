@@ -1,4 +1,4 @@
-Pop – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:15am PT.
+Pop – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -78,7 +78,6 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 1
 Katy Perry – Roar | last aired Nov 8 | 111x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
-Lana Del Rey – Diet Mountain Dew | last aired Nov 8 | 36x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Sabrina Carpenter – Taste | last aired Nov 9 | 53x
@@ -100,5 +99,6 @@ Leon Larregui – Brillas | last aired Nov 10 | 9x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
+Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

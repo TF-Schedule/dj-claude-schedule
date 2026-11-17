@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 1:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -45,7 +45,6 @@ Stratovarius – Black Diamond | last aired Nov 1 | 8x
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 6x
 Caifanes – Afuera | last aired Nov 3 | 12x
 Peter Gabriel – Sledgehammer | last aired Nov 3 | 18x
-Gerry Rafferty – Right Down the Line | last aired Nov 4 | 23x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
@@ -95,10 +94,11 @@ Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 John Mayer – New Light | last aired Nov 11 | 190x
 Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
-Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
 Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
+Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 36x
+Pages – If I Saw You Again (Album Version) | last aired Nov 12 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

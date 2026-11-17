@@ -1,7 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:15am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 1:30am PT.
 
-Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 36x
-Pages – If I Saw You Again (Album Version) | last aired Nov 12 | 22x
 Robbie Dupree – Steal Away | last aired Nov 12 | 17x
 Shakespears Sister – Stay | last aired Nov 12 | 6x
 Crowded House – Don't Dream It's Over | last aired Nov 12 | 13x
@@ -100,5 +98,7 @@ The Beatles – Strawberry Fields Forever | last aired Nov 15 | 28x
 Grateful Dead – Eyes of the World | last aired Nov 15 | 31x
 The Tragically Hip – Long Time Running | last aired Nov 15 | 17x
 T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
+Train – Drops of Jupiter (Tell Me) | last aired Nov 15 | 14x
+Rammstein – Deutschland | last aired Nov 15 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
