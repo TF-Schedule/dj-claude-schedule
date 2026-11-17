@@ -1,4 +1,4 @@
-Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:15am PT.
+Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:30am PT.
 
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
@@ -61,7 +61,6 @@ Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Glass Animals – Life Itself | last aired Nov 14 | 23x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 14 | 19x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 14 | 19x
-New Order – Blue Monday (2016 Remaster) | last aired Nov 14 | 18x
 Taeko Onuki – 4:00 A.M. | last aired Nov 14 | 24x
 Takako Mamiya – LOVE TRIP | last aired Nov 14 | 17x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
@@ -100,5 +99,6 @@ Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Sabrina Carpenter – Please Please Please | last aired Nov 16 | 63x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 16 | 29x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 16 | 30x
+Ray Anthony – The Hokey Pokey | last aired Nov 16 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

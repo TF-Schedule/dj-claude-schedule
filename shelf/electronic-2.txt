@@ -1,6 +1,5 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:15am PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:30am PT.
 
-Bruce Kaphan – Clouds | last aired Nov 11 | 55x
 Slowdive – Erik's Song (Album Version) | last aired Nov 12 | 40x
 RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 12 | 28x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 12 | 108x
@@ -100,5 +99,6 @@ Massive Attack – Teardrop | last aired Nov 16 | 100x
 Tycho – Awake | last aired Nov 16 | 110x
 Portishead – Roads | last aired Nov 16 | 63x
 Massive Attack – Protection | last aired Nov 16 | 43x
+Tycho – A Walk | last aired Nov 16 | 110x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
