@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:45am PT.
 
-Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
@@ -100,5 +99,6 @@ ABBA – Dancing Queen | last aired Nov 16 | 45x
 Mazzy Star – Fade Into You | last aired Nov 16 | 101x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
+Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

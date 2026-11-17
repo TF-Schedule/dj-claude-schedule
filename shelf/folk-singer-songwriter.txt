@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 7:30am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 7:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -8,7 +8,6 @@ Patti Smith Group – Dancing Barefoot | last aired Oct 22 | 1x
 Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Josh Rouse – Street Lights | last aired Oct 27 | 13x
-Mireille Mathieu – Together We're Strong | last aired Oct 28 | 50x
 Lou Reed – Perfect Day | last aired Oct 29 | 3x
 Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 City – Am Fenster | last aired Oct 31 | 5x
@@ -100,5 +99,6 @@ William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastere
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 15 | 24x
 Mariza – Ó gente da minha terra | last aired Nov 15 | 38x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 15 | 12x
+Fleet Foxes – Helplessness Blues | last aired Nov 15 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
