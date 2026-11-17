@@ -4825,6 +4825,12 @@
 "film_hint": "",
 "genre": "Alternative"
 },
+"Jeff Buckley|Dream Brother": {
+"album": "Grace",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Alternative"
+},
 "Jeff Buckley|Grace": {
 "album": "Grace",
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/100x100bb.jpg",
@@ -5863,6 +5869,12 @@
 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Rock"
+},
+"Led Zeppelin|Whole Lotta Love (Remaster)": {
+"album": "Led Zeppelin II (Remastered)",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/3d/bb/1a3dbb86-c1f8-737e-571f-d6b647a230be/dj.rhubuvkd.jpg/100x100bb.jpg",
+"film_hint": "",
+"genre": "Hard Rock"
 },
 "Ledward Kaapana|Salomila (Live)": {
 "album": "Led Live - Solo",
