@@ -1,6 +1,5 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:00pm PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:15pm PT.
 
-Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
@@ -27,7 +26,6 @@ Pale Saints – Kinky Love | last aired Nov 11 | 23x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
-Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 12 | 18x
 Jockstrap – Concrete Over Water | last aired Nov 12 | 20x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
@@ -36,7 +34,6 @@ The Undertones – Teenage Kicks | last aired Nov 12 | 6x
 Blur – Song 2 | last aired Nov 12 | 18x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
-Foo Fighters – Everlong | last aired Nov 12 | 34x
 The Smiths – I Know It's Over | last aired Nov 12 | 8x
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
@@ -100,5 +97,8 @@ Beck – Devils Haircut | last aired Nov 15 | 26x
 Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 15 | 323x
+Ramones – Blitzkrieg Bop | last aired Nov 15 | 12x
+Pearl Jam – Yellow Ledbetter | last aired Nov 15 | 33x
+Peeping Tom – Your Neighborhood Spaceman | last aired Nov 15 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
