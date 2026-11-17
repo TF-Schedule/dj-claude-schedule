@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:00am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -77,7 +77,6 @@ Rufus Wainwright – Dinner At Eight | last aired Nov 14 | 29x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 14 | 24x
 Leonard Cohen – Treaty | last aired Nov 14 | 11x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 14 | 33x
-Leonard Cohen – So Long, Marianne | last aired Nov 14 | 32x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 14 | 11x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Leonard Cohen – Anthem | last aired Nov 14 | 34x
@@ -100,5 +99,6 @@ Stealers Wheel – Stuck In The Middle With You | last aired Nov 15 | 23x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 15 | 95x
 Carole King – It's Too Late | last aired Nov 15 | 89x
+Michael Hedges – Aerial Boundaries | last aired Nov 15 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
