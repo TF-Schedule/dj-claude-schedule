@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:30pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:45pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -33,7 +33,6 @@ The Blind Boys Of Alabama – Amazing Grace | last aired Nov 5 | 18x
 SWV – Weak | last aired Nov 5 | 21x
 The Temptations – At Last (Album Version) | last aired Nov 5 | 7x
 Sister Rosetta Tharpe – Up Above My Head There's Music In The Air | last aired Nov 6 | 22x
-Whitney Houston – Saving All My Love for You | last aired Nov 6 | 39x
 Tinashe – Nasty | last aired Nov 7 | 131x
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
 Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
@@ -84,7 +83,6 @@ The Temprees – At Last | last aired Nov 13 | 8x
 The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 James Brown – I Got You (I Feel Good) | last aired Nov 13 | 34x
 Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
-Al Green – Love and Happiness | last aired Nov 13 | 37x
 Lou Rawls – At Last | last aired Nov 13 | 13x
 George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 13 | 18x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
@@ -100,5 +98,7 @@ Stevie Wonder – Go Home | last aired Nov 14 | 25x
 Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 14 | 110x
 Nothing More – SPIRITS | last aired Nov 14 | 5x
 Thee Sacred Souls – Live For You | last aired Nov 14 | 37x
+Bobby Caldwell – Coming Down from Love | last aired Nov 15 | 32x
+Bobby Caldwell – What You Won't Do for Love | last aired Nov 15 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
