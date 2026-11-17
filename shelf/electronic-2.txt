@@ -1,6 +1,5 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 6:00am PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 6:15am PT.
 
-Camille – Ta douleur | last aired Nov 12 | 14x
 Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
@@ -100,5 +99,6 @@ Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 16 | 79x
 Zero 7 – In The Waiting Line | last aired Nov 16 | 73x
 Morcheeba – Trigger Hippie | last aired Nov 16 | 63x
 Sneaker Pimps – 6 Underground | last aired Nov 16 | 28x
+Röyksopp – Eple | last aired Nov 16 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
