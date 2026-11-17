@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -68,7 +68,6 @@ Chico Buarque – Construção | last aired Nov 13 | 49x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 13 | 22x
 The Cure – Pictures of You | last aired Nov 13 | 41x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 13 | 14x
-Billy Joel – Honesty (Album Version) | last aired Nov 13 | 17x
 Colbie Caillat – Try | last aired Nov 14 | 11x
 Noah Kahan – Stick Season | last aired Nov 14 | 24x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
@@ -100,5 +99,6 @@ Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 15 | 95x
 Carole King – It's Too Late | last aired Nov 15 | 89x
 Michael Hedges – Aerial Boundaries | last aired Nov 15 | 43x
+Amália Rodrigues – Barco negro | last aired Nov 15 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

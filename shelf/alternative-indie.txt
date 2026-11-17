@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:15am PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 3:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -57,7 +57,6 @@ Siddhartha – 00:00 | last aired Nov 6 | 28x
 David Sylvian – Darkest Dreaming | last aired Nov 6 | 13x
 David Bowie – Dollar Days | last aired Nov 6 | 20x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
-Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 7 | 10x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
@@ -100,5 +99,6 @@ Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
+Sun's Signature – Golden Air | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
