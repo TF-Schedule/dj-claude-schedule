@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:30pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -72,7 +72,6 @@ Nat King Cole – Nature Boy | last aired Nov 14 | 53x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 14 | 72x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 14 | 38x
 Paolo Conte – Via Con Me | last aired Nov 14 | 25x
-Zaz – Champs-Elysées | last aired Nov 14 | 2x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 14 | 94x
 Bonobo – Terrapin | last aired Nov 14 | 141x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
@@ -100,5 +99,6 @@ Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Nat King Cole – Autumn Leaves | last aired Nov 15 | 12x
 Natalie Cole – At Last | last aired Nov 15 | 12x
+Nancy Wilson – Guess Who I Saw Today | last aired Nov 15 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
