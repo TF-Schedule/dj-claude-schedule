@@ -1,4 +1,4 @@
-Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:30am PT.
+Pop – 209 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 12:45am PT.
 
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
@@ -53,7 +53,6 @@ Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 Tom Konkle – When Did Love Become A Test | last aired Nov 14 | 5x
 Neil Diamond – Sweet Caroline | last aired Nov 14 | 10x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
-Nat King Cole – L-O-V-E | last aired Nov 14 | 31x
 Dean Martin – Everybody Loves Somebody | last aired Nov 14 | 31x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Mac DeMarco – My Kind of Woman | last aired Nov 14 | 29x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Please Please Please | last aired Nov 16 | 63x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 16 | 29x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 16 | 30x
 Ray Anthony – The Hokey Pokey | last aired Nov 16 | 8x
+Air – La femme d'argent | last aired Nov 16 | 75x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

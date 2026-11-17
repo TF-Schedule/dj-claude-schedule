@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -51,7 +51,6 @@ Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 13 | 6x
 John Coltrane – My Favorite Things | last aired Nov 13 | 55x
 GoGo Penguin – Raven | last aired Nov 13 | 84x
 GoGo Penguin – Hopopono | last aired Nov 13 | 85x
@@ -100,5 +99,6 @@ Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Bernard Purdie – Cool Down | last aired Nov 15 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 15 | 24x
 Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
+Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 15 | 82x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
