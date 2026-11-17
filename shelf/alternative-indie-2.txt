@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:30am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:45am PT.
 
 Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
@@ -76,7 +76,6 @@ The Cranberries – Dreams | last aired Nov 14 | 34x
 Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Arctic Monkeys – 505 | last aired Nov 14 | 39x
-Glass Animals – Heat Waves (Stripped Back) | last aired Nov 14 | 15x
 R.E.M. – Endgame | last aired Nov 14 | 13x
 No Vacation – Waltzing Back | last aired Nov 14 | 23x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 14 | 8x
@@ -100,5 +99,6 @@ Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 15 | 35x
 Beck – Devils Haircut | last aired Nov 15 | 26x
 Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
+Radiohead – Weird Fishes / Arpeggi | last aired Nov 15 | 323x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
