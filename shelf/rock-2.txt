@@ -1,4 +1,4 @@
-Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 2:45pm PT.
+Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:00pm PT.
 
 Tina Turner – The Best | last aired Nov 12 | 28x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
@@ -38,7 +38,6 @@ Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
-David Bowie – Starman (2012 Remaster) | last aired Nov 13 | 34x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
@@ -100,5 +99,6 @@ Dire Straits – Sultans of Swing | last aired Nov 16 | 85x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
 David Bowie – Rebel Rebel | last aired Nov 16 | 26x
+Pink Floyd – Comfortably Numb | last aired Nov 16 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
