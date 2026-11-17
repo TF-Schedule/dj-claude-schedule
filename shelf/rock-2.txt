@@ -1,6 +1,5 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:30pm PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 7:45pm PT.
 
-Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
 Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
@@ -100,5 +99,6 @@ Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov
 Mike Oldfield – Moonlight Shadow | last aired Nov 15 | 8x
 Amy Macdonald – This Is The Life | last aired Nov 15 | 22x
 Al Stewart – Year of the Cat | last aired Nov 15 | 33x
+Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
