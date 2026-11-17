@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:25am PT.
+Pop – 208 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:27am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -45,6 +45,7 @@ TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Oct 27 | 11x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
+The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) | last aired Oct 29 | 16x
 Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
@@ -99,6 +100,5 @@ Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
-Harry Styles – As It Was | last aired Nov 11 | 69x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
