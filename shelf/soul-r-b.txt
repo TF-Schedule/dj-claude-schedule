@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:00pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:15pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -21,7 +21,6 @@ Daryl Hall & John Oates – I Can't Go For That (No Can Do) (Remastered 2003) | 
 Edwin Starr – War | last aired Nov 2 | 19x
 The Edwin Hawkins Singers – Oh Happy Day | last aired Nov 2 | 20x
 Stevie Wonder – You Haven't Done Nothin' | last aired Nov 2 | 27x
-Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 2 | 48x
 Marvin Gaye – I Heard It Through The Grapevine (SACD Stereo) | last aired Nov 2 | 49x
 The Brothers Johnson – Strawberry Letter 23 (Album Version) | last aired Nov 2 | 56x
 David Bowie – Dancing in the Street (2002 Remaster) | last aired Nov 3 | 8x
@@ -100,5 +99,6 @@ Bobby Caldwell – Coming Down from Love | last aired Nov 15 | 32x
 Bobby Caldwell – What You Won't Do for Love | last aired Nov 15 | 30x
 Boz Scaggs – Lowdown (2023 Remaster) | last aired Nov 15 | 63x
 Booker T. & The M.G.'s – Green Onions | last aired Nov 15 | 43x
+Boyz II Men – End Of The Road (Album Version) | last aired Nov 15 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
