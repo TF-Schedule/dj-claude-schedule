@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 10:00pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 10:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -81,7 +81,6 @@ Hozier – From Eden | last aired Nov 14 | 51x
 Noah Kahan – Stick Season | last aired Nov 14 | 24x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
 Kings Of Convenience – Rocky Trail | last aired Nov 14 | 31x
-Ed Sheeran – Perfect | last aired Nov 14 | 10x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 14 | 33x
 The Head And The Heart – Down in the Valley | last aired Nov 14 | 24x
 Rufus Wainwright – Dinner At Eight | last aired Nov 14 | 29x
@@ -100,5 +99,6 @@ Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 14 | 30x
 Lou Reed – Goodnight Ladies | last aired Nov 14 | 16x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 14 | 17x
 Bobby Vinton – Blue Velvet | last aired Nov 15 | 14x
+Tori Amos – Winter | last aired Nov 15 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
