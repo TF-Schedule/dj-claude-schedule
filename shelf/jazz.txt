@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:15am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:25am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -63,7 +63,6 @@ Melody Gardot – This Foolish Heart Could Love You | last aired Nov 13 | 8x
 Diana Krall – A Case Of You (Live) | last aired Nov 14 | 1x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 14 | 9x
 Fiona Apple – Slow Like Honey | last aired Nov 14 | 27x
-Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 14 | 38x
 Paolo Conte – Via Con Me | last aired Nov 14 | 25x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
 Elvis Costello – Almost Blue | last aired Nov 14 | 17x
@@ -100,5 +99,6 @@ Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Nina Simone – Wild Is The Wind | last aired Nov 15 | 37x
 Anita Baker – Sweet Love | last aired Nov 15 | 122x
 Petra Haden – Moon River | last aired Nov 15 | 17x
+Mulatu Astatke – Yègellé Tezeta | last aired Nov 15 | 57x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
