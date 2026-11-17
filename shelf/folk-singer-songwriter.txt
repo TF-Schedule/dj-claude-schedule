@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:15pm PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 11:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Extreme – More Than Words | last aired Oct 15 | 2x
@@ -35,7 +35,6 @@ Matt Nathanson – Faster | last aired Nov 9 | 6x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
 Barbara Pravi – Voilà | last aired Nov 9 | 27x
-Grouper – Alien Observer | last aired Nov 9 | 133x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
@@ -100,5 +99,6 @@ Sarah McLachlan – Fallen (Album Mix) | last aired Nov 15 | 15x
 Sarah McLachlan – Building a Mystery | last aired Nov 15 | 19x
 Hem – Half Acre (Remastered 2025) | last aired Nov 15 | 48x
 Hem – Betting on Trains (Remastered 2025) | last aired Nov 15 | 23x
+INXS – Never Tear Us Apart | last aired Nov 15 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
