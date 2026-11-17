@@ -1,9 +1,8 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 3:15pm PT.
 
 Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
-Gorillaz – Souk Eye | last aired Nov 11 | 16x
 twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 M83 – Midnight City | last aired Nov 11 | 113x
@@ -59,7 +58,6 @@ The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 13 | 63x
 Talking Heads – Psycho Killer | last aired Nov 13 | 28x
 The Killers – Mr. Brightside | last aired Nov 13 | 161x
-Oasis – Live Forever | last aired Nov 13 | 13x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 The Cure – Plainsong (Remastered) | last aired Nov 13 | 24x
 Lace – risk | last aired Nov 13 | 1x
@@ -100,5 +98,7 @@ Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Radiohead – Paranoid Android | last aired Nov 16 | 25x
 Sigur Rós – Hoppípolla | last aired Nov 16 | 89x
 Cigarettes After Sex – Apocalypse | last aired Nov 16 | 107x
+Julien Baker – Hardline | last aired Nov 16 | 35x
+Men I Trust – Show Me How | last aired Nov 16 | 63x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
