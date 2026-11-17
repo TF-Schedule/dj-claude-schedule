@@ -1,4 +1,4 @@
-Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:00am PT.
+Rock – 257 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 12:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -57,7 +57,6 @@ Steve Miller Band – The Joker | last aired Nov 7 | 12x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Tim Cappello – I Still Believe | last aired Nov 7 | 19x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 7 | 7x
-Roy Orbison – Oh, Pretty Woman | last aired Nov 7 | 26x
 Roxette – The Look | last aired Nov 7 | 15x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Richard O Brien – The Time Warp | last aired Nov 8 | 4x
@@ -100,5 +99,6 @@ Big Foot Mama – Obseden z njo | last aired Nov 11 | 1x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Kim Carnes – More Love | last aired Nov 11 | 19x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
+Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
