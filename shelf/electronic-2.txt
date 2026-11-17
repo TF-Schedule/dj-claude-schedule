@@ -1,6 +1,5 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:15pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 6:30pm PT.
 
-Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
 Database – Vice II | last aired Nov 11 | 3x
 Bruce Kaphan – Clouds | last aired Nov 11 | 55x
@@ -55,7 +54,6 @@ Hooverphonic – 2 Wicky | last aired Nov 14 | 35x
 Moloko – Over & Over | last aired Nov 14 | 23x
 Zero 7 – In The Waiting Line | last aired Nov 14 | 72x
 Nightmares On Wax – Les Nuits | last aired Nov 14 | 66x
-Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 14 | 52x
 Lemon Jelly – Ramblin' Man | last aired Nov 14 | 44x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 14 | 34x
 Never Get Used To People – Life Letters (Slowed+Reverb) | last aired Nov 14 | 5x
@@ -100,5 +98,7 @@ Luca Di Sabatino – Switched-on Wendy | last aired Nov 16 | 10x
 Bonobo – Cirrus | last aired Nov 16 | 136x
 Sigur Rós – Sé Lest | last aired Nov 16 | 65x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 16 | 35x
+Jungle – Keep Moving | last aired Nov 16 | 56x
+Kraftwerk – Das Model | last aired Nov 16 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
