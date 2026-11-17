@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 10:36am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 10:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -91,7 +91,6 @@ Al Green – Love and Happiness | last aired Nov 13 | 37x
 Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 13 | 31x
 Lou Rawls – At Last | last aired Nov 13 | 13x
 George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 13 | 18x
-Stevie Wonder – I Wish | last aired Nov 13 | 27x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
 Eric Clapton – Change the World | last aired Nov 14 | 20x
 Stevie Wonder – Isn't She Lovely | last aired Nov 14 | 24x
@@ -100,5 +99,6 @@ Solange – Cranes in the Sky | last aired Nov 14 | 99x
 Janelle Monáe – Make Me Feel | last aired Nov 14 | 64x
 Frank Ocean – Pyramids | last aired Nov 14 | 58x
 Kali Uchis – For: You | last aired Nov 14 | 30x
+Bill Withers – Lovely Day | last aired Nov 14 | 157x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
