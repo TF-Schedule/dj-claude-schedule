@@ -1,4 +1,4 @@
-Pop – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:00pm PT.
+Pop – 209 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 16, 6:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -44,7 +44,6 @@ Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Oct 27 | 11x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
-Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Oct 28 | 11x
 Robin Packalen – Kesärenkaat | last aired Oct 28 | 9x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) | last aired Oct 29 | 16x
 Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
@@ -100,5 +99,6 @@ MIKA – Grace Kelly | last aired Nov 10 | 25x
 Leon Larregui – Brillas | last aired Nov 10 | 9x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
+Kat Edmonson – All The Way | last aired Nov 10 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
