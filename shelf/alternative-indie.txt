@@ -1,4 +1,4 @@
-Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:00am PT.
+Alternative / Indie – 248 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -91,7 +91,6 @@ Paramore – Thick Skull | last aired Nov 10 | 18x
 Red Hot Chili Peppers – Californication | last aired Nov 10 | 22x
 Suede – Animal Nitrate | last aired Nov 10 | 8x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
-Michael Hutchence – Slide Away | last aired Nov 10 | 18x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
@@ -100,5 +99,6 @@ Sun's Signature – Golden Air | last aired Nov 10 | 23x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 10 | 24x
 ANORAQUE – Ivy | last aired Nov 10 | 16x
 Modest Mouse – Float On | last aired Nov 10 | 8x
+Sun's Signature – Underwater | last aired Nov 10 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
