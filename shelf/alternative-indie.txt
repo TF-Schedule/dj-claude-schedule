@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:15am PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 2:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -50,7 +50,6 @@ Soundgarden – Black Hole Sun | last aired Nov 5 | 84x
 Shellac – The End of Radio | last aired Nov 5 | 15x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 5 | 11x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
-Lana Del Rey – Venice Bitch | last aired Nov 5 | 20x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
@@ -100,5 +99,6 @@ Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 10 | 18x
 Michael Hutchence – Slide Away | last aired Nov 10 | 18x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 Nirvana – Smells Like Teen Spirit | last aired Nov 10 | 31x
+The Sundays – Wild Horses | last aired Nov 10 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
