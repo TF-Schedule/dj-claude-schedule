@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 6:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -66,7 +66,6 @@ ROSALÍA – Berghain | last aired Nov 4 | 4x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 5 | 28x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
-David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 6 | 11x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
@@ -100,5 +99,6 @@ Lady Gaga – Just Dance | last aired Nov 10 | 19x
 Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 11 | 11x
 Harry Styles – As It Was | last aired Nov 11 | 69x
+The La's – There She Goes | last aired Nov 11 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
