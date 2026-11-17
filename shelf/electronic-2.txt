@@ -1,4 +1,4 @@
-Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 5:30pm PT.
+Electronic – 219 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 16, 5:45pm PT.
 
 Darude – Sandstorm | last aired Nov 11 | 31x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 11 | 23x
@@ -13,7 +13,6 @@ Four Tet – Two Thousand and Seventeen | last aired Nov 12 | 97x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
 Hiroshi Yoshimura – Feel | last aired Nov 12 | 38x
 Susumu Yokota – Saku | last aired Nov 12 | 73x
-Portishead – Sour Times | last aired Nov 12 | 22x
 Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 12 | 3x
 Smith & Mighty – Same | last aired Nov 12 | 18x
 Ashra – Kazoo | last aired Nov 12 | 28x
@@ -58,7 +57,6 @@ Zero 7 – In The Waiting Line | last aired Nov 14 | 72x
 Nightmares On Wax – Les Nuits | last aired Nov 14 | 66x
 Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 14 | 52x
 Lemon Jelly – Ramblin' Man | last aired Nov 14 | 44x
-Massive Attack – Angel | last aired Nov 14 | 66x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 14 | 34x
 Never Get Used To People – Life Letters (Slowed+Reverb) | last aired Nov 14 | 5x
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 14 | 45x
@@ -100,5 +98,7 @@ Jon Hopkins – Small Memory | last aired Nov 15 | 24x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 15 | 28x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 16 | 10x
 Bonobo – Cirrus | last aired Nov 16 | 136x
+Sigur Rós – Sé Lest | last aired Nov 16 | 65x
+Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 16 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
