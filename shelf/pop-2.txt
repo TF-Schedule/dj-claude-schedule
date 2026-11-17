@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 9:45am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 10:00am PT.
 
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
@@ -37,7 +37,6 @@ Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) 
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 13 | 18x
-Jeff Buckley – Hallelujah | last aired Nov 13 | 32x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 Depeche Mode – Enjoy the Silence | last aired Nov 13 | 23x
@@ -100,5 +99,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 17 | 37x
+Neil Diamond – Sweet Caroline | last aired Nov 17 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
