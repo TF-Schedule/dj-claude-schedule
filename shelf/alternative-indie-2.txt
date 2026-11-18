@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:15pm PT.
 
-Creed – With Arms Wide Open | last aired Nov 12 | 10x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Blur – Song 2 | last aired Nov 17 | 19x
 Arctic Monkeys – 505 | last aired Nov 17 | 40x
 The Smiths – I Know It's Over | last aired Nov 17 | 9x
 Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
+Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 17 | 64x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
