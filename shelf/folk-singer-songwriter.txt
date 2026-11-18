@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 7:30pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 7:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -88,7 +88,6 @@ Amália Rodrigues – Barco negro | last aired Nov 15 | 38x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 15 | 18x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 15 | 24x
-Mariza – Ó gente da minha terra | last aired Nov 15 | 38x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 15 | 12x
 Fleet Foxes – Helplessness Blues | last aired Nov 15 | 35x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
@@ -100,5 +99,6 @@ Grouper – Holding | last aired Nov 15 | 117x
 Rayland Baxter – Objects In The Mirror | last aired Nov 15 | 17x
 Peter Broderick – A Little Lost | last aired Nov 15 | 16x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
+The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
