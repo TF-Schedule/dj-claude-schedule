@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:18pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -12,7 +12,6 @@ Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
 Björk – Venus As A Boy (Live) | last aired Oct 22 | 13x
 Patti Smith – People Have the Power | last aired Oct 22 | 1x
 Patti Smith – Gloria : In Excelsis Deo - Gloria | last aired Oct 22 | 1x
-Gorillaz – Rock the House | last aired Oct 23 | 9x
 Tom Robinson – The Saturday Disco | last aired Oct 24 | 1x
 The 1975 – Robbers | last aired Oct 24 | 20x
 Sex Pistols – Anarchy In The UK | last aired Oct 24 | 12x
@@ -100,5 +99,6 @@ Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
+Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
