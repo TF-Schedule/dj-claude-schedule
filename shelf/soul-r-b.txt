@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:15pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:30pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -34,7 +34,6 @@ The Temptations – At Last (Album Version) | last aired Nov 5 | 7x
 Sister Rosetta Tharpe – Up Above My Head There's Music In The Air | last aired Nov 6 | 22x
 Tinashe – Nasty | last aired Nov 7 | 131x
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
-Joe Cocker – With A Little Help From My Friends | last aired Nov 7 | 29x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
 Marc Rebillet – Late To Work | last aired Nov 8 | 7x
 Bootsy Collins – Psychoticbumpschool (LP Version) | last aired Nov 8 | 48x
@@ -100,5 +99,6 @@ Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 15 | 19x
 Lionel Richie – You Are | last aired Nov 15 | 23x
 The Ink Spots – If I Didn't Care | last aired Nov 15 | 31x
 The Ink Spots – Maybe | last aired Nov 15 | 37x
+Stevie Wonder – Superstition (Album Version) | last aired Nov 15 | 101x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
