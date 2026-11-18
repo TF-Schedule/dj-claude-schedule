@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:15pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 4:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -73,7 +73,6 @@ Tori Amos – Rattlesnakes | last aired Nov 14 | 10x
 Lord Huron – Life Is Strange | last aired Nov 14 | 52x
 Tom Konkle – One Last Time | last aired Nov 14 | 6x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 14 | 30x
-Lou Reed – Goodnight Ladies | last aired Nov 14 | 16x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 14 | 17x
 Bobby Vinton – Blue Velvet | last aired Nov 15 | 14x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 15 | 15x
@@ -100,5 +99,6 @@ José González – Heartbeats | last aired Nov 15 | 125x
 Grand Corps Malade – Mais je t'aime | last aired Nov 15 | 10x
 Grouper – Holding | last aired Nov 15 | 117x
 Rayland Baxter – Objects In The Mirror | last aired Nov 15 | 17x
+Peter Broderick – A Little Lost | last aired Nov 15 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
