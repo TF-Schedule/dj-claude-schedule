@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:45am PT.
 
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 The Chills – Pink Frost | last aired Nov 11 | 10x
@@ -50,7 +50,6 @@ Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
-Jan Hammer – Crockett's Theme | last aired Nov 15 | 28x
 Khalid – momentary lovers | last aired Nov 15 | 21x
 JAWNY – true | last aired Nov 15 | 6x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
@@ -100,5 +99,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 17 | 24x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
 Tears For Fears – Mad World | last aired Nov 17 | 33x
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
+Mac DeMarco – My Kind of Woman | last aired Nov 17 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
