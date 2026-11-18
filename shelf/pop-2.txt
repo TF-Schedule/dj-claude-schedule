@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:45pm PT.
 
-S Club – I Really Miss You | last aired Nov 11 | 8x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
@@ -100,5 +99,6 @@ Jan Hammer – Crockett's Theme | last aired Nov 18 | 29x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
+Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
