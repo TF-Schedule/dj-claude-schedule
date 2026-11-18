@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:15pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:30pm PT.
 
 Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
@@ -56,7 +56,6 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 Sabrina Carpenter – Espresso | last aired Nov 15 | 119x
 Peter Fox – Haus am See | last aired Nov 15 | 20x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 15 | 43x
-Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 15 | 14x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 15 | 5x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Sabrina Carpenter – Please Please Please | last aired Nov 16 | 63x
@@ -100,5 +99,6 @@ Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
+Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 18 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
