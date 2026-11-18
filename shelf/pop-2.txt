@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:30am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:45am PT.
 
-The Chills – Pink Frost | last aired Nov 11 | 10x
 Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
 Gary Numan – Cars | last aired Nov 11 | 14x
 S Club – I Really Miss You | last aired Nov 11 | 8x
@@ -100,5 +99,6 @@ Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Mac DeMarco – My Kind of Woman | last aired Nov 17 | 30x
 Her's – Blue Lips | last aired Nov 17 | 31x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
+Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
