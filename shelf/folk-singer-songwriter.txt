@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:15am PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -57,7 +57,6 @@ Okkervil River – Lost Coastlines | last aired Nov 12 | 20x
 Cyndi Lauper – Time After Time | last aired Nov 13 | 13x
 Chico Buarque – Construção | last aired Nov 13 | 49x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 13 | 22x
-Colbie Caillat – Try | last aired Nov 14 | 11x
 Noah Kahan – Stick Season | last aired Nov 14 | 24x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
 Rufus Wainwright – Dinner At Eight | last aired Nov 14 | 29x
@@ -100,5 +99,6 @@ Elliott Smith – Angeles | last aired Nov 16 | 30x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 16 | 78x
 Cat Power – The Greatest | last aired Nov 16 | 8x
 Big Thief – Mary | last aired Nov 16 | 101x
+Scorpions – Still Loving You (2011 Version) | last aired Nov 16 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
