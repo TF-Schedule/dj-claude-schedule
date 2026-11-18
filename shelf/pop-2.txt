@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:00am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:15am PT.
 
 The Chills – Pink Frost | last aired Nov 11 | 10x
 Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
@@ -38,7 +38,6 @@ The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 1
 Dean Martin – Everybody Loves Somebody | last aired Nov 14 | 31x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
-Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 14 | 19x
 Taeko Onuki – 4:00 A.M. | last aired Nov 14 | 24x
 Takako Mamiya – LOVE TRIP | last aired Nov 14 | 17x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
@@ -100,5 +99,6 @@ Tears For Fears – Mad World | last aired Nov 17 | 33x
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Mac DeMarco – My Kind of Woman | last aired Nov 17 | 30x
 Her's – Blue Lips | last aired Nov 17 | 31x
+Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

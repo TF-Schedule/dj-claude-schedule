@@ -1,7 +1,5 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:00am PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:15am PT.
 
-Sneaker Pimps – How Do | last aired Nov 12 | 15x
-Federico Aubele – Postales | last aired Nov 12 | 89x
 Fennesz – Endless Summer | last aired Nov 12 | 86x
 Akiaura – Sleepwalker | last aired Nov 12 | 9x
 I Monster – Daydream In Blue | last aired Nov 12 | 23x
@@ -100,5 +98,7 @@ Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
 Portishead – It Could Be Sweet | last aired Nov 17 | 19x
+Lamb – Gorecki | last aired Nov 17 | 31x
+Loscil – Estuarine | last aired Nov 17 | 154x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
