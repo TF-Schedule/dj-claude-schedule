@@ -1,7 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:15pm PT.
 
-Slowdive – Alison | last aired Nov 11 | 42x
-Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
@@ -48,7 +46,6 @@ Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
-Radiohead – Paranoid Android | last aired Nov 16 | 25x
 Sigur Rós – Hoppípolla | last aired Nov 16 | 89x
 Cigarettes After Sex – Apocalypse | last aired Nov 16 | 107x
 Men I Trust – Show Me How | last aired Nov 16 | 63x
@@ -100,5 +97,8 @@ Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Oasis – Live Forever | last aired Nov 17 | 14x
+Gorillaz – Souk Eye | last aired Nov 17 | 17x
+Beck – Devils Haircut | last aired Nov 17 | 27x
+Blur – Song 2 | last aired Nov 17 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
