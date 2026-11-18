@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:15am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:30am PT.
 
-Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 The Chills – Pink Frost | last aired Nov 11 | 10x
@@ -100,5 +99,6 @@ Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Glass Animals – Life Itself | last aired Nov 17 | 24x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 17 | 37x
 Depeche Mode – Enjoy the Silence | last aired Nov 17 | 24x
+Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -58,7 +58,6 @@ Richard O Brien – The Time Warp | last aired Nov 8 | 4x
 VAST – Thrown Away | last aired Nov 8 | 7x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 8 | 4x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
-Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 9 | 18x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 9 | 30x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
@@ -100,5 +99,6 @@ Tina Turner – The Best | last aired Nov 12 | 28x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 12 | 1x
 The Sundays – Folk Song | last aired Nov 12 | 26x
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
+Ideal – Blaue Augen | last aired Nov 12 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

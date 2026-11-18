@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:30am PT.
 
-Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 Patrick Watson – Sit Down Beside Me | last aired Nov 11 | 13x
 DIIV – Doused | last aired Nov 11 | 32x
@@ -100,5 +99,6 @@ Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Mazzy Star – Halah | last aired Nov 17 | 37x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
+Beck – The New Pollution | last aired Nov 17 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

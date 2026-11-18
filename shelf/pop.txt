@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:15am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -71,7 +71,6 @@ Barbra Streisand – Woman in Love (Album Version) | last aired Nov 7 | 13x
 ABBA – Don't Shut Me Down | last aired Nov 7 | 14x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Soft Cell – Tainted Love | last aired Nov 7 | 24x
-Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 7 | 13x
 Katy Perry – Roar | last aired Nov 8 | 111x
 Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
@@ -100,5 +99,6 @@ Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
+Leon Larregui – Locos | last aired Nov 11 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:30am PT.
 
-Ideal – Blaue Augen | last aired Nov 12 | 11x
 Juli – Perfekte Welle | last aired Nov 12 | 12x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 12 | 5x
 The Smile – The Smoke | last aired Nov 12 | 8x
@@ -100,5 +99,6 @@ Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
+Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 16 | 58x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
