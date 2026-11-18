@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 1:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 1:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -20,7 +20,6 @@ U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 LP – Lost on You | last aired Oct 25 | 17x
 Playroom – Patient | last aired Oct 26 | 10x
 Child Seat – Hyperphantasia | last aired Oct 26 | 7x
-Joywave – In Clover | last aired Oct 27 | 18x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – You | last aired Oct 28 | 14x
@@ -100,5 +99,6 @@ M83 – Midnight City | last aired Nov 11 | 113x
 Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 Patrick Watson – Sit Down Beside Me | last aired Nov 11 | 13x
+DIIV – Doused | last aired Nov 11 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
