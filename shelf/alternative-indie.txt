@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 7:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 8:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -66,7 +66,6 @@ Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 Banners – Shine A Light | last aired Nov 9 | 22x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
-Mark Hollis – A Life (1895 - 1915) | last aired Nov 9 | 23x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
@@ -100,5 +99,6 @@ Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Split Enz – I Got You | last aired Nov 11 | 8x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
+Montaigne – I Am Not an End | last aired Nov 11 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
