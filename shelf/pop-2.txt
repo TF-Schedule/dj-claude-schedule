@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:45pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:00am PT.
 
 Leon Larregui – Locos | last aired Nov 11 | 20x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
@@ -58,7 +58,6 @@ JAWNY – true | last aired Nov 15 | 6x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
-Mac DeMarco – Chamber Of Reflection | last aired Nov 15 | 73x
 Mariya Takeuchi – Plastic Love | last aired Nov 15 | 29x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 15 | 23x
@@ -100,5 +99,6 @@ Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Glass Animals – Life Itself | last aired Nov 17 | 24x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 17 | 37x
+Depeche Mode – Enjoy the Silence | last aired Nov 17 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
