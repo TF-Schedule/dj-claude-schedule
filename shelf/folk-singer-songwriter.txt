@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:45am PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 7:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -44,7 +44,6 @@ Fabrizio De Andrè – Bocca di rosa | last aired Nov 11 | 17x
 Hozier – Cherry Wine (Live) | last aired Nov 12 | 53x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
 Adrianne Lenker – anything | last aired Nov 12 | 55x
-Judy Collins – Bread and Roses | last aired Nov 12 | 27x
 Go_A – SHUM | last aired Nov 12 | 19x
 The Opium Cartel – Beach House | last aired Nov 12 | 25x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
@@ -100,5 +99,6 @@ Elliott Smith – Independence Day | last aired Nov 16 | 21x
 Sufjan Stevens – Should Have Known Better | last aired Nov 16 | 91x
 Leonard Cohen – Suzanne | last aired Nov 16 | 57x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 16 | 41x
+Phoebe Bridgers – Smoke Signals | last aired Nov 16 | 60x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

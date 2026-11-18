@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 7:00am PT.
 
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
 Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
@@ -63,7 +63,6 @@ Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Radiohead – Paranoid Android | last aired Nov 16 | 25x
 Sigur Rós – Hoppípolla | last aired Nov 16 | 89x
 Cigarettes After Sex – Apocalypse | last aired Nov 16 | 107x
-Julien Baker – Hardline | last aired Nov 16 | 35x
 Men I Trust – Show Me How | last aired Nov 16 | 63x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Nov 16 | 29x
 Muse – Won’t Stand Down | last aired Nov 16 | 17x
@@ -100,5 +99,6 @@ David Byrne – Everybody's Coming to My House (Live) | last aired Nov 17 | 7x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 Missio – I See You | last aired Nov 17 | 8x
 Michael Hutchence – Slide Away | last aired Nov 17 | 19x
+Jeff Buckley – Grace | last aired Nov 17 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
