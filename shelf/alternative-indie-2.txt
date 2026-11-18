@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:45am PT.
 
 Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
@@ -39,7 +39,6 @@ Björk – Pagan Poetry | last aired Nov 14 | 16x
 Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
-Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 INXS – Don't Change | last aired Nov 15 | 23x
 Sting – Fragile | last aired Nov 15 | 39x
@@ -100,5 +99,6 @@ Foo Fighters – Everlong | last aired Nov 17 | 35x
 Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
+Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
