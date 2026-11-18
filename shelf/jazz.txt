@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:15am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -48,7 +48,6 @@ Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 GoGo Penguin – Raven | last aired Nov 13 | 84x
 GoGo Penguin – Hopopono | last aired Nov 13 | 85x
-Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 13 | 83x
 Bart&Baker – Stop Googling Me ! | last aired Nov 13 | 2x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
@@ -100,5 +99,6 @@ Julian Lage – Emily | last aired Nov 16 | 10x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 Diana Krall – How Deep Is The Ocean | last aired Nov 16 | 13x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 16 | 94x
+Hiatus Kaiyote – By Fire | last aired Nov 16 | 132x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

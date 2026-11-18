@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:15am PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:30am PT.
 
 Sneaker Pimps – How Do | last aired Nov 12 | 15x
 Federico Aubele – Postales | last aired Nov 12 | 89x
@@ -32,8 +32,6 @@ Boards of Canada – Roygbiv | last aired Nov 15 | 43x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 15 | 66x
 Thievery Corporation – Lebanese Blonde | last aired Nov 15 | 69x
-Jamie xx – Gosh | last aired Nov 15 | 52x
-James Blake – Retrograde | last aired Nov 15 | 72x
 Stardust – Music Sounds Better With You | last aired Nov 15 | 12x
 Steve Roach – Living the Dream | last aired Nov 15 | 52x
 Jazzy – No Bad Vibes | last aired Nov 15 | 9x
@@ -100,5 +98,7 @@ Moby – One of These Mornings | last aired Nov 17 | 6x
 Aphex Twin – Xtal | last aired Nov 17 | 42x
 Aphex Twin – Windowlicker | last aired Nov 17 | 27x
 Daft Punk – Something About Us | last aired Nov 17 | 61x
+Darude – Sandstorm | last aired Nov 17 | 32x
+Dara – Bangaranga | last aired Nov 17 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
