@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:00am PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -13,7 +13,6 @@ City – Am Fenster | last aired Oct 31 | 5x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
-John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 4 | 25x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
@@ -81,7 +80,6 @@ Amália Rodrigues – Barco negro | last aired Nov 15 | 38x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 15 | 18x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 15 | 24x
-The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 15 | 12x
 Fleet Foxes – Helplessness Blues | last aired Nov 15 | 35x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 15 | 42x
@@ -100,5 +98,7 @@ Bon Iver – Skinny Love | last aired Nov 16 | 373x
 Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Elliott Smith – Angeles | last aired Nov 16 | 30x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 16 | 78x
+Cat Power – The Greatest | last aired Nov 16 | 8x
+Big Thief – Mary | last aired Nov 16 | 101x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
