@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 10:45pm PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:00pm PT.
 
 Ashra – Kazoo | last aired Nov 12 | 28x
 Adamski – Killer | last aired Nov 12 | 18x
@@ -49,7 +49,6 @@ Michael Brook – Ultramarine | last aired Nov 15 | 25x
 Shida Shahabi – Futō | last aired Nov 15 | 29x
 Alex Andre – thanks, my day is ruined | last aired Nov 15 | 7x
 Thievery Corporation – Omid | last aired Nov 15 | 23x
-Marconi Union – Weightless | last aired Nov 15 | 98x
 Floating Points – Last Bloom | last aired Nov 15 | 99x
 Floating Points – Birth4000 | last aired Nov 15 | 71x
 Grimes – Oblivion | last aired Nov 15 | 12x
@@ -100,5 +99,6 @@ Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired N
 Aphex Twin – Avril 14th | last aired Nov 17 | 91x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 17 | 87x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 17 | 109x
+Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 17 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
