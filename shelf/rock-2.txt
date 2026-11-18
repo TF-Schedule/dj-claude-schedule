@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 2:45pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:00pm PT.
 
-Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 12 | 8x
 Ashra – Sunrain | last aired Nov 13 | 34x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
@@ -100,5 +99,6 @@ Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 16 | 
 OneRepublic – I Lived | last aired Nov 16 | 186x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 16 | 24x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 17 | 27x
+Toto – Rosanna (Album Version) | last aired Nov 17 | 80x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
