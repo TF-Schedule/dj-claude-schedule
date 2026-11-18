@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:45pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 10:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -48,7 +48,6 @@ Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
-John Coltrane – My Favorite Things | last aired Nov 13 | 55x
 GoGo Penguin – Raven | last aired Nov 13 | 84x
 GoGo Penguin – Hopopono | last aired Nov 13 | 85x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 13 | 83x
@@ -100,5 +99,6 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 16 | 22x
+Melody Gardot – La chanson des vieux amants | last aired Nov 16 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
