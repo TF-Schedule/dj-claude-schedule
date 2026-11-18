@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -79,7 +79,6 @@ Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
-The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 10 | 24x
 ANORAQUE – Ivy | last aired Nov 10 | 16x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
@@ -100,5 +99,6 @@ Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Split Enz – I Got You | last aired Nov 11 | 8x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
+Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

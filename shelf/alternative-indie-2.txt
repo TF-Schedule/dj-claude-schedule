@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:15am PT.
 
-Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
 Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
@@ -39,7 +38,6 @@ Lace – risk | last aired Nov 13 | 1x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
 Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
-R.E.M. – Endgame | last aired Nov 14 | 13x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
@@ -100,5 +98,7 @@ Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 17 | 19x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Foo Fighters – Everlong | last aired Nov 17 | 35x
 Pixies – Ana | last aired Nov 17 | 30x
+R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
+The Cranberries – Dreams | last aired Nov 17 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

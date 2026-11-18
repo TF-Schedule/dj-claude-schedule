@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:00am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:15am PT.
 
 Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
 Gary Numan – Cars | last aired Nov 11 | 14x
@@ -28,7 +28,6 @@ Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 13 | 24x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
-Revolverheld – Ich lass für dich das Licht an | last aired Nov 13 | 18x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 Depeche Mode – Precious | last aired Nov 13 | 10x
@@ -100,5 +99,6 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Mariya Takeuchi – Plastic Love | last aired Nov 18 | 30x
 Jan Hammer – Crockett's Theme | last aired Nov 18 | 29x
+Leon Larregui – Brillas | last aired Nov 18 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
