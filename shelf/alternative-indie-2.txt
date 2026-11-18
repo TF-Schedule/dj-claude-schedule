@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:07am PT.
 
-Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 Patrick Watson – Sit Down Beside Me | last aired Nov 11 | 13x
 DIIV – Doused | last aired Nov 11 | 32x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
@@ -100,5 +99,6 @@ Mazzy Star – Halah | last aired Nov 17 | 37x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Beck – The New Pollution | last aired Nov 17 | 30x
+Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
