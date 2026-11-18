@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:45pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -71,7 +71,6 @@ Bobby Darin – Beyond the Sea | last aired Nov 15 | 31x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 15 | 25x
 St Germain – Rose rouge | last aired Nov 15 | 47x
 Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
-Herbie Hancock – Chameleon | last aired Nov 15 | 30x
 Miles Davis – Flamenco Sketches | last aired Nov 15 | 17x
 Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
@@ -100,5 +99,6 @@ Duke Ellington – In A Sentimental Mood | last aired Nov 16 | 116x
 Nina Simone – Feeling Good | last aired Nov 16 | 149x
 The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
+Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
