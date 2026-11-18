@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 9:00am PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 9:15am PT.
 
 Akiaura – Sleepwalker | last aired Nov 12 | 9x
 I Monster – Daydream In Blue | last aired Nov 12 | 23x
@@ -41,7 +41,6 @@ Groove Armada – At the River | last aired Nov 15 | 35x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 15 | 28x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Tricky – Hell Is Round The Corner | last aired Nov 15 | 44x
-Peggy Gou – Starry Night | last aired Nov 15 | 169x
 Jon Hopkins – Small Memory | last aired Nov 15 | 24x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 15 | 28x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 16 | 10x
@@ -100,5 +99,6 @@ Portishead – It Could Be Sweet | last aired Nov 17 | 19x
 Lamb – Gorecki | last aired Nov 17 | 31x
 Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
+Lamb – Bonfire | last aired Nov 17 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
