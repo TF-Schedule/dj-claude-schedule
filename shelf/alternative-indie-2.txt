@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:45pm PT.
 
-Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
 The Undertones – Teenage Kicks | last aired Nov 12 | 6x
@@ -100,5 +99,6 @@ Oasis – Live Forever | last aired Nov 17 | 14x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
 Beck – Devils Haircut | last aired Nov 17 | 27x
 Blur – Song 2 | last aired Nov 17 | 19x
+Arctic Monkeys – 505 | last aired Nov 17 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
