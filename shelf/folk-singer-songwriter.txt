@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:15pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -16,7 +16,6 @@ The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
-Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
 Edith Piaf – La Vie en rose | last aired Nov 8 | 39x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
@@ -30,7 +29,6 @@ John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
 Barbara Pravi – Voilà | last aired Nov 9 | 27x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
-Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
@@ -100,5 +98,7 @@ Sufjan Stevens – Fourth of July | last aired Nov 16 | 45x
 Leonard Cohen – Hallelujah | last aired Nov 16 | 36x
 Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
+Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
+Pink Floyd – Fearless | last aired Nov 16 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
