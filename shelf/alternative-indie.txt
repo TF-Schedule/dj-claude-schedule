@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 3:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -54,7 +54,6 @@ Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 8 | 21
 Bowling For Soup – 1985 | last aired Nov 8 | 13x
 Alabama 3 – Thank you | last aired Nov 8 | 9x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
-Carter Vail – Ants In My Room | last aired Nov 8 | 13x
 Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
@@ -100,5 +99,6 @@ Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 Patrick Watson – Sit Down Beside Me | last aired Nov 11 | 13x
 DIIV – Doused | last aired Nov 11 | 32x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
+Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
