@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:45am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:00am PT.
 
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 12 | 5x
 The Smile – The Smoke | last aired Nov 12 | 8x
@@ -13,7 +13,6 @@ Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
 AC/DC – Thunderstruck | last aired Nov 13 | 11x
 Lyres – Help You Ann | last aired Nov 13 | 10x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 13 | 34x
-Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 13 | 25x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
 Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
@@ -41,7 +40,6 @@ Sheryl Crow – All I Wanna Do | last aired Nov 14 | 23x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
-Fito Páez – El amor después del amor | last aired Nov 14 | 28x
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Electric Light Orchestra – Evil Woman | last aired Nov 14 | 24x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
@@ -100,5 +98,7 @@ Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 16 | 58x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 16 | 99x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
+Fleetwood Mac – Sara | last aired Nov 16 | 30x
+Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
