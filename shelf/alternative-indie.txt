@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:01pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -40,11 +40,9 @@ Men At Work – Overkill | last aired Nov 3 | 17x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Shellac – The End of Radio | last aired Nov 5 | 15x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
-Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
-Siddhartha – 00:00 | last aired Nov 6 | 28x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
@@ -100,5 +98,7 @@ Split Enz – I Got You | last aired Nov 11 | 8x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
 Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
+Visage – Fade To Grey | last aired Nov 11 | 23x
+Child Seat – Heart To Heart | last aired Nov 11 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
