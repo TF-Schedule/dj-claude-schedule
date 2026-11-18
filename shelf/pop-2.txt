@@ -1,7 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:46am PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 12:00pm PT.
 
-Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
-Gary Numan – Cars | last aired Nov 11 | 14x
 S Club – I Really Miss You | last aired Nov 11 | 8x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
@@ -100,5 +98,7 @@ Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Mariya Takeuchi – Plastic Love | last aired Nov 18 | 30x
 Jan Hammer – Crockett's Theme | last aired Nov 18 | 29x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
+Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
+Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
