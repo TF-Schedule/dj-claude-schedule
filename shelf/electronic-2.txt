@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:30pm PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:45pm PT.
 
 Adamski – Killer | last aired Nov 12 | 18x
 Bicep – Apricots | last aired Nov 12 | 68x
@@ -13,7 +13,6 @@ I Monster – Daydream In Blue | last aired Nov 12 | 23x
 Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired Nov 12 | 52x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
 HYD – Freak | last aired Nov 13 | 13x
-Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 13 | 112x
 Boards of Canada – Olson | last aired Nov 13 | 61x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
 Daft Punk – One More Time | last aired Nov 13 | 151x
@@ -100,5 +99,6 @@ Eluvium – Indoor Swimming At The Space Station | last aired Nov 17 | 109x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 17 | 35x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 17 | 25x
 Aphex Twin – Flim | last aired Nov 17 | 10x
+Moby – Natural Blues | last aired Nov 17 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
