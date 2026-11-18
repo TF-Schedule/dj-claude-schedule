@@ -1,4 +1,4 @@
-Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:00pm PT.
+Electronic – 220 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 11:15pm PT.
 
 Ashra – Kazoo | last aired Nov 12 | 28x
 Adamski – Killer | last aired Nov 12 | 18x
@@ -39,7 +39,6 @@ Boards of Canada – Roygbiv | last aired Nov 15 | 43x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 15 | 66x
 Thievery Corporation – Lebanese Blonde | last aired Nov 15 | 69x
-Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 15 | 121x
 Jamie xx – Gosh | last aired Nov 15 | 52x
 James Blake – Retrograde | last aired Nov 15 | 72x
 Stardust – Music Sounds Better With You | last aired Nov 15 | 12x
@@ -100,5 +99,6 @@ Aphex Twin – Avril 14th | last aired Nov 17 | 91x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 17 | 87x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 17 | 109x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 17 | 35x
+Boards of Canada – Blood In The Labyrinth | last aired Nov 17 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
