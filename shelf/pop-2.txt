@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:15pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:30pm PT.
 
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
@@ -21,7 +21,6 @@ The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
 Djo – End of Beginning | last aired Nov 12 | 18x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
-Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 13 | 24x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
@@ -100,5 +99,6 @@ Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 18 | 30x
 Perpetuum Jazzile – Africa | last aired Nov 18 | 29x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 18 | 27x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
+Sadie Jean – WYD Now? | last aired Nov 18 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 3:15pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 3:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -54,7 +54,6 @@ Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
 The Marías – Cariño | last aired Nov 9 | 16x
-Cardiacs – Big Ship | last aired Nov 9 | 19x
 Cate Le Bon – Are You with Me Now? | last aired Nov 9 | 23x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
@@ -65,7 +64,6 @@ Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
-Caroline Polachek – Bunny Is A Rider | last aired Nov 10 | 38x
 Paramore – Thick Skull | last aired Nov 10 | 18x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
@@ -100,5 +98,7 @@ Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Creed – With Arms Wide Open | last aired Nov 12 | 10x
+Duran Duran – Ordinary World | last aired Nov 12 | 12x
+THE TEARDROP EXPLODES – Reward | last aired Nov 12 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
