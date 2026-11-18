@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:45pm PT.
 
 Foster The People – Sit Next to Me | last aired Nov 12 | 16x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
@@ -29,7 +29,6 @@ Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
-INXS – Don't Change | last aired Nov 15 | 23x
 Sting – Fragile | last aired Nov 15 | 39x
 Alvvays – Belinda Says | last aired Nov 15 | 54x
 Alice In Chains – Man in the Box | last aired Nov 15 | 11x
@@ -100,5 +99,6 @@ Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 Talking Heads – This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired Nov 17 | 64x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 17 | 187x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
+Love and Rockets – Saudade | last aired Nov 17 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
