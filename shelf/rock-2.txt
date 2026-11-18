@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:30am PT.
 
 Huey Lewis And The News – The Power Of Love | last aired Nov 12 | 16x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 12 | 19x
@@ -49,7 +49,6 @@ Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 indigo la End – Haru No Iutoori | last aired Nov 15 | 20x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
-Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 15 | 68x
 Amy Macdonald – This Is The Life | last aired Nov 15 | 22x
 Al Stewart – Year of the Cat | last aired Nov 15 | 33x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
@@ -100,5 +99,6 @@ MGMT – Electric Feel (Album Version) | last aired Nov 16 | 31x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 16 | 27x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
 Gerry Rafferty – Baker Street | last aired Nov 16 | 35x
+Christopher Cross – Sailing | last aired Nov 16 | 57x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
