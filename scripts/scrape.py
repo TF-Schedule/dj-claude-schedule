@@ -13,6 +13,7 @@ Dateien (im Ordner DATA_DIR, im Workflow: Zweig gh-pages, Ordner data/):
   notes.csv        DEINE Notizen – wird vom Skript nie verändert
 """
 import csv, json, os, re, sys, time, unicodedata, urllib.parse, urllib.request
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -363,10 +364,19 @@ def main():
         nk = ws(k)
         old, new = cache.pop(k), cache.get(nk, {})
         cache[nk] = {f: new.get(f) or old.get(f) or "" for f in {*old, *new}}
+    # Gleiches Lied mit verschiedenem Remaster-Jahr (z. B. Dreams 2001/2004 Remaster) als einen Titel führen,
+    # angezeigt wird die Schreibweise, die im Mitschnitt am häufigsten vorkommt
+    def remaster_key(artist, title):
+        t = re.sub(r"\s*[\(\[][^\)\]]*remaster[^\)\]]*[\)\]]|\s+-\s+.*remaster.*$", "", title, flags=re.I)
+        return (artist, t.strip().lower())
+    variants = {}
+    for p in plays:
+        variants.setdefault(remaster_key(p["artist"], p["title"]), Counter())[p["title"]] += 1
     agg = {}
     for p in plays:
-        k = (p["artist"], p["title"])
-        a = agg.setdefault(k, {"artist": p["artist"], "title": p["title"], "plays": 0, "last_played_utc": "", "shows": set(), "apple_url": ""})
+        title = variants[remaster_key(p["artist"], p["title"])].most_common(1)[0][0]
+        k = (p["artist"], title)
+        a = agg.setdefault(k, {"artist": p["artist"], "title": title, "plays": 0, "last_played_utc": "", "shows": set(), "apple_url": ""})
         a["plays"] += 1
         a["last_played_utc"] = max(a["last_played_utc"], p["start_utc"])
         if p["show"]:
