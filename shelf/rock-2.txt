@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 5:30pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 5:45pm PT.
 
 The Sundays – Folk Song | last aired Nov 12 | 26x
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
@@ -62,7 +62,6 @@ Tom Konkle – Children of No Horizon | last aired Nov 14 | 5x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 14 | 12x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
 Loverboy – Lovin' Every Minute of It | last aired Nov 14 | 7x
-Lordi – Hard Rock Hallelujah | last aired Nov 14 | 16x
 Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 indigo la End – Haru No Iutoori | last aired Nov 15 | 20x
@@ -100,5 +99,6 @@ David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
 Pink Floyd – Have a Cigar | last aired Nov 16 | 20x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 16 | 28x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 16 | 12x
+David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
