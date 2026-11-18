@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 12:45pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 1:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -64,7 +64,6 @@ Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 15 | 27x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 15 | 15x
 Sarah McLachlan – Building a Mystery | last aired Nov 15 | 19x
 INXS – Never Tear Us Apart | last aired Nov 15 | 21x
-Stealers Wheel – Stuck In The Middle With You | last aired Nov 15 | 23x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 Amália Rodrigues – Barco negro | last aired Nov 15 | 38x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
@@ -100,5 +99,6 @@ Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
+Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 16 | 124x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
