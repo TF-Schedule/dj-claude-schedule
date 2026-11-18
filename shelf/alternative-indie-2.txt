@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 2:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 2:30am PT.
 
-Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Split Enz – I Got You | last aired Nov 11 | 8x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
@@ -100,5 +99,6 @@ Beck – The New Pollution | last aired Nov 17 | 30x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 Gorillaz – Hong Kong | last aired Nov 17 | 28x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
+The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 17 | 49x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
