@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 2:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 2:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -50,7 +50,6 @@ Virus – Imágenes Paganas | last aired Nov 8 | 15x
 Bowling For Soup – 1985 | last aired Nov 8 | 13x
 Alabama 3 – Thank you | last aired Nov 8 | 9x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
-Sophie Hunger – Shape | last aired Nov 8 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 8 | 10x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
@@ -100,5 +99,6 @@ Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 12 | 13x
 Shearwater – Empty Orchestra | last aired Nov 12 | 16x
+Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
