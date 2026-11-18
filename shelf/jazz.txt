@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:45am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -20,7 +20,6 @@ Michael Jackson – Jam | last aired Nov 6 | 7x
 George Benson – Dreamin' (Album Version) | last aired Nov 6 | 19x
 George Benson – Affirmation (Album Version) | last aired Nov 7 | 17x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
-Hailu Mergia – Tezeta | last aired Nov 10 | 60x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 10 | 37x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
@@ -100,5 +99,6 @@ Melody Gardot – La chanson des vieux amants | last aired Nov 16 | 12x
 Julian Lage – Emily | last aired Nov 16 | 10x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 Diana Krall – How Deep Is The Ocean | last aired Nov 16 | 13x
+Sade – Kiss of Life (Remastered Version) | last aired Nov 16 | 94x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

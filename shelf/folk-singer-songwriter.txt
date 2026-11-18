@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:45am PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -16,7 +16,6 @@ Leonard Cohen – Avalanche | last aired Nov 4 | 23x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Gilbert Bécaud – Nathalie | last aired Nov 5 | 16x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 6 | 6x
-Gigi Perez – Sailor Song | last aired Nov 6 | 237x
 Iron & Wine – Such Great Heights | last aired Nov 7 | 14x
 Sophie Hunger – Le vent nous portera | last aired Nov 8 | 27x
 RY X – Let You Go | last aired Nov 8 | 19x
@@ -79,7 +78,6 @@ Amália Rodrigues – Barco negro | last aired Nov 15 | 38x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 15 | 18x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 15 | 24x
-Fleet Foxes – Helplessness Blues | last aired Nov 15 | 35x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 15 | 42x
 Ben&Ben – Leaves | last aired Nov 15 | 53x
@@ -100,5 +98,7 @@ Sufjan Stevens – Casimir Pulaski Day | last aired Nov 16 | 78x
 Cat Power – The Greatest | last aired Nov 16 | 8x
 Big Thief – Mary | last aired Nov 16 | 101x
 Scorpions – Still Loving You (2011 Version) | last aired Nov 16 | 19x
+Phoebe Bridgers – Moon Song | last aired Nov 16 | 79x
+Elliott Smith – Independence Day | last aired Nov 16 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
