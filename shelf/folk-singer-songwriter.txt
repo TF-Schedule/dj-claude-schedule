@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:30pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 9:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -38,7 +38,6 @@ The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aire
 Side-A – Only You (There Will Never Be Another) | last aired Nov 10 | 11x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 11 | 126x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
-Josh Rouse – 1972 | last aired Nov 11 | 25x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 11 | 18x
 Pornophonique – Sad Robot | last aired Nov 11 | 17x
@@ -90,7 +89,6 @@ Fleet Foxes – Helplessness Blues | last aired Nov 15 | 35x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 15 | 42x
 Ben&Ben – Leaves | last aired Nov 15 | 53x
-José González – Heartbeats | last aired Nov 15 | 125x
 Grand Corps Malade – Mais je t'aime | last aired Nov 15 | 10x
 Grouper – Holding | last aired Nov 15 | 117x
 Rayland Baxter – Objects In The Mirror | last aired Nov 15 | 17x
@@ -100,5 +98,7 @@ The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Pete Seeger – Solidarity Forever | last aired Nov 16 | 88x
 Nick Drake – Pink Moon | last aired Nov 16 | 105x
 Iron & Wine – Naked as We Came | last aired Nov 16 | 137x
+Sufjan Stevens – Mystery of Love | last aired Nov 16 | 106x
+Bon Iver – Skinny Love | last aired Nov 16 | 373x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
