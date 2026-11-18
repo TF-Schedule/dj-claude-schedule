@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 10:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 10:45am PT.
 
 Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
 Visage – Fade To Grey | last aired Nov 11 | 23x
@@ -52,8 +52,6 @@ Wild Nothing – Chinatown | last aired Nov 15 | 33x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
-Radiohead – Weird Fishes / Arpeggi | last aired Nov 15 | 323x
-Ramones – Blitzkrieg Bop | last aired Nov 15 | 12x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Radiohead – Paranoid Android | last aired Nov 16 | 25x
@@ -100,5 +98,7 @@ Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
 Glass Animals – Heat Waves (Stripped Back) | last aired Nov 17 | 16x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 17 | 19x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
+Foo Fighters – Everlong | last aired Nov 17 | 35x
+Pixies – Ana | last aired Nov 17 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
