@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 1:30am PT.
 
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 12 | 5x
 The Smile – The Smoke | last aired Nov 12 | 8x
@@ -12,7 +12,6 @@ Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
 AC/DC – Thunderstruck | last aired Nov 13 | 11x
 Lyres – Help You Ann | last aired Nov 13 | 10x
-Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 13 | 34x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
 Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
@@ -100,5 +99,6 @@ Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 16 | 99x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
+Tom Konkle – Losing Faith | last aired Nov 16 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
