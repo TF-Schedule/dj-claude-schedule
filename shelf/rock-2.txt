@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 8:15pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 8:30pm PT.
 
 Jeff Beck – Where Were You (Live) | last aired Nov 12 | 15x
 Ideal – Blaue Augen | last aired Nov 12 | 11x
@@ -67,7 +67,6 @@ Amy Macdonald – This Is The Life | last aired Nov 15 | 22x
 Al Stewart – Year of the Cat | last aired Nov 15 | 33x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
 Willy DeVille – Heaven Stood Still | last aired Nov 15 | 13x
-Mark Hollis – The Colour Of Spring | last aired Nov 15 | 29x
 Lindsey Buckingham – Trouble | last aired Nov 15 | 20x
 The Beatles – Strawberry Fields Forever | last aired Nov 15 | 28x
 Grateful Dead – Eyes of the World | last aired Nov 15 | 31x
@@ -100,5 +99,6 @@ Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
 Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
+Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

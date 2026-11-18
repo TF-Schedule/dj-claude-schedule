@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:15pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 8:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -13,7 +13,6 @@ Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 City – Am Fenster | last aired Oct 31 | 5x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
-The Cure – The Last Day Of Summer | last aired Nov 3 | 4x
 Leonard Cohen – Avalanche | last aired Nov 4 | 23x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 4 | 25x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
@@ -100,5 +99,6 @@ Rayland Baxter – Objects In The Mirror | last aired Nov 15 | 17x
 Peter Broderick – A Little Lost | last aired Nov 15 | 16x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
+Pete Seeger – Solidarity Forever | last aired Nov 16 | 88x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
