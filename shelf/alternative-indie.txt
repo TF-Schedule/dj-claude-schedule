@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 6:15pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 6:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -67,7 +67,6 @@ Cardiacs – Big Ship | last aired Nov 9 | 19x
 Cate Le Bon – Are You with Me Now? | last aired Nov 9 | 23x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
-The Cure – A Forest | last aired Nov 9 | 29x
 Maria McKee – Absolutely Barking Stars | last aired Nov 9 | 18x
 Banners – Shine A Light | last aired Nov 9 | 22x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
@@ -100,5 +99,6 @@ Hard Life – daydreams | last aired Nov 11 | 22x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
 twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
+M83 – Midnight City | last aired Nov 11 | 113x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
