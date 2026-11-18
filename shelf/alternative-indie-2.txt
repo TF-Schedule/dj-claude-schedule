@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 4:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 5:00pm PT.
 
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
 twenty one pilots – Stressed Out | last aired Nov 11 | 24x
@@ -62,7 +62,6 @@ Benny Sings – Rolled Up | last aired Nov 14 | 23x
 R.E.M. – Endgame | last aired Nov 14 | 13x
 No Vacation – Waltzing Back | last aired Nov 14 | 23x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 14 | 8x
-Love and Rockets – Saudade | last aired Nov 14 | 23x
 Love and Rockets – So Alive | last aired Nov 14 | 9x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 15 | 30x
@@ -100,5 +99,6 @@ Kate Bush – Coffee Homeground | last aired Nov 16 | 22x
 David Bowie – Slip Away | last aired Nov 16 | 20x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 16 | 15x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
+Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
