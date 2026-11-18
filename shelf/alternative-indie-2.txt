@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 3:15am PT.
 
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Split Enz – I Got You | last aired Nov 11 | 8x
@@ -58,7 +58,6 @@ Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 This Mortal Coil – Song To The Siren | last aired Nov 15 | 35x
 Wild Nothing – Chinatown | last aired Nov 15 | 33x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
-Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 15 | 35x
 Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 15 | 323x
@@ -100,5 +99,6 @@ Gorillaz – Hong Kong | last aired Nov 17 | 28x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 17 | 49x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 17 | 11x
+MGMT – Time to Pretend (Album Version) | last aired Nov 17 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
