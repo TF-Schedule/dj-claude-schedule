@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 5:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 17, 6:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -43,7 +43,6 @@ Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 |
 Men At Work – Overkill | last aired Nov 3 | 17x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Shellac – The End of Radio | last aired Nov 5 | 15x
-The Cure – Just Like Heaven (Album Version) | last aired Nov 5 | 11x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 5 | 23x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
@@ -100,5 +99,6 @@ Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
 Hard Life – daydreams | last aired Nov 11 | 22x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
+twenty one pilots – Stressed Out | last aired Nov 11 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
