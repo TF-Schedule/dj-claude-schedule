@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 7:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 8:00pm PT.
 
 Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
@@ -64,7 +64,6 @@ Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 This Mortal Coil – Song To The Siren | last aired Nov 15 | 35x
 Wild Nothing – Chinatown | last aired Nov 15 | 33x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
-Maria McKee – Life Is Sweet | last aired Nov 15 | 18x
 Beach House – Bluebird | last aired Nov 15 | 54x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 15 | 35x
 Muse – Feeling Good | last aired Nov 15 | 24x
@@ -100,5 +99,6 @@ Beach House – Space Song | last aired Nov 16 | 122x
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Mazzy Star – Halah | last aired Nov 17 | 37x
+Coldplay – Talk | last aired Nov 17 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
