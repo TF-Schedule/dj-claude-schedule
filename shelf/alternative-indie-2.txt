@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 4:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 17, 4:12pm PT.
 
 Hard Life – daydreams | last aired Nov 11 | 22x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 11 | 10x
@@ -87,7 +87,6 @@ Ramones – Blitzkrieg Bop | last aired Nov 15 | 12x
 Pearl Jam – Yellow Ledbetter | last aired Nov 15 | 33x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 15 | 6x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
-Arctic Monkeys – Do I Wanna Know? | last aired Nov 16 | 186x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Radiohead – Paranoid Android | last aired Nov 16 | 25x
 Sigur Rós – Hoppípolla | last aired Nov 16 | 89x
@@ -100,5 +99,6 @@ Jeff Buckley – So Real | last aired Nov 16 | 4x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 16 | 21x
 Kate Bush – Coffee Homeground | last aired Nov 16 | 22x
 David Bowie – Slip Away | last aired Nov 16 | 20x
+Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 16 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
