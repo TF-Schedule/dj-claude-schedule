@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 2:45am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 3:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ Bobby McFerrin – Common Threads | last aired Nov 15 | 20x
 Bobby Darin – Beyond the Sea | last aired Nov 15 | 31x
 St Germain – Rose rouge | last aired Nov 15 | 47x
 Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
-Miles Davis – Flamenco Sketches | last aired Nov 15 | 17x
 Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Natalie Cole – At Last | last aired Nov 15 | 12x
@@ -100,5 +99,6 @@ Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 16 | 22x
 Melody Gardot – La chanson des vieux amants | last aired Nov 16 | 12x
 Julian Lage – Emily | last aired Nov 16 | 10x
+Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
