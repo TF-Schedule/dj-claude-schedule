@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 11:55pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:00am PT.
 
 Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
@@ -71,7 +71,6 @@ Michael Hutchence – Slide Away | last aired Nov 17 | 19x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
 Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
 Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
-Glass Animals – Heat Waves (Stripped Back) | last aired Nov 17 | 16x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 17 | 19x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Foo Fighters – Everlong | last aired Nov 17 | 35x
@@ -100,5 +99,6 @@ The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
 The Cure – A Forest | last aired Nov 17 | 30x
+Love and Rockets – Haunted When the Minutes Drag | last aired Nov 17 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
