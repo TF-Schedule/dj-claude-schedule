@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:15am PT.
 
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
@@ -10,7 +10,6 @@ Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
-Tom Konkle – Fail Upward For A Change | last aired Nov 14 | 4x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
@@ -100,5 +99,6 @@ David Bowie – Slow Burn | last aired Nov 17 | 8x
 Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 17 | 13x
 Loverboy – Lovin' Every Minute of It | last aired Nov 17 | 8x
+David Bowie – Space Oddity | last aired Nov 17 | 119x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

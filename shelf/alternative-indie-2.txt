@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:15am PT.
 
-Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Joywave – Rumors | last aired Nov 18 | 19x
 The Cure – Burn (Live) | last aired Nov 18 | 16x
 Joywave – In Clover | last aired Nov 18 | 19x
 The Magnetic Fields – All My Little Words | last aired Nov 18 | 10x
+Beach House – Bluebird | last aired Nov 18 | 55x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -74,7 +74,6 @@ M83 – Midnight City | last aired Nov 11 | 113x
 Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 DIIV – Doused | last aired Nov 11 | 32x
-Cocteau Twins – Cherry-coloured Funk | last aired Nov 11 | 78x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 11 | 8x
 Bleachers – I Wanna Get Better | last aired Nov 11 | 177x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
@@ -100,5 +99,6 @@ Wolf Alice – Don't Delete The Kisses | last aired Nov 12 | 36x
 Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 | 9x
 Björk – Army Of Me | last aired Nov 12 | 21x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
+Turnstile – BLACKOUT | last aired Nov 12 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
