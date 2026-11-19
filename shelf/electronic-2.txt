@@ -1,6 +1,5 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:00am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:15am PT.
 
-Thom Yorke – 5.17 | last aired Nov 14 | 21x
 Tom Novy – Superstar (The Jason Nevins' Live Peep Show Mix) | last aired Nov 14 | 3x
 Boards of Canada – Roygbiv | last aired Nov 15 | 43x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 15 | 30x
@@ -100,5 +99,6 @@ Yellow Magic Orchestra – Behind the Mask (2018 Bob Ludwig Remastering) | last 
 Zero 7 – In The Waiting Line | last aired Nov 18 | 74x
 Martin Garrix – Carry You | last aired Nov 18 | 10x
 I Monster – Daydream In Blue | last aired Nov 18 | 24x
+Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 18 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
