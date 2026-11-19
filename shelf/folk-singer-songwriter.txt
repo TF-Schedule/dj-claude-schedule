@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:15am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -73,7 +73,6 @@ Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Elliott Smith – Angeles | last aired Nov 16 | 30x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 16 | 78x
 Big Thief – Mary | last aired Nov 16 | 101x
-Scorpions – Still Loving You (2011 Version) | last aired Nov 16 | 19x
 Elliott Smith – Independence Day | last aired Nov 16 | 21x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 16 | 41x
 Sufjan Stevens – Fourth of July | last aired Nov 16 | 45x
@@ -100,5 +99,6 @@ Mitski – My Love Mine All Mine | last aired Nov 16 | 21x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 16 | 34x
 Gregory Alan Isakov – Big Black Car | last aired Nov 16 | 10x
 Ben Howard – Only Love | last aired Nov 16 | 9x
+Grouper – Alien Observer | last aired Nov 16 | 134x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

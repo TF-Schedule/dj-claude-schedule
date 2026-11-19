@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:30am PT.
 
-Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
 Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
@@ -100,5 +99,6 @@ Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 17 | 13x
 Loverboy – Lovin' Every Minute of It | last aired Nov 17 | 8x
 David Bowie – Space Oddity | last aired Nov 17 | 119x
+Måneskin – Torna a casa | last aired Nov 17 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
