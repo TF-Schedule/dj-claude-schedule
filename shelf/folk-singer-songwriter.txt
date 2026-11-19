@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 11:45pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 11:55pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -86,7 +86,6 @@ Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - Sep
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 16 | 124x
-Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Nov 16 | 26x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 16 | 9x
 The Civil Wars – Poison & Wine | last aired Nov 16 | 47x
@@ -100,5 +99,6 @@ Damien Rice – The Blower's Daughter | last aired Nov 16 | 93x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 16 | 21x
 Ed Sheeran – Perfect | last aired Nov 16 | 11x
 Bon Iver – Holocene | last aired Nov 16 | 240x
+Kings Of Convenience – Rocky Trail | last aired Nov 16 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
