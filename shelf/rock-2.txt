@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:00pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:15pm PT.
 
 Lyres – Help You Ann | last aired Nov 13 | 10x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
@@ -25,7 +25,6 @@ The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
-Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 14 | 53x
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – New Grass | last aired Nov 14 | 29x
@@ -38,7 +37,6 @@ Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 indigo la End – Haru No Iutoori | last aired Nov 15 | 20x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
-Amy Macdonald – This Is The Life | last aired Nov 15 | 22x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
 Willy DeVille – Heaven Stood Still | last aired Nov 15 | 13x
 Lindsey Buckingham – Trouble | last aired Nov 15 | 20x
@@ -100,5 +98,7 @@ Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 17 | 180x
 Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 17 | 15x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 17 | 53x
+Daikaiju – Magic Wanda | last aired Nov 17 | 12x
+Kim Carnes – More Love | last aired Nov 17 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
