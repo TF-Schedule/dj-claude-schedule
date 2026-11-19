@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -55,7 +55,6 @@ Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Natalie Cole – At Last | last aired Nov 15 | 12x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 15 | 28x
-Al Di Meola – Red Moon | last aired Nov 15 | 19x
 Betty Carter – Moonlight in Vermont | last aired Nov 15 | 28x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Bernard Purdie – Cool Down | last aired Nov 15 | 24x
@@ -100,5 +99,6 @@ Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
 Elvis Costello – Almost Blue | last aired Nov 17 | 18x
 Miles Davis – Blue in Green | last aired Nov 17 | 108x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
+Bill Evans – Peace Piece (Album Version) | last aired Nov 17 | 180x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
