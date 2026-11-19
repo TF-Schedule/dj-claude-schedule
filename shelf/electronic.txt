@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:00pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -43,7 +43,6 @@ Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
 Tim Hecker – Black Refraction | last aired Nov 9 | 85x
-Martin Garrix – Carry You | last aired Nov 9 | 9x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
@@ -100,5 +99,6 @@ Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pa
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
 HYD – Freak | last aired Nov 13 | 13x
 Boards of Canada – Olson | last aired Nov 13 | 61x
+Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 13 | 55x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

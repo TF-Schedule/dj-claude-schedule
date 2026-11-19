@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 5:00pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 5:15pm PT.
 
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
@@ -45,9 +45,7 @@ The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Benson Boone – Beautiful Things | last aired Nov 15 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 15 | 21x
-Sabrina Carpenter – Espresso | last aired Nov 15 | 119x
 Peter Fox – Haus am See | last aired Nov 15 | 20x
-Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 15 | 43x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Sabrina Carpenter – Please Please Please | last aired Nov 16 | 63x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 16 | 30x
@@ -96,9 +94,11 @@ Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sadie Jean – WYD Now? | last aired Nov 18 | 8x
 Sabrina Carpenter – Taste | last aired Nov 18 | 54x
 Soft Cell – Tainted Love | last aired Nov 18 | 25x
-Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 14x
-Leon Larregui – Locos | last aired Nov 18 | 20x
-Ray Anthony – The Hokey Pokey | last aired Nov 18 | 8x
-Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 24x
+Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 15x
+Leon Larregui – Locos | last aired Nov 18 | 21x
+Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
+Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
+Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
+The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
