@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:15pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:30pm PT.
 
-Lyres – Help You Ann | last aired Nov 13 | 10x
 Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 13x
 Kenny Loggins – This Is It | last aired Nov 13 | 39x
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
@@ -100,5 +99,6 @@ Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 17 | 15x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 17 | 53x
 Daikaiju – Magic Wanda | last aired Nov 17 | 12x
 Kim Carnes – More Love | last aired Nov 17 | 20x
+Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:15pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -58,7 +58,6 @@ THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The K
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 14 | 26x
 Bobby Hutcherson – Stardust | last aired Nov 15 | 16x
 Bobby McFerrin – Common Threads | last aired Nov 15 | 20x
-Bobby Darin – Beyond the Sea | last aired Nov 15 | 31x
 St Germain – Rose rouge | last aired Nov 15 | 47x
 Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
 Alfa Mist – Organic Rust | last aired Nov 15 | 117x
@@ -74,7 +73,6 @@ Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 15 | 82x
 Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Nina Simone – Wild Is The Wind | last aired Nov 15 | 37x
-Anita Baker – Sweet Love | last aired Nov 15 | 122x
 Petra Haden – Moon River | last aired Nov 15 | 17x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 15 | 57x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 15 | 72x
@@ -100,5 +98,7 @@ Zaz – Champs-Elysées | last aired Nov 16 | 3x
 Norah Jones – Summertime Blue | last aired Nov 16 | 20x
 Nat King Cole – Nature Boy | last aired Nov 16 | 54x
 Ella Fitzgerald – Summertime | last aired Nov 16 | 101x
+Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 16 | 73x
+Steely Dan – Peg | last aired Nov 16 | 109x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
