@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 7:45pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:00pm PT.
 
-Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
@@ -100,5 +99,6 @@ Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Michael Damian – Rock On | last aired Nov 17 | 9x
+Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
