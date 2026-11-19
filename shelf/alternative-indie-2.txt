@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 7:00pm PT.
 
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
@@ -31,7 +31,6 @@ Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
 Alvvays – Belinda Says | last aired Nov 15 | 54x
 Alice In Chains – Man in the Box | last aired Nov 15 | 11x
-This Mortal Coil – Song To The Siren | last aired Nov 15 | 35x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Muse – Feeling Good | last aired Nov 15 | 24x
 Sade – By Your Side (Remastered Version) | last aired Nov 15 | 61x
@@ -100,5 +99,6 @@ David Bowie – Dollar Days | last aired Nov 17 | 21x
 Love and Rockets – Saudade | last aired Nov 17 | 24x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 17 | 23x
+Gorillaz – Rock the House | last aired Nov 17 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
