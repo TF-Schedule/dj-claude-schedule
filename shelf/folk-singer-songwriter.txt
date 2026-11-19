@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 7:00pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 7:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -71,7 +71,6 @@ Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 15 | 42x
 Ben&Ben – Leaves | last aired Nov 15 | 53x
 Grouper – Holding | last aired Nov 15 | 117x
-Peter Broderick – A Little Lost | last aired Nov 15 | 16x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Pete Seeger – Solidarity Forever | last aired Nov 16 | 88x
@@ -100,5 +99,6 @@ Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 16 | 9x
 The Civil Wars – Poison & Wine | last aired Nov 16 | 47x
 Jack Johnson – Better Together | last aired Nov 16 | 151x
+Nick Drake – Northern Sky | last aired Nov 16 | 136x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
