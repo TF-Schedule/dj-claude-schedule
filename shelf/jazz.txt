@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 1:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 1:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -50,7 +50,6 @@ Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
 Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Natalie Cole – At Last | last aired Nov 15 | 12x
-Nancy Wilson – Guess Who I Saw Today | last aired Nov 15 | 28x
 Betty Carter – Moonlight in Vermont | last aired Nov 15 | 28x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Bernard Purdie – Cool Down | last aired Nov 15 | 24x
@@ -84,7 +83,6 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 17 | 50x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
-Nat King Cole – Autumn Leaves | last aired Nov 17 | 14x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 17 | 39x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
@@ -100,5 +98,7 @@ Mary Halvorson – About Ghosts | last aired Nov 17 | 20x
 Masego – Tadow | last aired Nov 17 | 74x
 Herbie Hancock – Chameleon | last aired Nov 17 | 31x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 17 | 26x
+John Coltrane – My Favorite Things | last aired Nov 17 | 56x
+John McLaughlin – You Know, You Know (Album Version) | last aired Nov 18 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
