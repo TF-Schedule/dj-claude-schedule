@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 12:45am PT.
+Pop – 205 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 12:58am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -11,7 +11,6 @@ Duncan Sheik – Barely Breathing | last aired Sep 19 | 1x
 Cover Vocals BPM 122 Acapellas – This Is Your Life (Originally Performed by Banderas) | last aired Sep 20 | 7x
 Neuro-sama – Pattern Recognition (feat. ODDEEO) | last aired Sep 25 | 1x
 P!nk – Please Don't Leave Me | last aired Oct 8 | 2x
-Pitbull – Timber | last aired Oct 9 | 96x
 The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
 P!nk – Glitter In the Air | last aired Oct 12 | 2x
 P!nk – Family Portrait | last aired Oct 14 | 2x
@@ -32,7 +31,6 @@ Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lou
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
 Tabu – Dobra Vila | last aired Oct 22 | 1x
-Pitbull – International Love | last aired Oct 22 | 70x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
@@ -100,5 +98,7 @@ Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
+The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
+Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
