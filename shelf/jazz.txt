@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -36,7 +36,6 @@ Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 3
 Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
-Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 13 | 3x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
@@ -100,5 +99,6 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 17 | 50x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
+Nat King Cole – Autumn Leaves | last aired Nov 17 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,6 +1,5 @@
-Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:30am PT.
+Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:45am PT.
 
-A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 53x
 Cuco – One and Only | last aired Nov 12 | 25x
 Glasperlenspiel – Nie vergessen | last aired Nov 12 | 14x
 Clannad – Theme From Harry's Game | last aired Nov 12 | 39x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 25x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
+The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
