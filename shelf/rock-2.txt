@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 7:30pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 7:45pm PT.
 
 Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 13 | 14x
@@ -21,7 +21,6 @@ Tom Konkle – Fail Upward For A Change | last aired Nov 14 | 4x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
-Sheryl Crow – The First Cut Is The Deepest | last aired Nov 14 | 16x
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – New Grass | last aired Nov 14 | 29x
@@ -100,5 +99,6 @@ Kim Carnes – More Love | last aired Nov 17 | 20x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
+Michael Damian – Rock On | last aired Nov 17 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
