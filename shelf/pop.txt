@@ -1,4 +1,4 @@
-Pop – 204 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:00am PT.
+Pop – 204 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -87,7 +87,6 @@ The Chills – Pink Frost | last aired Nov 11 | 10x
 Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
 Gary Numan – Cars | last aired Nov 11 | 14x
 Post Malone – Chemical | last aired Nov 11 | 17x
-Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
@@ -100,5 +99,6 @@ Cuco – One and Only | last aired Nov 12 | 25x
 Clannad – Theme From Harry's Game | last aired Nov 12 | 39x
 Gus Dapperton – Ditch | last aired Nov 12 | 22x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 12 | 19x
+Zoé – Vía Láctea | last aired Nov 12 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 9:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 9:15am PT.
 
-Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 13 | 27x
@@ -100,5 +99,6 @@ Beach House – Bluebird | last aired Nov 18 | 55x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 18 | 36x
 Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
+The Killers – Mr. Brightside | last aired Nov 18 | 162x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
