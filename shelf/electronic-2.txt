@@ -1,6 +1,5 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 5:45pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:00pm PT.
 
-Bonobo – Kiara | last aired Nov 14 | 110x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 14 | 10x
 Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 14 | 399x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 14 | 24x
@@ -29,7 +28,6 @@ Floating Points – Last Bloom | last aired Nov 15 | 99x
 Floating Points – Birth4000 | last aired Nov 15 | 71x
 Grimes – Oblivion | last aired Nov 15 | 12x
 Groove Armada – At the River | last aired Nov 15 | 35x
-Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 15 | 28x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Tricky – Hell Is Round The Corner | last aired Nov 15 | 44x
 Petit Biscuit – Sunset Lover | last aired Nov 15 | 160x
@@ -100,5 +98,7 @@ Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 17 | 113x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 18 | 215x
 Camille – Ta douleur | last aired Nov 18 | 15x
 Eluvium – Taken | last aired Nov 18 | 47x
+Cocteau Twins – Whales Tails | last aired Nov 18 | 37x
+Daft Punk – Around the World | last aired Nov 18 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

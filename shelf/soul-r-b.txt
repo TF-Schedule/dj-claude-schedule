@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:45pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 6:00pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -59,7 +59,6 @@ Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 11 | 15x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
-Whitney Houston – I Have Nothing | last aired Nov 12 | 16x
 Frank Ocean – Pink + White | last aired Nov 12 | 64x
 Diana Ross – I'm Coming Out | last aired Nov 12 | 59x
 Teddy Swims – The Door | last aired Nov 12 | 19x
@@ -68,7 +67,6 @@ The Weeknd – Blinding Lights | last aired Nov 12 | 160x
 Prince – Nothing Compares 2 U | last aired Nov 13 | 22x
 The Staple Singers – I'll Take You There | last aired Nov 13 | 51x
 The Temprees – At Last | last aired Nov 13 | 8x
-The Impressions – People Get Ready (Single Version) | last aired Nov 13 | 25x
 Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
 George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 13 | 18x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
@@ -100,5 +98,7 @@ Otis Redding – (Sittin' On) the Dock of the Bay | last aired Nov 15 | 122x
 Amy Winehouse – Rehab | last aired Nov 15 | 59x
 Alexi Murdoch – Orange Sky | last aired Nov 15 | 10x
 Alison Krauss – Down To The River To Pray (Live) | last aired Nov 15 | 14x
+Alèmayèhu Eshèté – Tashamanaletch | last aired Nov 15 | 26x
+The Altons – When You Go (That's When You'll Know) | last aired Nov 15 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
