@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:45am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 3:00am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -45,7 +45,6 @@ Breakestra – Back At The Boathouse | last aired Nov 9 | 35x
 Brainstory – Mnemophobia | last aired Nov 9 | 26x
 Al Green – The Lord Will Make a Way | last aired Nov 9 | 27x
 Prince – Kiss (LP Version) | last aired Nov 10 | 27x
-Michael Jackson – Morphine (Album Version) | last aired Nov 10 | 6x
 Prince – Purple Rain (2015 Paisley Park Remaster) | last aired Nov 10 | 21x
 Chaka Khan – What Cha' Gonna Do for Me | last aired Nov 10 | 46x
 Lawrence – 23 | last aired Nov 10 | 21x
@@ -71,7 +70,6 @@ George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 1
 Khruangbin – May Ninth | last aired Nov 14 | 40x
 Eric Clapton – Change the World | last aired Nov 14 | 20x
 Stevie Wonder – Isn't She Lovely | last aired Nov 14 | 24x
-Frank Ocean – Pyramids | last aired Nov 14 | 58x
 Kali Uchis – For: You | last aired Nov 14 | 30x
 Bill Withers – Lovely Day | last aired Nov 14 | 157x
 Stevie Wonder – As | last aired Nov 14 | 25x
@@ -100,5 +98,7 @@ Anita Baker – Angel (LP Version) | last aired Nov 15 | 54x
 Erykah Badu – Window Seat | last aired Nov 15 | 83x
 Luther Vandross – A House Is Not A Home | last aired Nov 15 | 90x
 Khruangbin – Friday Morning | last aired Nov 15 | 97x
+Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 16 | 21x
+Khruangbin – White Gloves | last aired Nov 16 | 90x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
