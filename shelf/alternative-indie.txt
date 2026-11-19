@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 12:15pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 12:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -53,7 +53,6 @@ Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last a
 The Marías – Cariño | last aired Nov 9 | 16x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
-Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
@@ -100,5 +99,6 @@ Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
+Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

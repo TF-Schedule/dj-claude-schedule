@@ -1,4 +1,4 @@
-Pop – 203 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:15pm PT.
+Pop – 203 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:30pm PT.
 
 The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
@@ -26,7 +26,6 @@ The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Benson Boone – Beautiful Things | last aired Nov 15 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 15 | 21x
-Peter Fox – Haus am See | last aired Nov 15 | 20x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
@@ -100,5 +99,6 @@ S Club – I Really Miss You | last aired Nov 19 | 9x
 Lady Gaga – Just Dance | last aired Nov 19 | 20x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
 Greg Shilling – Shampoo | last aired Nov 19 | 8x
+ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
