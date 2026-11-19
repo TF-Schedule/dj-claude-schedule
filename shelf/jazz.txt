@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:15pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -28,7 +28,6 @@ Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 11 | 35x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
-Shakatak – Night Birds | last aired Nov 11 | 26x
 Glenn Miller & His Orchestra – At Last | last aired Nov 11 | 7x
 Horace Silver Quintet – Peace | last aired Nov 11 | 30x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Lianne La Havas – Unstoppable | last aired Nov 16 | 89x
 Zaz – Champs-Elysées | last aired Nov 16 | 3x
 Norah Jones – Summertime Blue | last aired Nov 16 | 20x
 Nat King Cole – Nature Boy | last aired Nov 16 | 54x
+Ella Fitzgerald – Summertime | last aired Nov 16 | 101x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
