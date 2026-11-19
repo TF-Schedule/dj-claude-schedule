@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 9:15pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 9:30pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -81,7 +81,6 @@ Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) 
 Backstreet Boys – I Want It That Way | last aired Nov 9 | 15x
 Roxette – See Me | last aired Nov 9 | 2x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 10 | 9x
-Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
@@ -100,5 +99,6 @@ S Club – I Really Miss You | last aired Nov 11 | 8x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
+Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
