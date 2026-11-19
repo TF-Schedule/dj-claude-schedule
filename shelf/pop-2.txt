@@ -1,6 +1,5 @@
-Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:15am PT.
+Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:30am PT.
 
-Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 Rick Astley – Never Gonna Give You Up | last aired Nov 12 | 12x
 A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 53x
@@ -34,7 +33,6 @@ Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
 Khalid – momentary lovers | last aired Nov 15 | 21x
 Alexander Rybak – Fairytale | last aired Nov 15 | 17x
-Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
@@ -100,5 +98,7 @@ Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 18 | 44x
+Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
+The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
