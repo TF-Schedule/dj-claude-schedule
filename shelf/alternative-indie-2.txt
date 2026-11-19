@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:15pm PT.
 
-The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
 The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
@@ -100,5 +99,6 @@ The Killers – Mr. Brightside | last aired Nov 18 | 162x
 No Vacation – Waltzing Back | last aired Nov 18 | 24x
 The Clash – London Calling | last aired Nov 18 | 136x
 Hard Life – daydreams | last aired Nov 18 | 23x
+Julien Baker – Hardline | last aired Nov 18 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

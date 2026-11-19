@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:00pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:15pm PT.
 
 Grimes – Oblivion | last aired Nov 15 | 12x
 Groove Armada – At the River | last aired Nov 15 | 35x
@@ -45,7 +45,6 @@ Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 17 | 35x
 Aphex Twin – Flim | last aired Nov 17 | 10x
 Moby – Natural Blues | last aired Nov 17 | 4x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 17 | 33x
-Moby – One of These Mornings | last aired Nov 17 | 6x
 Aphex Twin – Xtal | last aired Nov 17 | 42x
 Aphex Twin – Windowlicker | last aired Nov 17 | 27x
 Daft Punk – Something About Us | last aired Nov 17 | 61x
@@ -100,5 +99,6 @@ Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pa
 Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 18 | 400x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 18 | 25x
 Brian Eno – Capsule | last aired Nov 18 | 24x
+Hooverphonic – 2 Wicky | last aired Nov 19 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

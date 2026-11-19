@@ -1,4 +1,4 @@
-Pop – 203 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:00pm PT.
+Pop – 203 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:15pm PT.
 
 The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
@@ -15,7 +15,6 @@ Takako Mamiya – LOVE TRIP | last aired Nov 14 | 17x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
-Takako Mamiya – Nagisade Dance | last aired Nov 14 | 17x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Please Please Please | last aired Nov 19 | 64x
 S Club – I Really Miss You | last aired Nov 19 | 9x
 Lady Gaga – Just Dance | last aired Nov 19 | 20x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
+Greg Shilling – Shampoo | last aired Nov 19 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
