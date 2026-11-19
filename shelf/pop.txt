@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -58,7 +58,6 @@ Chappell Roan – HOT TO GO! | last aired Nov 3 | 97x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 Bruno Mars – Gorilla | last aired Nov 4 | 12x
-Chappell Roan – Pink Pony Club | last aired Nov 4 | 50x
 Bulgarian State Television Female Choir – Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired Nov 4 | 14x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
@@ -100,5 +99,6 @@ Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
 Gary Numan – Cars | last aired Nov 11 | 14x
 S Club – I Really Miss You | last aired Nov 11 | 8x
 Post Malone – Chemical | last aired Nov 11 | 17x
+Greg Shilling – Shampoo | last aired Nov 11 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 4:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 4:45pm PT.
 
-Greg Shilling – Shampoo | last aired Nov 11 | 7x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
@@ -28,7 +27,6 @@ ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
-Dean Martin – Everybody Loves Somebody | last aired Nov 14 | 31x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Takako Mamiya – LOVE TRIP | last aired Nov 14 | 17x
@@ -46,7 +44,6 @@ Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Wir Sind Helden – Denkmal | last aired Nov 15 | 22x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
-Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 15 | 23x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Benson Boone – Beautiful Things | last aired Nov 15 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 15 | 21x
@@ -100,5 +97,8 @@ Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 18 | 27x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sadie Jean – WYD Now? | last aired Nov 18 | 8x
 Sabrina Carpenter – Taste | last aired Nov 18 | 54x
+Soft Cell – Tainted Love | last aired Nov 18 | 25x
+Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 14x
+Leon Larregui – Locos | last aired Nov 18 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
