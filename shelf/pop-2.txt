@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:30pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 6:45pm PT.
 
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
@@ -19,7 +19,6 @@ Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
 Djo – End of Beginning | last aired Nov 12 | 18x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
-The Carpenters – (They Long To Be) Close To You | last aired Nov 13 | 24x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 ABBA – Waterloo (English Version) | last aired Nov 13 | 21x
 Depeche Mode – Precious | last aired Nov 13 | 10x
@@ -100,5 +99,6 @@ Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
 Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
+Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 18 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
