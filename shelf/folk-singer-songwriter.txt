@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:45am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 10:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -37,7 +37,6 @@ The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 11 | 7x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 11 | 17x
 Hozier – Cherry Wine (Live) | last aired Nov 12 | 53x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
-Adrianne Lenker – anything | last aired Nov 12 | 55x
 Go_A – SHUM | last aired Nov 12 | 19x
 The Opium Cartel – Beach House | last aired Nov 12 | 25x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
@@ -100,5 +99,6 @@ Tom Waits – House Where Nobody Lives | last aired Nov 17 | 44x
 Joni Mitchell – A Case of You | last aired Nov 17 | 47x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
+Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
