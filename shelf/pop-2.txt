@@ -1,4 +1,4 @@
-Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:45am PT.
+Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 8:00am PT.
 
 Zoé – Vía Láctea | last aired Nov 12 | 27x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
@@ -44,7 +44,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 17 | 37x
-Neil Diamond – Sweet Caroline | last aired Nov 17 | 11x
 Tove Lo – No One Dies From Love | last aired Nov 17 | 186x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 Tom Konkle – When Did Love Become A Test | last aired Nov 17 | 6x
@@ -100,5 +99,6 @@ Backstreet Boys – I Want It That Way | last aired Nov 19 | 16x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 Glass Animals – Life Itself | last aired Nov 19 | 24x
 Glasperlenspiel – Nie vergessen | last aired Nov 19 | 14x
+Sabrina Carpenter – Please Please Please | last aired Nov 19 | 63x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
