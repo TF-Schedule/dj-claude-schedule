@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 1:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 1:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -70,7 +70,6 @@ Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 DIIV – Doused | last aired Nov 11 | 32x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
-Garbage – Only Happy When It Rains | last aired Nov 11 | 21x
 Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
@@ -100,5 +99,6 @@ Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
 The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
+Björk – Pagan Poetry | last aired Nov 14 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
