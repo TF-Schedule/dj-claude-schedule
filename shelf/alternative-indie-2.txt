@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 8:45pm PT.
 
-Cults – Gilded Lily | last aired Nov 12 | 22x
 Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
@@ -100,5 +99,6 @@ Gorillaz – Rock the House | last aired Nov 17 | 10x
 Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
+Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
