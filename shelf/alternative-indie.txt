@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 3:15pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 3:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -25,7 +25,6 @@ The Jetzons – You | last aired Oct 28 | 14x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Siouxsie & The Banshees – Spellbound | last aired Oct 30 | 5x
 Bauhaus – Ziggy Stardust | last aired Oct 30 | 19x
-Jimmy Eat World – The Middle | last aired Oct 31 | 13x
 Ethel Cain – Punish | last aired Oct 31 | 13x
 The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
 Montaigne – Technicolour | last aired Oct 31 | 5x
@@ -92,7 +91,6 @@ Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
-The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
 The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
@@ -100,5 +98,7 @@ Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
+Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
+Sting – Fragile | last aired Nov 15 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
