@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 8:15pm PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 8:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -43,7 +43,6 @@ Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 13 | 6x
 Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
-GoGo Penguin – Hopopono | last aired Nov 13 | 85x
 Bart&Baker – Stop Googling Me ! | last aired Nov 13 | 2x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
 Steely Dan – Home At Last | last aired Nov 13 | 33x
@@ -100,5 +99,6 @@ Nat King Cole – Nature Boy | last aired Nov 16 | 54x
 Ella Fitzgerald – Summertime | last aired Nov 16 | 101x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 16 | 73x
 Steely Dan – Peg | last aired Nov 16 | 109x
+Miles Davis – So What | last aired Nov 16 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
