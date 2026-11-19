@@ -1,4 +1,4 @@
-Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:30am PT.
+Rock – 259 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:45am PT.
 
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
 Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
@@ -79,7 +79,6 @@ Daikaiju – Magic Wanda | last aired Nov 17 | 12x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
-Michael Damian – Rock On | last aired Nov 17 | 9x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Last Nite | last aired Nov 17 | 82x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
@@ -100,5 +99,6 @@ Mark Hollis – The Colour Of Spring | last aired Nov 17 | 30x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Nov 17 | 17x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
 Journey – Lights (Album Version) | last aired Nov 18 | 19x
+John Mayer – New Light | last aired Nov 18 | 191x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
