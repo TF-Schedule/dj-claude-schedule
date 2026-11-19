@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:45pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -71,7 +71,6 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 15 | 24x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 15 | 42x
 Ben&Ben – Leaves | last aired Nov 15 | 53x
-Grand Corps Malade – Mais je t'aime | last aired Nov 15 | 10x
 Grouper – Holding | last aired Nov 15 | 117x
 Peter Broderick – A Little Lost | last aired Nov 15 | 16x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
@@ -100,5 +99,6 @@ Pink Floyd – Fearless | last aired Nov 16 | 24x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 16 | 124x
 Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Nov 16 | 26x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
+Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 16 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

@@ -1,4 +1,4 @@
-Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 4:45pm PT.
+Pop – 207 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 5:00pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -85,7 +85,6 @@ Chappell Roan – Good Luck, Babe! | last aired Nov 10 | 77x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 10 | 13x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Lady Gaga – Just Dance | last aired Nov 10 | 19x
-Kat Edmonson – All The Way | last aired Nov 10 | 36x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
@@ -100,5 +99,6 @@ Gary Numan – Cars | last aired Nov 11 | 14x
 S Club – I Really Miss You | last aired Nov 11 | 8x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Greg Shilling – Shampoo | last aired Nov 11 | 7x
+Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
