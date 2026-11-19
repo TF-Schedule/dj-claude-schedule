@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:15pm PT.
 
-Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
@@ -100,5 +99,6 @@ Miracles of Modern Science – Dear Pressure | last aired Nov 18 | 22x
 Pale Saints – Kinky Love | last aired Nov 18 | 24x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Pearl Jam – Yellow Ledbetter | last aired Nov 18 | 34x
+Ramones – Blitzkrieg Bop | last aired Nov 18 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
