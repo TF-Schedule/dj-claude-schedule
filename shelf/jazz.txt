@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:15am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -31,7 +31,6 @@ Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 12 | 14x
 Burna Boy – Last Last | last aired Nov 12 | 48x
-Baby Face Willette – At Last | last aired Nov 12 | 12x
 Sun Ra – Images | last aired Nov 12 | 30x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 32x
 Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
@@ -100,5 +99,6 @@ Sade – Cherish the Day (Remastered Version) | last aired Nov 16 | 95x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 17 | 50x
+Melody Gardot – Moon River | last aired Nov 17 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

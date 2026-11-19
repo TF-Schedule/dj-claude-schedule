@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:15am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -28,7 +28,6 @@ Matt Nathanson – All We Are | last aired Nov 9 | 12x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
-Barbara Pravi – Voilà | last aired Nov 9 | 27x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 10 | 10x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
@@ -100,5 +99,6 @@ Kings Of Convenience – Rocky Trail | last aired Nov 16 | 32x
 Sleeping At Last – Saturn | last aired Nov 16 | 18x
 Mitski – My Love Mine All Mine | last aired Nov 16 | 21x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 16 | 34x
+Gregory Alan Isakov – Big Black Car | last aired Nov 16 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
