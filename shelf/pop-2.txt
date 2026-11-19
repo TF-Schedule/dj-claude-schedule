@@ -1,4 +1,4 @@
-Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 1:15am PT.
+Pop – 205 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 1:30am PT.
 
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
@@ -43,7 +43,6 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 Peter Fox – Haus am See | last aired Nov 15 | 20x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Sabrina Carpenter – Please Please Please | last aired Nov 16 | 63x
-The Rah Band – Messages from the Stars (Remaster) | last aired Nov 16 | 30x
 Air – La femme d'argent | last aired Nov 16 | 75x
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
@@ -100,5 +99,6 @@ Chappell Roan – Pink Pony Club | last aired Nov 18 | 51x
 Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
+Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 18 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
