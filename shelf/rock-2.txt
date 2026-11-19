@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 4:00pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 18, 4:15pm PT.
 
 Huey Lewis And The News – Hip To Be Square | last aired Nov 13 | 16x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
@@ -38,7 +38,6 @@ Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Talk Talk – After The Flood | last aired Nov 14 | 33x
 Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
-Tom Konkle – Children of No Horizon | last aired Nov 14 | 5x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
 Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
@@ -100,5 +99,6 @@ Roy Orbison – Oh, Pretty Woman | last aired Nov 17 | 27x
 Toto – Rosanna (Album Version) | last aired Nov 17 | 80x
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
+Big Foot Mama – Obseden z njo | last aired Nov 17 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
