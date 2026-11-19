@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:30am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -27,7 +27,6 @@ Sun Ra Arkestra – It's After The End Of The World | last aired Nov 10 | 24x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
-Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 12 | 14x
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Sun Ra – Images | last aired Nov 12 | 30x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 32x
@@ -100,5 +99,6 @@ Miles Davis – Blue in Green | last aired Nov 17 | 108x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 17 | 180x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 17 | 101x
+Steely Dan – Babylon Sisters | last aired Nov 17 | 59x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
