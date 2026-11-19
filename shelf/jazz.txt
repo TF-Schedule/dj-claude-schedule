@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 1:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -89,7 +89,6 @@ Elvis Costello – Almost Blue | last aired Nov 17 | 18x
 Miles Davis – Blue in Green | last aired Nov 17 | 108x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 17 | 180x
-Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 17 | 101x
 Steely Dan – Babylon Sisters | last aired Nov 17 | 59x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 17 | 28x
@@ -100,5 +99,6 @@ Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 17 | 26x
 John Coltrane – My Favorite Things | last aired Nov 17 | 56x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 18 | 24x
 Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
+Duke Ellington – In A Sentimental Mood | last aired Nov 18 | 117x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
