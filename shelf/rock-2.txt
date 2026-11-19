@@ -1,7 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 5:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 5:30am PT.
 
-The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
-Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 13 | 14x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 13 | 12x
@@ -100,5 +98,7 @@ Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 17 | 34x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 17 | 13x
 Lordi – Hard Rock Hallelujah | last aired Nov 17 | 17x
 David Bowie – Slow Burn | last aired Nov 17 | 8x
+Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
+Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 17 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
