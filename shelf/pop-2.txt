@@ -1,6 +1,5 @@
-Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:30am PT.
+Pop – 204 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:45am PT.
 
-Gus Dapperton – Ditch | last aired Nov 12 | 22x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 12 | 19x
 Zoé – Vía Láctea | last aired Nov 12 | 27x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
@@ -100,5 +99,6 @@ Wir Sind Helden – Denkmal | last aired Nov 19 | 23x
 Depeche Mode – Just Can't Get Enough | last aired Nov 19 | 16x
 Backstreet Boys – I Want It That Way | last aired Nov 19 | 16x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
+Glass Animals – Life Itself | last aired Nov 19 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
