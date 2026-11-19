@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 12:30am PT.
 
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 13 | 26x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
@@ -29,7 +29,6 @@ Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
 Nine Inch Nails – Hurt | last aired Nov 14 | 30x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
-indigo la End – Haru No Iutoori | last aired Nov 15 | 20x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
 Lindsey Buckingham – Trouble | last aired Nov 15 | 20x
@@ -100,5 +99,6 @@ Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Last Nite | last aired Nov 17 | 82x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 17 | 199x
+King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
