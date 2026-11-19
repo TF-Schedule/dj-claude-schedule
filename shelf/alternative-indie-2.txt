@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:45pm PT.
 
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
@@ -48,7 +48,6 @@ Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
 Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 17 | 19x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
-Foo Fighters – Everlong | last aired Nov 17 | 35x
 Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
@@ -100,5 +99,6 @@ Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Pearl Jam – Yellow Ledbetter | last aired Nov 18 | 34x
 Ramones – Blitzkrieg Bop | last aired Nov 18 | 13x
 Radiohead – Weird Fishes / Arpeggi | last aired Nov 18 | 324x
+The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 18 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

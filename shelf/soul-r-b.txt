@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:30pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:45pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -51,7 +51,6 @@ Petra – This Means War | last aired Nov 11 | 7x
 Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Diana Ross – Muscles | last aired Nov 11 | 31x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
-Diana Ross – I'm Coming Out | last aired Nov 12 | 59x
 Rihanna – Umbrella (Album Version) | last aired Nov 12 | 13x
 The Weeknd – Blinding Lights | last aired Nov 12 | 160x
 Prince – Nothing Compares 2 U | last aired Nov 13 | 22x
@@ -100,5 +99,6 @@ Rufus – Ain't Nobody (Album Version) | last aired Nov 16 | 91x
 Jill Scott – Golden | last aired Nov 16 | 98x
 Lauryn Hill – Ex-Factor | last aired Nov 16 | 43x
 Donny Hathaway – Jealous Guy (Live) | last aired Nov 16 | 20x
+Khruangbin – Time (You and I) | last aired Nov 16 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

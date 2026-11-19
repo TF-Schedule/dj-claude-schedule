@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:30pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 2:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -68,7 +68,6 @@ Bon Iver – Skinny Love | last aired Nov 16 | 373x
 Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Elliott Smith – Angeles | last aired Nov 16 | 30x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 16 | 78x
-Big Thief – Mary | last aired Nov 16 | 101x
 Elliott Smith – Independence Day | last aired Nov 16 | 21x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 16 | 41x
 Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
@@ -100,5 +99,6 @@ Hozier – From Eden | last aired Nov 17 | 52x
 Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
 Leonard Cohen – Anthem | last aired Nov 17 | 35x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 17 | 12x
+Tori Amos – Winter | last aired Nov 17 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
