@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -38,7 +38,7 @@ Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 |
 Men At Work – Overkill | last aired Nov 3 | 17x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 5 | 24x
-Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 11x
+Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 12x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
@@ -63,7 +63,6 @@ The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
 ANORAQUE – Ivy | last aired Nov 10 | 16x
-Modest Mouse – Float On | last aired Nov 10 | 8x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
@@ -100,5 +99,6 @@ Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 1
 Turnstile – BLACKOUT | last aired Nov 12 | 8x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 Ednaswap – Torn | last aired Nov 12 | 18x
+ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

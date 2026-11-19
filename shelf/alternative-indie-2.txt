@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:15am PT.
 
-ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 13 | 52x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
@@ -67,7 +66,7 @@ The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Oasis – Live Forever | last aired Nov 17 | 14x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
-Beck – Devils Haircut | last aired Nov 17 | 27x
+Beck – Devils Haircut | last aired Nov 17 | 28x
 Blur – Song 2 | last aired Nov 17 | 19x
 Arctic Monkeys – 505 | last aired Nov 17 | 40x
 The Smiths – I Know It's Over | last aired Nov 17 | 9x
@@ -100,5 +99,6 @@ Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
 The Killers – Mr. Brightside | last aired Nov 18 | 162x
 No Vacation – Waltzing Back | last aired Nov 18 | 24x
+The Clash – London Calling | last aired Nov 18 | 136x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

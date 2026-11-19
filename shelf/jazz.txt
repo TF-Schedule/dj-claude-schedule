@@ -1,4 +1,4 @@
-Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 11:00am PT.
+Jazz – 137 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 11:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -33,7 +33,6 @@ Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 3
 Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
-Charles Lloyd – You Are So Beautiful | last aired Nov 13 | 20x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
 Steely Dan – Time Out Of Mind | last aired Nov 13 | 34x
@@ -72,7 +71,7 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
-Diana Krall – How Deep Is The Ocean | last aired Nov 16 | 13x
+Diana Krall – How Deep Is The Ocean | last aired Nov 16 | 14x
 Hiatus Kaiyote – By Fire | last aired Nov 16 | 132x
 Erykah Badu – On & On | last aired Nov 16 | 125x
 Lianne La Havas – Unstoppable | last aired Nov 16 | 89x
@@ -86,7 +85,7 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 17 | 50x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
-Nat King Cole – Autumn Leaves | last aired Nov 17 | 13x
+Nat King Cole – Autumn Leaves | last aired Nov 17 | 14x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 17 | 39x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
@@ -100,5 +99,6 @@ Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 17 | 28x
 Mary Halvorson – About Ghosts | last aired Nov 17 | 20x
 Masego – Tadow | last aired Nov 17 | 74x
+Herbie Hancock – Chameleon | last aired Nov 17 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
