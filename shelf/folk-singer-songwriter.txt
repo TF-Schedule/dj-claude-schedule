@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 10:00pm PT.
+Folk / Singer-Songwriter – 174 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 18, 10:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -55,7 +55,6 @@ Rufus Wainwright – Dinner At Eight | last aired Nov 14 | 29x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Tori Amos – Rattlesnakes | last aired Nov 14 | 10x
 Tom Konkle – One Last Time | last aired Nov 14 | 6x
-Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 14 | 17x
 Bobby Vinton – Blue Velvet | last aired Nov 15 | 14x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 15 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 15 | 27x
@@ -70,7 +69,6 @@ Ben&Ben – Leaves | last aired Nov 15 | 53x
 Grouper – Holding | last aired Nov 15 | 117x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
-Nick Drake – Pink Moon | last aired Nov 16 | 105x
 Iron & Wine – Naked as We Came | last aired Nov 16 | 137x
 Sufjan Stevens – Mystery of Love | last aired Nov 16 | 106x
 Bon Iver – Skinny Love | last aired Nov 16 | 373x
@@ -100,5 +98,7 @@ Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last air
 Carole King – So Far Away | last aired Nov 16 | 45x
 Joni Mitchell – River | last aired Nov 16 | 26x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 16 | 45x
+Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 16 | 32x
+Don McLean – Vincent | last aired Nov 16 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
