@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 2:15am PT.
 
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
@@ -19,7 +19,6 @@ The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Lace – risk | last aired Nov 13 | 1x
 Björk – Pagan Poetry | last aired Nov 14 | 16x
-Phoenix – Lisztomania | last aired Nov 14 | 44x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
@@ -100,5 +99,6 @@ Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anous
 The Cure – A Forest | last aired Nov 17 | 30x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 17 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 17 | 15x
+The Magnetic Fields – The Book of Love | last aired Nov 17 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
