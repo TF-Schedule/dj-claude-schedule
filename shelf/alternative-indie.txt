@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 4:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -55,8 +55,6 @@ Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last a
 The Marías – Cariño | last aired Nov 9 | 16x
 Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
-Banners – Shine A Light | last aired Nov 9 | 22x
-Bad Religion – 21st Century (Digital Boy) | last aired Nov 9 | 11x
 Backyard Babies – Minus Celsius | last aired Nov 9 | 8x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 10 | 31x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
@@ -69,7 +67,6 @@ Sun's Signature – Golden Air | last aired Nov 10 | 23x
 ANORAQUE – Ivy | last aired Nov 10 | 16x
 Modest Mouse – Float On | last aired Nov 10 | 8x
 Sun's Signature – Underwater | last aired Nov 10 | 23x
-Kate Bush – Delius (2018 Remaster) | last aired Nov 10 | 3x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 11 | 18x
 Papooz – You and I | last aired Nov 11 | 27x
@@ -100,5 +97,8 @@ Ride – Vapour Trail | last aired Nov 12 | 28x
 Cults – Gilded Lily | last aired Nov 12 | 22x
 Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
+Björk – Unravel | last aired Nov 12 | 27x
+Fugazi – Waiting Room | last aired Nov 12 | 13x
+Wolf Alice – Don't Delete The Kisses | last aired Nov 12 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

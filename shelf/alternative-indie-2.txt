@@ -1,8 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:15am PT.
 
-Björk – Unravel | last aired Nov 12 | 27x
-Fugazi – Waiting Room | last aired Nov 12 | 13x
-Wolf Alice – Don't Delete The Kisses | last aired Nov 12 | 36x
 Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 | 9x
 Björk – Army Of Me | last aired Nov 12 | 21x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
@@ -100,5 +97,8 @@ Love and Rockets – Haunted When the Minutes Drag | last aired Nov 17 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 17 | 15x
 The Magnetic Fields – The Book of Love | last aired Nov 17 | 15x
 Maria McKee – Life Is Sweet | last aired Nov 17 | 19x
+Jockstrap – Concrete Over Water | last aired Nov 17 | 21x
+Maria McKee – Absolutely Barking Stars | last aired Nov 18 | 19x
+Joywave – Rumors | last aired Nov 18 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
