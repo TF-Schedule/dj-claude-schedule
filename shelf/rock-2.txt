@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:30am PT.
 
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
@@ -28,7 +28,6 @@ David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
-Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 16 | 99x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
@@ -100,5 +99,6 @@ Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
 Underscores – Do It | last aired Nov 18 | 8x
+The White Stripes – Seven Nation Army | last aired Nov 18 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
