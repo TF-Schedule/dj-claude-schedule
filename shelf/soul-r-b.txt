@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 6:00am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 6:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -84,9 +84,7 @@ Khruangbin – Friday Morning | last aired Nov 15 | 97x
 Aretha Franklin – Precious Lord (Take My Hand) (Part One) | last aired Nov 16 | 21x
 Khruangbin – White Gloves | last aired Nov 16 | 90x
 Ben E. King – Stand By Me | last aired Nov 16 | 41x
-Stevie Wonder – Golden Lady | last aired Nov 16 | 140x
 Alicia Keys – Fallin' (Album Version) | last aired Nov 16 | 27x
-Earth, Wind & Fire – September | last aired Nov 16 | 93x
 Marvin Gaye – Distant Lover | last aired Nov 16 | 46x
 Stevie Wonder – Sir Duke | last aired Nov 16 | 34x
 The Temptations – Papa Was A Rollin' Stone (Full Version) | last aired Nov 16 | 58x
@@ -100,5 +98,7 @@ Tame Impala – Is It True | last aired Nov 16 | 20x
 Khruangbin – People Everywhere ii | last aired Nov 16 | 67x
 Toni Braxton – Un-Break My Heart | last aired Nov 17 | 30x
 Moby – In My Heart | last aired Nov 17 | 2x
+Minnie Riperton – Lovin' You | last aired Nov 17 | 83x
+Michael Jackson – You Are Not Alone | last aired Nov 17 | 290x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
