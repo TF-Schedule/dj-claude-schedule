@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:30am PT.
 
 Talk Talk – After The Flood | last aired Nov 14 | 33x
 Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
@@ -29,7 +29,6 @@ Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Losing Faith | last aired Nov 16 | 9x
-Måneskin – ZITTI E BUONI | last aired Nov 16 | 23x
 Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Little River Band – Cool Change | last aired Nov 16 | 17x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 16 | 27x
@@ -100,5 +99,6 @@ Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 18 | 17x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
+Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
