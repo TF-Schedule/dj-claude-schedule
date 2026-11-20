@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 5:30pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 5:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -68,7 +68,6 @@ Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 DIIV – Doused | last aired Nov 11 | 32x
 Montaigne – I Am Not an End | last aired Nov 11 | 6x
-Visage – Fade To Grey | last aired Nov 11 | 23x
 Child Seat – Heart To Heart | last aired Nov 11 | 11x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
@@ -100,5 +99,6 @@ Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
+Alvvays – Belinda Says | last aired Nov 15 | 54x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
