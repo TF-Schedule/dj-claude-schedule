@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 5:15pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 5:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -53,7 +53,6 @@ Bobby Vinton – Blue Velvet | last aired Nov 15 | 14x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 15 | 15x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 15 | 27x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 15 | 15x
-Sarah McLachlan – Building a Mystery | last aired Nov 15 | 19x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
@@ -100,5 +99,6 @@ Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 17 | 12x
 Tori Amos – Winter | last aired Nov 17 | 16x
 Dalida – Paroles paroles (Album Version) | last aired Nov 17 | 19x
 King Crimson – Matte Kudasai | last aired Nov 17 | 24x
+Mireille Mathieu – Together We're Strong | last aired Nov 17 | 51x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
