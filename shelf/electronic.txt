@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:00pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:15pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -39,7 +39,6 @@ Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Tim Hecker – In the Fog I | last aired Nov 8 | 3x
 Tim Hecker – In the Fog II | last aired Nov 8 | 224x
-Tim Hecker – Black Refraction | last aired Nov 9 | 85x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
@@ -100,5 +99,6 @@ Grimes – Oblivion | last aired Nov 15 | 12x
 Groove Armada – At the River | last aired Nov 15 | 35x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Petit Biscuit – Sunset Lover | last aired Nov 15 | 160x
+Jon Hopkins – Small Memory | last aired Nov 15 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
