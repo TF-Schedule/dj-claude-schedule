@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 1:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 2:00pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -36,7 +36,6 @@ L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last 
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
-TilaR – More Than A Friend | last aired Oct 26 | 4x
 Yazoo – Only You (Remastered 2008) | last aired Oct 26 | 18x
 TV Girl – Hate Yourself | last aired Oct 27 | 9x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
@@ -100,5 +99,6 @@ ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
+Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

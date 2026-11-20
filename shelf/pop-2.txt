@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 2:00pm PT.
 
-Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
@@ -100,5 +99,6 @@ Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 20 | 25x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
+Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
