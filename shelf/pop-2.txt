@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 12:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:00am PT.
 
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
@@ -28,7 +28,6 @@ ABBA – Dancing Queen | last aired Nov 16 | 45x
 Mazzy Star – Fade Into You | last aired Nov 16 | 101x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
-Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 Tove Lo – No One Dies From Love | last aired Nov 17 | 186x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
@@ -100,5 +99,6 @@ Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Zoé – Vía Láctea | last aired Nov 19 | 28x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 19 | 38x
+Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
