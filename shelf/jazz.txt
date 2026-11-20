@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 3:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 3:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -86,7 +86,6 @@ GoGo Penguin – Hopopono | last aired Nov 18 | 86x
 Horace Silver Quintet – Peace | last aired Nov 18 | 31x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 18 | 101x
 John Coltrane – Lush Life | last aired Nov 18 | 38x
-Glenn Miller & His Orchestra – At Last | last aired Nov 19 | 8x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 19 | 95x
 Baby Face Willette – At Last | last aired Nov 19 | 13x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 19 | 4x
@@ -100,5 +99,6 @@ Al Di Meola – Red Moon | last aired Nov 19 | 20x
 Steely Dan – Home At Last | last aired Nov 19 | 34x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 19 | 74x
+Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
