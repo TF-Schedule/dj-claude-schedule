@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:15am PT.
 
-Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
@@ -100,5 +99,6 @@ Zoé – Vía Láctea | last aired Nov 19 | 28x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 19 | 38x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
+Mac DeMarco – My Kind of Woman | last aired Nov 19 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
