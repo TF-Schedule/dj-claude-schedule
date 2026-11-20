@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:30pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -52,7 +52,6 @@ Fall Out Boy – Uma Thurman | last aired Nov 9 | 15x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 9 | 2x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
 The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
-Annenmaykantereit – Oft gefragt | last aired Nov 10 | 20x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 TV Girl – Loving Machine | last aired Nov 10 | 20x
@@ -100,5 +99,6 @@ Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
+Sigur Rós – Hoppípolla | last aired Nov 16 | 89x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
