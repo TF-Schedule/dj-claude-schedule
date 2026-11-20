@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -69,7 +69,6 @@ Duran Duran – Ordinary World | last aired Nov 12 | 12x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
 Ride – Vapour Trail | last aired Nov 12 | 28x
 Cults – Gilded Lily | last aired Nov 12 | 22x
-Big Data – Put Me to Work | last aired Nov 12 | 20x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
 Fugazi – Waiting Room | last aired Nov 12 | 13x
@@ -100,5 +99,6 @@ Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Nov 16 | 29x
 Muse – Won’t Stand Down | last aired Nov 16 | 17x
 Jeff Buckley – So Real | last aired Nov 16 | 4x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 16 | 21x
+David Bowie – Slip Away | last aired Nov 16 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
