@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:15am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -60,7 +60,6 @@ Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
-Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 16 | 124x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 16 | 9x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 16 | 31x
@@ -80,7 +79,6 @@ Tori Amos – Winter | last aired Nov 17 | 16x
 Dalida – Paroles paroles (Album Version) | last aired Nov 17 | 19x
 King Crimson – Matte Kudasai | last aired Nov 17 | 24x
 Mireille Mathieu – Together We're Strong | last aired Nov 17 | 51x
-James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 17 | 96x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
 Jeff Buckley – Lilac Wine | last aired Nov 17 | 1x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 17 | 25x
@@ -100,5 +98,7 @@ The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 18 | 26x
 Colbie Caillat – Try | last aired Nov 18 | 12x
 Fleet Foxes – Helplessness Blues | last aired Nov 18 | 36x
+Gigi Perez – Sailor Song | last aired Nov 18 | 238x
+Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 18 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
