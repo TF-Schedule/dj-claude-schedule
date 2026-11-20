@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 9:15pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 9:30pm PT.
 
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
@@ -41,7 +41,6 @@ Depeche Mode – Enjoy the Silence | last aired Nov 17 | 24x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
 Tears For Fears – Mad World | last aired Nov 17 | 33x
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
-Mac DeMarco – My Kind of Woman | last aired Nov 17 | 30x
 Her's – Blue Lips | last aired Nov 17 | 31x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
@@ -100,5 +99,6 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Zoé – Vía Láctea | last aired Nov 19 | 28x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
+Lana Del Rey – Diet Mountain Dew | last aired Nov 19 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
