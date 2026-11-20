@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:00pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:15pm PT.
 
-Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
@@ -100,5 +99,6 @@ John Mayer – New Light | last aired Nov 18 | 191x
 Gustavo Cerati – Crimen | last aired Nov 18 | 29x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 18 | 26x
 Fito Páez – El amor después del amor | last aired Nov 18 | 29x
+Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 18 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

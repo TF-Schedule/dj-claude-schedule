@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 4:15pm PT.
 
-Djo – End of Beginning | last aired Nov 12 | 18x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
@@ -22,7 +21,6 @@ Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Benson Boone – Beautiful Things | last aired Nov 15 | 15x
-Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 15 | 21x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
@@ -100,5 +98,7 @@ Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Takako Mamiya – LOVE TRIP | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
+Gary Numan – Cars | last aired Nov 19 | 15x
+Tears For Fears – Everybody Wants To Rule The World | last aired Nov 19 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
