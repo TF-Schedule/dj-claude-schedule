@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:15pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -32,7 +32,6 @@ Father John Misty – Just Dumb Enough to Try | last aired Nov 11 | 11x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 11 | 2x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 11 | 13x
-The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 11 | 7x
 Hozier – Cherry Wine (Live) | last aired Nov 12 | 53x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 12 | 16x
 The Opium Cartel – Beach House | last aired Nov 12 | 25x
@@ -100,5 +99,6 @@ King Crimson – Matte Kudasai | last aired Nov 17 | 24x
 Mireille Mathieu – Together We're Strong | last aired Nov 17 | 51x
 Carole King – It's Too Late | last aired Nov 17 | 90x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 17 | 96x
+Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
