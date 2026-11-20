@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:45am PT.
 
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
@@ -10,7 +10,6 @@ Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
 Khalid – momentary lovers | last aired Nov 15 | 21x
-Alexander Rybak – Fairytale | last aired Nov 15 | 17x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 15 | 14x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
@@ -100,5 +99,6 @@ Mazzy Star – Fade Into You | last aired Nov 20 | 102x
 ABBA – Dancing Queen | last aired Nov 20 | 46x
 Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 20 | 25x
+Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:30am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:45am PT.
 
 Talk Talk – After The Flood | last aired Nov 14 | 33x
 Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
@@ -70,7 +70,6 @@ Journey – Lights (Album Version) | last aired Nov 18 | 19x
 John Mayer – New Light | last aired Nov 18 | 191x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 18 | 26x
 Fito Páez – El amor después del amor | last aired Nov 18 | 29x
-Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 18 | 35x
 Gustavo Cerati – Puente | last aired Nov 18 | 34x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 18 | 26x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
@@ -100,5 +99,6 @@ Andrés Calamaro – Flaca | last aired Nov 18 | 35x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 18 | 17x
+Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
