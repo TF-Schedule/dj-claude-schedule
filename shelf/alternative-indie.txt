@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 7:15pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 7:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -72,7 +72,6 @@ Child Seat – Heart To Heart | last aired Nov 11 | 11x
 Brijean – Counting Sheep | last aired Nov 11 | 32x
 Slowdive – Alison | last aired Nov 11 | 42x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
-Creed – With Arms Wide Open | last aired Nov 12 | 10x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 12 | 6x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
@@ -100,5 +99,6 @@ Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
 Alvvays – Belinda Says | last aired Nov 15 | 54x
+Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

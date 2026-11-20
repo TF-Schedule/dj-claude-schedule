@@ -1,6 +1,5 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:15pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:30pm PT.
 
-Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
@@ -100,5 +99,6 @@ Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 18 | 22x
 Suede – Animal Nitrate | last aired Nov 18 | 9x
+Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
