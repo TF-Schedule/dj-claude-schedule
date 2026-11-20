@@ -1,7 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:30pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:45pm PT.
 
-Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
-Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 15 | 30x
 The Beatles – Strawberry Fields Forever | last aired Nov 15 | 28x
@@ -100,5 +98,7 @@ Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
 Grateful Dead – Eyes of the World | last aired Nov 18 | 32x
 indigo la End – Haru No Iutoori | last aired Nov 19 | 21x
 Train – Drops of Jupiter (Tell Me) | last aired Nov 19 | 15x
+The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
+Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
