@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 10:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 11:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -67,7 +67,6 @@ Erykah Badu – On & On | last aired Nov 16 | 125x
 Zaz – Champs-Elysées | last aired Nov 16 | 3x
 Nat King Cole – Nature Boy | last aired Nov 16 | 54x
 Miles Davis – So What | last aired Nov 16 | 28x
-Sade – Cherish the Day (Remastered Version) | last aired Nov 16 | 95x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 17 | 50x
@@ -76,7 +75,6 @@ Bonobo – Terrapin | last aired Nov 17 | 142x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 17 | 39x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
 Elvis Costello – Almost Blue | last aired Nov 17 | 18x
-Miles Davis – Blue in Green | last aired Nov 17 | 108x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 17 | 180x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
@@ -100,5 +98,7 @@ Shakatak – Night Birds | last aired Nov 18 | 27x
 Anita Baker – Sweet Love | last aired Nov 18 | 123x
 Bobby Darin – Beyond the Sea | last aired Nov 18 | 32x
 GoGo Penguin – Hopopono | last aired Nov 18 | 86x
+Horace Silver Quintet – Peace | last aired Nov 18 | 31x
+Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 18 | 101x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
