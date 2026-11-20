@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 9:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 9:30am PT.
 
-Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
@@ -100,5 +99,6 @@ Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 Gus Dapperton – Ditch | last aired Nov 20 | 23x
 Mazzy Star – Fade Into You | last aired Nov 20 | 102x
 ABBA – Dancing Queen | last aired Nov 20 | 45x
+Billy Joel – Vienna (Album Version) | last aired Nov 20 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
