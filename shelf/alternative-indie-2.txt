@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 3:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 3:15pm PT.
 
 Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
 Joker Out – Novi Val | last aired Nov 16 | 23x
@@ -61,7 +61,6 @@ The Clash – London Calling | last aired Nov 18 | 136x
 Hard Life – daydreams | last aired Nov 18 | 23x
 Julien Baker – Hardline | last aired Nov 18 | 36x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 18 | 24x
-Miracles of Modern Science – Dear Pressure | last aired Nov 18 | 22x
 Pale Saints – Kinky Love | last aired Nov 18 | 24x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Pearl Jam – Yellow Ledbetter | last aired Nov 18 | 34x
@@ -100,5 +99,6 @@ Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 Papooz – You and I | last aired Nov 19 | 28x
 Patrick Watson – Sit Down Beside Me | last aired Nov 19 | 14x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 19 | 79x
+MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
