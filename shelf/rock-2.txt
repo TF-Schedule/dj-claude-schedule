@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:08am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:15am PT.
 
-Talk Talk – New Grass | last aired Nov 14 | 29x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Talk Talk – After The Flood | last aired Nov 14 | 33x
@@ -100,5 +99,6 @@ Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
+Underscores – Do It | last aired Nov 18 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
