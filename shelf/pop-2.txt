@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:45pm PT.
 
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 Depeche Mode – Precious | last aired Nov 13 | 10x
@@ -31,7 +31,6 @@ New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Nat King Cole – L-O-V-E | last aired Nov 17 | 32x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
-Lana Del Rey – Diet Mountain Dew | last aired Nov 17 | 37x
 Tove Lo – No One Dies From Love | last aired Nov 17 | 186x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 Tom Konkle – When Did Love Become A Test | last aired Nov 17 | 6x
@@ -100,5 +99,6 @@ Gary Numan – Cars | last aired Nov 19 | 15x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 19 | 38x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 21x
 Clannad – Theme From Harry's Game | last aired Nov 19 | 39x
+Zoé – Vía Láctea | last aired Nov 19 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:30pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:45pm PT.
 
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Petit Biscuit – Sunset Lover | last aired Nov 15 | 160x
@@ -51,7 +51,6 @@ Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
 Portishead – It Could Be Sweet | last aired Nov 17 | 19x
-Lamb – Gorecki | last aired Nov 17 | 31x
 Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
 Lamb – Bonfire | last aired Nov 17 | 35x
@@ -100,5 +99,6 @@ Brian Eno – Capsule | last aired Nov 18 | 24x
 Hooverphonic – 2 Wicky | last aired Nov 19 | 36x
 Home – We're Finally Landing | last aired Nov 19 | 15x
 Jazzy – No Bad Vibes | last aired Nov 19 | 10x
+Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
