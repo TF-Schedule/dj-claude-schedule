@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:45pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 8:00pm PT.
 
-Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Petit Biscuit – Sunset Lover | last aired Nov 15 | 160x
 Jon Hopkins – Small Memory | last aired Nov 15 | 24x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 15 | 28x
@@ -41,7 +40,6 @@ Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 17 | 87x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 17 | 109x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 17 | 35x
 Aphex Twin – Flim | last aired Nov 17 | 10x
-Moby – Natural Blues | last aired Nov 17 | 4x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 17 | 33x
 Aphex Twin – Xtal | last aired Nov 17 | 42x
 Aphex Twin – Windowlicker | last aired Nov 17 | 27x
@@ -100,5 +98,7 @@ Hooverphonic – 2 Wicky | last aired Nov 19 | 36x
 Home – We're Finally Landing | last aired Nov 19 | 15x
 Jazzy – No Bad Vibes | last aired Nov 19 | 10x
 Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
+Portishead – Roads | last aired Nov 19 | 64x
+Thievery Corporation – Facing East | last aired Nov 19 | 59x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

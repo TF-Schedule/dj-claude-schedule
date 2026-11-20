@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:45pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 8:00pm PT.
 
-Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
@@ -100,5 +99,6 @@ Caifanes – Afuera | last aired Nov 18 | 13x
 Café Tacvba – Eres (Album Version) | last aired Nov 18 | 39x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
+Juli – Perfekte Welle | last aired Nov 18 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
