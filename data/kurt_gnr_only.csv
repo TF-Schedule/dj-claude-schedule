@@ -4,7 +4,7 @@ Alfa Mist,Organic Rust,Shared,28,4,0,2026-11-02 04:12:40Z,2026-11-02 05:12:40 ME
 Amy Winehouse,Rehab,Shared,69,13,0,2026-11-12 19:14:12Z,2026-11-12 20:14:12 MEZ,Shared Library
 Aphex Twin,Windowlicker,Shared,150,47,4,2026-11-20 04:34:36Z,2026-11-20 05:34:36 MEZ,Shared Library
 Arctic Monkeys,Do I Wanna Know?,Shared,184,23,0,2026-11-12 22:34:42Z,2026-11-12 23:34:42 MEZ,Shared Library
-Autechre,Clipper,Shared,135,53,4,2026-11-20 03:18:34Z,2026-11-20 04:18:34 MEZ,Shared Library
+Autechre,Clipper,Shared,135,53,3,2026-11-20 03:18:34Z,2026-11-20 04:18:34 MEZ,Shared Library
 Bachman-Turner Overdrive,Takin' Care Of Business,Shared,110,10,0,2026-11-13 21:30:44Z,2026-11-13 22:30:44 MEZ,Shared Library
 Backstreet Boys,I Want It That Way,Shared,76,19,0,2026-11-13 21:27:14Z,2026-11-13 22:27:14 MEZ,Shared Library
 Beastie Boys,Sabotage,Shared,241,7,0,2026-11-11 16:03:43Z,2026-11-11 17:03:43 MEZ,Shared Library
@@ -29,7 +29,7 @@ Bon Iver,Skinny Love,Shared,213,17,0,2026-11-13 03:11:13Z,2026-11-13 04:11:13 ME
 Bon Jovi,Livin' On A Prayer,Shared,182,23,0,2026-11-12 11:34:12Z,2026-11-12 12:34:12 MEZ,Shared Library
 Bon Jovi,You Give Love A Bad Name,Shared,106,16,0,2026-11-06 09:40:56Z,2026-11-06 10:40:56 MEZ,Shared Library
 Boney M.,Gotta Go Home,Shared,178,4,0,2026-11-06 09:44:56Z,2026-11-06 10:44:56 MEZ,Shared Library
-Bonobo,Cirrus,Shared,225,54,3,2026-11-19 23:29:01Z,2026-11-20 00:29:01 MEZ,Shared Library
+Bonobo,Cirrus,Shared,226,55,4,2026-11-20 07:13:38Z,2026-11-20 08:13:38 MEZ,Shared Library
 Bonobo,Kiara,Shared,407,21,0,2026-11-13 11:24:44Z,2026-11-13 12:24:44 MEZ,Shared Library
 Bonobo,Kong,Shared,129,21,0,2026-11-13 14:10:44Z,2026-11-13 15:10:44 MEZ,Shared Library
 Bonobo,Terrapin,Shared,226,21,0,2026-11-13 13:03:14Z,2026-11-13 14:03:14 MEZ,Shared Library
@@ -39,7 +39,7 @@ Bruce Springsteen,Streets of Philadelphia (Single Edit),Shared,165,8,0,2026-10-2
 Bruno Mars,Gorilla,Shared,25,7,0,2026-11-11 00:12:10Z,2026-11-11 01:12:10 MEZ,Shared Library
 Bruno Mars,I Just Might,Shared,45,19,0,2026-11-13 12:37:14Z,2026-11-13 13:37:14 MEZ,Shared Library
 Carbon Based Lifeforms,Photosynthesis,Shared,280,54,5,2026-11-20 06:05:37Z,2026-11-20 07:05:37 MEZ,Shared Library
-Chappell Roan,"Good Luck, Babe!",Shared,140,33,1,2026-11-19 07:10:28Z,2026-11-19 08:10:28 MEZ,Shared Library
+Chappell Roan,"Good Luck, Babe!",Shared,140,33,0,2026-11-19 07:10:28Z,2026-11-19 08:10:28 MEZ,Shared Library
 Chappell Roan,HOT TO GO!,Shared,57,20,0,2026-11-18 14:18:28Z,2026-11-18 15:18:28 MEZ,Shared Library
 Chappell Roan,Pink Pony Club,Shared,154,22,0,2026-11-13 15:07:44Z,2026-11-13 16:07:44 MEZ,Shared Library
 Charli XCX,360,Shared,38,1,0,2026-11-05 11:14:55Z,2026-11-05 12:14:55 MEZ,Shared Library
@@ -86,7 +86,7 @@ Guns N' Roses,Sweet Child O' Mine,Shared,172,26,0,2026-11-14 03:08:45Z,2026-11-1
 Harry Styles,As It Was,Shared,156,20,0,2026-11-12 00:31:35Z,2026-11-12 01:31:35 MEZ,Shared Library
 Harry Styles,Watermelon Sugar,Shared,181,8,0,2026-11-12 15:29:42Z,2026-11-12 16:29:42 MEZ,Shared Library
 Hiatus Kaiyote,By Fire,Shared,51,9,0,2026-11-11 01:41:41Z,2026-11-11 02:41:41 MEZ,Shared Library
-Hozier,Take Me To Church,Shared,136,38,3,2026-11-19 23:43:00Z,2026-11-20 00:43:00 MEZ,Shared Library
+Hozier,Take Me To Church,Shared,137,39,4,2026-11-20 07:19:38Z,2026-11-20 08:19:38 MEZ,Shared Library
 Igor Levit,"Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, ""Moonlight"" - I. Adagio sostenuto",Shared,249,3,0,2026-10-31 03:04:54Z,2026-10-31 04:04:54 MEZ,Shared Library
 Jack Johnson,Better Together,Shared,122,2,0,2026-11-06 10:15:56Z,2026-11-06 11:15:56 MEZ,Shared Library
 Janelle Monáe,Make Me Feel,Shared,39,5,0,2026-11-11 02:22:41Z,2026-11-11 03:22:41 MEZ,Shared Library
@@ -206,7 +206,7 @@ Al Green,Love and Happiness,Station-Specific,119,18,0,2026-11-12 21:11:11Z,2026-
 Al Green,Simply Beautiful,Station-Specific,270,31,1,2026-11-19 19:05:01Z,2026-11-19 20:05:01 MEZ,Scraper Logs (GNR Play History)
 Al Jarreau,We're in This Love Together,Station-Specific,27,9,0,2026-11-19 05:29:59Z,2026-11-19 06:29:59 MEZ,Scraper Logs (GNR Play History)
 Al Stewart,On the Border (2001 Remaster),Station-Specific,23,1,0,2026-10-28 11:34:20Z,2026-10-28 12:34:20 MEZ,Scraper Logs (GNR Play History)
-Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,Station-Specific,55,8,0,2026-11-04 10:56:23Z,2026-11-04 11:56:23 MEZ,Scraper Logs (GNR Play History)
+Alexandre Tharaud,Gnossienne No.1 - Gnossienne: No. 1,Station-Specific,55,7,0,2026-11-04 10:56:23Z,2026-11-04 11:56:23 MEZ,Scraper Logs (GNR Play History)
 Alfa Mist,All Time (feat. Tawiah),Station-Specific,38,0,0,2026-10-14 06:41:45Z,2026-10-14 08:41:45 MESZ,Scraper Logs (GNR Play History)
 Alfa Mist,Always Be (feat. Kaya Thomas-Dyke),Station-Specific,50,0,0,2026-10-15 19:19:31Z,2026-10-15 21:19:31 MESZ,Scraper Logs (GNR Play History)
 Alfa Mist,Brian,Station-Specific,53,4,0,2026-11-07 11:31:57Z,2026-11-07 12:31:57 MEZ,Scraper Logs (GNR Play History)
@@ -260,17 +260,17 @@ Bill Withers,Who Is He (And What Is He to You)?,Station-Specific,40,5,0,2026-10-
 Billie Eilish,bad guy,Station-Specific,119,10,0,2026-11-11 13:37:42Z,2026-11-11 14:37:42 MEZ,Scraper Logs (GNR Play History)
 Billy Paul,Me and Mrs. Jones,Station-Specific,21,11,0,2026-11-12 19:33:12Z,2026-11-12 20:33:12 MEZ,Scraper Logs (GNR Play History)
 Boards of Canada,Olson,Station-Specific,41,4,0,2026-11-06 13:32:56Z,2026-11-06 14:32:56 MEZ,Scraper Logs (GNR Play History)
-Boards of Canada,Roygbiv,Station-Specific,89,31,1,2026-11-19 10:26:59Z,2026-11-19 11:26:59 MEZ,Scraper Logs (GNR Play History)
+Boards of Canada,Roygbiv,Station-Specific,89,30,1,2026-11-19 10:26:59Z,2026-11-19 11:26:59 MEZ,Scraper Logs (GNR Play History)
 Bobby Caldwell,Coming Down from Love,Station-Specific,88,11,0,2026-11-12 08:12:12Z,2026-11-12 09:12:12 MEZ,Scraper Logs (GNR Play History)
-Bobby Caldwell,What You Won't Do for Love,Station-Specific,9,9,1,2026-11-19 06:40:58Z,2026-11-19 07:40:58 MEZ,Scraper Logs (GNR Play History)
+Bobby Caldwell,What You Won't Do for Love,Station-Specific,9,9,0,2026-11-19 06:40:58Z,2026-11-19 07:40:58 MEZ,Scraper Logs (GNR Play History)
 Bobby Hebb,Sunny,Station-Specific,4,4,0,2026-11-19 06:02:58Z,2026-11-19 07:02:58 MEZ,Scraper Logs (GNR Play History)
 Bon Jovi,Runaway,Station-Specific,33,12,0,2026-11-07 12:13:57Z,2026-11-07 13:13:57 MEZ,Scraper Logs (GNR Play History)
 Bonnie Raitt,I Can't Make You Love Me,Station-Specific,7,7,0,2026-11-18 20:27:28Z,2026-11-18 21:27:28 MEZ,Scraper Logs (GNR Play History)
-Bonnie Raitt,Something To Talk About,Station-Specific,30,13,1,2026-11-19 06:45:58Z,2026-11-19 07:45:58 MEZ,Scraper Logs (GNR Play History)
+Bonnie Raitt,Something To Talk About,Station-Specific,30,13,0,2026-11-19 06:45:58Z,2026-11-19 07:45:58 MEZ,Scraper Logs (GNR Play History)
 Bonnie Tyler,Total Eclipse of the Heart,Station-Specific,4,4,0,2026-11-10 08:30:10Z,2026-11-10 09:30:10 MEZ,Scraper Logs (GNR Play History)
 Boris Sass,The Devil's Trill Sonata,Station-Specific,33,13,0,2026-11-11 05:05:42Z,2026-11-11 06:05:42 MEZ,Scraper Logs (GNR Play History)
 Branford Marsalis,The Ruby and The Pearl,Station-Specific,42,20,0,2026-11-13 09:42:13Z,2026-11-13 10:42:13 MEZ,Scraper Logs (GNR Play History)
-Bruce Kaphan,Clouds,Station-Specific,124,59,4,2026-11-20 01:03:02Z,2026-11-20 02:03:02 MEZ,Scraper Logs (GNR Play History)
+Bruce Kaphan,Clouds,Station-Specific,124,58,4,2026-11-20 01:03:02Z,2026-11-20 02:03:02 MEZ,Scraper Logs (GNR Play History)
 Bruce Kaphan,"Dorothy's Adobe (feat. T. Bruce Bowers, Jeffrey Potter & Kent Darnielle)",Station-Specific,1,1,0,2026-10-24 09:47:12Z,2026-10-24 11:47:12 MESZ,Scraper Logs (GNR Play History)
 Bruno Mars,Uptown Funk,Station-Specific,146,8,0,2026-11-10 07:33:40Z,2026-11-10 08:33:40 MEZ,Scraper Logs (GNR Play History)
 Cannonball Adderley,Autumn Leaves,Station-Specific,144,50,4,2026-11-19 16:42:00Z,2026-11-19 17:42:00 MEZ,Scraper Logs (GNR Play History)
@@ -278,7 +278,7 @@ Celtic Siren Noreen,Snow on the Crown V.1,Station-Specific,38,0,0,2026-10-16 21:
 Cheap Trick,I Want You to Want Me,Station-Specific,9,9,1,2026-11-19 11:15:29Z,2026-11-19 12:15:29 MEZ,Scraper Logs (GNR Play History)
 Childish Gambino,Les,Station-Specific,7,4,0,2026-11-10 20:04:21Z,2026-11-10 21:04:21 MEZ,Scraper Logs (GNR Play History)
 Chris Rea,"The Road to Hell, Pt. 1 & 2",Station-Specific,1,1,0,2026-10-28 08:55:19Z,2026-10-28 09:55:19 MEZ,Scraper Logs (GNR Play History)
-Christian Löffler,Lid,Station-Specific,79,24,0,2026-11-13 09:07:13Z,2026-11-13 10:07:13 MEZ,Scraper Logs (GNR Play History)
+Christian Löffler,Lid,Station-Specific,79,23,0,2026-11-13 09:07:13Z,2026-11-13 10:07:13 MEZ,Scraper Logs (GNR Play History)
 Cigarettes After Sex,Apocalypse,Station-Specific,118,13,0,2026-11-07 10:19:57Z,2026-11-07 11:19:57 MEZ,Scraper Logs (GNR Play History)
 Cigarettes After Sex,Cry,Station-Specific,83,7,0,2026-11-13 00:40:42Z,2026-11-13 01:40:42 MEZ,Scraper Logs (GNR Play History)
 Cigarettes After Sex,Each Time You Fall in Love,Station-Specific,16,6,0,2026-11-06 13:15:55Z,2026-11-06 14:15:55 MEZ,Scraper Logs (GNR Play History)
@@ -293,7 +293,7 @@ Cigarettes After Sex,Touch,Station-Specific,66,7,0,2026-11-12 08:50:11Z,2026-11-
 Cigarettes After Sex,Young & Dumb,Station-Specific,10,0,0,2026-09-27 20:35:15Z,2026-09-27 22:35:15 MESZ,Scraper Logs (GNR Play History)
 Claude Debussy,Clair de Lune: I,Station-Specific,16,1,0,2026-10-25 04:38:42Z,2026-10-25 05:38:42 MEZ,Scraper Logs (GNR Play History)
 Cocteau Twins,Cherry-coloured Funk,Station-Specific,86,8,0,2026-11-08 07:08:35Z,2026-11-08 08:08:35 MEZ,Scraper Logs (GNR Play History)
-Corinne Bailey Rae,Put Your Records On,Station-Specific,32,15,1,2026-11-19 06:37:28Z,2026-11-19 07:37:28 MEZ,Scraper Logs (GNR Play History)
+Corinne Bailey Rae,Put Your Records On,Station-Specific,32,15,0,2026-11-19 06:37:28Z,2026-11-19 07:37:28 MEZ,Scraper Logs (GNR Play History)
 Creedence Clearwater Revival,It Came Out Of The Sky,Station-Specific,44,11,0,2026-11-09 21:23:38Z,2026-11-09 22:23:38 MEZ,Scraper Logs (GNR Play History)
 "Crosby, Stills, Nash & Young",Love the One You're With,Station-Specific,1,1,0,2026-11-12 02:19:07Z,2026-11-12 03:19:07 MEZ,Scraper Logs (GNR Play History)
 Cults,Gilded Lily,Station-Specific,71,22,0,2026-11-13 20:39:15Z,2026-11-13 21:39:15 MEZ,Scraper Logs (GNR Play History)
@@ -314,7 +314,7 @@ David Bowie,Let's Dance (2018 Remaster),Station-Specific,22,7,0,2026-10-29 21:50
 David Garrett,Bitter Sweet Symphony,Station-Specific,12,3,0,2026-11-07 10:38:57Z,2026-11-07 11:38:57 MEZ,Scraper Logs (GNR Play History)
 David Garrett,Enter Sandman,Station-Specific,13,3,0,2026-11-07 09:03:57Z,2026-11-07 10:03:57 MEZ,Scraper Logs (GNR Play History)
 David Garrett,Smells Like Teen Spirit,Station-Specific,13,4,0,2026-11-07 09:07:56Z,2026-11-07 10:07:56 MEZ,Scraper Logs (GNR Play History)
-Derek & The Dominos,Layla,Station-Specific,79,57,5,2026-11-20 04:27:35Z,2026-11-20 05:27:35 MEZ,Scraper Logs (GNR Play History)
+Derek & The Dominos,Layla,Station-Specific,79,57,4,2026-11-20 04:27:35Z,2026-11-20 05:27:35 MEZ,Scraper Logs (GNR Play History)
 Devadip Carlos Santana,Angel of Air / Angel of Water (Album Version),Station-Specific,9,0,0,2026-10-13 20:53:35Z,2026-10-13 22:53:35 MESZ,Scraper Logs (GNR Play History)
 Diana Krall,Dancing In The Dark,Station-Specific,33,13,0,2026-11-12 20:12:12Z,2026-11-12 21:12:12 MEZ,Scraper Logs (GNR Play History)
 Dire Straits,Private Investigations (Album Version),Station-Specific,21,9,0,2026-10-29 19:26:54Z,2026-10-29 20:26:54 MEZ,Scraper Logs (GNR Play History)
@@ -330,7 +330,7 @@ Electric Light Orchestra,Livin' Thing,Station-Specific,7,7,0,2026-11-11 09:59:12
 Ella Fitzgerald,Summertime,Station-Specific,9,8,0,2026-11-19 05:24:58Z,2026-11-19 06:24:58 MEZ,Scraper Logs (GNR Play History)
 Elton John,I'm Still Standing,Station-Specific,8,8,0,2026-11-18 21:05:30Z,2026-11-18 22:05:30 MEZ,Scraper Logs (GNR Play History)
 Elton John,The One,Station-Specific,19,7,0,2026-11-10 21:37:14Z,2026-11-10 22:37:14 MEZ,Scraper Logs (GNR Play History)
-Emitt Rhodes,Somebody Made For Me,Station-Specific,55,16,0,2026-11-12 07:32:12Z,2026-11-12 08:32:12 MEZ,Scraper Logs (GNR Play History)
+Emitt Rhodes,Somebody Made For Me,Station-Specific,55,15,0,2026-11-12 07:32:12Z,2026-11-12 08:32:12 MEZ,Scraper Logs (GNR Play History)
 Eric Clapton,Alberta (Acoustic Live),Station-Specific,3,2,0,2026-10-29 11:29:52Z,2026-10-29 12:29:52 MEZ,Scraper Logs (GNR Play History)
 Eric Clapton,Don't Know Which Way to Go (2000 Remaster) (Album Version),Station-Specific,34,6,0,2026-10-29 00:57:51Z,2026-10-29 01:57:51 MEZ,Scraper Logs (GNR Play History)
 Eric Clapton,Double Trouble (Live),Station-Specific,10,0,0,2026-10-13 09:27:28Z,2026-10-13 11:27:28 MESZ,Scraper Logs (GNR Play History)
@@ -346,9 +346,9 @@ Fleet Foxes,Mykonos,Station-Specific,2,2,0,2026-11-10 09:03:10Z,2026-11-10 10:03
 Fleetwood Mac,Hypnotized,Station-Specific,54,17,0,2026-11-12 19:38:12Z,2026-11-12 20:38:12 MEZ,Scraper Logs (GNR Play History)
 Fleetwood Mac,The Chain (2004 Remaster),Station-Specific,106,9,0,2026-10-29 20:42:53Z,2026-10-29 21:42:53 MEZ,Scraper Logs (GNR Play History)
 Fleetwood Mac,Tusk,Station-Specific,26,11,0,2026-11-12 05:44:10Z,2026-11-12 06:44:10 MEZ,Scraper Logs (GNR Play History)
-Florence + The Machine,Dog Days Are Over,Station-Specific,58,19,0,2026-11-12 23:48:12Z,2026-11-13 00:48:12 MEZ,Scraper Logs (GNR Play History)
+Florence + The Machine,Dog Days Are Over,Station-Specific,58,18,0,2026-11-12 23:48:12Z,2026-11-13 00:48:12 MEZ,Scraper Logs (GNR Play History)
 Florence + The Machine,You've Got The Love,Station-Specific,48,10,0,2026-11-11 05:09:42Z,2026-11-11 06:09:42 MEZ,Scraper Logs (GNR Play History)
-Four Tet,Lush,Station-Specific,130,58,4,2026-11-20 03:27:05Z,2026-11-20 04:27:05 MEZ,Scraper Logs (GNR Play History)
+Four Tet,Lush,Station-Specific,131,59,5,2026-11-20 07:23:38Z,2026-11-20 08:23:38 MEZ,Scraper Logs (GNR Play History)
 Four Tet,Two Thousand and Seventeen,Station-Specific,112,11,0,2026-11-11 09:45:11Z,2026-11-11 10:45:11 MEZ,Scraper Logs (GNR Play History)
 Frank Zander,Das war'n Zeiten (den Kudamm rauf),Station-Specific,1,1,0,2026-10-21 07:17:18Z,2026-10-21 09:17:18 MESZ,Scraper Logs (GNR Play History)
 G.Rag & die Landlergschwister,Odessa,Station-Specific,1,1,0,2026-10-25 06:09:43Z,2026-10-25 07:09:43 MEZ,Scraper Logs (GNR Play History)
@@ -370,7 +370,7 @@ Guns N' Roses,November Rain,Station-Specific,12,12,0,2026-11-13 00:54:12Z,2026-1
 Handsome Boy Modeling School,The Truth,Station-Specific,7,1,0,2026-11-10 19:34:42Z,2026-11-10 20:34:42 MEZ,Scraper Logs (GNR Play History)
 Hania Rani,Dancing with Ghosts,Station-Specific,42,8,0,2026-11-06 23:27:26Z,2026-11-07 00:27:26 MEZ,Scraper Logs (GNR Play History)
 Hania Rani,Eden,Station-Specific,111,18,0,2026-11-10 03:07:39Z,2026-11-10 04:07:39 MEZ,Scraper Logs (GNR Play History)
-Hania Rani,Glass,Station-Specific,114,22,0,2026-11-12 09:22:12Z,2026-11-12 10:22:12 MEZ,Scraper Logs (GNR Play History)
+Hania Rani,Glass,Station-Specific,114,21,0,2026-11-12 09:22:12Z,2026-11-12 10:22:12 MEZ,Scraper Logs (GNR Play History)
 Hania Rani,Riksarkivet,Station-Specific,88,13,1,2026-11-19 12:08:30Z,2026-11-19 13:08:30 MEZ,Scraper Logs (GNR Play History)
 Hania Rani,Whispering House,Station-Specific,45,12,0,2026-11-11 17:52:13Z,2026-11-11 18:52:13 MEZ,Scraper Logs (GNR Play History)
 Hania Rani,Woven Song — piano reworks,Station-Specific,57,5,0,2026-10-29 23:31:51Z,2026-10-30 00:31:51 MEZ,Scraper Logs (GNR Play History)
@@ -395,12 +395,12 @@ Joan Jett & The Blackhearts,I Love Rock 'N Roll,Station-Specific,5,5,0,2026-11-0
 Joep Beving,Sleeping Lotus,Station-Specific,14,7,0,2026-11-06 08:28:25Z,2026-11-06 09:28:25 MEZ,Scraper Logs (GNR Play History)
 John Coltrane,Equinox,Station-Specific,4,4,0,2026-11-18 11:32:57Z,2026-11-18 12:32:57 MEZ,Scraper Logs (GNR Play History)
 John Coltrane,Giant Steps,Station-Specific,78,16,0,2026-11-11 08:13:42Z,2026-11-11 09:13:42 MEZ,Scraper Logs (GNR Play History)
-John Coltrane,My Favorite Things,Station-Specific,184,89,19,2026-11-20 05:51:37Z,2026-11-20 06:51:37 MEZ,Scraper Logs (GNR Play History)
+John Coltrane,My Favorite Things,Station-Specific,185,90,20,2026-11-20 06:52:08Z,2026-11-20 07:52:08 MEZ,Scraper Logs (GNR Play History)
 John Legend,All of Me,Station-Specific,52,20,1,2026-11-19 12:25:30Z,2026-11-19 13:25:30 MEZ,Scraper Logs (GNR Play History)
 John Legend,Conversations in the Dark,Station-Specific,200,11,0,2026-11-10 23:43:40Z,2026-11-11 00:43:40 MEZ,Scraper Logs (GNR Play History)
 John Legend,Love Me Now,Station-Specific,35,12,0,2026-11-10 23:14:10Z,2026-11-11 00:14:10 MEZ,Scraper Logs (GNR Play History)
 John Legend,Nervous,Station-Specific,29,11,0,2026-11-11 02:59:11Z,2026-11-11 03:59:11 MEZ,Scraper Logs (GNR Play History)
-John Legend,Ordinary People,Station-Specific,66,24,1,2026-11-19 20:48:00Z,2026-11-19 21:48:00 MEZ,Scraper Logs (GNR Play History)
+John Legend,Ordinary People,Station-Specific,66,23,1,2026-11-19 20:48:00Z,2026-11-19 21:48:00 MEZ,Scraper Logs (GNR Play History)
 Johnny Nash,I Can See Clearly Now,Station-Specific,30,9,0,2026-11-10 20:26:27Z,2026-11-10 21:26:27 MEZ,Scraper Logs (GNR Play History)
 Jon Hopkins,Open Eye Signal (Remaster 2023),Station-Specific,7,6,0,2026-10-29 05:11:51Z,2026-10-29 06:11:51 MEZ,Scraper Logs (GNR Play History)
 Jorge Ben Jor,Mas Que Nada,Station-Specific,91,20,0,2026-11-12 03:44:38Z,2026-11-12 04:44:38 MEZ,Scraper Logs (GNR Play History)
@@ -423,7 +423,7 @@ LCD Soundsystem,All My Friends,Station-Specific,104,57,5,2026-11-20 05:07:06Z,20
 LCD Soundsystem,Watch the Tapes,Station-Specific,11,4,0,2026-11-07 12:32:57Z,2026-11-07 13:32:57 MEZ,Scraper Logs (GNR Play History)
 Led Zeppelin,Going to California (Remaster),Station-Specific,21,5,0,2026-10-30 00:39:52Z,2026-10-30 01:39:52 MEZ,Scraper Logs (GNR Play History)
 Led Zeppelin,Ten Years Gone (Remaster),Station-Specific,75,9,0,2026-10-30 03:07:52Z,2026-10-30 04:07:52 MEZ,Scraper Logs (GNR Play History)
-Lemon Jelly,Ramblin' Man,Station-Specific,63,27,4,2026-11-20 02:11:03Z,2026-11-20 03:11:03 MEZ,Scraper Logs (GNR Play History)
+Lemon Jelly,Ramblin' Man,Station-Specific,64,28,5,2026-11-20 07:06:08Z,2026-11-20 08:06:08 MEZ,Scraper Logs (GNR Play History)
 Leon Bridges,River,Station-Specific,69,32,3,2026-11-20 00:09:31Z,2026-11-20 01:09:31 MEZ,Scraper Logs (GNR Play History)
 Lianne La Havas,Bittersweet,Station-Specific,7,7,1,2026-11-19 20:24:31Z,2026-11-19 21:24:31 MEZ,Scraper Logs (GNR Play History)
 Lizzo,Good as Hell,Station-Specific,65,3,0,2026-11-12 10:19:11Z,2026-11-12 11:19:11 MEZ,Scraper Logs (GNR Play History)
@@ -432,7 +432,7 @@ Lynyrd Skynyrd,Free Bird,Station-Specific,27,26,0,2026-11-11 03:53:41Z,2026-11-1
 Manhattan Jazz Band,You Are the Sunshine of My Life,Station-Specific,8,3,0,2026-11-11 21:55:43Z,2026-11-11 22:55:43 MEZ,Scraper Logs (GNR Play History)
 Margaret Glaspy,Michigan,Station-Specific,72,4,0,2026-11-07 19:14:27Z,2026-11-07 20:14:27 MEZ,Scraper Logs (GNR Play History)
 Mariya Takeuchi,Plastic Love,Station-Specific,74,37,2,2026-11-19 19:09:30Z,2026-11-19 20:09:30 MEZ,Scraper Logs (GNR Play History)
-Marvin Gaye,Distant Lover,Station-Specific,109,41,1,2026-11-20 00:30:01Z,2026-11-20 01:30:01 MEZ,Scraper Logs (GNR Play History)
+Marvin Gaye,Distant Lover,Station-Specific,109,40,1,2026-11-20 00:30:01Z,2026-11-20 01:30:01 MEZ,Scraper Logs (GNR Play History)
 Marvin Gaye,I Heard It Through The Grapevine (SACD Stereo),Station-Specific,65,7,0,2026-10-29 07:02:52Z,2026-10-29 08:02:52 MEZ,Scraper Logs (GNR Play History)
 Marvin Gaye,Inner City Blues (Make Me Wanna Holler),Station-Specific,77,11,0,2026-10-30 23:23:24Z,2026-10-31 00:23:24 MEZ,Scraper Logs (GNR Play History)
 Marvin Gaye,Let's Get It On,Station-Specific,149,17,0,2026-11-13 18:14:14Z,2026-11-13 19:14:14 MEZ,Scraper Logs (GNR Play History)
@@ -454,7 +454,7 @@ Miles Davis,Ahmad's Blues,Station-Specific,13,11,0,2026-11-09 05:40:07Z,2026-11-
 Miles Davis,All Blues,Station-Specific,173,74,2,2026-11-19 20:57:01Z,2026-11-19 21:57:01 MEZ,Scraper Logs (GNR Play History)
 Miles Davis,Blue in Green,Station-Specific,92,14,0,2026-11-12 04:41:39Z,2026-11-12 05:41:39 MEZ,Scraper Logs (GNR Play History)
 Miles Davis,Flamenco Sketches,Station-Specific,146,18,0,2026-11-12 18:39:12Z,2026-11-12 19:39:12 MEZ,Scraper Logs (GNR Play History)
-Miles Davis,Freddie Freeloader,Station-Specific,88,29,3,2026-11-19 18:41:00Z,2026-11-19 19:41:00 MEZ,Scraper Logs (GNR Play History)
+Miles Davis,Freddie Freeloader,Station-Specific,88,29,2,2026-11-19 18:41:00Z,2026-11-19 19:41:00 MEZ,Scraper Logs (GNR Play History)
 Miles Davis,So What,Station-Specific,176,20,0,2026-11-13 06:45:13Z,2026-11-13 07:45:13 MEZ,Scraper Logs (GNR Play History)
 Miles Davis,Stella By Starlight (Album Version),Station-Specific,23,0,0,2026-10-16 01:32:03Z,2026-10-16 03:32:03 MESZ,Scraper Logs (GNR Play History)
 Miles Davis Quintet,My Funny Valentine,Station-Specific,44,18,0,2026-11-12 05:01:09Z,2026-11-12 06:01:09 MEZ,Scraper Logs (GNR Play History)
@@ -504,7 +504,7 @@ Pink Floyd,Breathe (In the Air),Station-Specific,8,0,0,2026-10-14 15:38:17Z,2026
 Pink Floyd,Fearless,Station-Specific,71,18,0,2026-11-12 16:30:42Z,2026-11-12 17:30:42 MEZ,Scraper Logs (GNR Play History)
 Pink Floyd,Hey You,Station-Specific,10,10,0,2026-11-18 14:29:58Z,2026-11-18 15:29:58 MEZ,Scraper Logs (GNR Play History)
 Pink Floyd,Time,Station-Specific,64,18,0,2026-11-12 11:57:12Z,2026-11-12 12:57:12 MEZ,Scraper Logs (GNR Play History)
-Pink Floyd,Welcome to the Machine,Station-Specific,34,34,5,2026-11-20 02:18:03Z,2026-11-20 03:18:03 MEZ,Scraper Logs (GNR Play History)
+Pink Floyd,Welcome to the Machine,Station-Specific,35,35,6,2026-11-20 06:36:08Z,2026-11-20 07:36:08 MEZ,Scraper Logs (GNR Play History)
 Pink Floyd,Wish You Were Here,Station-Specific,61,34,1,2026-11-19 20:10:30Z,2026-11-19 21:10:30 MEZ,Scraper Logs (GNR Play History)
 PJ Morton,How Deep Is Your Love,Station-Specific,5,4,0,2026-11-10 06:40:40Z,2026-11-10 07:40:40 MEZ,Scraper Logs (GNR Play History)
 Portishead,Wandering Star,Station-Specific,40,13,0,2026-11-11 18:34:14Z,2026-11-11 19:34:14 MEZ,Scraper Logs (GNR Play History)
@@ -531,14 +531,14 @@ RAYE,Goodbye Henry. (feat. Al Green),Station-Specific,9,1,0,2026-10-26 10:56:45Z
 RAYE,Life Boat.,Station-Specific,21,12,0,2026-11-06 23:32:26Z,2026-11-07 00:32:26 MEZ,Scraper Logs (GNR Play History)
 RAYE,Nightingale Lane.,Station-Specific,83,10,0,2026-11-06 23:21:56Z,2026-11-07 00:21:56 MEZ,Scraper Logs (GNR Play History)
 RAYE,WHERE IS MY HUSBAND!,Station-Specific,16,7,0,2026-11-19 06:06:28Z,2026-11-19 07:06:28 MEZ,Scraper Logs (GNR Play History)
-RAYE,Winter Woman.,Station-Specific,11,3,0,2026-11-07 03:50:26Z,2026-11-07 04:50:26 MEZ,Scraper Logs (GNR Play History)
+RAYE,Winter Woman.,Station-Specific,11,2,0,2026-11-07 03:50:26Z,2026-11-07 04:50:26 MEZ,Scraper Logs (GNR Play History)
 Red Hot Chili Peppers,Californication,Station-Specific,31,11,0,2026-11-13 00:30:42Z,2026-11-13 01:30:42 MEZ,Scraper Logs (GNR Play History)
 Red Hot Chili Peppers,Road Trippin' (2014 Remaster),Station-Specific,15,1,0,2026-10-26 11:27:45Z,2026-10-26 12:27:45 MEZ,Scraper Logs (GNR Play History)
 Red Snapper,Space Sickness,Station-Specific,7,1,0,2026-10-25 12:08:13Z,2026-10-25 13:08:13 MEZ,Scraper Logs (GNR Play History)
 Redbone,Come and Get Your Love,Station-Specific,23,23,3,2026-11-20 03:13:34Z,2026-11-20 04:13:34 MEZ,Scraper Logs (GNR Play History)
 Robbie Williams,Rock DJ,Station-Specific,48,19,0,2026-11-13 12:02:14Z,2026-11-13 13:02:14 MEZ,Scraper Logs (GNR Play History)
 Robert Glasper Experiment,Afro Blue,Station-Specific,62,23,0,2026-11-13 03:18:43Z,2026-11-13 04:18:43 MEZ,Scraper Logs (GNR Play History)
-Roberta Flack,Killing Me Softly With His Song,Station-Specific,95,47,3,2026-11-20 03:32:34Z,2026-11-20 04:32:34 MEZ,Scraper Logs (GNR Play History)
+Roberta Flack,Killing Me Softly With His Song,Station-Specific,95,47,2,2026-11-20 03:32:34Z,2026-11-20 04:32:34 MEZ,Scraper Logs (GNR Play History)
 ROSALÍA,Berghain,Station-Specific,2,1,0,2026-11-10 11:03:40Z,2026-11-10 12:03:40 MEZ,Scraper Logs (GNR Play History)
 Royal Blood,Boilermaker,Station-Specific,43,8,0,2026-11-09 20:20:09Z,2026-11-09 21:20:09 MEZ,Scraper Logs (GNR Play History)
 Sade,By Your Side (Remastered Version),Station-Specific,72,8,0,2026-10-29 09:23:23Z,2026-10-29 10:23:23 MEZ,Scraper Logs (GNR Play History)
@@ -608,7 +608,7 @@ The Rolling Stones,You Can't Always Get What You Want,Station-Specific,28,28,3,2
 The Roots,You Got Me,Station-Specific,36,9,0,2026-11-11 02:18:11Z,2026-11-11 03:18:11 MEZ,Scraper Logs (GNR Play History)
 The Verve,Bitter Sweet Symphony (Remastered 2016),Station-Specific,18,6,0,2026-10-29 19:01:53Z,2026-10-29 20:01:53 MEZ,Scraper Logs (GNR Play History)
 The War On Drugs,Under The Pressure,Station-Specific,67,14,0,2026-11-13 08:49:13Z,2026-11-13 09:49:13 MEZ,Scraper Logs (GNR Play History)
-The White Stripes,Seven Nation Army,Station-Specific,21,21,2,2026-11-19 18:05:00Z,2026-11-19 19:05:00 MEZ,Scraper Logs (GNR Play History)
+The White Stripes,Seven Nation Army,Station-Specific,21,21,1,2026-11-19 18:05:00Z,2026-11-19 19:05:00 MEZ,Scraper Logs (GNR Play History)
 The xx,Intro,Station-Specific,28,8,0,2026-11-10 20:39:27Z,2026-11-10 21:39:27 MEZ,Scraper Logs (GNR Play History)
 Thelonious Monk,'Round Midnight (Remastered 2013),Station-Specific,77,3,0,2026-10-27 09:48:16Z,2026-10-27 10:48:16 MEZ,Scraper Logs (GNR Play History)
 Thelonious Monk,Blue Monk,Station-Specific,55,2,0,2026-11-12 15:03:42Z,2026-11-12 16:03:42 MEZ,Scraper Logs (GNR Play History)
@@ -627,7 +627,7 @@ Tom Misch,Movie,Station-Specific,1,1,0,2026-11-07 23:16:27Z,2026-11-08 00:16:27 
 Tom Petty,Wildflowers (Album Version),Station-Specific,26,4,0,2026-10-28 08:52:19Z,2026-10-28 09:52:19 MEZ,Scraper Logs (GNR Play History)
 Tomaso Albinoni,Adagio in G Minor,Station-Specific,7,7,0,2026-11-10 09:53:40Z,2026-11-10 10:53:40 MEZ,Scraper Logs (GNR Play History)
 Toni Braxton,Un-Break My Heart,Station-Specific,5,5,0,2026-11-19 06:21:59Z,2026-11-19 07:21:59 MEZ,Scraper Logs (GNR Play History)
-TOOL,Lateralus,Station-Specific,30,22,5,2026-11-20 03:43:35Z,2026-11-20 04:43:35 MEZ,Scraper Logs (GNR Play History)
+TOOL,Lateralus,Station-Specific,31,23,6,2026-11-20 07:29:08Z,2026-11-20 08:29:08 MEZ,Scraper Logs (GNR Play History)
 Toto,Africa,Station-Specific,30,30,2,2026-11-19 18:08:59Z,2026-11-19 19:08:59 MEZ,Scraper Logs (GNR Play History)
 Toto,Hold the Line,Station-Specific,8,8,0,2026-11-11 15:37:12Z,2026-11-11 16:37:12 MEZ,Scraper Logs (GNR Play History)
 Tracy Chapman,All That You Have Is Your Soul,Station-Specific,2,2,0,2026-11-12 11:12:42Z,2026-11-12 12:12:42 MEZ,Scraper Logs (GNR Play History)
