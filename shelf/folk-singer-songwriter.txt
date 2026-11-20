@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:00am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -55,7 +55,6 @@ Ben&Ben – Leaves | last aired Nov 15 | 53x
 Grouper – Holding | last aired Nov 15 | 117x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
-Bon Iver – Skinny Love | last aired Nov 16 | 373x
 Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
@@ -66,7 +65,6 @@ Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 16 | 9x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 16 | 31x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 16 | 32x
-Damien Rice – The Blower's Daughter | last aired Nov 16 | 93x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 16 | 21x
 Ed Sheeran – Perfect | last aired Nov 16 | 11x
 Kings Of Convenience – Rocky Trail | last aired Nov 16 | 32x
@@ -74,7 +72,6 @@ Mitski – My Love Mine All Mine | last aired Nov 16 | 21x
 Ben Howard – Only Love | last aired Nov 16 | 9x
 Grouper – Alien Observer | last aired Nov 16 | 134x
 Tom Waits – House Where Nobody Lives | last aired Nov 17 | 44x
-Joni Mitchell – A Case of You | last aired Nov 17 | 47x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
 Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
@@ -96,9 +93,12 @@ Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 17 | 31x
 Mariza – Ó gente da minha terra | last aired Nov 17 | 39x
 The Cure – The Last Day Of Summer | last aired Nov 17 | 5x
 The Head And The Heart – Down in the Valley | last aired Nov 17 | 25x
-José González – Heartbeats | last aired Nov 17 | 126x
 Josh Rouse – 1972 | last aired Nov 17 | 26x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 17 | 7x
 Josh Rouse – Street Lights | last aired Nov 17 | 14x
+The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 18 | 13x
+John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 18 | 26x
+Colbie Caillat – Try | last aired Nov 18 | 12x
+Fleet Foxes – Helplessness Blues | last aired Nov 18 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
