@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -65,7 +65,6 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
-Diana Krall – How Deep Is The Ocean | last aired Nov 16 | 14x
 Hiatus Kaiyote – By Fire | last aired Nov 16 | 132x
 Erykah Badu – On & On | last aired Nov 16 | 125x
 Zaz – Champs-Elysées | last aired Nov 16 | 3x
@@ -100,5 +99,6 @@ Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
 GoGo Penguin – Raven | last aired Nov 18 | 85x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 18 | 23x
 Paolo Conte – Via Con Me | last aired Nov 18 | 26x
+Shakatak – Night Birds | last aired Nov 18 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
