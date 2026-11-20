@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 10:45am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -29,7 +29,6 @@ Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Sun Ra – Images | last aired Nov 12 | 30x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 32x
-Acker Bilk – Stranger On The Shore | last aired Nov 12 | 16x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
@@ -100,5 +99,6 @@ Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 19 | 36x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 19 | 38x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 19 | 23x
+Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
