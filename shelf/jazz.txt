@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 1:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 1:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -76,9 +76,7 @@ Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
 Duke Ellington – In A Sentimental Mood | last aired Nov 18 | 117x
 Hailu Mergia – Tezeta | last aired Nov 18 | 61x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 18 | 84x
-Julie London – Cry Me A River | last aired Nov 18 | 83x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
-GoGo Penguin – Raven | last aired Nov 18 | 85x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 18 | 23x
 Paolo Conte – Via Con Me | last aired Nov 18 | 26x
 Shakatak – Night Birds | last aired Nov 18 | 27x
@@ -100,5 +98,7 @@ Julian Lage – Emily | last aired Nov 19 | 11x
 Ella Fitzgerald – Summertime | last aired Nov 19 | 102x
 Al Di Meola – Red Moon | last aired Nov 19 | 20x
 Steely Dan – Home At Last | last aired Nov 19 | 34x
+Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
+Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 19 | 74x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
