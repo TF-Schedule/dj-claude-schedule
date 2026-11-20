@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 3:45am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 4:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -58,7 +58,6 @@ The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Bon Iver – Skinny Love | last aired Nov 16 | 373x
 Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Elliott Smith – Angeles | last aired Nov 16 | 30x
-Leonard Cohen – Dance Me to the End of Love | last aired Nov 16 | 41x
 Simon & Garfunkel – The Boxer | last aired Nov 16 | 102x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
@@ -100,5 +99,6 @@ Mariza – Ó gente da minha terra | last aired Nov 17 | 39x
 The Cure – The Last Day Of Summer | last aired Nov 17 | 5x
 The Head And The Heart – Down in the Valley | last aired Nov 17 | 25x
 José González – Heartbeats | last aired Nov 17 | 126x
+Josh Rouse – 1972 | last aired Nov 17 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
