@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 10:00pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 10:15pm PT.
 
-The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 14 | 32x
 Natalie Imbruglia – Torn | last aired Nov 14 | 19x
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
@@ -100,5 +99,6 @@ Juli – Perfekte Welle | last aired Nov 18 | 13x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 18 | 69x
 Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 18 | 5x
 Rammstein – Deutschland | last aired Nov 18 | 20x
+Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 18 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
