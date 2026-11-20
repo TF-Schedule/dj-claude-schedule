@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 1:30am PT.
 
 Benny Sings – Sailing | last aired Nov 14 | 26x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
@@ -82,7 +82,6 @@ Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last air
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
 Journey – Lights (Album Version) | last aired Nov 18 | 19x
 John Mayer – New Light | last aired Nov 18 | 191x
-Gustavo Cerati – Crimen | last aired Nov 18 | 29x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 18 | 26x
 Fito Páez – El amor después del amor | last aired Nov 18 | 29x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 18 | 35x
@@ -100,5 +99,6 @@ Rammstein – Deutschland | last aired Nov 18 | 20x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 18 | 9x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 18 | 25x
 The Replacements – Answering Machine | last aired Nov 18 | 21x
+Leonard Cohen – Bird on the Wire | last aired Nov 18 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
