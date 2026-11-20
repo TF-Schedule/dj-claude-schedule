@@ -1,4 +1,4 @@
-Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:08pm PT.
+Alternative / Indie – 249 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 11:15pm PT.
 
 Cigarettes After Sex – Apocalypse | last aired Nov 16 | 107x
 Men I Trust – Show Me How | last aired Nov 16 | 63x
@@ -18,7 +18,6 @@ Cyndi Lauper – All Through the Night | last aired Nov 16 | 64x
 Coldplay – Yellow | last aired Nov 16 | 22x
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
-Mazzy Star – Halah | last aired Nov 17 | 37x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
@@ -100,5 +99,6 @@ Caroline Polachek – Bunny Is A Rider | last aired Nov 18 | 39x
 Cardiacs – Big Ship | last aired Nov 18 | 20x
 INXS – Don't Change | last aired Nov 18 | 24x
 Wild Nothing – Chinatown | last aired Nov 18 | 34x
+Split Enz – I Got You | last aired Nov 18 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
