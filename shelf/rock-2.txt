@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 6:45pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 7:00pm PT.
 
-The Rolling Stones – Street Fighting Man | last aired Nov 13 | 28x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
@@ -100,5 +99,6 @@ Gustavo Cerati – Puente | last aired Nov 18 | 34x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 18 | 26x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
+Caifanes – Afuera | last aired Nov 18 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
