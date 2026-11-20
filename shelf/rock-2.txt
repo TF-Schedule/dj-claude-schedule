@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:15am PT.
 
-Benny Sings – Sailing | last aired Nov 14 | 26x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 14 | 19x
@@ -100,5 +99,6 @@ Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 18 | 25x
 The Replacements – Answering Machine | last aired Nov 18 | 21x
 Leonard Cohen – Bird on the Wire | last aired Nov 18 | 39x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 18 | 20x
+Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:00am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -51,7 +51,6 @@ Patti LaBelle – If Only You Knew | last aired Nov 11 | 20x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 11 | 32x
 Rihanna – Umbrella (Album Version) | last aired Nov 12 | 13x
 The Weeknd – Blinding Lights | last aired Nov 12 | 160x
-Prince – Nothing Compares 2 U | last aired Nov 13 | 22x
 The Staple Singers – I'll Take You There | last aired Nov 13 | 51x
 The Temprees – At Last | last aired Nov 13 | 8x
 Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
@@ -69,7 +68,6 @@ Boz Scaggs – Lowdown (2023 Remaster) | last aired Nov 15 | 63x
 Booker T. & The M.G.'s – Green Onions | last aired Nov 15 | 43x
 Boyz II Men – End Of The Road (Album Version) | last aired Nov 15 | 24x
 Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 15 | 19x
-Lionel Richie – You Are | last aired Nov 15 | 23x
 Stevie Wonder – Superstition (Album Version) | last aired Nov 15 | 101x
 James Brown – Sunny | last aired Nov 15 | 13x
 The Style Council – Iwasadoledadstoyboy | last aired Nov 15 | 19x
@@ -100,5 +98,7 @@ Toni Braxton – Un-Break My Heart | last aired Nov 17 | 30x
 Moby – In My Heart | last aired Nov 17 | 2x
 Minnie Riperton – Lovin' You | last aired Nov 17 | 83x
 Michael Jackson – You Are Not Alone | last aired Nov 17 | 290x
+Stevie Wonder – I Wish | last aired Nov 17 | 28x
+Marvin Gaye – What's Going On | last aired Nov 17 | 293x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
