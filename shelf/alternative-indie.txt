@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 2:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 2:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -66,7 +66,6 @@ Brijean – Counting Sheep | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
-Ride – Vapour Trail | last aired Nov 12 | 28x
 Cults – Gilded Lily | last aired Nov 12 | 22x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
@@ -100,5 +99,6 @@ Jeff Buckley – So Real | last aired Nov 16 | 4x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 16 | 21x
 David Bowie – Slip Away | last aired Nov 16 | 20x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 16 | 15x
+Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
