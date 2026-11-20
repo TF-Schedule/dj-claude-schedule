@@ -1,4 +1,4 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 9:45pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 10:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -67,7 +67,6 @@ Monster Magnet – Nod Scene | last aired Nov 10 | 2x
 Erik Grönwall – House of the Rising Sun | last aired Nov 11 | 6x
 Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
-Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 11 | 11x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
 Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 36x
@@ -100,5 +99,6 @@ Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 14 | 3x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 14 | 10x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
+The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
