@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 10:30pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 19, 10:45pm PT.
 
-Luca Di Sabatino – Switched-on Wendy | last aired Nov 16 | 10x
 Bonobo – Cirrus | last aired Nov 16 | 136x
 Sigur Rós – Sé Lest | last aired Nov 16 | 65x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 16 | 35x
@@ -100,5 +99,6 @@ Thievery Corporation – Facing East | last aired Nov 19 | 59x
 Four Tet – Two Thousand and Seventeen | last aired Nov 19 | 98x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 19 | 4x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 19 | 11x
+Portishead – Sour Times | last aired Nov 19 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
