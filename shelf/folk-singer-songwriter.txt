@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 12:15pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 12:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -74,7 +74,6 @@ Hozier – From Eden | last aired Nov 17 | 52x
 Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 17 | 12x
 Tori Amos – Winter | last aired Nov 17 | 16x
-Dalida – Paroles paroles (Album Version) | last aired Nov 17 | 19x
 King Crimson – Matte Kudasai | last aired Nov 17 | 24x
 Mireille Mathieu – Together We're Strong | last aired Nov 17 | 51x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
@@ -100,5 +99,6 @@ Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
 Judy Collins – Bread and Roses | last aired Nov 18 | 28x
 Leonard Cohen – Avalanche | last aired Nov 18 | 24x
 Michael Hedges – Aerial Boundaries | last aired Nov 18 | 44x
+Phoebe Bridgers – Smoke Signals | last aired Nov 18 | 61x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

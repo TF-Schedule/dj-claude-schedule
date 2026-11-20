@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 12:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 12:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -63,7 +63,6 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
 Bonobo – Terrapin | last aired Nov 17 | 142x
-Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 17 | 39x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
@@ -100,5 +99,6 @@ Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 
 Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
 Julian Lage – Emily | last aired Nov 19 | 11x
 Ella Fitzgerald – Summertime | last aired Nov 19 | 102x
+Al Di Meola – Red Moon | last aired Nov 19 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
