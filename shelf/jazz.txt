@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 6:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -52,7 +52,6 @@ Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Bernard Purdie – Cool Down | last aired Nov 15 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 15 | 24x
 Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
-Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 15 | 82x
 Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Petra Haden – Moon River | last aired Nov 15 | 17x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 15 | 57x
@@ -84,7 +83,6 @@ Elvis Costello – Almost Blue | last aired Nov 17 | 18x
 Miles Davis – Blue in Green | last aired Nov 17 | 108x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 17 | 180x
-Steely Dan – Babylon Sisters | last aired Nov 17 | 59x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 17 | 28x
 Mary Halvorson – About Ghosts | last aired Nov 17 | 20x
@@ -100,5 +98,7 @@ Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 18 | 84x
 Julie London – Cry Me A River | last aired Nov 18 | 83x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
 GoGo Penguin – Raven | last aired Nov 18 | 85x
+Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 18 | 23x
+Paolo Conte – Via Con Me | last aired Nov 18 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
