@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 19, 8:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -82,7 +82,6 @@ Boy Throb – Finger | last aired Nov 11 | 6x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 The Chills – Pink Frost | last aired Nov 11 | 10x
-Moes Haven – Shut Up Your Monkey | last aired Nov 11 | 7x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
@@ -100,5 +99,6 @@ Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
 Djo – End of Beginning | last aired Nov 12 | 18x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 13 | 73x
 Os Mutantes – A Minha Menina | last aired Nov 13 | 44x
+ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
