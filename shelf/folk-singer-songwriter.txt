@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 10:45pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -84,7 +84,6 @@ Josh Rouse – Street Lights | last aired Nov 17 | 14x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 18 | 13x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 18 | 26x
 Colbie Caillat – Try | last aired Nov 18 | 12x
-Gigi Perez – Sailor Song | last aired Nov 18 | 238x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 18 | 15x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
 Judy Collins – Bread and Roses | last aired Nov 18 | 28x
@@ -100,5 +99,6 @@ Pete Seeger – Solidarity Forever | last aired Nov 18 | 89x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 18 | 25x
 Leonard Cohen – Treaty | last aired Nov 18 | 12x
 Nick Drake – Pink Moon | last aired Nov 18 | 106x
+Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 18 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
