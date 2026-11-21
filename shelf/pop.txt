@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -20,7 +20,6 @@ Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) |
 Neuro-sama – Colorful Array | last aired Oct 17 | 6x
 The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
-EMF – Unbelievable | last aired Oct 19 | 1x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Oct 19 | 1x
 P!nk – Eventually | last aired Oct 19 | 3x
@@ -100,5 +99,6 @@ Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
+The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

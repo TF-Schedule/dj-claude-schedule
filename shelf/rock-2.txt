@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:30am PT.
 
-Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
@@ -100,5 +99,6 @@ Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 4x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 19 | 11x
 Gustavo Cerati – Crimen | last aired Nov 20 | 30x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 20 | 181x
+Tina Turner – The Best | last aired Nov 20 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

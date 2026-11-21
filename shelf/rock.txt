@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -28,7 +28,6 @@ Christopher Cross – I Really Don't Know Anymore (2019 Remaster) | last aired O
 The Doors – Riders on the Storm | last aired Oct 31 | 5x
 The Cramps – Goo Goo Muck | last aired Oct 31 | 1x
 Olivia Rodrigo – vampire | last aired Oct 31 | 126x
-Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Oct 31 | 1x
 U2 – New Year's Day (Remastered 2008) | last aired Oct 31 | 4x
 U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 31 | 4x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109x
@@ -100,5 +99,6 @@ Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
 Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
+Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
