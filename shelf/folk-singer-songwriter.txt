@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:30pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -31,7 +31,6 @@ Billie Eilish – when the party's over | last aired Nov 14 | 18x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Tori Amos – Rattlesnakes | last aired Nov 14 | 10x
 Tom Konkle – One Last Time | last aired Nov 14 | 6x
-Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 15 | 27x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 Albert Hammond – When I'm Gone | last aired Nov 15 | 16x
 Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
@@ -100,5 +99,6 @@ Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
 Laith Al-Deen – Dein Lied | last aired Nov 19 | 21x
 Gregory Alan Isakov – Big Black Car | last aired Nov 19 | 11x
 Adrianne Lenker – anything | last aired Nov 19 | 56x
+William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 19 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
