@@ -1,8 +1,7 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:30am PT.
 
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
-Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 16 | 12x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
@@ -100,5 +99,6 @@ EMF – Unbelievable | last aired Nov 21 | 1x
 Hollie Col – The Gambler | last aired Nov 21 | 2x
 Backstreet Boys – I Want It That Way | last aired Nov 21 | 16x
 Tabu – Dobra Vila | last aired Nov 21 | 1x
+Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 21 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
