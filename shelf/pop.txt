@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 9:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 9:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -84,7 +84,6 @@ Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15
 Mercury Rev – Little Rhymes | last aired Nov 11 | 10x
 The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
-Ricchi E Poveri – Sarà perché ti amo | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 Rick Astley – Never Gonna Give You Up | last aired Nov 12 | 12x
 A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 53x
@@ -100,5 +99,6 @@ The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 1
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
+Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

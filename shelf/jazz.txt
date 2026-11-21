@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 9:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 9:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -73,7 +73,6 @@ Duke Ellington – In A Sentimental Mood | last aired Nov 18 | 117x
 Hailu Mergia – Tezeta | last aired Nov 18 | 61x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 18 | 84x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
-Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 18 | 23x
 Paolo Conte – Via Con Me | last aired Nov 18 | 26x
 Shakatak – Night Birds | last aired Nov 18 | 27x
 Anita Baker – Sweet Love | last aired Nov 18 | 123x
@@ -100,5 +99,6 @@ Nina Simone – Wild Is The Wind | last aired Nov 19 | 38x
 Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 19 | 29x
 Natalie Cole – At Last | last aired Nov 19 | 13x
+Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 19 | 102x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
