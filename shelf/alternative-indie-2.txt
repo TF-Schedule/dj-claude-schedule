@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:15pm PT.
 
-Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
@@ -100,5 +99,6 @@ Big Data – Put Me to Work | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
 Playroom – Patient | last aired Nov 20 | 11x
 Joywave – Rumors | last aired Nov 20 | 20x
+Ride – Vapour Trail | last aired Nov 20 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

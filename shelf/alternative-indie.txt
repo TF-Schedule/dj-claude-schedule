@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -89,7 +89,6 @@ Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
-Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
@@ -100,5 +99,6 @@ Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
+Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
