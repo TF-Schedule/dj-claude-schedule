@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:00pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:15pm PT.
 
-David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Dire Straits – Money for Nothing | last aired Nov 16 | 25x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
@@ -100,5 +99,6 @@ Gary Jules – Mad World | last aired Nov 19 | 35x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 19 | 59x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Freddie Mercury – Love Kills | last aired Nov 19 | 9x
+Jeff Beck – Where Were You (Live) | last aired Nov 19 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
