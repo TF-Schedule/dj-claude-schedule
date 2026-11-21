@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:00pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 8:15pm PT.
 
 David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
 Pink Floyd – Have a Cigar | last aired Nov 16 | 20x
@@ -18,7 +18,6 @@ Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Losing Faith | last aired Nov 16 | 9x
 Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
-Little River Band – Cool Change | last aired Nov 16 | 17x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 16 | 27x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
 Toto – Africa | last aired Nov 16 | 94x
@@ -76,7 +75,6 @@ Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
 Underscores – Do It | last aired Nov 18 | 8x
 The White Stripes – Seven Nation Army | last aired Nov 18 | 37x
-Andrés Calamaro – Flaca | last aired Nov 18 | 35x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 18 | 17x
@@ -100,5 +98,7 @@ Electric Light Orchestra – Mr. Blue Sky | last aired Nov 19 | 54x
 Big Foot Mama – Led s severa | last aired Nov 19 | 4x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 19 | 8x
 Kim Carnes – More Love | last aired Nov 19 | 21x
+Michael Damian – Rock On | last aired Nov 19 | 10x
+Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
