@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:15pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:30pm PT.
 
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 New Order – True Faith | last aired Nov 16 | 22x
@@ -15,7 +15,6 @@ Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
-Jan Hammer – Crockett's Theme | last aired Nov 18 | 29x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
@@ -100,5 +99,6 @@ Backstreet Boys – I Want It That Way | last aired Nov 21 | 17x
 Tabu – Dobra Vila | last aired Nov 21 | 2x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 21 | 28x
 Lady Gaga – Just Dance | last aired Nov 21 | 21x
+Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
