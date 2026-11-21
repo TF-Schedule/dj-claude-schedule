@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 9:45pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 10:00pm PT.
 
-David Bowie – Let's Dance (2018 Remaster) | last aired Nov 16 | 28x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Dire Straits – Money for Nothing | last aired Nov 16 | 25x
@@ -49,7 +48,6 @@ Journey – Lights (Album Version) | last aired Nov 18 | 19x
 John Mayer – New Light | last aired Nov 18 | 191x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 18 | 26x
 Fito Páez – El amor después del amor | last aired Nov 18 | 29x
-Journey – Don't Stop Believin' (Album Version) | last aired Nov 18 | 26x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
 Caifanes – Afuera | last aired Nov 18 | 13x
@@ -100,5 +98,7 @@ Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Gary Jules – Mad World | last aired Nov 19 | 35x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 19 | 59x
+Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
+Freddie Mercury – Love Kills | last aired Nov 19 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
