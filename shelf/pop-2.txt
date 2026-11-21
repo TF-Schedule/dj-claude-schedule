@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:45pm PT.
 
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
@@ -28,7 +28,6 @@ Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
 Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
-Chappell Roan – Pink Pony Club | last aired Nov 18 | 52x
 Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
@@ -100,5 +99,6 @@ Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last a
 Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
 Jan Hammer – Crockett's Theme | last aired Nov 21 | 30x
 Tears For Fears – Mad World | last aired Nov 21 | 33x
+TV Girl – Hate Yourself | last aired Nov 21 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
