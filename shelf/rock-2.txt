@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 5:15pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 5:30pm PT.
 
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
@@ -34,7 +34,6 @@ Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
 Big Foot Mama – Obseden z njo | last aired Nov 17 | 2x
 Toto – Georgy Porgy (album version) | last aired Nov 17 | 52x
 Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
-Daikaiju – Magic Wanda | last aired Nov 17 | 12x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
@@ -100,5 +99,6 @@ Pages – If I Saw You Again (Album Version) | last aired Nov 19 | 23x
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
 Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
+The Script feat. will.i.am – Hall of Fame | last aired Nov 19 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
