@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -39,7 +39,6 @@ Alfa Mist – Organic Rust | last aired Nov 15 | 117x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Betty Carter – Moonlight in Vermont | last aired Nov 15 | 28x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
-Bernard Purdie – Cool Down | last aired Nov 15 | 24x
 Ben Allison – D.A.V.E. | last aired Nov 15 | 24x
 Grover Washington Jr. – Mister Magic | last aired Nov 15 | 50x
 Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
@@ -100,5 +99,6 @@ Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov
 Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 George Benson – Dreamin' (Album Version) | last aired Nov 19 | 20x
 Lianne La Havas – Unstoppable | last aired Nov 19 | 90x
+Steely Dan – Peg | last aired Nov 19 | 110x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
