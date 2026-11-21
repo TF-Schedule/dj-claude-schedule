@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:15pm PT.
 
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
@@ -61,7 +61,6 @@ JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Wir Sind Helden – Denkmal | last aired Nov 19 | 23x
-Depeche Mode – Just Can't Get Enough | last aired Nov 19 | 16x
 Backstreet Boys – I Want It That Way | last aired Nov 19 | 16x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 Glass Animals – Life Itself | last aired Nov 19 | 25x
@@ -100,5 +99,6 @@ Cuco – One and Only | last aired Nov 20 | 26x
 Jvke – golden hour | last aired Nov 20 | 15x
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
+Khalid – momentary lovers | last aired Nov 20 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

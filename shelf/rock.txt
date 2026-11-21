@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:00pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:15pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -12,7 +12,6 @@ Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Oct 23 | 23x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
 From Fall to Spring – DRAW THE LINE | last aired Oct 23 | 1x
 Iron Mountain – Enthralldom | last aired Oct 23 | 6x
-Kenny Loggins – Footloose (From "Footloose" Soundtrack) | last aired Oct 24 | 34x
 Laibach – The Whistleblowers | last aired Oct 25 | 20x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
 Rio Reiser – Für immer und dich (Album Version) | last aired Oct 26 | 2x
@@ -100,5 +99,6 @@ The Beatles – Strawberry Fields Forever | last aired Nov 15 | 28x
 T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
 Enjambre – Vida En El Espejo | last aired Nov 16 | 23x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
+Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
