@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 2:30am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 2:45am PT.
 
-Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
@@ -100,5 +99,6 @@ Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Gorillaz – Hong Kong | last aired Nov 19 | 29x
+Visage – Fade To Grey | last aired Nov 19 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

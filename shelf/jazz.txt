@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
-Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 11 | 126x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Sun Ra – Images | last aired Nov 12 | 30x
@@ -61,7 +60,6 @@ Bonobo – Terrapin | last aired Nov 17 | 142x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 17 | 45x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
-Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 17 | 28x
 Mary Halvorson – About Ghosts | last aired Nov 17 | 20x
 Masego – Tadow | last aired Nov 17 | 74x
 Herbie Hancock – Chameleon | last aired Nov 17 | 31x
@@ -100,5 +98,7 @@ Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 19 | 29x
 Natalie Cole – At Last | last aired Nov 19 | 13x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 19 | 102x
+Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 19 | 107x
+Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

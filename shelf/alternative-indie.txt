@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:30am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -17,7 +17,6 @@ The 1975 – Robbers | last aired Oct 24 | 20x
 The xx – Intro | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 LP – Lost on You | last aired Oct 25 | 17x
-Child Seat – Hyperphantasia | last aired Oct 26 | 7x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – You | last aired Oct 28 | 14x
@@ -100,5 +99,6 @@ New Found Glory – My Friends Over You | last aired Nov 16 | 7x
 Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
+Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
