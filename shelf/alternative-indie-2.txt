@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:30am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:45am PT.
 
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
@@ -7,7 +7,6 @@ MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
 David Sylvian – Darkest Dreaming | last aired Nov 17 | 14x
-David Byrne – Everybody's Coming to My House (Live) | last aired Nov 17 | 7x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
@@ -59,7 +58,6 @@ Radiohead – Weird Fishes / Arpeggi | last aired Nov 18 | 324x
 R.E.M. – Endgame | last aired Nov 18 | 14x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
-Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 18 | 22x
 Suede – Animal Nitrate | last aired Nov 18 | 9x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Radiohead – Paranoid Android | last aired Nov 18 | 26x
@@ -100,5 +98,7 @@ Silverchair – Ana's Song (Open Fire) | last aired Nov 19 | 14x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 19 | 19x
 Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
+THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
+Foo Fighters – Everlong | last aired Nov 19 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
