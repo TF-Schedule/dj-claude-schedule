@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:00pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:15pm PT.
 
 Tycho – Awake | last aired Nov 16 | 110x
 Massive Attack – Protection | last aired Nov 16 | 43x
@@ -10,7 +10,6 @@ Morcheeba – Trigger Hippie | last aired Nov 16 | 63x
 Sneaker Pimps – 6 Underground | last aired Nov 16 | 28x
 Röyksopp – Eple | last aired Nov 16 | 40x
 Hammock – Tape Recorder | last aired Nov 16 | 134x
-Eluvium – Surrounded by Illusion | last aired Nov 16 | 34x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 16 | 101x
 Aphex Twin – Avril 14th | last aired Nov 17 | 91x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 17 | 87x
@@ -100,5 +99,6 @@ The Cinematic Orchestra – To Build A Home | last aired Nov 20 | 84x
 Lamb – Bonfire | last aired Nov 20 | 36x
 Marconi Union – Weightless | last aired Nov 20 | 100x
 Lamb – Gorecki | last aired Nov 20 | 33x
+Slowdive – Erik's Song (Album Version) | last aired Nov 20 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
