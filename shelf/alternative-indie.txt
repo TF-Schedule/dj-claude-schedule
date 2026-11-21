@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:30pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -14,7 +14,6 @@ The xx – Intro | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
-The Jetzons – You | last aired Oct 28 | 14x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Siouxsie & The Banshees – Spellbound | last aired Oct 30 | 5x
 Bauhaus – Ziggy Stardust | last aired Oct 30 | 19x
@@ -27,7 +26,6 @@ Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
-Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 12x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
@@ -100,5 +98,7 @@ R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
+Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
+Gorillaz – Souk Eye | last aired Nov 17 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
