@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 7:30am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 7:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -7,7 +7,6 @@ Patti Smith Group – Dancing Barefoot | last aired Oct 22 | 1x
 Guns N' Roses – Sweet Child O' Mine | last aired Oct 23 | 28x
 Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
-Lou Reed – Perfect Day | last aired Oct 29 | 3x
 Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
@@ -100,5 +99,6 @@ Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Jack Johnson – Better Together | last aired Nov 19 | 152x
 Sufjan Stevens – Mystery of Love | last aired Nov 19 | 107x
+Barbara Pravi – Voilà | last aired Nov 19 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
