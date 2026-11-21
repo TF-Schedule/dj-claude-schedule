@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -89,7 +89,6 @@ Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
 Judy Collins – Bread and Roses | last aired Nov 18 | 28x
 Phoebe Bridgers – Smoke Signals | last aired Nov 18 | 61x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 18 | 12x
-Sophie Hunger – Le vent nous portera | last aired Nov 18 | 28x
 Lord Huron – Life Is Strange | last aired Nov 18 | 53x
 Grand Corps Malade – Mais je t'aime | last aired Nov 18 | 11x
 Amália Rodrigues – Barco negro | last aired Nov 18 | 39x
@@ -100,5 +99,6 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 18 | 25x
 Leonard Cohen – Treaty | last aired Nov 18 | 12x
 Nick Drake – Pink Moon | last aired Nov 18 | 106x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 18 | 18x
+Leonard Cohen – Famous Blue Raincoat | last aired Nov 18 | 46x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

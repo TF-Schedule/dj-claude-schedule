@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00am PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:15am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -40,7 +40,6 @@ Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
-Dorian Electra – Bizarre Love Triangle | last aired Nov 9 | 5x
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 9 | 8x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 66x
 Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
@@ -100,5 +99,6 @@ Tycho – Awake | last aired Nov 16 | 110x
 Massive Attack – Protection | last aired Nov 16 | 43x
 Tycho – A Walk | last aired Nov 16 | 110x
 Massive Attack – Angel | last aired Nov 16 | 67x
+Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 16 | 53x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
