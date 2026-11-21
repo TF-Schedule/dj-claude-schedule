@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:00pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:15pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -35,7 +35,6 @@ George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
 Marc Rebillet – Late To Work | last aired Nov 8 | 9x
 Bootsy Collins – Psychoticbumpschool (LP Version) | last aired Nov 8 | 48x
-Patti LaBelle – On My Own | last aired Nov 9 | 26x
 The Weeknd – After Hours | last aired Nov 9 | 18x
 Prince – Purple Rain (2015 Paisley Park Remaster) | last aired Nov 10 | 21x
 Lawrence – 23 | last aired Nov 10 | 21x
@@ -100,5 +99,6 @@ Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 17 | 49x
 Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 17 | 35x
 Lou Rawls – At Last | last aired Nov 17 | 14x
 Marvin Gaye – Wholy Holy | last aired Nov 17 | 22x
+Marvin Gaye – Save The Children | last aired Nov 17 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
