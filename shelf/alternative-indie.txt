@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -9,7 +9,6 @@ The 1975 – Jesus Christ 2005 God Bless America | last aired Oct 20 | 13x
 The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
 Björk – Venus As A Boy (Live) | last aired Oct 22 | 13x
-Patti Smith – Gloria : In Excelsis Deo - Gloria | last aired Oct 22 | 1x
 The 1975 – Robbers | last aired Oct 24 | 20x
 The xx – Intro | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
@@ -100,5 +99,6 @@ Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
+The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
