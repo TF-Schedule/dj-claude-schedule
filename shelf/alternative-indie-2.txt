@@ -1,7 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:15am PT.
 
-Pixies – Ana | last aired Nov 17 | 30x
-R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 The Cranberries – Dreams | last aired Nov 17 | 35x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
@@ -78,7 +76,6 @@ Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
 THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
 Foo Fighters – Everlong | last aired Nov 19 | 36x
-The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 19 | 53x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
@@ -100,5 +97,8 @@ Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 19 | 7x
 Cigarettes After Sex – Apocalypse | last aired Nov 20 | 108x
 Slowdive – Alison | last aired Nov 20 | 43x
 Beach House – Bluebird | last aired Nov 20 | 56x
+Sigur Rós – Hoppípolla | last aired Nov 20 | 90x
+Cyndi Lauper – All Through the Night | last aired Nov 20 | 65x
+Shearwater – Empty Orchestra | last aired Nov 20 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
