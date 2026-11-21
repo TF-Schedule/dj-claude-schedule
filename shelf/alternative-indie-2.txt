@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:15pm PT.
 
 Beck – Devils Haircut | last aired Nov 17 | 28x
 Blur – Song 2 | last aired Nov 17 | 19x
@@ -23,7 +23,6 @@ Cocteau Twins – Ivo | last aired Nov 18 | 24x
 The Killers – Mr. Brightside | last aired Nov 18 | 162x
 The Clash – London Calling | last aired Nov 18 | 136x
 Hard Life – daydreams | last aired Nov 18 | 23x
-Julien Baker – Hardline | last aired Nov 18 | 36x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 18 | 24x
 Pale Saints – Kinky Love | last aired Nov 18 | 24x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
@@ -100,5 +99,6 @@ Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 20 | 37x
 Foster The People – Sit Next to Me | last aired Nov 20 | 18x
 Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
+Saint Etienne – Only Love Can Break Your Heart | last aired Nov 20 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -42,7 +42,6 @@ Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 1x
 Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
-Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
@@ -100,5 +99,6 @@ Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
+New Order – True Faith | last aired Nov 16 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
