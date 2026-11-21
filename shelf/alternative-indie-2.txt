@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:30am PT.
 
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
@@ -53,7 +53,6 @@ Pale Saints – Kinky Love | last aired Nov 18 | 24x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Pearl Jam – Yellow Ledbetter | last aired Nov 18 | 34x
 Ramones – Blitzkrieg Bop | last aired Nov 18 | 13x
-Radiohead – Weird Fishes / Arpeggi | last aired Nov 18 | 324x
 R.E.M. – Endgame | last aired Nov 18 | 14x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
@@ -100,5 +99,6 @@ THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
 Foo Fighters – Everlong | last aired Nov 19 | 36x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 19 | 53x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
+Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
