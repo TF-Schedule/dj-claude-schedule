@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:31pm PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 7:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -20,7 +20,6 @@ Player – Baby Come Back | last aired Oct 26 | 43x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
 The Good, The Bad & The Queen – History Song | last aired Oct 28 | 7x
 Rush – Tom Sawyer | last aired Oct 29 | 24x
-Zoé – Labios Rotos (Live 8.11.14) | last aired Oct 29 | 19x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 David Soul – Silver Lady | last aired Oct 29 | 3x
 Queen – The March of the Black Queen (2026 Mix) | last aired Oct 30 | 20x
@@ -100,5 +99,6 @@ T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
 Enjambre – Vida En El Espejo | last aired Nov 16 | 23x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 Pink Floyd – Wish You Were Here | last aired Nov 16 | 20x
+David Bowie – Rebel Rebel | last aired Nov 16 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

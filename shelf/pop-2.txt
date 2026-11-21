@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:31pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 7:45pm PT.
 
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
@@ -31,7 +31,6 @@ Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
-Mariya Takeuchi – Plastic Love | last aired Nov 18 | 30x
 Jan Hammer – Crockett's Theme | last aired Nov 18 | 29x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
@@ -100,5 +99,6 @@ Jvke – golden hour | last aired Nov 20 | 15x
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
 Khalid – momentary lovers | last aired Nov 20 | 22x
+Tom Konkle – When Did Love Become A Test | last aired Nov 20 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
