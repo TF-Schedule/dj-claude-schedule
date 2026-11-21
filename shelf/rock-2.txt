@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:30am PT.
 
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
@@ -48,7 +48,6 @@ Fito Páez – El amor después del amor | last aired Nov 18 | 29x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
 Caifanes – Afuera | last aired Nov 18 | 13x
-Café Tacvba – Eres (Album Version) | last aired Nov 18 | 39x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 Juli – Perfekte Welle | last aired Nov 18 | 13x
@@ -100,5 +99,6 @@ Jeff Beck – Where Were You (Live) | last aired Nov 19 | 16x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 19 | 10x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 19 | 200x
 Crowded House – Don't Dream It's Over | last aired Nov 19 | 14x
+Ideal – Blaue Augen | last aired Nov 19 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

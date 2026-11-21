@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -45,7 +45,6 @@ Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 1x
 Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
-Apo Hiking Society – When I Met You | last aired Oct 31 | 11x
 Hollie Col – The Gambler | last aired Nov 1 | 1x
 Olivia Rodrigo – the cure | last aired Nov 3 | 2x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
@@ -100,5 +99,6 @@ Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
+Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
