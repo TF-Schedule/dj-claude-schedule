@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:30pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 5:45pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -86,7 +86,6 @@ Tame Impala – Is It True | last aired Nov 16 | 20x
 Khruangbin – People Everywhere ii | last aired Nov 16 | 67x
 Toni Braxton – Un-Break My Heart | last aired Nov 17 | 30x
 Moby – In My Heart | last aired Nov 17 | 2x
-Minnie Riperton – Lovin' You | last aired Nov 17 | 83x
 Michael Jackson – You Are Not Alone | last aired Nov 17 | 290x
 Stevie Wonder – I Wish | last aired Nov 17 | 28x
 Marvin Gaye – What's Going On | last aired Nov 17 | 293x
@@ -100,5 +99,6 @@ Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 17 | 35
 Lou Rawls – At Last | last aired Nov 17 | 14x
 Marvin Gaye – Wholy Holy | last aired Nov 17 | 22x
 Marvin Gaye – Save The Children | last aired Nov 17 | 27x
+Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 18 | 135x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
