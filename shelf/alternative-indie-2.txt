@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:30am PT.
 
-Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
 Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
@@ -100,5 +99,6 @@ Soundgarden – Fell On Black Days (Album Version) | last aired Nov 19 | 7x
 Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
 twenty one pilots – Stressed Out | last aired Nov 19 | 25x
 Oasis – Live Forever | last aired Nov 19 | 15x
+Beach House – Space Song | last aired Nov 19 | 123x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 4:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 4:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -39,7 +39,6 @@ Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 ABBA – I Wonder (Departure) | last aired Nov 7 | 16x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
-Billie Eilish – BIRDS OF A FEATHER | last aired Nov 8 | 248x
 Virus – Imágenes Paganas | last aired Nov 8 | 15x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
@@ -100,5 +99,6 @@ Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
+Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
