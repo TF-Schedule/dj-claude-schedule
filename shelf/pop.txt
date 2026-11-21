@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 8:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 8:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -29,7 +29,6 @@ P!nk – What About Us | last aired Oct 20 | 3x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Oct 21 | 5x
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
-Tabu – Dobra Vila | last aired Oct 22 | 1x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
@@ -100,5 +99,6 @@ Still Woozy – Get Down | last aired Nov 15 | 8x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
+Air – La femme d'argent | last aired Nov 16 | 75x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
