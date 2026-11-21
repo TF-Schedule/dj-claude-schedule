@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -17,7 +17,6 @@ The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
 Rio Reiser – Für immer und dich (Album Version) | last aired Oct 26 | 2x
 Survivor – Eye of the Tiger | last aired Oct 26 | 24x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
-The Good, The Bad & The Queen – History Song | last aired Oct 28 | 7x
 Rush – Tom Sawyer | last aired Oct 29 | 24x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 David Soul – Silver Lady | last aired Oct 29 | 3x
@@ -100,5 +99,6 @@ Pink Floyd – Have a Cigar | last aired Nov 16 | 20x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 16 | 28x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
+Dire Straits – Money for Nothing | last aired Nov 16 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
