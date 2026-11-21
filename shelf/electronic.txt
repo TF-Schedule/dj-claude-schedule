@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:45am PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00am PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -52,7 +52,6 @@ Erik Wøllo – Computerlove | last aired Nov 10 | 15x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 Dutyyaknow – Close in the Distance (FFXIV Endwalker) [Synthwave] | last aired Nov 11 | 5x
 Cornelius – Star Fruit Surf Rider (Damon Albarn Remix) | last aired Nov 11 | 37x
-Polar Sun – Caribou | last aired Nov 11 | 34x
 Anne Clark – Hope Road (A-Z Route) | last aired Nov 11 | 6x
 CHVRCHES – Clearest Blue | last aired Nov 11 | 20x
 Anne Clark – Our Darkness | last aired Nov 11 | 11x
@@ -100,5 +99,6 @@ Massive Attack – Teardrop | last aired Nov 16 | 100x
 Tycho – Awake | last aired Nov 16 | 110x
 Massive Attack – Protection | last aired Nov 16 | 43x
 Tycho – A Walk | last aired Nov 16 | 110x
+Massive Attack – Angel | last aired Nov 16 | 67x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

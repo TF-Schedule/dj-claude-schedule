@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:45am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Sep 22 | 1x
@@ -37,7 +37,6 @@ Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 2 | 
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 4 | 8x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 5 | 13x
-Chris De Burgh – The Getaway | last aired Nov 6 | 11x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 7 | 34x
 Steve Miller Band – The Joker | last aired Nov 7 | 12x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
@@ -58,7 +57,6 @@ Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 11 | 29x
 Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
-Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 11 | 36x
 Jeff Lynne – At Last | last aired Nov 12 | 5x
 Supertramp – Even In The Quietest Moments | last aired Nov 12 | 25x
 Smash Mouth – Walkin' On The Sun | last aired Nov 12 | 14x
@@ -100,5 +98,7 @@ David Bowie – Let's Dance (2018 Remaster) | last aired Nov 16 | 28x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Dire Straits – Money for Nothing | last aired Nov 16 | 25x
+Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
+Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

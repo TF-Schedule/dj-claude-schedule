@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 12:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:00am PT.
 
-Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
@@ -100,5 +99,6 @@ Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
 THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
 Foo Fighters – Everlong | last aired Nov 19 | 36x
+The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 19 | 53x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

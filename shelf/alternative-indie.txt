@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 12:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 1:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -72,7 +72,6 @@ Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 
 Björk – Army Of Me | last aired Nov 12 | 21x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
-Ednaswap – Torn | last aired Nov 12 | 18x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Geowulf – Saltwater | last aired Nov 13 | 18x
@@ -100,5 +99,6 @@ Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) |
 New Found Glory – My Friends Over You | last aired Nov 16 | 7x
 Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
+Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
