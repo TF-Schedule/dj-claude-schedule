@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:00am PT.
 
-The Cranberries – Dreams | last aired Nov 17 | 35x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
@@ -64,7 +63,6 @@ Patrick Watson – Sit Down Beside Me | last aired Nov 19 | 14x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 19 | 79x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 Alabama 3 – Thank you | last aired Nov 19 | 10x
-Bleachers – I Wanna Get Better | last aired Nov 19 | 178x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Modest Mouse – Float On | last aired Nov 19 | 9x
 Michael Hutchence – Slide Away | last aired Nov 19 | 20x
@@ -100,5 +98,7 @@ Beach House – Bluebird | last aired Nov 20 | 56x
 Sigur Rós – Hoppípolla | last aired Nov 20 | 90x
 Cyndi Lauper – All Through the Night | last aired Nov 20 | 65x
 Shearwater – Empty Orchestra | last aired Nov 20 | 18x
+TV Girl – Loving Machine | last aired Nov 20 | 21x
+No Vacation – Waltzing Back | last aired Nov 20 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
