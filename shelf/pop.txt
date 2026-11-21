@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:49pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -21,7 +21,6 @@ Neuro-sama – Colorful Array | last aired Oct 17 | 6x
 The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
-Loreena McKennitt – The Holly and the Ivy (Live) | last aired Oct 19 | 1x
 P!nk – Eventually | last aired Oct 19 | 3x
 Ashley Tisdale – Bop to the Top | last aired Oct 19 | 5x
 P!nk – So What | last aired Oct 20 | 8x
@@ -100,5 +99,6 @@ Air – La femme d'argent | last aired Nov 16 | 75x
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 New Order – True Faith | last aired Nov 16 | 22x
+New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:49pm PT.
 
-New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 MIKA – Grace Kelly | last aired Nov 17 | 26x
@@ -100,5 +99,6 @@ Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
 Jan Hammer – Crockett's Theme | last aired Nov 21 | 30x
 Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
+Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
