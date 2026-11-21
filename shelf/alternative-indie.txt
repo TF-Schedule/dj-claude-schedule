@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:15pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -13,7 +13,6 @@ The 1975 – Robbers | last aired Oct 24 | 20x
 The xx – Intro | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
-The Smashing Pumpkins – 1979 | last aired Oct 28 | 30x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Siouxsie & The Banshees – Spellbound | last aired Oct 30 | 5x
 Bauhaus – Ziggy Stardust | last aired Oct 30 | 19x
@@ -100,5 +99,6 @@ Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
+Beck – Devils Haircut | last aired Nov 17 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
