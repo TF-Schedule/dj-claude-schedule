@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 5:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 5:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -31,7 +31,6 @@ Men At Work – Down Under | last aired Nov 1 | 8x
 Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
-Men At Work – Overkill | last aired Nov 3 | 17x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
 Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 5 | 12x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
@@ -88,7 +87,6 @@ David Bowie – Slip Away | last aired Nov 16 | 20x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 16 | 15x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
 Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
-Joker Out – Novi Val | last aired Nov 16 | 23x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Nov 16 | 20x
 New Found Glory – My Friends Over You | last aired Nov 16 | 7x
 Sigur Rós – Starálfur | last aired Nov 16 | 25x
@@ -100,5 +98,7 @@ MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
+Missio – I See You | last aired Nov 17 | 8x
+Jeff Buckley – Grace | last aired Nov 17 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
