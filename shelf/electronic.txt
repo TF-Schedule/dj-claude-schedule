@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:15pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 11:30pm PT.
 
 Neuro-sama – NEVER | last aired Aug 30 | 4x
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
@@ -50,7 +50,6 @@ Suzanne Ciani – Oceanium | last aired Nov 10 | 80x
 Charli XCX – 360 | last aired Nov 10 | 146x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 10 | 45x
 Erik Wøllo – Computerlove | last aired Nov 10 | 15x
-Christian Löffler – Lid | last aired Nov 11 | 41x
 Haute & Freddy – Dance The Pain Away | last aired Nov 11 | 10x
 Dutyyaknow – Close in the Distance (FFXIV Endwalker) [Synthwave] | last aired Nov 11 | 5x
 Cornelius – Star Fruit Surf Rider (Damon Albarn Remix) | last aired Nov 11 | 37x
@@ -72,7 +71,6 @@ Björk – Hyperballad | last aired Nov 12 | 27x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
 Synergy – Chateau | last aired Nov 12 | 31x
 Sneaker Pimps – How Do | last aired Nov 12 | 15x
-Fennesz – Endless Summer | last aired Nov 12 | 86x
 Akiaura – Sleepwalker | last aired Nov 12 | 9x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
 HYD – Freak | last aired Nov 13 | 13x
@@ -100,5 +98,7 @@ Mr.Kitty – After Dark | last aired Nov 16 | 12x
 Smoke City – Underwater Love | last aired Nov 16 | 7x
 Portishead – Glory Box (Album Version) | last aired Nov 16 | 86x
 Massive Attack – Teardrop | last aired Nov 16 | 100x
+Tycho – Awake | last aired Nov 16 | 110x
+Massive Attack – Protection | last aired Nov 16 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
