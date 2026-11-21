@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 10:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 10:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -39,7 +39,6 @@ Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 Iggy Pop – Mass Production | last aired Nov 9 | 22x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
-Nine Inch Nails – The Hand That Feeds | last aired Nov 9 | 12x
 Nine Inch Nails – Less Than | last aired Nov 10 | 7x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
@@ -100,5 +99,6 @@ Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Losing Faith | last aired Nov 16 | 9x
+Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:00am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:15am PT.
 
-Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Boz Scaggs – Simone (2023 Remaster) | last aired Nov 16 | 27x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
 Toto – Africa | last aired Nov 16 | 94x
@@ -100,5 +99,6 @@ Christopher Cross – Sailing | last aired Nov 20 | 58x
 Kenny Loggins – This Is It | last aired Nov 20 | 40x
 Dire Straits – Sultans of Swing | last aired Nov 20 | 86x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 20 | 27x
+Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
