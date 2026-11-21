@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 2:45pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:00pm PT.
 
-Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 16 | 29x
 OneRepublic – I Lived | last aired Nov 16 | 186x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 16 | 24x
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
@@ -100,5 +99,6 @@ Benny Sings – Sailing | last aired Nov 20 | 27x
 Amy Macdonald – This Is The Life | last aired Nov 20 | 24x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 20 | 36x
 Def Leppard – Photograph | last aired Nov 20 | 18x
+Måneskin – ZITTI E BUONI | last aired Nov 20 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
