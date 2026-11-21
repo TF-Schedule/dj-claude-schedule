@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:46am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 4:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -58,8 +58,6 @@ AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 Ultravox – Vienna (2008 Remaster) | last aired Nov 11 | 29x
 Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 DIIV – Doused | last aired Nov 11 | 32x
-Montaigne – I Am Not an End | last aired Nov 11 | 6x
-Brijean – Counting Sheep | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 12 | 11x
@@ -100,5 +98,7 @@ Coldplay – Yellow | last aired Nov 16 | 22x
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
+MGMT – Little Dark Age | last aired Nov 17 | 5x
+Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
