@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:45am PT.
 
 Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
@@ -47,7 +47,6 @@ Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Wir Sind Helden – Denkmal | last aired Nov 19 | 23x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
-Lady Gaga – Just Dance | last aired Nov 19 | 20x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
 Greg Shilling – Shampoo | last aired Nov 19 | 8x
 ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
@@ -100,5 +99,6 @@ Mercury Rev – Little Rhymes | last aired Nov 21 | 11x
 EMF – Unbelievable | last aired Nov 21 | 1x
 Hollie Col – The Gambler | last aired Nov 21 | 2x
 Backstreet Boys – I Want It That Way | last aired Nov 21 | 16x
+Tabu – Dobra Vila | last aired Nov 21 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

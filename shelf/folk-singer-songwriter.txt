@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 9:30am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 9:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -42,7 +42,6 @@ Grouper – Holding | last aired Nov 15 | 117x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
-Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 16 | 22x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
@@ -63,7 +62,6 @@ Tori Amos – Winter | last aired Nov 17 | 16x
 Mireille Mathieu – Together We're Strong | last aired Nov 17 | 51x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
 Jeff Buckley – Lilac Wine | last aired Nov 17 | 1x
-Led Zeppelin – Going to California (Remaster) | last aired Nov 17 | 25x
 Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 17 | 120x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 17 | 15x
 Mariza – Ó gente da minha terra | last aired Nov 17 | 39x
@@ -100,5 +98,7 @@ Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Jack Johnson – Better Together | last aired Nov 19 | 152x
 Sufjan Stevens – Mystery of Love | last aired Nov 19 | 107x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
+Carole King – So Far Away | last aired Nov 19 | 46x
+Scorpions – Still Loving You (2011 Version) | last aired Nov 19 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
