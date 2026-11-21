@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:45am PT.
 
-Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
 Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
@@ -100,5 +99,6 @@ Mariya Takeuchi – Plastic Love | last aired Nov 20 | 31x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Yazoo – Only You (Remastered 2008) | last aired Nov 20 | 19x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 33x
+The Chills – Pink Frost | last aired Nov 20 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
