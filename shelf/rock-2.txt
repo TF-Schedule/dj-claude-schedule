@@ -1,6 +1,5 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:45am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 5:00am PT.
 
-Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
@@ -34,7 +33,6 @@ Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 17 | 13x
 Loverboy – Lovin' Every Minute of It | last aired Nov 17 | 8x
 David Bowie – Space Oddity | last aired Nov 17 | 119x
-Måneskin – Torna a casa | last aired Nov 17 | 22x
 Mark Hollis – The Colour Of Spring | last aired Nov 17 | 30x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Nov 17 | 17x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
@@ -100,5 +98,7 @@ Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Lindsey Buckingham – Trouble | last aired Nov 19 | 21x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 4x
+Tom Konkle – Camouflage (Album Mix) | last aired Nov 19 | 11x
+Gustavo Cerati – Crimen | last aired Nov 20 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
