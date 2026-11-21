@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 4:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 20, 4:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -49,7 +49,6 @@ Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Petra Haden – Moon River | last aired Nov 15 | 17x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 Bonobo – Kong | last aired Nov 16 | 85x
-Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 16 | 27x
 The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
@@ -100,5 +99,6 @@ Steely Dan – Home At Last | last aired Nov 19 | 34x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 19 | 74x
 Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
+Nina Simone – Wild Is The Wind | last aired Nov 19 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
