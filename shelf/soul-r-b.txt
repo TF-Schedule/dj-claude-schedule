@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:15am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 2:30am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -77,7 +77,6 @@ Stevie Wonder – Sir Duke | last aired Nov 16 | 34x
 The Temptations – Papa Was A Rollin' Stone (Full Version) | last aired Nov 16 | 58x
 Rufus – Ain't Nobody (Album Version) | last aired Nov 16 | 91x
 Lauryn Hill – Ex-Factor | last aired Nov 16 | 43x
-Donny Hathaway – Jealous Guy (Live) | last aired Nov 16 | 20x
 Khruangbin – Time (You and I) | last aired Nov 16 | 99x
 Tame Impala – Is It True | last aired Nov 16 | 20x
 Khruangbin – People Everywhere ii | last aired Nov 16 | 67x
@@ -92,7 +91,6 @@ Prince – Sometimes It Snows in April (LP Version) | last aired Nov 17 | 44x
 Marvin Gaye – Mercy Mercy Me (The Ecology) | last aired Nov 17 | 29x
 Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 17 | 49x
 Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 17 | 35x
-Lou Rawls – At Last | last aired Nov 17 | 14x
 Marvin Gaye – Save The Children | last aired Nov 17 | 27x
 Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 18 | 135x
 Maxwell – Pretty Wings (uncut) | last aired Nov 18 | 120x
@@ -100,5 +98,7 @@ The Isley Brothers – Between the Sheets | last aired Nov 18 | 116x
 Club Nouveau – Lean On Me | last aired Nov 18 | 25x
 Janet Jackson – Any Time, Any Place | last aired Nov 18 | 30x
 James Brown – I Got You (I Feel Good) | last aired Nov 18 | 35x
+Leon Bridges – Coming Home | last aired Nov 18 | 116x
+Remi Wolf – Disco Man | last aired Nov 18 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
