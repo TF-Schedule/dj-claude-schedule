@@ -1,10 +1,9 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 8:15am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 8:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Animals – The House of the Rising Sun | last aired Sep 29 | 4x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
-Genesis – Many Too Many (2007 Remaster) | last aired Oct 21 | 1x
 U2 – Beautiful Day (Remastered 2020) | last aired Oct 23 | 7x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Oct 23 | 23x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
@@ -12,7 +11,6 @@ From Fall to Spring – DRAW THE LINE | last aired Oct 23 | 1x
 Iron Mountain – Enthralldom | last aired Oct 23 | 6x
 Laibach – The Whistleblowers | last aired Oct 25 | 20x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
-Rio Reiser – Für immer und dich (Album Version) | last aired Oct 26 | 2x
 Survivor – Eye of the Tiger | last aired Oct 26 | 24x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
 Rush – Tom Sawyer | last aired Oct 29 | 24x
@@ -100,5 +98,7 @@ Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
+Fleetwood Mac – Sara | last aired Nov 16 | 30x
+Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
