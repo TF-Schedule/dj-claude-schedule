@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 6:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 6:45pm PT.
 
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
@@ -18,7 +18,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 Tove Lo – No One Dies From Love | last aired Nov 17 | 186x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
-Tom Konkle – When Did Love Become A Test | last aired Nov 17 | 6x
 MIKA – Grace Kelly | last aired Nov 17 | 26x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 17 | 33x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
@@ -100,5 +99,6 @@ TilaR – More Than A Friend | last aired Nov 20 | 5x
 Cuco – One and Only | last aired Nov 20 | 26x
 Jvke – golden hour | last aired Nov 20 | 15x
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
+The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
