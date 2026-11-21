@@ -1,6 +1,5 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:30pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 20, 11:45pm PT.
 
-Tycho – A Walk | last aired Nov 16 | 110x
 Massive Attack – Angel | last aired Nov 16 | 67x
 Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 16 | 53x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 16 | 138x
@@ -100,5 +99,6 @@ Lamb – Gorecki | last aired Nov 20 | 33x
 Slowdive – Erik's Song (Album Version) | last aired Nov 20 | 41x
 Jon Hopkins – Small Memory | last aired Nov 20 | 25x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 20 | 187x
+Floating Points – Last Bloom | last aired Nov 20 | 100x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
