@@ -1,4 +1,4 @@
-Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:30am PT.
+Rock – 258 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 3:45am PT.
 
 Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
@@ -24,7 +24,6 @@ Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
-The Strokes – Last Nite | last aired Nov 17 | 82x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 17 | 34x
@@ -62,7 +61,6 @@ Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
-The White Stripes – Seven Nation Army | last aired Nov 18 | 37x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 18 | 17x
@@ -100,5 +98,7 @@ Pink Floyd – Comfortably Numb | last aired Nov 19 | 15x
 Roxette – The Look | last aired Nov 19 | 16x
 Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Lindsey Buckingham – Trouble | last aired Nov 19 | 21x
+Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
+Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

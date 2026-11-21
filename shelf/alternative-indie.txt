@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:30am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 3:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -80,7 +80,6 @@ Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
 Sting – Fragile | last aired Nov 15 | 39x
-Alice In Chains – Man in the Box | last aired Nov 15 | 11x
 The National – About Today (2021 Remaster) | last aired Nov 15 | 193x
 Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
@@ -100,5 +99,6 @@ Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
 Phoebe Bridgers – Kyoto | last aired Nov 16 | 23x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
+Coldplay – Talk | last aired Nov 17 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
