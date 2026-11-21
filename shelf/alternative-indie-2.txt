@@ -1,11 +1,10 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 1:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 2:00am PT.
 
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 17 | 18x
-David Sylvian – Darkest Dreaming | last aired Nov 17 | 14x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
 Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
@@ -53,7 +52,6 @@ Pale Saints – Kinky Love | last aired Nov 18 | 24x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Pearl Jam – Yellow Ledbetter | last aired Nov 18 | 34x
 Ramones – Blitzkrieg Bop | last aired Nov 18 | 13x
-R.E.M. – Endgame | last aired Nov 18 | 14x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
 Suede – Animal Nitrate | last aired Nov 18 | 9x
@@ -100,5 +98,7 @@ Foo Fighters – Everlong | last aired Nov 19 | 36x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 19 | 53x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
+Muse – Feeling Good | last aired Nov 19 | 25x
+Gorillaz – Hong Kong | last aired Nov 19 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
