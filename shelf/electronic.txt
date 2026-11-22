@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:00am PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:15am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -57,7 +57,6 @@ Susumu Yokota – Saku | last aired Nov 12 | 73x
 Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 12 | 3x
 Smith & Mighty – Same | last aired Nov 12 | 18x
 Ashra – Kazoo | last aired Nov 12 | 28x
-Björk – Hyperballad | last aired Nov 12 | 27x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
 Synergy – Chateau | last aired Nov 12 | 31x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
@@ -100,5 +99,6 @@ Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 18 | 215x
+Camille – Ta douleur | last aired Nov 18 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
