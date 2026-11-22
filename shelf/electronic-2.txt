@@ -1,6 +1,5 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:15pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:30pm PT.
 
-Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
 Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
@@ -100,5 +99,6 @@ Oneohtrix Point Never – Nothing’s Special | last aired Nov 20 | 9x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 21 | 68x
 Portishead – It Could Be Sweet | last aired Nov 21 | 20x
 Polar Sun – Caribou | last aired Nov 21 | 35x
+Dorian Electra – Bizarre Love Triangle | last aired Nov 21 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
