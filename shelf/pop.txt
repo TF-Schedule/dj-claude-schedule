@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -64,7 +64,6 @@ A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 19x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
 The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
 Ferrante & Teicher – Exodus | last aired Nov 12 | 20x
-ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 13 | 45x
 Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
@@ -100,5 +99,6 @@ Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Perpetuum Jazzile – Africa | last aired Nov 18 | 29x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sadie Jean – WYD Now? | last aired Nov 18 | 8x
+Sabrina Carpenter – Taste | last aired Nov 18 | 54x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

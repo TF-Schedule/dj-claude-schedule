@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:00pm PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:15pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -63,7 +63,6 @@ Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Talk Talk – After The Flood | last aired Nov 14 | 33x
-Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 14 | 11x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
@@ -100,5 +99,6 @@ King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
+Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 17 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
