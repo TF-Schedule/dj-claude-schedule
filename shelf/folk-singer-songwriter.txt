@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:15am PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -14,7 +14,6 @@ Ed Maverick – lagunas | last aired Nov 8 | 6x
 Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 8 | 8x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
-John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
@@ -100,5 +99,6 @@ Fleet Foxes – Mykonos | last aired Nov 20 | 121x
 José González – Heartbeats | last aired Nov 20 | 127x
 Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
 Joni Mitchell – A Case of You | last aired Nov 20 | 48x
+Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 20 | 125x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
