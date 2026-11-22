@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 5:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 5:15pm PT.
 
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
@@ -44,7 +44,6 @@ Greg Shilling – Shampoo | last aired Nov 19 | 8x
 ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
-Takako Mamiya – LOVE TRIP | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 19 | 38x
@@ -100,5 +99,6 @@ Jan Hammer – Crockett's Theme | last aired Nov 21 | 30x
 Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
+Chappell Roan – Pink Pony Club | last aired Nov 21 | 52x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
