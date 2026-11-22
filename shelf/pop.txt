@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:00pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -67,7 +67,6 @@ The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 1
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
 Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
-Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 14 | 9x
 Tate McRae – greedy | last aired Nov 14 | 7x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Taste | last aired Nov 18 | 54x
 Soft Cell – Tainted Love | last aired Nov 18 | 25x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 16x
 Leon Larregui – Locos | last aired Nov 18 | 21x
+Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

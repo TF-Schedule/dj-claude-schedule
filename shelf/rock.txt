@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:45pm PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -15,7 +15,6 @@ Rush – Tom Sawyer | last aired Oct 29 | 24x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 David Soul – Silver Lady | last aired Oct 29 | 3x
 Queen – The March of the Black Queen (2026 Mix) | last aired Oct 30 | 20x
-The Beatles – Get Back (2021 Mix) | last aired Oct 30 | 12x
 10,000 Maniacs – Like the Weather | last aired Oct 30 | 7x
 Christopher Cross – I Really Don't Know Anymore (2019 Remaster) | last aired Oct 30 | 12x
 The Doors – Riders on the Storm | last aired Oct 31 | 5x
@@ -100,5 +99,6 @@ King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 17 | 34x
 King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 17 | 13x
 David Bowie – Slow Burn | last aired Nov 17 | 8x
+Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
