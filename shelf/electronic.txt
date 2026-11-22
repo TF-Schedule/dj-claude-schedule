@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:30am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:45am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -47,7 +47,6 @@ Anne Clark – Hope Road (A-Z Route) | last aired Nov 11 | 6x
 CHVRCHES – Clearest Blue | last aired Nov 11 | 20x
 Anne Clark – Our Darkness | last aired Nov 11 | 11x
 Bruce Kaphan – Clouds | last aired Nov 11 | 55x
-Kavinsky – Nightcall | last aired Nov 12 | 22x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 12 | 15x
 Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 12 | 3x
 Smith & Mighty – Same | last aired Nov 12 | 18x
@@ -100,5 +99,6 @@ James Blake – Retrograde | last aired Nov 18 | 73x
 Jungle – Keep Moving | last aired Nov 18 | 57x
 Daft Punk – One More Time | last aired Nov 18 | 152x
 Lemon Jelly – Ramblin' Man | last aired Nov 18 | 45x
+M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 18 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

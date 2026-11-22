@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -17,7 +17,6 @@ P!nk – Family Portrait | last aired Oct 14 | 2x
 Abor & Tynna – Baller | last aired Oct 15 | 3x
 DEEN – Ride On Time | last aired Oct 15 | 9x
 Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired Oct 17 | 5x
-The Chordettes – Mr. Sandman | last aired Oct 17 | 11x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
 P!nk – Eventually | last aired Oct 19 | 3x
@@ -100,5 +99,6 @@ Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
+Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

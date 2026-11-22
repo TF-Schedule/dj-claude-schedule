@@ -20,6 +20,14 @@
   header { padding: 20px 16px 8px; max-width: 1200px; margin: 0 auto; }
   h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -.01em; }
   .sub { color: var(--muted); font-size: 13px; }
+  .pedia { margin: 6px 0 10px; max-width: 520px; }
+  .pedia .lbl { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .pedia .ttl { display: flex; justify-content: space-between; align-items: baseline; margin: 2px 0 6px; }
+  .pedia .ttl b { font-weight: 600; font-size: 15px; }
+  .pedia .ttl span { color: var(--muted); font-size: 13px; }
+  .pedia .bar { height: 6px; border-radius: 3px; background: var(--chip); overflow: hidden; }
+  .pedia .bar i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 3px; transition: width .6s; }
+  .pedia .desc { color: var(--muted); font-size: 13px; margin-top: 6px; }
   main { max-width: 1200px; margin: 0 auto; padding: 0 16px 60px; }
   .tabs { display: flex; gap: 6px; margin: 12px 0; }
   .tabs button { border: 1px solid var(--line); background: var(--card); color: var(--ink); padding: 7px 14px; border-radius: 999px; font: inherit; cursor: pointer; }
@@ -79,6 +87,12 @@
 <body>
 <header>
   <h1>TF Plattenregal</h1>
+  <div class="pedia" id="pedia">
+    <div class="lbl">Claudepedia</div>
+    <div class="ttl"><b>Die Claudepedia für Thinking Frequencies</b><span id="pediaNum"></span></div>
+    <div class="bar"><i id="pediaBar"></i></div>
+    <div class="desc" id="pediaDesc">Titel mit eigener Geschichte: Jahr, Album und was hinter der Aufnahme steckt.</div>
+  </div>
   <div class="sub" id="stand">Lade Daten …</div>
 </header>
 <main>
@@ -373,8 +387,12 @@ async function load() {
   buildRows();
   const last = plays[0]?.start_utc;
   const newCount = rows.filter(r => r.unplayed).length;
+  // Claudepedia-Balken: Titel, deren Notiz in der neuen Form beginnt („Jahr, Album: …“ bzw. „Jahr, Single.“)
+  { const real = rows.filter(r => /^\d{4},/.test((noteFor(r).note || "").trim())).length, all = rows.length;
+    document.getElementById("pediaNum").textContent = `${real} von ${all}`;
+    document.getElementById("pediaBar").style.width = (all ? Math.round(real / all * 1000) / 10 : 0) + "%"; }
   document.getElementById("stand").textContent =
-    `${tracks.length} gelaufene Titel (inkl. Kurts Liste) · ${newCount} aus deinen Playlists noch nicht gelaufen · ${plays.length} Plays · zuletzt aktualisiert: ${last ? fmt(last) + " Uhr" : "–"}`;
+    `${tracks.length} gelaufene Titel · ${newCount} aus deinen Playlists noch nicht gelaufen · ${plays.length} Plays · zuletzt aktualisiert: ${last ? fmt(last) + " Uhr" : "–"}`;
   fillSelects(); render(); renderPlays();
 }
 
