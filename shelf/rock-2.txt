@@ -1,4 +1,4 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:15pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:30pm PT.
 
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
@@ -39,7 +39,6 @@ Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
 Grateful Dead – Eyes of the World | last aired Nov 18 | 32x
-indigo la End – Haru No Iutoori | last aired Nov 19 | 21x
 The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
 Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
@@ -100,5 +99,6 @@ Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
 BETWEEN FRIENDS – affection | last aired Nov 20 | 12x
+Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
