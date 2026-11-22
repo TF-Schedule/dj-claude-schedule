@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:15pm PT.
 
-Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 MIKA – Grace Kelly | last aired Nov 17 | 26x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
@@ -100,5 +99,6 @@ Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 52x
+Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 21 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -43,7 +43,6 @@ Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 Prince Fatty – The Beat Goes On | last aired Nov 4 | 2x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
-Paula Abdul – Straight Up (Single Version) | last aired Nov 5 | 13x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 6 | 12x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 6 | 17x
@@ -100,5 +99,6 @@ Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
+Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
