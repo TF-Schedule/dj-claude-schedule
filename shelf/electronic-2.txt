@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 8:30pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 8:45pm PT.
 
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Hiroshi Yoshimura – Feel | last aired Nov 17 | 39x
@@ -36,7 +36,6 @@ Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
 Portishead – Roads | last aired Nov 19 | 64x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 19 | 4x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 19 | 11x
-Portishead – Sour Times | last aired Nov 19 | 24x
 Thievery Corporation – Omid | last aired Nov 19 | 24x
 Thom Yorke – 5.17 | last aired Nov 19 | 22x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 19 | 26x
@@ -100,5 +99,6 @@ Aphex Twin – Xtal | last aired Nov 21 | 43x
 Home – We're Finally Landing | last aired Nov 21 | 16x
 ODESZA – Say My Name (feat. Zyra) | last aired Nov 21 | 47x
 Tycho – Awake | last aired Nov 21 | 111x
+Daft Punk – Something About Us | last aired Nov 21 | 62x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
