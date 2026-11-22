@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:30am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -55,7 +55,6 @@ Queens Of The Stone Age – No One Knows | last aired Nov 13 | 32x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
-The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 13 | 14x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
@@ -100,5 +99,6 @@ Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
 Big Foot Mama – Obseden z njo | last aired Nov 17 | 2x
 Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
+King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
