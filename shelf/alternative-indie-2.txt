@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 8:30am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 8:45am PT.
 
 Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
@@ -43,7 +43,6 @@ Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Gorillaz – Hong Kong | last aired Nov 19 | 29x
-Visage – Fade To Grey | last aired Nov 19 | 24x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 19 | 7x
 Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
@@ -100,5 +99,6 @@ Billie Eilish – BIRDS OF A FEATHER | last aired Nov 21 | 249x
 Joker Out – Novi Val | last aired Nov 21 | 24x
 Men At Work – Overkill | last aired Nov 21 | 18x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
+Lace – risk | last aired Nov 21 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

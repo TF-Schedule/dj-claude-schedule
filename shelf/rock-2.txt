@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 8:30am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 8:45am PT.
 
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
@@ -88,9 +88,7 @@ Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 20 | 16x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
-BETWEEN FRIENDS – affection | last aired Nov 20 | 12x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
-Daikaiju – Magic Wanda | last aired Nov 20 | 13x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 20 | 28x
 Gustavo Cerati – Puente | last aired Nov 20 | 35x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
@@ -100,5 +98,7 @@ Andrés Calamaro – Flaca | last aired Nov 20 | 36x
 Little River Band – Cool Change | last aired Nov 20 | 18x
 David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
+Player – Baby Come Back | last aired Nov 20 | 44x
+Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
