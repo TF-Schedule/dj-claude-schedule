@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 11:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 11:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -23,7 +23,6 @@ Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Sun Ra – Images | last aired Nov 12 | 30x
-Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 12 | 32x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
@@ -72,7 +71,6 @@ Horace Silver Quintet – Peace | last aired Nov 18 | 31x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 18 | 101x
 John Coltrane – Lush Life | last aired Nov 18 | 38x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 19 | 95x
-Baby Face Willette – At Last | last aired Nov 19 | 13x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 19 | 4x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 19 | 36x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 19 | 38x
@@ -100,5 +98,7 @@ Fiona Apple – Slow Like Honey | last aired Nov 19 | 28x
 Nina Simone – Feeling Good | last aired Nov 19 | 150x
 Bobby Hutcherson – Stardust | last aired Nov 19 | 17x
 Miles Davis – Blue in Green | last aired Nov 19 | 109x
+Sade – Cherish the Day (Remastered Version) | last aired Nov 19 | 96x
+Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

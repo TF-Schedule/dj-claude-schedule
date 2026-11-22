@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 11:30pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 11:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -78,7 +78,6 @@ Nick Drake – Pink Moon | last aired Nov 18 | 106x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 18 | 46x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 18 | 127x
 Sufjan Stevens – Should Have Known Better | last aired Nov 19 | 92x
-Tracy Chapman – Fast Car (LP Version) | last aired Nov 19 | 282x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Jack Johnson – Better Together | last aired Nov 19 | 152x
@@ -100,5 +99,6 @@ Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 19 | 35x
+Noah Kahan – Stick Season | last aired Nov 19 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
