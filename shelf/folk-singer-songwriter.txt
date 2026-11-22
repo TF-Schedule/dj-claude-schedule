@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:30am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -78,7 +78,6 @@ Sufjan Stevens – Should Have Known Better | last aired Nov 19 | 92x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Jack Johnson – Better Together | last aired Nov 19 | 152x
-Sufjan Stevens – Mystery of Love | last aired Nov 19 | 107x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
 Carole King – So Far Away | last aired Nov 19 | 46x
 Scorpions – Still Loving You (2011 Version) | last aired Nov 19 | 20x
@@ -100,5 +99,6 @@ Noah Kahan – Stick Season | last aired Nov 19 | 26x
 Hozier – Cherry Wine (Live) | last aired Nov 19 | 54x
 Carole King – It's Too Late | last aired Nov 19 | 91x
 Nick Drake – Northern Sky | last aired Nov 20 | 138x
+Bon Iver – Holocene | last aired Nov 20 | 241x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
