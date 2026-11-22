@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:15pm PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:30pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -53,12 +53,10 @@ Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired No
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
-Fleetwood Mac – That's All for Everyone | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
-The Beatles – Here Comes The Sun (2019 Mix) | last aired Nov 14 | 140x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
@@ -100,5 +98,7 @@ Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
 Peter Gabriel – Don't Give Up (2012 Remaster) | last aired Nov 17 | 34x
+King Crimson – 21st Century Schizoid Man (Including 'Mirrors') | last aired Nov 17 | 13x
+David Bowie – Slow Burn | last aired Nov 17 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
