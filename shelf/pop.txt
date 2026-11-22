@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -15,7 +15,6 @@ The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
 P!nk – Glitter In the Air | last aired Oct 12 | 2x
 P!nk – Family Portrait | last aired Oct 14 | 2x
 Abor & Tynna – Baller | last aired Oct 15 | 3x
-DEEN – Ride On Time | last aired Oct 15 | 9x
 Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired Oct 17 | 5x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
@@ -57,7 +56,6 @@ Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
-Ed Sheeran – Azizam | last aired Nov 11 | 7x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
@@ -100,5 +98,7 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
+Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
+Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

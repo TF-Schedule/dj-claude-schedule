@@ -392,7 +392,7 @@ async function load() {
     document.getElementById("pediaNum").textContent = `${real} von ${all}`;
     document.getElementById("pediaBar").style.width = (all ? Math.round(real / all * 1000) / 10 : 0) + "%"; }
   document.getElementById("stand").textContent =
-    `${tracks.length} gelaufene Titel · ${newCount} aus deinen Playlists noch nicht gelaufen · ${plays.length} Plays · zuletzt aktualisiert: ${last ? fmt(last) + " Uhr" : "–"}`;
+    `${tracks.length} gelaufene Titel · ${plays.length} Plays · zuletzt aktualisiert: ${last ? fmt(last) + " Uhr" : "–"}`;
   fillSelects(); render(); renderPlays();
 }
 
