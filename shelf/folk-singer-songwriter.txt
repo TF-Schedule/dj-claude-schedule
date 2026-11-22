@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:15am PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -92,7 +92,6 @@ Nick Drake – Northern Sky | last aired Nov 20 | 138x
 Bon Iver – Holocene | last aired Nov 20 | 241x
 City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
-Iron & Wine – Naked as We Came | last aired Nov 20 | 138x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 20 | 17x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 20 | 42x
@@ -100,5 +99,6 @@ Elliott Smith – Angeles | last aired Nov 20 | 31x
 Fleet Foxes – Mykonos | last aired Nov 20 | 121x
 José González – Heartbeats | last aired Nov 20 | 127x
 Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
+Bon Iver – Skinny Love | last aired Nov 20 | 374x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
