@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:00am PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:15am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -22,7 +22,6 @@ Little People – Start Shootin' | last aired Oct 29 | 17x
 Euology – Logic | last aired Oct 30 | 6x
 The 1975 – Somebody Else | last aired Oct 30 | 20x
 A Winged Victory For The Sullen – Minuet for a Cheap Piano Number Two | last aired Oct 30 | 13x
-Ulrich Schnauss – I Take Comfort in Your Ignorance (2019 Version) | last aired Nov 1 | 37x
 Dúné – Hardcore Vibes | last aired Nov 1 | 7x
 Burial – Etched Headplate | last aired Nov 4 | 20x
 Burial – Ghost Hardware | last aired Nov 4 | 19x
@@ -100,5 +99,6 @@ Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 18 | 215x
 Camille – Ta douleur | last aired Nov 18 | 15x
 Eluvium – Taken | last aired Nov 18 | 47x
+Daft Punk – Around the World | last aired Nov 18 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

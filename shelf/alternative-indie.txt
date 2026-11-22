@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:00am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -43,7 +43,6 @@ Avril Lavigne – Sk8er Boi | last aired Nov 11 | 14x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Duran Duran – Ordinary World | last aired Nov 12 | 12x
-Cults – Gilded Lily | last aired Nov 12 | 22x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
 Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 | 9x
@@ -100,5 +99,6 @@ Love and Rockets – So Alive | last aired Nov 17 | 10x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 17 | 9x
 Maria McKee – Life Is Sweet | last aired Nov 17 | 19x
+Maria McKee – Absolutely Barking Stars | last aired Nov 18 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -65,7 +65,6 @@ Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
-The Hollyridge Strings – Yesterday | last aired Nov 12 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 19x
@@ -100,5 +99,6 @@ Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
+Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
