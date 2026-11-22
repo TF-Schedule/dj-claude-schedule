@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -25,11 +25,9 @@ Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lou
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
-L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Oct 24 | 19x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
-Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 10,000 Maniacs – Can't Ignore the Train (LP Version) | last aired Oct 31 | 12x
@@ -37,7 +35,6 @@ A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 34x
 Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
-Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Katy Perry – Roar | last aired Nov 8 | 111x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
@@ -100,5 +97,8 @@ Soft Cell – Tainted Love | last aired Nov 18 | 25x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 16x
 Leon Larregui – Locos | last aired Nov 18 | 21x
 Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
+Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
+Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
+The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
