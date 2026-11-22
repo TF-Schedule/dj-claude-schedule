@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 9:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 9:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -57,7 +57,6 @@ Melody Gardot – Moon River | last aired Nov 17 | 13x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 17 | 4x
-Mary Halvorson – About Ghosts | last aired Nov 17 | 20x
 Masego – Tadow | last aired Nov 17 | 74x
 Herbie Hancock – Chameleon | last aired Nov 17 | 31x
 Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 17 | 26x
@@ -100,5 +99,6 @@ Lianne La Havas – Unstoppable | last aired Nov 19 | 90x
 Steely Dan – Babylon Sisters | last aired Nov 19 | 60x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 19 | 83x
 Diana Krall – How Deep Is The Ocean | last aired Nov 19 | 15x
+Fiona Apple – Slow Like Honey | last aired Nov 19 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
