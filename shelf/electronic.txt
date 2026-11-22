@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 7:15pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 7:30pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -84,7 +84,6 @@ Massive Attack – Teardrop | last aired Nov 16 | 100x
 Massive Attack – Protection | last aired Nov 16 | 43x
 Tycho – A Walk | last aired Nov 16 | 110x
 Massive Attack – Angel | last aired Nov 16 | 67x
-Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 16 | 53x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 16 | 138x
 Morcheeba – Trigger Hippie | last aired Nov 16 | 63x
 Röyksopp – Eple | last aired Nov 16 | 40x
@@ -100,5 +99,6 @@ Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
 Loscil – Estuarine | last aired Nov 17 | 154x
+David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
