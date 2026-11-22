@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 9:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 9:15am PT.
 
-Daft Punk – One More Time | last aired Nov 18 | 152x
 Lemon Jelly – Ramblin' Man | last aired Nov 18 | 45x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 18 | 24x
 Marie Vaunt – That Acid | last aired Nov 18 | 8x
@@ -38,7 +37,6 @@ Moby – Natural Blues | last aired Nov 19 | 5x
 Moloko – Being Is Bewildering | last aired Nov 19 | 9x
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 19 | 46x
 Tim Hecker – Black Refraction | last aired Nov 19 | 86x
-Shida Shahabi – Futō | last aired Nov 19 | 30x
 Groove Armada – At the River | last aired Nov 19 | 36x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 19 | 29x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 19 | 81x
@@ -100,5 +98,7 @@ Hooverphonic – 2 Wicky | last aired Nov 21 | 37x
 Sneaker Pimps – How Do | last aired Nov 21 | 16x
 Fred again.. – leavemealone | last aired Nov 21 | 19x
 Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 21 | 54x
+Portishead – Sour Times | last aired Nov 21 | 25x
+Bicep – Apricots | last aired Nov 21 | 70x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

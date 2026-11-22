@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 9:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 9:15am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -70,7 +70,6 @@ Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 16 | 35x
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 16 | 47x
 Heathered Pearls – Pacific Summits (Pulse Version) | last aired Nov 16 | 63x
 David Bowie – Subterraneans (2017 Remaster) | last aired Nov 16 | 39x
-Rival Consoles – Untravel | last aired Nov 16 | 51x
 Mr.Kitty – After Dark | last aired Nov 16 | 12x
 Smoke City – Underwater Love | last aired Nov 16 | 7x
 Portishead – Glory Box (Album Version) | last aired Nov 16 | 86x
@@ -100,5 +99,6 @@ Daft Punk – Around the World | last aired Nov 18 | 44x
 Jamie xx – Gosh | last aired Nov 18 | 53x
 James Blake – Retrograde | last aired Nov 18 | 73x
 Jungle – Keep Moving | last aired Nov 18 | 57x
+Daft Punk – One More Time | last aired Nov 18 | 152x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
