@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 7:00pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 7:15pm PT.
 
-OneRepublic – I Lived | last aired Nov 16 | 186x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 16 | 24x
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
@@ -100,5 +99,6 @@ Richard O Brien – The Time Warp | last aired Nov 20 | 5x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 20 | 33x
 gesunokiwamiotome – watashi igai watashi ja naino | last aired Nov 20 | 10x
 Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 20 | 16x
+Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

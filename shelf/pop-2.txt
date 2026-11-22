@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 7:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 7:15pm PT.
 
-David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 MIKA – Grace Kelly | last aired Nov 17 | 26x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
@@ -100,5 +99,6 @@ TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 52x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 21 | 1x
+Takako Mamiya – LOVE TRIP | last aired Nov 21 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
