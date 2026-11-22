@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -34,7 +34,6 @@ Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last air
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 16 | 30x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 16 | 32x
 Ed Sheeran – Perfect | last aired Nov 16 | 11x
-Kings Of Convenience – Rocky Trail | last aired Nov 16 | 32x
 Mitski – My Love Mine All Mine | last aired Nov 16 | 21x
 Ben Howard – Only Love | last aired Nov 16 | 9x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
@@ -100,5 +99,6 @@ Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
 Joni Mitchell – A Case of You | last aired Nov 20 | 48x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 20 | 125x
 Simon & Garfunkel – The Boxer | last aired Nov 20 | 103x
+Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
