@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:00am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -84,7 +84,6 @@ Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
 Nina Simone – Wild Is The Wind | last aired Nov 19 | 38x
 Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 19 | 29x
-Natalie Cole – At Last | last aired Nov 19 | 13x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 19 | 107x
 Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 George Benson – Dreamin' (Album Version) | last aired Nov 19 | 20x
@@ -100,5 +99,6 @@ Sade – Cherish the Day (Remastered Version) | last aired Nov 19 | 96x
 Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 8x
+Charles Lloyd – You Are So Beautiful | last aired Nov 20 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
