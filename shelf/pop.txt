@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -53,7 +53,6 @@ Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
-Wolfsheim – Künstliche Welten | last aired Nov 11 | 8x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 11 | 4x
@@ -100,5 +99,6 @@ Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" 
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Perpetuum Jazzile – Africa | last aired Nov 18 | 29x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
+Sadie Jean – WYD Now? | last aired Nov 18 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

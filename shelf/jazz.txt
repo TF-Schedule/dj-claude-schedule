@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -56,7 +56,6 @@ Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 17 | 26x
 John Coltrane – My Favorite Things | last aired Nov 17 | 56x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 18 | 24x
 Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
-Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 18 | 84x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
 Paolo Conte – Via Con Me | last aired Nov 18 | 26x
 Shakatak – Night Birds | last aired Nov 18 | 27x
@@ -100,5 +99,6 @@ Laufey – Madwoman | last aired Nov 20 | 48x
 GoGo Penguin – Raven | last aired Nov 20 | 86x
 Julie London – Cry Me A River | last aired Nov 20 | 84x
 Glenn Miller & His Orchestra – At Last | last aired Nov 20 | 9x
+Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 20 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
