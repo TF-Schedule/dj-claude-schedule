@@ -188,9 +188,15 @@ def norm_key(artist, title):
     a = re.sub(r"[^a-z0-9]+", " ", re.sub(r"^the\s+", "", a)).strip()
     t = re.sub(r"\s*[\(\[][^\)\]]*([\)\]]|$)", "", nfd(title))   # auch abgeschnittene Klammern („(Full Length Versio“)
     t = re.sub(r"\s+-\s+.*(remaster|version|live|mix|edit|mono|stereo).*$", "", t)
+    # Römische Zahlen am Ende werden NICHT abgeschnitten (seit 22.11.2026): „In the Fog I“ ≠ „In the Fog II“,
+    # und „Who Am I“ behält sein englisches I. Jede Nummer ist ein eigenes Stück.
     t = re.sub(r"[^a-z0-9]+", " ", t).strip()
-    t = re.sub(r"\s+(i|ii|iii|iv|v|vi|vii|viii|ix|x)$", "", t)   # Satznummern („Clair de Lune: I“)
     return a + "|" + t
+
+
+def exact_key(artist, title):
+    """Genaue Zuordnung (nur Groß/klein, Akzente, Leerzeichen egal) – für Titel, die tolerant zusammenfallen würden."""
+    return "=" + ws(nfd(artist)) + "|" + ws(nfd(title))
 
 
 def kurt_rows():
@@ -385,7 +391,18 @@ def main():
     for a in agg.values():
         a["source"] = "Regal"
     # Kurts Liste dazunehmen: gleiche Titel zusammenführen, fehlende ergänzen
-    by_norm = {norm_key(a["artist"], a["title"]): a for a in agg.values()}
+    # Seit 22.11.2026: Fallen im Mitschnitt zwei verschiedene Titel tolerant zusammen (Charles Lloyd / & The Marvels,
+    # Camouflage (Album Mix) / (Acoustic Mix)), wird für diese genau abgeglichen – sonst addierte Kurts Liste die Plays
+    # beider Fassungen auf einen Titel.
+    groups = {}
+    for a in agg.values():
+        groups.setdefault(norm_key(a["artist"], a["title"]), set()).add(exact_key(a["artist"], a["title"]))
+    ambig = {n for n, g in groups.items() if len(g) > 1}
+
+    def match_key(artist, title):
+        n = norm_key(artist, title)
+        return exact_key(artist, title) if n in ambig else n
+    by_norm = {match_key(a["artist"], a["title"]): a for a in agg.values()}
     kurt = {}   # Kurts Doppelungen (z. B. abgeschnittene Titel) zuerst zusammenfassen: Plays addieren, neuester Name gewinnt
     for k in kurt_rows():
         # verstümmelte Titel aus Kurts Liste reparieren, z. B. "… 2015 Remaster)n; 2015 Remaster)":
@@ -393,7 +410,7 @@ def main():
         m = re.match(r"^(.*?\))(.+\))$", k["title"])
         if m and m.group(2).strip() in m.group(1):
             k = {**k, "title": m.group(1)}
-        nk = norm_key(k["artist"], k["title"])
+        nk = match_key(k["artist"], k["title"])
         if nk in kurt:
             old_k = kurt[nk]
             newer = k if k["last_played_utc"] > old_k["last_played_utc"] else old_k
@@ -401,7 +418,7 @@ def main():
         else:
             kurt[nk] = k
     for k in kurt.values():
-        a = by_norm.get(norm_key(k["artist"], k["title"]))
+        a = by_norm.get(match_key(k["artist"], k["title"]))
         if a:
             a["plays"] = max(a["plays"], k["plays"])
             a["last_played_utc"] = max(a["last_played_utc"], k["last_played_utc"])
@@ -411,7 +428,7 @@ def main():
             a = {"artist": k["artist"], "title": k["title"], "plays": k["plays"], "last_played_utc": k["last_played_utc"],
                  "shows": set(), "apple_url": "", "source": "Kurt"}
             agg[(k["artist"], k["title"])] = a
-            by_norm[norm_key(k["artist"], k["title"])] = a
+            by_norm[match_key(k["artist"], k["title"])] = a
     # Neu gekaufte Titel: erstmals gesehen, nachdem das Gedächtnis angelegt wurde, und alle Läufe stammen aus unserem Mitschnitt
     try:
         seen = {(r["artist"], r["title"]): r for r in read_csv(SEEN, SEEN_COLS)}
