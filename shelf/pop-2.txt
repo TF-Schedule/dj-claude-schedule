@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 2:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 2:45am PT.
 
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
@@ -54,7 +54,6 @@ Bruno Mars – Gorilla | last aired Nov 20 | 13x
 Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
 TilaR – More Than A Friend | last aired Nov 20 | 5x
-Cuco – One and Only | last aired Nov 20 | 26x
 Jvke – golden hour | last aired Nov 20 | 15x
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
@@ -100,5 +99,6 @@ Gus Dapperton – Ditch | last aired Nov 22 | 24x
 Mac DeMarco – My Kind of Woman | last aired Nov 22 | 32x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
+Zoé – Vía Láctea | last aired Nov 22 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
