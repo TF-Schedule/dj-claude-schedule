@@ -1,4 +1,4 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:45pm PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -59,8 +59,6 @@ Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 
 Talk Talk – New Grass | last aired Nov 14 | 29x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Talk Talk – After The Flood | last aired Nov 14 | 33x
-Los Enanitos Verdes – Lamento Boliviano | last aired Nov 14 | 25x
-Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 15 | 19x
 Styx – Mr. Roboto | last aired Nov 15 | 22x
 T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
@@ -100,5 +98,7 @@ Peter Gabriel – Sky Blue | last aired Nov 17 | 38x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 17 | 13x
 David Bowie – Space Oddity | last aired Nov 17 | 119x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Nov 17 | 17x
+Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
+Journey – Lights (Album Version) | last aired Nov 18 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
