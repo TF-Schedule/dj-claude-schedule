@@ -40,6 +40,7 @@ ANN_COLS = ["first_seen_utc", "start_utc", "show", "description"]
 TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "album", "film_hint", "apple_url", "source", "artwork", "new_utc"]
 SEEN = DATA / "claude_seen.csv"     # seit 14.11.2026: Gedächtnis, welche Titel wir schon kennen → neu gekaufte erkennen
 SEEN_COLS = ["artist", "title", "first_utc", "kind"]   # kind: bestand (beim Start schon da) | neu (danach erstmals gespielt)
+SEEN_SINCE = "2026-11-15"   # ab hier wird die Einstufung bei jedem Lauf neu berechnet (Kurts Liste kennt neue Titel nach dem ersten Lauf)
 NOTE_COLS = ["artist", "title", "fits_show", "film", "note"]
 # seit 16.11.2026: Backlink Broadcast (Sendungen + Titel), um neue Sendungen und Verschiebungen zu sehen
 BL_STREAM = "a13541"
@@ -390,6 +391,8 @@ def main():
         a["apple_url"] = p["apple_url"] or a["apple_url"]
     for a in agg.values():
         a["source"] = "Regal"
+        a["own"] = a["plays"]          # Läufe aus unserem Mitschnitt (vor Kurts Liste)
+        a["kurt"] = 0
     # Kurts Liste dazunehmen: gleiche Titel zusammenführen, fehlende ergänzen
     # Seit 22.11.2026: Fallen im Mitschnitt zwei verschiedene Titel tolerant zusammen (Charles Lloyd / & The Marvels,
     # Camouflage (Album Mix) / (Acoustic Mix)), wird für diese genau abgeglichen – sonst addierte Kurts Liste die Plays
@@ -420,6 +423,7 @@ def main():
     for k in kurt.values():
         a = by_norm.get(match_key(k["artist"], k["title"]))
         if a:
+            a["kurt"] = k["plays"]
             a["plays"] = max(a["plays"], k["plays"])
             a["last_played_utc"] = max(a["last_played_utc"], k["last_played_utc"])
             if a["source"] != "Kurt":
@@ -429,7 +433,11 @@ def main():
                  "shows": set(), "apple_url": "", "source": "Kurt"}
             agg[(k["artist"], k["title"])] = a
             by_norm[match_key(k["artist"], k["title"])] = a
-    # Neu gekaufte Titel: erstmals gesehen, nachdem das Gedächtnis angelegt wurde, und alle Läufe stammen aus unserem Mitschnitt
+    # Neu im Programm: erstmals gesehen, nachdem das Gedächtnis angelegt wurde, und Kurts Liste kennt nicht mehr Läufe
+    # als unser eigener Mitschnitt (seit 22.11.2026; vorher zählte jeder Titel aus Kurts Liste als Bestand – Kurts Liste
+    # aktualisiert sich aber selbst und kennt einen frisch gekauften Titel schon nach dem ersten Lauf, z. B. PianoDreams
+    # „Gates Of Steiner“). „Neu“ heißt: neu erworben (Kauf oder Geschenk) – wer gezahlt hat, wird bewusst NICHT
+    # öffentlich verknüpft (sähe nach Überwachung aus).
     try:
         seen = {(r["artist"], r["title"]): r for r in read_csv(SEEN, SEEN_COLS)}
         first = {}
@@ -439,10 +447,12 @@ def main():
                 first[k] = pl["start_utc"]
         start = not seen
         for k, a in agg.items():
-            if k in seen:
+            old = seen.get(k)
+            if old and (old["first_utc"] or "") < SEEN_SINCE:
                 continue
-            is_new = (not start) and a["source"] == "Regal"          # nicht in Kurts Liste → wirklich neu im Katalog
-            seen[k] = {"artist": k[0], "title": k[1], "first_utc": first.get(k, a["last_played_utc"]), "kind": "neu" if is_new else "bestand"}
+            fu = (old or {}).get("first_utc") or first.get(k, a["last_played_utc"])
+            is_new = (not start) and (a["source"] == "Regal" or (a["kurt"] <= a["own"] and a["own"] > 0))
+            seen[k] = {"artist": k[0], "title": k[1], "first_utc": fu, "kind": "neu" if is_new else "bestand"}
         write_csv(SEEN, SEEN_COLS, sorted(seen.values(), key=lambda r: (r["first_utc"], r["artist"])))
         for k, a in agg.items():
             r = seen.get(k)
@@ -470,7 +480,9 @@ def main():
     rows = []
     for (artist, title), a in ordered:
         info = {**EMPTY_INFO, **cache.get(f"{artist}|{title}", {})}
-        rows.append({**a, "shows": " · ".join(sorted(a["shows"])), **info})
+        row = {**a, "shows": " · ".join(sorted(a["shows"])), **info}
+        row.pop("own", None), row.pop("kurt", None)          # nur Hilfswerte für die Neu-Erkennung
+        rows.append(row)
     rows.sort(key=lambda r: r["last_played_utc"], reverse=True)
     write_csv(TRACKS, TRACK_COLS, rows)
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
