@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:15am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -90,7 +90,6 @@ Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
 Beck – Devils Haircut | last aired Nov 17 | 28x
 Blur – Song 2 | last aired Nov 17 | 19x
-Arctic Monkeys – 505 | last aired Nov 17 | 40x
 The Smiths – I Know It's Over | last aired Nov 17 | 9x
 Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
@@ -100,5 +99,6 @@ Gorillaz – Rock the House | last aired Nov 17 | 10x
 Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
+Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
