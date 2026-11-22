@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 5:15pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 5:30pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -59,7 +59,6 @@ Ashra – Kazoo | last aired Nov 12 | 28x
 Björk – Hyperballad | last aired Nov 12 | 27x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
 Synergy – Chateau | last aired Nov 12 | 31x
-Sneaker Pimps – How Do | last aired Nov 12 | 15x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
 HYD – Freak | last aired Nov 13 | 13x
 Bonobo – Kiara | last aired Nov 14 | 110x
@@ -100,5 +99,6 @@ Darude – Sandstorm | last aired Nov 17 | 32x
 Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
+Loscil – Estuarine | last aired Nov 17 | 154x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
