@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -51,7 +51,6 @@ Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
-Falco – Vienna Calling | last aired Nov 9 | 26x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 9 | 2x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
@@ -100,5 +99,6 @@ Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 |
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 MIKA – Grace Kelly | last aired Nov 17 | 26x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
+Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
