@@ -1,4 +1,4 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:15pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 10:30pm PT.
 
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
@@ -55,7 +55,6 @@ Kim Carnes – More Love | last aired Nov 19 | 21x
 Michael Damian – Rock On | last aired Nov 19 | 10x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
-Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 19 | 59x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Freddie Mercury – Love Kills | last aired Nov 19 | 9x
 Jeff Beck – Where Were You (Live) | last aired Nov 19 | 16x
@@ -100,5 +99,6 @@ Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
 BETWEEN FRIENDS – affection | last aired Nov 20 | 12x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 Daikaiju – Magic Wanda | last aired Nov 20 | 13x
+Roy Orbison – Oh, Pretty Woman | last aired Nov 20 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
