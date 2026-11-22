@@ -1,6 +1,5 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 4:45pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 5:00pm PT.
 
-Tycho – Dive | last aired Nov 17 | 106x
 Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
@@ -35,7 +34,6 @@ Nightmares On Wax – Les Nuits | last aired Nov 18 | 67x
 Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 18 | 400x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 18 | 25x
 Brian Eno – Capsule | last aired Nov 18 | 24x
-Hooverphonic – 2 Wicky | last aired Nov 19 | 36x
 Jazzy – No Bad Vibes | last aired Nov 19 | 10x
 Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
 Portishead – Roads | last aired Nov 19 | 64x
@@ -100,5 +98,7 @@ Sampha – (No One Knows Me) Like the Piano | last aired Nov 21 | 68x
 Portishead – It Could Be Sweet | last aired Nov 21 | 20x
 Polar Sun – Caribou | last aired Nov 21 | 35x
 Dorian Electra – Bizarre Love Triangle | last aired Nov 21 | 6x
+Adamski – Killer | last aired Nov 21 | 19x
+Aphex Twin – Xtal | last aired Nov 21 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
