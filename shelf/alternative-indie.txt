@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 5:45pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 6:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -35,7 +35,6 @@ Hayley Williams – Simmer (Acoustic) | last aired Nov 8 | 6x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 8 | 15x
 The Marías – Cariño | last aired Nov 9 | 16x
 The Magnetic Fields – Born on a Train | last aired Nov 10 | 9x
-The Magnetic Fields – Papa Was a Rodeo | last aired Nov 10 | 8x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
 The Sundays – Wild Horses | last aired Nov 10 | 18x
 Sun's Signature – Golden Air | last aired Nov 10 | 23x
@@ -100,5 +99,6 @@ Beck – Devils Haircut | last aired Nov 17 | 28x
 Blur – Song 2 | last aired Nov 17 | 19x
 Arctic Monkeys – 505 | last aired Nov 17 | 40x
 The Smiths – I Know It's Over | last aired Nov 17 | 9x
+Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
