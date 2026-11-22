@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:16pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:30pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -13,7 +13,6 @@ Neuro-sama – Pattern Recognition (feat. ODDEEO) | last aired Sep 25 | 1x
 P!nk – Please Don't Leave Me | last aired Oct 8 | 2x
 The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
 P!nk – Glitter In the Air | last aired Oct 12 | 2x
-P!nk – Family Portrait | last aired Oct 14 | 2x
 Abor & Tynna – Baller | last aired Oct 15 | 3x
 Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired Oct 17 | 5x
 P!nk – Get the Party Started | last aired Oct 18 | 6x
@@ -62,7 +61,6 @@ Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
-Bruno Mars – I Just Might | last aired Nov 14 | 261x
 Taylor Swift – Cruel Summer | last aired Nov 14 | 137x
 Tate McRae – greedy | last aired Nov 14 | 7x
 Tate McRae – Miss possessive | last aired Nov 14 | 3x
@@ -100,5 +98,7 @@ Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
 Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
+Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
+Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
