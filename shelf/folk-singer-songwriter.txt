@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:15am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -6,7 +6,6 @@ Becky Levi and the Nightjars – Wake Me Up | last aired Oct 21 | 4x
 Guns N' Roses – Sweet Child O' Mine | last aired Oct 23 | 28x
 Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
-Ngo Hong Quang – Núi Xưa | last aired Oct 29 | 14x
 Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
@@ -100,5 +99,6 @@ City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Iron & Wine – Naked as We Came | last aired Nov 20 | 138x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
+Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 20 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

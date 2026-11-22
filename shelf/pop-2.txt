@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 2:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 2:30am PT.
 
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
@@ -42,9 +42,7 @@ Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 22x
 Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
-Zoé – Vía Láctea | last aired Nov 19 | 28x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
-Lana Del Rey – Diet Mountain Dew | last aired Nov 19 | 38x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
 Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 Mazzy Star – Fade Into You | last aired Nov 20 | 102x
@@ -98,7 +96,9 @@ Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
 ABBA – Don't Shut Me Down | last aired Nov 21 | 15x
 Wir Sind Helden – Denkmal | last aired Nov 21 | 24x
-Gus Dapperton – Ditch | last aired Nov 22 | 23x
-Mac DeMarco – My Kind of Woman | last aired Nov 22 | 31x
+Gus Dapperton – Ditch | last aired Nov 22 | 24x
+Mac DeMarco – My Kind of Woman | last aired Nov 22 | 32x
+Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
+Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
