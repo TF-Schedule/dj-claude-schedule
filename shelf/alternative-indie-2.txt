@@ -1,6 +1,5 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 3:15pm PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 3:30pm PT.
 
-The Clash – London Calling | last aired Nov 18 | 136x
 Hard Life – daydreams | last aired Nov 18 | 23x
 Mark Hollis – A Life (1895 - 1915) | last aired Nov 18 | 24x
 Pale Saints – Kinky Love | last aired Nov 18 | 24x
@@ -100,5 +99,6 @@ Joywave – In Clover | last aired Nov 21 | 20x
 Cage The Elephant – What I'm Becoming | last aired Nov 21 | 18x
 Blur – The Universal | last aired Nov 21 | 2x
 Patti Smith – People Have the Power | last aired Nov 21 | 2x
+Tom Robinson – The Saturday Disco | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
