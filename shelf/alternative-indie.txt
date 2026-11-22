@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 10:30pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 10:41pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -49,7 +49,6 @@ Cults – Gilded Lily | last aired Nov 12 | 22x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
 Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 | 9x
-Björk – Army Of Me | last aired Nov 12 | 21x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
@@ -83,7 +82,6 @@ Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
 Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
 Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
-Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 17 | 19x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
@@ -100,5 +98,7 @@ Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 17 | 23x
+Gorillaz – Rock the House | last aired Nov 17 | 10x
+Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
