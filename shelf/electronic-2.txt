@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:00pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 9:15pm PT.
 
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Hiroshi Yoshimura – Feel | last aired Nov 17 | 39x
@@ -63,7 +63,6 @@ The Cinematic Orchestra – To Build A Home | last aired Nov 20 | 84x
 Lamb – Bonfire | last aired Nov 20 | 36x
 Marconi Union – Weightless | last aired Nov 20 | 100x
 Lamb – Gorecki | last aired Nov 20 | 33x
-Slowdive – Erik's Song (Album Version) | last aired Nov 20 | 41x
 Jon Hopkins – Small Memory | last aired Nov 20 | 25x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 20 | 187x
 Floating Points – Last Bloom | last aired Nov 20 | 100x
@@ -100,5 +99,6 @@ ODESZA – Say My Name (feat. Zyra) | last aired Nov 21 | 47x
 Tycho – Awake | last aired Nov 21 | 111x
 Daft Punk – Something About Us | last aired Nov 21 | 62x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 21 | 31x
+Cornelius – Star Fruit Surf Rider (Damon Albarn Remix) | last aired Nov 21 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
