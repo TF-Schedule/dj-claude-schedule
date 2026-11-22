@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 21, 11:45pm PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 12:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -31,12 +31,10 @@ Billie Eilish – when the party's over | last aired Nov 14 | 18x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Tom Konkle – One Last Time | last aired Nov 14 | 6x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
-Ben&Ben – Maybe The Night | last aired Nov 15 | 33x
 Ben&Ben – Leaves | last aired Nov 15 | 53x
 Grouper – Holding | last aired Nov 15 | 117x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
-Bill Callahan – Riding For The Feeling | last aired Nov 16 | 47x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
@@ -100,5 +98,7 @@ The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 19 | 35x
 Noah Kahan – Stick Season | last aired Nov 19 | 26x
+Hozier – Cherry Wine (Live) | last aired Nov 19 | 54x
+Carole King – It's Too Late | last aired Nov 19 | 91x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
