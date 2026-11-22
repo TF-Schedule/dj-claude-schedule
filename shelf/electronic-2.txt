@@ -1,6 +1,5 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 11:00pm PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 11:15pm PT.
 
-Carbon Based Lifeforms – Photosynthesis | last aired Nov 18 | 215x
 Camille – Ta douleur | last aired Nov 18 | 15x
 Eluvium – Taken | last aired Nov 18 | 47x
 Daft Punk – Around the World | last aired Nov 18 | 44x
@@ -100,5 +99,6 @@ Neuro-sama – NEVER | last aired Nov 21 | 5x
 Kraftwerk – Das Model | last aired Nov 21 | 29x
 Justice – D.A.N.C.E. | last aired Nov 21 | 38x
 Sneaker Pimps – 6 Underground | last aired Nov 21 | 29x
+Thievery Corporation – Facing East | last aired Nov 21 | 60x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

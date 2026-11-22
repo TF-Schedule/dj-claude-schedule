@@ -1,6 +1,5 @@
-Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 11:00pm PT.
+Rock – 260 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 11:15pm PT.
 
-Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Gerry Rafferty – Right Down the Line | last aired Nov 17 | 24x
 Big Foot Mama – Obseden z njo | last aired Nov 17 | 2x
 Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
@@ -100,5 +99,6 @@ BETWEEN FRIENDS – affection | last aired Nov 20 | 12x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 Daikaiju – Magic Wanda | last aired Nov 20 | 13x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 20 | 28x
+Gustavo Cerati – Puente | last aired Nov 20 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
