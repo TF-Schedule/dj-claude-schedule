@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:15pm PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:30pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -88,7 +88,6 @@ The Smiths – I Know It's Over | last aired Nov 17 | 9x
 Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
-Arctic Monkeys – No. 1 Party Anthem | last aired Nov 17 | 23x
 Gorillaz – Rock the House | last aired Nov 17 | 10x
 Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
@@ -100,5 +99,6 @@ Maria McKee – Absolutely Barking Stars | last aired Nov 18 | 19x
 The Cure – Burn (Live) | last aired Nov 18 | 16x
 The Magnetic Fields – All My Little Words | last aired Nov 18 | 10x
 Carter Vail – Ants In My Room | last aired Nov 18 | 14x
+Cocteau Twins – Ivo | last aired Nov 18 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
