@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -88,7 +88,6 @@ Tate McRae – Miss possessive | last aired Nov 14 | 3x
 Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 Still Woozy – Get Down | last aired Nov 15 | 8x
-Nation of Language – Weak In Your Light | last aired Nov 15 | 31x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
@@ -100,5 +99,6 @@ David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
+Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

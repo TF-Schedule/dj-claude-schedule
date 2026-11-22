@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 5:30am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 5:45am PT.
 
 Peter Gabriel – Sledgehammer | last aired Nov 17 | 19x
 Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
@@ -39,7 +39,6 @@ Grateful Dead – Eyes of the World | last aired Nov 18 | 32x
 The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
 Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
-Pages – If I Saw You Again (Album Version) | last aired Nov 19 | 23x
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
 Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
@@ -100,5 +99,6 @@ The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | las
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
 Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 20 | 20x
 Andrés Calamaro – Flaca | last aired Nov 20 | 36x
+Little River Band – Cool Change | last aired Nov 20 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

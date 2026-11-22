@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:30am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -52,7 +52,6 @@ Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 1
 Echo And The Bunnymen – The Killing Moon | last aired Nov 12 | 15x
 ByeAlex – Kedvesem (Original) | last aired Nov 12 | 16x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
-The Police – Roxanne (Remastered 2003) | last aired Nov 13 | 4x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
@@ -100,5 +99,6 @@ Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
+Love and Rockets – Haunted When the Minutes Drag | last aired Nov 17 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
