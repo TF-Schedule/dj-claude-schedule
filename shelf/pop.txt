@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -31,7 +31,6 @@ L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last 
 Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
 Auringon Lapset – Etäpäivä | last aired Oct 27 | 16x
-Nusantara Beat – Sifat Manusia | last aired Oct 29 | 7x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 10,000 Maniacs – Can't Ignore the Train (LP Version) | last aired Oct 31 | 12x
@@ -43,7 +42,6 @@ ROSALÍA – Berghain | last aired Nov 4 | 4x
 Donald Fagen – The Nightfly | last aired Nov 6 | 15x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Katy Perry – Roar | last aired Nov 8 | 111x
-Rick Springfield – Jessie's Girl | last aired Nov 8 | 6x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
@@ -100,5 +98,7 @@ Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
+Perpetuum Jazzile – Africa | last aired Nov 18 | 29x
+Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

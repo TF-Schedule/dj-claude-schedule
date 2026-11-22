@@ -1,7 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 11:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 11:15am PT.
 
-Perpetuum Jazzile – Africa | last aired Nov 18 | 29x
-Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sadie Jean – WYD Now? | last aired Nov 18 | 8x
 Sabrina Carpenter – Taste | last aired Nov 18 | 54x
 Soft Cell – Tainted Love | last aired Nov 18 | 25x
@@ -96,9 +94,11 @@ Nation of Language – Weak In Your Light | last aired Nov 22 | 32x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 22 | 13x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
-The Hollyridge Strings – Yesterday | last aired Nov 22 | 17x
-Neuro-sama – Colorful Array | last aired Nov 22 | 6x
-Djo – End of Beginning | last aired Nov 22 | 18x
-The Chordettes – Mr. Sandman | last aired Nov 22 | 11x
+The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
+Neuro-sama – Colorful Array | last aired Nov 22 | 7x
+Djo – End of Beginning | last aired Nov 22 | 19x
+The Chordettes – Mr. Sandman | last aired Nov 22 | 12x
+DEEN – Ride On Time | last aired Nov 22 | 10x
+Ed Sheeran – Azizam | last aired Nov 22 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

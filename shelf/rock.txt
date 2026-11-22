@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -8,7 +8,6 @@ U2 – Beautiful Day (Remastered 2020) | last aired Oct 23 | 7x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Oct 23 | 23x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
 Iron Mountain – Enthralldom | last aired Oct 23 | 6x
-Laibach – The Whistleblowers | last aired Oct 25 | 20x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
 Survivor – Eye of the Tiger | last aired Oct 26 | 24x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
@@ -100,5 +99,6 @@ Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
+King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
