@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:00am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -85,7 +85,6 @@ YEBBA – Louie Bag (Live at Electric Lady) | last aired Nov 18 | 22x
 The Impressions – People Get Ready (Single Version) | last aired Nov 18 | 26x
 Jars Of Clay – Flood | last aired Nov 18 | 18x
 The Winstons – Amen Brother | last aired Nov 18 | 27x
-The Ink Spots – If I Didn't Care | last aired Nov 19 | 32x
 Wilson Pickett – In the Midnight Hour | last aired Nov 19 | 146x
 Michael Jackson – Morphine (Album Version) | last aired Nov 19 | 7x
 Frank Ocean – Pyramids | last aired Nov 19 | 59x
@@ -100,5 +99,6 @@ Nothing More – SPIRITS | last aired Nov 19 | 6x
 Prince – Kiss (LP Version) | last aired Nov 19 | 28x
 Teddy Swims – The Door | last aired Nov 19 | 20x
 Aretha Franklin – Day Dreaming (Album Version) | last aired Nov 19 | 136x
+Michael Jackson – Stranger in Moscow | last aired Nov 19 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
