@@ -272,8 +272,7 @@
 },
 "Alabama 3|Thank you": {
 "album": "Thank You (Single, 2023)",
-"apple_url": "https://music.apple.com/de/album/thank-you-single/1689428111",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/thank-you/1689428111?i=1689428277",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3214,9 +3213,12 @@
 "film_hint": "The Good, The Bad & The Ugly (Expanded Edition) [Original Motion Picture Soundtrack]",
 "genre": "Original Score"
 },
+"Enya|Caribbean Blue (2009 Remaster)": {
+"apple_url": "https://music.apple.com/de/album/caribbean-blue-2009-remaster/1499659359?i=1499659363"
+},
 "Enya|Caribbean Blue (2009 Remaster) (Remastered 2009)": {
 "album": "",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/caribbean-blue-2009-remaster/1499659359?i=1499659363",
 "film_hint": "",
 "genre": ""
 },
@@ -3894,7 +3896,7 @@
 },
 "Glasperlenspiel|Nie vergessen": {
 "album": "",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/nie-vergessen-akustik-edit-single/1444290407",
 "film_hint": "",
 "genre": ""
 },
@@ -7297,7 +7299,7 @@
 },
 "Neil Diamond|Sweet Caroline": {
 "album": "50th Anniversary Collection",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/sweet-caroline/1422721391?i=1422721989",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9334,7 +9336,7 @@
 },
 "Slowdive|Erik's Song (Album Version)": {
 "album": "",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/eriks-song/399186360?i=399186405",
 "film_hint": "",
 "genre": ""
 },
@@ -11059,7 +11061,7 @@
 },
 "Tim Hugh|Cello Concerto in A Minor, Wq. 170, H. 432 - II. Andante": {
 "album": "",
-"artwork": "",
+"apple_url": "https://music.apple.com/de/album/concerto-in-a-minor-wq-170-ii-andante/3072419?i=3072387",
 "film_hint": "",
 "genre": ""
 },
