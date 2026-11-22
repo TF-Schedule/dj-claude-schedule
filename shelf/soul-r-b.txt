@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:00am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:15am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -73,7 +73,6 @@ Parliament – Give Up The Funk (Tear The Roof Off The Sucker) | last aired Nov 
 Al Green – Love and Happiness | last aired Nov 17 | 39x
 Prince – Sometimes It Snows in April (LP Version) | last aired Nov 17 | 44x
 Marvin Gaye – Mercy Mercy Me (The Ecology) | last aired Nov 17 | 29x
-Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 17 | 49x
 Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 17 | 35x
 Marvin Gaye – Save The Children | last aired Nov 17 | 27x
 Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 18 | 135x
@@ -100,5 +99,6 @@ Breakestra – Back At The Boathouse | last aired Nov 19 | 36x
 Brainstory – Mnemophobia | last aired Nov 19 | 27x
 Nothing More – SPIRITS | last aired Nov 19 | 6x
 Prince – Kiss (LP Version) | last aired Nov 19 | 28x
+Teddy Swims – The Door | last aired Nov 19 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
