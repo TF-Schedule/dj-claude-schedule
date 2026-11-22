@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -75,7 +75,6 @@ Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 19 | 38x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 19 | 23x
 Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
 Julian Lage – Emily | last aired Nov 19 | 11x
-Ella Fitzgerald – Summertime | last aired Nov 19 | 102x
 Al Di Meola – Red Moon | last aired Nov 19 | 20x
 Steely Dan – Home At Last | last aired Nov 19 | 34x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
@@ -100,5 +99,6 @@ Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 8x
 Charles Lloyd – You Are So Beautiful | last aired Nov 20 | 22x
+Bill Evans – Peace Piece (Album Version) | last aired Nov 20 | 181x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
