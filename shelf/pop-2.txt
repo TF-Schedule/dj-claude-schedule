@@ -1,7 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 3:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 3:45pm PT.
 
-Kat Edmonson – All The Way | last aired Nov 18 | 37x
-Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
@@ -91,14 +89,16 @@ DEEN – Ride On Time | last aired Nov 22 | 10x
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
 Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
 Rick Springfield – Jessie's Girl | last aired Nov 22 | 7x
-Wolfsheim – Künstliche Welten | last aired Nov 22 | 8x
-ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 22 | 45x
-Ferrante & Teicher – Exodus | last aired Nov 22 | 20x
+Wolfsheim – Künstliche Welten | last aired Nov 22 | 9x
+ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 22 | 46x
+Ferrante & Teicher – Exodus | last aired Nov 22 | 21x
 Prince Fatty – The Beat Goes On | last aired Nov 22 | 3x
-P!nk – Eventually | last aired Nov 22 | 3x
-Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 22 | 9x
-Auringon Lapset – Etäpäivä | last aired Nov 22 | 16x
-L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Nov 22 | 19x
-Donald Fagen – The Nightfly | last aired Nov 22 | 15x
+P!nk – Eventually | last aired Nov 22 | 4x
+Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 22 | 10x
+Auringon Lapset – Etäpäivä | last aired Nov 22 | 17x
+L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Nov 22 | 20x
+Donald Fagen – The Nightfly | last aired Nov 22 | 16x
+P!nk – Family Portrait | last aired Nov 22 | 3x
+Bruno Mars – I Just Might | last aired Nov 22 | 262x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
