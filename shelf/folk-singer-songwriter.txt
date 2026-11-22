@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 1:45am PT.
+Folk / Singer-Songwriter – 173 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 2:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -43,7 +43,6 @@ Ed Sheeran – Perfect | last aired Nov 16 | 11x
 Kings Of Convenience – Rocky Trail | last aired Nov 16 | 32x
 Mitski – My Love Mine All Mine | last aired Nov 16 | 21x
 Ben Howard – Only Love | last aired Nov 16 | 9x
-Tom Waits – House Where Nobody Lives | last aired Nov 17 | 44x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
 Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
@@ -54,7 +53,6 @@ Jeff Buckley – Lilac Wine | last aired Nov 17 | 1x
 Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 17 | 120x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 17 | 15x
 Mariza – Ó gente da minha terra | last aired Nov 17 | 39x
-The Head And The Heart – Down in the Valley | last aired Nov 17 | 25x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 17 | 7x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 18 | 13x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 18 | 26x
@@ -100,5 +98,7 @@ Nick Drake – Northern Sky | last aired Nov 20 | 138x
 Bon Iver – Holocene | last aired Nov 20 | 241x
 City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
+Iron & Wine – Naked as We Came | last aired Nov 20 | 138x
+Don McLean – Vincent | last aired Nov 20 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
