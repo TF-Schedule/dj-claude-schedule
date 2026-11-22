@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:30am PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -17,7 +17,6 @@ Matt Nathanson – Faster | last aired Nov 9 | 6x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 9 | 5x
 Matt Nathanson – Come On Get Higher | last aired Nov 9 | 6x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
-The Opium Cartel – Beach House | last aired Nov 12 | 25x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 12 | 20x
@@ -100,5 +99,6 @@ Leonard Cohen – Dance Me to the End of Love | last aired Nov 20 | 42x
 Elliott Smith – Angeles | last aired Nov 20 | 31x
 Fleet Foxes – Mykonos | last aired Nov 20 | 121x
 José González – Heartbeats | last aired Nov 20 | 127x
+Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

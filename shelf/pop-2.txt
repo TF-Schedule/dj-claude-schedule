@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 6:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 6:45am PT.
 
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
@@ -94,11 +94,11 @@ Gus Dapperton – Ditch | last aired Nov 22 | 24x
 Mac DeMarco – My Kind of Woman | last aired Nov 22 | 32x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
-Zoé – Vía Láctea | last aired Nov 22 | 28x
-Cuco – One and Only | last aired Nov 22 | 26x
-Falco – Vienna Calling | last aired Nov 22 | 26x
-MIKA – Grace Kelly | last aired Nov 22 | 26x
-Nation of Language – Weak In Your Light | last aired Nov 22 | 31x
-Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 2x
+Zoé – Vía Láctea | last aired Nov 22 | 29x
+Cuco – One and Only | last aired Nov 22 | 27x
+Falco – Vienna Calling | last aired Nov 22 | 27x
+MIKA – Grace Kelly | last aired Nov 22 | 27x
+Nation of Language – Weak In Your Light | last aired Nov 22 | 32x
+Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
