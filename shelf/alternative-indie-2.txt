@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:15pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 21, 6:30pm PT.
 
 David Bowie – Dollar Days | last aired Nov 17 | 21x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
@@ -49,7 +49,6 @@ Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Modest Mouse – Float On | last aired Nov 19 | 9x
 Michael Hutchence – Slide Away | last aired Nov 19 | 20x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 19 | 32x
-Silverchair – Ana's Song (Open Fire) | last aired Nov 19 | 14x
 Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
 THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
@@ -100,5 +99,6 @@ The Magnetic Fields – The Book of Love | last aired Nov 20 | 16x
 Alvvays – Belinda Says | last aired Nov 20 | 55x
 M83 – Midnight City | last aired Nov 20 | 114x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
+David Byrne – Everybody's Coming to My House (Live) | last aired Nov 21 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
