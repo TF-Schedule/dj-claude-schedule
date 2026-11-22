@@ -198,10 +198,10 @@ function normA(a) {
   return a.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/\s+(feat\.?|featuring|ft\.)\s.*$/, "").replace(/\s+(&|and|with)\s.*$/, "").replace(/^the\s+/, "").replace(/[^a-z0-9]+/g, " ").trim();
 }
+// Römische Zahlen am Titelende bleiben stehen (seit 22.11.2026): „In the Fog I“ ≠ „II“, „Who Am I“ bleibt „Who Am I“.
 function normT(t) {
   return t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/\s*[\(\[][^\)\]]*([\)\]]|$)/g, "").replace(/\s+-\s+.*(remaster|version|live|mix|edit|mono|stereo).*$/, "")
-    .replace(/\s*[:.,–-]\s*(i|ii|iii|iv|v|vi|vii|viii|ix|x)\.?$/, "")   // Satznummer nur nach Doppelpunkt o. Ä. („: I“) – „In the Fog I/II“ bleiben getrennt
     .replace(/[^a-z0-9]+/g, " ").trim();
 }
 // Sortieren wie in Bibliotheken: führende Klammern, Anführungszeichen und Satzzeichen ignorieren
@@ -214,8 +214,13 @@ function normA2(a) {
   return a.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
     .replace(/\s+(feat\.?|featuring|ft\.)\s.*$/, "").replace(/^the\s+/, "").replace(/[^a-z0-9]+/g, " ").trim();
 }
-let SHARED = new Set();
+let SHARED = new Set(), EXACT = new Set();
 const key = (a, t) => { const b = normA(a) + "|" + normT(t); return SHARED.has(b) ? normA2(a) + "|" + normT(t) : b; };
+// Verlauf und Cover (seit 22.11.2026): Gibt es zu einem Schlüssel mehrere verschieden benannte Titel im Mitschnitt
+// (Camouflage (Album Mix) / (Acoustic Mix), Fast Car (LP Version) / (2015 Remaster)), zählt dort der genaue Name.
+// Notizen bleiben tolerant zugeordnet (eine Notiz gilt für alle Fassungen).
+const exactK = (a, t) => "=" + fold(a).replace(/\s+/g, " ").trim() + "|" + fold(t).replace(/\s+/g, " ").trim();
+const histKey = (a, t) => { const k = key(a, t); return EXACT.has(k) ? exactK(a, t) : k; };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const fmt = iso => iso ? new Date(iso).toLocaleString("de-DE", { timeZone: "Europe/Berlin", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }) : "";
 const hoursSince = iso => iso ? (Date.now() - new Date(iso).getTime()) / 36e5 : 1e9;
@@ -351,6 +356,8 @@ async function load() {
   tracks = t.map(r => ({ ...r, plays: +r.plays || 0 }));
   SHARED = new Set(); { const seenK = new Map(); for (const r of tracks) { const b = normA(r.artist) + "|" + normT(r.title), f = normA2(r.artist) + "|" + normT(r.title);
     if (seenK.has(b) && seenK.get(b) !== f) SHARED.add(b); else seenK.set(b, f); } }
+  EXACT = new Set(); { const seenE = new Map(); for (const r of tracks) { const k = key(r.artist, r.title), e = exactK(r.artist, r.title);
+    if (seenE.has(k) && seenE.get(k) !== e) EXACT.add(k); else seenE.set(k, e); } }
   plays = p.reverse();
   notes = new Map(n.map(r => [key(r.artist, r.title), { ...EMPTY, ...r }]));
   loadPending();
@@ -380,9 +387,9 @@ function cover(url) {
 }
 
 function buildRows() {
-  artMap = new Map(tracks.filter(t => t.artwork).map(t => [key(t.artist, t.title), t.artwork]));
+  artMap = new Map(tracks.filter(t => t.artwork).map(t => [histKey(t.artist, t.title), t.artwork]));
   playsBy = new Map();                                      // eigener Verlauf je Titel, neueste zuerst
-  for (const p of plays) { const k = key(p.artist, p.title); if (!playsBy.has(k)) playsBy.set(k, []); playsBy.get(k).push(p); }
+  for (const p of plays) { const k = histKey(p.artist, p.title); if (!playsBy.has(k)) playsBy.set(k, []); playsBy.get(k).push(p); }
   const seen = new Set();
   rows = tracks.map(t => { seen.add(key(t.artist, t.title)); return t; });
   for (const [k, n] of [...notes.entries(), ...Object.entries(pending)]) {
@@ -437,7 +444,7 @@ function render() {
   if (!list.length) { tb.innerHTML = `<tr><td colspan="7" class="empty">Keine Titel für diese Auswahl.</td></tr>`; }
   else tb.innerHTML = list.slice(0, 2000).map(t => {
     const n = noteFor(t), h = hoursSince(t.last_played_utc), k = key(t.artist, t.title);
-    const film = n.film || t.film_hint, mine = playsBy.get(k) || [];
+    const film = n.film || t.film_hint, mine = playsBy.get(histKey(t.artist, t.title)) || [];
     const lastShow = (mine[0] && mine[0].show) || split(t.shows).slice(-1)[0] || "";
     const others = new Set(mine.map(p => p.show).filter(x => x && x !== lastShow)).size;
     const when = t.unplayed ? `<span class="new">noch nicht gelaufen</span>`
@@ -494,7 +501,7 @@ function renderPlays() {
   const rows = plays.filter(p => (!sh || groupOfShow(p.show) === sh) && (!q || hit(fold([p.artist, p.title, p.show].join(" ")))));
   document.getElementById("count2").textContent = `${rows.length} Plays`;
   document.getElementById("tbody2").innerHTML = rows.slice(0, 2000).map(p =>
-    `<tr><td><div class="tt">${cover(artMap.get(key(p.artist, p.title)))}<div><div class="t">${esc(p.title)}</div><div class="a">${esc(p.artist)}</div></div></div></td>
+    `<tr><td><div class="tt">${cover(artMap.get(histKey(p.artist, p.title)))}<div><div class="t">${esc(p.title)}</div><div class="a">${esc(p.artist)}</div></div></div></td>
      <td>${fmt(p.start_utc)}</td><td>${p.show ? `<span class="chip">${esc(p.show)}</span>` : ""}</td></tr>`).join("") ||
     `<tr><td colspan="3" class="empty">Noch keine Daten.</td></tr>`;
 }

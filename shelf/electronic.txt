@@ -1,4 +1,4 @@
-Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:30am PT.
+Electronic – 223 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:45am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -32,6 +32,7 @@ Holly Herndon – Chorus | last aired Nov 7 | 28x
 HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
 Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
+Tim Hecker – In the Fog II | last aired Nov 8 | 120x
 Daft Punk – Touch It / Technologic | last aired Nov 9 | 16x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 Groove Armada – Madder | last aired Nov 9 | 15x
@@ -99,6 +100,5 @@ Loscil – Estuarine | last aired Nov 17 | 154x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Carbon Based Lifeforms – Photosynthesis | last aired Nov 18 | 215x
-Camille – Ta douleur | last aired Nov 18 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

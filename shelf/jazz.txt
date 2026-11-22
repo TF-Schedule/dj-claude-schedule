@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -18,6 +18,7 @@ Michael Jackson – Jam | last aired Nov 6 | 7x
 Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 10 | 16x
+Charles Lloyd – You Are So Beautiful | last aired Nov 10 | 10x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Burna Boy – Last Last | last aired Nov 12 | 48x
@@ -40,14 +41,14 @@ Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Petra Haden – Moon River | last aired Nov 15 | 17x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 Bonobo – Kong | last aired Nov 16 | 85x
+Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 16 | 23x
 The Dave Brubeck Quartet – Take Five | last aired Nov 16 | 57x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 Zaz – Champs-Elysées | last aired Nov 16 | 3x
 Miles Davis – So What | last aired Nov 16 | 28x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 7x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 17 | 60x
+Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 37x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
@@ -93,12 +94,11 @@ Miles Davis – Blue in Green | last aired Nov 19 | 109x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 19 | 96x
 Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
-Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 8x
-Charles Lloyd – You Are So Beautiful | last aired Nov 20 | 22x
+Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 12x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 20 | 181x
 Chet Baker – Almost Blue | last aired Nov 20 | 59x
 Bobby McFerrin – Common Threads | last aired Nov 20 | 21x
 Norah Jones – Summertime Blue | last aired Nov 20 | 22x
-Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 20 | 75x
+Elvis Costello – Almost Blue | last aired Nov 20 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
