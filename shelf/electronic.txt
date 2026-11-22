@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:00pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:15pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -8,7 +8,6 @@ KAYA! – Turn It Up | last aired Oct 15 | 4x
 Obie Fernandez – Take Me Back (Extended Mix) | last aired Oct 17 | 5x
 Meat Beat Manifesto – Prime Audio Soup | last aired Oct 18 | 5x
 The Crystal Method – Busy Child | last aired Oct 19 | 3x
-Peter Fox – Alles neu (Album Version) | last aired Oct 20 | 1x
 Autechre – Clipper | last aired Oct 20 | 18x
 Guts – Laisser Lucie faire | last aired Oct 22 | 8x
 M83 – Wait | last aired Oct 23 | 17x
@@ -33,7 +32,6 @@ Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Tim Hecker – In the Fog II | last aired Nov 8 | 120x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
-Groove Armada – Madder | last aired Nov 9 | 15x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 9 | 8x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 66x
@@ -100,5 +98,7 @@ Lemon Jelly – Ramblin' Man | last aired Nov 18 | 45x
 M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 18 | 24x
 Marie Vaunt – That Acid | last aired Nov 18 | 8x
 The Orb – Spanish Castles In Space | last aired Nov 18 | 19x
+Peggy Gou – Starry Night | last aired Nov 18 | 170x
+Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 18 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
