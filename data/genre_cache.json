@@ -271,8 +271,9 @@
 "genre": "Pop"
 },
 "Alabama 3|Thank you": {
-"album": "Thank You (Single, 2023)",
+"album": "Thank You - Single",
 "apple_url": "https://music.apple.com/de/album/thank-you/1689428111?i=1689428277",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/40/52/a6405264-6fa5-21b5-b0e2-2c8b30fc013b/5060951630492_cover.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Alternative"
 },
@@ -3217,10 +3218,11 @@
 "apple_url": "https://music.apple.com/de/album/caribbean-blue-2009-remaster/1499659359?i=1499659363"
 },
 "Enya|Caribbean Blue (2009 Remaster) (Remastered 2009)": {
-"album": "",
+"album": "The Very Best of Enya",
 "apple_url": "https://music.apple.com/de/album/caribbean-blue-2009-remaster/1499659359?i=1499659363",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ad/16/52/ad165230-7bca-a4b5-774e-68f0948cf6ca/825646467648.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "Pop"
 },
 "Eric B. & Rakim|Paid In Full": {
 "album": "Paid In Full",
@@ -3897,6 +3899,7 @@
 "Glasperlenspiel|Nie vergessen": {
 "album": "",
 "apple_url": "https://music.apple.com/de/album/nie-vergessen-akustik-edit-single/1444290407",
+"artwork": "",
 "film_hint": "",
 "genre": ""
 },
@@ -7300,6 +7303,7 @@
 "Neil Diamond|Sweet Caroline": {
 "album": "50th Anniversary Collection",
 "apple_url": "https://music.apple.com/de/album/sweet-caroline/1422721391?i=1422721989",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/11/5a/12/115a123b-d3b6-b661-e2a3-88d6e137e25a/17UMGIM03521.rgb.jpg/100x100bb.jpg",
 "film_hint": "",
 "genre": "Pop"
 },
@@ -9335,10 +9339,11 @@
 "genre": "Alternative"
 },
 "Slowdive|Erik's Song (Album Version)": {
-"album": "",
+"album": "Just for a Day",
 "apple_url": "https://music.apple.com/de/album/eriks-song/399186360?i=399186405",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/51/5e/6b/mzi.ibzmksuk.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "Alternative"
 },
 "Smash Mouth|All Star (Album Version)": {
 "album": "All Star Smash Hits",
@@ -11060,10 +11065,11 @@
 "genre": "Electronic"
 },
 "Tim Hugh|Cello Concerto in A Minor, Wq. 170, H. 432 - II. Andante": {
-"album": "",
+"album": "C.P.E. Bach: Cello Concertos",
 "apple_url": "https://music.apple.com/de/album/concerto-in-a-minor-wq-170-ii-andante/3072419?i=3072387",
+"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m10/d10/h03/s03.qjwqwnhn.jpg/100x100bb.jpg",
 "film_hint": "",
-"genre": ""
+"genre": "Classical"
 },
 "Tim Maia|Réu Confesso": {
 "album": "The Soul of Brazil",

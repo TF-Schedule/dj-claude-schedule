@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 1:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 1:45am PT.
 
-Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
@@ -41,7 +40,6 @@ Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
-Tears For Fears – Everybody Wants To Rule The World | last aired Nov 19 | 38x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 22x
 Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Zoé – Vía Láctea | last aired Nov 19 | 28x
@@ -100,5 +98,7 @@ Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
 ABBA – Don't Shut Me Down | last aired Nov 21 | 15x
 Wir Sind Helden – Denkmal | last aired Nov 21 | 24x
+Gus Dapperton – Ditch | last aired Nov 22 | 23x
+Mac DeMarco – My Kind of Woman | last aired Nov 22 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
