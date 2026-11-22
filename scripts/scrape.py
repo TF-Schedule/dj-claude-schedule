@@ -166,6 +166,11 @@ def live365_plays(url=LIVE365):
     for t in items:
         if not t.get("title") or not t.get("start"):
             continue
+        # Seit 22.11.2026: „Unknown“ ohne Künstler ist ein Aussetzer der Plattform (gleiche Sekunde auf mehreren
+        # Sendern, danach startet derselbe Titel neu) – kein Titel. Früher fand die Apple-Suche dazu einen
+        # zufälligen Song namens „unknown“ (bakkerphonk) und das Regal zeigte ihn als „neu“.
+        if not ws(t.get("artist")) and ws(t.get("title")).lower() == "unknown":
+            continue
         plays.append({
             "start_utc": iso(t["start"]),
             "artist": ws(t.get("artist")),
