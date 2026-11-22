@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 11:45am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 12:00pm PT.
 
-Marie Vaunt – That Acid | last aired Nov 18 | 8x
 The Orb – Spanish Castles In Space | last aired Nov 18 | 19x
 Peggy Gou – Starry Night | last aired Nov 18 | 170x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 18 | 14x
@@ -100,5 +99,6 @@ Bicep – Apricots | last aired Nov 21 | 70x
 Slowdive – Erik's Song (Album Version) | last aired Nov 21 | 42x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 21 | 34x
 Moloko – The Time Is Now | last aired Nov 21 | 9x
+Burial – Archangel | last aired Nov 21 | 86x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
