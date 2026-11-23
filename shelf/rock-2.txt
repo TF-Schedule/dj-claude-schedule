@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 12:15pm PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 12:30pm PT.
 
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
@@ -35,7 +35,6 @@ Gustavo Cerati – Crimen | last aired Nov 20 | 30x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 20 | 181x
 Tina Turner – The Best | last aired Nov 20 | 29x
 Toto – Rosanna (Album Version) | last aired Nov 20 | 81x
-Christopher Cross – Sailing | last aired Nov 20 | 58x
 Kenny Loggins – This Is It | last aired Nov 20 | 40x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 20 | 27x
 Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
@@ -100,5 +99,6 @@ Mark Hollis – The Colour Of Spring | last aired Nov 21 | 31x
 Fito Páez – El amor después del amor | last aired Nov 21 | 30x
 Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
 Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
+Ideal – Blaue Augen | last aired Nov 21 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
