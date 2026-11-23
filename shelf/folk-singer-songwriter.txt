@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:30am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -61,7 +61,6 @@ Scorpions – Still Loving You (2011 Version) | last aired Nov 19 | 20x
 Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
 Adrianne Lenker – anything | last aired Nov 19 | 56x
 Scorpions – Holiday (Remastered 2015) | last aired Nov 19 | 11x
-Big Thief – Mary | last aired Nov 19 | 102x
 Go_A – SHUM | last aired Nov 19 | 20x
 Sufjan Stevens – Casimir Pulaski Day | last aired Nov 19 | 79x
 Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
@@ -100,5 +99,6 @@ Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 21 | 43x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 21 | 32x
 The Cure – Pictures of You | last aired Nov 21 | 43x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 21 | 3x
+Extreme – More Than Words | last aired Nov 21 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
