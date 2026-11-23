@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -76,7 +76,6 @@ Johnny Mathis – Wonderful! Wonderful! | last aired Nov 17 | 12x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 17 | 74x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
-Leon Larregui – Brillas | last aired Nov 18 | 10x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
@@ -100,5 +99,6 @@ Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
+Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
