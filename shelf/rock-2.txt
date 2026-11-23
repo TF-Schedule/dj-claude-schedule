@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:00am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:15am PT.
 
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
@@ -77,7 +77,6 @@ Summon The Wolf – Ghost Story | last aired Nov 21 | 17x
 Train – Drops of Jupiter (Tell Me) | last aired Nov 21 | 16x
 Underscores – Do It | last aired Nov 21 | 9x
 Lou Reed – Goodnight Ladies | last aired Nov 21 | 18x
-The Strokes – Last Nite | last aired Nov 21 | 83x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 Måneskin – Torna a casa | last aired Nov 21 | 23x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
@@ -100,5 +99,6 @@ Guns N' Roses – November Rain | last aired Nov 21 | 1x
 Guns N' Roses – Civil War | last aired Nov 21 | 1x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 21 | 26x
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 21 | 7x
+Olivia Rodrigo – vampire | last aired Nov 21 | 127x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
