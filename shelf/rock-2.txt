@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:30am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:45am PT.
 
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
@@ -69,7 +69,6 @@ David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
-Natalie Imbruglia – Torn | last aired Nov 20 | 20x
 The Good, The Bad & The Queen – History Song | last aired Nov 21 | 8x
 Café Tacvba – Eres (Album Version) | last aired Nov 21 | 40x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 21 | 37x
@@ -100,5 +99,6 @@ Lordi – Hard Rock Hallelujah | last aired Nov 21 | 18x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
 Guns N' Roses – Civil War | last aired Nov 21 | 1x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 21 | 26x
+Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 21 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

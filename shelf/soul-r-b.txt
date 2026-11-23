@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:30am PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:45am PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -26,7 +26,6 @@ Petra – This Means War | last aired Nov 11 | 7x
 The Weeknd – Blinding Lights | last aired Nov 12 | 160x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
 Stevie Wonder – Isn't She Lovely | last aired Nov 14 | 24x
-Bill Withers – Lovely Day | last aired Nov 14 | 157x
 Stevie Wonder – As | last aired Nov 14 | 25x
 Stevie Wonder – Go Home | last aired Nov 14 | 25x
 Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 14 | 110x
@@ -85,7 +84,6 @@ Alexi Murdoch – Orange Sky | last aired Nov 19 | 11x
 Khruangbin – A Calf Born In Winter | last aired Nov 20 | 90x
 Khruangbin – August 10 | last aired Nov 20 | 95x
 Otis Redding – (Sittin' On) the Dock of the Bay | last aired Nov 20 | 124x
-Sam Cooke – A Change Is Gonna Come | last aired Nov 20 | 101x
 Earth, Wind & Fire – September | last aired Nov 20 | 94x
 Stevie Wonder – Golden Lady | last aired Nov 20 | 141x
 Stevie Wonder – Higher Ground (Album Version) | last aired Nov 20 | 73x
@@ -100,5 +98,7 @@ Mavis Staples – We're Gonna Make It | last aired Nov 20 | 52x
 Erykah Badu – Window Seat | last aired Nov 20 | 84x
 Rihanna – Umbrella (Album Version) | last aired Nov 20 | 14x
 Amy Winehouse – Rehab | last aired Nov 20 | 61x
+Anita Baker – Angel (LP Version) | last aired Nov 20 | 55x
+Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 20 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
