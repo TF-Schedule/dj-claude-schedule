@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -86,7 +86,6 @@ Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 12x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 20 | 181x
-Chet Baker – Almost Blue | last aired Nov 20 | 59x
 Bobby McFerrin – Common Threads | last aired Nov 20 | 21x
 Elvis Costello – Almost Blue | last aired Nov 20 | 19x
 Acker Bilk – Stranger On The Shore | last aired Nov 20 | 17x
@@ -100,5 +99,6 @@ Steely Dan – Time Out Of Mind | last aired Nov 20 | 35x
 Erykah Badu – On & On | last aired Nov 20 | 126x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 20 | 23x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 21 | 127x
+Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 21 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
