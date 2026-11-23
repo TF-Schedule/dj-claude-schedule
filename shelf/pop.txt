@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -30,7 +30,6 @@ Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 10,000 Maniacs – Can't Ignore the Train (LP Version) | last aired Oct 31 | 12x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 34x
-Dope Lemon – Honey Bones | last aired Oct 31 | 22x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
@@ -100,5 +99,6 @@ Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
+Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

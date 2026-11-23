@@ -1,4 +1,4 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:30pm PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:45pm PT.
 
 Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
@@ -58,7 +58,6 @@ Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 20 | 55x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 Benny Sings – Sailing | last aired Nov 20 | 27x
-Amy Macdonald – This Is The Life | last aired Nov 20 | 24x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 20 | 36x
 Def Leppard – Photograph | last aired Nov 20 | 18x
 Måneskin – ZITTI E BUONI | last aired Nov 20 | 24x
@@ -86,7 +85,6 @@ Player – Baby Come Back | last aired Nov 20 | 44x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
 Natalie Imbruglia – Torn | last aired Nov 20 | 20x
 The Sundays – Folk Song | last aired Nov 20 | 27x
-MGMT – Electric Feel (Album Version) | last aired Nov 20 | 33x
 Bon Jovi – Livin' On A Prayer | last aired Nov 20 | 151x
 The Good, The Bad & The Queen – History Song | last aired Nov 21 | 8x
 Café Tacvba – Eres (Album Version) | last aired Nov 21 | 40x
@@ -100,5 +98,7 @@ The Strokes – Last Nite | last aired Nov 21 | 83x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 Måneskin – Torna a casa | last aired Nov 21 | 23x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
+David Bowie – Rebel Rebel | last aired Nov 21 | 27x
+Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
