@@ -1,6 +1,5 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:15pm PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:30pm PT.
 
-Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
 Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
@@ -100,5 +99,6 @@ Lou Reed – Goodnight Ladies | last aired Nov 21 | 18x
 The Strokes – Last Nite | last aired Nov 21 | 83x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 Måneskin – Torna a casa | last aired Nov 21 | 23x
+The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
