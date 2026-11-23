@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -12,7 +12,6 @@ DJ Benjii – Aykedashem Lebe | last aired Oct 29 | 15x
 Bert Kaempfert – A Swingin' Safari | last aired Oct 30 | 13x
 Charles Mingus – Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired Nov 6 | 19x
 Michael Jackson – Jam | last aired Nov 6 | 7x
-Bobby McFerrin – Don't Worry Be Happy | last aired Nov 9 | 7x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
 Charles Lloyd – You Are So Beautiful | last aired Nov 10 | 10x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
@@ -100,5 +99,6 @@ Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 21 | 3
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 22 | 102x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 22 | 9x
 Natalie Cole – At Last | last aired Nov 22 | 14x
+Chet Baker – You Don't Know What Love Is | last aired Nov 22 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

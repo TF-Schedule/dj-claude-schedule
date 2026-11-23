@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:30am PT.
 
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 18 | 9x
 Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
@@ -77,7 +77,6 @@ Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
 Natalie Imbruglia – Torn | last aired Nov 20 | 20x
-The Sundays – Folk Song | last aired Nov 20 | 27x
 The Good, The Bad & The Queen – History Song | last aired Nov 21 | 8x
 Café Tacvba – Eres (Album Version) | last aired Nov 21 | 40x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 21 | 37x
@@ -95,10 +94,11 @@ Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
 Lou Reed – Perfect Day | last aired Nov 21 | 4x
-Sui Generis – Rasguña Las Piedras (Album Version) | last aired Nov 21 | 2x
 Golden Earring – Radar Love | last aired Nov 21 | 5x
 Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
 From Fall to Spring – DRAW THE LINE | last aired Nov 21 | 2x
+Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
+John Mayer – New Light | last aired Nov 21 | 192x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
