@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -61,7 +61,6 @@ Steely Dan – Babylon Sisters | last aired Nov 19 | 60x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 19 | 83x
 Diana Krall – How Deep Is The Ocean | last aired Nov 19 | 15x
 Fiona Apple – Slow Like Honey | last aired Nov 19 | 28x
-Nina Simone – Feeling Good | last aired Nov 19 | 150x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 19 | 96x
 Nat King Cole – Nature Boy | last aired Nov 20 | 55x
 Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
@@ -100,5 +99,6 @@ Alfa Mist – Organic Rust | last aired Nov 22 | 118x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 22 | 16x
 Blossom Dearie – It Amazes Me | last aired Nov 22 | 27x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 22 | 41x
+Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 22 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
