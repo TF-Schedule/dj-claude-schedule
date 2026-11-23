@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 6:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 6:15am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -27,7 +27,6 @@ Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
 Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
-Tim Hecker – In the Fog II | last aired Nov 8 | 120x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
 Tim Hecker – Harmony in Blue I | last aired Nov 9 | 66x
@@ -100,5 +99,6 @@ Brian Eno – An Ending (Ascent) (Remastered 2019) | last aired Nov 18 | 400x
 Brian Eno – Capsule | last aired Nov 18 | 24x
 Jazzy – No Bad Vibes | last aired Nov 19 | 10x
 Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
+Portishead – Roads | last aired Nov 19 | 64x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
