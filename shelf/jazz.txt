@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:42am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -52,7 +52,6 @@ Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
 Shakatak – Night Birds | last aired Nov 18 | 27x
 Horace Silver Quintet – Peace | last aired Nov 18 | 31x
-John Coltrane – Lush Life | last aired Nov 18 | 38x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 19 | 95x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 19 | 4x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 19 | 36x
@@ -60,7 +59,6 @@ Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
 Julian Lage – Emily | last aired Nov 19 | 11x
 Steely Dan – Home At Last | last aired Nov 19 | 34x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
-Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 19 | 74x
 Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
 Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 19 | 29x
@@ -100,5 +98,7 @@ Mary Halvorson – About Ghosts | last aired Nov 21 | 21x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 21 | 103x
 GoGo Penguin – Hopopono | last aired Nov 21 | 87x
 George Benson – Affirmation (Album Version) | last aired Nov 21 | 18x
+Baby Face Willette – At Last | last aired Nov 21 | 14x
+Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 21 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
