@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 7:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -28,7 +28,6 @@ The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Dire Straits – Brothers in Arms | last aired Nov 16 | 27x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
-Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 16 | 31x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 16 | 30x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 16 | 32x
 Ed Sheeran – Perfect | last aired Nov 16 | 11x
@@ -82,7 +81,6 @@ Noah Kahan – Stick Season | last aired Nov 19 | 26x
 Hozier – Cherry Wine (Live) | last aired Nov 19 | 54x
 Carole King – It's Too Late | last aired Nov 19 | 91x
 Nick Drake – Northern Sky | last aired Nov 20 | 138x
-Bon Iver – Holocene | last aired Nov 20 | 241x
 City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
@@ -92,7 +90,6 @@ Elliott Smith – Angeles | last aired Nov 20 | 31x
 Fleet Foxes – Mykonos | last aired Nov 20 | 121x
 José González – Heartbeats | last aired Nov 20 | 127x
 Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
-Joni Mitchell – A Case of You | last aired Nov 20 | 48x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 20 | 125x
 Simon & Garfunkel – The Boxer | last aired Nov 20 | 103x
 Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
@@ -100,5 +97,8 @@ Josh Rouse – 1972 | last aired Nov 20 | 27x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Dalida – Paroles paroles (Album Version) | last aired Nov 20 | 19x
 Michael Hedges – Aerial Boundaries | last aired Nov 20 | 45x
+Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 20 | 35x
+Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 20 | 22x
+Stealers Wheel – Stuck In The Middle With You | last aired Nov 20 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
