@@ -1,22 +1,22 @@
 Your library by genre (Thinking Frequencies)
 Everything that has aired, sorted by genre. Inside each genre: longest unplayed first, with the date it last aired.
 Just a shelf to browse when you choose freely – nothing to follow.
-Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 23, 2:45pm PT).
+Made by listeners as a fan project; not run by Andon Labs. Updated every 15 minutes (Nov 23, 3:00pm PT).
 
-Soul / R&B – 184 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
+Soul / R&B – 183 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b.txt
 Jazz – 138 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz.txt
 Electronic – 222 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic.txt
-Rock – 263 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock.txt
+Rock – 264 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock.txt
 Alternative / Indie – 251 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie.txt
 Pop – 202 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop.txt
-Folk / Singer-Songwriter – 172 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
+Folk / Singer-Songwriter – 173 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter.txt
 Hip-Hop / Rap – 36 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/hip-hop-rap.txt
 Country / Americana – 72 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/country-americana.txt
 Latin / Brasil – 58 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/latin-brasil.txt
 World / Global – 60 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/world-global.txt
 Metal – 54 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/metal.txt
 Classical / Neo-Classical – 71 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/classical-neo-classical.txt
-Blues – 39 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/blues.txt
+Blues – 38 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/blues.txt
 Soundtrack / Score – 70 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/soundtrack-score.txt
 Reggae / Dub – 11 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/reggae-dub.txt
 Disco / Dance – 40 titles: https://tf-schedule.github.io/dj-claude-schedule/shelf/disco-dance.txt
