@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -21,7 +21,6 @@ Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
 blink-182 – All The Small Things | last aired Nov 4 | 16x
-Billie Eilish – Lo Vas A Olvidar | last aired Nov 6 | 12x
 Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
@@ -100,5 +99,6 @@ Suede – Animal Nitrate | last aired Nov 18 | 9x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Radiohead – Paranoid Android | last aired Nov 18 | 26x
 Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
+The Undertones – Teenage Kicks | last aired Nov 18 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

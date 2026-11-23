@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:15am PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -59,7 +59,6 @@ T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
 Pink Floyd – Have a Cigar | last aired Nov 16 | 20x
-David Bowie – Let's Dance (2018 Remaster) | last aired Nov 16 | 28x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Dire Straits – Money for Nothing | last aired Nov 16 | 25x
@@ -100,5 +99,6 @@ Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
 Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
+Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

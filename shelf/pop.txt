@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -44,14 +44,12 @@ Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Boy Throb – Finger | last aired Nov 11 | 6x
-Human League – Don't You Want Me | last aired Nov 11 | 25x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 19x
 Victor Leksell – Skriker mitt namn | last aired Nov 12 | 11x
 The McCoys – Hang on Sloopy | last aired Nov 12 | 16x
-Depeche Mode – Precious | last aired Nov 13 | 10x
 Tom Konkle – Manipulation (The Dance) | last aired Nov 14 | 7x
 The Beatles – With A Little Help From My Friends (2017 Mix) | last aired Nov 14 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 14 | 17x
@@ -100,5 +98,7 @@ Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
 Greg Shilling – Shampoo | last aired Nov 19 | 8x
+ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
+Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

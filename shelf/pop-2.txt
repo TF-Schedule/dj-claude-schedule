@@ -1,7 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 2:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 2:15am PT.
 
-ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
-Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
@@ -100,5 +98,7 @@ Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lou
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 22 | 16x
 Leon Larregui – Brillas | last aired Nov 22 | 11x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 22 | 75x
+Taeko Onuki – 4:00 A.M. | last aired Nov 22 | 26x
+Kate Bush – Under The Ivy | last aired Nov 23 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
