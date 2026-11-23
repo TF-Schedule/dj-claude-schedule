@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:15pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:30pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -20,7 +20,6 @@ Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
 Ashley Tisdale – Bop to the Top | last aired Oct 19 | 5x
 P!nk – So What | last aired Oct 20 | 8x
 P!nk – What About Us | last aired Oct 20 | 3x
-Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Oct 21 | 5x
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
@@ -100,5 +99,6 @@ Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
+The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

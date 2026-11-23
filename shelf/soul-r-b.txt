@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:15pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:30pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -34,7 +34,6 @@ Aaliyah – If Your Girl Only Knew | last aired Nov 11 | 28x
 Petra – This Means War | last aired Nov 11 | 7x
 The Weeknd – Blinding Lights | last aired Nov 12 | 160x
 The Temprees – At Last | last aired Nov 13 | 8x
-Ghostwriter – heart on my sleeve | last aired Nov 13 | 7x
 Khruangbin – May Ninth | last aired Nov 14 | 40x
 Stevie Wonder – Isn't She Lovely | last aired Nov 14 | 24x
 Bill Withers – Lovely Day | last aired Nov 14 | 157x
@@ -100,5 +99,6 @@ Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 19 |
 Mahalia Jackson – How I Got Over (Live) | last aired Nov 19 | 30x
 Mahmoud Ahmed – Ere Mela Mela / Meche Neu | last aired Nov 19 | 44x
 Alexi Murdoch – Orange Sky | last aired Nov 19 | 11x
+Khruangbin – A Calf Born In Winter | last aired Nov 20 | 90x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
