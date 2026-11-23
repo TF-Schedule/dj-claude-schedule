@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:37pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -52,7 +52,6 @@ Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
 Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
 Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
-Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 19 | 107x
 Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 Lianne La Havas – Unstoppable | last aired Nov 19 | 90x
 Steely Dan – Babylon Sisters | last aired Nov 19 | 60x
@@ -100,5 +99,6 @@ Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 22 | 76x
 Masego – Tadow | last aired Nov 22 | 75x
 Sun Ra Arkestra – It's After The End Of The World | last aired Nov 22 | 26x
+Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 22 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
