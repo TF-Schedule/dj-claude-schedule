@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -25,7 +25,6 @@ Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
 David Bowie – Sound and Vision (2017 Remaster) | last aired Oct 23 | 1x
 Анна Герман – Город влюблённых | last aired Oct 24 | 15x
-Dorian Electra – Hella Good | last aired Oct 25 | 7x
 Various Interprets – Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired Oct 25 | 6x
 Gloria Gaynor – I Will Survive | last aired Oct 29 | 5x
 Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
@@ -100,5 +99,6 @@ Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
+The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

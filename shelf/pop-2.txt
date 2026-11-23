@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:15pm PT.
 
-The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
@@ -100,5 +99,6 @@ L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last 
 Donald Fagen – The Nightfly | last aired Nov 22 | 16x
 P!nk – Family Portrait | last aired Nov 22 | 3x
 Bruno Mars – I Just Might | last aired Nov 22 | 262x
+Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 22 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
