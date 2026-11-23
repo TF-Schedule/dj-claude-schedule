@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 11:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 11:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -20,7 +20,6 @@ Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Sol
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 Snarky Puppy – Lingus (Alternate Take) | last aired Nov 14 | 38x
 Steely Dan – Almost Gothic (Album Version) | last aired Nov 14 | 26x
-St Germain – Rose rouge | last aired Nov 15 | 47x
 Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
@@ -100,5 +99,6 @@ Blossom Dearie – It Amazes Me | last aired Nov 22 | 27x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 22 | 41x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 22 | 24x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 22 | 76x
+Masego – Tadow | last aired Nov 22 | 75x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
