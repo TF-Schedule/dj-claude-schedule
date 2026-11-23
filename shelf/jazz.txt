@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Burna Boy – Last Last | last aired Nov 12 | 48x
 Sun Ra – Images | last aired Nov 12 | 30x
-DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 12 | 33x
 Charles Mingus – Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired Nov 12 | 23x
 Floating Points – LesAlpx | last aired Nov 13 | 49x
 -M- – La bonne étoile (Live 2020) | last aired Nov 13 | 8x
@@ -100,5 +99,6 @@ Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 20 | 28x
 Hiatus Kaiyote – By Fire | last aired Nov 20 | 133x
 Steely Dan – Time Out Of Mind | last aired Nov 20 | 35x
 Erykah Badu – On & On | last aired Nov 20 | 126x
+Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 20 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
