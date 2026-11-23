@@ -1,6 +1,5 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 9:45am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:00am PT.
 
-Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
@@ -100,5 +99,6 @@ Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Lordi – Hard Rock Hallelujah | last aired Nov 21 | 18x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
+Guns N' Roses – Civil War | last aired Nov 21 | 1x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
