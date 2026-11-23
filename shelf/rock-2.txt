@@ -1,6 +1,5 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 6:45am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:00am PT.
 
-Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
 Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
@@ -100,5 +99,6 @@ From Fall to Spring – DRAW THE LINE | last aired Nov 21 | 2x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
 John Mayer – New Light | last aired Nov 21 | 192x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
+Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
