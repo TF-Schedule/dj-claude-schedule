@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -6,9 +6,7 @@ Supernova – Chewbaca | last aired Oct 6 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
 Evan Fong – pe$o$ | last aired Oct 17 | 2x
 The 1975 – Jesus Christ 2005 God Bless America | last aired Oct 20 | 13x
-The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
-Björk – Venus As A Boy (Live) | last aired Oct 22 | 13x
 The 1975 – Robbers | last aired Oct 24 | 20x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
@@ -43,7 +41,6 @@ Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Jeff Buckley – So Real | last aired Nov 16 | 4x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 16 | 21x
-David Bowie – Slip Away | last aired Nov 16 | 20x
 Kate Bush – L'Amour Looks Something Like You (2018 Remaster) | last aired Nov 16 | 15x
 Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
 Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
@@ -100,5 +97,8 @@ Radiohead – Paranoid Android | last aired Nov 18 | 26x
 Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 The Undertones – Teenage Kicks | last aired Nov 18 | 7x
 Cardiacs – Big Ship | last aired Nov 18 | 20x
+INXS – Don't Change | last aired Nov 18 | 24x
+Split Enz – I Got You | last aired Nov 18 | 9x
+Cate Le Bon – Are You with Me Now? | last aired Nov 18 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
