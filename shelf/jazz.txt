@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:00am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -54,7 +54,6 @@ Steely Dan – Home At Last | last aired Nov 19 | 34x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 19 | 15x
 Melody Gardot – If I Tell You I Love You | last aired Nov 19 | 11x
 Nat King Cole – Autumn Leaves | last aired Nov 19 | 15x
-Nancy Wilson – Guess Who I Saw Today | last aired Nov 19 | 29x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 19 | 107x
 Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 Lianne La Havas – Unstoppable | last aired Nov 19 | 90x
@@ -78,7 +77,6 @@ Steely Dan – Time Out Of Mind | last aired Nov 20 | 35x
 Erykah Badu – On & On | last aired Nov 20 | 126x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 20 | 23x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 21 | 127x
-Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 21 | 29x
 Hailu Mergia – Tezeta | last aired Nov 21 | 62x
 Getatchèw Mèkurya – Shellela | last aired Nov 21 | 38x
 Bernard Purdie – Cool Down | last aired Nov 21 | 25x
@@ -100,5 +98,7 @@ Ella Fitzgerald – Summertime | last aired Nov 22 | 103x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 22 | 39x
 Alfa Mist – Organic Rust | last aired Nov 22 | 118x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 22 | 16x
+Blossom Dearie – It Amazes Me | last aired Nov 22 | 27x
+Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 22 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
