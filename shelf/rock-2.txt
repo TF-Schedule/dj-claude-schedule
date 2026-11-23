@@ -1,4 +1,4 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 12:30am PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 12:45am PT.
 
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 Juli – Perfekte Welle | last aired Nov 18 | 13x
@@ -14,7 +14,6 @@ Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
-Grateful Dead – Eyes of the World | last aired Nov 18 | 32x
 The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
 Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
@@ -100,5 +99,6 @@ Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired No
 Gary Jules – Mad World | last aired Nov 21 | 36x
 Lou Reed – Perfect Day | last aired Nov 21 | 4x
 Sui Generis – Rasguña Las Piedras (Album Version) | last aired Nov 21 | 2x
+Golden Earring – Radar Love | last aired Nov 21 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
