@@ -234,6 +234,8 @@ def kurt_rows():
 
 
 EMPTY_INFO = {"genre": "", "album": "", "film_hint": "", "artwork": ""}
+# Original und Remaster getrennt führen (Künstler, Titel ohne Remaster-Zusatz in Kleinbuchstaben)
+KEEP_REMASTER_APART = {("Herbert Grönemeyer", "mensch")}
 
 
 def parse_apple(r):
@@ -379,9 +381,12 @@ def main():
         cache[nk] = {f: new.get(f) or old.get(f) or "" for f in {*old, *new}}
     # Gleiches Lied mit verschiedenem Remaster-Jahr (z. B. Dreams 2001/2004 Remaster) als einen Titel führen,
     # angezeigt wird die Schreibweise, die im Mitschnitt am häufigsten vorkommt
+    # Ausnahme (seit 23.11.2026): Hier sind Original und Remaster zwei verschiedene Aufnahmen in seiner Bibliothek
+    # und werden getrennt gezählt (Grönemeyer „Mensch“: Studiofassung / „Remastered 2016“).
     def remaster_key(artist, title):
         t = re.sub(r"\s*[\(\[][^\)\]]*remaster[^\)\]]*[\)\]]|\s+-\s+.*remaster.*$", "", title, flags=re.I)
-        return (artist, t.strip().lower())
+        k = (artist, t.strip().lower())
+        return (artist, title.strip().lower()) if k in KEEP_REMASTER_APART else k
     # Stream-Neustarts (seit 23.11.2026): Derselbe Titel taucht innerhalb von 15 Min. erneut auf, höchstens drei
     # Einträge später (oft mit einem anderen Titel dazwischen) → kein zweiter Lauf, sondern ein Neustart des Streams.
     # Wird nicht als Lauf gezählt, aber in restarts.csv registriert (plays.csv bleibt unverändert).
