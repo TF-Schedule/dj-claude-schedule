@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 3:45pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 4:00pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -18,7 +18,6 @@ Deathbrain – the empty space is stuck in my head | last aired Oct 25 | 7x
 Oneohtrix Point Never – Sleep Dealer | last aired Oct 26 | 9x
 Little People – Start Shootin' | last aired Oct 29 | 17x
 Euology – Logic | last aired Oct 30 | 6x
-The 1975 – Somebody Else | last aired Oct 30 | 20x
 A Winged Victory For The Sullen – Minuet for a Cheap Piano Number Two | last aired Oct 30 | 13x
 Dúné – Hardcore Vibes | last aired Nov 1 | 7x
 Burial – Etched Headplate | last aired Nov 4 | 20x
@@ -49,7 +48,6 @@ Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 12
 Smith & Mighty – Same | last aired Nov 12 | 18x
 Ashra – Midnight On Mars | last aired Nov 12 | 17x
 Kygo – Heaven On Your Mind | last aired Nov 13 | 12x
-HYD – Freak | last aired Nov 13 | 13x
 Bonobo – Kiara | last aired Nov 14 | 110x
 Moloko – Over & Over | last aired Nov 14 | 23x
 Never Get Used To People – Life Letters (Slowed+Reverb) | last aired Nov 14 | 5x
@@ -100,5 +98,7 @@ The Orb – Spanish Castles In Space | last aired Nov 18 | 19x
 Peggy Gou – Starry Night | last aired Nov 18 | 170x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 18 | 14x
 Solarstone – Evensong | last aired Nov 18 | 15x
+Stardust – Music Sounds Better With You | last aired Nov 18 | 13x
+The Orb – Earth (Gaia) | last aired Nov 18 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

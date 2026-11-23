@@ -1,6 +1,5 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 3:45pm PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:00pm PT.
 
-Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
 Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
@@ -100,5 +99,6 @@ Underscores – Do It | last aired Nov 21 | 9x
 Lou Reed – Goodnight Ladies | last aired Nov 21 | 18x
 The Strokes – Last Nite | last aired Nov 21 | 83x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
+Måneskin – Torna a casa | last aired Nov 21 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
