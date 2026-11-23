@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:45am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -13,7 +13,6 @@ Bert Kaempfert – A Swingin' Safari | last aired Oct 30 | 13x
 Charles Mingus – Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired Nov 6 | 19x
 Michael Jackson – Jam | last aired Nov 6 | 7x
 Michael Bublé – Crazy (with Jon Batiste & Stay Human) (Live) | last aired Nov 10 | 14x
-Charles Lloyd – You Are So Beautiful | last aired Nov 10 | 10x
 Yussef Kamaal – Strings of Light | last aired Nov 11 | 110x
 Roseanna Vitro – If I Didn't Have You (If I Didn't Have You) | last aired Nov 12 | 16x
 Burna Boy – Last Last | last aired Nov 12 | 48x
@@ -27,7 +26,6 @@ Steely Dan – Kid Charlemagne | last aired Nov 15 | 26x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 15 | 18x
 Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
-Petra Haden – Moon River | last aired Nov 15 | 17x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 Bonobo – Kong | last aired Nov 16 | 85x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 16 | 23x
@@ -100,5 +98,7 @@ Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 22 | 102x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 22 | 9x
 Natalie Cole – At Last | last aired Nov 22 | 14x
 Chet Baker – You Don't Know What Love Is | last aired Nov 22 | 31x
+Ella Fitzgerald – Summertime | last aired Nov 22 | 103x
+Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 22 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

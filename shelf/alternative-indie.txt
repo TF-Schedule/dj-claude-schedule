@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -10,7 +10,6 @@ The Magnetic Fields – Absolutely Cuckoo | last aired Oct 21 | 4x
 Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
 Björk – Venus As A Boy (Live) | last aired Oct 22 | 13x
 The 1975 – Robbers | last aired Oct 24 | 20x
-The xx – Intro | last aired Oct 25 | 3x
 U2 – The Fly (Remastered 2011) | last aired Oct 25 | 3x
 Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
@@ -100,5 +99,6 @@ Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Radiohead – Paranoid Android | last aired Nov 18 | 26x
 Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 The Undertones – Teenage Kicks | last aired Nov 18 | 7x
+Cardiacs – Big Ship | last aired Nov 18 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
