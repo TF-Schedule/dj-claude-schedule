@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:00pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 10:15pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -50,7 +50,6 @@ Tom Novy – Superstar (The Jason Nevins' Live Peep Show Mix) | last aired Nov 1
 Boards of Canada – Roygbiv | last aired Nov 15 | 43x
 Steve Roach – Living the Dream | last aired Nov 15 | 52x
 Grimes – Oblivion | last aired Nov 15 | 12x
-Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 15 | 85x
 Bonobo – Cirrus | last aired Nov 16 | 136x
 Sigur Rós – Sé Lest | last aired Nov 16 | 65x
 Kraftwerk – Trans-Europe Express (2009 Remaster) | last aired Nov 16 | 35x
@@ -100,5 +99,6 @@ Martin Garrix – Carry You | last aired Nov 18 | 10x
 I Monster – Daydream In Blue | last aired Nov 18 | 24x
 Boards of Canada – Olson | last aired Nov 18 | 62x
 The Orb – Blue Room (Live) | last aired Nov 18 | 18x
+Thievery Corporation – Lebanese Blonde | last aired Nov 18 | 70x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
