@@ -1,6 +1,5 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 3:30pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 3:45pm PT.
 
-Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
@@ -100,5 +99,6 @@ Fito Páez – El amor después del amor | last aired Nov 21 | 30x
 Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
 Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
 Ideal – Blaue Augen | last aired Nov 21 | 13x
+Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

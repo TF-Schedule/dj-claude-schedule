@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 3:30pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 3:45pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -63,7 +63,6 @@ Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
-Fleetwood Mac – Sara | last aired Nov 16 | 30x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
@@ -100,5 +99,6 @@ Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
+Shakespears Sister – Stay | last aired Nov 18 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
