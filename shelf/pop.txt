@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -30,7 +30,6 @@ Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 34x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
-Katy Perry – Roar | last aired Nov 8 | 111x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Haute & Freddy – Shy Girl | last aired Nov 8 | 6x
 Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 9 | 9x
@@ -100,5 +99,6 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
+Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
