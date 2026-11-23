@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 1:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 1:45pm PT.
 
 Mazzy Star – Fade Into You | last aired Nov 20 | 102x
 ABBA – Dancing Queen | last aired Nov 20 | 46x
@@ -22,7 +22,6 @@ The Chills – Pink Frost | last aired Nov 20 | 11x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
 Her's – Blue Lips | last aired Nov 21 | 32x
-Tove Lo – No One Dies From Love | last aired Nov 21 | 187x
 Depeche Mode – Enjoy the Silence | last aired Nov 21 | 25x
 Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
@@ -100,5 +99,6 @@ Victor Leksell – Skriker mitt namn | last aired Nov 23 | 12x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 23 | 20x
 P!nk – So What | last aired Nov 23 | 9x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 23 | 14x
+Perpetuum Jazzile – Africa | last aired Nov 23 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
