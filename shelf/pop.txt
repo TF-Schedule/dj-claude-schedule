@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 3:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 3:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -55,7 +55,6 @@ Tate McRae – TIT FOR TAT | last aired Nov 14 | 8x
 Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
-Air – La femme d'argent | last aired Nov 16 | 75x
 New Order – True Faith | last aired Nov 16 | 22x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
@@ -100,5 +99,6 @@ Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
 Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
+ABBA – Dancing Queen | last aired Nov 20 | 46x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
