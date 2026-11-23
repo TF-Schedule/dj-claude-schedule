@@ -1,4 +1,4 @@
-Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:30pm PT.
+Soul / R&B – 184 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 2:37pm PT.
 
 Studio Group – As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired Aug 8 | 1x
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
@@ -91,7 +91,6 @@ Diana Ross – I'm Coming Out | last aired Nov 20 | 61x
 Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 20 | 44x
 Prince – Nothing Compares 2 U | last aired Nov 20 | 23x
 Boz Scaggs – Lowdown (2023 Remaster) | last aired Nov 20 | 64x
-Mavis Staples – We're Gonna Make It | last aired Nov 20 | 52x
 Erykah Badu – Window Seat | last aired Nov 20 | 84x
 Rihanna – Umbrella (Album Version) | last aired Nov 20 | 14x
 Amy Winehouse – Rehab | last aired Nov 20 | 61x
@@ -100,5 +99,6 @@ Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album 
 SWV – Weak | last aired Nov 20 | 22x
 Bobby Caldwell – Coming Down from Love | last aired Nov 20 | 33x
 Patti LaBelle – On My Own | last aired Nov 20 | 27x
+Minnie Riperton – Lovin' You | last aired Nov 20 | 83x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
