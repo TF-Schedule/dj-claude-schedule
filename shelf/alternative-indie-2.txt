@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:30am PT.
 
-Shellac – The End of Radio | last aired Nov 18 | 16x
 Paramore – Thick Skull | last aired Nov 18 | 19x
 Sade – By Your Side (Remastered Version) | last aired Nov 18 | 62x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 19 | 11x
@@ -100,5 +99,6 @@ Julien Baker – Hardline | last aired Nov 21 | 37x
 The Smashing Pumpkins – 1979 | last aired Nov 21 | 31x
 Pearl Jam – Yellow Ledbetter | last aired Nov 21 | 35x
 Geowulf – Saltwater | last aired Nov 21 | 19x
+Ultravox – Vienna (2008 Remaster) | last aired Nov 21 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
