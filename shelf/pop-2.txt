@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 4:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 5:00pm PT.
 
 JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
@@ -26,7 +26,6 @@ Bruno Mars – Gorilla | last aired Nov 20 | 13x
 Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
 TilaR – More Than A Friend | last aired Nov 20 | 5x
-Jvke – golden hour | last aired Nov 20 | 15x
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
 Khalid – momentary lovers | last aired Nov 20 | 22x
@@ -100,5 +99,6 @@ P!nk – Family Portrait | last aired Nov 22 | 3x
 Bruno Mars – I Just Might | last aired Nov 22 | 262x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 22 | 5x
 Still Woozy – Get Down | last aired Nov 22 | 9x
+Dorian Electra – Hella Good | last aired Nov 22 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
