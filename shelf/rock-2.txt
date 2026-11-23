@@ -1,6 +1,5 @@
-Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 6:00pm PT.
+Rock – 261 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 6:15pm PT.
 
-Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 Juli – Perfekte Welle | last aired Nov 18 | 13x
@@ -100,5 +99,6 @@ Måneskin – Torna a casa | last aired Nov 21 | 23x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
 David Bowie – Rebel Rebel | last aired Nov 21 | 27x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
+Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

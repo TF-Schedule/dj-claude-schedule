@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:00pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 6:15pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -25,7 +25,6 @@ Burial – Ghost Hardware | last aired Nov 4 | 19x
 Aphex Twin – Rhubarb Orc. 19.53 Rev | last aired Nov 5 | 69x
 Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 6 | 8x
 Holly Herndon – Chorus | last aired Nov 7 | 28x
-HUGEL – Movin' To The Sun | last aired Nov 7 | 1x
 Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Tim Hecker – In the Fog II | last aired Nov 8 | 120x
@@ -100,5 +99,6 @@ Solarstone – Evensong | last aired Nov 18 | 15x
 Stardust – Music Sounds Better With You | last aired Nov 18 | 13x
 The Orb – Earth (Gaia) | last aired Nov 18 | 29x
 Unkle – Rabbit in Your Headlights | last aired Nov 18 | 24x
+Zero 7 – In The Waiting Line | last aired Nov 18 | 74x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
