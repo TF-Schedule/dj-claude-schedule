@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 2:42am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 2:45am PT.
 
-Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 22x
@@ -100,5 +99,6 @@ Leon Larregui – Brillas | last aired Nov 22 | 11x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 22 | 75x
 Taeko Onuki – 4:00 A.M. | last aired Nov 22 | 26x
 Kate Bush – Under The Ivy | last aired Nov 23 | 32x
+Depeche Mode – Precious | last aired Nov 23 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
