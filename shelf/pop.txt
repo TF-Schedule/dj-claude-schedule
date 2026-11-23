@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 1:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 1:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -63,7 +63,6 @@ Lofi Fruits Music – Plastic Love | last aired Nov 14 | 6x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
-Kate Bush – Under The Ivy | last aired Nov 16 | 32x
 New Order – True Faith | last aired Nov 16 | 22x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
@@ -100,5 +99,6 @@ Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
+Greg Shilling – Shampoo | last aired Nov 19 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 1:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 1:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -16,7 +16,6 @@ Warpaint – Keep It Healthy | last aired Oct 28 | 7x
 The Jetzons – Hard Times | last aired Oct 28 | 14x
 Ethel Cain – Punish | last aired Oct 31 | 13x
 The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
-Montaigne – Technicolour | last aired Oct 31 | 5x
 Men At Work – Down Under | last aired Nov 1 | 8x
 Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Bush – Everything Zen (Remastered) | last aired Nov 2 | 6x
@@ -100,5 +99,6 @@ Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
 Suede – Animal Nitrate | last aired Nov 18 | 9x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Radiohead – Paranoid Android | last aired Nov 18 | 26x
+Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

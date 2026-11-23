@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 1:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 1:15am PT.
 
-Greg Shilling – Shampoo | last aired Nov 19 | 8x
 ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
@@ -100,5 +99,6 @@ Tina Turner – Private Dancer (Single Edit) | last aired Nov 22 | 2x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Nov 22 | 6x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 22 | 16x
 Leon Larregui – Brillas | last aired Nov 22 | 11x
+Mac DeMarco – Chamber Of Reflection | last aired Nov 22 | 75x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
