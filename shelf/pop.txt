@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:15am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -60,7 +60,6 @@ The Beach Boys – God Only Knows (Stereo) | last aired Nov 15 | 42x
 Arcadia – The Promise (2010 Remaster) | last aired Nov 16 | 5x
 Air – La femme d'argent | last aired Nov 16 | 75x
 New Order – True Faith | last aired Nov 16 | 22x
-New Order – Blue Monday (2016 Remaster) | last aired Nov 17 | 19x
 Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 | 20x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 17 | 12x
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
@@ -100,5 +99,6 @@ Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
+Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

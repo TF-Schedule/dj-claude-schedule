@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:15am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:30am PT.
 
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
 Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
@@ -49,7 +49,6 @@ Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 20 | 55x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 Benny Sings – Sailing | last aired Nov 20 | 27x
-Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 20 | 36x
 Def Leppard – Photograph | last aired Nov 20 | 18x
 Måneskin – ZITTI E BUONI | last aired Nov 20 | 24x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 20 | 19x
@@ -100,5 +99,6 @@ Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
 John Mayer – New Light | last aired Nov 21 | 192x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
+The Replacements – Answering Machine | last aired Nov 21 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
