@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -46,7 +46,6 @@ Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Boy Throb – Finger | last aired Nov 11 | 6x
 Human League – Don't You Want Me | last aired Nov 11 | 25x
 Post Malone – Chemical | last aired Nov 11 | 17x
-Antonio Campo – I Need You More and More (Remastered) | last aired Nov 11 | 15x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
 A-Ha – Take On Me (MTV Unplugged) | last aired Nov 12 | 19x
@@ -100,5 +99,6 @@ The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
+Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

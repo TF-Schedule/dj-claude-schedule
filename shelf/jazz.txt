@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 8:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -56,7 +56,6 @@ Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
 Melody Gardot – La chanson des vieux amants | last aired Nov 18 | 13x
 Paolo Conte – Via Con Me | last aired Nov 18 | 26x
 Shakatak – Night Birds | last aired Nov 18 | 27x
-Anita Baker – Sweet Love | last aired Nov 18 | 123x
 Horace Silver Quintet – Peace | last aired Nov 18 | 31x
 John Coltrane – Lush Life | last aired Nov 18 | 38x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 19 | 95x
@@ -100,5 +99,6 @@ Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 21 | 29x
 Hailu Mergia – Tezeta | last aired Nov 21 | 62x
 Getatchèw Mèkurya – Shellela | last aired Nov 21 | 38x
 Bernard Purdie – Cool Down | last aired Nov 21 | 25x
+Steely Dan – Peg | last aired Nov 21 | 111x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
