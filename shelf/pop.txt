@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:30pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 11:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -86,7 +86,6 @@ Soft Cell – Tainted Love | last aired Nov 18 | 25x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 18 | 16x
 Leon Larregui – Locos | last aired Nov 18 | 21x
 Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
-Taeko Onuki – 4:00 A.M. | last aired Nov 18 | 25x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
 Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
@@ -100,5 +99,6 @@ The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
+Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
