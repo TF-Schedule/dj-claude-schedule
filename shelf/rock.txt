@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 11:45am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 12:00pm PT.
 
 Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
@@ -21,7 +21,6 @@ U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 1 | 109
 Stratovarius – Black Diamond | last aired Nov 1 | 8x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 6 | 4x
-Steve Miller Band – The Joker | last aired Nov 7 | 12x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 9 | 11x
@@ -100,5 +99,6 @@ Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
 Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Al Stewart – Year of the Cat | last aired Nov 18 | 34x
+Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

@@ -1,6 +1,5 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:45am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 12:00pm PT.
 
-Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
@@ -63,7 +62,6 @@ The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | las
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
 Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 20 | 20x
 Andrés Calamaro – Flaca | last aired Nov 20 | 36x
-Little River Band – Cool Change | last aired Nov 20 | 18x
 David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
@@ -100,5 +98,7 @@ Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 21 | 26x
 Olivia Rodrigo – vampire | last aired Nov 21 | 127x
 Mark Hollis – The Colour Of Spring | last aired Nov 21 | 31x
 Fito Páez – El amor después del amor | last aired Nov 21 | 30x
+Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
+Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
