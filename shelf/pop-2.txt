@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 8:00am PT.
 
-Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
 Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
@@ -100,5 +99,6 @@ Depeche Mode – Precious | last aired Nov 23 | 11x
 Human League – Don't You Want Me | last aired Nov 23 | 26x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 23 | 13x
 Jack Johnson – Upside Down | last aired Nov 23 | 12x
+Victor Leksell – Skriker mitt namn | last aired Nov 23 | 11x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

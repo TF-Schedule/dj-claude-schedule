@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 8:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -18,7 +18,6 @@ Weird Al Yankovic – Ode to a Superhero (Parody of "Piano Man" by Billy Joel) |
 P!nk – Get the Party Started | last aired Oct 18 | 6x
 Celtic Siren Noreen – Penelope's Song The Odyssey | last aired Oct 19 | 19x
 Ashley Tisdale – Bop to the Top | last aired Oct 19 | 5x
-P!nk – So What | last aired Oct 20 | 8x
 P!nk – What About Us | last aired Oct 20 | 3x
 Serge Clivio – Your Love Is King | last aired Oct 21 | 11x
 P!nk – Try | last aired Oct 21 | 2x
@@ -100,5 +99,6 @@ Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 19 | 22x
+Clannad – Theme From Harry's Game | last aired Nov 19 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

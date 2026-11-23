@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 8:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -22,10 +22,8 @@ Lana Del Rey – Heroin | last aired Nov 10 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
-Duran Duran – Ordinary World | last aired Nov 12 | 12x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Björk – Unravel | last aired Nov 12 | 27x
-Pulp – Common People (Full Length Version; Album Version) | last aired Nov 12 | 9x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
@@ -41,7 +39,6 @@ Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
 Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Nov 16 | 20x
-New Found Glory – My Friends Over You | last aired Nov 16 | 7x
 Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
 Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
@@ -100,5 +97,8 @@ Paramore – Thick Skull | last aired Nov 18 | 19x
 Sade – By Your Side (Remastered Version) | last aired Nov 18 | 62x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 19 | 11x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 19 | 12x
+Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
+Cocteau Twins – Cherry-coloured Funk | last aired Nov 19 | 79x
+MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

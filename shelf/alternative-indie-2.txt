@@ -1,8 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 8:00am PT.
 
-Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
-Cocteau Twins – Cherry-coloured Funk | last aired Nov 19 | 79x
-MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 Alabama 3 – Thank you | last aired Nov 19 | 10x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Modest Mouse – Float On | last aired Nov 19 | 9x
@@ -100,5 +97,8 @@ Silverchair – Ana's Song (Open Fire) | last aired Nov 21 | 15x
 Bauhaus – Ziggy Stardust | last aired Nov 21 | 20x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 21 | 12x
 Sting – Fragile | last aired Nov 21 | 40x
+Björk – Army Of Me | last aired Nov 21 | 22x
+Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 21 | 20x
+Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Nov 22 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
