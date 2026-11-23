@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 5:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 22, 5:57pm PT.
 
-JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
@@ -100,5 +99,6 @@ Bruno Mars – I Just Might | last aired Nov 22 | 262x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 22 | 5x
 Still Woozy – Get Down | last aired Nov 22 | 9x
 Dorian Electra – Hella Good | last aired Nov 22 | 7x
+Dope Lemon – Honey Bones | last aired Nov 22 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

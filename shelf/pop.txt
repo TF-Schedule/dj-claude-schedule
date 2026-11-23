@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 22, 5:57pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -32,7 +32,6 @@ Christina Aguilera – Genie In a Bottle | last aired Oct 30 | 6x
 A-Ha – Take on Me (2015 Remaster) | last aired Oct 31 | 34x
 USA for Africa – We Are The World | last aired Oct 31 | 46x
 ROSALÍA – Berghain | last aired Nov 4 | 4x
-Tina Turner – Private Dancer (Single Edit) | last aired Nov 7 | 1x
 Katy Perry – Roar | last aired Nov 8 | 111x
 toe – Goodbye (Live) | last aired Nov 8 | 24x
 Jack Johnson – Upside Down | last aired Nov 8 | 11x
@@ -100,5 +99,6 @@ Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
+JAWNY – true | last aired Nov 19 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
