@@ -38,6 +38,7 @@ PLAY_COLS = ["start_utc", "artist", "title", "duration_s", "show", "apple_url"]
 BLOCK_COLS = ["start_utc", "show", "description"]
 ANN_COLS = ["first_seen_utc", "start_utc", "show", "description"]
 TRACK_COLS = ["artist", "title", "plays", "last_played_utc", "shows", "genre", "album", "film_hint", "apple_url", "source", "artwork", "new_utc"]
+RESTARTS = DATA / "restarts.csv"   # seit 23.11.2026: Stream-Neustarts (gleicher Titel kurz hintereinander), nur registriert
 SEEN = DATA / "claude_seen.csv"     # seit 14.11.2026: Gedächtnis, welche Titel wir schon kennen → neu gekaufte erkennen
 SEEN_COLS = ["artist", "title", "first_utc", "kind"]   # kind: bestand (beim Start schon da) | neu (danach erstmals gespielt)
 SEEN_SINCE = "2026-11-15"   # ab hier wird die Einstufung bei jedem Lauf neu berechnet (Kurts Liste kennt neue Titel nach dem ersten Lauf)
@@ -381,11 +382,31 @@ def main():
     def remaster_key(artist, title):
         t = re.sub(r"\s*[\(\[][^\)\]]*remaster[^\)\]]*[\)\]]|\s+-\s+.*remaster.*$", "", title, flags=re.I)
         return (artist, t.strip().lower())
+    # Stream-Neustarts (seit 23.11.2026): Derselbe Titel taucht innerhalb von 15 Min. erneut auf, höchstens drei
+    # Einträge später (oft mit einem anderen Titel dazwischen) → kein zweiter Lauf, sondern ein Neustart des Streams.
+    # Wird nicht als Lauf gezählt, aber in restarts.csv registriert (plays.csv bleibt unverändert).
+    restart_idx, restart_rows = set(), []
+    for i, p in enumerate(plays):
+        if i in restart_idx:
+            continue
+        t0 = datetime.fromisoformat(p["start_utc"].replace("Z", "+00:00"))
+        for j in range(i + 1, min(i + 4, len(plays))):
+            q = plays[j]
+            if q["artist"] == p["artist"] and q["title"] == p["title"]:
+                gap = (datetime.fromisoformat(q["start_utc"].replace("Z", "+00:00")) - t0).total_seconds()
+                if 0 <= gap < 900:
+                    restart_idx.add(j)
+                    restart_rows.append({"start_utc": p["start_utc"], "restart_utc": q["start_utc"], "artist": p["artist"],
+                                         "title": p["title"], "gap_s": int(gap), "between": j - i - 1})
+                break
+    write_csv(RESTARTS, ["start_utc", "restart_utc", "artist", "title", "gap_s", "between"], restart_rows)
     variants = {}
     for p in plays:
         variants.setdefault(remaster_key(p["artist"], p["title"]), Counter())[p["title"]] += 1
     agg = {}
-    for p in plays:
+    for i, p in enumerate(plays):
+        if i in restart_idx:
+            continue
         title = variants[remaster_key(p["artist"], p["title"])].most_common(1)[0][0]
         k = (p["artist"], title)
         a = agg.setdefault(k, {"artist": p["artist"], "title": title, "plays": 0, "last_played_utc": "", "shows": set(), "apple_url": ""})
