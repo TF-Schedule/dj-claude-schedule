@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 8:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 8:15am PT.
 
 Tim Hecker – In the Fog I | last aired Nov 20 | 105x
 Wax Tailor – Seize The Day | last aired Nov 20 | 16x
@@ -7,7 +7,6 @@ Armin van Buuren – Set Me Free | last aired Nov 20 | 7x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 20 | 30x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 20 | 57x
 Eluvium – Surrounded by Illusion | last aired Nov 20 | 35x
-Fennesz – Endless Summer | last aired Nov 20 | 87x
 Christian Löffler – Lid | last aired Nov 20 | 42x
 Oneohtrix Point Never – Nothing’s Special | last aired Nov 20 | 9x
 Portishead – It Could Be Sweet | last aired Nov 21 | 20x
@@ -100,5 +99,6 @@ Floating Points – Last Bloom | last aired Nov 23 | 101x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 23 | 88x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 23 | 188x
 A Winged Victory For The Sullen – Steep Hills of Vicodin Tears | last aired Nov 23 | 121x
+Sigur Rós – Sé Lest | last aired Nov 23 | 66x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
