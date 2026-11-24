@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 3:00am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 3:15am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -63,7 +63,6 @@ Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
 Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
-Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 18 | 12x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sadie Jean – WYD Now? | last aired Nov 18 | 8x
@@ -100,5 +99,6 @@ Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 20 | 25x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
+Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
