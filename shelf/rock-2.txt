@@ -1,6 +1,5 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:15pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:30pm PT.
 
-Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
 The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
@@ -100,5 +99,6 @@ Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
 Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
+Dire Straits – Sultans of Swing | last aired Nov 21 | 87x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
