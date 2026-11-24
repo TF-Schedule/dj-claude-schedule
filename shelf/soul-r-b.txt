@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:45pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 2:00pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -71,7 +71,6 @@ Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 20 | 41x
 Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 20 | 44x
 Prince – Nothing Compares 2 U | last aired Nov 20 | 23x
 Boz Scaggs – Lowdown (2023 Remaster) | last aired Nov 20 | 64x
-Erykah Badu – Window Seat | last aired Nov 20 | 84x
 Rihanna – Umbrella (Album Version) | last aired Nov 20 | 14x
 Amy Winehouse – Rehab | last aired Nov 20 | 61x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 20 | 33x
@@ -100,5 +99,6 @@ Tlahoun Gessesse – Tchuheten Betsemu | last aired Nov 22 | 38x
 Eric Clapton – Change the World | last aired Nov 22 | 22x
 Thee Sacred Souls – Live For You | last aired Nov 22 | 39x
 Khruangbin – White Gloves | last aired Nov 22 | 91x
+Leon Bridges – Coming Home | last aired Nov 22 | 117x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
