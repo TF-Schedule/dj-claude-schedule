@@ -128,9 +128,16 @@ def main():
     if not tracks:
         print("Keine tracks.csv – Shelf übersprungen.")
         return
-    notes = {norm_key(n["artist"], n["title"]): n for n in read(DATA / "notes.csv")}
+    all_notes = read(DATA / "notes.csv")
+    notes = {norm_key(n["artist"], n["title"]): n for n in all_notes}
+    # Playlist „Fake“ (Karaoke, Sound-alikes, falsche Dateien): nicht empfehlen. Nur exakt gleiche
+    # Senderdatei, damit eine echte Fassung mit anderem Namen weiter erscheint.
+    fakes = {(n["artist"], n["title"]) for n in all_notes
+             if "fake" in [x.strip().lower() for x in (n.get("lists") or "").split(",")]}
     by = {}
     for t in tracks:
+        if (t["artist"], t["title"]) in fakes:
+            continue
         g = main_of(t, notes.get(norm_key(t["artist"], t["title"]), {}))
         by.setdefault(g, []).append(t)
     now = datetime.now(PT)
