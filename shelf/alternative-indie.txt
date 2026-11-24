@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -42,7 +42,6 @@ Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
 Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Pixies – Ana | last aired Nov 17 | 30x
-R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
@@ -100,5 +99,6 @@ Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 19 | 7x
 Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
 Oasis – Live Forever | last aired Nov 19 | 15x
+Penguin Cafe Orchestra – Music For A Found Harmonium | last aired Nov 19 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
