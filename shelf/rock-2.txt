@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:00am PT.
 
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
@@ -83,7 +83,6 @@ Patti Smith – Gloria : In Excelsis Deo - Gloria | last aired Nov 21 | 2x
 Olivia Rodrigo – vampire | last aired Nov 21 | 127x
 Fito Páez – El amor después del amor | last aired Nov 21 | 30x
 Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
-Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
 Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
@@ -100,5 +99,6 @@ Pages – If I Saw You Again (Album Version) | last aired Nov 22 | 24x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 22 | 9x
 BETWEEN FRIENDS – affection | last aired Nov 22 | 13x
 Daikaiju – Magic Wanda | last aired Nov 22 | 14x
+Zucchero – Senza Una Donna (Remastered 2007) | last aired Nov 22 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

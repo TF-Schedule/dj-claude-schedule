@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 5:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -89,7 +89,6 @@ Josh Rouse – Street Lights | last aired Nov 21 | 15x
 Bill Callahan – Riding For The Feeling | last aired Nov 21 | 48x
 Ben&Ben – Maybe The Night | last aired Nov 21 | 34x
 Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
-Lord Huron – Life Is Strange | last aired Nov 22 | 54x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 22 | 36x
 Tom Waits – House Where Nobody Lives | last aired Nov 22 | 45x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
@@ -100,5 +99,6 @@ Phoebe Bridgers – Moon Song | last aired Nov 22 | 82x
 Amália Rodrigues – Barco negro | last aired Nov 22 | 40x
 Ben&Ben – Leaves | last aired Nov 22 | 54x
 The Weepies – Gotta Have You | last aired Nov 22 | 40x
+Gilbert Bécaud – Nathalie | last aired Nov 22 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
