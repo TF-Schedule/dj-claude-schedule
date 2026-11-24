@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 11:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 12:00pm PT.
 
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 19 | 8x
 Kim Carnes – More Love | last aired Nov 19 | 21x
@@ -77,7 +77,6 @@ Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
 Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
-Dire Straits – Sultans of Swing | last aired Nov 21 | 87x
 indigo la End – Haru No Iutoori | last aired Nov 21 | 22x
 Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 21 | 43x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 21 | 60x
@@ -100,5 +99,6 @@ Gerry Rafferty – Right Down the Line | last aired Nov 22 | 25x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Nov 22 | 24x
 Peter Gabriel – Sledgehammer | last aired Nov 22 | 20x
 Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 22 | 20x
+Queens Of The Stone Age – No One Knows | last aired Nov 22 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
