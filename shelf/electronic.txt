@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 8:30am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 8:45am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -80,7 +80,6 @@ Brian Eno – Capsule | last aired Nov 18 | 24x
 Jazzy – No Bad Vibes | last aired Nov 19 | 10x
 Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 19 | 4x
-Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 19 | 11x
 Thievery Corporation – Omid | last aired Nov 19 | 24x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 19 | 26x
 Caterina Barbieri – Fantas | last aired Nov 19 | 55x
@@ -100,5 +99,6 @@ Jon Hopkins – Small Memory | last aired Nov 20 | 25x
 Floating Points – Birth4000 | last aired Nov 20 | 72x
 Disclosure – Help Me Lose My Mind | last aired Nov 20 | 37x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 20 | 11x
+Wax Tailor – Seize The Day | last aired Nov 20 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
