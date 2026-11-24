@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:19am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -12,7 +12,6 @@ Ethel Cain – Punish | last aired Oct 31 | 13x
 The Psychedelic Furs – The Ghost In You | last aired Oct 31 | 13x
 Q Lazzarus – Goodbye Horses - Single | last aired Nov 1 | 24x
 Cult With No Name – You Know Me Better Than I Know Myself | last aired Nov 3 | 6x
-Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
@@ -83,7 +82,6 @@ INXS – Don't Change | last aired Nov 18 | 24x
 Split Enz – I Got You | last aired Nov 18 | 9x
 Shellac – The End of Radio | last aired Nov 18 | 16x
 Paramore – Thick Skull | last aired Nov 18 | 19x
-Sade – By Your Side (Remastered Version) | last aired Nov 18 | 62x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 19 | 12x
 Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
@@ -100,5 +98,7 @@ Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Gorillaz – Hong Kong | last aired Nov 19 | 29x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
+Soundgarden – Fell On Black Days (Album Version) | last aired Nov 19 | 7x
+Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
