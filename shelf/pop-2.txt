@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 7:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 8:00pm PT.
 
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
@@ -48,7 +48,6 @@ Gus Dapperton – Ditch | last aired Nov 22 | 24x
 Mac DeMarco – My Kind of Woman | last aired Nov 22 | 32x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
-Zoé – Vía Láctea | last aired Nov 22 | 29x
 Cuco – One and Only | last aired Nov 22 | 27x
 Falco – Vienna Calling | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
@@ -100,5 +99,6 @@ Katy Perry – Roar | last aired Nov 23 | 112x
 Tove Lo – No One Dies From Love | last aired Nov 23 | 188x
 Mazzy Star – Fade Into You | last aired Nov 23 | 103x
 Air – La femme d'argent | last aired Nov 23 | 75x
+The Carpenters – (They Long To Be) Close To You | last aired Nov 23 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

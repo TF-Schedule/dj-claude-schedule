@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 8:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -77,7 +77,6 @@ King Crimson – Matte Kudasai | last aired Nov 20 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
 Edith Piaf – La Vie en rose | last aired Nov 21 | 40x
 RY X – Let You Go | last aired Nov 21 | 20x
-Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 21 | 32x
 The Cure – Pictures of You | last aired Nov 21 | 43x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 21 | 3x
 Extreme – More Than Words | last aired Nov 21 | 3x
@@ -100,5 +99,6 @@ Ben&Ben – Maybe The Night | last aired Nov 21 | 34x
 Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
 Lord Huron – Life Is Strange | last aired Nov 22 | 54x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 22 | 36x
+Tom Waits – House Where Nobody Lives | last aired Nov 22 | 45x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
