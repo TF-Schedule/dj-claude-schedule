@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:30pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:45pm PT.
 
 Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
@@ -31,7 +31,6 @@ Fugazi – Waiting Room | last aired Nov 20 | 14x
 Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 20 | 20x
 Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
-Saint Etienne – Only Love Can Break Your Heart | last aired Nov 20 | 32x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 20 | 16x
 Alvvays – Belinda Says | last aired Nov 20 | 55x
@@ -67,7 +66,6 @@ Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
 Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
 Phoenix – Lisztomania | last aired Nov 21 | 46x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
-This Mortal Coil – Song To The Siren | last aired Nov 21 | 37x
 Banners – Shine A Light | last aired Nov 21 | 24x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
 Wild Nothing – Chinatown | last aired Nov 21 | 35x
@@ -100,5 +98,7 @@ The Police – Roxanne (Remastered 2003) | last aired Nov 22 | 5x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 22 | 7x
 Cults – Gilded Lily | last aired Nov 22 | 23x
 ABBA – I Wonder (Departure) | last aired Nov 22 | 17x
+Avril Lavigne – Sk8er Boi | last aired Nov 22 | 15x
+Visage – Fade To Grey | last aired Nov 22 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
