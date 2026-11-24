@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:15am PT.
 
 Gorillaz – Hong Kong | last aired Nov 19 | 29x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
@@ -56,7 +56,6 @@ Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
 Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
 Phoenix – Lisztomania | last aired Nov 21 | 46x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
-Banners – Shine A Light | last aired Nov 21 | 24x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
 Wild Nothing – Chinatown | last aired Nov 21 | 35x
 twenty one pilots – Stressed Out | last aired Nov 21 | 26x
@@ -100,5 +99,6 @@ ByeAlex – Kedvesem (Original) | last aired Nov 22 | 17x
 Virus – Imágenes Paganas | last aired Nov 22 | 16x
 ANORAQUE – Ivy | last aired Nov 22 | 17x
 No Vacation – Waltzing Back | last aired Nov 22 | 26x
+Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 22 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
