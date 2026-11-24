@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -49,12 +49,10 @@ Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
 Adrianne Lenker – anything | last aired Nov 19 | 56x
 Scorpions – Holiday (Remastered 2015) | last aired Nov 19 | 11x
 Go_A – SHUM | last aired Nov 19 | 20x
-Sufjan Stevens – Casimir Pulaski Day | last aired Nov 19 | 79x
 Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 City – Am Fenster | last aired Nov 20 | 6x
-Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Michael Hedges – Aerial Boundaries | last aired Nov 20 | 45x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 20 | 35x
@@ -100,5 +98,7 @@ Bon Iver – Holocene | last aired Nov 22 | 242x
 Joni Mitchell – A Case of You | last aired Nov 22 | 49x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 22 | 32x
 Noah Kahan – Stick Season | last aired Nov 22 | 27x
+The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 22 | 12x
+Nick Drake – Pink Moon | last aired Nov 22 | 107x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
