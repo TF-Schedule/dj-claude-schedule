@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -54,7 +54,6 @@ Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 City – Am Fenster | last aired Nov 20 | 6x
-The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Michael Hedges – Aerial Boundaries | last aired Nov 20 | 45x
@@ -73,7 +72,6 @@ Mireille Mathieu – Together We're Strong | last aired Nov 21 | 52x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 21 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Grouper – Alien Observer | last aired Nov 21 | 135x
-Judy Collins – Bread and Roses | last aired Nov 21 | 29x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
@@ -100,5 +98,7 @@ Matt Nathanson – Come On Get Higher | last aired Nov 22 | 7x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
 Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
+Bobby Vinton – Blue Velvet | last aired Nov 22 | 16x
+Bon Iver – Holocene | last aired Nov 22 | 242x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
