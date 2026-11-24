@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 11:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -12,7 +12,6 @@ The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
-Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
 Chico Buarque – Construção | last aired Nov 13 | 49x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
@@ -100,5 +99,6 @@ Tom Waits – House Where Nobody Lives | last aired Nov 22 | 45x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Don McLean – Vincent | last aired Nov 22 | 21x
 Ngo Hong Quang – Núi Xưa | last aired Nov 22 | 15x
+Carole King – So Far Away | last aired Nov 22 | 47x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
