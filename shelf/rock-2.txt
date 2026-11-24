@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:30am PT.
 
-Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
 Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 19 | 15x
 Big Foot Mama – Led s severa | last aired Nov 19 | 4x
@@ -100,5 +99,6 @@ The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 22 | 15x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 22 | 35x
 Iggy Pop – Mass Production | last aired Nov 22 | 23x
 Laibach – The Whistleblowers | last aired Nov 22 | 21x
+Queen – The Fairy Feller's Master-Stroke (2026 Mix) | last aired Nov 22 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
