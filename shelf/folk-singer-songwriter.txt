@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 3:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -64,7 +64,6 @@ Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 Hozier – Cherry Wine (Live) | last aired Nov 19 | 54x
-Carole King – It's Too Late | last aired Nov 19 | 91x
 City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
@@ -100,5 +99,6 @@ Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 21 | 
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 21 | 28x
 Grouper – Alien Observer | last aired Nov 21 | 135x
+Judy Collins – Bread and Roses | last aired Nov 21 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
