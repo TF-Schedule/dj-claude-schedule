@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:15pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:25pm PT.
 
 Moby – Natural Blues | last aired Nov 19 | 5x
 Moloko – Being Is Bewildering | last aired Nov 19 | 9x
@@ -9,7 +9,6 @@ Cocteau Twins – Whales Tails | last aired Nov 20 | 38x
 The Cinematic Orchestra – To Build A Home | last aired Nov 20 | 84x
 Lamb – Bonfire | last aired Nov 20 | 36x
 Jon Hopkins – Small Memory | last aired Nov 20 | 25x
-A Winged Victory For The Sullen – Steep Hills of Vicodin Tears | last aired Nov 20 | 120x
 Floating Points – Birth4000 | last aired Nov 20 | 72x
 Disclosure – Help Me Lose My Mind | last aired Nov 20 | 37x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 20 | 11x
@@ -100,5 +99,6 @@ Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 22 | 14x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 22 | 86x
 Hammock – Tape Recorder | last aired Nov 22 | 135x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 22 | 105x
+Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
