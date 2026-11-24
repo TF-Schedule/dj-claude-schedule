@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 6:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 6:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -92,7 +92,6 @@ Extreme – More Than Words | last aired Nov 21 | 3x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 21 | 23x
 Mireille Mathieu – Together We're Strong | last aired Nov 21 | 52x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 21 | 14x
-Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 21 | 19x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 21 | 28x
 Grouper – Alien Observer | last aired Nov 21 | 135x
@@ -100,5 +99,6 @@ Judy Collins – Bread and Roses | last aired Nov 21 | 29x
 Albert Hammond – When I'm Gone | last aired Nov 21 | 17x
 Patti Smith – Wing | last aired Nov 21 | 2x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
+Sleeping At Last – Saturn | last aired Nov 21 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
