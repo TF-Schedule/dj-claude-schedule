@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:30pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -23,7 +23,6 @@ AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
-Björk – Unravel | last aired Nov 12 | 27x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
@@ -52,7 +51,6 @@ Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Pixies – Ana | last aired Nov 17 | 30x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 17 | 15x
-The Cranberries – Dreams | last aired Nov 17 | 35x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
@@ -100,5 +98,7 @@ MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 Alabama 3 – Thank you | last aired Nov 19 | 10x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Modest Mouse – Float On | last aired Nov 19 | 9x
+Michael Hutchence – Slide Away | last aired Nov 19 | 20x
+Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 19 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
