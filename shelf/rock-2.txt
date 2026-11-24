@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:30pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:45pm PT.
 
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
@@ -52,7 +52,6 @@ Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
-Roy Orbison – Oh, Pretty Woman | last aired Nov 20 | 28x
 Gustavo Cerati – Puente | last aired Nov 20 | 35x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
@@ -100,5 +99,6 @@ Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
 Dire Straits – Sultans of Swing | last aired Nov 21 | 87x
 indigo la End – Haru No Iutoori | last aired Nov 21 | 22x
+Chicago – Hard to Say I'M Sorry / Get Away | last aired Nov 21 | 43x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
