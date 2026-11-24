@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:30am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:45am PT.
 
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
@@ -75,7 +75,6 @@ John Mayer – New Light | last aired Nov 21 | 192x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
-Lordi – Hard Rock Hallelujah | last aired Nov 21 | 18x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
 Guns N' Roses – Civil War | last aired Nov 21 | 1x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 21 | 26x
@@ -100,5 +99,6 @@ The Beatles – A Day In The Life (2017 Mix) | last aired Nov 22 | 9x
 BETWEEN FRIENDS – affection | last aired Nov 22 | 13x
 Daikaiju – Magic Wanda | last aired Nov 22 | 14x
 Zucchero – Senza Una Donna (Remastered 2007) | last aired Nov 22 | 7x
+The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 22 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
