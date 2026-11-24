@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 10:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 10:19am PT.
 
 Tom Konkle – When Did Love Become A Test | last aired Nov 20 | 7x
 Depeche Mode – Just Can't Get Enough | last aired Nov 20 | 17x
@@ -42,7 +42,6 @@ Falco – Vienna Calling | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
 Nation of Language – Weak In Your Light | last aired Nov 22 | 32x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
-The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 22 | 13x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 Neuro-sama – Colorful Array | last aired Nov 22 | 7x
@@ -100,5 +99,6 @@ Mac DeMarco – My Kind of Woman | last aired Nov 24 | 33x
 Mariya Takeuchi – Plastic Love | last aired Nov 24 | 32x
 Billy Joel – Vienna (Album Version) | last aired Nov 24 | 40x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 24 | 26x
+Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
