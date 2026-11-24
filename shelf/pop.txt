@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -80,7 +80,6 @@ Dean Martin – Everybody Loves Somebody | last aired Nov 18 | 32x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
-The Carpenters – (They Long To Be) Close To You | last aired Nov 18 | 26x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
@@ -100,5 +99,6 @@ Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
 Moes Haven – Shut Up Your Monkey | last aired Nov 19 | 8x
 Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 ABBA – Dancing Queen | last aired Nov 20 | 46x
+Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

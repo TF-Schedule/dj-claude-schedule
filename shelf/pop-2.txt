@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:00pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:15pm PT.
 
-Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 20 | 25x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
@@ -100,5 +99,6 @@ Mike Marshall – Big Country (Instrumental) | last aired Nov 23 | 14x
 Perpetuum Jazzile – Africa | last aired Nov 23 | 30x
 Katy Perry – Roar | last aired Nov 23 | 112x
 Tove Lo – No One Dies From Love | last aired Nov 23 | 187x
+Mazzy Star – Fade Into You | last aired Nov 23 | 102x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

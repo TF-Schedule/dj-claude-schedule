@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:15pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -91,7 +91,6 @@ The Undertones – Teenage Kicks | last aired Nov 18 | 7x
 Cardiacs – Big Ship | last aired Nov 18 | 20x
 INXS – Don't Change | last aired Nov 18 | 24x
 Split Enz – I Got You | last aired Nov 18 | 9x
-Cate Le Bon – Are You with Me Now? | last aired Nov 18 | 25x
 Shellac – The End of Radio | last aired Nov 18 | 16x
 Paramore – Thick Skull | last aired Nov 18 | 19x
 Sade – By Your Side (Remastered Version) | last aired Nov 18 | 62x
@@ -100,5 +99,6 @@ Bad Religion – 21st Century (Digital Boy) | last aired Nov 19 | 12x
 Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 Alabama 3 – Thank you | last aired Nov 19 | 10x
+Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

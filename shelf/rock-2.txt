@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:00pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 4:15pm PT.
 
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
@@ -64,7 +64,6 @@ Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
 The Good, The Bad & The Queen – History Song | last aired Nov 21 | 8x
-Café Tacvba – Eres (Album Version) | last aired Nov 21 | 40x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 21 | 37x
 Chris De Burgh – The Getaway | last aired Nov 21 | 12x
 Summon The Wolf – Ghost Story | last aired Nov 21 | 17x
@@ -100,5 +99,6 @@ Lindsey Buckingham – Trouble | last aired Nov 21 | 22x
 Loverboy – Lovin' Every Minute of It | last aired Nov 21 | 9x
 Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
+Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
