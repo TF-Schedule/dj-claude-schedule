@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:45pm PT.
 
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Yazoo – Only You (Remastered 2008) | last aired Nov 20 | 19x
@@ -61,7 +61,6 @@ Bruno Mars – I Just Might | last aired Nov 22 | 262x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 22 | 5x
 Still Woozy – Get Down | last aired Nov 22 | 9x
 Dorian Electra – Hella Good | last aired Nov 22 | 8x
-Jvke – golden hour | last aired Nov 22 | 16x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 22 | 2x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Nov 22 | 6x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 22 | 16x
@@ -100,5 +99,6 @@ The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivag
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
 Soft Cell – Tainted Love | last aired Nov 24 | 26x
+Nation of Language – Weak In Your Light | last aired Nov 24 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
