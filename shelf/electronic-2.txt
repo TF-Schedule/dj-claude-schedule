@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 1:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 1:15am PT.
 
-Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired Nov 19 | 54x
 Cocteau Twins – Whales Tails | last aired Nov 20 | 38x
 The Cinematic Orchestra – To Build A Home | last aired Nov 20 | 84x
 Lamb – Bonfire | last aired Nov 20 | 36x
@@ -14,7 +13,6 @@ Federico Aubele – Postales | last aired Nov 20 | 90x
 Armin van Buuren – Set Me Free | last aired Nov 20 | 7x
 Yellow Magic Orchestra – RYDEEN (2018 Bob Ludwig Remastering) | last aired Nov 20 | 30x
 Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 20 | 57x
-Boards of Canada – Dayvan Cowboy | last aired Nov 20 | 59x
 Eluvium – Surrounded by Illusion | last aired Nov 20 | 35x
 Fennesz – Endless Summer | last aired Nov 20 | 87x
 Christian Löffler – Lid | last aired Nov 20 | 42x
@@ -26,7 +24,6 @@ Aphex Twin – Xtal | last aired Nov 21 | 43x
 Home – We're Finally Landing | last aired Nov 21 | 16x
 ODESZA – Say My Name (feat. Zyra) | last aired Nov 21 | 47x
 Tycho – Awake | last aired Nov 21 | 111x
-Daft Punk – Something About Us | last aired Nov 21 | 62x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 21 | 31x
 Cornelius – Star Fruit Surf Rider (Damon Albarn Remix) | last aired Nov 21 | 38x
 Akiaura – Sleepwalker | last aired Nov 21 | 10x
@@ -100,5 +97,8 @@ Jamie xx – Gosh | last aired Nov 23 | 54x
 Tim Hecker – In the Fog II | last aired Nov 23 | 121x
 Steve Roach – Living the Dream | last aired Nov 23 | 53x
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
+The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
+Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 23 | 9x
+Stardust – Music Sounds Better With You | last aired Nov 23 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
