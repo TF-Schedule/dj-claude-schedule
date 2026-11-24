@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -44,7 +44,6 @@ Peter Broderick – A Little Lost | last aired Nov 18 | 17x
 Pete Seeger – Solidarity Forever | last aired Nov 18 | 89x
 William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 18 | 25x
 Leonard Cohen – Treaty | last aired Nov 18 | 12x
-Leonard Cohen – Famous Blue Raincoat | last aired Nov 18 | 46x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
@@ -100,5 +99,6 @@ Angus & Julia Stone – You're The One That I Want | last aired Nov 22 | 36x
 Tom Waits – House Where Nobody Lives | last aired Nov 22 | 45x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Don McLean – Vincent | last aired Nov 22 | 21x
+Ngo Hong Quang – Núi Xưa | last aired Nov 22 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
