@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 11:45pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:00am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -52,7 +52,6 @@ Smoke City – Underwater Love | last aired Nov 16 | 7x
 Portishead – Glory Box (Album Version) | last aired Nov 16 | 86x
 Massive Attack – Protection | last aired Nov 16 | 43x
 Tycho – A Walk | last aired Nov 16 | 110x
-Massive Attack – Angel | last aired Nov 16 | 67x
 Morcheeba – Trigger Hippie | last aired Nov 16 | 63x
 Röyksopp – Eple | last aired Nov 16 | 40x
 Aphex Twin – Avril 14th | last aired Nov 17 | 91x
@@ -90,7 +89,6 @@ Tricky – Hell Is Round The Corner | last aired Nov 19 | 45x
 Kate Bush – Delius (2018 Remaster) | last aired Nov 19 | 4x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 19 | 11x
 Thievery Corporation – Omid | last aired Nov 19 | 24x
-Thom Yorke – 5.17 | last aired Nov 19 | 22x
 Boards of Canada – Blood In The Labyrinth | last aired Nov 19 | 26x
 Caterina Barbieri – Fantas | last aired Nov 19 | 55x
 Blank & Jones – Get Down (Rediscovered) | last aired Nov 19 | 14x
@@ -100,5 +98,7 @@ Predatory Meerkats – Resist The Force | last aired Nov 19 | 7x
 Moby – One of These Mornings | last aired Nov 19 | 7x
 Moby – Natural Blues | last aired Nov 19 | 5x
 Moloko – Being Is Bewildering | last aired Nov 19 | 9x
+Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 19 | 46x
+Tim Hecker – Black Refraction | last aired Nov 19 | 86x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

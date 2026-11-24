@@ -1,6 +1,5 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 11:45pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 12:00am PT.
 
-Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
 The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
 Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
@@ -100,5 +99,6 @@ Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 21 | 60x
 Ashra – Sunrain | last aired Nov 21 | 35x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 22 | 13x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 22 | 30x
+Almendra – Plegaria para un Niño Dormido | last aired Nov 22 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
