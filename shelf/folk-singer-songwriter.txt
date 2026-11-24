@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:00am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -83,7 +83,6 @@ Grouper – Alien Observer | last aired Nov 21 | 135x
 Judy Collins – Bread and Roses | last aired Nov 21 | 29x
 Albert Hammond – When I'm Gone | last aired Nov 21 | 17x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
-Sleeping At Last – Saturn | last aired Nov 21 | 20x
 Tori Amos – Rattlesnakes | last aired Nov 21 | 11x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
@@ -100,5 +99,6 @@ Ngo Hong Quang – Núi Xưa | last aired Nov 22 | 15x
 Carole King – So Far Away | last aired Nov 22 | 47x
 Elliott Smith – Independence Day | last aired Nov 22 | 24x
 Phoebe Bridgers – Moon Song | last aired Nov 22 | 82x
+Amália Rodrigues – Barco negro | last aired Nov 22 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

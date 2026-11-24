@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -29,7 +29,6 @@ Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
-Lucy Dacus – Night Shift | last aired Nov 16 | 168x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 16 | 21x
 Jeff Buckley – So Real | last aired Nov 16 | 4x
 Kate Bush – Get Out Of My House (2018 Remaster) | last aired Nov 16 | 21x
@@ -100,5 +99,6 @@ Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Modest Mouse – Float On | last aired Nov 19 | 9x
 Michael Hutchence – Slide Away | last aired Nov 19 | 20x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 19 | 32x
+Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
