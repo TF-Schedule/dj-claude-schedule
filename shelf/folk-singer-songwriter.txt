@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -10,7 +10,6 @@ Fairport Convention – Who Knows Where The Time Goes? | last aired Nov 1 | 1x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
-Elvis Presley – Can't Help Falling in Love | last aired Nov 8 | 15x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
 Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 12 | 10x
@@ -65,7 +64,6 @@ The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 20 | 17x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 20 | 42x
-Elliott Smith – Angeles | last aired Nov 20 | 31x
 Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Dalida – Paroles paroles (Album Version) | last aired Nov 20 | 19x
@@ -79,7 +77,6 @@ King Crimson – Matte Kudasai | last aired Nov 20 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
 Edith Piaf – La Vie en rose | last aired Nov 21 | 40x
 RY X – Let You Go | last aired Nov 21 | 20x
-Matt Nathanson – All We Are | last aired Nov 21 | 13x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 21 | 32x
 The Cure – Pictures of You | last aired Nov 21 | 43x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 21 | 3x
@@ -100,5 +97,8 @@ Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
 Josh Rouse – Street Lights | last aired Nov 21 | 15x
 Bill Callahan – Riding For The Feeling | last aired Nov 21 | 48x
 Ben&Ben – Maybe The Night | last aired Nov 21 | 34x
+Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
+Lord Huron – Life Is Strange | last aired Nov 22 | 54x
+Angus & Julia Stone – You're The One That I Want | last aired Nov 22 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
