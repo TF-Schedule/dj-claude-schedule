@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:30am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:45am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -88,7 +88,6 @@ Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix)
 Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
 Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
-Al Stewart – Year of the Cat | last aired Nov 18 | 34x
 Sheryl Crow – All I Wanna Do | last aired Nov 18 | 24x
 Thin Lizzy – Emerald | last aired Nov 18 | 28x
 Shakespears Sister – Stay | last aired Nov 18 | 7x
@@ -100,5 +99,6 @@ Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
+Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

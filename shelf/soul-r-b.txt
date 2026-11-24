@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:30am PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:45am PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -65,7 +65,6 @@ Lianne La Havas – Sour Flower | last aired Nov 19 | 72x
 Prince – Adore (2020 Remaster) | last aired Nov 19 | 52x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 19 | 108x
 Joe Cocker – The Letter (Live At The Fillmore East/1970) | last aired Nov 19 | 4x
-Alexi Murdoch – Orange Sky | last aired Nov 19 | 11x
 Khruangbin – A Calf Born In Winter | last aired Nov 20 | 90x
 Khruangbin – August 10 | last aired Nov 20 | 95x
 Stevie Wonder – Golden Lady | last aired Nov 20 | 141x
@@ -100,5 +99,6 @@ The Staple Singers – I'll Take You There | last aired Nov 21 | 52x
 The Ink Spots – Maybe | last aired Nov 21 | 39x
 Kali Uchis – For: You | last aired Nov 21 | 32x
 Tame Impala – Is It True | last aired Nov 21 | 21x
+The Weeknd – Starboy | last aired Nov 21 | 231x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
