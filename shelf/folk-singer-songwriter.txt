@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -69,7 +69,6 @@ Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - Sep
 Mireille Mathieu – Together We're Strong | last aired Nov 21 | 52x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 21 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
-Grouper – Alien Observer | last aired Nov 21 | 135x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
@@ -100,5 +99,6 @@ Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last air
 Noah Kahan – Stick Season | last aired Nov 22 | 27x
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 22 | 12x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
+Tori Amos – Winter | last aired Nov 22 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
