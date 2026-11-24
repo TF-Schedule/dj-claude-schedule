@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -38,7 +38,6 @@ Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 17 | 120x
 The Cure – Lovesong (2010 Remaster) | last aired Nov 17 | 15x
 Mariza – Ó gente da minha terra | last aired Nov 17 | 39x
 John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 17 | 7x
-The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 18 | 13x
 Colbie Caillat – Try | last aired Nov 18 | 12x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 18 | 15x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
@@ -100,5 +99,6 @@ Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 21 | 28x
 Grouper – Alien Observer | last aired Nov 21 | 135x
 Judy Collins – Bread and Roses | last aired Nov 21 | 29x
 Albert Hammond – When I'm Gone | last aired Nov 21 | 17x
+Patti Smith – Wing | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
