@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:45am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -39,7 +39,6 @@ Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 10 | 16x
 Harry Styles – As It Was | last aired Nov 11 | 69x
 The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
-Boy Throb – Finger | last aired Nov 11 | 6x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
 The Korgis – Everybody's Got To Learn Sometime | last aired Nov 12 | 20x
@@ -100,5 +99,6 @@ ABBA – Dancing Queen | last aired Nov 20 | 46x
 Billy Joel – Vienna (Album Version) | last aired Nov 20 | 39x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 20 | 25x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
+Bruno Mars – Gorilla | last aired Nov 20 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

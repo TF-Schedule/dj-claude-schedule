@@ -1,7 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 12:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 1:00am PT.
 
-Foo Fighters – Everlong | last aired Nov 19 | 36x
-Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Gorillaz – Hong Kong | last aired Nov 19 | 29x
@@ -100,5 +98,7 @@ Visage – Fade To Grey | last aired Nov 22 | 25x
 The Magnetic Fields – Born on a Train | last aired Nov 22 | 10x
 Sigur Rós – Hoppípolla | last aired Nov 22 | 91x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 22 | 24x
+Echo And The Bunnymen – The Killing Moon | last aired Nov 22 | 16x
+Sun's Signature – Golden Air | last aired Nov 22 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

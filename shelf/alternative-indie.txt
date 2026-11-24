@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 12:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 1:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -23,7 +23,6 @@ AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
 Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
-Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 12 | 15x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 13 | 15x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
@@ -42,7 +41,6 @@ Coldplay – Yellow | last aired Nov 16 | 22x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Daniel Quien – Otros Colores | last aired Nov 17 | 2x
-Missio – I See You | last aired Nov 17 | 8x
 Jeff Buckley – Grace | last aired Nov 17 | 1x
 Jeff Buckley – Calling You (Live) | last aired Nov 17 | 24x
 Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
@@ -100,5 +98,7 @@ Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 19 | 32x
 Garbage – Only Happy When It Rains | last aired Nov 19 | 22x
 Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
 THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
+Foo Fighters – Everlong | last aired Nov 19 | 36x
+Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
