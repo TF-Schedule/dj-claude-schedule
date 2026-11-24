@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:15pm PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 5:30pm PT.
 
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
@@ -70,7 +70,6 @@ Train – Drops of Jupiter (Tell Me) | last aired Nov 21 | 16x
 Underscores – Do It | last aired Nov 21 | 9x
 Lou Reed – Goodnight Ladies | last aired Nov 21 | 18x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
-Måneskin – Torna a casa | last aired Nov 21 | 23x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
 David Bowie – Rebel Rebel | last aired Nov 21 | 27x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
@@ -100,5 +99,6 @@ Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
 Dire Straits – Sultans of Swing | last aired Nov 21 | 87x
+indigo la End – Haru No Iutoori | last aired Nov 21 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
