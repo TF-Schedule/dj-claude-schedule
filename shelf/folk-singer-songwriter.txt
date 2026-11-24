@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 6:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -83,7 +83,6 @@ Gigi Perez – Sailor Song | last aired Nov 20 | 239x
 Edith Piaf – La Vie en rose | last aired Nov 21 | 40x
 RY X – Let You Go | last aired Nov 21 | 20x
 Matt Nathanson – All We Are | last aired Nov 21 | 13x
-Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 21 | 43x
 Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 21 | 32x
 The Cure – Pictures of You | last aired Nov 21 | 43x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 21 | 3x
@@ -100,5 +99,6 @@ Patti Smith – Wing | last aired Nov 21 | 2x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
 Sleeping At Last – Saturn | last aired Nov 21 | 20x
 Tori Amos – Rattlesnakes | last aired Nov 21 | 11x
+Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
