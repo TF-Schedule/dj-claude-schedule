@@ -1,10 +1,8 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:00am PT.
 
-Robbie Dupree – Steal Away | last aired Nov 19 | 18x
 Ron Gallo – Young Lady, You're Scaring Me | last aired Nov 19 | 2x
 Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 19 | 15x
-Electric Light Orchestra – Mr. Blue Sky | last aired Nov 19 | 54x
 Big Foot Mama – Led s severa | last aired Nov 19 | 4x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 19 | 8x
 Kim Carnes – More Love | last aired Nov 19 | 21x
@@ -22,7 +20,6 @@ Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 7x
 Gustavo Cerati – Crimen | last aired Nov 20 | 30x
-Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 20 | 181x
 Tina Turner – The Best | last aired Nov 20 | 29x
 Toto – Rosanna (Album Version) | last aired Nov 20 | 81x
 Kenny Loggins – This Is It | last aired Nov 20 | 40x
@@ -100,5 +97,8 @@ BETWEEN FRIENDS – affection | last aired Nov 22 | 13x
 Daikaiju – Magic Wanda | last aired Nov 22 | 14x
 Zucchero – Senza Una Donna (Remastered 2007) | last aired Nov 22 | 7x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 22 | 15x
+The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 22 | 35x
+Iggy Pop – Mass Production | last aired Nov 22 | 23x
+Laibach – The Whistleblowers | last aired Nov 22 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
