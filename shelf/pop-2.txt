@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:00am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:15am PT.
 
-Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
 Khalid – momentary lovers | last aired Nov 20 | 22x
 Tom Konkle – When Did Love Become A Test | last aired Nov 20 | 7x
@@ -100,5 +99,6 @@ Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" 
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 24 | 17x
 Jan Hammer – Crockett's Theme | last aired Nov 24 | 31x
 Mac DeMarco – My Kind of Woman | last aired Nov 24 | 33x
+Mariya Takeuchi – Plastic Love | last aired Nov 24 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
