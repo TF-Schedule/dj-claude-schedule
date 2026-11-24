@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:00am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:15am PT.
 
 Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
@@ -39,7 +39,6 @@ Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
 ABBA – Don't Shut Me Down | last aired Nov 21 | 15x
 Wir Sind Helden – Denkmal | last aired Nov 21 | 24x
 Gus Dapperton – Ditch | last aired Nov 22 | 24x
-Mac DeMarco – My Kind of Woman | last aired Nov 22 | 32x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
@@ -100,5 +99,6 @@ Boy Throb – Finger | last aired Nov 24 | 7x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 24 | 46x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 24 | 12x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 24 | 16x
+Jan Hammer – Crockett's Theme | last aired Nov 24 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
