@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:15pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:30pm PT.
 
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Yazoo – Only You (Remastered 2008) | last aired Nov 20 | 19x
@@ -38,7 +38,6 @@ Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
 Falco – Vienna Calling | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
-Nation of Language – Weak In Your Light | last aired Nov 22 | 32x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
@@ -100,5 +99,6 @@ Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 24 | 14x
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
+Soft Cell – Tainted Love | last aired Nov 24 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
