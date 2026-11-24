@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 4:45pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 5:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -41,7 +41,6 @@ Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Nov 16 | 20x
 Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
-Lana Del Rey – Young And Beautiful | last aired Nov 16 | 41x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
 Lana Del Rey – Venice Bitch | last aired Nov 17 | 21x
@@ -100,5 +99,6 @@ Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
 Alabama 3 – Thank you | last aired Nov 19 | 10x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
+Modest Mouse – Float On | last aired Nov 19 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
