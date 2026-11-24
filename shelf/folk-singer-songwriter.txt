@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 7:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -49,7 +49,6 @@ Leonard Cohen – Treaty | last aired Nov 18 | 12x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 18 | 46x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
-Jack Johnson – Better Together | last aired Nov 19 | 152x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
 Scorpions – Still Loving You (2011 Version) | last aired Nov 19 | 20x
 Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
@@ -67,7 +66,6 @@ Sarah McLachlan – Fallen (Album Mix) | last aired Nov 20 | 16x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 20 | 17x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 20 | 42x
 Elliott Smith – Angeles | last aired Nov 20 | 31x
-Damien Rice – The Blower's Daughter | last aired Nov 20 | 94x
 Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Dalida – Paroles paroles (Album Version) | last aired Nov 20 | 19x
@@ -79,7 +77,6 @@ Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 20 | 23x
 The Cure – The Last Day Of Summer | last aired Nov 20 | 6x
 King Crimson – Matte Kudasai | last aired Nov 20 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
-Gigi Perez – Sailor Song | last aired Nov 20 | 239x
 Edith Piaf – La Vie en rose | last aired Nov 21 | 40x
 RY X – Let You Go | last aired Nov 21 | 20x
 Matt Nathanson – All We Are | last aired Nov 21 | 13x
@@ -100,5 +97,8 @@ Sleeping At Last – Saturn | last aired Nov 21 | 20x
 Tori Amos – Rattlesnakes | last aired Nov 21 | 11x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
+Josh Rouse – Street Lights | last aired Nov 21 | 15x
+Bill Callahan – Riding For The Feeling | last aired Nov 21 | 48x
+Ben&Ben – Maybe The Night | last aired Nov 21 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
