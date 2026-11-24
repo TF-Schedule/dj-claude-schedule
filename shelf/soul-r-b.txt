@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 2:45pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 3:00pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -24,7 +24,6 @@ Khruangbin – May Ninth | last aired Nov 14 | 40x
 Stevie Wonder – Isn't She Lovely | last aired Nov 14 | 24x
 Stevie Wonder – As | last aired Nov 14 | 25x
 Stevie Wonder – Go Home | last aired Nov 14 | 25x
-Bill Withers – Ain't No Sunshine (Album Version) | last aired Nov 14 | 110x
 Booker T. & The M.G.'s – Time Is Tight (Live) | last aired Nov 15 | 19x
 Stevie Wonder – Superstition (Album Version) | last aired Nov 15 | 101x
 The Style Council – Iwasadoledadstoyboy | last aired Nov 15 | 19x
@@ -100,5 +99,6 @@ Eric Clapton – Change the World | last aired Nov 22 | 22x
 Thee Sacred Souls – Live For You | last aired Nov 22 | 39x
 Khruangbin – White Gloves | last aired Nov 22 | 91x
 Leon Bridges – Coming Home | last aired Nov 22 | 117x
+Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 22 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

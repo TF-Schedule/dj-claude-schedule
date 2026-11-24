@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 2:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:00pm PT.
 
 Shearwater – Empty Orchestra | last aired Nov 20 | 18x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
@@ -14,7 +14,6 @@ Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
 M83 – Midnight City | last aired Nov 20 | 114x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
-David Byrne – Everybody's Coming to My House (Live) | last aired Nov 21 | 8x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 R.E.M. – Endgame | last aired Nov 21 | 15x
 David Sylvian – Darkest Dreaming | last aired Nov 21 | 15x
@@ -100,5 +99,6 @@ Bush – Everything Zen (Remastered) | last aired Nov 23 | 7x
 blink-182 – All The Small Things | last aired Nov 23 | 17x
 Supernova – Chewbaca | last aired Nov 23 | 3x
 The Jetzons – Hard Times | last aired Nov 23 | 15x
+Evan Fong – pe$o$ | last aired Nov 23 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
