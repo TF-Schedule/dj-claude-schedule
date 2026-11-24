@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -53,7 +53,6 @@ Sufjan Stevens – Casimir Pulaski Day | last aired Nov 19 | 79x
 Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
-Hozier – Cherry Wine (Live) | last aired Nov 19 | 54x
 City – Am Fenster | last aired Nov 20 | 6x
 The Civil Wars – Poison & Wine | last aired Nov 20 | 48x
 Fleet Foxes – Helplessness Blues | last aired Nov 20 | 37x
@@ -100,5 +99,6 @@ Laith Al-Deen – Dein Lied | last aired Nov 22 | 22x
 Matt Nathanson – Come On Get Higher | last aired Nov 22 | 7x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
+Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
