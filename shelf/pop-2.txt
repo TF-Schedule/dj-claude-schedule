@@ -1,6 +1,5 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 9:45pm PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 23, 10:00pm PT.
 
-Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
 Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
@@ -100,5 +99,6 @@ Tove Lo – No One Dies From Love | last aired Nov 23 | 188x
 Mazzy Star – Fade Into You | last aired Nov 23 | 103x
 Air – La femme d'argent | last aired Nov 23 | 75x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 23 | 26x
+The Beach Boys – God Only Knows (Stereo) | last aired Nov 23 | 42x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 9:45pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 23, 10:00pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -57,7 +57,6 @@ Massive Attack – Angel | last aired Nov 16 | 67x
 Morcheeba – Trigger Hippie | last aired Nov 16 | 63x
 Röyksopp – Eple | last aired Nov 16 | 40x
 Aphex Twin – Avril 14th | last aired Nov 17 | 91x
-Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 17 | 87x
 Aphex Twin – Flim | last aired Nov 17 | 10x
 Aphex Twin – Windowlicker | last aired Nov 17 | 27x
 Darude – Sandstorm | last aired Nov 17 | 32x
@@ -100,5 +99,6 @@ Blank & Jones – Get Down (Rediscovered) | last aired Nov 19 | 14x
 Noizu – Summer 91 (Looking Back) | last aired Nov 19 | 10x
 Fraunhofer Diffraction – Kvrt in Space | last aired Nov 19 | 13x
 Predatory Meerkats – Resist The Force | last aired Nov 19 | 7x
+Moby – One of These Mornings | last aired Nov 19 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
