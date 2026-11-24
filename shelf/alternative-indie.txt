@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 3:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 3:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -17,7 +17,6 @@ Lana Del Rey – Salvatore | last aired Nov 6 | 17x
 Geese – Cowboy Nudes | last aired Nov 7 | 4x
 Edwin Rosen – Vertigo | last aired Nov 8 | 20x
 Confetti – People Suck [Explicit] | last aired Nov 10 | 4x
-Sun's Signature – Underwater | last aired Nov 10 | 23x
 Lana Del Rey – Heroin | last aired Nov 10 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
@@ -100,5 +99,6 @@ THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
 Foo Fighters – Everlong | last aired Nov 19 | 36x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
+Muse – Feeling Good | last aired Nov 19 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
