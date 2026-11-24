@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 12:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 12:30am PT.
 
-Soul Coughing – Screenwriter's Blues | last aired Nov 19 | 11x
 THE TEARDROP EXPLODES – Reward | last aired Nov 19 | 10x
 Foo Fighters – Everlong | last aired Nov 19 | 36x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
@@ -100,5 +99,6 @@ ABBA – I Wonder (Departure) | last aired Nov 22 | 17x
 Avril Lavigne – Sk8er Boi | last aired Nov 22 | 15x
 Visage – Fade To Grey | last aired Nov 22 | 25x
 The Magnetic Fields – Born on a Train | last aired Nov 22 | 10x
+Sigur Rós – Hoppípolla | last aired Nov 22 | 91x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
