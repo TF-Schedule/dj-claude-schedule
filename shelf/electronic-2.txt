@@ -1,6 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 1:30am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 1:45am PT.
 
-Lamb – Bonfire | last aired Nov 20 | 36x
 Jon Hopkins – Small Memory | last aired Nov 20 | 25x
 Floating Points – Birth4000 | last aired Nov 20 | 72x
 Disclosure – Help Me Lose My Mind | last aired Nov 20 | 37x
@@ -35,7 +34,6 @@ Vylet Pony – ANTONYMPH | last aired Nov 21 | 6x
 Haute & Freddy – Dance The Pain Away | last aired Nov 21 | 11x
 ANNIE – Heartbeat | last aired Nov 21 | 18x
 Alex Andre – thanks, my day is ruined | last aired Nov 21 | 8x
-Four Tet – Two Thousand and Seventeen | last aired Nov 21 | 99x
 Petit Biscuit – Sunset Lover | last aired Nov 21 | 161x
 Hooverphonic – 2 Wicky | last aired Nov 21 | 37x
 Sneaker Pimps – How Do | last aired Nov 21 | 16x
@@ -45,7 +43,6 @@ Portishead – Sour Times | last aired Nov 21 | 25x
 Bicep – Apricots | last aired Nov 21 | 70x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 21 | 34x
 Moloko – The Time Is Now | last aired Nov 21 | 9x
-Burial – Archangel | last aired Nov 21 | 86x
 Brian Eno – The Big Ship (2004 Remaster) | last aired Nov 21 | 26x
 Hiroshi Yoshimura – Feel | last aired Nov 21 | 40x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 21 | 139x
@@ -99,6 +96,9 @@ Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 23 | 9x
 Stardust – Music Sounds Better With You | last aired Nov 23 | 14x
 Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 23 | 115x
 Massive Attack – Teardrop | last aired Nov 23 | 101x
-Bonobo – Kiara | last aired Nov 23 | 110x
+Bonobo – Kiara | last aired Nov 23 | 111x
+Boards of Canada – Roygbiv | last aired Nov 23 | 44x
+Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 23 | 30x
+Camille – Ta douleur | last aired Nov 23 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
