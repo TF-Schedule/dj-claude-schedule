@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -8,7 +8,6 @@ P!nk – Just Give Me a Reason | last aired Sep 12 | 1x
 P!nk – TRUSTFALL | last aired Sep 12 | 1x
 Grossstadtgeflüster – Fickt-Euch-Allee | last aired Sep 18 | 8x
 Duncan Sheik – Barely Breathing | last aired Sep 19 | 1x
-Cover Vocals BPM 122 Acapellas – This Is Your Life (Originally Performed by Banderas) | last aired Sep 20 | 7x
 Neuro-sama – Pattern Recognition (feat. ODDEEO) | last aired Sep 25 | 1x
 P!nk – Please Don't Leave Me | last aired Oct 8 | 2x
 The Vampire Lestat – Brutal Love | last aired Oct 9 | 4x
@@ -100,5 +99,6 @@ Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
 Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
+TilaR – More Than A Friend | last aired Nov 20 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

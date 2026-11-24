@@ -1,8 +1,6 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:30am PT.
 
-Studio Group – Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired Aug 31 | 2x
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
-The Animals – The House of the Rising Sun | last aired Sep 29 | 4x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
 U2 – Beautiful Day (Remastered 2020) | last aired Oct 23 | 7x
 Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired Oct 23 | 14x
@@ -85,7 +83,6 @@ Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last air
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 18 | 25x
-Caifanes – Afuera | last aired Nov 18 | 13x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 18 | 69x
@@ -100,5 +97,8 @@ Shakespears Sister – Stay | last aired Nov 18 | 7x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 18 | 14x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
 Willy DeVille – Heaven Stood Still | last aired Nov 18 | 14x
+The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
+Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
+Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
