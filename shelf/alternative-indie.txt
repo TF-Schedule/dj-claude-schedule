@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -19,7 +19,6 @@ Lana Del Rey – Heroin | last aired Nov 10 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
-Bikini Kill – Rebel Girl | last aired Nov 12 | 15x
 Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
@@ -95,10 +94,11 @@ Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
 Oasis – Live Forever | last aired Nov 19 | 15x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 19 | 7x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
-Big Data – Put Me to Work | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 20 | 50x
 Miracles of Modern Science – Dear Pressure | last aired Nov 20 | 23x
 Fugazi – Waiting Room | last aired Nov 20 | 14x
+Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 20 | 20x
+Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
