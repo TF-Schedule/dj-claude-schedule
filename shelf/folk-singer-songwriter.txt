@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -81,7 +81,6 @@ Bobby Vinton – Blue Velvet | last aired Nov 22 | 16x
 Bon Iver – Holocene | last aired Nov 22 | 242x
 Joni Mitchell – A Case of You | last aired Nov 22 | 49x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 22 | 32x
-The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 22 | 12x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 22 | 20x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 23 | 21x
@@ -100,5 +99,6 @@ Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 23 | 126x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
+Joni Mitchell – River | last aired Nov 23 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

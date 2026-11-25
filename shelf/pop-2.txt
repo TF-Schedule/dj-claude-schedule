@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 6:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 6:30am PT.
 
 Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
@@ -67,7 +67,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 23 | 20x
 P!nk – So What | last aired Nov 23 | 9x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 23 | 14x
 Perpetuum Jazzile – Africa | last aired Nov 23 | 30x
-Katy Perry – Roar | last aired Nov 23 | 112x
 Tove Lo – No One Dies From Love | last aired Nov 23 | 188x
 Mazzy Star – Fade Into You | last aired Nov 23 | 103x
 Air – La femme d'argent | last aired Nov 23 | 76x
@@ -100,5 +99,6 @@ Jack Johnson – Upside Down | last aired Nov 24 | 13x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 24 | 13x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 25 | 32x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 25 | 16x
+Mac DeMarco – No Other Heart | last aired Nov 25 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
