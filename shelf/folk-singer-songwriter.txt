@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -73,7 +73,6 @@ Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Don McLean – Vincent | last aired Nov 22 | 21x
 Ngo Hong Quang – Núi Xưa | last aired Nov 22 | 15x
-Phoebe Bridgers – Moon Song | last aired Nov 22 | 82x
 Amália Rodrigues – Barco negro | last aired Nov 22 | 40x
 Ben&Ben – Leaves | last aired Nov 22 | 54x
 Gilbert Bécaud – Nathalie | last aired Nov 22 | 17x
@@ -100,5 +99,6 @@ Leonard Cohen – Avalanche | last aired Nov 23 | 26x
 José González – Heartbeats | last aired Nov 23 | 128x
 Josh Rouse – 1972 | last aired Nov 23 | 28x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 23 | 27x
+Glen Hansard and Marketa Irglova – Falling Slowly (Album Version) | last aired Nov 23 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
