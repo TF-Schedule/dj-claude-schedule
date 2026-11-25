@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -60,7 +60,6 @@ Cocteau Twins – Ivo | last aired Nov 18 | 24x
 The Killers – Mr. Brightside | last aired Nov 18 | 162x
 The Clash – London Calling | last aired Nov 18 | 136x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
-Ramones – Blitzkrieg Bop | last aired Nov 18 | 13x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
 Suede – Animal Nitrate | last aired Nov 18 | 9x
@@ -100,5 +99,6 @@ Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 20 
 Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
+The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
