@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -34,11 +34,9 @@ Melody Gardot – Moon River | last aired Nov 17 | 13x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Herbie Hancock – Chameleon | last aired Nov 17 | 31x
-John Coltrane – My Favorite Things | last aired Nov 17 | 56x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 18 | 24x
 Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
 Shakatak – Night Birds | last aired Nov 18 | 27x
-Horace Silver Quintet – Peace | last aired Nov 18 | 31x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 19 | 95x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 19 | 4x
 Bart&Baker – Stop Googling Me ! | last aired Nov 19 | 3x
@@ -100,5 +98,7 @@ Bill Evans – Peace Piece (Album Version) | last aired Nov 23 | 182x
 Grover Washington Jr. – Mister Magic | last aired Nov 23 | 51x
 Chuck Mangione – Feels So Good | last aired Nov 23 | 29x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 23 | 75x
+John Coltrane – Lush Life | last aired Nov 23 | 39x
+Joni Mitchell – At Last (LP Version) | last aired Nov 23 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:30pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 4:45pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -27,7 +27,6 @@ Groove Armada – My Friend (Album Version) | last aired Nov 7 | 13x
 Noisia – Pleasure Model (Rohaan Remix) | last aired Nov 8 | 5x
 Cornelius – New Music Machine (Buffalo Daughter Remix) | last aired Nov 9 | 32x
 The Beatles – Revolution 9 (Remastered 2009) | last aired Nov 9 | 7x
-Tim Hecker – Harmony in Blue I | last aired Nov 9 | 66x
 Alvin Lucier – I Am Sitting in a Room | last aired Nov 9 | 9x
 Dorian Electra – Feel Good Inc. | last aired Nov 10 | 14x
 Charli XCX – 360 | last aired Nov 10 | 146x
@@ -89,7 +88,6 @@ Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 19 | 46x
 Tim Hecker – Black Refraction | last aired Nov 19 | 86x
 Brian Eno – Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired Nov 19 | 54x
 The Cinematic Orchestra – To Build A Home | last aired Nov 20 | 84x
-Jon Hopkins – Small Memory | last aired Nov 20 | 25x
 Floating Points – Birth4000 | last aired Nov 20 | 72x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 20 | 11x
 Wax Tailor – Seize The Day | last aired Nov 20 | 16x
@@ -100,5 +98,7 @@ Daft Punk – Harder, Better, Faster, Stronger | last aired Nov 20 | 57x
 Christian Löffler – Lid | last aired Nov 20 | 42x
 Oneohtrix Point Never – Nothing’s Special | last aired Nov 20 | 9x
 Portishead – It Could Be Sweet | last aired Nov 21 | 20x
+Polar Sun – Caribou | last aired Nov 21 | 35x
+Adamski – Killer | last aired Nov 21 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
