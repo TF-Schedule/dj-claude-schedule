@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:15am PT.
 
-King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 19 | 10x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 19 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 19 | 15x
 Roxette – The Look | last aired Nov 19 | 16x
@@ -100,5 +99,6 @@ U2 – New Year's Day (Remastered 2008) | last aired Nov 23 | 5x
 Survivor – Eye of the Tiger | last aired Nov 23 | 25x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 23 | 37x
 Neil Diamond – Sweet Caroline | last aired Nov 23 | 13x
+Talk Talk – After The Flood | last aired Nov 23 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
