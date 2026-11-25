@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -33,7 +33,6 @@ John Lennon – Watching The Wheels (Remastered 2010) | last aired Nov 17 | 7x
 Colbie Caillat – Try | last aired Nov 18 | 12x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 18 | 15x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
-Phoebe Bridgers – Smoke Signals | last aired Nov 18 | 61x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 18 | 12x
 Peter Broderick – A Little Lost | last aired Nov 18 | 17x
 Pete Seeger – Solidarity Forever | last aired Nov 18 | 89x
@@ -100,5 +99,6 @@ Grand Corps Malade – Mais je t'aime | last aired Nov 23 | 12x
 Leonard Cohen – Avalanche | last aired Nov 23 | 26x
 José González – Heartbeats | last aired Nov 23 | 128x
 Josh Rouse – 1972 | last aired Nov 23 | 28x
+John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 23 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
