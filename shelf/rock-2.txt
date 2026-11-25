@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:15am PT.
 
 Pink Floyd – Comfortably Numb | last aired Nov 19 | 15x
 Roxette – The Look | last aired Nov 19 | 16x
@@ -26,7 +26,6 @@ Gustavo Cerati – Puente | last aired Nov 20 | 35x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
 Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 20 | 20x
-Andrés Calamaro – Flaca | last aired Nov 20 | 36x
 David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
@@ -100,5 +99,6 @@ Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 23 | 37x
 Neil Diamond – Sweet Caroline | last aired Nov 23 | 13x
 Talk Talk – After The Flood | last aired Nov 23 | 34x
 Enjambre – Vida En El Espejo | last aired Nov 23 | 25x
+Electric Light Orchestra – Evil Woman | last aired Nov 23 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
