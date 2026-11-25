@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:45pm PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -59,7 +59,6 @@ Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
-Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 16 | 29x
 OneRepublic – I Lived | last aired Nov 16 | 186x
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
 Big Foot Mama – Obseden z njo | last aired Nov 17 | 2x
@@ -100,5 +99,6 @@ Michael Damian – Rock On | last aired Nov 19 | 10x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
+Freddie Mercury – Love Kills | last aired Nov 19 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
