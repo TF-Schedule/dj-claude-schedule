@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 7:00pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 7:15pm PT.
 
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Freddie Mercury – Love Kills | last aired Nov 19 | 9x
@@ -60,7 +60,6 @@ Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
 Guns N' Roses – Civil War | last aired Nov 21 | 1x
-Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 21 | 26x
 Patti Smith – Gloria : In Excelsis Deo - Gloria | last aired Nov 21 | 2x
 Olivia Rodrigo – vampire | last aired Nov 21 | 127x
 Fito Páez – El amor después del amor | last aired Nov 21 | 30x
@@ -100,5 +99,6 @@ Bon Jovi – Livin' On A Prayer | last aired Nov 22 | 152x
 Leonard Cohen – Bird on the Wire | last aired Nov 22 | 40x
 Patti Smith – People Have the Power | last aired Nov 22 | 3x
 Talk Talk – New Grass | last aired Nov 22 | 30x
+Grateful Dead – Eyes of the World | last aired Nov 23 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
