@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 1:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 1:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -86,7 +86,6 @@ Leonard Cohen – Avalanche | last aired Nov 23 | 26x
 José González – Heartbeats | last aired Nov 23 | 128x
 Josh Rouse – 1972 | last aired Nov 23 | 28x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 23 | 27x
-Sophie Hunger – Le vent nous portera | last aired Nov 23 | 30x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
 Tom Konkle – One Last Time | last aired Nov 23 | 7x
 Big Thief – Mary | last aired Nov 23 | 103x
@@ -100,5 +99,6 @@ John Lennon – Imagine (Remastered 2010) | last aired Nov 23 | 128x
 Carole King – It's Too Late | last aired Nov 23 | 92x
 Cat Power – The Greatest | last aired Nov 23 | 10x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 23 | 14x
+Simon & Garfunkel – The Boxer | last aired Nov 23 | 104x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
