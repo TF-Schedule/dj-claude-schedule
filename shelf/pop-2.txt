@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 3:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:00pm PT.
 
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Yazoo – Only You (Remastered 2008) | last aired Nov 20 | 19x
@@ -6,7 +6,6 @@ Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 The Chills – Pink Frost | last aired Nov 20 | 11x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
-Her's – Blue Lips | last aired Nov 21 | 32x
 Depeche Mode – Enjoy the Silence | last aired Nov 21 | 25x
 Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
@@ -100,5 +99,6 @@ Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
 Soft Cell – Tainted Love | last aired Nov 24 | 26x
 Nation of Language – Weak In Your Light | last aired Nov 24 | 32x
+Jvke – golden hour | last aired Nov 24 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
