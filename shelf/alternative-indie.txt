@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -84,7 +84,6 @@ Foo Fighters – Everlong | last aired Nov 19 | 36x
 Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
-Gorillaz – Hong Kong | last aired Nov 19 | 29x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 19 | 7x
 Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
@@ -100,5 +99,6 @@ Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
+Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 11:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 11:15am PT.
 
 Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
@@ -40,7 +40,6 @@ Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
 Lou Reed – Perfect Day | last aired Nov 21 | 4x
-Golden Earring – Radar Love | last aired Nov 21 | 5x
 Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
 From Fall to Spring – DRAW THE LINE | last aired Nov 21 | 2x
@@ -100,5 +99,6 @@ Electric Light Orchestra – Evil Woman | last aired Nov 23 | 27x
 Pink Floyd – Have a Cigar | last aired Nov 23 | 21x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 23 | 34x
 Natalie Imbruglia – Torn | last aired Nov 23 | 21x
+The Strokes – Last Nite | last aired Nov 23 | 84x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
