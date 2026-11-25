@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:46am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -23,7 +23,6 @@ Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 16 | 30x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
-Billy Joel – Honesty (Album Version) | last aired Nov 17 | 18x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
 Jeff Buckley – Lilac Wine | last aired Nov 17 | 1x
 Led Zeppelin – Stairway to Heaven (Remaster) | last aired Nov 17 | 120x
@@ -100,5 +99,6 @@ Tom Konkle – One Last Time | last aired Nov 23 | 7x
 Big Thief – Mary | last aired Nov 23 | 103x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
+Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 23 | 126x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
