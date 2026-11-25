@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 10:45am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 11:00am PT.
 
 Fred again.. – leavemealone | last aired Nov 21 | 19x
 Portishead – Sour Times | last aired Nov 21 | 25x
@@ -21,7 +21,6 @@ Ashra – Kazoo | last aired Nov 22 | 29x
 Rival Consoles – Untravel | last aired Nov 22 | 52x
 Eluvium – Indoor Swimming At The Space Station | last aired Nov 22 | 111x
 Synergy – Chateau | last aired Nov 22 | 32x
-Groove Armada – Madder | last aired Nov 22 | 16x
 Peter Fox – Alles neu (Album Version) | last aired Nov 22 | 2x
 Delia Derbyshire – Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) | last aired Nov 22 | 11x
 The 1975 – Somebody Else | last aired Nov 22 | 21x
@@ -100,5 +99,6 @@ Ashra – Midnight On Mars | last aired Nov 24 | 18x
 Peggy Gou – Starry Night | last aired Nov 24 | 171x
 Jungle – Keep Moving | last aired Nov 24 | 58x
 James Blake – Retrograde | last aired Nov 24 | 75x
+Thievery Corporation – Lebanese Blonde | last aired Nov 24 | 71x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
