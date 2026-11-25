@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 9:00am PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 9:15am PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -39,7 +39,6 @@ Club Nouveau – Lean On Me | last aired Nov 18 | 25x
 Remi Wolf – Disco Man | last aired Nov 18 | 11x
 Michael Jackson – Who Is It | last aired Nov 18 | 7x
 The Impressions – People Get Ready (Single Version) | last aired Nov 18 | 26x
-The Winstons – Amen Brother | last aired Nov 18 | 27x
 Michael Jackson – Morphine (Album Version) | last aired Nov 19 | 7x
 Frank Ocean – Pyramids | last aired Nov 19 | 59x
 Aretha Franklin – Wholy Holy | last aired Nov 19 | 27x
@@ -100,5 +99,6 @@ Curtis Mayfield – The Makings of You (2019 Remaster) (Remastered) | last aired
 Aretha Franklin – Rock Steady (Album Version) | last aired Nov 22 | 67x
 The O'Jays – Back Stabbers | last aired Nov 22 | 27x
 The Altons – When You Go (That's When You'll Know) | last aired Nov 22 | 37x
+Aaliyah – Rock The Boat | last aired Nov 22 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
