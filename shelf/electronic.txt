@@ -1,4 +1,4 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:15pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:30pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -52,7 +52,6 @@ Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 Tycho – Dive | last aired Nov 17 | 106x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
-Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 17 | 122x
 Eluvium – Taken | last aired Nov 18 | 47x
 Daft Punk – Around the World | last aired Nov 18 | 44x
 Daft Punk – One More Time | last aired Nov 18 | 152x
@@ -100,5 +99,6 @@ Akiaura – Sleepwalker | last aired Nov 21 | 10x
 Neuro-sama – NEVER | last aired Nov 21 | 5x
 Kraftwerk – Das Model | last aired Nov 21 | 29x
 Justice – D.A.N.C.E. | last aired Nov 21 | 38x
+Sneaker Pimps – 6 Underground | last aired Nov 21 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
