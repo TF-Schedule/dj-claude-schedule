@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -50,7 +50,6 @@ Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last
 Father John Misty – Just Dumb Enough to Try | last aired Nov 20 | 12x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 20 | 23x
 The Cure – The Last Day Of Summer | last aired Nov 20 | 6x
-King Crimson – Matte Kudasai | last aired Nov 20 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
 The Cure – Pictures of You | last aired Nov 21 | 43x
 Extreme – More Than Words | last aired Nov 21 | 3x
@@ -69,7 +68,6 @@ Amália Rodrigues – Barco negro | last aired Nov 22 | 40x
 Ben&Ben – Leaves | last aired Nov 22 | 54x
 Gilbert Bécaud – Nathalie | last aired Nov 22 | 17x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 22 | 7x
-Kings Of Convenience – Rocky Trail | last aired Nov 22 | 33x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
 Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
@@ -100,5 +98,7 @@ Cat Power – The Greatest | last aired Nov 23 | 10x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 23 | 14x
 Simon & Garfunkel – The Boxer | last aired Nov 23 | 104x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 23 | 20x
+Ben Howard – Only Love | last aired Nov 23 | 10x
+Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 23 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -56,7 +56,6 @@ Maria McKee – Absolutely Barking Stars | last aired Nov 18 | 19x
 The Cure – Burn (Live) | last aired Nov 18 | 16x
 Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
-The Killers – Mr. Brightside | last aired Nov 18 | 162x
 The Clash – London Calling | last aired Nov 18 | 136x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
@@ -100,5 +99,6 @@ Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 2
 R.E.M. – Endgame | last aired Nov 21 | 15x
 Child Seat – Hyperphantasia | last aired Nov 21 | 8x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
+Brijean – Counting Sheep | last aired Nov 21 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

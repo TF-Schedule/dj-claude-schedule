@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:45pm PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -59,7 +59,6 @@ Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
 OneRepublic – I Lived | last aired Nov 16 | 186x
 Pink Floyd – Breathe (In the Air) | last aired Nov 17 | 16x
-Kiss – Rock And Roll All Nite | last aired Nov 17 | 9x
 King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
@@ -86,7 +85,6 @@ Tom Konkle – Fail Upward For A Change | last aired Nov 19 | 5x
 The Script feat. will.i.am – Hall of Fame | last aired Nov 19 | 15x
 Big Foot Mama – Led s severa | last aired Nov 19 | 4x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 19 | 8x
-Kim Carnes – More Love | last aired Nov 19 | 21x
 Michael Damian – Rock On | last aired Nov 19 | 10x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
@@ -100,5 +98,7 @@ Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 7x
 Gustavo Cerati – Crimen | last aired Nov 20 | 30x
+Tina Turner – The Best | last aired Nov 20 | 29x
+Kenny Loggins – This Is It | last aired Nov 20 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

@@ -1,7 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 2:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 2:45pm PT.
 
-Tina Turner – The Best | last aired Nov 20 | 29x
-Kenny Loggins – This Is It | last aired Nov 20 | 40x
 Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
 Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
@@ -100,5 +98,7 @@ Steve Miller Band – The Joker | last aired Nov 23 | 13x
 Little River Band – Cool Change | last aired Nov 23 | 19x
 Toto – Georgy Porgy (album version) | last aired Nov 23 | 54x
 Juli – Perfekte Welle | last aired Nov 23 | 14x
+Fleetwood Mac – Sara | last aired Nov 23 | 31x
+Café Tacvba – Eres (Album Version) | last aired Nov 23 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
