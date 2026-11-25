@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 5:45pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 6:00pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -70,7 +70,6 @@ Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 
 Prince – Nothing Compares 2 U | last aired Nov 20 | 23x
 Boz Scaggs – Lowdown (2023 Remaster) | last aired Nov 20 | 64x
 Rihanna – Umbrella (Album Version) | last aired Nov 20 | 14x
-Amy Winehouse – Rehab | last aired Nov 20 | 61x
 Charles Wright & The Watts 103rd Street Rhythm Band – Express Yourself (Album Version) | last aired Nov 20 | 33x
 SWV – Weak | last aired Nov 20 | 22x
 Minnie Riperton – Lovin' You | last aired Nov 20 | 83x
@@ -100,5 +99,6 @@ Khruangbin – White Gloves | last aired Nov 22 | 91x
 Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 22 | 50x
 Diana Ross – Muscles | last aired Nov 22 | 33x
 George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 22 | 20x
+The Ink Spots – If I Didn't Care | last aired Nov 22 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
