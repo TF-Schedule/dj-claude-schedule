@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -56,7 +56,6 @@ Getatchèw Mèkurya – Shellela | last aired Nov 21 | 38x
 Bernard Purdie – Cool Down | last aired Nov 21 | 25x
 Steely Dan – Peg | last aired Nov 21 | 111x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 21 | 59x
-Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 21 | 46x
 Duke Ellington – In A Sentimental Mood | last aired Nov 21 | 118x
 Mary Halvorson – About Ghosts | last aired Nov 21 | 21x
 GoGo Penguin – Hopopono | last aired Nov 21 | 87x
@@ -64,7 +63,6 @@ George Benson – Affirmation (Album Version) | last aired Nov 21 | 18x
 Baby Face Willette – At Last | last aired Nov 21 | 14x
 Jean-Luc Ponty – Computer Incantations for World Peace | last aired Nov 21 | 33x
 Melody Gardot – This Foolish Heart Could Love You | last aired Nov 22 | 9x
-Natalie Cole – At Last | last aired Nov 22 | 14x
 Chet Baker – You Don't Know What Love Is | last aired Nov 22 | 31x
 Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 22 | 39x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 22 | 16x
@@ -100,5 +98,7 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 23 | 8x
 Charles Lloyd – You Are So Beautiful | last aired Nov 23 | 11x
 Petra Haden – Moon River | last aired Nov 23 | 18x
 Burna Boy – Last Last | last aired Nov 23 | 49x
+Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 23 | 37x
+Nancy Wilson – Guess Who I Saw Today | last aired Nov 23 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
