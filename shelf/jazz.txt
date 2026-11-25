@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -82,7 +82,6 @@ Bobby McFerrin – Common Threads | last aired Nov 22 | 22x
 Nina Simone – Wild Is The Wind | last aired Nov 22 | 39x
 Ben Allison – D.A.V.E. | last aired Nov 22 | 25x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 23 | 182x
-Grover Washington Jr. – Mister Magic | last aired Nov 23 | 51x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 23 | 75x
 John Coltrane – Lush Life | last aired Nov 23 | 39x
 Joni Mitchell – At Last (LP Version) | last aired Nov 23 | 8x
@@ -100,5 +99,6 @@ Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov
 Laufey – Madwoman | last aired Nov 23 | 49x
 The Dave Brubeck Quartet – Take Five | last aired Nov 23 | 58x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
+Nat King Cole – Nature Boy | last aired Nov 23 | 56x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
