@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 10:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 11:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -40,7 +40,6 @@ Jeff Buckley – Dream Brother | last aired Nov 17 | 1x
 Soundgarden – Black Hole Sun | last aired Nov 17 | 85x
 Pixies – Ana | last aired Nov 17 | 30x
 Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
-The Strokes – Ode To The Mets | last aired Nov 17 | 26x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
 Beck – Devils Haircut | last aired Nov 17 | 28x
@@ -100,5 +99,6 @@ Cigarettes After Sex – Apocalypse | last aired Nov 20 | 108x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
 Big Data – Put Me to Work | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
+The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 20 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
