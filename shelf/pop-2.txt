@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 2:15pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 2:28pm PT.
 
-Tabu – Dobra Vila | last aired Nov 21 | 2x
 Lady Gaga – Just Dance | last aired Nov 21 | 21x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
 Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
@@ -100,5 +99,6 @@ Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 25 | 29x
 Ray Anthony – The Hokey Pokey | last aired Nov 25 | 10x
 Greg Shilling – Shampoo | last aired Nov 25 | 9x
 Tove Lo – No One Dies From Love | last aired Nov 25 | 188x
+toe – Goodbye (Live) | last aired Nov 25 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
