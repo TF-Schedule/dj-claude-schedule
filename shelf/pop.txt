@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -60,9 +60,7 @@ Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sabrina Carpenter – Taste | last aired Nov 18 | 54x
-Ray Anthony – The Hokey Pokey | last aired Nov 18 | 9x
 Daft Punk feat. Julian Casablancas – Instant Crush (feat. Julian Casablancas) | last aired Nov 18 | 25x
-The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 18 | 6x
 Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
@@ -100,5 +98,7 @@ Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
 Glass Animals – Life Itself | last aired Nov 21 | 26x
 Glasperlenspiel – Nie vergessen | last aired Nov 21 | 16x
+Mercury Rev – Little Rhymes | last aired Nov 21 | 11x
+EMF – Unbelievable | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
