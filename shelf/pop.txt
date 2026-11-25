@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -68,7 +68,6 @@ Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
-Greg Shilling – Shampoo | last aired Nov 19 | 8x
 ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
@@ -100,5 +99,6 @@ Glass Animals – Life Itself | last aired Nov 21 | 26x
 Glasperlenspiel – Nie vergessen | last aired Nov 21 | 16x
 Mercury Rev – Little Rhymes | last aired Nov 21 | 11x
 EMF – Unbelievable | last aired Nov 21 | 2x
+Hollie Col – The Gambler | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
