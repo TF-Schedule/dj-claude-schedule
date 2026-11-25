@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 2:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 3:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -71,7 +71,6 @@ Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
 JAWNY – true | last aired Nov 19 | 7x
-The Rah Band – Messages from the Stars (Remaster) | last aired Nov 19 | 31x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
@@ -100,5 +99,6 @@ Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 The Chills – Pink Frost | last aired Nov 20 | 11x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
+Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
