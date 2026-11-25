@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:30am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -56,7 +56,6 @@ Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
 Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 18 | 14x
-Mac DeMarco – No Other Heart | last aired Nov 18 | 31x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 18 | 20x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
@@ -100,5 +99,6 @@ Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 The Chills – Pink Frost | last aired Nov 20 | 11x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
+Depeche Mode – Enjoy the Silence | last aired Nov 21 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

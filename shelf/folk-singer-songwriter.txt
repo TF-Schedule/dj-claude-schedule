@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -74,7 +74,6 @@ Ben&Ben – Leaves | last aired Nov 22 | 54x
 Gilbert Bécaud – Nathalie | last aired Nov 22 | 17x
 Sting – Fields Of Gold (My Songs Version) | last aired Nov 22 | 7x
 Kings Of Convenience – Rocky Trail | last aired Nov 22 | 33x
-Matt Nathanson – Come On Get Higher | last aired Nov 22 | 7x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
 Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
@@ -100,5 +99,6 @@ Big Thief – Mary | last aired Nov 23 | 103x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 23 | 126x
+Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
