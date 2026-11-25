@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 8:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 9:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -67,7 +67,6 @@ Fountains Of Wayne – Stacy's Mom | last aired Nov 18 | 7x
 Kat Edmonson – All The Way | last aired Nov 18 | 37x
 Sabrina Carpenter – Espresso | last aired Nov 18 | 120x
 Chappell Roan – Good Luck, Babe! | last aired Nov 18 | 78x
-JAWNY – true | last aired Nov 19 | 7x
 Chappell Roan – HOT TO GO! | last aired Nov 19 | 98x
 Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
@@ -100,5 +99,6 @@ Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
 Depeche Mode – Enjoy the Silence | last aired Nov 21 | 25x
 Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
+Glass Animals – Life Itself | last aired Nov 21 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
