@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 6:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 6:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -35,7 +35,6 @@ Tiny Tim – Tip Toe Thru' the Tulips with Me (Single Version) | last aired Nov 
 Weird Al Yankovic – Perform This Way (Parody of "Born This Way" by Lady Gaga) | last aired Nov 9 | 3x
 Roxette – See Me | last aired Nov 9 | 2x
 Harry Styles – As It Was | last aired Nov 11 | 69x
-The La's – There She Goes | last aired Nov 11 | 15x
 Icona Pop – I Love It (feat. Charli XCX) | last aired Nov 11 | 10x
 Post Malone – Chemical | last aired Nov 11 | 17x
 Bryan Ferry – Reason or Rhyme | last aired Nov 12 | 7x
@@ -100,5 +99,6 @@ Khalid – momentary lovers | last aired Nov 20 | 22x
 Tom Konkle – When Did Love Become A Test | last aired Nov 20 | 7x
 Depeche Mode – Just Can't Get Enough | last aired Nov 20 | 17x
 Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
+Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
