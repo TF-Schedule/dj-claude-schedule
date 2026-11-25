@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:00am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:15am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -46,7 +46,6 @@ Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
 Adrianne Lenker – anything | last aired Nov 19 | 56x
 Scorpions – Holiday (Remastered 2015) | last aired Nov 19 | 11x
 Go_A – SHUM | last aired Nov 19 | 20x
-Sarah McLachlan – Building a Mystery | last aired Nov 19 | 20x
 The Verve – The Drugs Don't Work (Remastered 2016) | last aired Nov 19 | 8x
 Leonard Cohen – Anthem | last aired Nov 19 | 36x
 City – Am Fenster | last aired Nov 20 | 6x
@@ -88,7 +87,6 @@ Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last air
 The Leeward Fits – Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired Nov 22 | 12x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 22 | 20x
-Gregory Alan Isakov – Big Black Car | last aired Nov 23 | 12x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 23 | 21x
 Dire Straits – Brothers in Arms | last aired Nov 23 | 28x
 Grand Corps Malade – Mais je t'aime | last aired Nov 23 | 12x
@@ -100,5 +98,7 @@ Sophie Hunger – Le vent nous portera | last aired Nov 23 | 30x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
 Fleet Foxes – Mykonos | last aired Nov 23 | 122x
 Tom Konkle – One Last Time | last aired Nov 23 | 7x
+Big Thief – Mary | last aired Nov 23 | 103x
+Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
