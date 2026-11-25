@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:00pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 6:15pm PT.
 
-Yazoo – Only You (Remastered 2008) | last aired Nov 20 | 19x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 The Chills – Pink Frost | last aired Nov 20 | 11x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
@@ -100,5 +99,6 @@ Soft Cell – Tainted Love | last aired Nov 24 | 26x
 Nation of Language – Weak In Your Light | last aired Nov 24 | 32x
 Jvke – golden hour | last aired Nov 24 | 16x
 Her's – Blue Lips | last aired Nov 24 | 32x
+Dean Martin – Everybody Loves Somebody | last aired Nov 24 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
