@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 6:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:00am PT.
 
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 19 | 10x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 19 | 17x
@@ -15,7 +15,6 @@ Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
 Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 Def Leppard – Photograph | last aired Nov 20 | 18x
-Måneskin – ZITTI E BUONI | last aired Nov 20 | 24x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 20 | 19x
 Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
@@ -100,5 +99,6 @@ Herbert Grönemeyer – Mensch | last aired Nov 23 | 6x
 U2 – New Year's Day (Remastered 2008) | last aired Nov 23 | 5x
 Survivor – Eye of the Tiger | last aired Nov 23 | 25x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 23 | 37x
+Neil Diamond – Sweet Caroline | last aired Nov 23 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:45am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:00am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -56,7 +56,6 @@ Bernard Purdie – Cool Down | last aired Nov 21 | 25x
 Steely Dan – Peg | last aired Nov 21 | 111x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 21 | 59x
 Duke Ellington – In A Sentimental Mood | last aired Nov 21 | 118x
-Mary Halvorson – About Ghosts | last aired Nov 21 | 21x
 GoGo Penguin – Hopopono | last aired Nov 21 | 87x
 George Benson – Affirmation (Album Version) | last aired Nov 21 | 18x
 Baby Face Willette – At Last | last aired Nov 21 | 14x
@@ -100,5 +99,6 @@ The Dave Brubeck Quartet – Take Five | last aired Nov 23 | 58x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
 Nat King Cole – Nature Boy | last aired Nov 23 | 56x
 Hailu Mergia – Tezeta | last aired Nov 23 | 63x
+Zaz – Champs-Elysées | last aired Nov 24 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
