@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:30am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -73,7 +73,6 @@ David Bowie – Slow Burn | last aired Nov 17 | 8x
 David Bowie – Space Oddity | last aired Nov 17 | 119x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Nov 17 | 17x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
-Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 18 | 35x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 18 | 28x
 Halestorm – Do Not Disturb | last aired Nov 18 | 6x
 Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 18 | 69x
@@ -100,5 +99,6 @@ Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Freddie Mercury – Love Kills | last aired Nov 19 | 9x
+Jeff Beck – Where Were You (Live) | last aired Nov 19 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
