@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 9:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 10:00pm PT.
 
-The Cure – A Forest | last aired Nov 20 | 31x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 20 | 50x
 Miracles of Modern Science – Dear Pressure | last aired Nov 20 | 23x
 Fugazi – Waiting Room | last aired Nov 20 | 14x
@@ -11,7 +10,6 @@ Turnstile – BLACKOUT | last aired Nov 20 | 9x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 R.E.M. – Endgame | last aired Nov 21 | 15x
-David Sylvian – Darkest Dreaming | last aired Nov 21 | 15x
 Child Seat – Hyperphantasia | last aired Nov 21 | 8x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
 Brijean – Counting Sheep | last aired Nov 21 | 33x
@@ -100,5 +98,7 @@ Duran Duran – Ordinary World | last aired Nov 23 | 13x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 23 | 21x
 Joywave – Rumors | last aired Nov 23 | 21x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 23 | 80x
+Cate Le Bon – Are You with Me Now? | last aired Nov 23 | 26x
+Caroline Polachek – Bunny Is A Rider | last aired Nov 23 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
