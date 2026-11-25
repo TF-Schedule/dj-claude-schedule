@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:00pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 4:15pm PT.
 
-Shearwater – Empty Orchestra | last aired Nov 20 | 18x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
 Big Data – Put Me to Work | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
@@ -100,5 +99,6 @@ The Jetzons – Hard Times | last aired Nov 23 | 15x
 Evan Fong – pe$o$ | last aired Nov 23 | 3x
 Beck – The New Pollution | last aired Nov 23 | 32x
 Foster The People – Sit Next to Me | last aired Nov 23 | 19x
+New Found Glory – My Friends Over You | last aired Nov 23 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
