@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 24, 5:45pm PT.
 
-Michael Damian – Rock On | last aired Nov 19 | 10x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
@@ -18,7 +17,6 @@ Tina Turner – The Best | last aired Nov 20 | 29x
 Toto – Rosanna (Album Version) | last aired Nov 20 | 81x
 Kenny Loggins – This Is It | last aired Nov 20 | 40x
 Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
-Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 20 | 13x
 Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 20 | 55x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
@@ -59,7 +57,6 @@ Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
 From Fall to Spring – DRAW THE LINE | last aired Nov 21 | 2x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
-John Mayer – New Light | last aired Nov 21 | 192x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
@@ -100,5 +97,8 @@ Jeff Lynne – At Last | last aired Nov 22 | 6x
 Monster Magnet – Nod Scene | last aired Nov 22 | 3x
 Amy Macdonald – This Is The Life | last aired Nov 22 | 25x
 MGMT – Electric Feel (Album Version) | last aired Nov 22 | 34x
+The Cramps – Goo Goo Muck | last aired Nov 22 | 2x
+Bon Jovi – Livin' On A Prayer | last aired Nov 22 | 152x
+Leonard Cohen – Bird on the Wire | last aired Nov 22 | 40x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
