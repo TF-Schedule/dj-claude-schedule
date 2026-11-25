@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -11,7 +11,6 @@ Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Ed Maverick – lagunas | last aired Nov 8 | 6x
 Matt Nathanson – Faster | last aired Nov 9 | 6x
-Vaya Con Dios – Nah Neh Nah | last aired Nov 11 | 15x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
 Chico Buarque – Construção | last aired Nov 13 | 49x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
@@ -71,7 +70,6 @@ Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
-Ben&Ben – Maybe The Night | last aired Nov 21 | 34x
 Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Don McLean – Vincent | last aired Nov 22 | 21x
@@ -100,5 +98,7 @@ Rayland Baxter – Objects In The Mirror | last aired Nov 22 | 20x
 Gregory Alan Isakov – Big Black Car | last aired Nov 23 | 12x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 23 | 21x
 Dire Straits – Brothers in Arms | last aired Nov 23 | 28x
+Grand Corps Malade – Mais je t'aime | last aired Nov 23 | 12x
+Leonard Cohen – Avalanche | last aired Nov 23 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
