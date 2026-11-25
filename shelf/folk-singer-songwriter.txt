@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -20,7 +20,6 @@ Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
 Pink Floyd – Fearless | last aired Nov 16 | 24x
 Hozier – Wasteland, Baby! | last aired Nov 16 | 15x
-Tracy Chapman – Fast Car (LP Version) | last aired Nov 16 | 30x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
@@ -100,5 +99,6 @@ Okkervil River – Lost Coastlines | last aired Nov 23 | 21x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 23 | 128x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 23 | 13x
 Carole King – It's Too Late | last aired Nov 23 | 92x
+Cat Power – The Greatest | last aired Nov 23 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

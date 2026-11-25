@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:00pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 12:15pm PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -43,7 +43,6 @@ Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Tom Konkle – Life Without The Living | last aired Nov 14 | 7x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
-T. Rex – Children Of The Revolution | last aired Nov 15 | 18x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
@@ -80,7 +79,6 @@ Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
 Van Halen – Jump (2015 Remaster) | last aired Nov 18 | 8x
 Whitesnake – Still Of The Night (2018 Remaster) | last aired Nov 18 | 6x
-The Tragically Hip – Long Time Running | last aired Nov 19 | 19x
 Mike Oldfield – Moonlight Shadow | last aired Nov 19 | 10x
 Sum 41 – In Too Deep (Album Version) | last aired Nov 19 | 15x
 Robbie Dupree – Steal Away | last aired Nov 19 | 18x
@@ -100,5 +98,7 @@ King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 19 | 10x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 19 | 17x
 Pink Floyd – Comfortably Numb | last aired Nov 19 | 15x
 Roxette – The Look | last aired Nov 19 | 16x
+Tim Cappello – I Still Believe | last aired Nov 19 | 20x
+Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
