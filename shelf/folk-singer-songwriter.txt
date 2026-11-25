@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -49,7 +49,6 @@ Leonard Cohen – Anthem | last aired Nov 19 | 36x
 City – Am Fenster | last aired Nov 20 | 6x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Michael Hedges – Aerial Boundaries | last aired Nov 20 | 45x
-Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 20 | 35x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 20 | 22x
 Father John Misty – Just Dumb Enough to Try | last aired Nov 20 | 12x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 20 | 23x
@@ -100,5 +99,6 @@ Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 23 | 126x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
 Joni Mitchell – River | last aired Nov 23 | 29x
+Okkervil River – Lost Coastlines | last aired Nov 23 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
