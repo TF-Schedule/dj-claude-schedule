@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 1:00pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 1:15pm PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -88,7 +88,6 @@ Big Foot Mama – Led s severa | last aired Nov 19 | 4x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 19 | 8x
 Kim Carnes – More Love | last aired Nov 19 | 21x
 Michael Damian – Rock On | last aired Nov 19 | 10x
-Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Freddie Mercury – Love Kills | last aired Nov 19 | 9x
@@ -100,5 +99,6 @@ Roxette – The Look | last aired Nov 19 | 16x
 Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
 Tom Konkle – Camouflage (Acoustic Mix) | last aired Nov 19 | 7x
+Gustavo Cerati – Crimen | last aired Nov 20 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
