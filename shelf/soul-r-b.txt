@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 5:00pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 5:15pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -57,7 +57,6 @@ Prince – Kiss (LP Version) | last aired Nov 19 | 28x
 Teddy Swims – The Door | last aired Nov 19 | 20x
 Aretha Franklin – Day Dreaming (Album Version) | last aired Nov 19 | 136x
 Michael Jackson – Stranger in Moscow | last aired Nov 19 | 18x
-Luther Vandross – A House Is Not A Home | last aired Nov 19 | 91x
 Lianne La Havas – Sour Flower | last aired Nov 19 | 72x
 Prince – Adore (2020 Remaster) | last aired Nov 19 | 52x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 19 | 108x
@@ -100,5 +99,6 @@ Thee Sacred Souls – Live For You | last aired Nov 22 | 39x
 Khruangbin – White Gloves | last aired Nov 22 | 91x
 Marvin Gaye – Sexual Healing (Album Version) | last aired Nov 22 | 50x
 Diana Ross – Muscles | last aired Nov 22 | 33x
+George Michael Duet with Mary J. Blige – As (Album Version) | last aired Nov 22 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
