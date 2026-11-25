@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 3:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -60,7 +60,6 @@ The Cure – The Last Day Of Summer | last aired Nov 20 | 6x
 King Crimson – Matte Kudasai | last aired Nov 20 | 25x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
 The Cure – Pictures of You | last aired Nov 21 | 43x
-Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 21 | 3x
 Extreme – More Than Words | last aired Nov 21 | 3x
 Simon & Garfunkel – Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired Nov 21 | 23x
 Mireille Mathieu – Together We're Strong | last aired Nov 21 | 52x
@@ -100,5 +99,6 @@ John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired No
 Sophie Hunger – Le vent nous portera | last aired Nov 23 | 30x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
 Fleet Foxes – Mykonos | last aired Nov 23 | 122x
+Tom Konkle – One Last Time | last aired Nov 23 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
