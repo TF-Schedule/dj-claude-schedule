@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 9:45am PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:00am PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -10,7 +10,6 @@ Stevie Wonder – Happy Birthday | last aired Nov 1 | 9x
 Daryl Hall & John Oates – I Can't Go For That (No Can Do) (Remastered 2003) | last aired Nov 2 | 99x
 Stevie Wonder – You Haven't Done Nothin' | last aired Nov 2 | 27x
 Hozier – Angel Of Small Death & The Codeine Scene | last aired Nov 4 | 7x
-Jacquees – Won't Turn It Down | last aired Nov 4 | 4x
 Marvin Gaye – Let's Get It On | last aired Nov 4 | 10x
 George Michael – Somebody to Love (Album Version) | last aired Nov 7 | 8x
 The Soul Stirrers – Touch The Hem Of His Garment | last aired Nov 8 | 26x
@@ -100,5 +99,6 @@ Aretha Franklin – Rock Steady (Album Version) | last aired Nov 22 | 67x
 The O'Jays – Back Stabbers | last aired Nov 22 | 27x
 The Altons – When You Go (That's When You'll Know) | last aired Nov 22 | 37x
 Aaliyah – Rock The Boat | last aired Nov 22 | 13x
+David Bowie – Dancing in the Street (2002 Remaster) | last aired Nov 22 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
