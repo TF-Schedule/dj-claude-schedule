@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 11:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -19,7 +19,6 @@ Lana Del Rey – Heroin | last aired Nov 10 | 24x
 AWOLNATION – Burn It Down | last aired Nov 11 | 7x
 DIIV – Doused | last aired Nov 11 | 32x
 Laurie Anderson – Sharkey's Day (Album Version) | last aired Nov 12 | 21x
-Green Day – American Idiot (Album Version) | last aired Nov 13 | 16x
 Benny Sings – Rolled Up | last aired Nov 14 | 23x
 Brian Eno – Spinning Away | last aired Nov 14 | 8x
 Helado Negro – Brown Fluorescence | last aired Nov 15 | 26x
@@ -100,5 +99,6 @@ Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
+R.E.M. – Endgame | last aired Nov 21 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
