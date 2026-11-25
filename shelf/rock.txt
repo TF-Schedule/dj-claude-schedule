@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 7:45pm PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -51,7 +51,6 @@ Pink Floyd – Money | last aired Nov 16 | 13x
 Dire Straits – Money for Nothing | last aired Nov 16 | 25x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
-Queen – Under Pressure (Remastered 2011) | last aired Nov 16 | 33x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
@@ -100,5 +99,6 @@ Kim Carnes – More Love | last aired Nov 19 | 21x
 Michael Damian – Rock On | last aired Nov 19 | 10x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 19 | 8x
 Nine Inch Nails – Hurt | last aired Nov 19 | 31x
+Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
