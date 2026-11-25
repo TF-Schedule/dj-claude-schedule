@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 24, 9:45pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -31,7 +31,6 @@ Kate Bush – Suspended In Gaffa (2018 Remaster) | last aired Nov 16 | 3x
 Jeff Buckley – Last Goodbye | last aired Nov 16 | 39x
 Kate Bush – The Song Of Solomon (2018 Remaster) | last aired Nov 16 | 1x
 Gorillaz – Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired Nov 16 | 20x
-Sigur Rós – Starálfur | last aired Nov 16 | 25x
 Coldplay – Yellow | last aired Nov 16 | 22x
 Coldplay – Talk | last aired Nov 17 | 28x
 MGMT – Little Dark Age | last aired Nov 17 | 5x
@@ -100,5 +99,6 @@ Oasis – Live Forever | last aired Nov 19 | 15x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 19 | 7x
 Cigarettes After Sex – Apocalypse | last aired Nov 20 | 108x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
+Big Data – Put Me to Work | last aired Nov 20 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
