@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 3:00pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 3:15pm PT.
 
 Lady Gaga – Just Dance | last aired Nov 21 | 21x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
@@ -7,7 +7,6 @@ Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
-Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 21 | 2x
 Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 21 | 14x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18x
@@ -100,5 +99,6 @@ Ray Anthony – The Hokey Pokey | last aired Nov 25 | 10x
 Greg Shilling – Shampoo | last aired Nov 25 | 9x
 Tove Lo – No One Dies From Love | last aired Nov 25 | 188x
 toe – Goodbye (Live) | last aired Nov 25 | 24x
+Hollie Col – The Gambler | last aired Nov 25 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
