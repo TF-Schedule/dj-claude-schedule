@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 3:15pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 3:30pm PT.
 
-Queen – Bohemian Rhapsody (Remastered 2011) | last aired Nov 20 | 100x
 Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 Def Leppard – Photograph | last aired Nov 20 | 18x
@@ -100,5 +99,6 @@ Toto – Georgy Porgy (album version) | last aired Nov 23 | 54x
 Juli – Perfekte Welle | last aired Nov 23 | 14x
 Fleetwood Mac – Sara | last aired Nov 23 | 31x
 Café Tacvba – Eres (Album Version) | last aired Nov 23 | 41x
+Måneskin – Torna a casa | last aired Nov 23 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
