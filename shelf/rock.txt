@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 7:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 8:00am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -50,7 +50,6 @@ Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
 Tom Konkle – Light Bulb In My Head | last aired Nov 16 | 11x
 Tom Konkle – Name On A Screen | last aired Nov 16 | 10x
 OneRepublic – I Lived | last aired Nov 16 | 186x
-King Crimson – The Sheltering Sky | last aired Nov 17 | 16x
 Led Zeppelin – Whole Lotta Love (Remaster) | last aired Nov 17 | 1x
 The Strokes – Lonely in the Future | last aired Nov 17 | 19x
 King Crimson – In the Court of the Crimson King (Abridged) | last aired Nov 17 | 23x
@@ -100,5 +99,6 @@ Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
+David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
