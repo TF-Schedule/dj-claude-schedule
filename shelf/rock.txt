@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 10:00am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 10:15am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -17,7 +17,6 @@ Stratovarius – Black Diamond | last aired Nov 1 | 8x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 6 | 4x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
-Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
 Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
@@ -100,5 +99,6 @@ Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
 David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
+Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
