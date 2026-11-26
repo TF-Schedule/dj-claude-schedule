@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 10:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 11:00pm PT.
 
-Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
 Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 21 | 14x
@@ -100,5 +99,6 @@ The Carpenters – (They Long To Be) Close To You | last aired Nov 25 | 28x
 New Order – True Faith | last aired Nov 25 | 23x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 25 | 21x
 Mac DeMarco – Chamber Of Reflection | last aired Nov 25 | 75x
+Mazzy Star – Fade Into You | last aired Nov 25 | 103x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
