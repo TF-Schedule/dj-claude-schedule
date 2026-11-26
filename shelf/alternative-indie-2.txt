@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 3:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 4:00pm PT.
 
-Joker Out – Novi Val | last aired Nov 21 | 24x
 Men At Work – Overkill | last aired Nov 21 | 18x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
@@ -45,7 +44,6 @@ TV Girl – Lovers Rock | last aired Nov 22 | 4x
 ByeAlex – Kedvesem (Original) | last aired Nov 22 | 17x
 Virus – Imágenes Paganas | last aired Nov 22 | 16x
 Pale Saints – Kinky Love | last aired Nov 22 | 25x
-Montaigne – Technicolour | last aired Nov 23 | 6x
 Billie Eilish – Lo Vas A Olvidar | last aired Nov 23 | 13x
 Beach House – Space Song | last aired Nov 23 | 124x
 Joywave – In Clover | last aired Nov 23 | 21x
@@ -100,5 +98,7 @@ Kate Bush – Coffee Homeground | last aired Nov 24 | 24x
 Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 24 | 16x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 24 | 16x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 24 | 22x
+Cage The Elephant – What I'm Becoming | last aired Nov 24 | 19x
+Paramore – Thick Skull | last aired Nov 24 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
