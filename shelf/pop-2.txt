@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:15am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:30am PT.
 
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
@@ -49,8 +49,6 @@ Boy Throb – Finger | last aired Nov 24 | 7x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 24 | 47x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 24 | 13x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 24 | 17x
-Mac DeMarco – My Kind of Woman | last aired Nov 24 | 33x
-Mariya Takeuchi – Plastic Love | last aired Nov 24 | 32x
 Billy Joel – Vienna (Album Version) | last aired Nov 24 | 40x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 24 | 26x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 | 17x
@@ -100,5 +98,7 @@ Chappell Roan – Pink Pony Club | last aired Nov 26 | 54x
 The Chordettes – Mr. Sandman | last aired Nov 26 | 13x
 Alexander Rybak – Fairytale | last aired Nov 26 | 19x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 26 | 8x
+Jan Hammer – Crockett's Theme | last aired Nov 26 | 31x
+Mac DeMarco – My Kind of Woman | last aired Nov 26 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
