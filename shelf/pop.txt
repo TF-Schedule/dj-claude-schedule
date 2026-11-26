@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 1:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -99,6 +99,6 @@ Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
 Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
-Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
+Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

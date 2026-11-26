@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 1:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 2:00am PT.
 
-Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
 gesunokiwamiotome – watashi igai watashi ja naino | last aired Nov 20 | 10x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
@@ -100,5 +99,6 @@ Lordi – Hard Rock Hallelujah | last aired Nov 24 | 19x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 24 | 14x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 24 | 55x
 Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 24 | 182x
+Toto – Africa | last aired Nov 24 | 95x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
