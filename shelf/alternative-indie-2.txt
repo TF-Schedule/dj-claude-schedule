@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 5:15am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 5:30am PT.
 
 Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
@@ -59,7 +59,6 @@ Cocteau Twins – Cherry-coloured Funk | last aired Nov 23 | 80x
 Cate Le Bon – Are You with Me Now? | last aired Nov 23 | 26x
 Björk – Unravel | last aired Nov 23 | 28x
 The Cranberries – Dreams | last aired Nov 23 | 36x
-Saint Etienne – Only Love Can Break Your Heart | last aired Nov 23 | 33x
 This Mortal Coil – Song To The Siren | last aired Nov 23 | 38x
 Lucy Dacus – Night Shift | last aired Nov 24 | 169x
 Lana Del Rey – Venice Bitch | last aired Nov 24 | 22x
@@ -100,5 +99,6 @@ Shearwater – Empty Orchestra | last aired Nov 24 | 19x
 M83 – Midnight City | last aired Nov 24 | 115x
 Julien Baker – Hardline | last aired Nov 24 | 38x
 Sigur Rós – Starálfur | last aired Nov 24 | 26x
+David Sylvian – Darkest Dreaming | last aired Nov 24 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
