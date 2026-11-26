@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 3:15am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 3:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -83,7 +83,6 @@ Steely Dan – Home At Last | last aired Nov 23 | 35x
 St Germain – Rose rouge | last aired Nov 23 | 48x
 Acker Bilk – Stranger On The Shore | last aired Nov 23 | 18x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 23 | 108x
-Laufey – Madwoman | last aired Nov 23 | 49x
 The Dave Brubeck Quartet – Take Five | last aired Nov 23 | 58x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
 Nat King Cole – Nature Boy | last aired Nov 23 | 56x
@@ -100,5 +99,6 @@ Nat King Cole – Autumn Leaves | last aired Nov 24 | 16x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 24 | 128x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 24 | 104x
 Melody Gardot – La chanson des vieux amants | last aired Nov 24 | 14x
+Alfa Mist – Organic Rust | last aired Nov 24 | 119x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
