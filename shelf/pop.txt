@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:15pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:30pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -79,7 +79,6 @@ Bruno Mars – Gorilla | last aired Nov 20 | 13x
 Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
 TilaR – More Than A Friend | last aired Nov 20 | 5x
-Benson Boone – Beautiful Things | last aired Nov 20 | 16x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
 Khalid – momentary lovers | last aired Nov 20 | 22x
 Tom Konkle – When Did Love Become A Test | last aired Nov 20 | 7x
@@ -100,5 +99,6 @@ Backstreet Boys – I Want It That Way | last aired Nov 21 | 17x
 Tabu – Dobra Vila | last aired Nov 21 | 2x
 Lady Gaga – Just Dance | last aired Nov 21 | 21x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
+Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
