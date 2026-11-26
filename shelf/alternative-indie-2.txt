@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 9:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 10:00pm PT.
 
-Lace – risk | last aired Nov 21 | 3x
 Blur – The Universal | last aired Nov 21 | 2x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54x
 Muse – Won’t Stand Down | last aired Nov 21 | 18x
@@ -100,5 +99,6 @@ Ride – Vapour Trail | last aired Nov 24 | 30x
 The Magnetic Fields – Born on a Train | last aired Nov 24 | 11x
 David Byrne – Everybody's Coming to My House (Live) | last aired Nov 24 | 9x
 Dot Allison – Bleached By The Sun | last aired Nov 24 | 14x
+The Sundays – Wild Horses | last aired Nov 24 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

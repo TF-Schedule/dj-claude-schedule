@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 9:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -50,7 +50,6 @@ Talking Heads – Psycho Killer | last aired Nov 17 | 29x
 The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
-Maria McKee – Absolutely Barking Stars | last aired Nov 18 | 19x
 The Cure – Burn (Live) | last aired Nov 18 | 16x
 Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
@@ -100,5 +99,6 @@ Bowling For Soup – 1985 | last aired Nov 21 | 14x
 Joker Out – Novi Val | last aired Nov 21 | 24x
 Men At Work – Overkill | last aired Nov 21 | 18x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
+Lace – risk | last aired Nov 21 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

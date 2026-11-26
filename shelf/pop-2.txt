@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 9:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 10:00pm PT.
 
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
@@ -48,7 +48,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 23 | 20x
 P!nk – So What | last aired Nov 23 | 9x
 Mike Marshall – Big Country (Instrumental) | last aired Nov 23 | 14x
 Perpetuum Jazzile – Africa | last aired Nov 23 | 30x
-Mazzy Star – Fade Into You | last aired Nov 23 | 103x
 Air – La femme d'argent | last aired Nov 23 | 76x
 Zoé – Vía Láctea | last aired Nov 23 | 30x
 Clannad – Theme From Harry's Game | last aired Nov 23 | 41x
@@ -100,5 +99,6 @@ Benson Boone – Beautiful Things | last aired Nov 25 | 17x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 25 | 28x
 New Order – True Faith | last aired Nov 25 | 23x
 Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 25 | 21x
+Mac DeMarco – Chamber Of Reflection | last aired Nov 25 | 75x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
