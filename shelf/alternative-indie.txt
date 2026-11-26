@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 8:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 8:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -48,7 +48,6 @@ The Cure – Just Like Heaven (Album Version) | last aired Nov 17 | 12x
 Love and Rockets – So Alive | last aired Nov 17 | 10x
 Gorillaz – The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired Nov 17 | 16x
 The Cure – Burn (Live) | last aired Nov 18 | 16x
-Carter Vail – Ants In My Room | last aired Nov 18 | 14x
 Cocteau Twins – Ivo | last aired Nov 18 | 24x
 The Clash – London Calling | last aired Nov 18 | 136x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
@@ -100,5 +99,6 @@ The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54
 Muse – Won’t Stand Down | last aired Nov 21 | 18x
 Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
+Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

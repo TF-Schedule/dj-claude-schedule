@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:45am PT.
 
-Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
 Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
@@ -100,5 +99,6 @@ David Sylvian – Darkest Dreaming | last aired Nov 24 | 16x
 Daniel Quien – Otros Colores | last aired Nov 24 | 3x
 Sting – Fragile | last aired Nov 24 | 41x
 The Strokes – Ode To The Mets | last aired Nov 24 | 27x
+Glass Animals – Heat Waves (Stripped Back) | last aired Nov 24 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
