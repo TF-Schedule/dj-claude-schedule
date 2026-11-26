@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 12:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 12:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -77,7 +77,6 @@ Tom Konkle – One Last Time | last aired Nov 23 | 7x
 Big Thief – Mary | last aired Nov 23 | 103x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
-Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 23 | 126x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
 Joni Mitchell – River | last aired Nov 23 | 29x
 Okkervil River – Lost Coastlines | last aired Nov 23 | 21x
@@ -100,5 +99,6 @@ Leonard Cohen – Dance Me to the End of Love | last aired Nov 24 | 43x
 Tom Waits – House Where Nobody Lives | last aired Nov 24 | 46x
 Elliott Smith – Independence Day | last aired Nov 24 | 25x
 Edith Piaf – La Vie en rose | last aired Nov 24 | 41x
+Ed Sheeran – Perfect | last aired Nov 24 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
