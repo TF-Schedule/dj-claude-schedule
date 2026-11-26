@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 6:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 7:00am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -17,7 +17,6 @@ U2 – All Along The Watchtower (Live - Rattle & Hum Version) | last aired Oct 3
 Stratovarius – Black Diamond | last aired Nov 1 | 8x
 The Beatles – This Boy (Remastered) | last aired Nov 4 | 17x
 Tom Konkle – Camouflage (Album Mix) | last aired Nov 6 | 4x
-Bon Jovi – You Give Love A Bad Name | last aired Nov 7 | 16x
 Royal Blood – Boilermaker | last aired Nov 7 | 10x
 Marty Friedman – Senbonzakura | last aired Nov 9 | 17x
 Skid Row – Quicksand Jesus | last aired Nov 9 | 3x
@@ -45,7 +44,6 @@ David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
-David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 16 | 11x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
@@ -100,5 +98,7 @@ Richard O Brien – The Time Warp | last aired Nov 20 | 5x
 gesunokiwamiotome – watashi igai watashi ja naino | last aired Nov 20 | 10x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
+Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
+Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
