@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 6:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 6:28am PT.
 
-Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
 Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
@@ -100,5 +99,6 @@ Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 24 | 3
 Ashra – Sunrain | last aired Nov 24 | 36x
 The Doors – Riders on the Storm | last aired Nov 24 | 6x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 24 | 26x
+Dire Straits – Sultans of Swing | last aired Nov 24 | 88x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

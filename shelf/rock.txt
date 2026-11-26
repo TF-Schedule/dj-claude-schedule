@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 6:15am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 6:28am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -36,7 +36,6 @@ The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 1
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
 Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
-The Rolling Stones – Paint It, Black | last aired Nov 13 | 167x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
 Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
@@ -100,5 +99,6 @@ The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
 gesunokiwamiotome – watashi igai watashi ja naino | last aired Nov 20 | 10x
+Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
