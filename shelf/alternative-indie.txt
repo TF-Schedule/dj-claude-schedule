@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -87,7 +87,6 @@ The Cure – A Forest | last aired Nov 20 | 31x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 20 | 50x
 Miracles of Modern Science – Dear Pressure | last aired Nov 20 | 23x
 Fugazi – Waiting Room | last aired Nov 20 | 14x
-Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 20 | 20x
 Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
@@ -100,5 +99,6 @@ Brijean – Counting Sheep | last aired Nov 21 | 33x
 Bowling For Soup – 1985 | last aired Nov 21 | 14x
 Joker Out – Novi Val | last aired Nov 21 | 24x
 Men At Work – Overkill | last aired Nov 21 | 18x
+Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
