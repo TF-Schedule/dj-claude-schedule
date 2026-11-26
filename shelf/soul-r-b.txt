@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:00am PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:15am PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -27,7 +27,6 @@ Khruangbin – Time (You and I) | last aired Nov 16 | 99x
 Khruangbin – People Everywhere ii | last aired Nov 16 | 67x
 Michael Jackson – You Are Not Alone | last aired Nov 17 | 290x
 Stevie Wonder – I Wish | last aired Nov 17 | 28x
-Al Green – Love and Happiness | last aired Nov 17 | 39x
 Prince – Sometimes It Snows in April (LP Version) | last aired Nov 17 | 44x
 Red Hot Chili Peppers – Higher Ground (2014 Remaster) | last aired Nov 17 | 35x
 Marvin Gaye – Inner City Blues (Make Me Wanna Holler) | last aired Nov 18 | 135x
@@ -100,5 +99,6 @@ Booker T. & The M.G.'s – Green Onions | last aired Nov 22 | 44x
 The Platters – The Great Pretender (Single Version) | last aired Nov 22 | 37x
 The Temprees – At Last | last aired Nov 23 | 9x
 Booker T. Jones – Everything Is Everything | last aired Nov 23 | 27x
+The Weeknd – Gasoline | last aired Nov 23 | 97x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

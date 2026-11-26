@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
@@ -92,7 +92,6 @@ Turnstile – BLACKOUT | last aired Nov 20 | 9x
 The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 R.E.M. – Endgame | last aired Nov 21 | 15x
-Child Seat – Hyperphantasia | last aired Nov 21 | 8x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
 Bowling For Soup – 1985 | last aired Nov 21 | 14x
 Joker Out – Novi Val | last aired Nov 21 | 24x
@@ -100,5 +99,6 @@ Men At Work – Overkill | last aired Nov 21 | 18x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
 Blur – The Universal | last aired Nov 21 | 2x
+The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
