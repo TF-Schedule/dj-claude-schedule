@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:30pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:45pm PT.
 
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
@@ -77,7 +77,6 @@ Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 24 | 22x
 Cage The Elephant – What I'm Becoming | last aired Nov 24 | 19x
 Paramore – Thick Skull | last aired Nov 24 | 20x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 24 | 16x
-Simple Minds – Don't You (Forget About Me) | last aired Nov 24 | 27x
 Slowdive – Alison | last aired Nov 24 | 44x
 Ride – Vapour Trail | last aired Nov 24 | 30x
 David Byrne – Everybody's Coming to My House (Live) | last aired Nov 24 | 9x
@@ -100,5 +99,6 @@ Cigarettes After Sex – Apocalypse | last aired Nov 24 | 109x
 The National – About Today (2021 Remaster) | last aired Nov 25 | 195x
 Patrick Watson – Sit Down Beside Me | last aired Nov 25 | 16x
 Papooz – You and I | last aired Nov 25 | 30x
+Child Seat – Heart To Heart | last aired Nov 25 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
