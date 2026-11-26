@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 10:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 10:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -90,7 +90,6 @@ R.E.M. – Endgame | last aired Nov 21 | 15x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
 Bowling For Soup – 1985 | last aired Nov 21 | 14x
 Joker Out – Novi Val | last aired Nov 21 | 24x
-Men At Work – Overkill | last aired Nov 21 | 18x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
 Blur – The Universal | last aired Nov 21 | 2x
@@ -100,5 +99,6 @@ Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
+Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt

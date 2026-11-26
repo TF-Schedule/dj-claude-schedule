@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 10:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 10:45am PT.
 
-Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
 twenty one pilots – Stressed Out | last aired Nov 21 | 26x
@@ -100,5 +99,6 @@ Glass Animals – Heat Waves (Stripped Back) | last aired Nov 24 | 19x
 Montaigne – I Am Not an End | last aired Nov 24 | 9x
 No Vacation – Waltzing Back | last aired Nov 24 | 27x
 Cigarettes After Sex – Apocalypse | last aired Nov 24 | 109x
+The National – About Today (2021 Remaster) | last aired Nov 25 | 195x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
