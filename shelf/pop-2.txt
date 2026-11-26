@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 11:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:00pm PT.
 
 Gus Dapperton – Ditch | last aired Nov 22 | 24x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
@@ -47,7 +47,6 @@ Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" 
 Billy Joel – Vienna (Album Version) | last aired Nov 24 | 40x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 24 | 26x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 | 17x
-The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 24 | 14x
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
 Soft Cell – Tainted Love | last aired Nov 24 | 26x
@@ -100,5 +99,6 @@ Margaret Berger – I Feed You My Love (Extended Version) | last aired Nov 26 | 
 Mercury Rev – Little Rhymes | last aired Nov 26 | 11x
 New Order – Blue Monday (2016 Remaster) | last aired Nov 26 | 20x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 26 | 17x
+Paula Abdul – Straight Up (Single Version) | last aired Nov 26 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
