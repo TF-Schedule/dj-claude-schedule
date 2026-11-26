@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:15pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:23pm PT.
 
 Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
@@ -77,7 +77,6 @@ Herbert Grönemeyer – Mensch | last aired Nov 23 | 6x
 U2 – New Year's Day (Remastered 2008) | last aired Nov 23 | 5x
 Survivor – Eye of the Tiger | last aired Nov 23 | 25x
 Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 23 | 37x
-Neil Diamond – Sweet Caroline | last aired Nov 23 | 13x
 Talk Talk – After The Flood | last aired Nov 23 | 34x
 Enjambre – Vida En El Espejo | last aired Nov 23 | 25x
 Pink Floyd – Have a Cigar | last aired Nov 23 | 21x
@@ -100,5 +99,6 @@ Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 24 | 12x
 Erik Grönwall – House of the Rising Sun | last aired Nov 24 | 8x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 24 | 27x
 Loverboy – Lovin' Every Minute of It | last aired Nov 24 | 10x
+Lordi – Hard Rock Hallelujah | last aired Nov 24 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
