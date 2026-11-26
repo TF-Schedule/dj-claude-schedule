@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 5:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -18,7 +18,6 @@ The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Sting – Shape Of My Heart (My Songs Version) | last aired Nov 15 | 5x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Beatles – Yesterday (Remastered) | last aired Nov 15 | 53x
-Pink Floyd – Fearless | last aired Nov 16 | 24x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
 Hozier – From Eden | last aired Nov 17 | 52x
 Jeff Buckley – Lover, You Should've Come Over | last aired Nov 17 | 1x
@@ -100,5 +99,6 @@ Simon & Garfunkel – The Boxer | last aired Nov 23 | 104x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 23 | 20x
 Ben Howard – Only Love | last aired Nov 23 | 10x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 23 | 44x
+Patti Smith – Wing | last aired Nov 23 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
