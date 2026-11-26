@@ -1,11 +1,10 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:45pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 1:00pm PT.
 
 Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
 twenty one pilots – Stressed Out | last aired Nov 21 | 26x
 Creed – With Arms Wide Open | last aired Nov 21 | 12x
 The Jetzons – You | last aired Nov 21 | 15x
-Siouxsie & The Banshees – Cities In Dust (Single Version) | last aired Nov 21 | 13x
 The Smashing Pumpkins – 1979 | last aired Nov 21 | 31x
 Pearl Jam – Yellow Ledbetter | last aired Nov 21 | 35x
 Geowulf – Saltwater | last aired Nov 21 | 19x
@@ -75,8 +74,6 @@ Eskimo Joe – Black Fingernails, Red Wine | last aired Nov 24 | 16x
 R.E.M. – Orange Crush (Remastered) | last aired Nov 24 | 16x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 24 | 22x
 Cage The Elephant – What I'm Becoming | last aired Nov 24 | 19x
-Paramore – Thick Skull | last aired Nov 24 | 20x
-Silverchair – Ana's Song (Open Fire) | last aired Nov 24 | 16x
 Slowdive – Alison | last aired Nov 24 | 44x
 Ride – Vapour Trail | last aired Nov 24 | 30x
 David Byrne – Everybody's Coming to My House (Live) | last aired Nov 24 | 9x
@@ -100,5 +97,8 @@ The National – About Today (2021 Remaster) | last aired Nov 25 | 195x
 Patrick Watson – Sit Down Beside Me | last aired Nov 25 | 16x
 Papooz – You and I | last aired Nov 25 | 30x
 Child Seat – Heart To Heart | last aired Nov 25 | 14x
+Sigur Rós – Hoppípolla | last aired Nov 25 | 92x
+ANORAQUE – Ivy | last aired Nov 25 | 18x
+Maria McKee – Life Is Sweet | last aired Nov 25 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
