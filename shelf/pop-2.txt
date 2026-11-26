@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 9:00pm PT.
 
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
@@ -39,7 +39,6 @@ Dorian Electra – Hella Good | last aired Nov 22 | 8x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 22 | 2x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Nov 22 | 6x
 Leon Larregui – Brillas | last aired Nov 22 | 11x
-Mac DeMarco – Chamber Of Reflection | last aired Nov 22 | 75x
 Taeko Onuki – 4:00 A.M. | last aired Nov 22 | 26x
 Kate Bush – Under The Ivy | last aired Nov 23 | 33x
 Human League – Don't You Want Me | last aired Nov 23 | 26x
@@ -100,5 +99,6 @@ The Beach Boys – God Only Knows (Stereo) | last aired Nov 25 | 44x
 Benson Boone – Beautiful Things | last aired Nov 25 | 17x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 25 | 28x
 New Order – True Faith | last aired Nov 25 | 23x
+Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 25 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
