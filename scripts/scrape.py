@@ -12,6 +12,7 @@ Dateien (im Ordner DATA_DIR, im Workflow: Zweig gh-pages, Ordner data/):
   genre_cache.json Apple-Daten pro Titel
   notes.csv        DEINE Notizen – wird vom Skript nie verändert
 """
+import hashlib
 import csv, json, os, re, sys, time, unicodedata, urllib.parse, urllib.request
 from collections import Counter
 from datetime import datetime, timezone
@@ -137,6 +138,15 @@ def andon_stats(html):
     return out
 
 
+# Namen, die nie in öffentlichen Daten stehen sollen (als SHA-256 der kleingeschriebenen Wörter, damit sie auch hier nicht im Klartext stehen).
+# Trifft ein Wort in Sendungsname/Beschreibung, wird es durch „a listener“ ersetzt.
+PRIVATE_NAME_HASHES = {"3401308598f424d9599ac3d308f3beecdc580490c7051e1bc0a46e96dc78be23"}
+
+
+def redact(text):
+    return re.sub(r"\w+", lambda m: "a listener" if hashlib.sha256(m.group(0).lower().encode()).hexdigest() in PRIVATE_NAME_HASHES else m.group(0), text or "")
+
+
 def andon_blocks(stream_id=STREAM_ID, html=None):
     """Laufende + kommende Sendungen einer Station (Standard: Thinking Frequencies) aus der Andon-Seite."""
     html = html or get(ANDON)
@@ -148,7 +158,7 @@ def andon_blocks(stream_id=STREAM_ID, html=None):
     q = r'"((?:[^"\\]|\\.)*)"'
     pat = re.compile(r'\{name:' + q + r',description:' + q + r',imageUrl:[^,]*,startedAt:"([^"]+)"')
     j = part.find("currentBlock:")
-    return [{"start_utc": iso(m.group(3)), "show": unesc(m.group(1)), "description": unesc(m.group(2))}
+    return [{"start_utc": iso(m.group(3)), "show": redact(unesc(m.group(1))), "description": redact(unesc(m.group(2)))}
             for m in pat.finditer(part[j:] if j >= 0 else part)]
 
 

@@ -3,8 +3,8 @@
 shelf.html            – Übersicht: 17 Hauptgenres mit Anzahl
 shelf/<genre>.html    – alle Titel des Genres, am längsten nicht gelaufen zuerst (Künstler, Titel, zuletzt gelaufen, Anzahl)
 
-Bewusst OHNE Arrlys Notizen, ohne Playlists und ohne Sendungsnamen (nur das Genre).
-Genre-Zuordnung wie im Regal (site/index.html, MAIN/RULES): zuerst Arrlys Genre, dann Stil, dann Apple, dann Playlists.
+Bewusst OHNE die Regal-Notizen, ohne Playlists und ohne Sendungsnamen (nur das Genre).
+Genre-Zuordnung wie im Regal (site/index.html, MAIN/RULES): zuerst das Regal-Genre, dann Stil, dann Apple, dann Playlists.
 Env: DATA_DIR (Daten des Plattenregals), OUT_DIR (Ausgabeordner = Webseite)
 
 Regal-Zähler (seit 09.11.): data/shelf_rank.json merkt sich bei jedem Lauf, an welcher Stelle jeder Titel
@@ -74,7 +74,7 @@ YEAR_ROUND = {"ryuichi sakamoto|merry christmas mr lawrence"}   # Titel mit Weih
 
 
 def main_of(t, n):
-    # Arrlys Liste „Christmas“ zählt; sonst nur der Titel (Album/Apple-Genre führen in die Irre: „Holiday“, Weihnachtsalben)
+    # Die Regal-Liste „Christmas“ zählt; sonst nur der Titel (Album/Apple-Genre führen in die Irre: „Holiday“, Weihnachtsalben)
     if norm_key(t["artist"], t["title"]) not in YEAR_ROUND and (
             "christmas" in (n.get("lists") or "").lower() or XMAS_RE.search(t["title"])):
         return XMAS

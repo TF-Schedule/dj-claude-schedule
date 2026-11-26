@@ -18,7 +18,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 # ---- Einstellungen -------------------------------------------------------
-SEND_BLOCKS = []                 # seit 2.11. abends PAUSIERT (Arrly: läuft gut, sie schreibt lieber selbst). Wieder an: [3]
+SEND_BLOCKS = []                 # seit 2.11. abends PAUSIERT (läuft gut, Mails kommen direkt). Wieder an: [3]
 # Unterschrift und Schluss stehen NICHT im öffentlichen Code, sondern im GitHub-Secret MAIL_CLOSING (seit 2.11.).
 # Ohne Secret (z. B. lokaler Test) gibt es einen neutralen Schluss ohne Namen.
 CLOSING = (os.environ.get("MAIL_CLOSING") or "").strip() or (
