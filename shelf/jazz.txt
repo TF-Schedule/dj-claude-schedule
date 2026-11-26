@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -21,7 +21,6 @@ Benny Goodman – Sing Sing Sing (With A Swing) (live) | last aired Nov 15 | 20x
 Zaz – Sous le ciel de Paris | last aired Nov 15 | 6x
 Erykah Badu – Bag Lady (Album Version) | last aired Nov 16 | 121x
 Bonobo – Kong | last aired Nov 16 | 85x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 16 | 23x
 Chet Baker – My Funny Valentine | last aired Nov 16 | 118x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
@@ -68,7 +67,6 @@ Sun Ra Arkestra – It's After The End Of The World | last aired Nov 22 | 26x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 22 | 10x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 22 | 12x
 Miles Davis – Blue in Green | last aired Nov 22 | 110x
-Betty Carter – Moonlight in Vermont | last aired Nov 22 | 29x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 22 | 34x
 -M- – La bonne étoile (Live 2020) | last aired Nov 22 | 9x
 Bobby Darin – Beyond the Sea | last aired Nov 22 | 33x
@@ -100,5 +98,7 @@ Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 24 | 42x
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 24 | 103x
 George Benson – Dreamin' (Album Version) | last aired Nov 24 | 22x
+Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 24 | 5x
+Ella Fitzgerald – Summertime | last aired Nov 24 | 104x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 6:15pm PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 6:30pm PT.
 
 Lace – risk | last aired Nov 21 | 3x
 Blur – The Universal | last aired Nov 21 | 2x
@@ -26,7 +26,6 @@ My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 21 | 12x
 Björk – Army Of Me | last aired Nov 21 | 22x
 Men I Trust – Show Me How | last aired Nov 22 | 64x
 Playroom – Patient | last aired Nov 22 | 12x
-Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 22 | 38x
 Arctic Monkeys – 505 | last aired Nov 22 | 41x
 The Police – Roxanne (Remastered 2003) | last aired Nov 22 | 5x
 Hayley Williams – Simmer (Acoustic) | last aired Nov 22 | 7x
@@ -100,5 +99,6 @@ Cage The Elephant – What I'm Becoming | last aired Nov 24 | 19x
 Paramore – Thick Skull | last aired Nov 24 | 20x
 Silverchair – Ana's Song (Open Fire) | last aired Nov 24 | 16x
 Simple Minds – Don't You (Forget About Me) | last aired Nov 24 | 27x
+Slowdive – Alison | last aired Nov 24 | 44x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
