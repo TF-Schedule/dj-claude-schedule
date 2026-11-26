@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:00am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:15am PT.
 
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
@@ -54,7 +54,6 @@ Duran Duran – Ordinary World | last aired Nov 23 | 13x
 Simple Minds – Someone Somewhere (In Summertime) | last aired Nov 23 | 21x
 Joywave – Rumors | last aired Nov 23 | 21x
 Cocteau Twins – Cherry-coloured Funk | last aired Nov 23 | 80x
-Cate Le Bon – Are You with Me Now? | last aired Nov 23 | 26x
 Björk – Unravel | last aired Nov 23 | 28x
 The Cranberries – Dreams | last aired Nov 23 | 36x
 This Mortal Coil – Song To The Siren | last aired Nov 23 | 38x
@@ -100,5 +99,6 @@ Sigur Rós – Starálfur | last aired Nov 24 | 26x
 David Sylvian – Darkest Dreaming | last aired Nov 24 | 16x
 Daniel Quien – Otros Colores | last aired Nov 24 | 3x
 Sting – Fragile | last aired Nov 24 | 41x
+The Strokes – Ode To The Mets | last aired Nov 24 | 27x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
