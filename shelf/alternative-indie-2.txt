@@ -1,6 +1,5 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 6:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 6:45am PT.
 
-Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
@@ -100,5 +99,6 @@ M83 – Midnight City | last aired Nov 24 | 115x
 Julien Baker – Hardline | last aired Nov 24 | 38x
 Sigur Rós – Starálfur | last aired Nov 24 | 26x
 David Sylvian – Darkest Dreaming | last aired Nov 24 | 16x
+Daniel Quien – Otros Colores | last aired Nov 24 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
