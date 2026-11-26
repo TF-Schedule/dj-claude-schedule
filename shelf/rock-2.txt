@@ -1,4 +1,4 @@
-Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:00am PT.
+Rock – 263 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:15am PT.
 
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
@@ -29,7 +29,6 @@ Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
 indigo la End – Haru No Iutoori | last aired Nov 21 | 22x
-Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 21 | 60x
 Billy Joel – The River of Dreams (Album Version) | last aired Nov 22 | 13x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 22 | 30x
 The Doobie Brothers – What a Fool Believes | last aired Nov 22 | 87x
@@ -100,5 +99,6 @@ The Smile – The Smoke | last aired Nov 24 | 10x
 Peter Gabriel – Sky Blue | last aired Nov 24 | 39x
 Journey – Lights (Album Version) | last aired Nov 24 | 21x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 24 | 14x
+U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 24 | 110x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

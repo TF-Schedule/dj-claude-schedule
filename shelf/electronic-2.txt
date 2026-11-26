@@ -1,11 +1,10 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:00am PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:15am PT.
 
 The 1975 – Somebody Else | last aired Nov 22 | 21x
 HYD – Freak | last aired Nov 22 | 14x
 HUGEL – Movin' To The Sun | last aired Nov 22 | 3x
 Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 22 | 4x
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
-Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 22 | 14x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 23 | 82x
 Tim Hecker – In the Fog II | last aired Nov 23 | 121x
@@ -17,7 +16,6 @@ Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 23 | 115x
 Bonobo – Kiara | last aired Nov 23 | 111x
 Boards of Canada – Roygbiv | last aired Nov 23 | 44x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 23 | 30x
-Floating Points – Last Bloom | last aired Nov 23 | 101x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 23 | 88x
 A Winged Victory For The Sullen – Steep Hills of Vicodin Tears | last aired Nov 23 | 121x
 Sigur Rós – Sé Lest | last aired Nov 23 | 66x
@@ -100,5 +98,7 @@ Moloko – Over & Over | last aired Nov 25 | 24x
 Moby – Natural Blues | last aired Nov 25 | 6x
 Fred again.. – leavemealone | last aired Nov 25 | 20x
 Fraunhofer Diffraction – Kvrt in Space | last aired Nov 25 | 14x
+Jungle – Busy Earnin' | last aired Nov 25 | 42x
+Justice – D.A.N.C.E. | last aired Nov 25 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
