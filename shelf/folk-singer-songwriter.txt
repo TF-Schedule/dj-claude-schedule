@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 3:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -55,7 +55,6 @@ Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 21 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Fabrizio De Andrè – Bocca di rosa | last aired Nov 21 | 19x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
-Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 21 | 253x
 Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Don McLean – Vincent | last aired Nov 22 | 21x
@@ -68,7 +67,6 @@ Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
 Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
 Bobby Vinton – Blue Velvet | last aired Nov 22 | 16x
 Bon Iver – Holocene | last aired Nov 22 | 242x
-Joni Mitchell – A Case of You | last aired Nov 22 | 49x
 Bonnie Tyler – Holding Out for a Hero (From "Footloose" Soundtrack) | last aired Nov 22 | 32x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 22 | 20x
@@ -100,5 +98,7 @@ Gigi Perez – Sailor Song | last aired Nov 23 | 240x
 Elliott Smith – Angeles | last aired Nov 23 | 32x
 Dalida – Paroles paroles (Album Version) | last aired Nov 23 | 20x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 23 | 47x
+Eva Cassidy – At Last (Acoustic) | last aired Nov 23 | 11x
+Sarah McLachlan – Fallen (Album Mix) | last aired Nov 23 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
