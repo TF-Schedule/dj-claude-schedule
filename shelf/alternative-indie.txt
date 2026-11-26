@@ -1,4 +1,4 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 8:45am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 9:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -57,7 +57,6 @@ Suede – Animal Nitrate | last aired Nov 18 | 9x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 The Undertones – Teenage Kicks | last aired Nov 18 | 7x
-Cardiacs – Big Ship | last aired Nov 18 | 20x
 INXS – Don't Change | last aired Nov 18 | 24x
 Split Enz – I Got You | last aired Nov 18 | 9x
 Shellac – The End of Radio | last aired Nov 18 | 16x
@@ -100,5 +99,6 @@ Muse – Won’t Stand Down | last aired Nov 21 | 18x
 Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
+Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
