@@ -1,6 +1,5 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 3:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 3:15am PT.
 
-gesunokiwamiotome – watashi igai watashi ja naino | last aired Nov 20 | 10x
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
 Kraftwerk – Autobahn (2024 Single Edit) | last aired Nov 20 | 27x
@@ -100,5 +99,6 @@ Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last ai
 Toto – Africa | last aired Nov 24 | 95x
 Al Stewart – Year of the Cat | last aired Nov 24 | 35x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 24 | 38x
+Ashra – Sunrain | last aired Nov 24 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
