@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 3:45am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 4:00am PT.
 
 Electric Light Orchestra – Yours Truly, 2095 | last aired Nov 20 | 20x
 VAST – Thrown Away | last aired Nov 20 | 8x
@@ -60,7 +60,6 @@ Jeff Lynne – At Last | last aired Nov 22 | 6x
 MGMT – Electric Feel (Album Version) | last aired Nov 22 | 34x
 The Cramps – Goo Goo Muck | last aired Nov 22 | 2x
 Bon Jovi – Livin' On A Prayer | last aired Nov 22 | 152x
-Leonard Cohen – Bird on the Wire | last aired Nov 22 | 40x
 Patti Smith – People Have the Power | last aired Nov 22 | 3x
 Talk Talk – New Grass | last aired Nov 22 | 30x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 23 | 29x
@@ -100,5 +99,6 @@ Toto – Africa | last aired Nov 24 | 95x
 Al Stewart – Year of the Cat | last aired Nov 24 | 35x
 Christopher Cross – Ride Like the Wind (Album Version) | last aired Nov 24 | 38x
 Ashra – Sunrain | last aired Nov 24 | 36x
+The Doors – Riders on the Storm | last aired Nov 24 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
