@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 1:45pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:00pm PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -63,7 +63,6 @@ Shellac – The End of Radio | last aired Nov 18 | 16x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 19 | 12x
 Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
-Alabama 3 – Thank you | last aired Nov 19 | 10x
 Cyndi Lauper – Girls Just Want to Have Fun | last aired Nov 19 | 28x
 Michael Hutchence – Slide Away | last aired Nov 19 | 20x
 Talk Talk – I Believe in You (1997 Remaster) | last aired Nov 19 | 32x
@@ -100,5 +99,6 @@ LP – Lost on You | last aired Nov 21 | 18x
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
 Patti Smith Group – Dancing Barefoot | last aired Nov 21 | 2x
+Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
