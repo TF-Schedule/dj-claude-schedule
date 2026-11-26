@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:00am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 12:15am PT.
 
 Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
@@ -10,7 +10,6 @@ Huey Lewis And The News – The Power Of Love | last aired Nov 20 | 17x
 Gustavo Cerati – Puente | last aired Nov 20 | 35x
 The Velvet Underground – Sweet Jane (Full Length Version; 2015 Remaster) | last aired Nov 20 | 31x
 Kenny Loggins – Footloose (Album Version) | last aired Nov 20 | 35x
-Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 20 | 20x
 David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Pink Floyd – Wish You Were Here | last aired Nov 20 | 21x
 Player – Baby Come Back | last aired Nov 20 | 44x
@@ -100,5 +99,6 @@ Loverboy – Lovin' Every Minute of It | last aired Nov 24 | 10x
 Lordi – Hard Rock Hallelujah | last aired Nov 24 | 19x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 24 | 14x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 24 | 55x
+Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 24 | 182x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
