@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:00pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:15pm PT.
 
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 20 | 19x
 Rammstein – Deutschland | last aired Nov 20 | 21x
@@ -82,7 +82,6 @@ Neil Diamond – Sweet Caroline | last aired Nov 23 | 13x
 Talk Talk – After The Flood | last aired Nov 23 | 34x
 Enjambre – Vida En El Espejo | last aired Nov 23 | 25x
 Pink Floyd – Have a Cigar | last aired Nov 23 | 21x
-The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 23 | 34x
 Natalie Imbruglia – Torn | last aired Nov 23 | 21x
 The Strokes – Last Nite | last aired Nov 23 | 84x
 Styx – Mr. Roboto | last aired Nov 23 | 23x
@@ -100,5 +99,6 @@ Crowded House – Don't Dream It's Over | last aired Nov 23 | 15x
 Supertramp – Even In The Quietest Moments | last aired Nov 23 | 26x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 24 | 12x
 Erik Grönwall – House of the Rising Sun | last aired Nov 24 | 8x
+Caifanes – Afuera | last aired Nov 24 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
