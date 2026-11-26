@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 5:15pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 5:30pm PT.
 
 Def Leppard – Photograph | last aired Nov 20 | 18x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 20 | 19x
@@ -92,7 +92,6 @@ Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 23 |
 Steve Miller Band – The Joker | last aired Nov 23 | 13x
 Little River Band – Cool Change | last aired Nov 23 | 19x
 Toto – Georgy Porgy (album version) | last aired Nov 23 | 54x
-Juli – Perfekte Welle | last aired Nov 23 | 14x
 Fleetwood Mac – Sara | last aired Nov 23 | 31x
 Café Tacvba – Eres (Album Version) | last aired Nov 23 | 41x
 Måneskin – Torna a casa | last aired Nov 23 | 24x
@@ -100,5 +99,6 @@ Roy Orbison – Oh, Pretty Woman | last aired Nov 23 | 29x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 23 | 28x
 Benny Sings – Sailing | last aired Nov 23 | 28x
 Mark Hollis – The Colour Of Spring | last aired Nov 23 | 32x
+Crowded House – Don't Dream It's Over | last aired Nov 23 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
