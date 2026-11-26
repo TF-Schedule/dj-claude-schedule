@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 6:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -72,7 +72,6 @@ DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 22 | 34x
 Bobby Darin – Beyond the Sea | last aired Nov 22 | 33x
 Bobby Hutcherson – Stardust | last aired Nov 22 | 18x
 Bobby McFerrin – Common Threads | last aired Nov 22 | 22x
-Ben Allison – D.A.V.E. | last aired Nov 22 | 25x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 23 | 182x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 23 | 75x
 John Coltrane – Lush Life | last aired Nov 23 | 39x
@@ -100,5 +99,6 @@ Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 24 | 103x
 George Benson – Dreamin' (Album Version) | last aired Nov 24 | 22x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 24 | 5x
 Ella Fitzgerald – Summertime | last aired Nov 24 | 104x
+Elvis Costello – Almost Blue | last aired Nov 24 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
