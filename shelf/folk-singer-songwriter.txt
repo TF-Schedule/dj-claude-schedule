@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 7:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 8:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -91,7 +91,6 @@ Joni Mitchell – River | last aired Nov 23 | 29x
 Okkervil River – Lost Coastlines | last aired Nov 23 | 21x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 23 | 128x
 Carole King – It's Too Late | last aired Nov 23 | 92x
-Cat Power – The Greatest | last aired Nov 23 | 10x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 23 | 14x
 Simon & Garfunkel – The Boxer | last aired Nov 23 | 104x
 Nick Cave & The Bad Seeds – Henry Lee (Remastered 2011) | last aired Nov 23 | 20x
@@ -100,5 +99,6 @@ Patti Smith – Wing | last aired Nov 23 | 3x
 Iron & Wine – Such Great Heights | last aired Nov 23 | 16x
 Jack Johnson – Better Together | last aired Nov 23 | 153x
 Damien Rice – The Blower's Daughter | last aired Nov 23 | 95x
+Gigi Perez – Sailor Song | last aired Nov 23 | 240x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

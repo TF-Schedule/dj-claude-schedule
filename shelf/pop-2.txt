@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 7:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:00pm PT.
 
 Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
@@ -53,7 +53,6 @@ Mike Marshall – Big Country (Instrumental) | last aired Nov 23 | 14x
 Perpetuum Jazzile – Africa | last aired Nov 23 | 30x
 Mazzy Star – Fade Into You | last aired Nov 23 | 103x
 Air – La femme d'argent | last aired Nov 23 | 76x
-The Carpenters – (They Long To Be) Close To You | last aired Nov 23 | 27x
 Zoé – Vía Láctea | last aired Nov 23 | 30x
 Clannad – Theme From Harry's Game | last aired Nov 23 | 41x
 Boy Throb – Finger | last aired Nov 24 | 7x
@@ -100,5 +99,6 @@ Moes Haven – Shut Up Your Monkey | last aired Nov 25 | 9x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 25 | 10x
 Depeche Mode – Precious | last aired Nov 25 | 11x
 The Beach Boys – God Only Knows (Stereo) | last aired Nov 25 | 43x
+Benson Boone – Beautiful Things | last aired Nov 25 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
