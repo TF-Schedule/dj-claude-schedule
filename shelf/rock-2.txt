@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:30pm PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:45pm PT.
 
 Rammstein – Deutschland | last aired Nov 20 | 21x
 Richard O Brien – The Time Warp | last aired Nov 20 | 5x
@@ -92,7 +92,6 @@ Café Tacvba – Eres (Album Version) | last aired Nov 23 | 41x
 Måneskin – Torna a casa | last aired Nov 23 | 24x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 23 | 29x
 Paul McCartney – Maybe I’m Amazed (2011 Remaster) | last aired Nov 23 | 28x
-Mark Hollis – The Colour Of Spring | last aired Nov 23 | 32x
 Crowded House – Don't Dream It's Over | last aired Nov 23 | 15x
 Supertramp – Even In The Quietest Moments | last aired Nov 23 | 26x
 Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 24 | 12x
@@ -100,5 +99,6 @@ Erik Grönwall – House of the Rising Sun | last aired Nov 24 | 8x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 24 | 27x
 Loverboy – Lovin' Every Minute of It | last aired Nov 24 | 10x
 Lordi – Hard Rock Hallelujah | last aired Nov 24 | 19x
+Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 24 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

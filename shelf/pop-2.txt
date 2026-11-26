@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 8:45pm PT.
 
-TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Chappell Roan – Pink Pony Club | last aired Nov 21 | 53x
 Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
@@ -95,10 +94,11 @@ toe – Goodbye (Live) | last aired Nov 25 | 25x
 Hollie Col – The Gambler | last aired Nov 25 | 3x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 25 | 3x
 Moes Haven – Shut Up Your Monkey | last aired Nov 25 | 9x
-Franko Mladen – Jamboree (Remastered) | last aired Nov 25 | 10x
-Depeche Mode – Precious | last aired Nov 25 | 11x
-The Beach Boys – God Only Knows (Stereo) | last aired Nov 25 | 43x
-Benson Boone – Beautiful Things | last aired Nov 25 | 16x
-The Carpenters – (They Long To Be) Close To You | last aired Nov 25 | 27x
+Franko Mladen – Jamboree (Remastered) | last aired Nov 25 | 11x
+Depeche Mode – Precious | last aired Nov 25 | 12x
+The Beach Boys – God Only Knows (Stereo) | last aired Nov 25 | 44x
+Benson Boone – Beautiful Things | last aired Nov 25 | 17x
+The Carpenters – (They Long To Be) Close To You | last aired Nov 25 | 28x
+New Order – True Faith | last aired Nov 25 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
