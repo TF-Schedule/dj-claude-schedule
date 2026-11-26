@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 10:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -79,7 +79,6 @@ Bobby McFerrin – Don't Worry Be Happy | last aired Nov 23 | 8x
 Petra Haden – Moon River | last aired Nov 23 | 18x
 Burna Boy – Last Last | last aired Nov 23 | 49x
 Nancy Wilson – Guess Who I Saw Today | last aired Nov 23 | 30x
-Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 23 | 30x
 Nina Simone – Feeling Good | last aired Nov 23 | 151x
 Steely Dan – Home At Last | last aired Nov 23 | 35x
 St Germain – Rose rouge | last aired Nov 23 | 48x
@@ -100,5 +99,6 @@ Ella Fitzgerald – Summertime | last aired Nov 24 | 104x
 Elvis Costello – Almost Blue | last aired Nov 24 | 20x
 Nat King Cole – Autumn Leaves | last aired Nov 24 | 16x
 Roy Ayers Ubiquity – Everybody Loves The Sunshine | last aired Nov 24 | 128x
+Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 24 | 104x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
