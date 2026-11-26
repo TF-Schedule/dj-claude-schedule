@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 25, 4:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -68,7 +68,6 @@ Barbra Streisand – Woman in Love (Album Version) | last aired Nov 19 | 14x
 S Club – I Really Miss You | last aired Nov 19 | 9x
 Robin Packalen – Kesärenkaat | last aired Nov 19 | 10x
 ABBA – Waterloo (English Version) | last aired Nov 19 | 22x
-Franko Mladen – Jamboree (Remastered) | last aired Nov 19 | 10x
 Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
@@ -100,5 +99,6 @@ EMF – Unbelievable | last aired Nov 21 | 2x
 Backstreet Boys – I Want It That Way | last aired Nov 21 | 17x
 Tabu – Dobra Vila | last aired Nov 21 | 2x
 Lady Gaga – Just Dance | last aired Nov 21 | 21x
+Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
