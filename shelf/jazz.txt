@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -62,8 +62,6 @@ Steely Dan – Jack of Speed (Album Version) | last aired Nov 22 | 12x
 Miles Davis – Blue in Green | last aired Nov 22 | 110x
 DJ Cam Quartet – Everybody Loves the Sunshine | last aired Nov 22 | 34x
 -M- – La bonne étoile (Live 2020) | last aired Nov 22 | 9x
-Bobby Darin – Beyond the Sea | last aired Nov 22 | 33x
-Bobby Hutcherson – Stardust | last aired Nov 22 | 18x
 Bobby McFerrin – Common Threads | last aired Nov 22 | 22x
 Bill Evans – Peace Piece (Album Version) | last aired Nov 23 | 182x
 Frank Sinatra – Fly Me To The Moon (Remastered 2008) | last aired Nov 23 | 75x
@@ -100,5 +98,7 @@ Fiona Apple – Slow Like Honey | last aired Nov 24 | 29x
 Glenn Miller & His Orchestra – In the Mood | last aired Nov 24 | 2x
 Horace Silver Quintet – Peace | last aired Nov 24 | 32x
 John Coltrane – My Favorite Things | last aired Nov 24 | 57x
+Norah Jones – Summertime Blue | last aired Nov 24 | 24x
+Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 24 | 86x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
