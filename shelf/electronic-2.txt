@@ -1,7 +1,5 @@
-Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 5:00pm PT.
+Electronic – 222 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 25, 5:15pm PT.
 
-RÜFÜS DU SOL – Innerbloom (Live from Joshua Tree) | last aired Nov 22 | 29x
-Ulrich Schnauss – I Take Comfort in Your Ignorance (2019 Version) | last aired Nov 22 | 38x
 Erik Wøllo – Computerlove | last aired Nov 22 | 16x
 Daft Punk – Touch It / Technologic | last aired Nov 22 | 17x
 Dorian Electra – Bizarre Love Triangle | last aired Nov 22 | 7x
@@ -100,5 +98,7 @@ Zero 7 – In The Waiting Line | last aired Nov 25 | 75x
 Bonobo – Cirrus | last aired Nov 25 | 138x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 25 | 12x
 Anne Clark – Our Darkness | last aired Nov 25 | 13x
+Floating Points – Birth4000 | last aired Nov 25 | 73x
+Thievery Corporation – Omid | last aired Nov 25 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
