@@ -1,4 +1,4 @@
-Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:30am PT.
+Rock – 262 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:45am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -26,7 +26,6 @@ Buckcherry – Crazy Bitch | last aired Nov 10 | 2x
 Hardcore Superstar – We Don't Celebrate Sundays | last aired Nov 10 | 4x
 Queen – We Will Rock You | last aired Nov 11 | 8x
 Aerosmith – Dream On | last aired Nov 11 | 11x
-Chuck Berry – Johnny B. Goode | last aired Nov 11 | 28x
 Smash Mouth – Walkin' On The Sun | last aired Nov 12 | 14x
 Smash Mouth – All Star (Album Version) | last aired Nov 13 | 8x
 AC/DC – Thunderstruck | last aired Nov 13 | 11x
@@ -100,5 +99,6 @@ Gerry Rafferty – Baker Street | last aired Nov 20 | 36x
 The Rolling Stones – Street Fighting Man | last aired Nov 20 | 29x
 The Tragically Hip – New Orleans Is Sinking | last aired Nov 20 | 19x
 Rammstein – Deutschland | last aired Nov 20 | 21x
+Richard O Brien – The Time Warp | last aired Nov 20 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

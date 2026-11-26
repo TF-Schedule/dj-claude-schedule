@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 2:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 2:45am PT.
 
-Paula Abdul – Straight Up (Single Version) | last aired Nov 21 | 14x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
 ABBA – Don't Shut Me Down | last aired Nov 21 | 15x
@@ -100,5 +99,6 @@ Bryan Ferry – Reason or Rhyme | last aired Nov 25 | 8x
 Leon Larregui – Brillas | last aired Nov 26 | 12x
 The Chills – Pink Frost | last aired Nov 26 | 11x
 Chappell Roan – Pink Pony Club | last aired Nov 26 | 53x
+The Chordettes – Mr. Sandman | last aired Nov 26 | 12x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:30am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:45am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -73,7 +73,6 @@ Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 ABBA – Dancing Queen | last aired Nov 20 | 46x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
-Alexander Rybak – Fairytale | last aired Nov 20 | 18x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 20 | 45x
 TilaR – More Than A Friend | last aired Nov 20 | 5x
 The Beatles – Octopus's Garden (Remastered) | last aired Nov 20 | 15x
@@ -100,5 +99,6 @@ Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
+Paula Abdul – Straight Up (Single Version) | last aired Nov 21 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

@@ -1,7 +1,6 @@
-Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:30am PT.
+Alternative / Indie – 250 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 2:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
-Jerry Cantrell – Rooster (2022 Remaster) | last aired Oct 5 | 12x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
 The 1975 – Jesus Christ 2005 God Bless America | last aired Oct 20 | 13x
 Jerry Cantrell – Would? (2022 Remaster) | last aired Oct 21 | 10x
@@ -100,5 +99,6 @@ Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
 Blur – The Universal | last aired Nov 21 | 2x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54x
+Muse – Won’t Stand Down | last aired Nov 21 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
