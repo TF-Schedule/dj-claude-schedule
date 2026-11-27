@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -78,14 +78,12 @@ Sleeping At Last – Saturn | last aired Nov 24 | 21x
 The Opium Cartel – Beach House | last aired Nov 24 | 27x
 RY X – Let You Go | last aired Nov 24 | 21x
 Leonard Cohen – Dance Me to the End of Love | last aired Nov 24 | 43x
-Elliott Smith – Independence Day | last aired Nov 24 | 25x
 John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 24 | 7x
 Tori Amos – Rattlesnakes | last aired Nov 24 | 12x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 24 | 18x
 Hozier – Cherry Wine (Live) | last aired Nov 24 | 55x
 The Civil Wars – Poison & Wine | last aired Nov 24 | 49x
 Bon Iver – Skinny Love | last aired Nov 24 | 376x
-Fleet Foxes – Helplessness Blues | last aired Nov 24 | 38x
 Bill Callahan – Riding For The Feeling | last aired Nov 24 | 49x
 Josh Rouse – Street Lights | last aired Nov 24 | 16x
 James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 24 | 99x
@@ -100,5 +98,7 @@ Noah Kahan – Stick Season | last aired Nov 24 | 28x
 Rayland Baxter – Objects In The Mirror | last aired Nov 25 | 21x
 Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 25 | 4x
 Sarah McLachlan – Building a Mystery | last aired Nov 25 | 21x
+Gregory Alan Isakov – Big Black Car | last aired Nov 25 | 13x
+Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
