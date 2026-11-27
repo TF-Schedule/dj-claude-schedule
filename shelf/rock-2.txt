@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:00am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:15am PT.
 
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
@@ -28,7 +28,6 @@ The Doobie Brothers – What a Fool Believes | last aired Nov 22 | 87x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 22 | 9x
 BETWEEN FRIENDS – affection | last aired Nov 22 | 13x
 Daikaiju – Magic Wanda | last aired Nov 22 | 14x
-Zucchero – Senza Una Donna (Remastered 2007) | last aired Nov 22 | 8x
 The Rolling Stones – Sweet Sounds Of Heaven | last aired Nov 22 | 15x
 The Beatles – Lucy In The Sky With Diamonds (Remastered 2009) | last aired Nov 22 | 35x
 Iggy Pop – Mass Production | last aired Nov 22 | 23x
@@ -100,5 +99,6 @@ Andrew W.K. – Party Hard (Album Version) | last aired Nov 25 | 15x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 25 | 202x
 Grateful Dead – Eyes of the World | last aired Nov 25 | 34x
 Golden Earring – Radar Love | last aired Nov 25 | 6x
+The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
