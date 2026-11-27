@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -84,9 +84,7 @@ The Weepies – Gotta Have You | last aired Nov 24 | 41x
 Tori Amos – Winter | last aired Nov 24 | 18x
 Phoebe Bridgers – Smoke Signals | last aired Nov 24 | 62x
 Phoebe Bridgers – Moon Song | last aired Nov 24 | 84x
-Noah Kahan – Stick Season | last aired Nov 24 | 28x
 Rayland Baxter – Objects In The Mirror | last aired Nov 25 | 21x
-Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 25 | 4x
 Sarah McLachlan – Building a Mystery | last aired Nov 25 | 21x
 Gregory Alan Isakov – Big Black Car | last aired Nov 25 | 13x
 Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
@@ -100,5 +98,7 @@ Sophie Hunger – Le vent nous portera | last aired Nov 25 | 31x
 Hozier – Wasteland, Baby! | last aired Nov 25 | 16x
 Kings Of Convenience – Rocky Trail | last aired Nov 25 | 34x
 King Crimson – Matte Kudasai | last aired Nov 25 | 26x
+Los Rodriguez – Milonga del marinero y el capitán | last aired Nov 25 | 34x
+Pink Floyd – Fearless | last aired Nov 25 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

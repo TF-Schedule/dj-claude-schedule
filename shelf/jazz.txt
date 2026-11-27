@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -86,7 +86,6 @@ Floating Points – LesAlpx | last aired Nov 24 | 50x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 24 | 18x
 Yussef Kamaal – Strings of Light | last aired Nov 25 | 111x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 25 | 47x
-Natalie Cole – At Last | last aired Nov 25 | 15x
 Charles Lloyd – You Are So Beautiful | last aired Nov 25 | 12x
 Chet Baker – Almost Blue | last aired Nov 25 | 61x
 Al Di Meola – Red Moon | last aired Nov 25 | 22x
@@ -100,5 +99,6 @@ Sade – Kiss of Life (Remastered Version) | last aired Nov 25 | 96x
 Nina Simone – Wild Is The Wind | last aired Nov 25 | 40x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 25 | 24x
 Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired Nov 25 | 24x
+Betty Carter – Moonlight in Vermont | last aired Nov 25 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
