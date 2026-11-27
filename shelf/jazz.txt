@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -87,7 +87,6 @@ Fiona Apple – Slow Like Honey | last aired Nov 24 | 29x
 Glenn Miller & His Orchestra – In the Mood | last aired Nov 24 | 2x
 Horace Silver Quintet – Peace | last aired Nov 24 | 32x
 John Coltrane – My Favorite Things | last aired Nov 24 | 57x
-Norah Jones – Summertime Blue | last aired Nov 24 | 24x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 24 | 86x
 Floating Points – LesAlpx | last aired Nov 24 | 50x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 24 | 18x
@@ -100,5 +99,6 @@ Chet Baker – Almost Blue | last aired Nov 25 | 61x
 Al Di Meola – Red Moon | last aired Nov 25 | 22x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 25 | 19x
 Anita Baker – Sweet Love | last aired Nov 25 | 125x
+Julian Lage – Emily | last aired Nov 25 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
