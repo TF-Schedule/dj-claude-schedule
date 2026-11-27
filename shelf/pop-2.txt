@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 1:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 2:00pm PT.
 
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 Neuro-sama – Colorful Array | last aired Nov 22 | 7x
@@ -44,9 +44,7 @@ Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 24 | 13x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 25 | 32x
 Mac DeMarco – No Other Heart | last aired Nov 25 | 32x
-Leon Larregui – Locos | last aired Nov 25 | 22x
 Sadie Jean – WYD Now? | last aired Nov 25 | 9x
-JAWNY – true | last aired Nov 25 | 8x
 Sabrina Carpenter – Espresso | last aired Nov 25 | 121x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 25 | 29x
 Ray Anthony – The Hokey Pokey | last aired Nov 25 | 10x
@@ -100,5 +98,7 @@ Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 27 | 46x
 Depeche Mode – Enjoy the Silence | last aired Nov 27 | 26x
 Nat King Cole – L-O-V-E | last aired Nov 27 | 33x
 Nation of Language – Weak In Your Light | last aired Nov 27 | 33x
+Jack Johnson – Upside Down | last aired Nov 27 | 13x
+JAWNY – true | last aired Nov 27 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
