@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:45am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:00am PT.
 
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
@@ -42,7 +42,6 @@ Queens Of The Stone Age – No One Knows | last aired Nov 22 | 33x
 Jeff Lynne – At Last | last aired Nov 22 | 6x
 MGMT – Electric Feel (Album Version) | last aired Nov 22 | 34x
 The Cramps – Goo Goo Muck | last aired Nov 22 | 2x
-Bon Jovi – Livin' On A Prayer | last aired Nov 22 | 152x
 Talk Talk – New Grass | last aired Nov 22 | 30x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 23 | 29x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 23 | 5x
@@ -61,7 +60,6 @@ Little River Band – Cool Change | last aired Nov 23 | 19x
 Café Tacvba – Eres (Album Version) | last aired Nov 23 | 41x
 Roy Orbison – Oh, Pretty Woman | last aired Nov 23 | 29x
 Crowded House – Don't Dream It's Over | last aired Nov 23 | 15x
-Bonnie Tyler – Total Eclipse of the Heart | last aired Nov 24 | 12x
 Erik Grönwall – House of the Rising Sun | last aired Nov 24 | 8x
 Los Enanitos Verdes – Lamento Boliviano | last aired Nov 24 | 27x
 Loverboy – Lovin' Every Minute of It | last aired Nov 24 | 10x
@@ -100,5 +98,7 @@ Grateful Dead – Eyes of the World | last aired Nov 25 | 34x
 Golden Earring – Radar Love | last aired Nov 25 | 6x
 The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
 T. Rex – Children Of The Revolution | last aired Nov 25 | 19x
+Toto – Rosanna (Album Version) | last aired Nov 25 | 82x
+Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 25 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
