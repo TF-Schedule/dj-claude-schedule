@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 2:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 2:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -7,7 +7,6 @@ Guns N' Roses – Sweet Child O' Mine | last aired Oct 23 | 28x
 Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
-The Beatles – Golden Slumbers (Remastered) | last aired Nov 4 | 8x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
 Billie Eilish – when the party's over | last aired Nov 14 | 18x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
@@ -100,5 +99,6 @@ Gregory Alan Isakov – Big Black Car | last aired Nov 25 | 13x
 Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
 Matt Nathanson – Come On Get Higher | last aired Nov 25 | 8x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 25 | 36x
+William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 25 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
