@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:44pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -78,7 +78,6 @@ Bill Callahan – Riding For The Feeling | last aired Nov 24 | 49x
 Mitski – My Love Mine All Mine | last aired Nov 24 | 22x
 Laith Al-Deen – Dein Lied | last aired Nov 24 | 23x
 The Weepies – Gotta Have You | last aired Nov 24 | 41x
-Tori Amos – Winter | last aired Nov 24 | 18x
 Phoebe Bridgers – Smoke Signals | last aired Nov 24 | 62x
 Phoebe Bridgers – Moon Song | last aired Nov 24 | 84x
 Rayland Baxter – Objects In The Mirror | last aired Nov 25 | 21x
@@ -100,5 +99,6 @@ Elvis Presley – Can't Help Falling in Love | last aired Nov 25 | 17x
 The Beatles – Yesterday (Remastered) | last aired Nov 25 | 54x
 Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 25 | 45x
 Ben&Ben – Leaves | last aired Nov 25 | 55x
+Ben&Ben – Maybe The Night | last aired Nov 25 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
