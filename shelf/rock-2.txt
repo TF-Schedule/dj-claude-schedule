@@ -1,6 +1,5 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:45am PT.
 
-David Bowie – Rebel Rebel | last aired Nov 21 | 27x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
@@ -100,5 +99,6 @@ Kiss – Rock And Roll All Nite | last aired Nov 25 | 10x
 Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 25 | 28x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 25 | 11x
 Monster Magnet – Nod Scene | last aired Nov 25 | 4x
+Freddie Mercury – Love Kills | last aired Nov 25 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
