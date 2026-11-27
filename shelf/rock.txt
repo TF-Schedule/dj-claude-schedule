@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:15am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:30am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -56,7 +56,6 @@ David Bowie – Slow Burn | last aired Nov 17 | 8x
 David Bowie – Space Oddity | last aired Nov 17 | 119x
 Henry Cow – Beautiful as the Moon; Terrible as an Army with Banners | last aired Nov 17 | 17x
 Joan Jett & The Blackhearts – I Love Rock 'N Roll | last aired Nov 18 | 19x
-Michael McDonald – I Keep Forgettin' (Every Time You're Near) | last aired Nov 18 | 69x
 Robert Fripp – Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired Nov 18 | 9x
 Bachman-Turner Overdrive – Takin' Care Of Business | last aired Nov 18 | 22x
 Tom Konkle – Children of No Horizon | last aired Nov 18 | 6x
@@ -100,5 +99,6 @@ Summon The Wolf – Ghost Story | last aired Nov 21 | 17x
 Underscores – Do It | last aired Nov 21 | 9x
 Lou Reed – Goodnight Ladies | last aired Nov 21 | 18x
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
+The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
