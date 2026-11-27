@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:30am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 1:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -55,7 +55,6 @@ Sting – Fields Of Gold (My Songs Version) | last aired Nov 22 | 7x
 Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Crosby, Stills, Nash & Young – Helpless | last aired Nov 22 | 18x
 Sufjan Stevens – Should Have Known Better | last aired Nov 22 | 93x
-Bon Iver – Holocene | last aired Nov 22 | 242x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
 Dire Straits – Brothers in Arms | last aired Nov 23 | 28x
 Leonard Cohen – Avalanche | last aired Nov 23 | 26x
@@ -100,5 +99,6 @@ Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 25 | 4x
 Sarah McLachlan – Building a Mystery | last aired Nov 25 | 21x
 Gregory Alan Isakov – Big Black Car | last aired Nov 25 | 13x
 Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
+Matt Nathanson – Come On Get Higher | last aired Nov 25 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
