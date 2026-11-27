@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:00am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:15am PT.
 
 The Smashing Pumpkins – 1979 | last aired Nov 21 | 31x
 Geowulf – Saltwater | last aired Nov 21 | 19x
@@ -70,7 +70,6 @@ No Vacation – Waltzing Back | last aired Nov 24 | 27x
 Cigarettes After Sex – Apocalypse | last aired Nov 24 | 109x
 The National – About Today (2021 Remaster) | last aired Nov 25 | 195x
 Patrick Watson – Sit Down Beside Me | last aired Nov 25 | 16x
-Papooz – You and I | last aired Nov 25 | 30x
 Sigur Rós – Hoppípolla | last aired Nov 25 | 92x
 ANORAQUE – Ivy | last aired Nov 25 | 18x
 Maria McKee – Life Is Sweet | last aired Nov 25 | 20x
@@ -100,5 +99,6 @@ Caroline Polachek – Bunny Is A Rider | last aired Nov 25 | 42x
 Sophie Hunger – Shape | last aired Nov 25 | 21x
 New Found Glory – My Friends Over You | last aired Nov 25 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 25 | 18x
+Maria McKee – Absolutely Barking Stars | last aired Nov 25 | 20x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

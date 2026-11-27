@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:00am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:15am PT.
 
 Cuco – One and Only | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
@@ -56,7 +56,6 @@ Mac DeMarco – No Other Heart | last aired Nov 25 | 32x
 Leon Larregui – Locos | last aired Nov 25 | 22x
 Sadie Jean – WYD Now? | last aired Nov 25 | 9x
 JAWNY – true | last aired Nov 25 | 8x
-Wir Sind Helden – Denkmal | last aired Nov 25 | 25x
 Sabrina Carpenter – Espresso | last aired Nov 25 | 121x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 25 | 29x
 Ray Anthony – The Hokey Pokey | last aired Nov 25 | 10x
@@ -100,5 +99,6 @@ Antonio Campo – I Need You More and More (Remastered) | last aired Nov 26 | 18
 Falco – Vienna Calling | last aired Nov 27 | 28x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 27 | 13x
 Kat Edmonson – All The Way | last aired Nov 27 | 37x
+Katy Perry – Roar | last aired Nov 27 | 113x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
