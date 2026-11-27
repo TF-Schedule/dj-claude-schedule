@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -92,7 +92,6 @@ Alice Coltrane – Journey In Satchidananda | last aired Nov 25 | 19x
 Anita Baker – Sweet Love | last aired Nov 25 | 125x
 Julian Lage – Emily | last aired Nov 25 | 13x
 Grover Washington Jr. – Mister Magic | last aired Nov 25 | 52x
-Mary Halvorson – About Ghosts | last aired Nov 25 | 22x
 Sade – Kiss of Life (Remastered Version) | last aired Nov 25 | 96x
 Nina Simone – Wild Is The Wind | last aired Nov 25 | 40x
 Horace Silver – Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired Nov 25 | 24x
@@ -100,5 +99,6 @@ Ella Fitzgerald – Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her 
 Betty Carter – Moonlight in Vermont | last aired Nov 25 | 30x
 Ben Allison – D.A.V.E. | last aired Nov 25 | 26x
 Bernard Purdie – Cool Down | last aired Nov 25 | 26x
+Bert Kaempfert – A Swingin' Safari | last aired Nov 25 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
