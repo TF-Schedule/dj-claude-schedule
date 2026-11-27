@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 11:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 11:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -62,7 +62,6 @@ Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 23 | 128x
-Simon & Garfunkel – The Boxer | last aired Nov 23 | 104x
 Patti Smith – Wing | last aired Nov 23 | 3x
 Iron & Wine – Such Great Heights | last aired Nov 23 | 16x
 Gigi Perez – Sailor Song | last aired Nov 23 | 240x
@@ -100,5 +99,6 @@ Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 25 | 14x
 Sophie Hunger – Le vent nous portera | last aired Nov 25 | 31x
 Hozier – Wasteland, Baby! | last aired Nov 25 | 16x
 Kings Of Convenience – Rocky Trail | last aired Nov 25 | 34x
+King Crimson – Matte Kudasai | last aired Nov 25 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

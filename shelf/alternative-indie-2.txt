@@ -1,6 +1,5 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:30am PT.
 
-My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 21 | 12x
 Björk – Army Of Me | last aired Nov 21 | 22x
 Playroom – Patient | last aired Nov 22 | 12x
 Arctic Monkeys – 505 | last aired Nov 22 | 41x
@@ -62,7 +61,6 @@ Montaigne – I Am Not an End | last aired Nov 24 | 9x
 No Vacation – Waltzing Back | last aired Nov 24 | 27x
 Cigarettes After Sex – Apocalypse | last aired Nov 24 | 109x
 The National – About Today (2021 Remaster) | last aired Nov 25 | 195x
-Sigur Rós – Hoppípolla | last aired Nov 25 | 92x
 ANORAQUE – Ivy | last aired Nov 25 | 18x
 Maria McKee – Life Is Sweet | last aired Nov 25 | 20x
 The Marías – Cariño | last aired Nov 25 | 18x
@@ -100,5 +98,7 @@ Lana Del Rey – Young And Beautiful | last aired Nov 26 | 43x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 26 | 251x
 Beach House – Bluebird | last aired Nov 26 | 58x
 Saint Etienne – Only Love Can Break Your Heart | last aired Nov 26 | 34x
+Coldplay – Yellow | last aired Nov 26 | 23x
+AWOLNATION – Burn It Down | last aired Nov 26 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
