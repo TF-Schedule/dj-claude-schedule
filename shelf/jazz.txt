@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 6:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 6:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -23,7 +23,6 @@ Bonobo – Kong | last aired Nov 16 | 85x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 Miles Davis – So What | last aired Nov 16 | 28x
-Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 17 | 37x
 Melody Gardot – Moon River | last aired Nov 17 | 13x
 Bonobo – Terrapin | last aired Nov 17 | 142x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
@@ -100,5 +99,6 @@ Grethe & Jørgen Ingmann – Dansevise | last aired Nov 24 | 18x
 Yussef Kamaal – Strings of Light | last aired Nov 25 | 111x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 25 | 47x
 Natalie Cole – At Last | last aired Nov 25 | 15x
+Paolo Conte – Via Con Me | last aired Nov 25 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
