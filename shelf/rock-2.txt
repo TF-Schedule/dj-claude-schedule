@@ -1,6 +1,5 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:30am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:45am PT.
 
-The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
 David Bowie – Rebel Rebel | last aired Nov 21 | 27x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
@@ -100,5 +99,6 @@ The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
 T. Rex – Children Of The Revolution | last aired Nov 25 | 19x
 Toto – Rosanna (Album Version) | last aired Nov 25 | 82x
 Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 25 | 17x
+Tom Konkle – Life Without The Living | last aired Nov 25 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
