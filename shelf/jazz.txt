@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -32,7 +32,6 @@ Diana Krall – A Case Of You (Live) | last aired Nov 19 | 2x
 Lianne La Havas – Unstoppable | last aired Nov 19 | 90x
 Mulatu Astatqe – Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired Nov 19 | 83x
 Sade – Cherish the Day (Remastered Version) | last aired Nov 19 | 96x
-Sade – Is It a Crime (Remastered Version) | last aired Nov 20 | 51x
 Charles Lloyd & The Marvels – You Are So Beautiful | last aired Nov 20 | 12x
 Glenn Miller & His Orchestra – At Last | last aired Nov 20 | 9x
 Hiatus Kaiyote – By Fire | last aired Nov 20 | 133x
@@ -100,5 +99,6 @@ Betty Carter – Moonlight in Vermont | last aired Nov 25 | 30x
 Ben Allison – D.A.V.E. | last aired Nov 25 | 26x
 Bernard Purdie – Cool Down | last aired Nov 25 | 26x
 Bert Kaempfert – A Swingin' Safari | last aired Nov 25 | 14x
+Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 25 | 31x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
