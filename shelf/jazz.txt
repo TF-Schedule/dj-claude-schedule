@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 4:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 5:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -77,7 +77,6 @@ Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov
 The Dave Brubeck Quartet – Take Five | last aired Nov 23 | 58x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
 Nat King Cole – Nature Boy | last aired Nov 23 | 56x
-Hailu Mergia – Tezeta | last aired Nov 23 | 63x
 Zaz – Champs-Elysées | last aired Nov 24 | 4x
 Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired Nov 24 | 2x
 Tony Bennett & Faith Hill – The Way You Look Tonight | last aired Nov 24 | 42x
@@ -100,5 +99,6 @@ Norah Jones – Summertime Blue | last aired Nov 24 | 24x
 Jamiroquai – Cosmic Girl (Remastered 2013) | last aired Nov 24 | 86x
 Floating Points – LesAlpx | last aired Nov 24 | 50x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 24 | 18x
+Yussef Kamaal – Strings of Light | last aired Nov 25 | 111x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
