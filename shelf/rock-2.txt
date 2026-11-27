@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:15am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 6:30am PT.
 
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
@@ -91,7 +91,6 @@ Amy Macdonald – This Is The Life | last aired Nov 24 | 26x
 Lindsey Buckingham – Trouble | last aired Nov 24 | 23x
 Little River Band – Reminiscing (2002 Digital Remaster) | last aired Nov 24 | 30x
 Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 25 | 36x
-Pages – If I Saw You Again (Album Version) | last aired Nov 25 | 25x
 Almendra – Plegaria para un Niño Dormido | last aired Nov 25 | 32x
 Måneskin – ZITTI E BUONI | last aired Nov 25 | 25x
 Thin Lizzy – Emerald | last aired Nov 25 | 29x
@@ -100,5 +99,6 @@ Andrés Calamaro – Flaca | last aired Nov 25 | 37x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 25 | 15x
 Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 25 | 202x
 Grateful Dead – Eyes of the World | last aired Nov 25 | 34x
+Golden Earring – Radar Love | last aired Nov 25 | 6x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
