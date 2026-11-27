@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:21pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:30pm PT.
 
 Creed – With Arms Wide Open | last aired Nov 21 | 12x
 The Jetzons – You | last aired Nov 21 | 15x
@@ -54,7 +54,6 @@ Cyndi Lauper – All Through the Night | last aired Nov 24 | 66x
 Phil Collins – In the Air Tonight (2015 Remaster) | last aired Nov 24 | 12x
 Cigarettes After Sex – Nothing's Gonna Hurt You Baby | last aired Nov 24 | 31x
 Love and Rockets – Saudade | last aired Nov 24 | 26x
-Sun's Signature – Underwater | last aired Nov 24 | 24x
 Banners – Shine A Light | last aired Nov 24 | 25x
 Tom Robinson – The Saturday Disco | last aired Nov 24 | 3x
 Ednaswap – Torn | last aired Nov 24 | 20x
@@ -100,5 +99,6 @@ Wild Nothing – Chinatown | last aired Nov 25 | 36x
 The Magnetic Fields – All My Little Words | last aired Nov 25 | 11x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 25 | 21x
 Radiohead – Paranoid Android | last aired Nov 25 | 27x
+Ramones – Blitzkrieg Bop | last aired Nov 25 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
