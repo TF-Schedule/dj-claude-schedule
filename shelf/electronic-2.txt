@@ -1,6 +1,5 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:00am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:15am PT.
 
-Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 22 | 4x
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 23 | 82x
@@ -100,5 +99,6 @@ Daft Punk – Around the World | last aired Nov 26 | 45x
 Burial – Etched Headplate | last aired Nov 26 | 21x
 The Orb – Spanish Castles In Space | last aired Nov 26 | 20x
 Caterina Barbieri – Fantas | last aired Nov 26 | 56x
+Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 26 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
