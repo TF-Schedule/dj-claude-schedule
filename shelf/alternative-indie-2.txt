@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 5:00pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 5:15pm PT.
 
 Creed – With Arms Wide Open | last aired Nov 21 | 12x
 The Jetzons – You | last aired Nov 21 | 15x
@@ -49,7 +49,6 @@ The Cranberries – Dreams | last aired Nov 23 | 36x
 This Mortal Coil – Song To The Siren | last aired Nov 23 | 38x
 Lucy Dacus – Night Shift | last aired Nov 24 | 169x
 Lana Del Rey – Venice Bitch | last aired Nov 24 | 22x
-Hard Life – daydreams | last aired Nov 24 | 24x
 Missio – I See You | last aired Nov 24 | 9x
 Tubeway Army – Are 'Friends' Electric? (1998 Remaster) | last aired Nov 24 | 16x
 Cyndi Lauper – All Through the Night | last aired Nov 24 | 66x
@@ -100,5 +99,6 @@ Phoenix – Lisztomania | last aired Nov 25 | 47x
 Mazzy Star – Halah | last aired Nov 25 | 39x
 Big Data – Put Me to Work | last aired Nov 25 | 22x
 Bikini Kill – Rebel Girl | last aired Nov 25 | 16x
+Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 25 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
