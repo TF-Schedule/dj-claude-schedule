@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -34,7 +34,6 @@ Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
 Blur – Song 2 | last aired Nov 17 | 19x
-The Smiths – I Know It's Over | last aired Nov 17 | 9x
 Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
@@ -100,5 +99,6 @@ The Jetzons – You | last aired Nov 21 | 15x
 Geowulf – Saltwater | last aired Nov 21 | 19x
 Ultravox – Vienna (2008 Remaster) | last aired Nov 21 | 30x
 Phoebe Bridgers – Kyoto | last aired Nov 21 | 24x
+The Magnetic Fields – Papa Was a Rodeo | last aired Nov 21 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
