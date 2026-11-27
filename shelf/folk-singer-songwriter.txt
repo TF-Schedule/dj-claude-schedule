@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:45am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:00am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -83,7 +83,6 @@ Bon Iver – Skinny Love | last aired Nov 24 | 376x
 Bill Callahan – Riding For The Feeling | last aired Nov 24 | 49x
 Mitski – My Love Mine All Mine | last aired Nov 24 | 22x
 Laith Al-Deen – Dein Lied | last aired Nov 24 | 23x
-Vaya Con Dios – Nah Neh Nah | last aired Nov 24 | 16x
 The Weepies – Gotta Have You | last aired Nov 24 | 41x
 Tori Amos – Winter | last aired Nov 24 | 18x
 Phoebe Bridgers – Smoke Signals | last aired Nov 24 | 62x
@@ -100,5 +99,6 @@ William Fitzsimmons – Passion Play (Live in Paris) | last aired Nov 25 | 26x
 Fleet Foxes – Mykonos | last aired Nov 25 | 123x
 Grand Corps Malade – Mais je t'aime | last aired Nov 25 | 13x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 25 | 31x
+Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 25 | 14x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
