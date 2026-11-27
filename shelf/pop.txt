@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 Neuro-sama – LIFE | last aired Aug 30 | 3x
@@ -65,7 +65,6 @@ Takako Mamiya – Nagisade Dance | last aired Nov 19 | 18x
 Talk Talk – Such a Shame (1997 Remaster) | last aired Nov 19 | 29x
 Gary Numan – Cars | last aired Nov 19 | 15x
 Hundreds – Black Sea (Live at Elbphilharmonie) | last aired Nov 19 | 20x
-Nat King Cole – L-O-V-E | last aired Nov 20 | 33x
 ABBA – Dancing Queen | last aired Nov 20 | 46x
 Os Mutantes – A Minha Menina | last aired Nov 20 | 45x
 Bruno Mars – Gorilla | last aired Nov 20 | 13x
@@ -100,5 +99,6 @@ Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
+ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

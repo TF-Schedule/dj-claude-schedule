@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 12:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 12:45pm PT.
 
-ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 Neuro-sama – Colorful Array | last aired Nov 22 | 7x
 Djo – End of Beginning | last aired Nov 22 | 19x
@@ -37,7 +36,6 @@ Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
 Soft Cell – Tainted Love | last aired Nov 24 | 26x
-Nation of Language – Weak In Your Light | last aired Nov 24 | 33x
 Jvke – golden hour | last aired Nov 24 | 17x
 Her's – Blue Lips | last aired Nov 24 | 33x
 Dean Martin – Everybody Loves Somebody | last aired Nov 24 | 33x
@@ -100,5 +98,7 @@ Air – La femme d'argent | last aired Nov 27 | 77x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 27 | 40x
 New Order – True Faith | last aired Nov 27 | 24x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 27 | 46x
+Depeche Mode – Enjoy the Silence | last aired Nov 27 | 26x
+Nat King Cole – L-O-V-E | last aired Nov 27 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
