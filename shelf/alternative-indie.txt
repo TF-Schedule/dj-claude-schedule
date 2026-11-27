@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -49,7 +49,6 @@ The Clash – London Calling | last aired Nov 18 | 136x
 Peeping Tom – Your Neighborhood Spaceman | last aired Nov 18 | 7x
 Siddhartha – 00:00 | last aired Nov 18 | 29x
 Simple Minds – Alive And Kicking (Remastered 2002) | last aired Nov 18 | 24x
-Suede – Animal Nitrate | last aired Nov 18 | 9x
 Suburban Kids With Biblical Names – Rent A Wreck | last aired Nov 18 | 19x
 Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 The Undertones – Teenage Kicks | last aired Nov 18 | 7x
@@ -69,7 +68,6 @@ Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
 Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
-Oasis – Live Forever | last aired Nov 19 | 15x
 Penguin Cafe Orchestra – Perpetuum Mobile | last aired Nov 19 | 7x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
@@ -87,7 +85,6 @@ Bowling For Soup – 1985 | last aired Nov 21 | 14x
 Joker Out – Novi Val | last aired Nov 21 | 24x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
-Blur – The Universal | last aired Nov 21 | 2x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54x
 Muse – Won’t Stand Down | last aired Nov 21 | 18x
 Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
@@ -100,5 +97,8 @@ Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 
 twenty one pilots – Stressed Out | last aired Nov 21 | 26x
 Creed – With Arms Wide Open | last aired Nov 21 | 12x
 The Jetzons – You | last aired Nov 21 | 15x
+Geowulf – Saltwater | last aired Nov 21 | 19x
+Ultravox – Vienna (2008 Remaster) | last aired Nov 21 | 30x
+Phoebe Bridgers – Kyoto | last aired Nov 21 | 24x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
