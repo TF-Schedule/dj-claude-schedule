@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:30am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 12:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -37,7 +37,6 @@ City – Am Fenster | last aired Nov 20 | 6x
 INXS – Never Tear Us Apart | last aired Nov 20 | 23x
 Michael Hedges – Aerial Boundaries | last aired Nov 20 | 45x
 Billie Eilish – What Was I Made For? [From The Motion Picture "Barbie"] | last aired Nov 20 | 22x
-Father John Misty – Just Dumb Enough to Try | last aired Nov 20 | 12x
 Ewan Maccoll – The First Time Ever I Saw Your Face | last aired Nov 20 | 23x
 The Cure – The Last Day Of Summer | last aired Nov 20 | 6x
 Cyndi Lauper – Time After Time | last aired Nov 20 | 14x
@@ -100,5 +99,6 @@ Phoebe Bridgers – Smoke Signals | last aired Nov 24 | 62x
 Phoebe Bridgers – Moon Song | last aired Nov 24 | 84x
 Noah Kahan – Stick Season | last aired Nov 24 | 28x
 Rayland Baxter – Objects In The Mirror | last aired Nov 25 | 21x
+Eva Cassidy – Ain't No Sunshine (Album Version) | last aired Nov 25 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

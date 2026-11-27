@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 12:30am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 12:45am PT.
 
 The Jetzons – You | last aired Nov 21 | 15x
 The Smashing Pumpkins – 1979 | last aired Nov 21 | 31x
@@ -18,7 +18,6 @@ ABBA – I Wonder (Departure) | last aired Nov 22 | 17x
 Avril Lavigne – Sk8er Boi | last aired Nov 22 | 15x
 Visage – Fade To Grey | last aired Nov 22 | 25x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 22 | 24x
-Echo And The Bunnymen – The Killing Moon | last aired Nov 22 | 16x
 Sun's Signature – Golden Air | last aired Nov 22 | 24x
 Siouxsie & The Banshees – Spellbound | last aired Nov 22 | 6x
 TV Girl – Lovers Rock | last aired Nov 22 | 4x
@@ -100,5 +99,6 @@ Green Day – American Idiot (Album Version) | last aired Nov 25 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 25 | 12x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 25 | 8x
 The Killers – Mr. Brightside | last aired Nov 25 | 163x
+Love and Rockets – Haunted When the Minutes Drag | last aired Nov 25 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
