@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:30am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:45am PT.
 
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
@@ -37,7 +37,6 @@ Anne Clark – Hope Road (A-Z Route) | last aired Nov 24 | 7x
 Petit Biscuit – Sunset Lover | last aired Nov 24 | 162x
 The Orb – Blue Room (Live) | last aired Nov 24 | 19x
 Tim Hecker – Harmony in Blue I | last aired Nov 24 | 67x
-Jon Hopkins – Small Memory | last aired Nov 24 | 26x
 The Cinematic Orchestra – To Build A Home | last aired Nov 24 | 85x
 Home – We're Finally Landing | last aired Nov 24 | 17x
 Shida Shahabi – Futō | last aired Nov 24 | 32x
@@ -100,5 +99,6 @@ The Orb – Spanish Castles In Space | last aired Nov 26 | 20x
 Caterina Barbieri – Fantas | last aired Nov 26 | 56x
 Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 26 | 15x
 Floating Points – Last Bloom | last aired Nov 26 | 102x
+Massive Attack – Angel | last aired Nov 26 | 69x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
