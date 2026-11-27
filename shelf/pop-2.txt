@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:00am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:15am PT.
 
 Cuco – One and Only | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
@@ -53,7 +53,6 @@ Jack Johnson – Upside Down | last aired Nov 24 | 13x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 24 | 13x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 25 | 32x
 Mac DeMarco – No Other Heart | last aired Nov 25 | 32x
-Katy Perry – Roar | last aired Nov 25 | 113x
 Leon Larregui – Locos | last aired Nov 25 | 22x
 Sadie Jean – WYD Now? | last aired Nov 25 | 9x
 JAWNY – true | last aired Nov 25 | 8x
@@ -100,5 +99,6 @@ Billy Joel – Vienna (Album Version) | last aired Nov 26 | 41x
 Antonio Campo – I Need You More and More (Remastered) | last aired Nov 26 | 18x
 Falco – Vienna Calling | last aired Nov 27 | 28x
 Johnny Mathis – Wonderful! Wonderful! | last aired Nov 27 | 13x
+Kat Edmonson – All The Way | last aired Nov 27 | 37x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
