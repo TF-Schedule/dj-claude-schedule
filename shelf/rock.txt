@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 2:45am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:00am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -42,7 +42,6 @@ Pink Floyd – Money | last aired Nov 16 | 13x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
 Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
-Pink Floyd – Coming Back to Life | last aired Nov 16 | 13x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
@@ -100,5 +99,6 @@ David Bowie – Starman (2012 Remaster) | last aired Nov 20 | 36x
 Player – Baby Come Back | last aired Nov 20 | 44x
 Journey – Don't Stop Believin' (Album Version) | last aired Nov 20 | 27x
 The Good, The Bad & The Queen – History Song | last aired Nov 21 | 8x
+Summon The Wolf – Ghost Story | last aired Nov 21 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
