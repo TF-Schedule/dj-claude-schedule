@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 2:00pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 2:15pm PT.
 
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
@@ -44,7 +44,6 @@ Luca Di Sabatino – Switched-on Wendy | last aired Nov 25 | 12x
 Anne Clark – Our Darkness | last aired Nov 25 | 13x
 Floating Points – Birth4000 | last aired Nov 25 | 73x
 Thievery Corporation – Omid | last aired Nov 25 | 25x
-Lemon Jelly – Ramblin' Man | last aired Nov 25 | 47x
 Marconi Union – Weightless | last aired Nov 25 | 102x
 Bicep – Apricots | last aired Nov 25 | 71x
 ANNIE – Heartbeat | last aired Nov 25 | 19x
@@ -100,5 +99,6 @@ Sigur Rós – Untitled #3 (Samskeyti) | last aired Nov 26 | 116x
 Thorsten Quaeschning – Rain On Dry Concrete | last aired Nov 27 | 48x
 Hammock – Tape Recorder | last aired Nov 27 | 137x
 Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 27 | 46x
+Erik Wøllo – Computerlove | last aired Nov 27 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
