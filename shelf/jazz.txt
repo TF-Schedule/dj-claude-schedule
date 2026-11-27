@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:00am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:15am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -39,7 +39,6 @@ Glenn Miller & His Orchestra – At Last | last aired Nov 20 | 9x
 Hiatus Kaiyote – By Fire | last aired Nov 20 | 133x
 Steely Dan – Time Out Of Mind | last aired Nov 20 | 35x
 Getatchèw Mèkurya – Shellela | last aired Nov 21 | 38x
-Steely Dan – Peg | last aired Nov 21 | 111x
 Mulatu Astatke – Yègellé Tezeta | last aired Nov 21 | 59x
 Duke Ellington – In A Sentimental Mood | last aired Nov 21 | 118x
 GoGo Penguin – Hopopono | last aired Nov 21 | 87x
@@ -100,5 +99,6 @@ Anita Baker – Sweet Love | last aired Nov 25 | 125x
 Julian Lage – Emily | last aired Nov 25 | 13x
 Grover Washington Jr. – Mister Magic | last aired Nov 25 | 52x
 Masego – Tadow | last aired Nov 25 | 76x
+Mary Halvorson – About Ghosts | last aired Nov 25 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
