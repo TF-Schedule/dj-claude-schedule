@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 9:45am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:00am PT.
 
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
@@ -38,7 +38,6 @@ Ashra – Midnight On Mars | last aired Nov 24 | 18x
 Peggy Gou – Starry Night | last aired Nov 24 | 171x
 Jungle – Keep Moving | last aired Nov 24 | 58x
 James Blake – Retrograde | last aired Nov 24 | 75x
-Groove Armada – At the River | last aired Nov 24 | 38x
 Grimes – Oblivion | last aired Nov 24 | 13x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 24 | 123x
 Moloko – Being Is Bewildering | last aired Nov 24 | 10x
@@ -51,7 +50,6 @@ Lemon Jelly – Ramblin' Man | last aired Nov 25 | 47x
 Marconi Union – Weightless | last aired Nov 25 | 102x
 Bicep – Apricots | last aired Nov 25 | 71x
 ANNIE – Heartbeat | last aired Nov 25 | 19x
-Nightmares On Wax – Les Nuits | last aired Nov 25 | 69x
 Jamie xx – Gosh | last aired Nov 25 | 55x
 Jazzy – No Bad Vibes | last aired Nov 25 | 11x
 Groove Armada – Madder | last aired Nov 25 | 17x
@@ -100,5 +98,7 @@ Steve Roach – Living the Dream | last aired Nov 26 | 54x
 Suzanne Ciani – Oceanium | last aired Nov 26 | 82x
 Enya – Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired Nov 26 | 31x
 Mort Garson – Plantasia | last aired Nov 26 | 54x
+Moby – One of These Mornings | last aired Nov 26 | 9x
+Tycho – Awake | last aired Nov 26 | 113x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
