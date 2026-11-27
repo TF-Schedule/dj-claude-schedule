@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:45pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 9:00pm PT.
 
 HUGEL – Movin' To The Sun | last aired Nov 22 | 3x
 Mr. Bungle – The Air-Conditioned Nightmare (Album Version) | last aired Nov 22 | 4x
@@ -6,7 +6,6 @@ Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 23 | 82x
 Tim Hecker – In the Fog II | last aired Nov 23 | 121x
-Steve Roach – Living the Dream | last aired Nov 23 | 53x
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
 Stardust – Music Sounds Better With You | last aired Nov 23 | 14x
@@ -34,7 +33,6 @@ Massive Attack – Unfinished Sympathy (2012 Mix/Master) | last aired Nov 24 | 5
 Fennesz – Endless Summer | last aired Nov 24 | 88x
 Tim Hecker – In the Fog I | last aired Nov 24 | 106x
 Cognitron – Low Frequency Thunderstorm Shield | last aired Nov 24 | 12x
-Susumu Yokota – Saku | last aired Nov 24 | 75x
 Cibo Matto – Sugar Water (Album Version) | last aired Nov 24 | 32x
 Lamb – Bonfire | last aired Nov 24 | 37x
 Disclosure – Help Me Lose My Mind | last aired Nov 24 | 38x
@@ -100,5 +98,7 @@ Massive Attack – Teardrop | last aired Nov 25 | 102x
 Brian Eno – Capsule | last aired Nov 25 | 25x
 Bruce Kaphan – Clouds | last aired Nov 25 | 57x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 25 | 104x
+Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 25 | 189x
+Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 25 | 106x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
