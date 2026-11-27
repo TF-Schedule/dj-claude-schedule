@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:15am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:30am PT.
 
 Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
@@ -15,7 +15,6 @@ Slowdive – Erik's Song (Album Version) | last aired Nov 23 | 43x
 Thom Yorke – 5.17 | last aired Nov 23 | 23x
 Aphex Twin – Avril 14th | last aired Nov 24 | 92x
 Daft Punk – Something About Us | last aired Nov 24 | 63x
-Boards of Canada – Dayvan Cowboy | last aired Nov 24 | 60x
 Röyksopp – Eple | last aired Nov 24 | 41x
 M83 – Wait | last aired Nov 24 | 18x
 Four Tet – Two Thousand and Seventeen | last aired Nov 24 | 100x
@@ -50,7 +49,6 @@ Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 24 | 123x
 Moloko – Being Is Bewildering | last aired Nov 24 | 10x
 Tycho – A Walk | last aired Nov 24 | 111x
 Zero 7 – In The Waiting Line | last aired Nov 25 | 75x
-Bonobo – Cirrus | last aired Nov 25 | 138x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 25 | 12x
 Anne Clark – Our Darkness | last aired Nov 25 | 13x
 Floating Points – Birth4000 | last aired Nov 25 | 73x
@@ -100,5 +98,7 @@ Noizu – Summer 91 (Looking Back) (Acoustic) | last aired Nov 26 | 15x
 Floating Points – Last Bloom | last aired Nov 26 | 102x
 Massive Attack – Angel | last aired Nov 26 | 69x
 Martin Garrix – Carry You | last aired Nov 26 | 12x
+M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 26 | 25x
+Bonobo – Kiara | last aired Nov 26 | 112x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

@@ -1,4 +1,4 @@
-Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:15am PT.
+Rock – 264 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:30am PT.
 
 The White Stripes – Seven Nation Army | last aired Nov 21 | 38x
 The Beatles – Strawberry Fields Forever | last aired Nov 21 | 29x
@@ -46,7 +46,6 @@ Bon Jovi – Livin' On A Prayer | last aired Nov 22 | 152x
 Talk Talk – New Grass | last aired Nov 22 | 30x
 David Bowie – Let's Dance (2018 Remaster) | last aired Nov 23 | 29x
 John Lennon – Instant Karma! (We All Shine On) (Ultimate Mix) | last aired Nov 23 | 5x
-Boz Scaggs – Simone (2023 Remaster) | last aired Nov 23 | 29x
 Herbert Grönemeyer – Mensch | last aired Nov 23 | 6x
 U2 – New Year's Day (Remastered 2008) | last aired Nov 23 | 5x
 Survivor – Eye of the Tiger | last aired Nov 23 | 25x
@@ -100,5 +99,6 @@ Fleetwood Mac – Dreams (2004 Remaster) | last aired Nov 25 | 202x
 Grateful Dead – Eyes of the World | last aired Nov 25 | 34x
 Golden Earring – Radar Love | last aired Nov 25 | 6x
 The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
+T. Rex – Children Of The Revolution | last aired Nov 25 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
