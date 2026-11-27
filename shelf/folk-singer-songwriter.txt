@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 4:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 4:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -27,7 +27,6 @@ Peter Broderick – A Little Lost | last aired Nov 18 | 17x
 Pete Seeger – Solidarity Forever | last aired Nov 18 | 89x
 Leonard Cohen – Treaty | last aired Nov 18 | 12x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
-Leonard Cohen – So Long, Marianne | last aired Nov 19 | 34x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
 Scorpions – Still Loving You (2011 Version) | last aired Nov 19 | 20x
 Leonard Cohen – Hallelujah | last aired Nov 19 | 37x
@@ -67,7 +66,6 @@ Nick Drake – Pink Moon | last aired Nov 22 | 107x
 Edie Brickell & New Bohemians – Circle (Album Version) | last aired Nov 23 | 21x
 Dire Straits – Brothers in Arms | last aired Nov 23 | 28x
 Leonard Cohen – Avalanche | last aired Nov 23 | 26x
-José González – Heartbeats | last aired Nov 23 | 128x
 Josh Rouse – 1972 | last aired Nov 23 | 28x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 23 | 27x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
@@ -100,5 +98,7 @@ John Lennon – Give Peace A Chance (Remastered 2010) | last aired Nov 24 | 7x
 Tori Amos – Rattlesnakes | last aired Nov 24 | 12x
 Angus & Julia Stone – You're The One That I Want | last aired Nov 24 | 37x
 Sarah McLachlan – Sweet Surrender (Album Version) | last aired Nov 24 | 18x
+Hozier – Cherry Wine (Live) | last aired Nov 24 | 55x
+Judy Collins – Bread and Roses | last aired Nov 24 | 30x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
