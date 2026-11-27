@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 4:15pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 4:30pm PT.
 
-Gus Dapperton – Ditch | last aired Nov 22 | 24x
 Tears For Fears – Everybody Wants To Rule The World | last aired Nov 22 | 39x
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
@@ -100,5 +99,6 @@ New Order – Blue Monday (2016 Remaster) | last aired Nov 26 | 21x
 Paul Mauriat – Love Is Blue (Album Version) | last aired Nov 26 | 18x
 Paula Abdul – Straight Up (Single Version) | last aired Nov 26 | 15x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 26 | 15x
+Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 26 | 26x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
