@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 7:45pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 26, 8:00pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -67,7 +67,6 @@ Josh Rouse – 1972 | last aired Nov 23 | 28x
 John Prine – Your Flag Decal Won't Get You into Heaven Anymore | last aired Nov 23 | 27x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
 Tom Konkle – One Last Time | last aired Nov 23 | 7x
-Big Thief – Mary | last aired Nov 23 | 103x
 Led Zeppelin – Going to California (Remaster) | last aired Nov 23 | 27x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
@@ -100,5 +99,6 @@ Sufjan Stevens – Casimir Pulaski Day | last aired Nov 24 | 80x
 Grouper – Alien Observer | last aired Nov 24 | 136x
 Bill Callahan – Riding For The Feeling | last aired Nov 24 | 49x
 Josh Rouse – Street Lights | last aired Nov 24 | 16x
+James Taylor – Fire and Rain (2019 Remaster) | last aired Nov 24 | 99x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

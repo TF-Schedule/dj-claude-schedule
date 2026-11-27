@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 7:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 8:00pm PT.
 
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
@@ -41,7 +41,6 @@ Clannad – Theme From Harry's Game | last aired Nov 23 | 41x
 Boy Throb – Finger | last aired Nov 24 | 7x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 24 | 47x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 24 | 13x
-Billy Joel – Vienna (Album Version) | last aired Nov 24 | 40x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
@@ -100,5 +99,6 @@ The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivag
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 26 | 27x
 Chappell Roan – Good Luck, Babe! | last aired Nov 26 | 79x
 Harry Styles – As It Was | last aired Nov 26 | 70x
+Donald Fagen – The Nightfly | last aired Nov 26 | 16x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
