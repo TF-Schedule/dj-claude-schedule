@@ -1,6 +1,5 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 9:00am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 9:15am PT.
 
-Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 23 | 82x
 Tim Hecker – In the Fog II | last aired Nov 23 | 121x
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
@@ -46,7 +45,6 @@ Grimes – Oblivion | last aired Nov 24 | 13x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 2 | last aired Nov 24 | 123x
 Moloko – Being Is Bewildering | last aired Nov 24 | 10x
 Tycho – A Walk | last aired Nov 24 | 111x
-Zero 7 – In The Waiting Line | last aired Nov 25 | 75x
 Luca Di Sabatino – Switched-on Wendy | last aired Nov 25 | 12x
 Anne Clark – Our Darkness | last aired Nov 25 | 13x
 Floating Points – Birth4000 | last aired Nov 25 | 73x
@@ -65,7 +63,6 @@ Tricky – Hell Is Round The Corner | last aired Nov 25 | 46x
 Tonto's Expanding Head Band – Cybernaut | last aired Nov 25 | 35x
 Solarstone – Evensong | last aired Nov 25 | 16x
 Hooverphonic – 2 Wicky | last aired Nov 25 | 38x
-Morcheeba – Trigger Hippie | last aired Nov 25 | 64x
 Moloko – Over & Over | last aired Nov 25 | 24x
 Moby – Natural Blues | last aired Nov 25 | 6x
 Fred again.. – leavemealone | last aired Nov 25 | 20x
@@ -100,5 +97,8 @@ M/A/R/R/S – Pump Up The Volume (UK 12" Remix) | last aired Nov 26 | 25x
 Bonobo – Kiara | last aired Nov 26 | 112x
 CHVRCHES – Clearest Blue | last aired Nov 26 | 22x
 Hammock – Maybe They Will Sing for Us Tomorrow | last aired Nov 26 | 141x
+Haute & Freddy – Dance The Pain Away | last aired Nov 26 | 12x
+Susumu Yokota – Saku | last aired Nov 26 | 76x
+Steve Roach – Living the Dream | last aired Nov 26 | 54x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
