@@ -1,7 +1,6 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 2:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 2:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
-Neuro-sama – LIFE | last aired Aug 30 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
 P!nk – Who Knew (Main Version) | last aired Sep 12 | 1x
 P!nk – Just Give Me a Reason | last aired Sep 12 | 1x
@@ -100,5 +99,6 @@ Cuco – One and Only | last aired Nov 22 | 27x
 MIKA – Grace Kelly | last aired Nov 22 | 27x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
+The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
