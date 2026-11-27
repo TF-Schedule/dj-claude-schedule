@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 7:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 26, 7:45pm PT.
 
 Lana Del Rey – Diet Mountain Dew | last aired Nov 22 | 39x
 Cuco – One and Only | last aired Nov 22 | 27x
@@ -20,7 +20,6 @@ P!nk – Eventually | last aired Nov 22 | 4x
 Tamara Živković – Nova Zora (Eurovision 2026) | last aired Nov 22 | 10x
 Auringon Lapset – Etäpäivä | last aired Nov 22 | 17x
 L.T.D. – (Every Time I Turn Around) Back In Love Again (Album Version) | last aired Nov 22 | 20x
-Donald Fagen – The Nightfly | last aired Nov 22 | 16x
 P!nk – Family Portrait | last aired Nov 22 | 3x
 Bruno Mars – I Just Might | last aired Nov 22 | 262x
 Weird Al Yankovic – Everything You Know Is Wrong | last aired Nov 22 | 5x
@@ -100,5 +99,6 @@ Paula Abdul – Straight Up (Single Version) | last aired Nov 26 | 15x
 The Ray Conniff Singers – Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired Nov 26 | 15x
 Bee Gees – Night Fever (From "Saturday Night Fever" Soundtrack) | last aired Nov 26 | 27x
 Chappell Roan – Good Luck, Babe! | last aired Nov 26 | 79x
+Harry Styles – As It Was | last aired Nov 26 | 70x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
