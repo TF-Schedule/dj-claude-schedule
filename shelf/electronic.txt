@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:45pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:00pm PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -38,7 +38,6 @@ David Bowie – Subterraneans (2017 Remaster) | last aired Nov 16 | 39x
 Portishead – Glory Box (Album Version) | last aired Nov 16 | 86x
 Aphex Twin – Flim | last aired Nov 17 | 10x
 Aphex Twin – Windowlicker | last aired Nov 17 | 27x
-Darude – Sandstorm | last aired Nov 17 | 32x
 Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
@@ -100,5 +99,6 @@ Nine Inch Nails – Heresy (Nine Inch Noize Version) | last aired Nov 22 | 9x
 Tangerine Dream – Stratosfear (Digital Remastered) | last aired Nov 22 | 36x
 Jon Hopkins – Open Eye Signal (Remaster 2023) | last aired Nov 23 | 82x
 Tim Hecker – In the Fog II | last aired Nov 23 | 121x
+Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt

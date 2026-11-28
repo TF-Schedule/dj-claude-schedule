@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:45pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:00pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -37,7 +37,6 @@ Michael Jackson – Morphine (Album Version) | last aired Nov 19 | 7x
 Aretha Franklin – Wholy Holy | last aired Nov 19 | 27x
 Dennis Edwards – Don't Look Any Further (Single Version) | last aired Nov 19 | 53x
 Screamin' Jay Hawkins – I Put a Spell On You | last aired Nov 19 | 16x
-D'Angelo – Untitled (How Does It Feel) | last aired Nov 19 | 139x
 Breakestra – Back At The Boathouse | last aired Nov 19 | 36x
 Brainstory – Mnemophobia | last aired Nov 19 | 27x
 Prince – Kiss (LP Version) | last aired Nov 19 | 28x
@@ -100,5 +99,6 @@ Edwin Starr – War | last aired Nov 24 | 20x
 Marvin Gaye – Mercy Mercy Me (The Ecology) | last aired Nov 24 | 30x
 The Brothers Johnson – Strawberry Letter 23 (Album Version) | last aired Nov 24 | 58x
 Diana Ross – I'm Coming Out | last aired Nov 24 | 62x
+Erykah Badu – Window Seat | last aired Nov 24 | 85x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
