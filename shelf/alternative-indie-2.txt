@@ -1,6 +1,5 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:00am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:15am PT.
 
-Billie Eilish – Lo Vas A Olvidar | last aired Nov 23 | 13x
 The xx – Intro | last aired Nov 23 | 4x
 Björk – Venus As A Boy (Live) | last aired Nov 23 | 14x
 The Magnetic Fields – Absolutely Cuckoo | last aired Nov 23 | 5x
@@ -100,5 +99,6 @@ Joywave – Rumors | last aired Nov 27 | 22x
 Kate Bush – Coffee Homeground | last aired Nov 27 | 25x
 Wild Nothing – Chinatown | last aired Nov 27 | 37x
 Papooz – You and I | last aired Nov 27 | 31x
+Patrick Watson – Sit Down Beside Me | last aired Nov 27 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

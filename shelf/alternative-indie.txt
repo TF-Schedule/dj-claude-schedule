@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 11:00am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 11:15am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -77,7 +77,6 @@ Wolf Alice – Don't Delete The Kisses | last aired Nov 21 | 37x
 LP – Lost on You | last aired Nov 21 | 18x
 Bleachers – I Wanna Get Better | last aired Nov 21 | 179x
 Arctic Monkeys – Do I Wanna Know? | last aired Nov 21 | 188x
-Spandau Ballet – Gold (2003 Remaster) | last aired Nov 21 | 10x
 Gorillaz – Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired Nov 21 | 19x
 twenty one pilots – Stressed Out | last aired Nov 21 | 26x
 Creed – With Arms Wide Open | last aired Nov 21 | 12x
@@ -100,5 +99,6 @@ Siouxsie & The Banshees – Spellbound | last aired Nov 22 | 6x
 TV Girl – Lovers Rock | last aired Nov 22 | 4x
 ByeAlex – Kedvesem (Original) | last aired Nov 22 | 17x
 Virus – Imágenes Paganas | last aired Nov 22 | 16x
+Billie Eilish – Lo Vas A Olvidar | last aired Nov 23 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
