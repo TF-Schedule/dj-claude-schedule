@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -60,7 +60,6 @@ Nina Simone – Feeling Good | last aired Nov 23 | 151x
 Steely Dan – Home At Last | last aired Nov 23 | 35x
 Acker Bilk – Stranger On The Shore | last aired Nov 23 | 18x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 23 | 108x
-The Dave Brubeck Quartet – Take Five | last aired Nov 23 | 58x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
 Nat King Cole – Nature Boy | last aired Nov 23 | 56x
 Zaz – Champs-Elysées | last aired Nov 24 | 4x
@@ -100,5 +99,6 @@ Bernard Purdie – Cool Down | last aired Nov 25 | 26x
 Bert Kaempfert – A Swingin' Safari | last aired Nov 25 | 14x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 25 | 31x
 Chet Baker – My Funny Valentine | last aired Nov 26 | 119x
+Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 26 | 39x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
