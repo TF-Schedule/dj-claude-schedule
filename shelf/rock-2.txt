@@ -1,4 +1,4 @@
-Rock – 266 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:30am PT.
+Rock – 266 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:45am PT.
 
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
@@ -62,7 +62,6 @@ Luis Alberto Spinetta – Muchacha Ojos De Papel (Live) | last aired Nov 25 | 36
 Måneskin – ZITTI E BUONI | last aired Nov 25 | 25x
 Thin Lizzy – Emerald | last aired Nov 25 | 29x
 Big Foot Mama – Obseden z njo | last aired Nov 25 | 3x
-Andrés Calamaro – Flaca | last aired Nov 25 | 37x
 Andrew W.K. – Party Hard (Album Version) | last aired Nov 25 | 15x
 Golden Earring – Radar Love | last aired Nov 25 | 6x
 The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
@@ -100,5 +99,6 @@ Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 26 | 61x
 Marty Friedman – Senbonzakura | last aired Nov 26 | 18x
 Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 26 | 9x
 Pink Floyd – Wish You Were Here | last aired Nov 26 | 22x
+Sigur Rós – Sé Lest | last aired Nov 26 | 67x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
