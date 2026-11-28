@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 6:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 6:45am PT.
 
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
@@ -12,7 +12,6 @@ Ideal – Blaue Augen | last aired Nov 21 | 13x
 Sheryl Crow – The First Cut Is The Deepest | last aired Nov 21 | 18x
 Blue Öyster Cult – (Don't Fear) The Reaper | last aired Nov 21 | 14x
 indigo la End – Haru No Iutoori | last aired Nov 21 | 22x
-Billy Joel – The River of Dreams (Album Version) | last aired Nov 22 | 13x
 Procol Harum – A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired Nov 22 | 30x
 The Beatles – A Day In The Life (2017 Mix) | last aired Nov 22 | 9x
 BETWEEN FRIENDS – affection | last aired Nov 22 | 13x
@@ -100,5 +99,6 @@ The Rolling Stones – Paint It, Black | last aired Nov 26 | 168x
 Dire Straits – Money for Nothing | last aired Nov 26 | 26x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 26 | 17x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 26 | 12x
+Nine Inch Nails – Less Than | last aired Nov 26 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
