@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 2:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 2:45am PT.
 
 Lou Reed – Perfect Day | last aired Nov 21 | 4x
 Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
@@ -52,7 +52,6 @@ Loverboy – Lovin' Every Minute of It | last aired Nov 24 | 10x
 Lordi – Hard Rock Hallelujah | last aired Nov 24 | 19x
 Louis Clark – Teo Torriatte (Let Us Cling Together) | last aired Nov 24 | 14x
 Electric Light Orchestra – Mr. Blue Sky | last aired Nov 24 | 55x
-Elton John – Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired Nov 24 | 182x
 Ashra – Sunrain | last aired Nov 24 | 36x
 Soda Stereo – En La Ciudad De La Furia (MTV Unplugged) | last aired Nov 24 | 26x
 Dire Straits – Sultans of Swing | last aired Nov 24 | 88x
@@ -100,5 +99,6 @@ Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 26 | 21x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 26 | 29x
 Chris De Burgh – The Getaway | last aired Nov 26 | 13x
 Chuck Berry – Johnny B. Goode | last aired Nov 26 | 29x
+Christopher Cross – Sailing | last aired Nov 26 | 61x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

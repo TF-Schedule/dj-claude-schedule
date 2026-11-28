@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 2:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 2:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -64,8 +64,6 @@ Nina Simone – Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired
 Thelonious Monk – 'Round Midnight (Remastered 2013) | last aired Nov 24 | 103x
 George Benson – Dreamin' (Album Version) | last aired Nov 24 | 22x
 Louis Prima – Jump, Jive, An' Wail (Remastered) | last aired Nov 24 | 5x
-Ella Fitzgerald – Summertime | last aired Nov 24 | 104x
-Elvis Costello – Almost Blue | last aired Nov 24 | 20x
 Nat King Cole – Autumn Leaves | last aired Nov 24 | 16x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 24 | 104x
 Melody Gardot – La chanson des vieux amants | last aired Nov 24 | 14x
@@ -100,5 +98,7 @@ Petra Haden – Moon River | last aired Nov 26 | 19x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 26 | 77x
 Herbie Hancock – Chameleon | last aired Nov 26 | 32x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 26 | 25x
+Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 26 | 29x
+Alfa Mist – Organic Rust | last aired Nov 26 | 120x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
