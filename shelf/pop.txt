@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 5:45pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -82,7 +82,6 @@ Glasperlenspiel – Nie vergessen | last aired Nov 21 | 16x
 EMF – Unbelievable | last aired Nov 21 | 2x
 Backstreet Boys – I Want It That Way | last aired Nov 21 | 17x
 Tabu – Dobra Vila | last aired Nov 21 | 2x
-Lady Gaga – Just Dance | last aired Nov 21 | 21x
 Orchestral Manoeuvres in the dark (OMD) – Enola Gay (Remastered 2003) | last aired Nov 21 | 13x
 Rick Astley – Never Gonna Give You Up | last aired Nov 21 | 13x
 Tears For Fears – Mad World | last aired Nov 21 | 33x
@@ -100,5 +99,6 @@ Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 Neuro-sama – Colorful Array | last aired Nov 22 | 7x
+Djo – End of Beginning | last aired Nov 22 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

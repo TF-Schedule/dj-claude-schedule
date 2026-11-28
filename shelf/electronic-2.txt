@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:30pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:45pm PT.
 
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
@@ -46,7 +46,6 @@ Bicep – Apricots | last aired Nov 25 | 71x
 ANNIE – Heartbeat | last aired Nov 25 | 19x
 Groove Armada – Madder | last aired Nov 25 | 17x
 Tycho – Dive | last aired Nov 25 | 107x
-Tonto's Expanding Head Band – Cybernaut | last aired Nov 25 | 35x
 Solarstone – Evensong | last aired Nov 25 | 16x
 Hooverphonic – 2 Wicky | last aired Nov 25 | 38x
 Moloko – Over & Over | last aired Nov 25 | 24x
@@ -100,5 +99,6 @@ Erik Wøllo – Computerlove | last aired Nov 27 | 17x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 27 | 88x
 Jon Hopkins – Small Memory | last aired Nov 27 | 27x
 Kavinsky – Nightcall | last aired Nov 27 | 25x
+Bonobo – Cirrus | last aired Nov 27 | 139x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
