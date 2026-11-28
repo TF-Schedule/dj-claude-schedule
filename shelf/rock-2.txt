@@ -1,6 +1,5 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 7:15am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 7:30am PT.
 
-Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
@@ -100,5 +99,6 @@ Dire Straits – Money for Nothing | last aired Nov 26 | 26x
 Bon Jovi – You Give Love A Bad Name | last aired Nov 26 | 17x
 David Bowie – Breaking Glass (2017 Remaster) | last aired Nov 26 | 12x
 Nine Inch Nails – Less Than | last aired Nov 26 | 8x
+Queen – The March of the Black Queen (2026 Mix) | last aired Nov 26 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
