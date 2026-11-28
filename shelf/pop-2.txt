@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:00pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:15pm PT.
 
 DEEN – Ride On Time | last aired Nov 22 | 10x
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
@@ -29,7 +29,6 @@ Zoé – Vía Láctea | last aired Nov 23 | 30x
 Clannad – Theme From Harry's Game | last aired Nov 23 | 41x
 ABBA – Gimme! Gimme! Gimme! (A Man After Midnight) | last aired Nov 24 | 47x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 24 | 13x
-Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 24 | 17x
 Harry Styles – Watermelon Sugar | last aired Nov 24 | 18x
 Dope Lemon – Honey Bones | last aired Nov 24 | 24x
 Soft Cell – Tainted Love | last aired Nov 24 | 26x
@@ -100,5 +99,6 @@ Lady Gaga – Just Dance | last aired Nov 27 | 21x
 Sadie Jean – WYD Now? | last aired Nov 27 | 9x
 The Rah Band – Messages from the Stars (Remaster) | last aired Nov 27 | 32x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 27 | 29x
+Ray Anthony – The Hokey Pokey | last aired Nov 27 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
