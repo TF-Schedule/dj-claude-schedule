@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 3:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 3:45am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -25,7 +25,6 @@ Aerosmith – Dream On | last aired Nov 11 | 11x
 Smash Mouth – Walkin' On The Sun | last aired Nov 12 | 14x
 AC/DC – Thunderstruck | last aired Nov 13 | 11x
 Lyres – Help You Ann | last aired Nov 13 | 10x
-Herbert Grönemeyer – Mensch (Remastered 2016) | last aired Nov 13 | 8x
 Billy Joel – Scenes from an Italian Restaurant (Album Version) | last aired Nov 13 | 19x
 The Doobie Brothers – You Belong to Me (2016 Remaster) | last aired Nov 13 | 12x
 Fleetwood Mac – I Know I'm Not Wrong | last aired Nov 13 | 23x
@@ -100,5 +99,6 @@ David Bowie – Rebel Rebel | last aired Nov 21 | 27x
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
+Lou Reed – Perfect Day | last aired Nov 21 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

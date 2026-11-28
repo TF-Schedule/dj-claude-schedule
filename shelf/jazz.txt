@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 3:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 3:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -68,7 +68,6 @@ Nat King Cole – Autumn Leaves | last aired Nov 24 | 16x
 Anita Baker – Caught Up in the Rapture (LP Version) | last aired Nov 24 | 104x
 Melody Gardot – La chanson des vieux amants | last aired Nov 24 | 14x
 Diana Krall – How Deep Is The Ocean | last aired Nov 24 | 16x
-Herb Alpert's Tijuana Brass – A Taste of Honey | last aired Nov 24 | 27x
 Fiona Apple – Slow Like Honey | last aired Nov 24 | 29x
 Glenn Miller & His Orchestra – In the Mood | last aired Nov 24 | 2x
 Horace Silver Quintet – Peace | last aired Nov 24 | 32x
@@ -100,5 +99,6 @@ Herbie Hancock – Chameleon | last aired Nov 26 | 32x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 26 | 25x
 Melody Gardot – Worrisome Heart (Album Version) | last aired Nov 26 | 29x
 Alfa Mist – Organic Rust | last aired Nov 26 | 120x
+Bobby Hutcherson – Stardust | last aired Nov 26 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

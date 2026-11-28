@@ -1,6 +1,5 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 3:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 3:45am PT.
 
-Lou Reed – Perfect Day | last aired Nov 21 | 4x
 Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
@@ -100,5 +99,6 @@ Charly García – Demoliendo Hoteles (Live) | last aired Nov 26 | 29x
 Chris De Burgh – The Getaway | last aired Nov 26 | 13x
 Chuck Berry – Johnny B. Goode | last aired Nov 26 | 29x
 Christopher Cross – Sailing | last aired Nov 26 | 61x
+Leonard Cohen – Bird on the Wire | last aired Nov 26 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
