@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:30pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:45pm PT.
 
 Djo – End of Beginning | last aired Nov 22 | 19x
 DEEN – Ride On Time | last aired Nov 22 | 10x
@@ -92,13 +92,13 @@ Tears For Fears – Everybody Wants To Rule The World | last aired Nov 27 | 40x
 New Order – True Faith | last aired Nov 27 | 24x
 Pet Shop Boys – West End Girls (2001 Remaster) | last aired Nov 27 | 46x
 Depeche Mode – Enjoy the Silence | last aired Nov 27 | 26x
-Nat King Cole – L-O-V-E | last aired Nov 27 | 33x
-Nation of Language – Weak In Your Light | last aired Nov 27 | 33x
-Jack Johnson – Upside Down | last aired Nov 27 | 13x
-JAWNY – true | last aired Nov 27 | 8x
-Leon Larregui – Locos | last aired Nov 27 | 22x
-Neuro-sama – LIFE | last aired Nov 27 | 3x
-Mac DeMarco – No Other Heart | last aired Nov 27 | 32x
-Sabrina Carpenter – Please Please Please | last aired Nov 27 | 65x
+Nat King Cole – L-O-V-E | last aired Nov 27 | 34x
+Nation of Language – Weak In Your Light | last aired Nov 27 | 34x
+Jack Johnson – Upside Down | last aired Nov 27 | 14x
+JAWNY – true | last aired Nov 27 | 9x
+Leon Larregui – Locos | last aired Nov 27 | 23x
+Neuro-sama – LIFE | last aired Nov 27 | 4x
+Mac DeMarco – No Other Heart | last aired Nov 27 | 33x
+Sabrina Carpenter – Please Please Please | last aired Nov 27 | 66x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
