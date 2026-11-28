@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 4:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 4:30am PT.
 
 ABBA – I Wonder (Departure) | last aired Nov 22 | 17x
 Avril Lavigne – Sk8er Boi | last aired Nov 22 | 15x
@@ -60,7 +60,6 @@ Love and Rockets – Haunted When the Minutes Drag | last aired Nov 25 | 10x
 Montaigne – Technicolour | last aired Nov 25 | 7x
 Modest Mouse – Float On | last aired Nov 25 | 10x
 Pixies – Ana | last aired Nov 25 | 31x
-Elvis Costello – Watching The Detectives (Single Version) | last aired Nov 25 | 21x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 25 | 39x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 25 | 42x
 Sophie Hunger – Shape | last aired Nov 25 | 21x
@@ -100,5 +99,6 @@ Hayley Williams – Simmer (Acoustic) | last aired Nov 26 | 8x
 The Strokes – Ode To The Mets | last aired Nov 26 | 28x
 Sade – By Your Side (Remastered Version) | last aired Nov 26 | 64x
 The Sundays – Wild Horses | last aired Nov 26 | 21x
+Sun's Signature – Underwater | last aired Nov 26 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

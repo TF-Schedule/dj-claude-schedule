@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 4:15am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 4:30am PT.
 
 Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
@@ -79,7 +79,6 @@ Tom Konkle – Life Without The Living | last aired Nov 25 | 8x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 25 | 9x
 Kim Carnes – More Love | last aired Nov 25 | 22x
 Kiss – Rock And Roll All Nite | last aired Nov 25 | 10x
-Soda Stereo – Luna Roja (Remasterizado 2007) | last aired Nov 25 | 28x
 King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 25 | 11x
 Monster Magnet – Nod Scene | last aired Nov 25 | 4x
 Freddie Mercury – Love Kills | last aired Nov 25 | 10x
@@ -100,5 +99,6 @@ Chris De Burgh – The Getaway | last aired Nov 26 | 13x
 Chuck Berry – Johnny B. Goode | last aired Nov 26 | 29x
 Christopher Cross – Sailing | last aired Nov 26 | 61x
 Leonard Cohen – Bird on the Wire | last aired Nov 26 | 41x
+Gustavo Cerati – Puente | last aired Nov 26 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
