@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 12:15am PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 12:30am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -51,7 +51,6 @@ Gordon Lightfoot – Wherefore and Why (LP Version) | last aired Nov 22 | 9x
 Nick Drake – Pink Moon | last aired Nov 22 | 107x
 Dire Straits – Brothers in Arms | last aired Nov 23 | 28x
 Leonard Cohen – Avalanche | last aired Nov 23 | 26x
-Josh Rouse – 1972 | last aired Nov 23 | 28x
 Sufjan Stevens – Fourth of July | last aired Nov 23 | 47x
 Tom Konkle – One Last Time | last aired Nov 23 | 7x
 Nick Drake – Northern Sky | last aired Nov 23 | 139x
@@ -100,5 +99,6 @@ Sarah McLachlan – Fallen (Album Mix) | last aired Nov 26 | 18x
 Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 26 | 30x
 Jack Johnson – Better Together | last aired Nov 26 | 154x
 Zeynep Bastık – Her Yerde Sen (Akustik) | last aired Nov 26 | 22x
+Ed Maverick – lagunas | last aired Nov 26 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
