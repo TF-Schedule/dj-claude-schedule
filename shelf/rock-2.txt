@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 9:45pm PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:00pm PT.
 
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
@@ -45,7 +45,6 @@ Soda Stereo – De Música Ligera (Remasterizado 2007) | last aired Nov 23 | 37x
 Talk Talk – After The Flood | last aired Nov 23 | 34x
 Enjambre – Vida En El Espejo | last aired Nov 23 | 25x
 Pink Floyd – Have a Cigar | last aired Nov 23 | 21x
-The Strokes – Last Nite | last aired Nov 23 | 84x
 Sting – If You Love Somebody Set Them Free (Single Edit) | last aired Nov 23 | 8x
 Steve Miller Band – The Joker | last aired Nov 23 | 13x
 Little River Band – Cool Change | last aired Nov 23 | 19x
@@ -100,5 +99,6 @@ Benny Sings – Sailing | last aired Nov 25 | 29x
 The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 25 | 35x
 The Beatles – Rain (Remastered) | last aired Nov 25 | 23x
 Neil Diamond – Sweet Caroline | last aired Nov 25 | 14x
+Mark Hollis – The Colour Of Spring | last aired Nov 25 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
