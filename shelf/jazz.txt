@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:30pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:45pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -56,7 +56,6 @@ Bill Evans – Peace Piece (Album Version) | last aired Nov 23 | 182x
 Julie London – Cry Me A River | last aired Nov 23 | 85x
 Burna Boy – Last Last | last aired Nov 23 | 49x
 Nina Simone – Feeling Good | last aired Nov 23 | 151x
-Steely Dan – Home At Last | last aired Nov 23 | 35x
 Acker Bilk – Stranger On The Shore | last aired Nov 23 | 18x
 Sade – Smooth Operator (2011 Remastered) (Remastered Version) | last aired Nov 23 | 108x
 Abdullah Ibrahim – Water From An Ancient Well | last aired Nov 23 | 16x
@@ -100,5 +99,6 @@ Laufey – Madwoman | last aired Nov 26 | 50x
 GoGo Penguin – Raven | last aired Nov 26 | 88x
 Shakatak – Night Birds | last aired Nov 26 | 29x
 Petra Haden – Moon River | last aired Nov 26 | 19x
+Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 26 | 77x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
