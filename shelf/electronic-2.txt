@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:00pm PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 5:15pm PT.
 
 Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
@@ -9,7 +9,6 @@ Portishead – Roads | last aired Nov 23 | 65x
 Slowdive – Erik's Song (Album Version) | last aired Nov 23 | 43x
 Thom Yorke – 5.17 | last aired Nov 23 | 23x
 Aphex Twin – Avril 14th | last aired Nov 24 | 92x
-Daft Punk – Something About Us | last aired Nov 24 | 63x
 M83 – Wait | last aired Nov 24 | 18x
 Four Tet – Two Thousand and Seventeen | last aired Nov 24 | 100x
 Burial – Archangel | last aired Nov 24 | 87x
@@ -100,5 +99,6 @@ Suzanne Ciani – Improvisation On Four Sequences Pt.1 | last aired Nov 27 | 46x
 Erik Wøllo – Computerlove | last aired Nov 27 | 17x
 Johann Johannsson – Flight From The City - Jóhannsson: Flight from the City | last aired Nov 27 | 88x
 Jon Hopkins – Small Memory | last aired Nov 27 | 27x
+Kavinsky – Nightcall | last aired Nov 27 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt
