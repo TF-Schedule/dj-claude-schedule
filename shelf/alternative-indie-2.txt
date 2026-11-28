@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:15pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:30pm PT.
 
 Arctic Monkeys – 505 | last aired Nov 22 | 41x
 The Police – Roxanne (Remastered 2003) | last aired Nov 22 | 5x
@@ -56,7 +56,6 @@ Bikini Kill – Rebel Girl | last aired Nov 25 | 16x
 Nick Cave & The Bad Seeds – (I'll Love You) Till The End Of The World | last aired Nov 25 | 17x
 Nirvana – Heart-Shaped Box (Album Version) | last aired Nov 25 | 21x
 Gorillaz – Hong Kong | last aired Nov 25 | 30x
-Green Day – American Idiot (Album Version) | last aired Nov 25 | 17x
 Soul Coughing – Screenwriter's Blues | last aired Nov 25 | 12x
 Soundgarden – Fell On Black Days (Album Version) | last aired Nov 25 | 8x
 The Killers – Mr. Brightside | last aired Nov 25 | 163x
@@ -100,5 +99,6 @@ Beach House – Space Song | last aired Nov 26 | 125x
 Benny Sings – Rolled Up | last aired Nov 26 | 24x
 Child Seat – Heart To Heart | last aired Nov 26 | 15x
 Beck – Devils Haircut | last aired Nov 26 | 29x
+Hard Life – daydreams | last aired Nov 26 | 25x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

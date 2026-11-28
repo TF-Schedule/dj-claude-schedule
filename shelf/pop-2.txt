@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:15pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:30pm PT.
 
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
 Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
@@ -36,7 +36,6 @@ Yazoo – Only You (Remastered 2008) | last aired Nov 24 | 20x
 Murray Head – One Night In Bangkok (From “Chess” / Remastered 2016) | last aired Nov 24 | 23x
 David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 24 | 13x
 Sabrina Carpenter – Espresso | last aired Nov 25 | 121x
-Greg Shilling – Shampoo | last aired Nov 25 | 9x
 toe – Goodbye (Live) | last aired Nov 25 | 25x
 Hollie Col – The Gambler | last aired Nov 25 | 3x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 25 | 3x
@@ -100,5 +99,6 @@ Ray Anthony – The Hokey Pokey | last aired Nov 27 | 11x
 Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 27 | 18x
 Perpetuum Jazzile – Africa | last aired Nov 27 | 31x
 Still Woozy – Get Down | last aired Nov 27 | 9x
+Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 27 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
