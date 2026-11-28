@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 6:45am PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 7:00am PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -45,7 +45,6 @@ Khruangbin – A Calf Born In Winter | last aired Nov 20 | 90x
 Khruangbin – August 10 | last aired Nov 20 | 95x
 Stevie Wonder – Higher Ground (Album Version) | last aired Nov 20 | 73x
 Earth, Wind & Fire – Let's Groove (Album Version) | last aired Nov 20 | 41x
-Whitney Houston – I Wanna Dance with Somebody (Who Loves Me) | last aired Nov 20 | 44x
 Prince – Nothing Compares 2 U | last aired Nov 20 | 23x
 Rihanna – Umbrella (Album Version) | last aired Nov 20 | 14x
 SWV – Weak | last aired Nov 20 | 22x
@@ -100,5 +99,6 @@ The Weeknd – Call Out My Name | last aired Nov 24 | 8x
 Lianne La Havas – Sour Flower | last aired Nov 24 | 73x
 Lionel Richie – You Are | last aired Nov 24 | 26x
 Sade – No Ordinary Love (Remastered Version) | last aired Nov 24 | 109x
+Stevie Wonder – Superstition (Album Version) | last aired Nov 25 | 102x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt
