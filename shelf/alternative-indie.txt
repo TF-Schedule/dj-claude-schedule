@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 1:15am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 1:30am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -77,7 +77,6 @@ The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 R.E.M. – Endgame | last aired Nov 21 | 15x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
-Joker Out – Novi Val | last aired Nov 21 | 24x
 Fiona Apple – Better Version Of Me (Album Version) | last aired Nov 21 | 3x
 Lace – risk | last aired Nov 21 | 3x
 The Clash – Should I Stay or Should I Go (Remastered) | last aired Nov 21 | 54x
@@ -100,5 +99,6 @@ Bauhaus – Ziggy Stardust | last aired Nov 21 | 20x
 My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 21 | 12x
 Björk – Army Of Me | last aired Nov 21 | 22x
 Playroom – Patient | last aired Nov 22 | 12x
+Arctic Monkeys – 505 | last aired Nov 22 | 41x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
