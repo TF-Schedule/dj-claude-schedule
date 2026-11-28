@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:50am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 9:00am PT.
 
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
@@ -89,7 +89,6 @@ Mark Hollis – The Colour Of Spring | last aired Nov 25 | 33x
 Måneskin – Torna a casa | last aired Nov 25 | 25x
 Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 26 | 21x
 Charly García – Demoliendo Hoteles (Live) | last aired Nov 26 | 29x
-Christopher Cross – Sailing | last aired Nov 26 | 61x
 Leonard Cohen – Bird on the Wire | last aired Nov 26 | 41x
 Gustavo Cerati – Puente | last aired Nov 26 | 36x
 The Rolling Stones – Paint It, Black | last aired Nov 26 | 168x
@@ -100,5 +99,6 @@ Nine Inch Nails – Less Than | last aired Nov 26 | 8x
 Queen – The March of the Black Queen (2026 Mix) | last aired Nov 26 | 21x
 King Crimson – The Sheltering Sky | last aired Nov 26 | 17x
 The Moody Blues – A Simple Game | last aired Nov 26 | 2x
+Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 26 | 61x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
