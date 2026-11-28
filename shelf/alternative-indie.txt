@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 10:30am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 10:45am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -48,7 +48,6 @@ Sex Pistols – Anarchy In The UK | last aired Nov 18 | 13x
 The Undertones – Teenage Kicks | last aired Nov 18 | 7x
 INXS – Don't Change | last aired Nov 18 | 24x
 Split Enz – I Got You | last aired Nov 18 | 9x
-Shellac – The End of Radio | last aired Nov 18 | 16x
 Bad Religion – 21st Century (Digital Boy) | last aired Nov 19 | 12x
 Backyard Babies – Minus Celsius | last aired Nov 19 | 9x
 MGMT – Time to Pretend (Album Version) | last aired Nov 19 | 28x
@@ -100,5 +99,6 @@ Visage – Fade To Grey | last aired Nov 22 | 25x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 22 | 24x
 Siouxsie & The Banshees – Spellbound | last aired Nov 22 | 6x
 TV Girl – Lovers Rock | last aired Nov 22 | 4x
+ByeAlex – Kedvesem (Original) | last aired Nov 22 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
