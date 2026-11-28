@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 1:45am PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 2:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -64,7 +64,6 @@ Jimmy Eat World – The Middle | last aired Nov 19 | 14x
 Gorillaz – Empire Ants (feat. Little Dragon) | last aired Nov 19 | 12x
 Muse – Feeling Good | last aired Nov 19 | 25x
 Richard Ashcroft – Break The Night With Colour | last aired Nov 19 | 7x
-Jockstrap – Concrete Over Water | last aired Nov 19 | 22x
 TV Girl – Loving Machine | last aired Nov 20 | 21x
 The Cure – A Forest | last aired Nov 20 | 31x
 The National – Bloodbuzz Ohio (Live in Rome) | last aired Nov 20 | 50x
@@ -100,5 +99,6 @@ My Chemical Romance – I'm Not Okay (I Promise) | last aired Nov 21 | 12x
 Björk – Army Of Me | last aired Nov 21 | 22x
 Playroom – Patient | last aired Nov 22 | 12x
 Arctic Monkeys – 505 | last aired Nov 22 | 41x
+The Police – Roxanne (Remastered 2003) | last aired Nov 22 | 5x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
