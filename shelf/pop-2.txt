@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 5:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 6:00am PT.
 
-Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
 Rick Springfield – Jessie's Girl | last aired Nov 22 | 7x
 Wolfsheim – Künstliche Welten | last aired Nov 22 | 9x
 Ferrante & Teicher – Exodus | last aired Nov 22 | 21x
@@ -100,5 +99,6 @@ Alexander Rybak – Fairytale | last aired Nov 28 | 20x
 Her's – Blue Lips | last aired Nov 28 | 34x
 Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" Soundtrack) | last aired Nov 28 | 14x
 Soft Cell – Tainted Love | last aired Nov 28 | 27x
+Tears For Fears – Mad World | last aired Nov 28 | 33x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 5:45am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 6:00am PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -49,7 +49,6 @@ Billy Joel – Get It Right the First Time (Album Version) | last aired Nov 17 |
 Miley Cyrus – Party In The U.S.A. | last aired Nov 17 | 9x
 Jeff Buckley – Hallelujah | last aired Nov 17 | 33x
 Eurythmics, Annie Lennox, Dave Stewart – Sweet Dreams (Are Made of This) [2018 Remastered] | last aired Nov 17 | 57x
-Depeche Mode – Policy of Truth | last aired Nov 17 | 16x
 Pebe Sebert – City's Burning | last aired Nov 18 | 23x
 Revolverheld – Ich lass für dich das Licht an | last aired Nov 18 | 19x
 Sabrina Carpenter – Taste | last aired Nov 18 | 54x
@@ -100,5 +99,6 @@ Neuro-sama – Colorful Array | last aired Nov 22 | 7x
 Djo – End of Beginning | last aired Nov 22 | 19x
 DEEN – Ride On Time | last aired Nov 22 | 10x
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
+Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
