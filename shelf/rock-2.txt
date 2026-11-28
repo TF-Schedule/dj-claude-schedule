@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:15pm PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:30pm PT.
 
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
@@ -33,7 +33,6 @@ Fleetwood Mac – That's All for Everyone | last aired Nov 22 | 23x
 Gerry Rafferty – Right Down the Line | last aired Nov 22 | 25x
 Herbert Grönemeyer – Was soll das (Remastered 2016) | last aired Nov 22 | 24x
 Peter Gabriel – Sledgehammer | last aired Nov 22 | 20x
-Boz Scaggs – JoJo (2023 Remaster) | last aired Nov 22 | 20x
 Queens Of The Stone Age – No One Knows | last aired Nov 22 | 33x
 Jeff Lynne – At Last | last aired Nov 22 | 6x
 MGMT – Electric Feel (Album Version) | last aired Nov 22 | 34x
@@ -100,5 +99,6 @@ Monster Magnet – Nod Scene | last aired Nov 25 | 4x
 Freddie Mercury – Love Kills | last aired Nov 25 | 10x
 From Fall to Spring – DRAW THE LINE | last aired Nov 25 | 3x
 Pink Floyd – Breathe (In the Air) | last aired Nov 25 | 17x
+Juli – Perfekte Welle | last aired Nov 25 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
