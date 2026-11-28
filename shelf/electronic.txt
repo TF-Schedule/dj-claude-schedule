@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 2:45am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 3:00am PT.
 
 MC WINDHUND – Uschi (Trance Edit) | last aired Sep 4 | 4x
 Lovage – Anger Management (Instrumental) | last aired Sep 25 | 1x
@@ -40,7 +40,6 @@ Aphex Twin – Windowlicker | last aired Nov 17 | 27x
 Dara – Bangaranga | last aired Nov 17 | 13x
 Database – Vice II | last aired Nov 17 | 4x
 David Bowie – Warszawa (2017 Remaster) | last aired Nov 17 | 5x
-Eluvium – Taken | last aired Nov 18 | 47x
 Daft Punk – One More Time | last aired Nov 18 | 152x
 Marie Vaunt – That Acid | last aired Nov 18 | 8x
 Lebanon Hanover – Babes of the 80s (She Past Away) | last aired Nov 18 | 14x
@@ -100,5 +99,6 @@ Kraftwerk – Computer Love (2009 Remaster) | last aired Nov 23 | 48x
 The Postal Service – Such Great Heights (Remastered) | last aired Nov 23 | 16x
 Brian Eno – Deep Blue Day (Remastered 2019) | last aired Nov 23 | 88x
 A Winged Victory For The Sullen – Steep Hills of Vicodin Tears | last aired Nov 23 | 121x
+Portishead – Roads | last aired Nov 23 | 65x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-2.txt
