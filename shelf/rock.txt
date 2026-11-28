@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 5:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 5:45am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -7,7 +7,6 @@ Kenny Loggins – Danger Zone (From "Top Gun" Original Soundtrack) | last aired 
 Iron Mountain – Enthralldom | last aired Oct 23 | 6x
 The Vampire Lestat – La Fontaine De Sang | last aired Oct 25 | 3x
 Duran Duran – PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired Oct 26 | 11x
-Rush – Tom Sawyer | last aired Oct 29 | 24x
 Guns N' Roses – Paradise City | last aired Oct 29 | 13x
 David Soul – Silver Lady | last aired Oct 29 | 3x
 10,000 Maniacs – Like the Weather | last aired Oct 30 | 7x
@@ -32,14 +31,12 @@ Fleetwood Mac – The Ledge | last aired Nov 13 | 22x
 The Rolling Stones – You Can't Always Get What You Want | last aired Nov 13 | 11x
 Herbert Grönemeyer – Männer (Remastered 2016) | last aired Nov 14 | 7x
 Paul McCartney – Monkberry Moon Delight (2012 Remaster) | last aired Nov 14 | 12x
-Talk Talk – Life's What You Make It (1997 Remaster) | last aired Nov 14 | 40x
 Dire Straits – Your Latest Trick | last aired Nov 16 | 23x
 David Bowie – "Heroes" (2017 Remaster) | last aired Nov 16 | 57x
 David Bowie – Moonage Daydream (2012 Remaster) | last aired Nov 16 | 19x
 Pink Floyd – Money | last aired Nov 16 | 13x
 Bruce Springsteen – Born in the U.S.A. | last aired Nov 16 | 25x
 Pink Floyd – The Great Gig in the Sky (2023 Remaster) | last aired Nov 16 | 14x
-Queen – Don't Stop Me Now (Remastered 2011) | last aired Nov 16 | 81x
 Fleetwood Mac – Tusk | last aired Nov 16 | 27x
 Pink Floyd – Another Brick in the Wall, Pt. 2 | last aired Nov 16 | 140x
 Queen – Killer Queen (Remastered 2011) | last aired Nov 16 | 39x
@@ -100,5 +97,8 @@ Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
 Lou Reed – Perfect Day | last aired Nov 21 | 4x
+Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
+Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
+Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt

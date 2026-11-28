@@ -1,8 +1,5 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 5:30am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 5:45am PT.
 
-Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
-Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
-Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
 Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
@@ -100,5 +97,8 @@ Chuck Berry – Johnny B. Goode | last aired Nov 26 | 29x
 Christopher Cross – Sailing | last aired Nov 26 | 61x
 Leonard Cohen – Bird on the Wire | last aired Nov 26 | 41x
 Gustavo Cerati – Puente | last aired Nov 26 | 36x
+The Rolling Stones – Paint It, Black | last aired Nov 26 | 168x
+Dire Straits – Money for Nothing | last aired Nov 26 | 26x
+Bon Jovi – You Give Love A Bad Name | last aired Nov 26 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
