@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 9:00am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 9:15am PT.
 
 Siouxsie & The Banshees – Spellbound | last aired Nov 22 | 6x
 TV Girl – Lovers Rock | last aired Nov 22 | 4x
@@ -51,7 +51,6 @@ The Killers – Mr. Brightside | last aired Nov 25 | 163x
 Love and Rockets – Haunted When the Minutes Drag | last aired Nov 25 | 10x
 Montaigne – Technicolour | last aired Nov 25 | 7x
 Modest Mouse – Float On | last aired Nov 25 | 10x
-Pixies – Ana | last aired Nov 25 | 31x
 Belle and Sebastian – The Boy with the Arab Strap | last aired Nov 25 | 39x
 Caroline Polachek – Bunny Is A Rider | last aired Nov 25 | 42x
 Sophie Hunger – Shape | last aired Nov 25 | 21x
@@ -100,5 +99,6 @@ Ednaswap – Torn | last aired Nov 27 | 21x
 Echo And The Bunnymen – The Killing Moon | last aired Nov 27 | 17x
 Arctic Monkeys – Fake Tales Of San Francisco | last aired Nov 27 | 23x
 Soundgarden – Black Hole Sun | last aired Nov 27 | 86x
+Pearl Jam – Yellow Ledbetter | last aired Nov 27 | 36x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt

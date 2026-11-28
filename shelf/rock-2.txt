@@ -1,6 +1,5 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 9:00am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 9:15am PT.
 
-Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
 Guns N' Roses – Civil War | last aired Nov 21 | 1x
@@ -100,5 +99,6 @@ Queen – The March of the Black Queen (2026 Mix) | last aired Nov 26 | 21x
 King Crimson – The Sheltering Sky | last aired Nov 26 | 17x
 The Moody Blues – A Simple Game | last aired Nov 26 | 2x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 26 | 61x
+Marty Friedman – Senbonzakura | last aired Nov 26 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

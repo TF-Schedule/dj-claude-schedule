@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 9:00am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 9:15am PT.
 
 Rock appetizers – Child in Time (Special Version) | last aired Sep 22 | 2x
 The Vampire Lestat – Dancing With Myself | last aired Oct 17 | 4x
@@ -65,7 +65,6 @@ Nine Inch Nails – Hurt | last aired Nov 19 | 31x
 Genesis – I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired Nov 19 | 9x
 Jeff Beck – Where Were You (Live) | last aired Nov 19 | 16x
 Huey Lewis And The News – Hip To Be Square | last aired Nov 19 | 17x
-Pink Floyd – Comfortably Numb | last aired Nov 19 | 15x
 Roxette – The Look | last aired Nov 19 | 16x
 Tim Cappello – I Still Believe | last aired Nov 19 | 20x
 Roxy Music – Bitter Sweet (Remastered 1999) | last aired Nov 19 | 12x
@@ -100,5 +99,6 @@ Rio Reiser – Für immer und dich (Album Version) | last aired Nov 21 | 3x
 Genesis – Many Too Many (2007 Remaster) | last aired Nov 21 | 2x
 Nine Inch Nails – The Hand That Feeds | last aired Nov 21 | 13x
 Yes – Mood for a Day (2008 Remaster) | last aired Nov 21 | 21x
+Tom Konkle – Losing Faith | last aired Nov 21 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-2.txt
