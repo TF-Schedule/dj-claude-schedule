@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:15am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 11:30am PT.
 
 The xx – Intro | last aired Nov 23 | 4x
 Björk – Venus As A Boy (Live) | last aired Nov 23 | 14x
@@ -33,7 +33,6 @@ Julien Baker – Hardline | last aired Nov 24 | 38x
 Glass Animals – Heat Waves (Stripped Back) | last aired Nov 24 | 19x
 Montaigne – I Am Not an End | last aired Nov 24 | 9x
 Cigarettes After Sex – Apocalypse | last aired Nov 24 | 109x
-ANORAQUE – Ivy | last aired Nov 25 | 18x
 Phoenix – Lisztomania | last aired Nov 25 | 47x
 Mazzy Star – Halah | last aired Nov 25 | 39x
 Big Data – Put Me to Work | last aired Nov 25 | 22x
@@ -50,7 +49,6 @@ Sophie Hunger – Shape | last aired Nov 25 | 21x
 New Found Glory – My Friends Over You | last aired Nov 25 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 25 | 18x
 Maria McKee – Absolutely Barking Stars | last aired Nov 25 | 20x
-Annenmaykantereit – Oft gefragt | last aired Nov 26 | 23x
 Child Seat – Hyperphantasia | last aired Nov 26 | 9x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Nov 26 | 13x
 Billie Eilish – BIRDS OF A FEATHER | last aired Nov 26 | 251x
@@ -100,5 +98,7 @@ Kate Bush – Coffee Homeground | last aired Nov 27 | 25x
 Wild Nothing – Chinatown | last aired Nov 27 | 37x
 Papooz – You and I | last aired Nov 27 | 31x
 Patrick Watson – Sit Down Beside Me | last aired Nov 27 | 17x
+Oasis – Live Forever | last aired Nov 27 | 16x
+Blur – The Universal | last aired Nov 27 | 3x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
