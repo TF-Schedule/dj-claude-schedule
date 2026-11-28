@@ -1,6 +1,5 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:00pm PT.
 
-Neuro-sama – Colorful Array | last aired Nov 22 | 7x
 Djo – End of Beginning | last aired Nov 22 | 19x
 DEEN – Ride On Time | last aired Nov 22 | 10x
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
@@ -47,7 +46,6 @@ Sabrina Carpenter – Espresso | last aired Nov 25 | 121x
 Ray Parker Junior – Ghostbusters (Album Version) | last aired Nov 25 | 29x
 Ray Anthony – The Hokey Pokey | last aired Nov 25 | 10x
 Greg Shilling – Shampoo | last aired Nov 25 | 9x
-Tove Lo – No One Dies From Love | last aired Nov 25 | 189x
 toe – Goodbye (Live) | last aired Nov 25 | 25x
 Hollie Col – The Gambler | last aired Nov 25 | 3x
 Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 25 | 3x
@@ -100,5 +98,7 @@ Jack Johnson – Upside Down | last aired Nov 27 | 13x
 JAWNY – true | last aired Nov 27 | 8x
 Leon Larregui – Locos | last aired Nov 27 | 22x
 Neuro-sama – LIFE | last aired Nov 27 | 3x
+Mac DeMarco – No Other Heart | last aired Nov 27 | 32x
+Sabrina Carpenter – Please Please Please | last aired Nov 27 | 65x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt

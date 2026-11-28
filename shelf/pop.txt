@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 3:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:00pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -76,7 +76,6 @@ Ricchi E Poveri – Sarà perché ti amo | last aired Nov 20 | 8x
 Minako Yoshida – I'll Teach You All About Love | last aired Nov 20 | 34x
 Apo Hiking Society – When I Met You | last aired Nov 21 | 12x
 Ed Sheeran – Beautiful People (feat. Khalid) | last aired Nov 21 | 74x
-Sabrina Carpenter – Please Please Please | last aired Nov 21 | 65x
 A-Ha – Summer Moved On (2019 Remaster) | last aired Nov 21 | 7x
 Glass Animals – Life Itself | last aired Nov 21 | 26x
 Glasperlenspiel – Nie vergessen | last aired Nov 21 | 16x
@@ -100,5 +99,6 @@ MIKA – Grace Kelly | last aired Nov 22 | 27x
 Cyndi Lauper – At Last (Album Version) | last aired Nov 22 | 3x
 ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
+Neuro-sama – Colorful Array | last aired Nov 22 | 7x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt

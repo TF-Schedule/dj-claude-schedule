@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 3:45pm PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 4:00pm PT.
 
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
@@ -89,7 +89,6 @@ Grateful Dead – Eyes of the World | last aired Nov 25 | 34x
 Golden Earring – Radar Love | last aired Nov 25 | 6x
 The Tragically Hip – Long Time Running | last aired Nov 25 | 20x
 T. Rex – Children Of The Revolution | last aired Nov 25 | 19x
-Toto – Rosanna (Album Version) | last aired Nov 25 | 82x
 Tom Lehrer – Poisoning Pigeons in the Park | last aired Nov 25 | 17x
 Tom Konkle – Life Without The Living | last aired Nov 25 | 8x
 Nickelback – How You Remind Me (- LP Mix) | last aired Nov 25 | 9x
@@ -100,5 +99,6 @@ King Gizzard & The Lizard Wizard – Crumbling Castle | last aired Nov 25 | 11x
 Monster Magnet – Nod Scene | last aired Nov 25 | 4x
 Freddie Mercury – Love Kills | last aired Nov 25 | 10x
 From Fall to Spring – DRAW THE LINE | last aired Nov 25 | 3x
+Pink Floyd – Breathe (In the Air) | last aired Nov 25 | 17x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
