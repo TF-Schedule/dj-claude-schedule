@@ -1,4 +1,4 @@
-Rock – 266 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 10:15am PT.
+Rock – 266 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 10:30am PT.
 
 The Replacements – Answering Machine | last aired Nov 21 | 22x
 Guns N' Roses – November Rain | last aired Nov 21 | 1x
@@ -53,8 +53,6 @@ Train – Drops of Jupiter (Tell Me) | last aired Nov 24 | 17x
 The Smile – The Smoke | last aired Nov 24 | 10x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 24 | 14x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 24 | 110x
-Sheryl Crow – All I Wanna Do | last aired Nov 24 | 25x
-Shakespears Sister – Stay | last aired Nov 24 | 8x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 24 | 27x
 Queen – Under Pressure (Remastered 2011) | last aired Nov 24 | 34x
 Ambrosia – Biggest Part of Me (Album Version) | last aired Nov 24 | 56x
@@ -100,5 +98,7 @@ King Crimson – The Sheltering Sky | last aired Nov 26 | 17x
 The Moody Blues – A Simple Game | last aired Nov 26 | 2x
 Fleetwood Mac – Go Your Own Way (2004 Remaster) | last aired Nov 26 | 61x
 Marty Friedman – Senbonzakura | last aired Nov 26 | 18x
+Meat Loaf – Dead Ringer For Love (Album Version) | last aired Nov 26 | 9x
+Pink Floyd – Wish You Were Here | last aired Nov 26 | 22x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt

@@ -1,4 +1,4 @@
-Jazz – 139 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 10:15am PT.
+Jazz – 139 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 10:30am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -87,7 +87,6 @@ Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 25 | 31x
 Chet Baker – My Funny Valentine | last aired Nov 26 | 119x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 26 | 39x
 GoGo Penguin – Raven | last aired Nov 26 | 88x
-Shakatak – Night Birds | last aired Nov 26 | 29x
 Petra Haden – Moon River | last aired Nov 26 | 19x
 Sade – The Sweetest Taboo (Remastered Version) | last aired Nov 26 | 77x
 John McLaughlin – You Know, You Know (Album Version) | last aired Nov 26 | 25x
@@ -100,5 +99,6 @@ Chet Baker – You Don't Know What Love Is | last aired Nov 26 | 32x
 Hailu Mergia – Tezeta | last aired Nov 26 | 64x
 St Germain – Rose rouge | last aired Nov 26 | 49x
 Steely Dan – Babylon Sisters | last aired Nov 26 | 61x
+Ella Fitzgerald – Bewitched, Bothered And Bewildered | last aired Nov 26 | 38x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
