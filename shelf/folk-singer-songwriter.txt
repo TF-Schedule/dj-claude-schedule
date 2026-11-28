@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 7:30am PT.
+Folk / Singer-Songwriter – 171 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 7:45am PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -86,7 +86,6 @@ Cat Power – The Greatest | last aired Nov 25 | 11x
 Matt Nathanson – All We Are | last aired Nov 25 | 15x
 Mariza – Ó gente da minha terra | last aired Nov 25 | 41x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 25 | 15x
-Chico Buarque – Construção | last aired Nov 26 | 50x
 Joni Mitchell – A Case of You | last aired Nov 26 | 50x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 26 | 254x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 26 | 12x
@@ -100,5 +99,6 @@ Matt Nathanson – Faster | last aired Nov 26 | 7x
 Simon & Garfunkel – The Sound of Silence (Acoustic Version) | last aired Nov 26 | 127x
 Sinéad O'Connor – Nothing Compares 2 U (2009 Remaster) | last aired Nov 26 | 34x
 Carole King – So Far Away | last aired Nov 26 | 49x
+Albert Hammond – When I'm Gone | last aired Nov 26 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

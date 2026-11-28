@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 7:30am PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 7:45am PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -73,7 +73,6 @@ Horace Silver Quintet – Peace | last aired Nov 24 | 32x
 Yussef Kamaal – Strings of Light | last aired Nov 25 | 111x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 25 | 47x
 Charles Lloyd – You Are So Beautiful | last aired Nov 25 | 12x
-Chet Baker – Almost Blue | last aired Nov 25 | 61x
 Al Di Meola – Red Moon | last aired Nov 25 | 22x
 Alice Coltrane – Journey In Satchidananda | last aired Nov 25 | 19x
 Anita Baker – Sweet Love | last aired Nov 25 | 125x
@@ -100,5 +99,6 @@ Alfa Mist – Organic Rust | last aired Nov 26 | 120x
 Bobby Hutcherson – Stardust | last aired Nov 26 | 19x
 Bobby Darin – Beyond the Sea | last aired Nov 26 | 34x
 Bobby McFerrin – Common Threads | last aired Nov 26 | 23x
+Chet Baker – You Don't Know What Love Is | last aired Nov 26 | 32x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
