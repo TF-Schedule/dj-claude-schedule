@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -44,7 +44,6 @@ Mireille Mathieu – Together We're Strong | last aired Nov 21 | 52x
 Gilbert Bécaud – Le Pianiste de Varsovie | last aired Nov 21 | 14x
 Lita Ford & Ozzy Osborne – Close My Eyes Forever | last aired Nov 21 | 10x
 Leonard Cohen – Suzanne | last aired Nov 21 | 59x
-Sufjan Stevens – Mystery of Love | last aired Nov 22 | 108x
 The Head And The Heart – Down in the Valley | last aired Nov 22 | 26x
 Ngo Hong Quang – Núi Xưa | last aired Nov 22 | 15x
 Amália Rodrigues – Barco negro | last aired Nov 22 | 40x
@@ -100,5 +99,6 @@ Mariza – Ó gente da minha terra | last aired Nov 25 | 41x
 The Mamas & The Papas – California Dreamin' (Single Version) | last aired Nov 25 | 15x
 Chico Buarque – Construção | last aired Nov 26 | 50x
 Joni Mitchell – A Case of You | last aired Nov 26 | 50x
+Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 26 | 254x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
