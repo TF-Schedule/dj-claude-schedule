@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 10:45pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:00pm PT.
 
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
 Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
@@ -17,7 +17,6 @@ Dorian Electra – Hella Good | last aired Nov 22 | 8x
 Tina Turner – Private Dancer (Single Edit) | last aired Nov 22 | 2x
 Perrie – Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired Nov 22 | 6x
 Taeko Onuki – 4:00 A.M. | last aired Nov 22 | 26x
-Kate Bush – Under The Ivy | last aired Nov 23 | 33x
 Human League – Don't You Want Me | last aired Nov 23 | 26x
 Victor Leksell – Skriker mitt namn | last aired Nov 23 | 12x
 P!nk – So What | last aired Nov 23 | 9x
@@ -100,5 +99,6 @@ Percy Faith & His Orchestra – Theme from "A Summer Place" | last aired Nov 27 
 Perpetuum Jazzile – Africa | last aired Nov 27 | 31x
 Still Woozy – Get Down | last aired Nov 27 | 9x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 27 | 18x
+Greg Shilling – Shampoo | last aired Nov 27 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
