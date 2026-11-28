@@ -1,4 +1,4 @@
-Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 9:45am PT.
+Alternative / Indie – 252 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 28, 10:00am PT.
 
 Airiel – Bloom | last aired Sep 15 | 2x
 YASSiN & Sean Terrio – All Summer | last aired Oct 15 | 4x
@@ -33,7 +33,6 @@ Nirvana – Smells Like Teen Spirit | last aired Nov 17 | 32x
 Soundgarden – Holy Water (Album Version) | last aired Nov 17 | 13x
 Gorillaz – Souk Eye | last aired Nov 17 | 17x
 Blur – Song 2 | last aired Nov 17 | 19x
-Red Hot Chili Peppers – Californication | last aired Nov 17 | 23x
 David Bowie – Dollar Days | last aired Nov 17 | 21x
 The Cure – Plainsong (Remastered) | last aired Nov 17 | 25x
 Gorillaz – Rock the House | last aired Nov 17 | 10x
@@ -69,7 +68,6 @@ Fugazi – Waiting Room | last aired Nov 20 | 14x
 Fall Out Boy – Uma Thurman | last aired Nov 20 | 16x
 Björk – Pagan Poetry | last aired Nov 20 | 17x
 Turnstile – BLACKOUT | last aired Nov 20 | 9x
-The Replacements – Left of the Dial (Ed Stasium Mix) | last aired Nov 20 | 26x
 Silverchair – Anthem for the Year 2000 (Album Version) | last aired Nov 21 | 23x
 R.E.M. – Endgame | last aired Nov 21 | 15x
 Alice In Chains – Man in the Box | last aired Nov 21 | 12x
@@ -100,5 +98,7 @@ ABBA – I Wonder (Departure) | last aired Nov 22 | 17x
 Avril Lavigne – Sk8er Boi | last aired Nov 22 | 15x
 Visage – Fade To Grey | last aired Nov 22 | 25x
 Arctic Monkeys – No. 1 Party Anthem | last aired Nov 22 | 24x
+Siouxsie & The Banshees – Spellbound | last aired Nov 22 | 6x
+TV Girl – Lovers Rock | last aired Nov 22 | 4x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-2.txt
