@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 8:45pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:00pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -47,7 +47,6 @@ Coleman Hawkins & His Orchestra – Body and Soul | last aired Nov 22 | 39x
 THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) – Memories of Tomorrow (The Koln Concert - Part IIc) | last aired Nov 22 | 16x
 Blossom Dearie – It Amazes Me | last aired Nov 22 | 27x
 Glenn Miller & His Orchestra – (I've Got A Gal In) Kalamazoo | last aired Nov 22 | 24x
-Sun Ra Arkestra – It's After The End Of The World | last aired Nov 22 | 26x
 Melody Gardot – Perhaps You'll Wonder Why (The Paris Sessions) | last aired Nov 22 | 10x
 Steely Dan – Jack of Speed (Album Version) | last aired Nov 22 | 12x
 Miles Davis – Blue in Green | last aired Nov 22 | 110x
@@ -100,5 +99,6 @@ Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 26 | 39
 Laufey – Madwoman | last aired Nov 26 | 50x
 GoGo Penguin – Raven | last aired Nov 26 | 88x
 Shakatak – Night Birds | last aired Nov 26 | 29x
+Petra Haden – Moon River | last aired Nov 26 | 19x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
