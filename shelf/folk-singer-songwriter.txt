@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 9:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -60,7 +60,6 @@ Nick Drake – Northern Sky | last aired Nov 23 | 139x
 Stealers Wheel – Stuck In The Middle With You | last aired Nov 23 | 26x
 John Lennon – Imagine (Remastered 2010) | last aired Nov 23 | 128x
 Patti Smith – Wing | last aired Nov 23 | 3x
-Iron & Wine – Such Great Heights | last aired Nov 23 | 16x
 Gigi Perez – Sailor Song | last aired Nov 23 | 240x
 Elliott Smith – Angeles | last aired Nov 23 | 32x
 Leonard Cohen – Famous Blue Raincoat | last aired Nov 23 | 47x
@@ -100,5 +99,6 @@ Chico Buarque – Construção | last aired Nov 26 | 50x
 Joni Mitchell – A Case of You | last aired Nov 26 | 50x
 Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 26 | 254x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 26 | 12x
+Lord Huron – Life Is Strange | last aired Nov 26 | 56x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
