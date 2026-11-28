@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 12:45am PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 1:00am PT.
 
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
 Gary Jules – Mad World | last aired Nov 21 | 36x
@@ -63,7 +63,6 @@ Train – Drops of Jupiter (Tell Me) | last aired Nov 24 | 17x
 The Smile – The Smoke | last aired Nov 24 | 10x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 24 | 14x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 24 | 110x
-John Mayer – New Light | last aired Nov 24 | 193x
 Sheryl Crow – All I Wanna Do | last aired Nov 24 | 25x
 Shakespears Sister – Stay | last aired Nov 24 | 8x
 Serú Girán – Viernes, 3AM (2019 Remasterizado) | last aired Nov 24 | 27x
@@ -100,5 +99,6 @@ The Beatles – Rain (Remastered) | last aired Nov 25 | 23x
 Neil Diamond – Sweet Caroline | last aired Nov 25 | 14x
 Mark Hollis – The Colour Of Spring | last aired Nov 25 | 33x
 Måneskin – Torna a casa | last aired Nov 25 | 25x
+Zoé – Labios Rotos (Live 8.11.14) | last aired Nov 26 | 21x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
