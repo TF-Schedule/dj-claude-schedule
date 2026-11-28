@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:30pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:45pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -8,7 +8,6 @@ Mree – Into the Well | last aired Oct 25 | 5x
 Joel Pott – Chances | last aired Oct 26 | 7x
 Sukhwinder Singh – Chaiyya Chaiyya | last aired Nov 1 | 20x
 Prince – Moonbeam Levels (2019 Remaster) | last aired Nov 12 | 27x
-Billie Eilish – when the party's over | last aired Nov 14 | 18x
 The Tallest Man On Earth – The Gardener | last aired Nov 14 | 3x
 Pete Seeger – Which Side are You On? | last aired Nov 15 | 16x
 The Civil Wars – The One That Got Away | last aired Nov 17 | 9x
@@ -74,7 +73,6 @@ The Weepies – Gotta Have You | last aired Nov 24 | 41x
 Phoebe Bridgers – Smoke Signals | last aired Nov 24 | 62x
 Phoebe Bridgers – Moon Song | last aired Nov 24 | 84x
 Sarah McLachlan – Building a Mystery | last aired Nov 25 | 21x
-Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 25 | 36x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 25 | 31x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 25 | 14x
@@ -100,5 +98,7 @@ Eva Cassidy – At Last (Acoustic) | last aired Nov 26 | 12x
 Lord Huron – Life Is Strange | last aired Nov 26 | 56x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 26 | 21x
 Sarah McLachlan – Fallen (Album Mix) | last aired Nov 26 | 18x
+Savath & Savalas – Te Quiero Pero Por Otro Lado. | last aired Nov 26 | 30x
+Jack Johnson – Better Together | last aired Nov 26 | 154x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
