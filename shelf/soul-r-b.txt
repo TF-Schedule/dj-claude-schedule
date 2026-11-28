@@ -1,4 +1,4 @@
-Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:00pm PT.
+Soul / R&B – 183 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:15pm PT.
 
 Erykah Badu – Tyrone (Live Version) | last aired Aug 19 | 4x
 Maxwell – Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired Sep 5 | 42x
@@ -60,7 +60,6 @@ Durand Jones & The Indications – Witchoo | last aired Nov 21 | 56x
 Whitney Houston – I Have Nothing | last aired Nov 21 | 18x
 Duran Duran – Notorious (2010 Remaster) | last aired Nov 21 | 9x
 The Ink Spots – Maybe | last aired Nov 21 | 39x
-Kali Uchis – For: You | last aired Nov 21 | 32x
 Tame Impala – Is It True | last aired Nov 21 | 21x
 The Weeknd – Starboy | last aired Nov 21 | 231x
 Roberta Flack – Killing Me Softly With His Song | last aired Nov 21 | 37x
@@ -100,5 +99,6 @@ Diana Ross – I'm Coming Out | last aired Nov 24 | 62x
 Erykah Badu – Window Seat | last aired Nov 24 | 85x
 Amy Winehouse – Rehab | last aired Nov 24 | 62x
 Lawrence – 23 | last aired Nov 24 | 23x
+The Weeknd – Call Out My Name | last aired Nov 24 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/soul-r-b-2.txt

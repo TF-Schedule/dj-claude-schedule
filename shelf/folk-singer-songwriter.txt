@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:00pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:15pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -20,7 +20,6 @@ Colbie Caillat – Try | last aired Nov 18 | 12x
 Duncan Laurence – Arcade (feat. FLETCHER) | last aired Nov 18 | 15x
 Conchita Wurst – Rise Like a Phoenix | last aired Nov 18 | 19x
 Side-A – Only You (There Will Never Be Another) | last aired Nov 18 | 12x
-Pete Seeger – Solidarity Forever | last aired Nov 18 | 89x
 Leonard Cohen – Treaty | last aired Nov 18 | 12x
 Pornophonique – Sad Robot | last aired Nov 19 | 18x
 Barbara Pravi – Voilà | last aired Nov 19 | 28x
@@ -100,5 +99,6 @@ Tracy Chapman – Fast Car (2015 Remaster) | last aired Nov 26 | 254x
 Eva Cassidy – At Last (Acoustic) | last aired Nov 26 | 12x
 Lord Huron – Life Is Strange | last aired Nov 26 | 56x
 William Fitzsimmons – I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired Nov 26 | 21x
+Sarah McLachlan – Fallen (Album Mix) | last aired Nov 26 | 18x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt

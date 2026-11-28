@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:00pm PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 10:15pm PT.
 
 Nattalia Sarria – Last Summer Whisper (From "Anri") | last aired Aug 2 | 3x
 P!nk – Raise Your Glass | last aired Sep 12 | 1x
@@ -88,7 +88,6 @@ Tears For Fears – Mad World | last aired Nov 21 | 33x
 TV Girl – Hate Yourself | last aired Nov 21 | 10x
 Olivia Rodrigo – the cure | last aired Nov 21 | 3x
 Takako Mamiya – LOVE TRIP | last aired Nov 21 | 19x
-Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 21 | 18x
 Percy Faith & His Orchestra – Black Magic Woman | last aired Nov 21 | 31x
 ABBA – Don't Shut Me Down | last aired Nov 21 | 15x
 Gus Dapperton – Ditch | last aired Nov 22 | 24x
@@ -100,5 +99,6 @@ ROSALÍA – MALAMENTE (Cap.1: Augurio) | last aired Nov 22 | 23x
 The Hollyridge Strings – Yesterday | last aired Nov 22 | 18x
 Neuro-sama – Colorful Array | last aired Nov 22 | 7x
 Djo – End of Beginning | last aired Nov 22 | 19x
+DEEN – Ride On Time | last aired Nov 22 | 10x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-2.txt
