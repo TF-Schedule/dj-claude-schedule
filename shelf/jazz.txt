@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:15pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:30pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -78,7 +78,6 @@ Fiona Apple – Slow Like Honey | last aired Nov 24 | 29x
 Glenn Miller & His Orchestra – In the Mood | last aired Nov 24 | 2x
 Horace Silver Quintet – Peace | last aired Nov 24 | 32x
 John Coltrane – My Favorite Things | last aired Nov 24 | 57x
-Floating Points – LesAlpx | last aired Nov 24 | 50x
 Grethe & Jørgen Ingmann – Dansevise | last aired Nov 24 | 18x
 Yussef Kamaal – Strings of Light | last aired Nov 25 | 111x
 Nat King Cole – (I Love You) For Sentimental Reasons | last aired Nov 25 | 47x
@@ -100,5 +99,6 @@ Bert Kaempfert – A Swingin' Safari | last aired Nov 25 | 14x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 25 | 31x
 Chet Baker – My Funny Valentine | last aired Nov 26 | 119x
 Charles Mingus – Goodbye Pork Pie Hat (Album Version) | last aired Nov 26 | 39x
+Laufey – Madwoman | last aired Nov 26 | 50x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt

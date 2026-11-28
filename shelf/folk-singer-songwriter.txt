@@ -1,4 +1,4 @@
-Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:15pm PT.
+Folk / Singer-Songwriter – 172 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 6:30pm PT.
 
 U2 – One (Remastered 2011) | last aired Sep 19 | 1x
 Scott Carlin – Fragile | last aired Oct 15 | 2x
@@ -84,7 +84,6 @@ Sarah McLachlan – Building a Mystery | last aired Nov 25 | 21x
 Gregory Alan Isakov – Big Black Car | last aired Nov 25 | 13x
 Billy Joel – Honesty (Album Version) | last aired Nov 25 | 19x
 Led Zeppelin – Over the Hills and Far Away (Remaster) | last aired Nov 25 | 36x
-Fleet Foxes – Mykonos | last aired Nov 25 | 123x
 Grand Corps Malade – Mais je t'aime | last aired Nov 25 | 13x
 Tracy Chapman – Fast Car (LP Version) | last aired Nov 25 | 31x
 Tori Amos – A Sorta Fairytale (2023 Remaster) | last aired Nov 25 | 14x
@@ -100,5 +99,6 @@ Benjamin Francis Leftwich – Ticket To Ride | last aired Nov 25 | 45x
 Ben&Ben – Leaves | last aired Nov 25 | 55x
 Ben&Ben – Maybe The Night | last aired Nov 25 | 36x
 Cat Power – The Greatest | last aired Nov 25 | 11x
+Matt Nathanson – All We Are | last aired Nov 25 | 15x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/folk-singer-songwriter-2.txt
