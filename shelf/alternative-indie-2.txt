@@ -1,4 +1,4 @@
-Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 11:45pm PT.
+Alternative / Indie – 251 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 12:00am PT.
 
 Arctic Monkeys – 505 | last aired Nov 22 | 41x
 The Police – Roxanne (Remastered 2003) | last aired Nov 22 | 5x
@@ -70,7 +70,6 @@ Sophie Hunger – Shape | last aired Nov 25 | 21x
 New Found Glory – My Friends Over You | last aired Nov 25 | 9x
 Martha And The Muffins – Echo Beach | last aired Nov 25 | 18x
 Maria McKee – Absolutely Barking Stars | last aired Nov 25 | 20x
-Brijean – Counting Sheep | last aired Nov 25 | 34x
 Annenmaykantereit – Oft gefragt | last aired Nov 26 | 23x
 Child Seat – Hyperphantasia | last aired Nov 26 | 9x
 Jerry Cantrell – Rooster (2022 Remaster) | last aired Nov 26 | 13x
@@ -100,5 +99,6 @@ Benny Sings – Rolled Up | last aired Nov 26 | 24x
 Child Seat – Heart To Heart | last aired Nov 26 | 15x
 Beck – Devils Haircut | last aired Nov 26 | 29x
 Hard Life – daydreams | last aired Nov 26 | 25x
+Hayley Williams – Simmer (Acoustic) | last aired Nov 26 | 8x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/alternative-indie-3.txt
