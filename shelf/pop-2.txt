@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:45am PT.
+Pop – 200 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:50am PT.
 
 Rick Springfield – Jessie's Girl | last aired Nov 22 | 7x
 Wolfsheim – Künstliche Welten | last aired Nov 22 | 9x
@@ -32,7 +32,6 @@ David Bowie – Wild Is the Wind (2016 Remaster) | last aired Nov 24 | 13x
 Sabrina Carpenter – Espresso | last aired Nov 25 | 121x
 toe – Goodbye (Live) | last aired Nov 25 | 25x
 Hollie Col – The Gambler | last aired Nov 25 | 3x
-Loreena McKennitt – The Holly and the Ivy (Live) | last aired Nov 25 | 3x
 Moes Haven – Shut Up Your Monkey | last aired Nov 25 | 9x
 Franko Mladen – Jamboree (Remastered) | last aired Nov 25 | 11x
 Depeche Mode – Precious | last aired Nov 25 | 12x
@@ -100,5 +99,5 @@ Soft Cell – Tainted Love | last aired Nov 28 | 27x
 Tears For Fears – Mad World | last aired Nov 28 | 33x
 Depeche Mode – Policy of Truth | last aired Nov 28 | 16x
 The Carpenters – (They Long To Be) Close To You | last aired Nov 28 | 28x
+The Chills – Pink Frost | last aired Nov 28 | 12x
 
-Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
