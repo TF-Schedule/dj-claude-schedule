@@ -1,4 +1,4 @@
-Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:30am PT.
+Electronic – 221 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:45am PT.
 
 M83 – Wait | last aired Nov 24 | 18x
 Four Tet – Two Thousand and Seventeen | last aired Nov 24 | 100x
@@ -46,8 +46,6 @@ Brian Eno – Capsule | last aired Nov 25 | 25x
 Harold Budd – A Stream With Bright Fish (2005 Digital Remaster) | last aired Nov 25 | 104x
 Stars of the Lid – Requiem for Dying Mothers, Pt. 1 | last aired Nov 25 | 189x
 Harold Budd – Lost In The Humming Air (2005 Digital Remaster) | last aired Nov 25 | 106x
-Chris Isaak – Wicked Game (Remastered Album Version) | last aired Nov 26 | 10x
-Christian Löffler – Lid | last aired Nov 26 | 43x
 Lamb – Gorecki | last aired Nov 26 | 35x
 Loscil – Estuarine | last aired Nov 26 | 156x
 Sampha – (No One Knows Me) Like the Piano | last aired Nov 26 | 70x
@@ -100,5 +98,7 @@ Jamie xx – Gosh | last aired Nov 27 | 56x
 Jazzy – No Bad Vibes | last aired Nov 27 | 12x
 Lemon Jelly – Ramblin' Man | last aired Nov 27 | 48x
 Marconi Union – Weightless | last aired Nov 27 | 103x
+Boards of Canada – Roygbiv | last aired Nov 27 | 45x
+Daft Punk – Something About Us | last aired Nov 27 | 64x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/electronic-3.txt

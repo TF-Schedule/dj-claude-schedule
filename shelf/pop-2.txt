@@ -1,4 +1,4 @@
-Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:30am PT.
+Pop – 202 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 8:45am PT.
 
 Rick Springfield – Jessie's Girl | last aired Nov 22 | 7x
 Wolfsheim – Künstliche Welten | last aired Nov 22 | 9x
@@ -42,7 +42,6 @@ Nek – Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired Nov 25 
 Mac DeMarco – Chamber Of Reflection | last aired Nov 25 | 76x
 Mazzy Star – Fade Into You | last aired Nov 25 | 104x
 Leon Larregui – Brillas | last aired Nov 26 | 12x
-The Chills – Pink Frost | last aired Nov 26 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 26 | 54x
 The Chordettes – Mr. Sandman | last aired Nov 26 | 13x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 26 | 8x
@@ -100,5 +99,6 @@ Orchestral Manoeuvres in the dark (OMD) – If You Leave (From "Pretty In Pink" 
 Soft Cell – Tainted Love | last aired Nov 28 | 27x
 Tears For Fears – Mad World | last aired Nov 28 | 33x
 Depeche Mode – Policy of Truth | last aired Nov 28 | 16x
+The Carpenters – (They Long To Be) Close To You | last aired Nov 28 | 28x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
