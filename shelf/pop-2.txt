@@ -1,4 +1,4 @@
-Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 2:00am PT.
+Pop – 201 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 28, 2:15am PT.
 
 Ed Sheeran – Azizam | last aired Nov 22 | 8x
 Nusantara Beat – Sifat Manusia | last aired Nov 22 | 8x
@@ -51,7 +51,6 @@ Leon Larregui – Brillas | last aired Nov 26 | 12x
 The Chills – Pink Frost | last aired Nov 26 | 12x
 Chappell Roan – Pink Pony Club | last aired Nov 26 | 54x
 The Chordettes – Mr. Sandman | last aired Nov 26 | 13x
-Alexander Rybak – Fairytale | last aired Nov 26 | 19x
 The Ray Charles Singers – Sweet Little Mountain Bird | last aired Nov 26 | 8x
 Jan Hammer – Crockett's Theme | last aired Nov 26 | 32x
 Mac DeMarco – My Kind of Woman | last aired Nov 26 | 34x
@@ -100,5 +99,6 @@ Still Woozy – Get Down | last aired Nov 27 | 10x
 Irene Cara – Flashdance...What a Feeling (Radio Edit) | last aired Nov 27 | 19x
 Greg Shilling – Shampoo | last aired Nov 27 | 10x
 Kate Bush – Under The Ivy | last aired Nov 27 | 34x
+Bryan Ferry – Reason or Rhyme | last aired Nov 27 | 9x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/pop-3.txt
