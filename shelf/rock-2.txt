@@ -1,4 +1,4 @@
-Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 7:45pm PT.
+Rock – 265 titles in your library. Longest unplayed first (titles 101-200). Updated Nov 27, 8:00pm PT.
 
 Extrabreit – Für mich soll's rote Rosen regnen (Live) | last aired Nov 21 | 2x
 Blue Murder – Still Of The Night (Live In Tokyo, Japan / 1993) | last aired Nov 21 | 2x
@@ -65,7 +65,6 @@ Dire Straits – Sultans of Swing | last aired Nov 24 | 88x
 Explosions In The Sky – Your Hand in Mine | last aired Nov 24 | 25x
 Train – Drops of Jupiter (Tell Me) | last aired Nov 24 | 17x
 The Smile – The Smoke | last aired Nov 24 | 10x
-Peter Gabriel – Sky Blue | last aired Nov 24 | 39x
 Eagles – I Can't Tell You Why (2013 Remaster) | last aired Nov 24 | 14x
 U2 – Where The Streets Have No Name (Remastered 2007) | last aired Nov 24 | 110x
 John Mayer – New Light | last aired Nov 24 | 193x
@@ -100,5 +99,6 @@ Juli – Perfekte Welle | last aired Nov 25 | 15x
 Def Leppard – Photograph | last aired Nov 25 | 19x
 Electric Light Orchestra – Evil Woman | last aired Nov 25 | 28x
 Benny Sings – Sailing | last aired Nov 25 | 29x
+The Beach Boys – Good Vibrations (Stereo/Remastered 2012) | last aired Nov 25 | 35x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/rock-3.txt
