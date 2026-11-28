@@ -1,4 +1,4 @@
-Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:00pm PT.
+Jazz – 138 titles in your library. Longest unplayed first (titles 1-100). Updated Nov 27, 4:15pm PT.
 
 Kenny G – At Last | last aired Aug 27 | 1x
 Kenny G – Songbird | last aired Oct 11 | 147x
@@ -22,7 +22,6 @@ Bonobo – Kong | last aired Nov 16 | 85x
 Melody Gardot – Over The Rainbow (Live) | last aired Nov 16 | 16x
 Melody Gardot – If You Love Me | last aired Nov 16 | 8x
 Miles Davis – So What | last aired Nov 16 | 28x
-Bonobo – Terrapin | last aired Nov 17 | 142x
 Milt Jackson – Bag's New Groove | last aired Nov 17 | 21x
 Miles Davis – Flamenco Sketches | last aired Nov 18 | 18x
 Bart&Baker – The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired Nov 19 | 4x
@@ -100,5 +99,6 @@ Ben Allison – D.A.V.E. | last aired Nov 25 | 26x
 Bernard Purdie – Cool Down | last aired Nov 25 | 26x
 Bert Kaempfert – A Swingin' Safari | last aired Nov 25 | 14x
 Mahavishnu Orchestra – I Wonder (Album Version) | last aired Nov 25 | 31x
+Chet Baker – My Funny Valentine | last aired Nov 26 | 119x
 
 Next part: https://tf-schedule.github.io/dj-claude-schedule/shelf/jazz-2.txt
